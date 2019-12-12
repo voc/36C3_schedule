@@ -1,0 +1,32 @@
+{
+  "id": 361,
+  "guid": "61ab92a1-92e5-56ff-9fa8-bb1156c73988",
+  "logo": "",
+  "date": "2019-12-27T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "00:45",
+  "room": "OIO Stage",
+  "slug": "XHLTUD",
+  "url": "https://talks.oio.social/36c3-oio/talk/XHLTUD/",
+  "title": "re:claimID - Self-sovereign, Decentralised Identity Management and Personal Data Sharing [YBTI/wefixthenet session]",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk 45 minutes + 10 minutes Q&A",
+  "language": "en",
+  "abstract": "In this talk we present re:claimID, a decentralized, self-sovereign identity\r\nmanagement system. re:claimID allows users to reclaim authority over their\r\nidentities and personal data. The system is built on top if a\r\nstate-of-the-art, decentralized directory service: The GNU Name System.\r\nBuilt-in cryptographic mechanisms allow users to selectively disclose\r\npersonal data and the directory service ensures that this data is accessible\r\nto authorized parties even if the user is offline. Through OpenID Connect,\r\nintegration and use of re:claimID is straight-forward and authorization\r\nflows are familiar. In this talk, we present the current state of re:claimID\r\nas well as a future roadmap.",
+  "description": "Today, users are often required to share personal data, like email\r\naddresses, to use services on the web. As part of normal service operation,\r\nsuch as notifications or billing, services require access to -- ideally\r\nfresh and correct -- user data. Sharing attributes in the Web today is often\r\ndone via centralized service providers to reduce data redundancy and to give\r\nservices access to current, up-to-date information even if the user is\r\ncurrently offline. Abuse of this power is theoretically limited by local\r\nlaws and regulations. But, the past has shown that even well-meaning\r\nidentity providers struggle to keep user data safe as they become major\r\ntargets for hackers and nation state actors while striving for monetizing\r\nanonymized statistics from these data. We advocate for a new, decentralized\r\nway for users to manage their identities for the following reasons:\r\n\r\n*       The current state of omniscient identity providers is a significant\r\nthreat to the users' privacy.\r\n\r\n*       Users must completely trust the service provider with respect to\r\nprotecting the integrity and confidentiality of their identity in their\r\ninterest.\r\n\r\n*       The service provider itself is facing substantial liability risks\r\ngiven the responsibility of securely managing potentially sensitive personal\r\ndata of millions of users.\r\n\r\n \r\n\r\nWe present re:claimID, a decentralized identity service with the following\r\nproperties:\r\n\r\n*       Self-sovereign: You manage your identities and attributes locally on\r\nyour computer. No need to trust a third party service with your data.\r\n\r\n*       Decentralized: You can share your identity attributes securely over\r\na decentralized name system. This allows your friends to access your shared\r\ndata without the need of a trusted third party. \r\n\r\n*       Standard-compliant: You can use OpenID Connect to integrate reclaim\r\nin your web sites.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 128,
+      "code": "MCE83P",
+      "public_name": "dvn",
+      "biography": "p2p communications and privacy researcher and developer\r\n\r\nCurrently organizing a \"youbroketheinternet/wefixthenet\" session at 36c3, representing GNUnet.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

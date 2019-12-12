@@ -1,0 +1,32 @@
+{
+  "id": 173,
+  "guid": "eba30f37-4ed3-5e32-8654-b9840bc81228",
+  "logo": "",
+  "date": "2019-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:50",
+  "room": "Chaos-West B\u00fchne",
+  "slug": "YDBKTM",
+  "url": "https://fahrplan.chaos-west.de/36c3/talk/YDBKTM/",
+  "title": "Bahn API Chaos",
+  "subtitle": "",
+  "track": "The real basic about Bits and Nibbles",
+  "type": "Doppelter Slot",
+  "language": "de",
+  "abstract": null,
+  "description": "Bahn API Chaos  \r\nWir schauen uns mal wieder Bahn APIs an.  \r\nDiesmal mehr Wagenreihungs Fakten und interessante unregelm\u00e4\u00dfigkeiten in den verschiedenen APIs.\r\nWarum zum Beispiel gibt es bei marudor.de ein \"isActuallyIC\" wenn doch eigentlich die Zuggattung mitkommt.  \r\nWarum gibt es \"realFahrtrichtung\" wenn es auch eine \"fahrtrichtung\" property gibt.\r\n\r\nUnregelm\u00e4\u00dfigkeiten in den Bahn APIs zwangen mich erfinderisch zu sein.  \r\nGleichzeitig ist es teils Abenteuerlich wie ich die unregelm\u00e4\u00dfigkeiten fand - die sind oft gar nicht so ersichtlich.  \r\n\r\nAuch versuchen wir zu er\u00f6rtern warum die Sachen so sind, ist es ein technisches Problem? Ist es ein Datenproblem? Was k\u00f6nnte ein Ausl\u00f6ser sein? Wer ist daf\u00fcr verantwortlich?\r\n\r\nGrundlage f\u00fcr alles ist marudor.de und die Entwicklung daran. Das bedeutet f\u00fcr mich mindestens 3 Jahre Erfahrung in Bahn APIs reverse engineeren und deuten wie gut die Qualit\u00e4t einzelner APIs ist. Dabei wurde nicht nur die Deutsche Bahn sondern auch verschiedene Verkehrsverb\u00fcnde und Ausl\u00e4ndische Bahnen angeschaut.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 118,
+      "code": "8WLJWF",
+      "public_name": "marudor",
+      "biography": "Schaut sich seit Jahren APIs von EVUs an und fand schon so einige lustige Dinge.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

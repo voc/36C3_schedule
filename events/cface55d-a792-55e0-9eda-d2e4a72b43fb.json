@@ -1,0 +1,32 @@
+{
+  "id": 366,
+  "guid": "cface55d-a792-55e0-9eda-d2e4a72b43fb",
+  "logo": "",
+  "date": "2019-12-28T16:10:00+01:00",
+  "start": "16:10",
+  "duration": "00:25",
+  "room": "OIO Stage",
+  "slug": "G3LD3P",
+  "url": "https://talks.oio.social/36c3-oio/talk/G3LD3P/",
+  "title": "FF-ESP32-OpenMPPT - New Freifunk-ISEMS-MPPT-Solar-Controller with integrated WiFi",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk 20 minutes + 5 minutes Q&A",
+  "language": "en",
+  "abstract": "The Independent Solar Mesh System has a new hardware that will bring the power consumption, space and cost requirements of low cost WiFi relay stations down: FF-ESP32-.OpenMPPT",
+  "description": "In order to build the cheapest energy autonomous WiFi relay possible, we have designed an update to the previous Freifunk-Open-MPPT-Solarcontroller. It has now integrated WiFi and Bluetooth, so it doesn't need an external WiFi router anymore, but you can still connect one. Technical data is preliminary at the moment, but power consumption will be between ~0.3 at low load and ~0.6 Watt at maximum load. So a 20 Watt Solar panel and a 12V 7Ah battery will be more than enough to keep the system running and relaying traffic all year.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 57,
+      "code": "HZ9WHF",
+      "public_name": "Elektra Wagenrad",
+      "biography": "FF-Activist since 2003.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

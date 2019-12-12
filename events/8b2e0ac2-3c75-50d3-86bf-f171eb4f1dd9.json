@@ -1,0 +1,32 @@
+{
+  "id": 249,
+  "guid": "8b2e0ac2-3c75-50d3-86bf-f171eb4f1dd9",
+  "logo": "",
+  "date": "2019-12-27T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:20",
+  "room": "Chaos-West B\u00fchne",
+  "slug": "EZU78C",
+  "url": "https://fahrplan.chaos-west.de/36c3/talk/EZU78C/",
+  "title": "Look at ME! - Intel ME Investigation",
+  "subtitle": "",
+  "track": "All about computers",
+  "type": "Einfacher Slot",
+  "language": "en",
+  "abstract": null,
+  "description": "Look at ME! - Intel ME Investigation\r\n\r\nWith Intel's Firmware Support Package (FSP) and the recent release of a\r\n[redistributable firmware binary](https://edk2.groups.io/g/devel/message/50920/eml)\r\nfor the Management Engine, it has become possible to share full firmware images\r\nfor modern x86 platforms and potentially audit the binaries. Yet, reverse\r\nengineering, decompilation and disassembly are still not permitted. However,\r\nthanks to previous research, we can have a closer look at the binary data and\r\ncome to a few conclusions. This talk briefly summarizes the fundamentals of\r\ndeveloping custom and open source firmware, followed by a quick guide through\r\nthe process of analyzing the binaries without actually violating the terms to\r\nunderstand a few bits, and finally poses a statement on the political issues\r\nthat researchers, repair technicians and software developers are facing.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 193,
+      "code": "PECK7V",
+      "public_name": "CyReVolt",
+      "biography": "With backgrounds in IT security and computer science, I work on the web during the day and on open source [firmware/software](https://github.com/orangecms) in my spare time. In addition, I [give talks and trainings](https://metaspora.org), [exchange](https://twitter.com/orangecms) and hang out in hackerspaces.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

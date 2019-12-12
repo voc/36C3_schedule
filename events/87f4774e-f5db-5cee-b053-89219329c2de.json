@@ -1,0 +1,32 @@
+{
+  "id": 234,
+  "guid": "87f4774e-f5db-5cee-b053-89219329c2de",
+  "logo": "/media/36c3/images/YYJGCZ/header.png",
+  "date": "2019-12-28T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:50",
+  "room": "Chaos-West B\u00fchne",
+  "slug": "YYJGCZ",
+  "url": "https://fahrplan.chaos-west.de/36c3/talk/YYJGCZ/",
+  "title": "DC/DC Converters: Everything You Wanted To Know About Them",
+  "subtitle": "",
+  "track": "Nicht Computers",
+  "type": "Doppelter Slot",
+  "language": "en",
+  "abstract": null,
+  "description": "# Non-isolated DC/DC converters\r\n\r\nDC-to-DC converters are cheap and ubiquitous, but many still feel uncomfortable using them. In this talk I will talk about step-down (buck) and step-up (boost) converters, covering the basics in an easy-to-understand form, and touching on the knowledge you need to build your own.\r\n\r\nThis talk will be enjoyable for you if you have basic electronics knowledge: you understand what voltage, resistance, and current mean.\r\n\r\n##Outline\r\n- Theory of operation explained with illustrations\r\n- Synchronous and asynchronous converters: advantages and disadvantages\r\n- How to chose and evaluate cheap DC/DC converter modules you can buy online\r\n- Efficiency and sources of energy loss\r\n- Features you might want: Enable, Current Limiting, Undervoltage Protection\r\n- Control modes: voltage mode, current mode, and hysteretic mode\r\n- Unstable converters, and how to fix them\r\n- Switching noise, and how to deal with it\r\n- What if you need more voltage? Boost converters!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 177,
+      "code": "MCANSZ",
+      "public_name": "Zo\u00e9 B\u0151le",
+      "biography": "I am an electronics engineer and hardware-software tinkerer who likes to share her fascination.\r\n\r\nI worked years as validation engineer in the semiconductor industry, testing DC/DC converters. I'm enthusiastic about open hardware, maker culture and DIY.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

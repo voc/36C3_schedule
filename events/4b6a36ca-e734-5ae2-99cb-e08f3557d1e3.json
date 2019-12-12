@@ -1,0 +1,32 @@
+{
+  "id": 228,
+  "guid": "4b6a36ca-e734-5ae2-99cb-e08f3557d1e3",
+  "logo": "",
+  "date": "2019-12-28T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "00:50",
+  "room": "Chaos-West B\u00fchne",
+  "slug": "HBQRZE",
+  "url": "https://fahrplan.chaos-west.de/36c3/talk/HBQRZE/",
+  "title": "Encrypted DNS? D'oh! - The Good, Bad and Ugly of DNS-over-HTTPS (DoH)",
+  "subtitle": "",
+  "track": "All about computers",
+  "type": "Doppelter Slot",
+  "language": "en",
+  "abstract": null,
+  "description": "Old school DNS is unencrypted and thus prone to MITM-Attacks or DNS-Hijacking. DNS-over-HTTPS (DoH) is trying to solve this finally by encrypting DNS-requests between the client and the resolver. \r\n\r\nThere have been previous (failed) attempts of encrypting DNS, but DoH seems to be the most promising so far, because browser makers such as Mozilla and Google are pushing the adoption and plan to roll this technology out to all Firefox and Chrome users. Microsoft ist planning to support DoH in natively in Windows 10.\r\n\r\nBut there are a lot of people that are pretty angry and vocal about that move. This includes ISPs and Ad-Companies all over the world. \r\n\r\nThis talk will give an overview how DoH came to be, what problems it is trying to solve and what obstacles are hindering the adoption. You'll learn about DNS, encryption, the work on _proposed_ internet standards, how fake news work and why your ISP is tracking you and provides you with falsified information. And you'll learn how to use encrypted DNS.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 174,
+      "code": "7ESPXV",
+      "public_name": "Sebastian",
+      "biography": "I'm Sebastian Gr\u00fcner and work as an editor at the German online IT magazine Golem.de. I cover everything Free and Open, Web, Internet and protocols. \r\n\r\n[My work](https://www.golem.de/specials/autor-sebastian-gruener/)\r\n\r\n[Twitter](https://twitter.com/grnr_s)",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

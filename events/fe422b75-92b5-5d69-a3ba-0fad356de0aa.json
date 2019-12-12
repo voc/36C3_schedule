@@ -1,0 +1,32 @@
+{
+  "id": 187,
+  "guid": "fe422b75-92b5-5d69-a3ba-0fad356de0aa",
+  "logo": "",
+  "date": "2019-12-29T16:30:00+01:00",
+  "start": "16:30",
+  "duration": "00:20",
+  "room": "Chaos-West B\u00fchne",
+  "slug": "WYZGGQ",
+  "url": "https://fahrplan.chaos-west.de/36c3/talk/WYZGGQ/",
+  "title": "X11 and Wayland: A tale of two implementations",
+  "subtitle": "",
+  "track": "All about computers",
+  "type": "Einfacher Slot",
+  "language": "en",
+  "abstract": null,
+  "description": "In this talk I will outline my journey implementing my X11 window manager `hikari` and the corresponding Wayland compositor shortly after. `hikari` is a stacking window manager/compositor with some tiling capabilities. It is still more or less work in progress and currently targets FreeBSD only but will be ported to Linux and other operating systems supporting Wayland once it has reached some degree of stability and feature completeness.\r\n\r\n     \r\nThis talk covers:     \r\n     \r\n* a brief explanation regarding differences between X and Wayland     \r\n* some of `hikari`'s design goals and motivation     \r\n* choice of programming language     \r\n* an overview of libraries that were used     \r\n* tools for ensuring code quality and robustness     \r\n* obstacles     \r\n* resources that helped me to implement the whole thing",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 131,
+      "code": "QJCAQX",
+      "public_name": "raichoo",
+      "biography": "I mainly do Haskell and FreeBSD, I contribute to Open Source projects I use. You might know me from movies like\u2026",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

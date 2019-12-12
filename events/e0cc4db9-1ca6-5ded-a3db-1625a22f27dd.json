@@ -1,0 +1,32 @@
+{
+  "id": 343,
+  "guid": "e0cc4db9-1ca6-5ded-a3db-1625a22f27dd",
+  "logo": "/media/36c3-oio/images/C33LPX/qaul-sing-blau_512_X3u9MVw.png",
+  "date": "2019-12-27T17:50:00+01:00",
+  "start": "17:50",
+  "duration": "00:25",
+  "room": "OIO Stage",
+  "slug": "C33LPX",
+  "url": "https://talks.oio.social/36c3-oio/talk/C33LPX/",
+  "title": "Refactoring qaul.net in Rust (Internet independent mesh communication App)",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk 20 minutes + 5 minutes Q&A",
+  "language": "en",
+  "abstract": "Concepts, goals, implementations and the lessons learned from rewriting qaul.net decentralized messenger in rust.",
+  "description": "qaul.net is a Internet independent wifi mesh communication app with fully decentralized messaging, file sharing and voice chat. At the moment we are rewriting the entire application in rust, implementing our experience of 8 years off the grid peer2peer mesh communication, with a mobile first approach and a network agnostic routing protocoll wich can do synchronous as well as delay tolerant messaging. \r\n\r\nWe are currently rewriting qaul.net 2.0 in rust with a new network agnostic routing protocol, identity based routing and delay tolerant messaging. The talk will show our learnings and the journey ahead of us at the alpha stage of the rewrite.\r\n\r\n* Homepage: https://qaul.net\r\n* Code Repository: https://git.open-communication.net/qaul/qaul.net",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 120,
+      "code": "G78ZPE",
+      "public_name": "Mathias Jud",
+      "biography": "Mathias Jud is a berlin based artist. Since over twenty years, he works together with Christoph Wachter.\r\nTheir art works include open-source projects that uncover forms of censorship of the Internet, undermine the concentration of political power and even resolve the dependency on infrastructure.\r\n\r\nhttps://www.wachter-jud.net/",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

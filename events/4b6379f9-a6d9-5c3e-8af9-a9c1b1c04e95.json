@@ -1,0 +1,39 @@
+{
+  "id": 362,
+  "guid": "4b6379f9-a6d9-5c3e-8af9-a9c1b1c04e95",
+  "logo": "/media/36c3-oio/images/GUZH7V/logo_GGS6DxK.png",
+  "date": "2019-12-28T21:20:00+01:00",
+  "start": "21:20",
+  "duration": "00:55",
+  "room": "OIO Stage",
+  "slug": "GUZH7V",
+  "url": "https://talks.oio.social/36c3-oio/talk/GUZH7V/",
+  "title": "CloudCalypse 2: Social network with net2o [YBTI/wefixthenet session]",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk 45 minutes + 10 minutes Q&A",
+  "language": "en",
+  "abstract": "Building a social network on top of net2o, and importing your existing data",
+  "description": "I've a dream: A peer-to-peer network, where services like search engines or social networks aren't offered by big companies, who in turn need to make money by selling the privacy of their users. Where all data is encrypted, so that access is only possible for people who have the key and really are authorized. Which layman can use without cryptic user interfaces. Where the browser is a platform for running useful applications without the mess of Flash and JavaScript. Without the lag of \u201cbuffer bloat\u201d and without the speed problems of a protocol not designed to be assisted by hardware.\r\n\r\nThis dream is coming to reality: This talk will show how far I got, and what challenges still are ahead. The talk is in three parts:\r\n\r\n1. a short overview over net2o\r\n2. a demonstration of how the social network stuff looks like\r\n3. and an outlook over what needs to be done to make it a polished product",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 128,
+      "code": "MCE83P",
+      "public_name": "dvn",
+      "biography": "p2p communications and privacy researcher and developer\r\n\r\nCurrently organizing a \"youbroketheinternet/wefixthenet\" session at 36c3, representing GNUnet.",
+      "answers": []
+    },
+    {
+      "id": 132,
+      "code": "SP93BA",
+      "public_name": "Bernd Paysan",
+      "biography": "I'm the GNU Forth maintainer and the principal developer of net2o, a complete alternative network stack that runs as overlay on UDP.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

@@ -1,0 +1,753 @@
+<schedule>
+  <version>2019-12-12 23:54</version>
+  <conference>
+    <acronym>36C3</acronym>
+    <title>36. Chaos Communication Congress - Wiki</title>
+    <start>2019-12-26</start>
+    <end>2019-12-30</end>
+    <days>5</days>
+    <timeslot_duration>00:15</timeslot_duration>
+  </conference>
+  <day index="1" date="2019-12-26" start="2019-12-26T06:00:00+01:00" end="2019-12-27T04:00:00+01:00">
+    <room name="Lecture room 11"/>
+    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 13"/>
+    <room name="Lecture room M1"/>
+    <room name="Lecture room M2"/>
+    <room name="Lecture room M3"/>
+    <room name="Kidspace"/>
+    <room name="CCL Saal 3"/>
+    <room name="Chaos West Bühne"/>
+    <room name="ChaosZone"/>
+    <room name="OIO Stage"/>
+  </day>
+  <day index="2" date="2019-12-27" start="2019-12-27T06:00:00+01:00" end="2019-12-28T04:00:00+01:00">
+    <room name="Lecture room 11">
+      <event id="1003" guid="5d91410d-7e49-4e12-a2fc-16abda0103bc">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting</url>
+        <logo/>
+        <date>2019-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1003-session_a_v_angel_meeting</slug>
+        <title>A/V Angel Meeting</title>
+        <subtitle>Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily Meetup for A/V Angels
+Daily A/V Angel Meeting. More information can be obtained from our news in the angel system</description>
+        <persons/>
+        <links>
+          <link>https://c3voc.de/</link>
+        </links>
+      </event>
+      <event id="1032" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8cd">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:15</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1032-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 1 #1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1035" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8cf">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-27T18:40:00+01:00</date>
+        <start>18:40</start>
+        <duration>1:20</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1035-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 1 #2</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Seminar room 14-15">
+      <event id="1015" guid="624b40c6-1a70-494d-b2fd-d05bb79145b0">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Introduction_for_Soldering_Angels</url>
+        <logo/>
+        <date>2019-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1015-session_introduction_for_soldering_angels</slug>
+        <title>Introduction for Soldering Angels</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction for angels helping at the soldering workshop organized by "Chaos macht Schule"
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Hbr">Hbr</person>
+        </persons>
+        <links>
+          <link>https://junghack.de</link>
+        </links>
+      </event>
+      <event id="1022" guid="3ccb3f64-320f-4d80-bd85-6b58bd3cd1dd">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Sprechtraining_f%C3%BCr_FNTI</url>
+        <logo/>
+        <date>2019-12-27T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1022-session_sprechtraining_fuer_fnti</slug>
+        <title>Sprechtraining für FNTI</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>
+Der Workshop richtet sich an Frauen und Personen, die sich mit dem Label "Frau" konfrontiert sehen. Viele unserer Kommunikationsmuster sabotieren das, was wir eigentlich kommunizieren wollen. In diesem Workshop richten wir einen kurzen Blick auf das, was passiert, wenn wir etwas sagen wollen und was dabei günstig und ungünstig sein könnte. Piko beschäftigt sich beruflich mit Stimme und gibt Sprech- und Stimmtrainings.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Piko">Piko</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Seminar room 13">
+      <event id="1027" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d0">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-27T18:40:00+01:00</date>
+        <start>18:40</start>
+        <duration>1:20</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1027-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 1 #2 2nd language</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1030" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8ce">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:15</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1030-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 1 #1 2nd language</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Lecture room M1"/>
+    <room name="Lecture room M2">
+      <event id="1014" guid="f369950c-3afb-49f8-b825-ac5235fad4d5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Intro_to_CTFs_and_binary_Exploitation</url>
+        <logo/>
+        <date>2019-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1014-session_intro_to_ctfs_and_binary_exploitation</slug>
+        <title>Intro to CTFs and binary Exploitation</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Lecture room M3">
+      <event id="1007" guid="0257ce0d-bffa-48ca-8a89-3f49d143377e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Angelmeeting:_Stage_Support_%26_Stage_Manager</url>
+        <logo/>
+        <date>2019-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>2:30</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1007-session_angelmeeting_stage_support_stage_manager</slug>
+        <title>Angelmeeting: Stage Support &amp; Stage Manager</title>
+        <subtitle>Partial Intro</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction and Refresher for StageSupporter and StageManager
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katzazi">Katzazi</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Kidspace"/>
+    <room name="CCL Saal 3"/>
+    <room name="Chaos West Bühne"/>
+    <room name="ChaosZone"/>
+    <room name="OIO Stage"/>
+  </day>
+  <day index="3" date="2019-12-28" start="2019-12-28T06:00:00+01:00" end="2019-12-29T04:00:00+01:00">
+    <room name="Lecture room 11">
+      <event id="1000" guid="a9513da7-a95c-4eb4-ba32-11485be62787">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting</url>
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1000-session_a_v_angel_meeting</slug>
+        <title>A/V Angel Meeting</title>
+        <subtitle>Day 2</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily Meetup for A/V Angels
+Daily A/V Angel Meeting. More information can be obtained from our news in the angel system</description>
+        <persons/>
+        <links>
+          <link>https://c3voc.de/</link>
+        </links>
+      </event>
+      <event id="1010" guid="36a2fc57-4f42-4315-8d77-cb579a0c7ef3">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksenfr%C3%BChst%C3%BCck</url>
+        <logo/>
+        <date>2019-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1010-session_haecksenfruehstueck</slug>
+        <title>Haecksenfrühstück</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>
+Jedes Jahr treffen wir Haecksen uns zum traditionellen Haecksenfrühstück auf dem Kongress, tauschen uns aus und planen das nächste Jahr. Willkommen sind zum Frühstück Frauen (cis und trans), sowie non-binaries, die sich unter dem Label "Frau" wiederfinden können. Kommt gerne vorbei und bringt am Besten etwas zum Frühstücken mit. The Hacksenbreakfast is the biggest annual meeting of the Haecksen group, a group of female hackers within the CCC. We have a breakfast together and do some planning for the next year. This meeting is only for women (cis and trans) and non-binaries, who can find themselves somehow under the label "female". Please remind us to speak English if you do not understand German. It is a good idea to bring something for the breakfast, but of course this is not mandatory.</description>
+        <persons/>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
+      <event id="1017" guid="9c72bc36-e075-4359-9f3c-77e73e4472b8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Love_is_Destruction,_Love_is_Hope_-_Polyamory</url>
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1017-session_love_is_destruction_love_is_hope_polyamory</slug>
+        <title>Love is Destruction, Love is Hope - Polyamory</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1029" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d1">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:15</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1029-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 2 #1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1034" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d3">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-28T18:40:00+01:00</date>
+        <start>18:40</start>
+        <duration>1:20</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1034-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 2 #2</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Seminar room 14-15">
+      <event id="1021" guid="beea77e4-46c0-4280-a406-79b79ed66d8a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Sexuelle_Bel%C3%A4stigung_am_Arbeitsplatz</url>
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1021-session_sexuelle_belaestigung_am_arbeitsplatz</slug>
+        <title>Sexuelle Belästigung am Arbeitsplatz</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Prävention und Intervention
+</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Seminar room 13">
+      <event id="1023" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d2">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:15</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1023-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Metting Day 2 #1 2nd language</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1026" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d4">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-28T18:40:00+01:00</date>
+        <start>18:40</start>
+        <duration>1:20</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1026-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 2 #2 2nd language</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Lecture room M1">
+      <event id="1005" guid="77483904-f342-461c-827c-cd1c63613b5f">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Accessibility_and_Inclusion</url>
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1005-session_accessibility_and_inclusion</slug>
+        <title>Accessibility and Inclusion</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Hacking everyday communication practices to change the world
+</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Lecture room M2">
+      <event id="1019" guid="9421c49b-4f0d-4275-9f0a-078c513e6c71">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:RegioPR-Treffen</url>
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1019-session_regiopr_treffen</slug>
+        <title>RegioPR-Treffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>RegioPR-Treffen
+The RegioPR-Treffen from the CCC organized by Vollkorn</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Lecture room M3">
+      <event id="1008" guid="bc4f7e6d-7af5-4dec-9810-da8eec85f2b8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:CCChoir</url>
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1008-session_ccchoir</slug>
+        <title>CCChoir</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Heaven can't wait ohne Ablenkung
+Diesmal versuchen wir, das ganze Stück durchzukriegen. Ihr dürft unvorbereitet kommen, selbst wenn Ihr noch nie gesungen habt. Wenn Ihr Euch aber vorbereiten wollt, findet Ihr hier Noten und Übe-Stücke.Garantiert 100% Heaven can't wait! Ohne künstlich chemisch- oder physikalisch erzeugte Zusatzstoffe. Ihr singt. Piko fuchtelt. Und redet nur das nötigste.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Piko">Piko</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1020" guid="dd0016f1-fca6-4e1c-923f-53069aebe53e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Regiotreffen</url>
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1020-session_regiotreffen</slug>
+        <title>Regiotreffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Kidspace"/>
+    <room name="CCL Saal 3"/>
+    <room name="Chaos West Bühne"/>
+    <room name="ChaosZone"/>
+    <room name="OIO Stage"/>
+  </day>
+  <day index="4" date="2019-12-29" start="2019-12-29T06:00:00+01:00" end="2019-12-30T04:00:00+01:00">
+    <room name="Lecture room 11">
+      <event id="1002" guid="a9513da7-a95c-4eb4-ba32-11485be62789">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting</url>
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1002-session_a_v_angel_meeting</slug>
+        <title>A/V Angel Meeting</title>
+        <subtitle>Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily Meetup for A/V Angels
+Daily A/V Angel Meeting. More information can be obtained from our news in the angel system</description>
+        <persons/>
+        <links>
+          <link>https://c3voc.de/</link>
+        </links>
+      </event>
+      <event id="1009" guid="b43660b5-f98a-4ba9-a0bc-63608edbb1ff">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Gnunet</url>
+        <logo/>
+        <date>2019-12-29T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1009-session_gnunet</slug>
+        <title>Gnunet</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language/>
+        <abstract/>
+        <description>The Internet of tomorrow needs GNUnet today
+In this session we will present talks around GNUnet.Incomplete list / TBD:- GNUnet Overview- re:claimID- GNS- ???</description>
+        <persons/>
+        <links>
+          <link>https://gnunet.org</link>
+        </links>
+      </event>
+      <event id="1011" guid="edac6192-3ec5-4810-b16f-2841228ac857">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksenplenum</url>
+        <logo/>
+        <date>2019-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1011-session_haecksenplenum</slug>
+        <title>Haecksenplenum</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Janepie">Janepie</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1033" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d7">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-29T18:40:00+01:00</date>
+        <start>18:40</start>
+        <duration>1:20</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1033-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 3 #2</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 13">
+      <event id="1028" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-29T18:40:00+01:00</date>
+        <start>18:40</start>
+        <duration>1:20</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1028-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 3 #2 2nd language</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Lecture room M1">
+      <event id="1016" guid="5ce4ab77-ca9b-4153-b208-9a975a4b439a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Kernel_Hacking</url>
+        <logo/>
+        <date>2019-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1016-kernel_hacking</slug>
+        <title>Kernel Hacking</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Write a simple kernel driver, debug and trace it remotely with gdb.
+Target boards will be provided, bring your own laptop, more details to follow.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Vtec">Vtec</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1018" guid="cf0f33c6-12f0-4aa7-b371-ffb80f06af3e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:NIFTI-Meetup</url>
+        <logo/>
+        <date>2019-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1018-session_nifti_meetup</slug>
+        <title>NIFTI-Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Lecture room M2">
+      <event id="1036" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d6">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:15</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1036-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 3 #1 2nd language</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Lecture room M3">
+      <event id="1037" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:15</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1037-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 3 #1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Kidspace"/>
+    <room name="CCL Saal 3"/>
+    <room name="Chaos West Bühne"/>
+    <room name="ChaosZone"/>
+    <room name="OIO Stage"/>
+  </day>
+  <day index="5" date="2019-12-30" start="2019-12-30T06:00:00+01:00" end="2019-12-31T04:00:00+01:00">
+    <room name="Lecture room 11">
+      <event id="1004" guid="a9513da7-a95c-4eb4-ba32-11485be6278a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting</url>
+        <logo/>
+        <date>2019-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1004-session_a_v_angel_meeting</slug>
+        <title>A/V Angel Meeting</title>
+        <subtitle>Day 4</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily Meetup for A/V Angels
+Daily A/V Angel Meeting. More information can be obtained from our news in the angel system</description>
+        <persons/>
+        <links>
+          <link>https://c3voc.de/</link>
+        </links>
+      </event>
+      <event id="1024" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d9">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1024-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Final Meeting Day 4</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katti">Katti</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 13"/>
+    <room name="Lecture room M1"/>
+    <room name="Lecture room M2"/>
+    <room name="Lecture room M3"/>
+    <room name="Kidspace"/>
+    <room name="CCL Saal 3"/>
+    <room name="Chaos West Bühne"/>
+    <room name="ChaosZone"/>
+    <room name="OIO Stage"/>
+  </day>
+</schedule>

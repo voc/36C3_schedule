@@ -1,0 +1,32 @@
+{
+  "id": 354,
+  "guid": "18a492b2-6219-5b95-a48d-b03944b75739",
+  "logo": "",
+  "date": "2019-12-29T17:40:00+01:00",
+  "start": "17:40",
+  "duration": "00:45",
+  "room": "OIO Stage",
+  "slug": "WSLWVM",
+  "url": "https://talks.oio.social/36c3-oio/talk/WSLWVM/",
+  "title": "Delta Chat: e-mail based messaging, the Rustocalypse and UX driven approach [YBTI/wefixthenet session]",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk 45 minutes + 10 minutes Q&A",
+  "language": "en",
+  "abstract": "Delta Chat is an e-mail instant messenger that is just becoming available on all platforms. \r\nUnlike other offerings, Delta Chat is no platform and operates no own servers. \r\nInstead it uses existing SMTP/IMAP servers to send and receive messages.\r\nWe'll talk about the current development status on all platforms, our new \r\nRust-core based approach, our decentralized e2e-encryption facilities (not requiring \r\nkeyservers, and safe against active attacks) and how we are generally driving\r\ndevelopments from UX and security perspectives.  We also aim to showcase\r\n\"burner accounts\", a new concept that we are developing and discussing\r\nwith activists in eastern european countries and asian cities.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 128,
+      "code": "MCE83P",
+      "public_name": "dvn",
+      "biography": "p2p communications and privacy researcher and developer\r\n\r\nCurrently organizing a \"youbroketheinternet/wefixthenet\" session at 36c3, representing GNUnet.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

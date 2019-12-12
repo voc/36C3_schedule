@@ -1,0 +1,32 @@
+{
+  "id": 174,
+  "guid": "56a5c6da-625b-55e0-a919-647418670069",
+  "logo": "/media/36c3/images/PQALSP/circus_logo_transparent.png",
+  "date": "2019-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "00:20",
+  "room": "Chaos-West B\u00fchne",
+  "slug": "PQALSP",
+  "url": "https://fahrplan.chaos-west.de/36c3/talk/PQALSP/",
+  "title": "CTF in a box",
+  "subtitle": "",
+  "track": "All about computers",
+  "type": "Einfacher Slot",
+  "language": "en",
+  "abstract": null,
+  "description": "A situation loads of passionate CTF players will recognize: You are bored and looking up some CTF on ctftime. You finally find one and it's hosted on some fork of CTFd running on what feels like a raspberry pi 1. Notherless, you decide to play, but the first web challenge you look at has a conveniently placed php shell in the webroot. Yay! one shared web service!. After we had the same issue with multiple platforms, we decided that this had to change. The main problems we noticed were that all players compete on one service or receive a static challenge and that the platforms don't always scale well. We solved this in a new project: CIRCUS. This is the story of what can break when unleashing a lot of people on a service allowing them to spawn containers on demand and what can be done to counteract those problems.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 122,
+      "code": "SVETJC",
+      "public_name": "hanemile",
+      "biography": "CS: @hhu_de | Foo: @chaosdorf | CTF: @flexerilla_team | Go, Python | est. 0x7d0\r\n\r\nSimulating Galaxies, Honeypot fanatic, operating a CIRCUS, ...",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": 239,
+  "guid": "669e8ad4-d0a0-501d-aebd-c1a8c8423291",
+  "logo": "",
+  "date": "2019-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:20",
+  "room": "Chaos-West B\u00fchne",
+  "slug": "D9BFMN",
+  "url": "https://fahrplan.chaos-west.de/36c3/talk/D9BFMN/",
+  "title": "System Transparency",
+  "subtitle": "",
+  "track": "All about computers",
+  "type": "Einfacher Slot",
+  "language": "en",
+  "abstract": null,
+  "description": "The ever increasing usage of cloud-based software forces us to face old questions about the trustworthiness of our software. While FLOSS allows us to trust software running on our platforms, System Transparency establishes the same level of trust in SaaS and IaaS scenarios.\r\n\r\nIn a System Transparency context, all parties that depend on the services of a particular server can retrieve the complete source code of firmware and OS running on it. They can reproduce all binaries and verify remotely that these were run as part of the boot process. This gives every user the ability to verify claims of the service provider like the absence of logs or lack of backdoor access.\r\n\r\nSystem Transparency accomplishes this by \r\n - giving every server a unique, cryptographic identity that is kept in a hardware trust anchor,\r\n - using a provisioning ritual to associate this identity with a particular hardware,\r\n - running the FLOSS firmwares coreboot and LinuxBoot instead of proprietary UEFI implementations,\r\n - building firmware and OS images are reproducible,\r\n - retrieving all OS images from the network, keeping only minimal state on the disk,\r\n - signing all OS images as well as listing them in a public append-only log and\r\n - minimizing administrator access to prevent invisible changes to the OS after it has been booted.\r\n\r\nThis talk introduces System Transparency and details the platform security features we implemented as part of our reference system. We also describe our reference implementations\u2019 custom bootloader based on LinuxBoot. It verifies that boot artifacts are signed by the server owner and are in the transparency log before continuing. This makes sure that 3rd parties can audit past and present artifacts booted on the platform. Finally, we demo a modern x86 server platform running our prototype coreboot/LinuxBoot stack.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 184,
+      "code": "EVKLMA",
+      "public_name": "seu",
+      "biography": "Kai is a Hacker from Bochum",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

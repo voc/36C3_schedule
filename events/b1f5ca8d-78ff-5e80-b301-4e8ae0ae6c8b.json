@@ -1,0 +1,39 @@
+{
+  "id": 207,
+  "guid": "b1f5ca8d-78ff-5e80-b301-4e8ae0ae6c8b",
+  "logo": "",
+  "date": "2019-12-27T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:50",
+  "room": "Chaos-West B\u00fchne",
+  "slug": "73DECY",
+  "url": "https://fahrplan.chaos-west.de/36c3/talk/73DECY/",
+  "title": "The challenges of Protected Virtualization",
+  "subtitle": "",
+  "track": "All about computers",
+  "type": "Doppelter Slot",
+  "language": "en",
+  "abstract": null,
+  "description": "Firmware protection for Virtual Machines against buggy or malicious\r\nhypervisors is a rather new concept that is quickly gaining traction\r\namong the major CPU architectures; two years ago AMD introduced Secure Encrypted Virtualization (AMD SEV), and now IBM is introducing Protected Virtualization for the s390x architecture.\r\n\r\nThis talk will present the motivations and the overall architecture of\r\nProtected Virtualization, the general challenges for Linux both as a guest and as a hypervisor with KVM and Qemu.\r\n\r\nThe main challenges presented will be, among others:\r\n* secure VM startup\r\n* attestation\r\n* I/O\r\n* interrupts\r\n* Linux guest support\r\n* KVM and Qemu changes\r\n* swap and migration\r\n\r\nWhile the talk will have some technical content, it should be enjoyable for anyone who tinkers with KVM and virtualization.\r\n\r\nKnowledge of the s390x architecture is not required.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 154,
+      "code": "ML9U7P",
+      "public_name": "Janosch Frank",
+      "biography": null,
+      "answers": []
+    },
+    {
+      "id": 153,
+      "code": "PRQXVR",
+      "public_name": "Claudio Imbrenda",
+      "biography": "Qemu and KVM developer for the s390x architecture; member of Shack.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

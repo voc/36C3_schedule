@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-12 23:54; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-12 23:54</version>
+  <version>2019-12-13 00:44; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 00:44</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -177,8 +177,47 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <links/>
       </event>
     </room>
-    <room name="Lecture room M1"/>
+    <room name="Lecture room M1">
+      <event id="1040" guid="a31a0334-b3d6-4768-a2b3-f13d79951440">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hygienebelehrung_/_Frikadellendiplom</url>
+        <logo/>
+        <date>2019-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1040-session_hygienebelehrung_frikadellendiplom</slug>
+        <title>Hygienebelehrung / Frikadellendiplom</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>
+</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Lecture room M2">
+      <event id="1039" guid="baffacba-85b1-4b44-92c4-bb84f75605d8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Edu-Stammtisch</url>
+        <logo/>
+        <date>2019-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1039-session_edu_stammtisch</slug>
+        <title>Edu-Stammtisch</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Stammtisch für Menschen aus dem Bildungsbereich
+Stammtisch für Menschen aus dem Bildungsbereich</description>
+        <persons/>
+        <links/>
+      </event>
       <event id="1014" guid="f369950c-3afb-49f8-b825-ac5235fad4d5">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Intro_to_CTFs_and_binary_Exploitation</url>
         <logo/>

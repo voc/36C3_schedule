@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 20:30; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-13 20:30</version>
+  <version>2019-12-13 20:50; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-13 20:50</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -2067,6 +2067,27 @@ Heizung von Häusern ist für etwa ein Drittel der Treibhausgasemissionen Deutsc
         <persons/>
         <links/>
       </event>
+      <event id="1109" guid="90f01e54-c3fb-45eb-ae12-893317789b78">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk</url>
+        <logo/>
+        <date>2019-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>1:30</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1109-session_follow_up_meeting_to_the_netzpolitik_in_der_schweiz_talk</slug>
+        <title>Follow-up meeting to the Netzpolitik in der Schweiz talk</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Nach dem Vortrag «Schweiz: Netzpolitik zwischen Bodensee und Matterhorn» sind alle interessierten Personen eingeladen, die Diskussion an diesem Workshop der Digitalen Gesellschaft fortzusetzen. Es werden Aktivisten von verschiedenen aktiven Organisationen der Netzpolitik in der Schweiz anwesend sein (Digitale Gesellschaft, CCC-CH, CCCZH, Piratenpartei Schweiz, Digitale Allmend).
+Nach dem Vortrag «Schweiz: Netzpolitik zwischen Bodensee und Matterhorn» sind alle interessierten Personen eingeladen, die Diskussion an diesem Workshop der Digitalen Gesellschaft fortzusetzen. Es werden Aktivisten von verschiedenen aktiven Organisationen der Netzpolitik in der Schweiz anwesend sein (Digitale Gesellschaft, CCC-CH, CCCZH, Piratenpartei Schweiz, Digitale Allmend).</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Kire">Kire</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1055" guid="b4615df7-595a-413d-8f41-db9584a6f13f">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Freedom_to_go</url>
         <logo/>
@@ -3484,6 +3505,54 @@ https://www.wachter-jud.net/</biography>
         <links/>
         <attachments/>
         <answers/>
+      </event>
+    </room>
+    <room name="Assembly:C-base / CCC-B / xHain">
+      <event id="1108" guid="5d7b0d0e-cadb-4687-af83-39ff06b2961b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:CoderDojo_Neopixel_Hacking</url>
+        <logo/>
+        <date>2019-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>4:00</duration>
+        <room>Assembly:C-base / CCC-B / xHain</room>
+        <slug>36c3-1108-session_coderdojo_neopixel_hacking</slug>
+        <title>CoderDojo Neopixel Hacking</title>
+        <subtitle>Workshop 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>ATTiny+Neopixel hacking
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha">DerMicha</person>
+        </persons>
+        <links>
+          <link>https://coderdojo.c-base.org/</link>
+        </links>
+      </event>
+      <event id="1110" guid="90cac72d-ab11-4d28-8409-e392c3b92049">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacker_Boardgames</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:C-base / CCC-B / xHain</room>
+        <slug>36c3-1110-session_hacker_boardgames</slug>
+        <title>Hacker Boardgames</title>
+        <subtitle>Hacker Boardgames 1</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>We willl play nice hacker boardgames
+Wir werden eine Sammlung von Brettspielen für Hacker und Coder dabei haben, wie z.B.:* Robo Rally* Rasende Roboter</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha">DerMicha</person>
+        </persons>
+        <links>
+          <link>https://coderdojo.c-base.org/</link>
+        </links>
       </event>
     </room>
   </day>

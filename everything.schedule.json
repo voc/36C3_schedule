@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 01:50; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 01:50",
+    "version": "2019-12-13 02:00; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 02:00",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -1414,8 +1414,8 @@
                 "guid": "eb7cab5a-9f72-490a-bf85-abc3a527fe75",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Fuzzing_Round_Table",
                 "logo": null,
-                "date": "2019-12-28T18:00:00+01:00",
-                "start": "18:00",
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
                 "duration": "1:00",
                 "room": "Seminar room 14-15",
                 "slug": "36c3-1052-session_fuzzing_round_table",
@@ -1426,6 +1426,26 @@
                 "language": "en",
                 "abstract": "",
                 "description": "Open discussion about recent trends and advancements in fuzzing.\nWe will have a discussion about recent problems and breakthroughs in fuzzing. If you have worked on any novel fuzzers lateley, _do_ drop by :)",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1054,
+                "guid": "fbefd4a9-c00d-4bb5-b03c-03034959c845",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Open_Thinking_Sustainable_Tech",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1054-session_open_thinking_sustainable_tech",
+                "title": "Open Thinking Sustainable Tech",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "This is a meet-up of people by invitation only to get to know each other and combine knowledge around digital sustainability. If you think you have been missed to get invited, please get in contact.\n",
                 "persons": [],
                 "links": []
               },
@@ -2877,7 +2897,30 @@
                 "links": []
               }
             ],
-            "Seminar room 14-15": [],
+            "Seminar room 14-15": [
+              {
+                "id": 1053,
+                "guid": "983e175e-86a5-40be-9910-808e00cc5c3d",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A:f_meetup",
+                "logo": null,
+                "date": "2019-12-29T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1053-session_a_f_meetup",
+                "title": "A:f meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "this session is an internal meeting for all organisations inside about:freedom and about:future to discuss our current state and where we like to go - content-wise and geographically. shall we move into hall 3 or stay in CCL? shall we run our own stage or have other kinds of installations? Who are we and what do we like to achieve? let's discuss our goals and resources we have for 37C3 so we can prepare in advance.\n",
+                "persons": [],
+                "links": [
+                  "https://events.ccc.de/congress/2019/wiki/index.php/Assembly:About:freedom"
+                ]
+              }
+            ],
             "Seminar room 13": [
               {
                 "id": 1028,

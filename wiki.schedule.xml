@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 17:10</version>
+  <version>2019-12-13 17:40</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress - Wiki</title>
@@ -1533,29 +1533,6 @@ Target boards will be provided, bring your own laptop, more details to follow.</
         </persons>
         <links/>
       </event>
-      <event id="1101" guid="818315e1-ecdf-4ed6-97e8-fdf88087b7d6">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:KinkyGeeks_-_Erste_Hilfe_-_Kinky_Edition</url>
-        <logo/>
-        <date>2019-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>2:00</duration>
-        <room>Lecture room M1</room>
-        <slug>36c3-1101-session_kinkygeeks_erste_hilfe_kinky_edition</slug>
-        <title>KinkyGeeks - Erste Hilfe - Kinky Edition</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>First aid lesson for kinky people
-The will be an extra registration for the workshop which will be linked in this description. (registration link goes live near christmas) We need to do this because of the large number of people that want to attend. We have only limited room and we would like to not handle a huge crowd control again.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Lil-Missy">Lil-Missy</person>
-        </persons>
-        <links>
-          <link>https://kinkygeeks.de</link>
-        </links>
-      </event>
       <event id="1018" guid="cf0f33c6-12f0-4aa7-b371-ffb80f06af3e">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:NIFTI-Meetup</url>
         <logo/>
@@ -1901,6 +1878,29 @@ This meeting is used for the distribution of shifts for the Translation team.</d
 </description>
         <persons/>
         <links/>
+      </event>
+      <event id="1101" guid="818315e1-ecdf-4ed6-97e8-fdf88087b7d6">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:KinkyGeeks_-_Erste_Hilfe_-_Kinky_Edition</url>
+        <logo/>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1101-session_kinkygeeks_erste_hilfe_kinky_edition</slug>
+        <title>KinkyGeeks - Erste Hilfe - Kinky Edition</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>First aid lesson for kinky people
+The will be an extra registration for the workshop which will be linked in this description. (registration link goes live near christmas) We need to do this because of the large number of people that want to attend. We have only limited room and we would like to not handle a huge crowd control again.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Lil-Missy">Lil-Missy</person>
+        </persons>
+        <links>
+          <link>https://kinkygeeks.de</link>
+        </links>
       </event>
     </room>
     <room name="Lecture room M2"/>

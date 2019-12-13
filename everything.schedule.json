@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 09:10; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 09:10",
+    "version": "2019-12-13 09:20; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 09:20",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -157,6 +157,28 @@
                 ],
                 "links": [
                   "https://junghack.de"
+                ]
+              },
+              {
+                "id": 1087,
+                "guid": "4fcc3853-b979-4f41-91ef-91e9053ac5e4",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Nachhaltige_Mobilit%C3%A4tsplanung_mit_offenen_Daten",
+                "logo": null,
+                "date": "2019-12-27T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "5:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1087-session_nachhaltige_mobilitaetsplanung_mit_offenen_daten",
+                "title": "Nachhaltige Mobilit\u00e4tsplanung mit offenen Daten",
+                "subtitle": "Sustainable urban mobility planning with open data",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Lotet mit uns zusammen aus, wie offene Daten zu einer nachhaltigen Entwicklung des st\u00e4dtischen Verkehrs und der Mobilit\u00e4t in Leipzig beitragen k\u00f6nnen!\nSeit 2015 stellt die Stadt Leipzig in ihrem Open Data-Portal (https://opendata.leipzig.de/) Daten zur allgemeinen Nutzung zur Verf\u00fcgung. Frei verf\u00fcgbare Daten sind eine Grundlage f\u00fcr soziale Innovation und lokale Demokratie, indem sich B\u00fcrger/innen mit den Informationen \u00fcber ihre Stadt besch\u00e4ftigen und ihre Ideen dazu einbringen k\u00f6nnen. Bisher gehen die Aktivit\u00e4ten der Stadt Leipzig aber \u00fcber das Bereitstellen der Daten kaum hinaus.Das soll sich \u00e4ndern! In diesem Workshop werden kommunale Daten zu den Themen Mobilit\u00e4t und Verkehr der Stadt Leipzig bereitgestellt, die sonst nicht oder nur teilweise \u00f6ffentlich zug\u00e4nglich sind. Lotet mit uns zusammen aus, wie offene Daten zu einer nachhaltigen Entwicklung des st\u00e4dtischen Verkehrs und der Mobilit\u00e4t in Leipzig beitragen k\u00f6nnen!Leipzig steht bei Fragen der Mobilit\u00e4t vor gro\u00dfen Herausforderungen:-\tLeipzig w\u00e4chst! In den letzten 15 Jahren um ca. 100.000 Einwohner. Mehr Menschen bedeutet auch mehr Staus und verstopfte Stra\u00dfen! Oder? Wie k\u00f6nnen offene Daten helfen, den Verkehr nachhaltiger, also klimafreundlicher, fl\u00e4chenschonender und sozial vertr\u00e4glicher zu organisieren?-\tLeipzigs Verkehr soll bis 2030 nachhaltiger werden! Das hat der Stadtrat 2018 beschlossen. Wie k\u00f6nnen wir mithilfe offener Daten geeignete Ma\u00dfnahmen auf diesem Weg identifizieren?-\tMobilit\u00e4tsplanung demokratisieren! Der Entscheidungsweg zur Mobilit\u00e4tsstrategie 2030 war von einer breiten Beteiligungskultur gepr\u00e4gt. Diese Arbeitsrichtung wollen wir fortf\u00fchren und auf die Nutzung kommunaler Daten ausdehnen. Wenn die Mobilit\u00e4tsentscheidungen der Menschen nachhaltiger werden sollen, m\u00fcssen auch die zugeh\u00f6rigen L\u00f6sungen mit ihnen gemeinsam entwickelt werden. Daran arbeiten wir in diesem Workshop.Neben den Datens\u00e4tzen, die bereits jetzt auf den Open Data-Portal der Stadt Leipzig verf\u00fcgbar sind, werden weitere statistische Geodaten der Stadt Leipzig eigens f\u00fcr den Workshop zug\u00e4nglich gemacht.Der Workshop wird finanziert durch den Europ\u00e4ischen Fonds f\u00fcr regionale Entwicklung (EFRE) im Rahmen der Interreg Central Europe \u2013 Initiative.",
+                "persons": [],
+                "links": [
+                  "https://www.interreg-central.eu/Content.Node/LOW-CARB.html"
                 ]
               },
               {
@@ -323,6 +345,34 @@
               }
             ],
             "Lecture room M2": [
+              {
+                "id": 1083,
+                "guid": "05a64b74-b9b6-4478-977c-f3341a48dcc2",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Arch_Linux_Meetup",
+                "logo": null,
+                "date": "2019-12-27T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "2:00",
+                "room": "Lecture room M2",
+                "slug": "36c3-1083-session_arch_linux_meetup",
+                "title": "Arch Linux Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "User meetup\nArch Linux is a distribution created in 2002 that focuses on user centrality. It's a do-it-yourself distribution that provides a minimal base set of packages to let the user build on.The intentions of the meetup is to have a few short 20 minute talks, and then some community discussions. Members from Arch team will participate. Last year we had a completely packed room, and it doesn't look like it will be better this year :)If there is anything you want to do, feel free to email foxboron@archlinux.org",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Foxboron",
+                    "public_name": "Foxboron"
+                  }
+                ],
+                "links": [
+                  "https://www.archlinux.org"
+                ]
+              },
               {
                 "id": 1039,
                 "guid": "baffacba-85b1-4b44-92c4-bb84f75605d8",
@@ -1860,28 +1910,6 @@
             ],
             "Lecture room M2": [
               {
-                "id": 1083,
-                "guid": "05a64b74-b9b6-4478-977c-f3341a48dcc2",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Arch_Linux_Meetup",
-                "logo": null,
-                "date": "2019-12-28T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "2:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1083-session_arch_linux_meetup",
-                "title": "Arch Linux Meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "",
-                "abstract": "",
-                "description": "\nArch Linux is a distribution created in 2002 that focuses on user centrality. It's a do-it-yourself distribution that provides a minimal base set of packages to let the user build on.The intentions of the meetup is to have a few short 20 minute talks, and then some community discussions. Members from Arch team will participate. Last year we had a completely packed room, and it doesn't look like it will be better this year :)If there is anything you want to do, feel free to email foxboron@archlinux.org",
-                "persons": [],
-                "links": [
-                  "https://www.archlinux.org"
-                ]
-              },
-              {
                 "id": 1060,
                 "guid": "565bb40a-c1ce-46b9-8776-4c1714aaf3da",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Finding_your_new_home:_Canadian_Immigration_system",
@@ -3292,6 +3320,32 @@
                 "abstract": "",
                 "description": "Discussing Free Software tools for social research\nDuring my sociology master thesis I tried a lot of free software and developed a profound workflow from literature research, interview preparation and processing to analysis, note taking and the final writing process. Because I have made the experience that especially in the social sciences and humanities there is hardly any technical interest, there is also little information about free software among fellow students. Therefore I would like to use the about:freedom space to introduce the tools I have used and exchange information about alternative software for academic use. I'm just finishing my sociology master's degree at Osnabr\u00fcck University and would like to become a journalist afterwards. Free Software has always been important to me since I've been using Linux for about ten years now and I'm always looking for new, useful software and try to share my knowledge for example at CryptoParties.",
                 "persons": [],
+                "links": []
+              },
+              {
+                "id": 1086,
+                "guid": "901b927b-cd27-4250-a434-358aa6b214c9",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Insulin_hackers_meetup",
+                "logo": null,
+                "date": "2019-12-29T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "1:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1086-session_insulin_hackers_meetup",
+                "title": "Insulin hackers meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Type 1 diabetes meetup. Lets discuss experiences and learnings with Continuos glucose monitoring (CGM), the open artificial pancreas system (OpenAPS) and looping in general. Bring your T1D hardware!\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:InsulinJunkieDe",
+                    "public_name": "InsulinJunkieDe"
+                  }
+                ],
                 "links": []
               },
               {

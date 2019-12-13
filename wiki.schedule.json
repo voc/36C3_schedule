@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 08:40",
+    "version": "2019-12-13 09:10",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress - Wiki",
@@ -963,6 +963,28 @@
             ],
             "Lecture room M2": [
               {
+                "id": 1083,
+                "guid": "05a64b74-b9b6-4478-977c-f3341a48dcc2",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Arch_Linux_Meetup",
+                "logo": null,
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "2:00",
+                "room": "Lecture room M2",
+                "slug": "36c3-1083-session_arch_linux_meetup",
+                "title": "Arch Linux Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "\nArch Linux is a distribution created in 2002 that focuses on user centrality. It's a do-it-yourself distribution that provides a minimal base set of packages to let the user build on.The intentions of the meetup is to have a few short 20 minute talks, and then some community discussions. Members from Arch team will participate. Last year we had a completely packed room, and it doesn't look like it will be better this year :)If there is anything you want to do, feel free to email foxboron@archlinux.org",
+                "persons": [],
+                "links": [
+                  "https://www.archlinux.org"
+                ]
+              },
+              {
                 "id": 1060,
                 "guid": "565bb40a-c1ce-46b9-8776-4c1714aaf3da",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Finding_your_new_home:_Canadian_Immigration_system",
@@ -1428,15 +1450,15 @@
                 ]
               },
               {
-                "id": 1061,
-                "guid": "c2295a9c-06e8-5189-88b5-5a207a77d454",
+                "id": 1085,
+                "guid": "d257071f-c913-4a48-b01b-65f4c28c73dc",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Finding_your_new_home:_Canadian_Immigration_system",
                 "logo": null,
                 "date": "2019-12-29T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "1:00",
                 "room": "Lecture room M2",
-                "slug": "36c3-1061-session_finding_your_new_home_canadian_immigration_system",
+                "slug": "36c3-1085-session_finding_your_new_home_canadian_immigration_system",
                 "title": "Finding your new home: Canadian Immigration system",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -1615,15 +1637,15 @@
                 "links": []
               },
               {
-                "id": 1079,
-                "guid": "-e063-48a3-967f-7371084884a9",
+                "id": 1084,
+                "guid": "92b1552f-b993-4eae-a19e-145a4d7805bf",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting",
                 "logo": null,
                 "date": "2019-12-30T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "2:00",
                 "room": "Lecture room M1",
-                "slug": "36c3-1079-session_c3auti_engelmeeting",
+                "slug": "36c3-1084-session_c3auti_engelmeeting",
                 "title": "C3auti Engelmeeting",
                 "subtitle": "multi block, some slots will get freed",
                 "track": "self organized sessions",

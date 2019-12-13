@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 03:30</version>
+  <version>2019-12-13 03:50</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress - Wiki</title>
@@ -530,25 +530,6 @@ We will have a discussion about recent problems and breakthroughs in fuzzing. If
         <persons/>
         <links/>
       </event>
-      <event id="1062" guid="707f849b-e333-4174-890f-214293c8c1c0">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Repair_for_Future</url>
-        <logo/>
-        <date>2019-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1062-session_repair_for_future</slug>
-        <title>Repair for Future</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>How Hackers and Repair Initiatives are coming together
-</description>
-        <persons/>
-        <links/>
-      </event>
       <event id="1021" guid="beea77e4-46c0-4280-a406-79b79ed66d8a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Sexuelle_Bel%C3%A4stigung_am_Arbeitsplatz</url>
         <logo/>
@@ -614,6 +595,25 @@ This meeting is used for the distribution of shifts for the Translation team.</d
       </event>
     </room>
     <room name="Lecture room M1">
+      <event id="1066" guid="48801aee-64d2-4e30-8b92-8d360566bbac">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:3.8_Billion_users%27_future:_Email_3.0</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>0:30</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1066-session_3_8_billion_users_future_email_3_0</slug>
+        <title>3.8 Billion users' future: Email 3.0</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?
+Hundreds of messaging platforms have launched and failed over the last 50 years. One has grown voraciously, netting 3.8 billion users, and handling 103 trillion messages each year. Like the Internet itself, email is decentralised and censorship resistant by design. It is technically extensible, powered by Free Software, and Open Standards agreed independently by consensus.LinkedIn, Facebook, Google and others are racing to own the future of this space, with Gmail alone accounting for 28% of email opens in 2018, in Western countries. Email's freedom, privacy, and security are taken for granted and under threat. What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?</description>
+        <persons/>
+        <links/>
+      </event>
       <event id="1005" guid="77483904-f342-461c-827c-cd1c63613b5f">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Accessibility_and_Inclusion</url>
         <logo/>
@@ -668,6 +668,44 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <abstract/>
         <description>
 </description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1067" guid="d8d6aa0c-a83a-4849-8a95-be32d82f5273">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Decentralized_and_centralized_control:_global_trends_in_network_censorship</url>
+        <logo/>
+        <date>2019-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>0:30</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1067-session_decentralized_and_centralized_control_global_trends_in_network_censorship</slug>
+        <title>Decentralized and centralized control: global trends in network censorship</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Let's review the proliferation of network censorship in countries around the world in the past two years, and talk about the areas where we can continue to push back, including current battles being fought to fix Internet privacy leaks.
+In the past few years we’ve seen a massive proliferationof aggressive techniques states are employing to silence dissent andaccess to information, such as the proliferation of different DPItechniques to identify and block traffic, temporary Internet slowdownmeasures during political strife, and an increasing number ofnetwork-enabled spyware campaigns being launched against activists bypowerful actors. Let's review the proliferation of network censorship incountries around the world in the past two years, and talk about theareas where we can continue to push back, including current battlesbeing fought to fix Internet privacy leaks.Mona Wang is a Staff Technologist working on ourinitiative to encrypt the entire Internet. She researches and tracksmethods of global Internet censorship for our International workinggroup. She also develops STARTTLS Everywhere, an initiative to secureemail delivery, and our Let's Encrypt client, Certbot, to secure the webwith HTTPS</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1068" guid="9974ba2c-a6e4-405b-a82e-bdb09382643e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Free_software_for_minorities_of_Turkey_with_their_own_languages</url>
+        <logo/>
+        <date>2019-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>0:30</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1068-session_free_software_for_minorities_of_turkey_with_their_own_languages</slug>
+        <title>Free software for minorities of Turkey with their own languages</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Free software and freedom philosophy gives a ray of hope to Anatolian minorities. With free documentation and free software, with using their devices in their own language, people may keep their language alive by contributing projects like Wiktionary and Wikisource.
+    In Turkey, along the Anatolia, more than 25 languages are spoken. As Özgür Yazılım Derneği (Free Software Association of Turkey), we wanted to translate our website and works to these Anatolian languages such as Kurdish, Zazaki, Lazuri, Homshetsi and so on. After we started conversations with culture institutes and associations from these folks, they replied as they are not able to use their devices with their own language. So now, we started a project with Anatolian minorities, we are translating and documenting GNU/Linux, GNOME, Firefox and LibreOffice (maybe Android/Replicant) to this languages, so with free software, these people can use computers and mobile phones with their own language. Also we are starting Wiktionary and Wikipedia ersions in these languages in order to keep these languages alive and compile the documents and publications in their language to make them documented well.     In this talk at 36C3,  we will tell a project in Turkey (a developing country which has no free software consciousness). In our project, Anatolian languages and minorities' cultures may be kept in the future. So many people uses proprietary software in their devices. These minorities are repressed to use their languages, not only their publication houses were closed by government, but also they were judged at "National Security Courts" in Turkey. With these assimilation policies, especially Lazuri and Homshetsi languages are imperilment right now, children are acquiring only Turkish as main tongue. Proprietary software and "proprietarians" are only seeking for profit, surveillance, and oppressing people's freedoms, so they are not able to use their devices with their own language. This situation makes the position of their languages much worse.    Free software and freedom philosophy gives a ray of hope to Anatolian minorities. With free documentation and free software, with using their devices in their own language, people may keep their language alive by contributing projects like Wiktionary and Wikisource.</description>
         <persons/>
         <links/>
       </event>
@@ -942,6 +980,25 @@ The principles of Free and Open Source Software (FOSS) are well aligned with the
         <abstract/>
         <description>Discussing Free Software tools for social research
 During my sociology master thesis I tried a lot of free software and developed a profound workflow from literature research, interview preparation and processing to analysis, note taking and the final writing process. Because I have made the experience that especially in the social sciences and humanities there is hardly any technical interest, there is also little information about free software among fellow students. Therefore I would like to use the about:freedom space to introduce the tools I have used and exchange information about alternative software for academic use. I'm just finishing my sociology master's degree at Osnabrück University and would like to become a journalist afterwards. Free Software has always been important to me since I've been using Linux for about ten years now and I'm always looking for new, useful software and try to share my knowledge for example at CryptoParties.</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1062" guid="707f849b-e333-4174-890f-214293c8c1c0">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Repair_for_Future</url>
+        <logo/>
+        <date>2019-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1062-session_repair_for_future</slug>
+        <title>Repair for Future</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>How Hackers and Repair Initiatives are coming together
+</description>
         <persons/>
         <links/>
       </event>

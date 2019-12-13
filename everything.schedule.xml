@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 16:10; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-13 16:10</version>
+  <version>2019-12-13 16:20; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-13 16:20</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -302,6 +302,27 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <description>
 </description>
         <persons/>
+        <links/>
+      </event>
+      <event id="1104" guid="ad94eb41-919a-467b-99e4-07406b36ca19">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Heralds_Meeting</url>
+        <logo/>
+        <date>2019-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1104-session_heralds_meeting</slug>
+        <title>Heralds Meeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Annual Refresher and Updates for the Heralds
+Annual Meeting of Heralds. We want to talk about whats new this year, what changed, give a couple of reminders and prepare our part of Congress.This year, we do not take new Heralds on board, our team is already complete.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Ijon">Ijon</person>
+        </persons>
         <links/>
       </event>
       <event id="1040" guid="a31a0334-b3d6-4768-a2b3-f13d79951440">
@@ -2126,6 +2147,27 @@ Mountainfolds and Valleyfolds and diagrams and how to read them.Folding simple o
         </persons>
         <links/>
       </event>
+      <event id="1105" guid="a1541175-b711-4c87-8418-d847ab6346be">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Regio-Treffen-Nachbesprechechung</url>
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1105-session_regio_treffen_nachbesprechechung</slug>
+        <title>Regio-Treffen-Nachbesprechechung</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Diskussion hinten ans Regiotreffen geklebt
+Palettenweise Diskussionsbedarf? Noch ein paar Kisten voller Ideen? Regiotreffen-Anschluss.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:MikeTango">MikeTango</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1019" guid="9421c49b-4f0d-4275-9f0a-078c513e6c71">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:RegioPR-Treffen</url>
         <logo/>
@@ -3630,27 +3672,6 @@ During my sociology master thesis I tried a lot of free software and developed a
         <persons/>
         <links/>
       </event>
-      <event id="1086" guid="901b927b-cd27-4250-a434-358aa6b214c9">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Insulin_hackers_meetup</url>
-        <logo/>
-        <date>2019-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1086-session_insulin_hackers_meetup</slug>
-        <title>Insulin hackers meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Type 1 diabetes meetup. Lets discuss experiences and learnings with Continuos glucose monitoring (CGM), the open artificial pancreas system (OpenAPS) and looping in general. Bring your T1D hardware!
-</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:InsulinJunkieDe">InsulinJunkieDe</person>
-        </persons>
-        <links/>
-      </event>
       <event id="1093" guid="ef30e718-5095-408f-aeee-bc14be571b91">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Introduction_to_Natural_Language_Processing</url>
         <logo/>
@@ -3899,6 +3920,27 @@ We all know computers run on electricity, and that we need to, as responsible pr
         <description>Options to make Canada your new home from obtaining visa to immigration.
 </description>
         <persons/>
+        <links/>
+      </event>
+      <event id="1086" guid="901b927b-cd27-4250-a434-358aa6b214c9">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Insulin_hackers_meetup</url>
+        <logo/>
+        <date>2019-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1086-session_insulin_hackers_meetup</slug>
+        <title>Insulin hackers meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Type 1 diabetes meetup. Lets discuss experiences and learnings with Continuos glucose monitoring (CGM), the open artificial pancreas system (OpenAPS) and looping in general. Bring your T1D hardware!
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:InsulinJunkieDe">InsulinJunkieDe</person>
+        </persons>
         <links/>
       </event>
       <event id="1043" guid="cec89a33-bdb9-4fbd-8cda-5926619e47d8">

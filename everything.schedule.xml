@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 00:50; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 00:50</version>
+  <version>2019-12-13 01:10; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 01:10</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -178,16 +178,35 @@ This meeting is used for the distribution of shifts for the Translation team.</d
       </event>
     </room>
     <room name="Lecture room M1">
+      <event id="1050" guid="16ffef7c-6375-513e-bbf3-4c615d725037">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting</url>
+        <logo/>
+        <date>2019-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1050-session_c3auti_engelmeeting</slug>
+        <title>C3auti Engelmeeting</title>
+        <subtitle>multi block, some slots will get freed</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons/>
+        <links/>
+      </event>
       <event id="1042" guid="e0c8e36c-7b5c-4d95-b4ab-5363f8e0ca52">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting</url>
         <logo/>
         <date>2019-12-27T17:00:00+01:00</date>
         <start>17:00</start>
-        <duration>1:30</duration>
+        <duration>2:00</duration>
         <room>Lecture room M1</room>
         <slug>36c3-1042-session_c3auti_engelmeeting</slug>
         <title>C3auti Engelmeeting</title>
-        <subtitle/>
+        <subtitle>multi block, some slots will get freed</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -1543,6 +1562,44 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <language/>
         <abstract/>
         <description>Hacking everyday communication practices to change the world
+</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1047" guid="9b176f33-d19b-55e6-bdc6-72f366fb0608">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1047-session_c3auti_engelmeeting</slug>
+        <title>C3auti Engelmeeting</title>
+        <subtitle>multi block, some slots will get freed</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1048" guid="a8a62cdc-a32c-53a2-a847-c9d5584b7e61">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting</url>
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1048-session_c3auti_engelmeeting</slug>
+        <title>C3auti Engelmeeting</title>
+        <subtitle>multi block, some slots will get freed</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
 </description>
         <persons/>
         <links/>
@@ -2930,6 +2987,25 @@ This meeting is used for the distribution of shifts for the Translation team.</d
       </event>
     </room>
     <room name="Lecture room M1">
+      <event id="1051" guid="83987b95-2760-5dd7-9573-4bc3930fa930">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting</url>
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1051-session_c3auti_engelmeeting</slug>
+        <title>C3auti Engelmeeting</title>
+        <subtitle>multi block, some slots will get freed</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons/>
+        <links/>
+      </event>
       <event id="1016" guid="5ce4ab77-ca9b-4153-b208-9a975a4b439a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Kernel_Hacking</url>
         <logo/>
@@ -2988,7 +3064,9 @@ Target boards will be provided, bring your own laptop, more details to follow.</
         <abstract/>
         <description>Let's hack words is a workshop for everyone, who wants to explore creative writing, build worlds and lets characters dive into adventures.
 If you ever wanted to know, how to get from blank page to an adventurous story, staffed with lively characters and set in a vivid world, then this workshop is for you.During the last years, this workshop was about starting out with a blank page, the hero's journey, archetype characters and story worlds. Let's try out something new this time: story beats (also called "story points"). What phases are there in a story and how does character-driven storytelling work?Bring your writing gear - pens and paper will work best for the writing exercises.</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Jinxx">Jinxx</person>
+        </persons>
         <links/>
       </event>
       <event id="1036" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d6">
@@ -4061,7 +4139,46 @@ This meeting is used for the distribution of shifts for the Translation team.</d
     </room>
     <room name="Seminar room 14-15"/>
     <room name="Seminar room 13"/>
-    <room name="Lecture room M1"/>
+    <room name="Lecture room M1">
+      <event id="1045" guid="ea6e37db-20f9-44dd-9438-2d2d1208f828">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting</url>
+        <logo/>
+        <date>2019-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1045-session_c3auti_engelmeeting</slug>
+        <title>C3auti Engelmeeting</title>
+        <subtitle>multi block, some slots will get freed</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1046" guid="cc4b7ef2-f009-57cc-acfd-968717bcd720">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting</url>
+        <logo/>
+        <date>2019-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1046-session_c3auti_engelmeeting</slug>
+        <title>C3auti Engelmeeting</title>
+        <subtitle>multi block, some slots will get freed</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="Lecture room M2"/>
     <room name="Lecture room M3"/>
     <room name="Kidspace"/>

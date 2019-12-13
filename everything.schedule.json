@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 11:40; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 11:40",
+    "version": "2019-12-13 11:50; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 11:50",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -400,6 +400,32 @@
                 "links": [
                   "https://www.archlinux.org"
                 ]
+              },
+              {
+                "id": 1088,
+                "guid": "3c48d37f-7f16-4ec9-b983-f83d208ed5ba",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Awarenessteam_Introduction_and_Q%26A",
+                "logo": null,
+                "date": "2019-12-27T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "Lecture room M2",
+                "slug": "36c3-1088-session_awarenessteam_introduction_and_q_a",
+                "title": "Awarenessteam Introduction and Q&A",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "What is the CCC Awarenessteam and how can it help me? What does it do and what does it not currently do? Get these and more questions answered!\nEin Meeting f\u00fcr Mitglieder - und in geringem Umfang auch Interessierte - der im Rahmen des 34C3 gegr\u00fcndeten Arbeitsgruppe f\u00fcr kritische Infrastrukturen. Interessierte melden sich entweder bei HonkHase oder TheC.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Theresa",
+                    "public_name": "Theresa"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1039,
@@ -3315,6 +3341,34 @@
                 "persons": [],
                 "links": [
                   "https://events.ccc.de/congress/2019/wiki/index.php/Assembly:About:freedom"
+                ]
+              },
+              {
+                "id": 1090,
+                "guid": "81e1c0f9-1bc2-4961-8558-9b1769806831",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:AG_KRITIS",
+                "logo": null,
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "2:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1090-session_ag_kritis",
+                "title": "AG KRITIS",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Meeting der AG KRITIS\nEin Meeting f\u00fcr Mitglieder - und in geringem Umfang auch Interessierte - der im Rahmen des 34C3 gegr\u00fcndeten Arbeitsgruppe f\u00fcr kritische Infrastrukturen. Interessierte melden sich entweder bei HonkHase oder TheC.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:TheC",
+                    "public_name": "TheC"
+                  }
+                ],
+                "links": [
+                  "https://ag.kritis.info"
                 ]
               },
               {

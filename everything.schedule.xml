@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 02:10; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 02:10</version>
+  <version>2019-12-13 02:30; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 02:30</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -1393,6 +1393,25 @@ Daily A/V Angel Meeting. More information can be obtained from our news in the a
         <links>
           <link>https://c3voc.de/</link>
         </links>
+      </event>
+      <event id="1056" guid="85fe9ff2-d148-49d4-89df-c4e6284ea3a5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Das_Freie_Software_1x1:_Grundlagen_und_typische_Misserverst%C3%A4ndnisse_aufkl%C3%A4ren</url>
+        <logo/>
+        <date>2019-12-28T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1056-session_das_freie_software_1x1_grundlagen_und_typische_misserverstaendnisse_aufklaeren</slug>
+        <title>Das Freie Software 1x1: Grundlagen und typische Misserverständnisse aufklären</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Der Talk ist ein "Foundation Talk" vom Präsident der FSFE und  dazu gedacht den Zuhörenden einen leichten Einstieg in die Welt Freier Software zu ermöglichen.
+Freie Software und Open Source - ist das eigentlich das gleiche? GPL, AGPL, LGPL, MIT, Apache und hunderte mehr ... warum braucht Freie Software eigentlich Lizenzen und wir unterscheiden sie sich? Wer benutzt eigentlich Freie Software außer der NASA und dem CCC? Und kann man damit Geld verdienen?Der Talk ist ein "Foundation Talk" und ist dazu gedacht den Zuhörenden einen leichten Einstieg in die Welt Freier Software zu ermöglichen. Im zweiten Teil werde ich einige der weitverbreitetsten Missverständnisse zu Freier Software aufgeklär, die sich schon seit Jahren halten und dadurch erschweren, möglichst schnell das Potential Freier Software zu nutzen. Zum Beispiel a) Freie Software sei kostenlos, b) wer Freie Software ändert, muss die Änderungen wieder allen verfügbar machen und c) Freie Software ist (un)sicherer als proprietäre Software oder d) Freie Software ist das überlegene Entwicklungsmodell. Oft hört man auch e) Freie Software bringe einem nichts, wenn man nicht selbst programmieren kann, und so weiter ...Dieser Foundation Talk ist auch dann richtig für dich, wenn Du Dich wunderst warum eine der Aussagen falsch sein soll oder Du Anregungen suchst, wie und was Du auf solche oder ähnliche Aussagen in Zukunft in unter zwei Minuten erwidern kannst.</description>
+        <persons/>
+        <links/>
       </event>
       <event id="1010" guid="36a2fc57-4f42-4315-8d77-cb579a0c7ef3">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksenfr%C3%BChst%C3%BCck</url>
@@ -2995,6 +3014,25 @@ In this session we will present talks around GNUnet.Incomplete list / TBD:- GNUn
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Janepie">Janepie</person>
         </persons>
+        <links/>
+      </event>
+      <event id="1057" guid="5f61260e-8576-452d-a876-fd8c3c0b9e35">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:The_Secret_Truecrypt_Audit_from_the_BSI</url>
+        <logo/>
+        <date>2019-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>0:40</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1057-session_the_secret_truecrypt_audit_from_the_bsi</slug>
+        <title>The Secret Truecrypt Audit from the BSI</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>In 2010 the German Federal Office for Information Security (BSI) created a security audit of the encryption software Truecrypt - and didn't tell anyone. The talk will present some of these findings and discuss the questionable role of the BSI.
+In 2010 the German Federal Office for Information Security (BSI) created a security audit of the encryption software Truecrypt - and didn't tell anyone.Truecrypt has an interesting and sometimes mysterious history. The anonymous creators suddenly stopped development in 2014 and warned about unfixed security issues, without further explanation. At the same time a donation-funded security audit was organized by cryptographer Matthew Green, which didn't find any serious issues. A fork of Truecrypt called Veracrypt is still developed today.The audit by the BSI was only recently revealed with a request according to the German freedom of information law. It contains information about bugs in the code that are present until today.The talk will present some of these findings and discuss the questionable role of the BSI.</description>
+        <persons/>
         <links/>
       </event>
       <event id="1033" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d7">

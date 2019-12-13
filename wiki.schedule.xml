@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 12:10</version>
+  <version>2019-12-13 12:30</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress - Wiki</title>
@@ -478,22 +478,24 @@ Daily A/V Angel Meeting. More information can be obtained from our news in the a
         </links>
       </event>
       <event id="1056" guid="85fe9ff2-d148-49d4-89df-c4e6284ea3a5">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Das_Freie_Software_1x1:_Grundlagen_und_typische_Misserverst%C3%A4ndnisse_aufkl%C3%A4ren</url>
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Das_Freie_Software_1_x_1</url>
         <logo/>
         <date>2019-12-28T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>1:00</duration>
         <room>Lecture room 11</room>
-        <slug>36c3-1056-session_das_freie_software_1x1_grundlagen_und_typische_misserverstaendnisse_aufklaeren</slug>
-        <title>Das Freie Software 1x1: Grundlagen und typische Misserverständnisse aufklären</title>
-        <subtitle/>
+        <slug>36c3-1056-session_das_freie_software_1_x_1</slug>
+        <title>Das Freie Software 1 x 1</title>
+        <subtitle>Grundlagen &amp; typische Missverständnisse aufklären</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>en</language>
         <abstract/>
         <description>Der Talk ist ein "Foundation Talk" vom Präsident der FSFE und  dazu gedacht den Zuhörenden einen leichten Einstieg in die Welt Freier Software zu ermöglichen.
 Freie Software und Open Source - ist das eigentlich das gleiche? GPL, AGPL, LGPL, MIT, Apache und hunderte mehr ... warum braucht Freie Software eigentlich Lizenzen und wir unterscheiden sie sich? Wer benutzt eigentlich Freie Software außer der NASA und dem CCC? Und kann man damit Geld verdienen?Der Talk ist ein "Foundation Talk" und ist dazu gedacht den Zuhörenden einen leichten Einstieg in die Welt Freier Software zu ermöglichen. Im zweiten Teil werde ich einige der weitverbreitetsten Missverständnisse zu Freier Software aufgeklär, die sich schon seit Jahren halten und dadurch erschweren, möglichst schnell das Potential Freier Software zu nutzen. Zum Beispiel a) Freie Software sei kostenlos, b) wer Freie Software ändert, muss die Änderungen wieder allen verfügbar machen und c) Freie Software ist (un)sicherer als proprietäre Software oder d) Freie Software ist das überlegene Entwicklungsmodell. Oft hört man auch e) Freie Software bringe einem nichts, wenn man nicht selbst programmieren kann, und so weiter ...Dieser Foundation Talk ist auch dann richtig für dich, wenn Du Dich wunderst warum eine der Aussagen falsch sein soll oder Du Anregungen suchst, wie und was Du auf solche oder ähnliche Aussagen in Zukunft in unter zwei Minuten erwidern kannst.</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik">Dreirik</person>
+        </persons>
         <links/>
       </event>
       <event id="1010" guid="36a2fc57-4f42-4315-8d77-cb579a0c7ef3">
@@ -979,6 +981,27 @@ Heizung von Häusern ist für etwa ein Drittel der Treibhausgasemissionen Deutsc
         <description>RegioPR-Treffen
 The RegioPR-Treffen from the CCC organized by Vollkorn</description>
         <persons/>
+        <links/>
+      </event>
+      <event id="1091" guid="b637b910-011b-41ea-b60f-36d7f6e29754">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Sensor.Community_-_Platform_for_Environmental_Data</url>
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1091-session_sensor_community_platform_for_environmental_data</slug>
+        <title>Sensor.Community - Platform for Environmental Data</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Community driven network of over 10.000 sensors in 71 countries that enables citizens to measure Air Quality.
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik">Dreirik</person>
+        </persons>
         <links/>
       </event>
     </room>
@@ -1520,13 +1543,15 @@ Daily A/V Angel Meeting. More information can be obtained from our news in the a
           <link>https://c3voc.de/</link>
         </links>
       </event>
+    </room>
+    <room name="Seminar room 14-15">
       <event id="1024" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d9">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
         <logo/>
         <date>2019-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>1:00</duration>
-        <room>Lecture room 11</room>
+        <room>Seminar room 14-15</room>
         <slug>36c3-1024-session_translation_team_meeting</slug>
         <title>Translation Team Meeting</title>
         <subtitle>Final Meeting Day 4</subtitle>
@@ -1542,7 +1567,6 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <links/>
       </event>
     </room>
-    <room name="Seminar room 14-15"/>
     <room name="Seminar room 13"/>
     <room name="Lecture room M1">
       <event id="1076" guid="70d8e449-4d85-4266-927c-026522bc1321">

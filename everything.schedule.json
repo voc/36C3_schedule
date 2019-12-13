@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 08:30; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 08:30",
+    "version": "2019-12-13 08:40; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 08:40",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -242,15 +242,15 @@
             ],
             "Lecture room M1": [
               {
-                "id": 1050,
-                "guid": "16ffef7c-6375-513e-bbf3-4c615d725037",
+                "id": 1045,
+                "guid": "ea6e37db-20f9-44dd-9438-2d2d1208f828",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting",
                 "logo": null,
                 "date": "2019-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "2:00",
                 "room": "Lecture room M1",
-                "slug": "36c3-1050-session_c3auti_engelmeeting",
+                "slug": "36c3-1045-session_c3auti_engelmeeting",
                 "title": "C3auti Engelmeeting",
                 "subtitle": "multi block, some slots will get freed",
                 "track": "self organized sessions",
@@ -1293,6 +1293,34 @@
                 "attachments": [],
                 "answers": []
               }
+            ],
+            "Assembly:Milliways": [
+              {
+                "id": 1082,
+                "guid": "a972292a-964c-4cfa-9528-c47422acb9e8",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:DO_NOT_TRY_THIS_AT_HOME",
+                "logo": null,
+                "date": "2019-12-27T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "Assembly:Milliways",
+                "slug": "36c3-1082-session_do_not_try_this_at_home",
+                "title": "DO NOT TRY THIS AT HOME",
+                "subtitle": "Really, do not try this at home!",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "What not to do when the shit hits the fan\nA short demonstration of techniques, materials and methods for rope access and rescue, especially the dangers and what can go wrong. *How to spot and avoid Materials that are totally unsafe for most applications *Things you shouldn't do when stuck in your favourite tree house.*Things you shouldn't do when you find yourself on a bridge. *Things you definitely shouldn't do when you discover a giant poster in your pocket. *Things you should absolutely avoid when expecting a speedy rescue by the authorities.*How to get your friends safely back to the ground when the authorities start fucking up This is not an in-depth climbing course.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MikeTango",
+                    "public_name": "MikeTango"
+                  }
+                ],
+                "links": []
+              }
             ]
           }
         },
@@ -1730,15 +1758,15 @@
                 "links": []
               },
               {
-                "id": 1047,
-                "guid": "9b176f33-d19b-55e6-bdc6-72f366fb0608",
+                "id": 1077,
+                "guid": "0de73d96-3c74-426c-93b2-6a08539f4561",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting",
                 "logo": null,
-                "date": "2019-12-28T15:00:00+01:00",
-                "start": "15:00",
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
                 "duration": "2:00",
                 "room": "Lecture room M1",
-                "slug": "36c3-1047-session_c3auti_engelmeeting",
+                "slug": "36c3-1077-session_c3auti_engelmeeting",
                 "title": "C3auti Engelmeeting",
                 "subtitle": "multi block, some slots will get freed",
                 "track": "self organized sessions",
@@ -1750,15 +1778,15 @@
                 "links": []
               },
               {
-                "id": 1048,
-                "guid": "a8a62cdc-a32c-53a2-a847-c9d5584b7e61",
+                "id": 1078,
+                "guid": "ad14689b-cf59-4b5a-a460-1ad9d35b83da",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting",
                 "logo": null,
-                "date": "2019-12-28T17:00:00+01:00",
-                "start": "17:00",
+                "date": "2019-12-28T15:00:00+01:00",
+                "start": "15:00",
                 "duration": "2:00",
                 "room": "Lecture room M1",
-                "slug": "36c3-1048-session_c3auti_engelmeeting",
+                "slug": "36c3-1078-session_c3auti_engelmeeting",
                 "title": "C3auti Engelmeeting",
                 "subtitle": "multi block, some slots will get freed",
                 "track": "self organized sessions",
@@ -3295,15 +3323,15 @@
             ],
             "Lecture room M1": [
               {
-                "id": 1051,
-                "guid": "83987b95-2760-5dd7-9573-4bc3930fa930",
+                "id": 1081,
+                "guid": "1429fea1-e821-4592-852e-6ae1c0eb1931",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting",
                 "logo": null,
                 "date": "2019-12-29T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "2:00",
                 "room": "Lecture room M1",
-                "slug": "36c3-1051-session_c3auti_engelmeeting",
+                "slug": "36c3-1081-session_c3auti_engelmeeting",
                 "title": "C3auti Engelmeeting",
                 "subtitle": "multi block, some slots will get freed",
                 "track": "self organized sessions",
@@ -4363,15 +4391,15 @@
             "Seminar room 13": [],
             "Lecture room M1": [
               {
-                "id": 1045,
-                "guid": "ea6e37db-20f9-44dd-9438-2d2d1208f828",
+                "id": 1076,
+                "guid": "70d8e449-4d85-4266-927c-026522bc1321",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting",
                 "logo": null,
-                "date": "2019-12-30T15:00:00+01:00",
-                "start": "15:00",
+                "date": "2019-12-30T17:00:00+01:00",
+                "start": "17:00",
                 "duration": "2:00",
                 "room": "Lecture room M1",
-                "slug": "36c3-1045-session_c3auti_engelmeeting",
+                "slug": "36c3-1076-session_c3auti_engelmeeting",
                 "title": "C3auti Engelmeeting",
                 "subtitle": "multi block, some slots will get freed",
                 "track": "self organized sessions",
@@ -4383,15 +4411,15 @@
                 "links": []
               },
               {
-                "id": 1046,
-                "guid": "cc4b7ef2-f009-57cc-acfd-968717bcd720",
+                "id": 1079,
+                "guid": "-e063-48a3-967f-7371084884a9",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti_Engelmeeting",
                 "logo": null,
-                "date": "2019-12-30T17:00:00+01:00",
-                "start": "17:00",
+                "date": "2019-12-30T15:00:00+01:00",
+                "start": "15:00",
                 "duration": "2:00",
                 "room": "Lecture room M1",
-                "slug": "36c3-1046-session_c3auti_engelmeeting",
+                "slug": "36c3-1079-session_c3auti_engelmeeting",
                 "title": "C3auti Engelmeeting",
                 "subtitle": "multi block, some slots will get freed",
                 "track": "self organized sessions",

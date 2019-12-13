@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 14:40; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 14:40",
+    "version": "2019-12-13 14:50; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 14:50",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -1981,6 +1981,32 @@
                 "links": []
               },
               {
+                "id": 1094,
+                "guid": "73b43a41-5736-46bd-a4ef-1b0281f6fd83",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:My_first_kernel_module:_A_keylogger",
+                "logo": null,
+                "date": "2019-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "3:00",
+                "room": "Lecture room M1",
+                "slug": "36c3-1094-session_my_first_kernel_module_a_keylogger",
+                "title": "My first kernel module: A keylogger",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Introduction to writing kernel modules\nIn this workshop, we will learn how to write a kernel module step by step, which will function as a keylogger. We will implement a character device to communicate data to the user space as a first step, hook tty functions to listen in on data typed on the keyboard, learn about kernel fifos and other typical kernel structures.To prepare for this session, you should download qemu, git, gcc, a text editor, ...Knowledge of C coding and a general idea of how an operating systems works would be very helpful for this session.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chrysh",
+                    "public_name": "Chrysh"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1065,
                 "guid": "6e3896e7-2912-46a3-a20a-49839a263bd8",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wie_man_ein_klimafreundliches_Haus_baut",
@@ -3875,32 +3901,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Rot13",
                     "public_name": "Rot13"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1094,
-                "guid": "73b43a41-5736-46bd-a4ef-1b0281f6fd83",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:My_first_kernel_module:_A_keylogger",
-                "logo": null,
-                "date": "2019-12-29T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "3:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1094-session_my_first_kernel_module_a_keylogger",
-                "title": "My first kernel module: A keylogger",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Introduction to writing kernel modules\nIn this workshop, we will learn how to write a kernel module step by step, which will function as a keylogger. We will implement a character device to communicate data to the user space as a first step, hook tty functions to listen in on data typed on the keyboard, learn about kernel fifos and other typical kernel structures.To prepare for this session, you should download qemu, git, gcc, a text editor, ...Knowledge of C coding and a general idea of how an operating systems works would be very helpful for this session.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chrysh",
-                    "public_name": "Chrysh"
                   }
                 ],
                 "links": []

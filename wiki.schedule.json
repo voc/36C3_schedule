@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 12:50",
+    "version": "2019-12-13 13:20",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress - Wiki",
@@ -338,26 +338,6 @@
                 "links": []
               },
               {
-                "id": 1055,
-                "guid": "b4615df7-595a-413d-8f41-db9584a6f13f",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Freedom_to_go",
-                "logo": null,
-                "date": "2019-12-27T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "2:00",
-                "room": "Lecture room M1",
-                "slug": "36c3-1055-session_freedom_to_go",
-                "title": "Freedom to go",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "An interactive workshop to present the Free Software App repository called F-Droid and the outstanding functionalities of its clients called F-Droid and G-Droid. After that we discover the best (imho!) Android-based Free Software apps including methods of anonymization and encryption - and you will have the possibility to present your personal favorite Free Software app as well.\nAfter a short introduction about possible (non-existing) freedoms in Android & its Custom ROMs, we will discover F-Droid, the Free Software app repository and explore the functionalities and possible usage of its client with the same name.This F-Droid client is characterized by an anarchic design, it is resistant to censorship and surveillance and comes with a lot of emancipating features for its users. Unfortunately, it can be also a bit confusing in the beginning. This is where G-Droid comes in, a fork of the F-Droid client that can access the very same repository of Free Software apps while offering completely new qualities information management. Getting to know both of them and their respective benefits is first part of the workshop.In order to further make the first steps of discovering freedom on mobile phones a pleasant experience, some of the best (imho!) Free Software apps from F-Droid (the repository) will be presented in the second part of the workshop - as well as easy possibilities for enhanced anonymization and encryption.This is an interactive session for everyone! You can ask any question at any time and if I cannot help you someone else from the audience usually can. Also during and after the workshop all participants are asked to introduce their personal favorite apps from F-Droid. This way we will all know more in the end.So if you are up for F- and G-Droid or feel like discovering the good side of Free Software on mobile phones then come and join the workshop!",
-                "persons": [],
-                "links": []
-              },
-              {
                 "id": 1040,
                 "guid": "a31a0334-b3d6-4768-a2b3-f13d79951440",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hygienebelehrung_/_Frikadellendiplom",
@@ -619,8 +599,8 @@
                 "guid": "e2e396e8-7173-4b27-a31e-0c278810598a",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:How_we_built_a_zero-knowledge_calendar",
                 "logo": null,
-                "date": "2019-12-28T21:00:00+01:00",
-                "start": "21:00",
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
                 "duration": "0:30",
                 "room": "Lecture room 11",
                 "slug": "36c3-1069-session_how_we_built_a_zero_knowledge_calendar",
@@ -631,7 +611,13 @@
                 "language": "en",
                 "abstract": "",
                 "description": "n this talk, I\u2019d like to explain how we handle the encryption so that it is 1. easy for the user, and 2. still so secure that only the user can access his data. I will also describe how me implemented encrypted alarms and such advanced features as sharing of the encrypted calendar.\nWe, a small team of developers in Hanover, are building Tutanota to offer a privacy-friendly alternative to Gmail and Google Calendar. To achieve that, we build our own infrastructure (not relying on Google services) and use end-to-end encryption. Both come with their own set of challenges. For instance, we never used reCaptcha, but built our own captcha instead. For our Android app, we have replaced Firebase Push Notifications with our own system (which was a real challenge). The latest addition to our secure email service is an open source, zero-knowledge calendar. In this talk, I\u2019d like to explain how we handle the encryption so that it is 1. easy for the user, and 2. still so secure that only the user can access his data. I will also describe how me implemented encrypted alarms and such advanced features as sharing of the encrypted calendar. The talk will touch solutions for platform restrictions and encryption features.",
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
+                    "public_name": "Dreirik"
+                  }
+                ],
                 "links": [
                   "https://tutanota.com/calendar"
                 ]
@@ -944,26 +930,6 @@
             ],
             "Lecture room M1": [
               {
-                "id": 1066,
-                "guid": "48801aee-64d2-4e30-8b92-8d360566bbac",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:3.8_Billion_users%27_future:_Email_3.0",
-                "logo": null,
-                "date": "2019-12-28T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "0:30",
-                "room": "Lecture room M1",
-                "slug": "36c3-1066-session_3_8_billion_users_future_email_3_0",
-                "title": "3.8 Billion users' future: Email 3.0",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?\nHundreds of messaging platforms have launched and failed over the last 50 years. One has grown voraciously, netting 3.8 billion users, and handling 103 trillion messages each year. Like the Internet itself, email is decentralised and censorship resistant by design. It is technically extensible, powered by Free Software, and Open Standards agreed independently by consensus.LinkedIn, Facebook, Google and others are racing to own the future of this space, with Gmail alone accounting for 28% of email opens in 2018, in Western countries. Email's freedom, privacy, and security are taken for granted and under threat. What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?",
-                "persons": [],
-                "links": []
-              },
-              {
                 "id": 1005,
                 "guid": "77483904-f342-461c-827c-cd1c63613b5f",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Accessibility_and_Inclusion",
@@ -1129,6 +1095,58 @@
                 "abstract": "",
                 "description": "Options to make Canada your new home from obtaining visa to immigration.\n",
                 "persons": [],
+                "links": []
+              },
+              {
+                "id": 1055,
+                "guid": "b4615df7-595a-413d-8f41-db9584a6f13f",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Freedom_to_go",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "2:00",
+                "room": "Lecture room M2",
+                "slug": "36c3-1055-session_freedom_to_go",
+                "title": "Freedom to go",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "An interactive workshop to present the Free Software App repository called F-Droid and the outstanding functionalities of its clients called F-Droid and G-Droid. After that we discover the best (imho!) Android-based Free Software apps including methods of anonymization and encryption - and you will have the possibility to present your personal favorite Free Software app as well.\nAfter a short introduction about possible (non-existing) freedoms in Android & its Custom ROMs, we will discover F-Droid, the Free Software app repository and explore the functionalities and possible usage of its client with the same name.This F-Droid client is characterized by an anarchic design, it is resistant to censorship and surveillance and comes with a lot of emancipating features for its users. Unfortunately, it can be also a bit confusing in the beginning. This is where G-Droid comes in, a fork of the F-Droid client that can access the very same repository of Free Software apps while offering completely new qualities information management. Getting to know both of them and their respective benefits is first part of the workshop.In order to further make the first steps of discovering freedom on mobile phones a pleasant experience, some of the best (imho!) Free Software apps from F-Droid (the repository) will be presented in the second part of the workshop - as well as easy possibilities for enhanced anonymization and encryption.This is an interactive session for everyone! You can ask any question at any time and if I cannot help you someone else from the audience usually can. Also during and after the workshop all participants are asked to introduce their personal favorite apps from F-Droid. This way we will all know more in the end.So if you are up for F- and G-Droid or feel like discovering the good side of Free Software on mobile phones then come and join the workshop!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
+                    "public_name": "Dreirik"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1095,
+                "guid": "04353a77-a338-4644-b705-da821c790a1a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Origami",
+                "logo": null,
+                "date": "2019-12-28T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "1:30",
+                "room": "Lecture room M2",
+                "slug": "36c3-1095-session_origami",
+                "title": "Origami",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "Origami for absolute beginners\nMountainfolds and Valleyfolds and diagrams and how to read them.Folding simple objects.I will provide paper for all participants. If you are already experienced feel free to join to help other participants with less experience.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Cyberpilot",
+                    "public_name": "Cyberpilot"
+                  }
+                ],
                 "links": []
               },
               {
@@ -1661,6 +1679,32 @@
             ],
             "Lecture room M2": [
               {
+                "id": 1066,
+                "guid": "48801aee-64d2-4e30-8b92-8d360566bbac",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:3.8_Billion_users%27_future:_Email_3.0",
+                "logo": null,
+                "date": "2019-12-29T19:30:00+01:00",
+                "start": "19:30",
+                "duration": "0:30",
+                "room": "Lecture room M2",
+                "slug": "36c3-1066-session_3_8_billion_users_future_email_3_0",
+                "title": "3.8 Billion users' future: Email 3.0",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?\nHundreds of messaging platforms have launched and failed over the last 50 years. One has grown voraciously, netting 3.8 billion users, and handling 103 trillion messages each year. Like the Internet itself, email is decentralised and censorship resistant by design. It is technically extensible, powered by Free Software, and Open Standards agreed independently by consensus.LinkedIn, Facebook, Google and others are racing to own the future of this space, with Gmail alone accounting for 28% of email opens in 2018, in Western countries. Email's freedom, privacy, and security are taken for granted and under threat. What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
+                    "public_name": "Dreirik"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1059,
                 "guid": "40223e47-9260-4412-a25c-3ed07ac2fd70",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Carbon.txt_-_what_would_a_robots.txt_for_green_infrastructure_look_like%3F",
@@ -1724,6 +1768,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Jinxx",
                     "public_name": "Jinxx"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1094,
+                "guid": "73b43a41-5736-46bd-a4ef-1b0281f6fd83",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:My_first_kernel_module:_A_keylogger",
+                "logo": null,
+                "date": "2019-12-29T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "3:00",
+                "room": "Lecture room M2",
+                "slug": "36c3-1094-session_my_first_kernel_module_a_keylogger",
+                "title": "My first kernel module: A keylogger",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Introduction to writing kernel modules\nIn this workshop, we will learn how to write a kernel module step by step, which will function as a keylogger. We will implement a character device to communicate data to the user space as a first step, hook tty functions to listen in on data typed on the keyboard, learn about kernel fifos and other typical kernel structures.To prepare for this session, you should download qemu, git, gcc, a text editor, ...Knowledge of C coding and a general idea of how an operating systems works would be very helpful for this session.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chrysh",
+                    "public_name": "Chrysh"
                   }
                 ],
                 "links": []

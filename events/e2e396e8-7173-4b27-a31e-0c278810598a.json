@@ -3,8 +3,8 @@
   "guid": "e2e396e8-7173-4b27-a31e-0c278810598a",
   "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:How_we_built_a_zero-knowledge_calendar",
   "logo": null,
-  "date": "2019-12-28T21:00:00+01:00",
-  "start": "21:00",
+  "date": "2019-12-28T20:00:00+01:00",
+  "start": "20:00",
   "duration": "0:30",
   "room": "Lecture room 11",
   "slug": "36c3-1069-session_how_we_built_a_zero_knowledge_calendar",
@@ -15,7 +15,13 @@
   "language": "en",
   "abstract": "",
   "description": "n this talk, I\u2019d like to explain how we handle the encryption so that it is 1. easy for the user, and 2. still so secure that only the user can access his data. I will also describe how me implemented encrypted alarms and such advanced features as sharing of the encrypted calendar.\nWe, a small team of developers in Hanover, are building Tutanota to offer a privacy-friendly alternative to Gmail and Google Calendar. To achieve that, we build our own infrastructure (not relying on Google services) and use end-to-end encryption. Both come with their own set of challenges. For instance, we never used reCaptcha, but built our own captcha instead. For our Android app, we have replaced Firebase Push Notifications with our own system (which was a real challenge). The latest addition to our secure email service is an open source, zero-knowledge calendar. In this talk, I\u2019d like to explain how we handle the encryption so that it is 1. easy for the user, and 2. still so secure that only the user can access his data. I will also describe how me implemented encrypted alarms and such advanced features as sharing of the encrypted calendar. The talk will touch solutions for platform restrictions and encryption features.",
-  "persons": [],
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
+      "public_name": "Dreirik"
+    }
+  ],
   "links": [
     "https://tutanota.com/calendar"
   ]

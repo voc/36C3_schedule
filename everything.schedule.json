@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 03:00; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 03:00",
+    "version": "2019-12-13 03:30; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 03:30",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -1664,6 +1664,26 @@
                 "description": "\n",
                 "persons": [],
                 "links": []
+              },
+              {
+                "id": 1065,
+                "guid": "6e3896e7-2912-46a3-a20a-49839a263bd8",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wie_man_ein_klimafreundliches_Haus_baut",
+                "logo": null,
+                "date": "2019-12-28T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "0:30",
+                "room": "Lecture room M1",
+                "slug": "36c3-1065-session_wie_man_ein_klimafreundliches_haus_baut",
+                "title": "Wie man ein klimafreundliches Haus baut",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": ". Der Vortrag beschreibt M\u00f6glichkeiten, komfortabel zu bewohnende H\u00e4user fast ohne Heizung zu bauen. In diesem Vortrag werden nur neu zu bauende Geb\u00e4ude betrachtet. Die gezeigten Methoden sind f\u00fcr Wohn- und Nichtwohngeb\u00e4ude aller Gr\u00f6\u00dfen verwendbar.\nHeizung von H\u00e4usern ist f\u00fcr etwa ein Drittel der Treibhausgasemissionen Deutschlands verantwortlich. Dabei gibt es bessere M\u00f6glichkeiten als einfach irgendeinen Brennstoff anzuz\u00fcnden. Dieses Problem muss und kann gel\u00f6st werden. Der Vortrag beschreibt M\u00f6glichkeiten, komfortabel zu bewohnende H\u00e4user fast ohne Heizung zu bauen. In diesem Vortrag werden nur neu zu bauende Geb\u00e4ude betrachtet. Die gezeigten Methoden sind f\u00fcr Wohn- und Nichtwohngeb\u00e4ude aller Gr\u00f6\u00dfen verwendbar.    Es geht um folgende Details:    * W\u00e4rmeverluste: Wo geht die W\u00e4rme raus? Wo m\u00fcssen wir also ran?    * Zuerst isolieren: W\u00e4nde, Fenster, Dach, Boden    * Dann W\u00e4rme zur\u00fcckgewinnen: Maschinelle L\u00fcftung mit W\u00e4rmer\u00fcckgewinnung    * Vorhandene W\u00e4rme nutzen: Solare und innere Gewinne    * Restw\u00e4rmebedarf und Warmwasser erzeugen    * Wie lebt es sich darin? Thermoskannengef\u00fchl oder komfortabel?, Langzeiterfahrungen    * Standards: KfW-Effizienzhaus, Passivhaus, Efffizienzhaus-Plus    * \"Free Money\": Heizkosten, Mehrkosten und Zusch\u00fcsse beim Bau in Deutschland    * Warum nicht einfach erneuerbare Energie f\u00fcr die W\u00e4rmeerzeugung nehmen?",
+                "persons": [],
+                "links": []
               }
             ],
             "Lecture room M2": [
@@ -3039,6 +3059,46 @@
                 "links": [
                   "https://events.ccc.de/congress/2019/wiki/index.php/Assembly:About:freedom"
                 ]
+              },
+              {
+                "id": 1063,
+                "guid": "39dc7a54-3a39-4be8-b3d4-385e75c19c7e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Free_Software_for_Open_Science",
+                "logo": null,
+                "date": "2019-12-29T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "1:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1063-session_free_software_for_open_science",
+                "title": "Free Software for Open Science",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "In this session we will discuss the state of FOSS within the various European  scientific communities.\nThe principles of Free and Open Source Software (FOSS) are well aligned with the core tenets of science, i.e., the sharing of knowledge and the demand for reproducibility of results. Nevertheless, FOSS is still  rather the exception than the rule for the majority of scientific domains. In this session we will discuss the state of FOSS within the various European  scientific communities. Based on this we will try to identify stakeholders,  common goals and potential policy proposals.",
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 1064,
+                "guid": "828e37b3-dcea-42a4-8482-b51c1c809580",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Free_Software_for_Qualitative_Social_Research",
+                "logo": null,
+                "date": "2019-12-29T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "0:30",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1064-session_free_software_for_qualitative_social_research",
+                "title": "Free Software for Qualitative Social Research",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Discussing Free Software tools for social research\nDuring my sociology master thesis I tried a lot of free software and developed a profound workflow from literature research, interview preparation and processing to analysis, note taking and the final writing process. Because I have made the experience that especially in the social sciences and humanities there is hardly any technical interest, there is also little information about free software among fellow students. Therefore I would like to use the about:freedom space to introduce the tools I have used and exchange information about alternative software for academic use. I'm just finishing my sociology master's degree at Osnabr\u00fcck University and would like to become a journalist afterwards. Free Software has always been important to me since I've been using Linux for about ten years now and I'm always looking for new, useful software and try to share my knowledge for example at CryptoParties.",
+                "persons": [],
+                "links": []
               }
             ],
             "Seminar room 13": [

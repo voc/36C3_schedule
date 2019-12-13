@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 15:20; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 15:20</version>
+  <version>2019-12-13 15:30; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 15:30</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -451,6 +451,29 @@ The will be an extra registration for the workshop which will be linked in this 
           <link>https://kinkygeeks.de</link>
         </links>
       </event>
+      <event id="1102" guid="5bae76cb-7863-4ad4-b71b-8294acad2381">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:KinkyGeeks_-_Hypnose_f%C3%BCr_Anf%C3%A4nger_Workshop</url>
+        <logo/>
+        <date>2019-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1102-session_kinkygeeks_hypnose_fuer_anfaenger_workshop</slug>
+        <title>KinkyGeeks - Hypnose für Anfänger Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hypnosis lesson for beginner
+The will be an extra registration for the workshop which will be linked in this description. (registration link goes live near christmas) We need to do this because of the large number of people that want to attend. We have only limited room and we would like to not handle a huge crowd control again.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Lil-Missy">Lil-Missy</person>
+        </persons>
+        <links>
+          <link>https://kinkygeeks.de</link>
+        </links>
+      </event>
     </room>
     <room name="Kidspace"/>
     <room name="CCL Saal 3"/>
@@ -768,6 +791,11 @@ Frank Dörner von Ärzte ohne Grenzen und Sebastian Jünemann von CADUS geben ei
             <code>M7YNCY</code>
             <public_name>Sebastian Jünemann</public_name>
             <biography>Gründer der unabhängigen humanitären Hilfsorganisation CADUS e.V., die in Zusammenarbeit mit lokalen Partner*innen medizinische und technische Nothilfe leistet. CADUS ist hauptsächlich in Nordost-Syrien und im Nord-Irak tätig. Im Berliner Crisis Response Makerspace der Organisation werden open source Lösungen für Herausforderungen in der humanitären Hilfe entwickelt.</biography>
+          </person>
+          <person id="150">
+            <code>ADFHYV</code>
+            <public_name>Frank Dörner</public_name>
+            <biography>Frank Dörner ist Allgemeinarzt und arbeitet seit Ende der 90er im humanitären Kontext mit Ärzte ohne Grenzen. Er hat in verschiedensten Projekten gearbeitet und war 6 Jahre lang Geschäftsführer in Berlin. Frank gehört zum Gründungskreis von Sea-Watch und war mehrfach im Einsatz auf dem Meer, letztmalig im Januar 2019. Seit Mai diesen Jahres gehört Frank zudem zum Vorstand von ÄoG.</biography>
           </person>
         </persons>
         <links/>
@@ -3474,14 +3502,16 @@ In this session we will present talks around GNUnet.Incomplete list / TBD:- GNUn
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language/>
+        <language>de</language>
         <abstract/>
-        <description>
-</description>
+        <description>Pleeeenum! Ple-he-he-num, Plenum ist wichtig für die Revolution!
+Dies ist ein internes Treffen der Haecksen. Wenn du noch keine bist und eine werden möchtest, komme bitte zum [[Session:Haecksenfrühstück|Haecksenfrühstück]].</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Janepie">Janepie</person>
         </persons>
-        <links/>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
       </event>
       <event id="1057" guid="5f61260e-8576-452d-a876-fd8c3c0b9e35">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:The_Secret_Truecrypt_Audit_from_the_BSI</url>
@@ -3732,6 +3762,29 @@ Target boards will be provided, bring your own laptop, more details to follow.</
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Vtec">Vtec</person>
         </persons>
         <links/>
+      </event>
+      <event id="1101" guid="818315e1-ecdf-4ed6-97e8-fdf88087b7d6">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:KinkyGeeks_-_Erste_Hilfe_-_Kinky_Edition</url>
+        <logo/>
+        <date>2019-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1101-session_kinkygeeks_erste_hilfe_kinky_edition</slug>
+        <title>KinkyGeeks - Erste Hilfe - Kinky Edition</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>First aid lesson for kinky people
+The will be an extra registration for the workshop which will be linked in this description. (registration link goes live near christmas) We need to do this because of the large number of people that want to attend. We have only limited room and we would like to not handle a huge crowd control again.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Lil-Missy">Lil-Missy</person>
+        </persons>
+        <links>
+          <link>https://kinkygeeks.de</link>
+        </links>
       </event>
       <event id="1018" guid="cf0f33c6-12f0-4aa7-b371-ffb80f06af3e">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:NIFTI-Meetup</url>

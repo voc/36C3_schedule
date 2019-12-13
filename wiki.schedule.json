@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 12:40",
+    "version": "2019-12-13 12:50",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress - Wiki",
@@ -192,9 +192,9 @@
                 "guid": "4fcc3853-b979-4f41-91ef-91e9053ac5e4",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Nachhaltige_Mobilit%C3%A4tsplanung_mit_offenen_Daten",
                 "logo": null,
-                "date": "2019-12-27T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "3:00",
+                "date": "2019-12-27T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "2:30",
                 "room": "Seminar room 14-15",
                 "slug": "36c3-1087-session_nachhaltige_mobilitaetsplanung_mit_offenen_daten",
                 "title": "Nachhaltige Mobilit\u00e4tsplanung mit offenen Daten",
@@ -1086,6 +1086,32 @@
             ],
             "Lecture room M2": [
               {
+                "id": 1092,
+                "guid": "729d330b-b0a8-4b77-afec-158982b9d2b4",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:(Python)_Programming_for_Absolute_Beginners",
+                "logo": null,
+                "date": "2019-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "1:30",
+                "room": "Lecture room M2",
+                "slug": "36c3-1092-session_python_programming_for_absolute_beginners",
+                "title": "(Python) Programming for Absolute Beginners",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "In this workshop, addressed at (absolute) beginners, you will get your feet wet in (Python) programming. Don't worry, everyone who wants to have a (first?) look at programming is welcome independently of their skills or background.\n''(While this abstract is in English, this workshop will be held either in English or German; depending on who wants to participate!)''This workshop is intended as a first introduction to (Python) programming for '''absolute beginners'''. While C3 traditionally is a 'tech/hacker conference', more and more people without a background in programming attend - this is awesome!While you certainly don't have to be a 'coder' to be a part of congress (or to be a hacker), programming is still fun, wonderfully creative, and also an extremely valuable skill. Don't be afraid to give it a go!Of course, by the end of this 90-minute workshop, you will not be a programmer. You will, however, have attempted a deep dive into (Python) programming, learned some basics, and set yourself up for further learning (if you choose to do so).If you want to actively participate (i.e. try coding), you should bring a device which is capable running a modern browser and has Internet access. A laptop (or similar) would be best, but phones and tablets should work just fine (despite the slow typing).About me: My name is Ingo and I'm currently working at Heidelberg University. There, I'm involved with teacher education/training and foreign language teaching in particular. My love for Python stems from my work as a (computational) linguist and various projects I've been involved with. :)Ps. This is a slightly updated version of the workshop(s) I gave at 35c3 last year.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ingo",
+                    "public_name": "Ingo"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1060,
                 "guid": "565bb40a-c1ce-46b9-8776-4c1714aaf3da",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Finding_your_new_home:_Canadian_Immigration_system",
@@ -1444,6 +1470,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:InsulinJunkieDe",
                     "public_name": "InsulinJunkieDe"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1093,
+                "guid": "ef30e718-5095-408f-aeee-bc14be571b91",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Introduction_to_Natural_Language_Processing",
+                "logo": null,
+                "date": "2019-12-29T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "2:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1093-session_introduction_to_natural_language_processing",
+                "title": "Introduction to Natural Language Processing",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "This workshop will introduce you to the basics of natural language processing in Python.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ingo",
+                    "public_name": "Ingo"
                   }
                 ],
                 "links": []

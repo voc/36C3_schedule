@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 01:10; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 01:10</version>
+  <version>2019-12-13 01:50; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 01:50</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -1482,6 +1482,25 @@ This meeting is used for the distribution of shifts for the Translation team.</d
       </event>
     </room>
     <room name="Seminar room 14-15">
+      <event id="1052" guid="eb7cab5a-9f72-490a-bf85-abc3a527fe75">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fuzzing_Round_Table</url>
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1052-session_fuzzing_round_table</slug>
+        <title>Fuzzing Round Table</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Open discussion about recent trends and advancements in fuzzing.
+We will have a discussion about recent problems and breakthroughs in fuzzing. If you have worked on any novel fuzzers lateley, _do_ drop by :)</description>
+        <persons/>
+        <links/>
+      </event>
       <event id="1021" guid="beea77e4-46c0-4280-a406-79b79ed66d8a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Sexuelle_Bel%C3%A4stigung_am_Arbeitsplatz</url>
         <logo/>

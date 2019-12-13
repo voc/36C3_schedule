@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 09:30</version>
+  <version>2019-12-13 09:50</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress - Wiki</title>
@@ -646,14 +646,16 @@ We will have a discussion about recent problems and breakthroughs in fuzzing. If
         <room>Seminar room 14-15</room>
         <slug>36c3-1074-session_monitor_anything_you_want_</slug>
         <title>Monitor anything you want.</title>
-        <subtitle>Intro into prometheus-client libs and write your first exporter.</subtitle>
+        <subtitle>Intro into prometheus-client libs and writing your first exporter.</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
         <abstract/>
         <description>Monitor anything you want with Prometheus or Graphite using Grafana.
-</description>
-        <persons/>
+Who doesn't know it.You have some very nice Software build or a Project finished.And you want to monitor the most important metrics of that Project or Software.That is where Prometheus and Graphite kick in.Using them you can store your metrics in a easy queryable way for Grafana to show them.This ensures that you are able to view insights of your project or your newly build Software.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Cellebyte">Cellebyte</person>
+        </persons>
         <links/>
       </event>
       <event id="1075" guid="694a07e1-e16d-46d2-8f83-c57eaff4e528">

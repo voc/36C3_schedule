@@ -9,12 +9,18 @@
   "room": "Seminar room 14-15",
   "slug": "36c3-1074-session_monitor_anything_you_want_",
   "title": "Monitor anything you want.",
-  "subtitle": "Intro into prometheus-client libs and write your first exporter.",
+  "subtitle": "Intro into prometheus-client libs and writing your first exporter.",
   "track": "self organized sessions",
   "type": "workshop",
   "language": "de",
   "abstract": "",
-  "description": "Monitor anything you want with Prometheus or Graphite using Grafana.\n",
-  "persons": [],
+  "description": "Monitor anything you want with Prometheus or Graphite using Grafana.\nWho doesn't know it.You have some very nice Software build or a Project finished.And you want to monitor the most important metrics of that Project or Software.That is where Prometheus and Graphite kick in.Using them you can store your metrics in a easy queryable way for Grafana to show them.This ensures that you are able to view insights of your project or your newly build Software.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Cellebyte",
+      "public_name": "Cellebyte"
+    }
+  ],
   "links": []
 }

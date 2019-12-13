@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 14:30; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 14:30</version>
+  <version>2019-12-13 14:40; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 14:40</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -386,6 +386,27 @@ Stammtisch für Menschen aus dem Bildungsbereich</description>
       </event>
     </room>
     <room name="Lecture room M3">
+      <event id="1097" guid="4463f987-9440-4f0b-8eb9-3352b649a15c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Angelmeeting:_Hall_Angel_Coordinator</url>
+        <logo/>
+        <date>2019-12-27T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>1:00</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1097-session_angelmeeting_hall_angel_coordinator</slug>
+        <title>Angelmeeting: Hall Angel Coordinator</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction for Hall Angel Coordinators (HAC)
+The first and future annual meeting for new and seasoned Hall Angel Coordinators. On Day 1, we will do the first introduction. if you are new, please come by!Hall Angel Coordinators are the invisible hands behind a hall, besides of the Stage Manager Role, that make sure that everything Hall related especially the people changes (aka Crowd Control) is working and everyone finds a seat. They assist and communicate between all of the Hall Angel Teams in the lecture halls, to guarantee a smooth and entertaining program.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:TheC">TheC</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1007" guid="0257ce0d-bffa-48ca-8a89-3f49d143377e">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Angelmeeting:_Stage_Support_%26_Stage_Manager</url>
         <logo/>
@@ -406,6 +427,29 @@ Stammtisch für Menschen aus dem Bildungsbereich</description>
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Katzazi">Katzazi</person>
         </persons>
         <links/>
+      </event>
+      <event id="1098" guid="f8a7bdb6-2009-482a-a17f-1b93b4c7d190">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:KinkyGeeks_-_Bondage_f%C3%BCr_Anf%C3%A4nger_Workshop</url>
+        <logo/>
+        <date>2019-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>2:00</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1098-session_kinkygeeks_bondage_fuer_anfaenger_workshop</slug>
+        <title>KinkyGeeks - Bondage für Anfänger Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Bondage and Safety lesson for beginner
+The will be an extra registration for the workshop which will be linked in this description. (registration link goes live near christmas) We need to do this because of the large number of people that want to attend. We have only limited room and we would like to not handle a huge crowd control again.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Lil-Missy">Lil-Missy</person>
+        </persons>
+        <links>
+          <link>https://kinkygeeks.de</link>
+        </links>
       </event>
     </room>
     <room name="Kidspace"/>

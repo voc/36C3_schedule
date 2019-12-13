@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 23:30; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-13 23:30",
+    "version": "2019-12-13 23:50; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-13 23:50",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -1565,7 +1565,7 @@
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "talk",
-                "language": "",
+                "language": "de",
                 "abstract": "",
                 "description": "Vaporizer Enthusiasts Meetup\nVaporizer User meetup at CCL Terrace. After talking a bit we can head out to get some pizza or some other food.",
                 "persons": [],
@@ -3908,6 +3908,32 @@
                 "links": []
               },
               {
+                "id": 1116,
+                "guid": "bc31497b-07a7-4341-b7bf-649c09add3f9",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pen%26Paper_RPG",
+                "logo": null,
+                "date": "2019-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "6:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1116-session_pen_paper_rpg",
+                "title": "Pen&Paper RPG",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Round of Pen and Paper RPG\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Shantalya",
+                    "public_name": "Shantalya"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1062,
                 "guid": "707f849b-e333-4174-890f-214293c8c1c0",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Repair_for_Future",
@@ -4114,6 +4140,32 @@
                 "links": [
                   "https://carbontxt.org/"
                 ]
+              },
+              {
+                "id": 1118,
+                "guid": "5401dff1-b4a7-47b7-8c42-70c4b453b338",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Comunity_Accountability",
+                "logo": null,
+                "date": "2019-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:20",
+                "room": "Lecture room M2",
+                "slug": "36c3-1118-session_comunity_accountability",
+                "title": "Comunity Accountability",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Community Accountability\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Buecherwurm",
+                    "public_name": "Buecherwurm"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1085,

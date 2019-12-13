@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 11:10</version>
+  <version>2019-12-13 11:40</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress - Wiki</title>
@@ -42,6 +42,29 @@ Daily A/V Angel Meeting. More information can be obtained from our news in the a
         <persons/>
         <links>
           <link>https://c3voc.de/</link>
+        </links>
+      </event>
+      <event id="1044" guid="f729430f-eaaa-4c12-831a-6f07a6af0416">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tor_operator_meetup</url>
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1044-session_tor_operator_meetup</slug>
+        <title>Tor operator meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>Tor operator meetup, discussion and partly moderated
+Tor operator meetup, anyone currently operating any Tor infrastructure or anyone planning to operate and infrastructure in the future is welcome to participate here.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Utzer">Utzer</person>
+        </persons>
+        <links>
+          <link>https://www.torproject.org/</link>
         </links>
       </event>
       <event id="1032" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8cd">
@@ -512,29 +535,6 @@ We, a small team of developers in Hanover, are building Tutanota to offer a priv
 </description>
         <persons/>
         <links/>
-      </event>
-      <event id="1044" guid="f729430f-eaaa-4c12-831a-6f07a6af0416">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tor_operator_meetup</url>
-        <logo/>
-        <date>2019-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:30</duration>
-        <room>Lecture room 11</room>
-        <slug>36c3-1044-session_tor_operator_meetup</slug>
-        <title>Tor operator meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language/>
-        <abstract/>
-        <description>Tor operator meetup, discussion and partly moderated
-Tor operator meetup, anyone currently operating any Tor infrastructure or anyone planning to operate and infrastructure in the future is welcome to participate here.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Utzer">Utzer</person>
-        </persons>
-        <links>
-          <link>https://www.torproject.org/</link>
-        </links>
       </event>
       <event id="1029" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d1">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 11:10",
+    "version": "2019-12-13 11:40",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress - Wiki",
@@ -55,6 +55,34 @@
                 "persons": [],
                 "links": [
                   "https://c3voc.de/"
+                ]
+              },
+              {
+                "id": 1044,
+                "guid": "f729430f-eaaa-4c12-831a-6f07a6af0416",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tor_operator_meetup",
+                "logo": null,
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:30",
+                "room": "Lecture room 11",
+                "slug": "36c3-1044-session_tor_operator_meetup",
+                "title": "Tor operator meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "Tor operator meetup, discussion and partly moderated\nTor operator meetup, anyone currently operating any Tor infrastructure or anyone planning to operate and infrastructure in the future is welcome to participate here.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Utzer",
+                    "public_name": "Utzer"
+                  }
+                ],
+                "links": [
+                  "https://www.torproject.org/"
                 ]
               },
               {
@@ -589,34 +617,6 @@
                 "description": "\n",
                 "persons": [],
                 "links": []
-              },
-              {
-                "id": 1044,
-                "guid": "f729430f-eaaa-4c12-831a-6f07a6af0416",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tor_operator_meetup",
-                "logo": null,
-                "date": "2019-12-28T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "1:30",
-                "room": "Lecture room 11",
-                "slug": "36c3-1044-session_tor_operator_meetup",
-                "title": "Tor operator meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "",
-                "abstract": "",
-                "description": "Tor operator meetup, discussion and partly moderated\nTor operator meetup, anyone currently operating any Tor infrastructure or anyone planning to operate and infrastructure in the future is welcome to participate here.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Utzer",
-                    "public_name": "Utzer"
-                  }
-                ],
-                "links": [
-                  "https://www.torproject.org/"
-                ]
               },
               {
                 "id": 1029,

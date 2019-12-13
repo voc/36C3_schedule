@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-13 20:50",
+    "version": "2019-12-13 21:20",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress - Wiki",
@@ -513,6 +513,32 @@
                 "abstract": "",
                 "description": "\n",
                 "persons": [],
+                "links": []
+              },
+              {
+                "id": 1114,
+                "guid": "a13e233f-c6c2-4941-81c9-bf3dc088b761",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Passwordsafe_f%C3%BCr_Anf%C3%A4nger",
+                "logo": null,
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "1:00",
+                "room": "Lecture room M2",
+                "slug": "36c3-1114-session_passwordsafe_fuer_anfaenger",
+                "title": "Passwordsafe f\u00fcr Anf\u00e4nger",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Passwordsafe f\u00fcr Anf\u00e4nger\nDu benutzt die drei gleichen Passw\u00f6rter f\u00fcr alle deine Online-Accounts? Du wei\u00dft, dass das nicht sicher ist, hast bislang aber noch keine bessere L\u00f6sung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen l\u00e4sst. Zun\u00e4chst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschlie\u00dfend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht \u00fcberwinden konnten.Disclaimer: Warum Bitwarden? es gibt ja viele verschiedene Passwortsafes Ich habe keine Verbindung zu Bitwarden, sondern habe diesen gew\u00e4hlt da er Opensource ist, leicht bedienbar und f\u00fcr Einsteiger einfacher zu nutzen als ein Passwortsafe wie KeePass.Fragen? Kontaktiere Tjal: https://twitter.com/tuikc",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Tjal",
+                    "public_name": "Tjal"
+                  }
+                ],
                 "links": []
               }
             ],
@@ -1522,7 +1548,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "ATTiny+Neopixel hacking\n",
+                "description": "ATTiny+Neopixel hacking\nIm Rahmen des Workshops werden wir auf Basis des Microcontrollers ATTiny85  Neopixel LEDs zum leuchten bringen. Gerne kann die Schaltung am Ende des Workshops mitgenommen werden. Eine Spendenbox wird es auch geben.",
                 "persons": [
                   {
                     "id": 0,
@@ -1560,6 +1586,36 @@
                 ],
                 "links": [
                   "https://coderdojo.c-base.org/"
+                ]
+              }
+            ],
+            "Assembly:ChaosZone": [
+              {
+                "id": 1111,
+                "guid": "803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag",
+                "logo": null,
+                "date": "2019-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "3:00",
+                "room": "Assembly:ChaosZone",
+                "slug": "36c3-1111-session_makerbuino_building_session_1_junghackertag",
+                "title": "MAKERbuino Building Session 1 @ Junghackertag",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's build a game console!\n[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) participating in the Junghackertag. We'll have 10 seats available.Please note that this is not a kit for absolute beginners and that you should have at least some basic experience in soldering.We'll have 10 seats available at ChaosZone.More information [[MAKERbuino|can be found here]].",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
+                    "public_name": "Micha"
+                  }
+                ],
+                "links": [
+                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
                 ]
               }
             ]
@@ -2227,7 +2283,37 @@
             "CCL Saal 3": [],
             "Chaos West B\u00fchne": [],
             "ChaosZone": [],
-            "OIO Stage": []
+            "OIO Stage": [],
+            "Assembly:Hardware Hacking Area": [
+              {
+                "id": 1112,
+                "guid": "702627f8-4acf-40d3-9e59-0837af6584d8",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_2_@_Hardware_Hacking_Area",
+                "logo": null,
+                "date": "2019-12-29T09:00:00+01:00",
+                "start": "09:00",
+                "duration": "3:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1112-session_makerbuino_building_session_2_hardware_hacking_area",
+                "title": "MAKERbuino Building Session 2 @ Hardware Hacking Area",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Build your own game console!\n[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) and grown-ups at 36C3. I know that kids are usually not interested in as many talks as grown-ups, so there's a potentially high demand for fun stuff to do for kids at 36C3. For this reason, the MAKERbuino kits are intended to be built by 1. kids and 2. non-kids (everybody else). If you're a grown-up, you're most welcome to join the session! Build your own kit if there are any kits left and/or consider helping a kid if you already have some basic soldering experience.We'll have 10 seats available at Hamsterspace@HHA. Here are some additional hints:* If you're a kid, bring a parent if you can! * If you've never soldered before, build a small kit before building a MAKERbuino. There's plenty of opportunity at 36C3 to gain basic soldering experience during the days before the session, for example:** [[Learn_to_solder|Learn To Solder (Hardware Hacking Area)]]** [[Session:Soldering_Workshop_(Chaos_macht_Schule)|Soldering Workshop (Chaos macht Schule)]]*More information [[MAKERbuino|can be found here]].",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
+                    "public_name": "Micha"
+                  }
+                ],
+                "links": [
+                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
+                ]
+              }
+            ]
           }
         },
         {
@@ -2365,7 +2451,37 @@
             "CCL Saal 3": [],
             "Chaos West B\u00fchne": [],
             "ChaosZone": [],
-            "OIO Stage": []
+            "OIO Stage": [],
+            "Assembly:C-base / CCC-B / xHain": [
+              {
+                "id": 1113,
+                "guid": "15864380-4f8f-4daf-a979-3145d94ef077",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Programming_Session",
+                "logo": null,
+                "date": "2019-12-30T09:00:00+01:00",
+                "start": "09:00",
+                "duration": "3:00",
+                "room": "Assembly:C-base / CCC-B / xHain",
+                "slug": "36c3-1113-session_makerbuino_programming_session",
+                "title": "MAKERbuino Programming Session",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's make a game for the MAKERbuino!\n[[File:MAKERbuino.jpg|800px]]More information [[MAKERbuino|can be found here]].",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
+                    "public_name": "Micha"
+                  }
+                ],
+                "links": [
+                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
+                ]
+              }
+            ]
           }
         }
       ]

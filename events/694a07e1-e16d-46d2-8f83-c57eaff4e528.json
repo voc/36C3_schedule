@@ -1,0 +1,22 @@
+{
+  "id": 1075,
+  "guid": "694a07e1-e16d-46d2-8f83-c57eaff4e528",
+  "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Numerical_Weather_Prediction",
+  "logo": null,
+  "date": "2019-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "3:00",
+  "room": "Seminar room 14-15",
+  "slug": "36c3-1075-session_numerical_weather_prediction",
+  "title": "Numerical Weather Prediction",
+  "subtitle": "A gentle introduction to numerical weather prediction, running WRF, and visualizing results",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "de",
+  "abstract": "",
+  "description": "An introduction to Numerical Weather Prediction systems\nWe give an introduction to the general functionality of numerical weather prediction systems, what is computed and how. In the hand-on part, we show how to run your own copy of WRF, a free NWP, and how to post-process and visualize the results. For people interested in installing and running WRF themselves, please have a look at the git repository for updated information on how to prepare your notebook prior to the session.",
+  "persons": [],
+  "links": [
+    "https://git.hacknology.de/projekte/wrftut"
+  ]
+}

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-13 07:20; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 07:20</version>
+  <version>2019-12-13 08:30; chaos-west 1.0; open-infra 3; chaoszone 0.1; wiki 2019-12-13 08:30</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -1616,6 +1616,46 @@ Get to know a workshop design that uses improvisational theater methods to explo
 We will have a discussion about recent problems and breakthroughs in fuzzing. If you have worked on any novel fuzzers lateley, _do_ drop by :)</description>
         <persons/>
         <links/>
+      </event>
+      <event id="1074" guid="a4c2c83c-ba37-4385-8ad8-4b6144174dfd">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Monitor_anything_you_want.</url>
+        <logo/>
+        <date>2019-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1074-session_monitor_anything_you_want_</slug>
+        <title>Monitor anything you want.</title>
+        <subtitle>Intro into prometheus-client libs and write your first exporter.</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Monitor anything you want with Prometheus or Graphite using Grafana.
+</description>
+        <persons/>
+        <links/>
+      </event>
+      <event id="1075" guid="694a07e1-e16d-46d2-8f83-c57eaff4e528">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Numerical_Weather_Prediction</url>
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>3:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1075-session_numerical_weather_prediction</slug>
+        <title>Numerical Weather Prediction</title>
+        <subtitle>A gentle introduction to numerical weather prediction, running WRF, and visualizing results</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>An introduction to Numerical Weather Prediction systems
+We give an introduction to the general functionality of numerical weather prediction systems, what is computed and how. In the hand-on part, we show how to run your own copy of WRF, a free NWP, and how to post-process and visualize the results. For people interested in installing and running WRF themselves, please have a look at the git repository for updated information on how to prepare your notebook prior to the session.</description>
+        <persons/>
+        <links>
+          <link>https://git.hacknology.de/projekte/wrftut</link>
+        </links>
       </event>
       <event id="1054" guid="fbefd4a9-c00d-4bb5-b03c-03034959c845">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Open_Thinking_Sustainable_Tech</url>

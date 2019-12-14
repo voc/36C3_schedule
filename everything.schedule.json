@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-14 13:10; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 13:10",
+    "version": "2019-12-14 13:40; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 13:40",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -563,7 +563,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "Passwordsafe f\u00fcr Anf\u00e4nger\nDu benutzt die drei gleichen Passw\u00f6rter f\u00fcr alle deine Online-Accounts? Du wei\u00dft, dass das nicht sicher ist, hast bislang aber noch keine bessere L\u00f6sung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen l\u00e4sst. Zun\u00e4chst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschlie\u00dfend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht \u00fcberwinden konnten.Disclaimer: Warum Bitwarden? es gibt ja viele verschiedene Passwortsafes Ich habe keine Verbindung zu Bitwarden, sondern habe diesen gew\u00e4hlt da er Opensource ist, leicht bedienbar und f\u00fcr Einsteiger einfacher zu nutzen als ein Passwortsafe wie KeePass.Fragen? Kontaktiere Tjal: https://twitter.com/tuikc",
+                "description": "Du wolltest schon immer einen Passwortsafe nutzen? In diesem Workshop richten wir uns einen Passwortsafe ein!\nDu benutzt die drei gleichen Passw\u00f6rter f\u00fcr alle deine Online-Accounts? Du wei\u00dft, dass das nicht sicher ist, hast bislang aber noch keine bessere L\u00f6sung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen l\u00e4sst. Zun\u00e4chst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschlie\u00dfend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht \u00fcberwinden konnten.Disclaimer: Warum Bitwarden? Bitwarden bietet sich an, der er Opensource ist, leicht bedienbar, f\u00fcr fast alle Ger\u00e4te und Betriebssysteme verf\u00fcgbar und f\u00fcr Einsteiger einfacher zu nutzen als ein Passwortsafe wie KeePass.Bei Fragen: Tjal [https://twitter.com/tuikc @tuikc] oder DECT 8524",
                 "persons": [
                   {
                     "id": 0,
@@ -1633,6 +1633,34 @@
                 "persons": [],
                 "links": [
                   "https://c3voc.de/"
+                ]
+              },
+              {
+                "id": 1126,
+                "guid": "7f73bcec-fdde-4b52-a3aa-b39baf73fb8a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:An_introduction_to_Anarchism",
+                "logo": null,
+                "date": "2019-12-28T20:30:00+01:00",
+                "start": "20:30",
+                "duration": "1:30",
+                "room": "Lecture room 11",
+                "slug": "36c3-1126-session_an_introduction_to_anarchism",
+                "title": "An introduction to Anarchism",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "\nIdeas of the anarchism existed before the network, however hacker's community willingly took anarchism appreciating its dedication to individual and collective freedom. Nowadays it plays quite a huge role for many people organized in hacker scene. With this session we will have a quick look on history of anarchism and the present of the anarchist struggle in the social and political sphere around the world. This is a short presentation with a discussion round.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Abcdd",
+                    "public_name": "Abcdd"
+                  }
+                ],
+                "links": [
+                  "https://and.notraces.net"
                 ]
               },
               {

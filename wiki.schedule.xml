@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-14 13:10</version>
+  <version>2019-12-14 13:40</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress - Wiki</title>
@@ -469,8 +469,8 @@ Stammtisch für Menschen aus dem Bildungsbereich</description>
         <type>workshop</type>
         <language>de</language>
         <abstract/>
-        <description>Passwordsafe für Anfänger
-Du benutzt die drei gleichen Passwörter für alle deine Online-Accounts? Du weißt, dass das nicht sicher ist, hast bislang aber noch keine bessere Lösung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen lässt. Zunächst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschließend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht überwinden konnten.Disclaimer: Warum Bitwarden? es gibt ja viele verschiedene Passwortsafes Ich habe keine Verbindung zu Bitwarden, sondern habe diesen gewählt da er Opensource ist, leicht bedienbar und für Einsteiger einfacher zu nutzen als ein Passwortsafe wie KeePass.Fragen? Kontaktiere Tjal: https://twitter.com/tuikc</description>
+        <description>Du wolltest schon immer einen Passwortsafe nutzen? In diesem Workshop richten wir uns einen Passwortsafe ein!
+Du benutzt die drei gleichen Passwörter für alle deine Online-Accounts? Du weißt, dass das nicht sicher ist, hast bislang aber noch keine bessere Lösung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen lässt. Zunächst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschließend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht überwinden konnten.Disclaimer: Warum Bitwarden? Bitwarden bietet sich an, der er Opensource ist, leicht bedienbar, für fast alle Geräte und Betriebssysteme verfügbar und für Einsteiger einfacher zu nutzen als ein Passwortsafe wie KeePass.Bei Fragen: Tjal [https://twitter.com/tuikc @tuikc] oder DECT 8524</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Tjal">Tjal</person>
         </persons>
@@ -638,6 +638,29 @@ Daily A/V Angel Meeting. More information can be obtained from our news in the a
         <persons/>
         <links>
           <link>https://c3voc.de/</link>
+        </links>
+      </event>
+      <event id="1126" guid="7f73bcec-fdde-4b52-a3aa-b39baf73fb8a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:An_introduction_to_Anarchism</url>
+        <logo/>
+        <date>2019-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1126-session_an_introduction_to_anarchism</slug>
+        <title>An introduction to Anarchism</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>
+Ideas of the anarchism existed before the network, however hacker's community willingly took anarchism appreciating its dedication to individual and collective freedom. Nowadays it plays quite a huge role for many people organized in hacker scene. With this session we will have a quick look on history of anarchism and the present of the anarchist struggle in the social and political sphere around the world. This is a short presentation with a discussion round.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Abcdd">Abcdd</person>
+        </persons>
+        <links>
+          <link>https://and.notraces.net</link>
         </links>
       </event>
       <event id="1056" guid="85fe9ff2-d148-49d4-89df-c4e6284ea3a5">

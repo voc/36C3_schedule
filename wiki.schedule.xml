@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-14 22:10</version>
+  <version>2019-12-14 22:50</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress - Wiki</title>
@@ -1580,6 +1580,31 @@ In dieser Runde können alle Fragen rund um die Haecksen gestellt werden - Sind 
         </persons>
         <links>
           <link>http://hammeshacks.com/intro/</link>
+        </links>
+      </event>
+    </room>
+    <room name="Art-and-Play Stage">
+      <event id="1142" guid="c501c610-8efd-4796-b6da-51377b33db88">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Junghackertag_Er%C3%B6ffnung</url>
+        <logo/>
+        <date>2019-12-28T09:00:00+01:00</date>
+        <start>09:00</start>
+        <duration>1:00</duration>
+        <room>Art-and-Play Stage</room>
+        <slug>36c3-1142-session_junghackertag_eroeffnung</slug>
+        <title>Junghackertag Eröffnung</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Eröffnung des Junghackertags
+Wir stellen euch den Junghackertag vor. Die einzelnen Sessions werden vorgestellt. Ihr erfahrt wo die Sessions stattfinden und was ihr dort machen könnt. Wenn ihr Fragen habt, könnt ihr die auch loswerden.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Hbr">Hbr</person>
+        </persons>
+        <links>
+          <link>https://junghack.de</link>
         </links>
       </event>
     </room>

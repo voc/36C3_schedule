@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-14 21:40; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 21:40</version>
+  <version>2019-12-14 22:00; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 22:00</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -2260,7 +2260,7 @@ After a short introduction about possible (non-existing) freedoms in Android &am
         <language>en</language>
         <abstract/>
         <description>Open discussion about recent trends and advancements in fuzzing.
-We will have a discussion about recent problems and breakthroughs in fuzzing. If you have worked on any novel fuzzers lateley, _do_ drop by :)</description>
+We will have a discussion about recent problems and breakthroughs in fuzzing. If you have worked on any novel fuzzers lateley, _do_ drop by :)If you plan to come, please fill out this form https://docs.google.com/forms/d/e/1FAIpQLSeOU2hkFZEb2MgD2dlhHS-f-QDVfWuOZkOtxjvUHT9UnpZ_1Q/viewform?entry.1179566035=no&amp;entry.753370867=noto help us with planning.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Domenukk">Domenukk</person>
         </persons>
@@ -5527,6 +5527,31 @@ What can we create together?</abstract>
         <links/>
         <attachments/>
         <answers/>
+      </event>
+    </room>
+    <room name="Assembly:Haecksen">
+      <event id="1140" guid="9bf60888-18b6-449f-8880-44c88db9c77a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Feministischer_Buchclub</url>
+        <logo/>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1140-session_feministischer_buchclub</slug>
+        <title>Feministischer Buchclub</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language/>
+        <abstract/>
+        <description>Feministischer Buchclub: Wir reden über Bücher
+Wir reden über interessante Bücher und erweitern die Liste.Der Workshop ist offen für alle Wesen auf dem Congress. Auch Männer können sich hier erste Buchtipps abholen oder einbringen.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Melzai">Melzai</person>
+        </persons>
+        <links>
+          <link>https://wiki.haecksen.org/index.php/Haecksen_library</link>
+        </links>
       </event>
     </room>
     <room name="Assembly:Hardware Hacking Area">

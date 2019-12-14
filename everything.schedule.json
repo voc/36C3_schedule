@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-14 04:20; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 04:20",
+    "version": "2019-12-14 09:20; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 09:20",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -433,8 +433,14 @@
                 "type": "talk",
                 "language": "de",
                 "abstract": "",
-                "description": "\n",
-                "persons": [],
+                "description": "f\u00fcr alle Engel, die etwas mit Essen zu tun haben (wollen)\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Waldwesen",
+                    "public_name": "Waldwesen"
+                  }
+                ],
                 "links": []
               }
             ],

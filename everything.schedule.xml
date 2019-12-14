@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-14 20:00; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 20:00</version>
+  <version>2019-12-14 20:30; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 20:30</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -5570,6 +5570,29 @@ What can we create together?</abstract>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino</link>
+        </links>
+      </event>
+      <event id="1139" guid="037eb97a-9e99-43ca-a29e-e59b7d7eab66">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Soldering_for_Beginners:_making_an_LED_toy</url>
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1139-session_soldering_for_beginners_making_an_led_toy</slug>
+        <title>Soldering for Beginners: making an LED toy</title>
+        <subtitle>Day 3- Adult Session</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>A 1-2 hour through hole soldering class where we build a simple toy
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Hammes_Hacks">Hammes Hacks</person>
+        </persons>
+        <links>
+          <link>http://hammeshacks.com/</link>
         </links>
       </event>
     </room>

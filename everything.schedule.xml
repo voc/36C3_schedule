@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-14 19:20; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 19:20</version>
+  <version>2019-12-14 19:30; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 19:30</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -2242,6 +2242,27 @@ Nach dem Vortrag «Schweiz: Netzpolitik zwischen Bodensee und Matterhorn» sind 
 After a short introduction about possible (non-existing) freedoms in Android &amp; its Custom ROMs, we will discover F-Droid, the Free Software app repository and explore the functionalities and possible usage of its client with the same name.This F-Droid client is characterized by an anarchic design, it is resistant to censorship and surveillance and comes with a lot of emancipating features for its users. Unfortunately, it can be also a bit confusing in the beginning. This is where G-Droid comes in, a fork of the F-Droid client that can access the very same repository of Free Software apps while offering completely new qualities information management. Getting to know both of them and their respective benefits is first part of the workshop.In order to further make the first steps of discovering freedom on mobile phones a pleasant experience, some of the best (imho!) Free Software apps from F-Droid (the repository) will be presented in the second part of the workshop - as well as easy possibilities for enhanced anonymization and encryption.This is an interactive session for everyone! You can ask any question at any time and if I cannot help you someone else from the audience usually can. Also during and after the workshop all participants are asked to introduce their personal favorite apps from F-Droid. This way we will all know more in the end.So if you are up for F- and G-Droid or feel like discovering the good side of Free Software on mobile phones then come and join the workshop!</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik">Dreirik</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1052" guid="eb7cab5a-9f72-490a-bf85-abc3a527fe75">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fuzzing_Round_Table</url>
+        <logo/>
+        <date>2019-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1052-session_fuzzing_round_table</slug>
+        <title>Fuzzing Round Table</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Open discussion about recent trends and advancements in fuzzing.
+We will have a discussion about recent problems and breakthroughs in fuzzing. If you have worked on any novel fuzzers lateley, _do_ drop by :)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Domenukk">Domenukk</person>
         </persons>
         <links/>
       </event>

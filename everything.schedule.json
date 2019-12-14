@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-14 19:20; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 19:20",
+    "version": "2019-12-14 19:30; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 19:30",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -2302,6 +2302,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
                     "public_name": "Dreirik"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1052,
+                "guid": "eb7cab5a-9f72-490a-bf85-abc3a527fe75",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Fuzzing_Round_Table",
+                "logo": null,
+                "date": "2019-12-28T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Lecture room M2",
+                "slug": "36c3-1052-session_fuzzing_round_table",
+                "title": "Fuzzing Round Table",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Open discussion about recent trends and advancements in fuzzing.\nWe will have a discussion about recent problems and breakthroughs in fuzzing. If you have worked on any novel fuzzers lateley, _do_ drop by :)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Domenukk",
+                    "public_name": "Domenukk"
                   }
                 ],
                 "links": []

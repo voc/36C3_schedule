@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-14 20:30",
+    "version": "2019-12-14 21:40",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress - Wiki",
@@ -1970,7 +1970,7 @@
                 "type": "meeting",
                 "language": "de",
                 "abstract": "",
-                "description": "Pleeeenum! Ple-he-he-num, Plenum ist wichtig f\u00fcr die Revolution!\nDies ist ein internes Treffen der Haecksen. Wenn du noch keine bist und eine werden m\u00f6chtest, komme bitte zum [[Session:Haecksenfr\u00fchst\u00fcck|Haecksenfr\u00fchst\u00fcck]].",
+                "description": "Pleeeenum! Ple-he-he-num, Plenum ist wichtig f\u00fcr die Revolution!\nDies ist ein internes Treffen der Haecksen. Wenn du noch keine bist und eine werden m\u00f6chtest, komme bitte zum [[Session:Haecksenfr\u00fchst\u00fcck|Haecksenfr\u00fchst\u00fcck]].F\u00fcr alle Haecksen: wir besprechen die Pl\u00e4ne f\u00fcr 2020, verteilen bei Bedarf Verwantwortung um, suchen Freiwillige f\u00fcr Hilfsarbeiten, gr\u00fcnden neue AGs, pr\u00fcfen das Budget.",
                 "persons": [
                   {
                     "id": 0,
@@ -2339,12 +2339,20 @@
                 "title": "NIFTI-Meetup",
                 "subtitle": "",
                 "track": "self organized sessions",
-                "type": "",
-                "language": "",
+                "type": "discussion",
+                "language": "de",
                 "abstract": "",
-                "description": "\n",
-                "persons": [],
-                "links": []
+                "description": "Netzwerktreffen aller FNIT-Gruppen\nDas Netzwerktreffen der FNIT-Gruppen mit Interesse an Technik im deutschsprachigen Raum.Ihr seit eine neue Gruppe - frei, von den Haecksen oder von F.U.C.K? Dann schaut vorbei!Organising person: melzai",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Janepie",
+                    "public_name": "Janepie"
+                  }
+                ],
+                "links": [
+                  "http://nifti.org"
+                ]
               },
               {
                 "id": 1070,

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-14 16:20; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 16:20",
+    "version": "2019-12-14 17:10; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-14 17:10",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -3901,8 +3901,14 @@
                 "type": "",
                 "language": "en",
                 "abstract": "",
-                "description": "In 2010 the German Federal Office for Information Security (BSI) created a security audit of the encryption software Truecrypt - and didn't tell anyone. The talk will present some of these findings and discuss the questionable role of the BSI.\nIn 2010 the German Federal Office for Information Security (BSI) created a security audit of the encryption software Truecrypt - and didn't tell anyone.Truecrypt has an interesting and sometimes mysterious history. The anonymous creators suddenly stopped development in 2014 and warned about unfixed security issues, without further explanation. At the same time a donation-funded security audit was organized by cryptographer Matthew Green, which didn't find any serious issues. A fork of Truecrypt called Veracrypt is still developed today.The audit by the BSI was only recently revealed with a request according to the German freedom of information law. It contains information about bugs in the code that are present until today.The talk will present some of these findings and discuss the questionable role of the BSI.",
-                "persons": [],
+                "description": "In 2010 the German Federal Office for Information Security (BSI) created a security audit of the encryption software Truecrypt - and didn't publish it. The talk will present some of these findings and discuss the questionable role of the BSI.\nIn 2010 the German Federal Office for Information Security (BSI) created a security audit of the encryption software Truecrypt - and didn't publish it.Truecrypt has an interesting and sometimes mysterious history. The anonymous creators suddenly stopped development in 2014 and warned about unfixed security issues, without further explanation. At the same time a donation-funded security audit was organized by cryptographer Matthew Green, which didn't find any serious issues. A fork of Truecrypt called Veracrypt is still developed today.The audit by the BSI was only recently revealed with a request according to the German freedom of information law. It contains information about bugs in the code that are present until today.The talk will present some of these findings and discuss the questionable role of the BSI.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
+                    "public_name": "Dreirik"
+                  }
+                ],
                 "links": []
               },
               {

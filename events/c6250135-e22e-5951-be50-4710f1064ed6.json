@@ -1,0 +1,32 @@
+{
+  "id": 386,
+  "guid": "c6250135-e22e-5951-be50-4710f1064ed6",
+  "logo": "",
+  "date": "2019-12-27T21:20:00+01:00",
+  "start": "21:20",
+  "duration": "00:25",
+  "room": "OIO Stage",
+  "slug": "MMB78C",
+  "url": "https://talks.oio.social/36c3-oio/talk/MMB78C/",
+  "title": "Buying Snacks via NFC with GNU Taler",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk 20 minutes + 5 minutes Q&A",
+  "language": "en",
+  "abstract": "##### Motivation\r\nIn the digital age the privacy has become an important matter. But with\r\nthe current digital payment methods the privacy of the user is not\r\nguaranteed. To avoid the data sharing, the Taler team implemented a\r\ndigital form of cash.\r\n\r\n##### Project\r\nTo demonstrate the payment system we developed an interface for a snack\r\nmachine based on GNU Taler. This implementation allows the customer to\r\npay with a smartphone app via NFC or QR-Code.\r\n\r\n##### Team\r\nThe project was realized by Taler in cooperation with two students from\r\nBern University of Applied Sciences.",
+  "description": "In the talk the audience will become a little insight into the GNU Taler Project and the aim of the developed Snack Machine Interface. The approach to develop an interface between the Taler Backend and the snack machine will be explained as well as the challenges which come with such a project. Further the implemented hard- and software stacks are presented.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 147,
+      "code": "FTW3AS",
+      "public_name": "Dominik Hofer",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

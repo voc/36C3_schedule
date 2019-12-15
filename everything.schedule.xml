@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-15 11:30; chaos-west 1.0; open-infra 4; chaoszone 0.1; wiki 2019-12-15 11:30</version>
+  <version>2019-12-15 11:50; chaos-west 1.0; open-infra 5; chaoszone 0.1; wiki 2019-12-15 11:50</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -894,6 +894,49 @@ Currently organizing a "youbroketheinternet/wefixthenet" session at 36c3, repres
           <person id="144">
             <code>KQYUCW</code>
             <public_name>w4sserfall</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="386" guid="c6250135-e22e-5951-be50-4710f1064ed6">
+        <logo/>
+        <date>2019-12-27T21:20:00+01:00</date>
+        <start>21:20</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>MMB78C</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/MMB78C/</url>
+        <title>Buying Snacks via NFC with GNU Taler</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>##### Motivation&#13;
+In the digital age the privacy has become an important matter. But with&#13;
+the current digital payment methods the privacy of the user is not&#13;
+guaranteed. To avoid the data sharing, the Taler team implemented a&#13;
+digital form of cash.&#13;
+&#13;
+##### Project&#13;
+To demonstrate the payment system we developed an interface for a snack&#13;
+machine based on GNU Taler. This implementation allows the customer to&#13;
+pay with a smartphone app via NFC or QR-Code.&#13;
+&#13;
+##### Team&#13;
+The project was realized by Taler in cooperation with two students from&#13;
+Bern University of Applied Sciences.</abstract>
+        <description>In the talk the audience will become a little insight into the GNU Taler Project and the aim of the developed Snack Machine Interface. The approach to develop an interface between the Taler Backend and the snack machine will be explained as well as the challenges which come with such a project. Further the implemented hard- and software stacks are presented.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="147">
+            <code>FTW3AS</code>
+            <public_name>Dominik Hofer</public_name>
             <biography/>
           </person>
         </persons>

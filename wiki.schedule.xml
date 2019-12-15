@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-15 02:20</version>
+  <version>2019-12-15 11:30</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress - Wiki</title>
@@ -1485,6 +1485,52 @@ This is a meetup for everyone already being part of or interested in the LessWro
     <room name="Chaos West Bühne"/>
     <room name="ChaosZone"/>
     <room name="OIO Stage"/>
+    <room name="Assembly:ChaosZone">
+      <event id="1144" guid="6e04b867-66c8-4954-a220-b6af9a34938d">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Chaoszone_Junghackertag</url>
+        <logo/>
+        <date>2019-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>7:00</duration>
+        <room>Assembly:ChaosZone</room>
+        <slug>36c3-1144-session_chaoszone_junghackertag</slug>
+        <title>Chaoszone Junghackertag</title>
+        <subtitle>Chaoszone Junghackertag</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>for all kids who like soldering and controlling robot cars etc.
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:R2d2data">R2d2data</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1111" guid="803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag</url>
+        <logo/>
+        <date>2019-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>3:00</duration>
+        <room>Assembly:ChaosZone</room>
+        <slug>36c3-1111-session_makerbuino_building_session_1_junghackertag</slug>
+        <title>MAKERbuino Building Session 1 @ Junghackertag</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's build a game console!
+[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) participating in the Junghackertag. We'll have 10 seats available.Please note that this is not a kit for absolute beginners and that you should have at least some basic experience in soldering.We'll have 10 seats available at ChaosZone.More information [[MAKERbuino|can be found here]].</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Micha">Micha</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino</link>
+        </links>
+      </event>
+    </room>
     <room name="C-base">
       <event id="1108" guid="5d7b0d0e-cadb-4687-af83-39ff06b2961b">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:CoderDojo_Neopixel_Hacking</url>
@@ -1605,31 +1651,6 @@ Wir stellen euch den Junghackertag vor. Die einzelnen Sessions werden vorgestell
         </persons>
         <links>
           <link>https://junghack.de</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:ChaosZone">
-      <event id="1111" guid="803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag</url>
-        <logo/>
-        <date>2019-12-28T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>3:00</duration>
-        <room>Assembly:ChaosZone</room>
-        <slug>36c3-1111-session_makerbuino_building_session_1_junghackertag</slug>
-        <title>MAKERbuino Building Session 1 @ Junghackertag</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Let's build a game console!
-[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) participating in the Junghackertag. We'll have 10 seats available.Please note that this is not a kit for absolute beginners and that you should have at least some basic experience in soldering.We'll have 10 seats available at ChaosZone.More information [[MAKERbuino|can be found here]].</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Micha">Micha</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino</link>
         </links>
       </event>
     </room>

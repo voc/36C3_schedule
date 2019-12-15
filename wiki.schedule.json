@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-15 02:20",
+    "version": "2019-12-15 11:30",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress - Wiki",
@@ -1755,6 +1755,62 @@
             "Chaos West B\u00fchne": [],
             "ChaosZone": [],
             "OIO Stage": [],
+            "Assembly:ChaosZone": [
+              {
+                "id": 1144,
+                "guid": "6e04b867-66c8-4954-a220-b6af9a34938d",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Chaoszone_Junghackertag",
+                "logo": null,
+                "date": "2019-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "7:00",
+                "room": "Assembly:ChaosZone",
+                "slug": "36c3-1144-session_chaoszone_junghackertag",
+                "title": "Chaoszone Junghackertag",
+                "subtitle": "Chaoszone Junghackertag",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "for all kids who like soldering and controlling robot cars etc.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:R2d2data",
+                    "public_name": "R2d2data"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1111,
+                "guid": "803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag",
+                "logo": null,
+                "date": "2019-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "3:00",
+                "room": "Assembly:ChaosZone",
+                "slug": "36c3-1111-session_makerbuino_building_session_1_junghackertag",
+                "title": "MAKERbuino Building Session 1 @ Junghackertag",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's build a game console!\n[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) participating in the Junghackertag. We'll have 10 seats available.Please note that this is not a kit for absolute beginners and that you should have at least some basic experience in soldering.We'll have 10 seats available at ChaosZone.More information [[MAKERbuino|can be found here]].",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
+                    "public_name": "Micha"
+                  }
+                ],
+                "links": [
+                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
+                ]
+              }
+            ],
             "C-base": [
               {
                 "id": 1108,
@@ -1900,36 +1956,6 @@
                 ],
                 "links": [
                   "https://junghack.de"
-                ]
-              }
-            ],
-            "Assembly:ChaosZone": [
-              {
-                "id": 1111,
-                "guid": "803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag",
-                "logo": null,
-                "date": "2019-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "3:00",
-                "room": "Assembly:ChaosZone",
-                "slug": "36c3-1111-session_makerbuino_building_session_1_junghackertag",
-                "title": "MAKERbuino Building Session 1 @ Junghackertag",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Let's build a game console!\n[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) participating in the Junghackertag. We'll have 10 seats available.Please note that this is not a kit for absolute beginners and that you should have at least some basic experience in soldering.We'll have 10 seats available at ChaosZone.More information [[MAKERbuino|can be found here]].",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
-                    "public_name": "Micha"
-                  }
-                ],
-                "links": [
-                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
                 ]
               }
             ]

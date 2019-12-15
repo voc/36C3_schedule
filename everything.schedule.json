@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.1; chaoszone 0.1; wiki 2019-12-15 21:30",
+    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.1; chaoszone 0.1; wiki 2019-12-15 22:00",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -5722,6 +5722,32 @@
               }
             ],
             "Lecture room M2": [
+              {
+                "id": 1160,
+                "guid": "1af612a6-5c9c-4025-a1c6-0116230a2acb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_lane",
+                "logo": null,
+                "date": "2019-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Lecture room M2",
+                "slug": "36c3-1160-session_a_trip_down_the_memory_lane",
+                "title": "A trip down the memory lane",
+                "subtitle": "Introduction to memory forensics",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:November",
+                    "public_name": "November"
+                  }
+                ],
+                "links": []
+              },
               {
                 "id": 1060,
                 "guid": "565bb40a-c1ce-46b9-8776-4c1714aaf3da",

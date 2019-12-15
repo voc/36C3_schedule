@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-16 00:30",
+    "version": "2019-12-16 00:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -301,6 +301,34 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1161,
+                "guid": "14cc9cc9-7e1b-4f58-a9d9-2cfdb62f72fb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Ultraschall_Betatest",
+                "logo": null,
+                "date": "2019-12-27T21:30:00+01:00",
+                "start": "21:30",
+                "duration": "1:29",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1161-session_ultraschall_betatest",
+                "title": "Ultraschall Betatest",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Start des Betatests der neuen Ultraschall-Version\ntba",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Rstockm",
+                    "public_name": "Rstockm"
+                  }
+                ],
+                "links": [
+                  "http://ultraschall.fm"
+                ]
               }
             ],
             "Seminar room 13": [

@@ -1,5 +1,5 @@
 <schedule>
-  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.2; chaoszone 0.1; wiki 2019-12-16 00:30</version>
+  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.2; chaoszone 0.1; wiki 2019-12-16 00:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -1707,6 +1707,29 @@ Der Workshop richtet sich an Frauen und Personen, die sich mit dem Label "Frau" 
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Piko">Piko</person>
         </persons>
         <links/>
+      </event>
+      <event id="1161" guid="14cc9cc9-7e1b-4f58-a9d9-2cfdb62f72fb">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Ultraschall_Betatest</url>
+        <logo/>
+        <date>2019-12-27T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>1:29</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1161-session_ultraschall_betatest</slug>
+        <title>Ultraschall Betatest</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Start des Betatests der neuen Ultraschall-Version
+tba</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Rstockm">Rstockm</person>
+        </persons>
+        <links>
+          <link>http://ultraschall.fm</link>
+        </links>
       </event>
     </room>
     <room name="Seminar room 13">

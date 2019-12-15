@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-15 14:00; chaos-west 1.0; open-infra 5; chaoszone 0.1; wiki 2019-12-15 14:00</version>
+  <version>2019-12-15 14:30; chaos-west 1.0; open-infra 5; chaoszone 0.1; wiki 2019-12-15 14:30</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -2065,6 +2065,27 @@ In this session we will share a method for generating insight using network anal
         </persons>
         <links/>
       </event>
+      <event id="1150" guid="49e084b6-a14d-49be-9197-932acd5acdad">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:XMPP_User_Meetup</url>
+        <logo/>
+        <date>2019-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1150-session_xmpp_user_meetup</slug>
+        <title>XMPP User Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>A meetup for users and developers of XMPP
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Inputmice">Inputmice</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="Seminar room 13">
       <event id="1026" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d4">
@@ -3809,7 +3830,7 @@ https://www.wachter-jud.net/</biography>
         <language>de</language>
         <abstract/>
         <description>for all kids who like soldering and controlling robot cars etc.
-</description>
+[[File:Chaoszone junghacker.png|400px]]</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:R2d2data">R2d2data</person>
         </persons>
@@ -4307,6 +4328,27 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         </persons>
         <links/>
       </event>
+      <event id="1149" guid="8ffb50b3-43d4-4164-9d1e-f0e91b5b179a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:XMPP_Operator_Meetup</url>
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1149-session_xmpp_operator_meetup</slug>
+        <title>XMPP Operator Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>A meetup for server admins of public XMPP providers
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Inputmice">Inputmice</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="Lecture room M1">
       <event id="1130" guid="087da055-6f83-4f3c-a074-11a00403f59a">
@@ -4645,6 +4687,29 @@ Let’s suppose that our bodymind is the hardware and our behavior is the softwa
         </persons>
         <links>
           <link>http://www.8os.io</link>
+        </links>
+      </event>
+      <event id="1146" guid="a2677c28-9f3f-4224-81fc-c210f8cd5be0">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:EightOS_Improv_Sound_%2B_Body_%2B_Software_Movement_Session</url>
+        <logo/>
+        <date>2019-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1146-session_eightos_improv_sound_body_software_movement_session</slug>
+        <title>EightOS Improv Sound + Body + Software Movement Session</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Taking on the movement principles of EightOS practice, we will combine them with sound and music to create an interactive open immersive improvisational space for everyone to take part and join in. Physically or otherwise.
+[[File:Chaoszone junghacker.png|400px]]</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Aerodynamika">Aerodynamika</person>
+        </persons>
+        <links>
+          <link>http://8os.io</link>
         </links>
       </event>
       <event id="1134" guid="a10fe7a1-8c97-4bac-9bc3-989e4cb6a986">

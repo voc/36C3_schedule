@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-15 14:00",
+    "version": "2019-12-15 14:30",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress - Wiki",
@@ -1190,6 +1190,32 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1150,
+                "guid": "49e084b6-a14d-49be-9197-932acd5acdad",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:XMPP_User_Meetup",
+                "logo": null,
+                "date": "2019-12-28T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1150-session_xmpp_user_meetup",
+                "title": "XMPP User Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "A meetup for users and developers of XMPP\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Inputmice",
+                    "public_name": "Inputmice"
+                  }
+                ],
+                "links": []
               }
             ],
             "Seminar room 13": [
@@ -1824,7 +1850,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "for all kids who like soldering and controlling robot cars etc.\n",
+                "description": "for all kids who like soldering and controlling robot cars etc.\n[[File:Chaoszone junghacker.png|400px]]",
                 "persons": [
                   {
                     "id": 0,
@@ -2417,6 +2443,32 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1149,
+                "guid": "8ffb50b3-43d4-4164-9d1e-f0e91b5b179a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:XMPP_Operator_Meetup",
+                "logo": null,
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Seminar room 13",
+                "slug": "36c3-1149-session_xmpp_operator_meetup",
+                "title": "XMPP Operator Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "A meetup for server admins of public XMPP providers\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Inputmice",
+                    "public_name": "Inputmice"
+                  }
+                ],
+                "links": []
               }
             ],
             "Lecture room M1": [
@@ -2816,6 +2868,34 @@
                 ],
                 "links": [
                   "http://www.8os.io"
+                ]
+              },
+              {
+                "id": 1146,
+                "guid": "a2677c28-9f3f-4224-81fc-c210f8cd5be0",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:EightOS_Improv_Sound_%2B_Body_%2B_Software_Movement_Session",
+                "logo": null,
+                "date": "2019-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "2:00",
+                "room": "Lecture room M3",
+                "slug": "36c3-1146-session_eightos_improv_sound_body_software_movement_session",
+                "title": "EightOS Improv Sound + Body + Software Movement Session",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "Taking on the movement principles of EightOS practice, we will combine them with sound and music to create an interactive open immersive improvisational space for everyone to take part and join in. Physically or otherwise.\n[[File:Chaoszone junghacker.png|400px]]",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aerodynamika",
+                    "public_name": "Aerodynamika"
+                  }
+                ],
+                "links": [
+                  "http://8os.io"
                 ]
               },
               {

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-15 16:40</version>
+  <version>2019-12-15 18:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -754,7 +754,7 @@ Freie Software und Open Source - ist das eigentlich das gleiche? GPL, AGPL, LGPL
         <type>talk</type>
         <language>en</language>
         <abstract/>
-        <description>n this talk, I’d like to explain how we handle the encryption so that it is 1. easy for the user, and 2. still so secure that only the user can access his data. I will also describe how me implemented encrypted alarms and such advanced features as sharing of the encrypted calendar.
+        <description>In this talk, I’d like to explain how we handle the encryption so that it is 1. easy for the user, and 2. still so secure that only the user can access his data. I will also describe how me implemented encrypted alarms and such advanced features as sharing of the encrypted calendar.
 We, a small team of developers in Hanover, are building Tutanota to offer a privacy-friendly alternative to Gmail and Google Calendar. To achieve that, we build our own infrastructure (not relying on Google services) and use end-to-end encryption. Both come with their own set of challenges. For instance, we never used reCaptcha, but built our own captcha instead. For our Android app, we have replaced Firebase Push Notifications with our own system (which was a real challenge). The latest addition to our secure email service is an open source, zero-knowledge calendar. In this talk, I’d like to explain how we handle the encryption so that it is 1. easy for the user, and 2. still so secure that only the user can access his data. I will also describe how me implemented encrypted alarms and such advanced features as sharing of the encrypted calendar. The talk will touch solutions for platform restrictions and encryption features.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik">Dreirik</person>

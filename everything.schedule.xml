@@ -1,5 +1,5 @@
 <schedule>
-  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.1; chaoszone 0.1; wiki 2019-12-15 22:10</version>
+  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.1; chaoszone 0.1; wiki 2019-12-15 22:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -811,13 +811,14 @@ Lea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft für Frei
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>This spring marked the 30th anniversary of the public uncovering of the so-called KGB Hack, bringing with it a number of new articles remembering the event and forging bridges to the present. &#13;
-The 36C3 seems an excellent opportunity to take a look back at the instance of hacking which, even more so than previous events like the BTX Hack, brought the CCC into the focus of the (West-)German public – and, additionally, the Federal Office for the Protection of the Constitution (Verfassungsschutz) and the Federal Intelligence Service (Bundesnachrichtendienst).</abstract>
-        <description>This talk aims to focus on the uncovering of the KGB Hack, which began in 1986 when Clifford Stoll, a systems administrator at the University of California in Berkeley, noticed an intruder in his laboratory’s computer system. It took three more years of relentless investigation on Stoll’s part and laborious convincing of the authorities of the United States and the Federal Republic of Germany to trace back the intruder to a young man loosely connected to the CCC who worked with the KGB, selling information from US military networks to the Soviet Union. &#13;
+        <abstract>This spring marked the 30th anniversary of the public uncovering of the so-called KGB Hack, bringing with it a number of new articles remembering the event and forging bridges to the present.</abstract>
+        <description>The 36C3 seems an excellent opportunity to take a look back at the instance of hacking which, even more so than previous events like the BTX Hack, brought the CCC into the focus of the (West-)German public – and, additionally, the Federal Office for the Protection of the Constitution (Verfassungsschutz) and the Federal Intelligence Service (Bundesnachrichtendienst).&#13;
 &#13;
-In early March of 1989, the widely watched television news program ARD Im Brennpunkt informed the public of the “biggest instance of espionage since the Guillaume affair”. It presented a new quality of high tech espionage, undertaken by “computer freaks”, somewhat shady young men connected to the Chaos Computer Club. &#13;
+This talk aims to focus on the uncovering of the KGB Hack, which began in 1986 when Clifford Stoll, a systems administrator at the University of California in Berkeley, noticed an intruder in his laboratory’s computer system. It took three more years of relentless investigation on Stoll’s part and laborious convincing of the authorities of the United States and the Federal Republic of Germany to trace back the intruder to a young man loosely connected to the CCC who worked with the KGB, selling information from US military networks to the Soviet Union. &#13;
 &#13;
-The reporting on the KGB Hack had a tremendously negative effect on the public image of hackers in general and the CCC in particular. Now the “computer freaks” were not benevolent geeks who pointed out flaws in computer systems anymore - they were criminals, working with the Russians, harming their own country. This negative image has been lingering until today. </description>
+In early March of 1989, the widely watched television news program ARD Im Brennpunkt informed the public of the “biggest instance of espionage since the Guillaume affair”. It presented a new quality of high tech espionage, undertaken by “computer freaks”, somewhat shady young men connected to the Chaos Computer Club.&#13;
+&#13;
+The reporting on the KGB Hack had a tremendously negative effect on the public image of hackers in general and the CCC in particular. Now the “computer freaks” were not benevolent geeks who pointed out flaws in computer systems anymore - they were criminals, working with the Russians, harming their own country. This negative image has been lingering until today.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -3891,9 +3892,9 @@ Stellt sich raus: Das geht! Davids Datensatz umfasst knapp 25 Millionen Halte - 
 &#13;
 Der Vortrag hat wieder mehrere rote Fäden.&#13;
 &#13;
-&lt;b&gt; 1) Wir vermessen ein fast komplettes Fernverkehrsjahr der deutschen Bahn.  &lt;/b&gt; Hier etwas Erwartungsmanagement: Sinn ist keinesfalls Bahn-Bashing oder Sensationsheischerei - wer einen Hassvortrag gegen die Bahn erwartet, ist in dieser Veranstaltung falsch. Wir werden die Daten aber nutzen, um die Bahn einmal ein bisschen kennenzulernen. Die Bahn ist eine riesige Maschine mit Millionen beweglicher Teile. Wie viele Zugfahrten gibt es überhaupt? Was sind die größten Bahnhöfe? Wir werden natürlich auch die unerfreulichen Themen ansprechen, für die sich im Moment viele interessieren: Ist das Problem mit den Zugverspätungen wirklich so schlimm, wie alle sagen? Gibt es Orte und Zeiten, an denen es besonders hapert? Wann und wo hapert es besonders? Wo fallen ganze Züge aus?&#13;
+&lt;b&gt; 1) Wir vermessen ein fast komplettes Fernverkehrsjahr der deutschen Bahn.  &lt;/b&gt; Hier etwas Erwartungsmanagement: Sinn ist keinesfalls Bahn-Bashing oder Sensationsheischerei - wer einen Hassvortrag gegen die Bahn erwartet, ist in dieser Veranstaltung falsch. Wir werden die Daten aber nutzen, um die Bahn einmal ein bisschen kennenzulernen. Die Bahn ist eine riesige Maschine mit Millionen beweglicher Teile. Wie viele Zugfahrten gibt es überhaupt? Was sind die größten Bahnhöfe? Wir werden natürlich auch die unerfreulichen Themen ansprechen, für die sich im Moment viele interessieren: Ist das Problem mit den Zugverspätungen wirklich so schlimm, wie alle sagen? Gibt es Orte und Zeiten, an denen es besonders hapert? Und wo fallen Züge einfach aus?&#13;
 &#13;
-&lt;b&gt; 2) Es gibt wieder mehrere Blicke über den Tellerrand&lt;/b&gt;, wie bei meinen vorherigen Vorträgen auch. Ihr werdet wieder ganz automatisch und nebenher einen &lt;i&gt;allgemeinverständlichen&lt;/i&gt; Einblick in die heutige Datenauswerterei bekommen und ich hoffe, möglichst viele von euch zur Auswertung öffentlich verfügbarer Daten zu inspirieren. Die Welt braucht Leute mit Ratio, die Analyse wichtiger als Kreischerei finden. Und darum beschreibe ich auch, wie man so ein durchaus aufwändiges Hobbyprojekt technisch angeht, Anfängerfehler vermeidet, und verantwortungsvoll handelt.</description>
+&lt;b&gt; 2) Es gibt wieder mehrere Blicke über den Tellerrand&lt;/b&gt;, wie bei Davids vorherigen Vorträgen auch. Ihr werdet wieder ganz automatisch und nebenher einen &lt;i&gt;allgemeinverständlichen&lt;/i&gt; Einblick in die heutige Datenauswerterei bekommen. (Eine verbreitete Verschwörungsheorie sagt, euch zur Auswertung öffentlicher Daten zu inspirieren, wäre sogar der Hauptzweck von Davids Vorträgen. :-) )Die Welt braucht Leute mit Ratio, die Analyse wichtiger als Kreischerei finden. Und darum beschreibt davod auch, wie man so ein durchaus aufwändiges Hobbyprojekt technisch angeht, Anfängerfehler vermeidet, und verantwortungsvoll handelt.</description>
         <recording>
           <license/>
           <optout>false</optout>

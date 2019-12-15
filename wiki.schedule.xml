@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-15 14:30</version>
+  <version>2019-12-15 14:40</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress - Wiki</title>
@@ -1564,7 +1564,7 @@ This is a meetup for everyone already being part of or interested in the LessWro
         <language>de</language>
         <abstract/>
         <description>for all kids who like soldering and controlling robot cars etc.
-[[File:Chaoszone junghacker.png|400px]]</description>
+[[File:Chaoszone junghacker.png|400px]]At 10 a.m. we will start at the common Junghackertag opening session:AT 11 a.m. our Chaoszone Junghackertag will beginn. We have several parallel tracks:* soldering kits of different complexity* controlling mbots from simple tasks up to navigating to a parkour* programming calliope* work with Raspberry Pi Scratch stations* and until 2 p.m. the makerbuino soldering [[MAKERbuino|can be found here]].</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:R2d2data">R2d2data</person>
         </persons>
@@ -2637,6 +2637,29 @@ Daily A/V Angel Meeting. More information can be obtained from our news in the a
         <persons/>
         <links>
           <link>https://c3voc.de/</link>
+        </links>
+      </event>
+      <event id="1151" guid="b61433fb-3304-439e-8823-be43cd1f3f6c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:CryptoParty:_Digital_Self-Defense_Workshop</url>
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1151-session_cryptoparty_digital_self_defense_workshop</slug>
+        <title>CryptoParty: Digital Self-Defense Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>CryptoParties are free and open for everyone, but especially those without prior knowledge, who haven't yet attended one. CryptoParty is a decentralized movement with events happening all over the world. The goal is to pass on knowledge about protecting yourself in the digital space. This can include encrypted communication, preventing being tracked while browsing the web, and general security advice regarding computers and smartphones. To try the tools and apps directly at the CryptoParty, bring your laptop or smartphone.
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Dawning_Sun">Dawning Sun</person>
+        </persons>
+        <links>
+          <link>https://cryptoparty.in/36c3</link>
         </links>
       </event>
     </room>

@@ -1,0 +1,32 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10575.html",
+  "id": 10575,
+  "guid": "4b1df5b6-5436-456f-936b-77ccfd26698f",
+  "logo": null,
+  "date": "2019-12-28T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "01:00",
+  "room": "Clarke",
+  "slug": "36c3-10575-how_to_design_highly_reliable_digital_electronics",
+  "title": "How to Design Highly Reliable Digital Electronics",
+  "subtitle": "",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "There's a variety of places - on Earth and beyond - that pose challenging conditions to the ever-shrinking digital circuits of today. Making those tiny transistors work reliably when bombarded with charged particles in the vacuum of space, in the underground tunnels of CERN or in your local hospital's X-ray machine is not an easy feat. This talk is going to shed some light on what can be done to keep particles from messing up your ones and zeroes, how errors in digital circuits can be detected and corrected, and how you may even re-purpose those flipped bits in your RAM as a particle detector.",
+  "description": "This talk will introduce the audience to the class of problems that digital circuits are faced with in challenging radiation environments. Such environments include satellites in space, the electronics inside particle accelerators and also a variety of medical applications. After giving an overview of the various effects that may cause malfunctions, different techniques for detection and mitigation of such effects are presented. Some of these techniques concern the transistor-level design of digital circuits, others include triple modular redundancy (TMR) and correction codes. Some open source software solutions that aid in the design and verification of circuits hardened against such problems are presented, and of course a 'lessons learned' from our experiences in the field of particle detector electronics will be shared.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9270,
+      "public_name": "thasti"
+    },
+    {
+      "id": 9844,
+      "public_name": "Szymon"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

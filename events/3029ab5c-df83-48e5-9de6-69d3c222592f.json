@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10976.html",
+  "id": 10976,
+  "guid": "3029ab5c-df83-48e5-9de6-69d3c222592f",
+  "logo": null,
+  "date": "2019-12-30T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "00:40",
+  "room": "Ada",
+  "slug": "36c3-10976-understanding_millions_of_gates",
+  "title": "Understanding millions of gates ",
+  "subtitle": "Introduction to IC reverse engineering for non-chip-reverse-engineers. ",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Reverse Engineering of integrated circuits is often seen as something only companies can do, as the equipment to image the chip is expensive, and the HR costs to hire enough reverse engineers to then understand the chip even more so. This talk gives a short introduction on the motivation behind understanding your own or someone else\u2019s chip (as a chip manufacturing company), and why it might be important for the rest of us (not a chip manufacturing company). The focus is on understanding what millions of logical gates represent, rather than the physical aspect (delayering, imaging, image processing\u2026), because everyone can do this at home. I will introduce some proposed countermeasures (like logic encryption) and explain if, how and why they fail. ",
+  "description": "\r\nThe talk will give a general overview of the research field and explain why companies are interested in reverse engineering ICs (IP overproduction, Counterfeits, Hardware Trojans), as well as why it\u2019s important for an end user (IC trust, chip failure). Then, I will very shortly introduce the reverse engineering workflow, from decapsulating, delayering, imaging, stitching, image processing and then come to the focus: netlist abstraction. The idea is to show some methods which are currently used in research to understand what netlists represent. Some theory will be explained (circuit design, formal verification of circuits, graph theory\u2026), but I want to keep this to a minimum. Finally, I will show some current ideas on how to make reverse engineering difficult, as well as some attacks on these ideas. The talk does not give insights into how large companies do reverse engineering (i.e. throw money at the problem), but rather show the research side of things, with some of the methods published in the last couple of years, which is something everyone can do at home. \r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8855,
+      "public_name": "Kitty"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

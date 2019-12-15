@@ -1,0 +1,32 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10505.html",
+  "id": 10505,
+  "guid": "775735a3-126f-43bc-be9e-ec0ed63ae438",
+  "logo": null,
+  "date": "2019-12-27T20:50:00+01:00",
+  "start": "20:50",
+  "duration": "01:00",
+  "room": "Borg",
+  "slug": "36c3-10505-the_great_escape_of_esxi",
+  "title": "The Great Escape of ESXi",
+  "subtitle": "Breaking Out of a Sandboxed Virtual Machine",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "VMware ESXi is an enterprise-class, bare-metal hypervisor developed by VMware for deploying and serving virtual computers. As the hypervisor of VMware vSphere, which is the world's most prevailing, state-of-the-art private-cloud software, ESXi plays a core role in the enterprise's cloud infrastructure. Bugs in ESXi could violate the security boundary between guest and host, resulting in virtual machine escape. While a few previous attempts to escape virtual machines have targeted on VMware workstation, there has been no public VMware ESXi escape until our successful demonstration at GeekPwn 2018. This is mainly due to the sandbox mechanism that ESXi has adopted, using its customized filesystem and kernel. In this talk, we will share our study on those security enhancements in ESXi, and describe how we discover and chain multiple bugs to break out of the sandboxed guest machine.",
+  "description": "During the presentation, we will first share the fundamentals of ESXi hypervisor and some of its special features, including its own customized bootloader, kernel, filesystem, virtual devices and so on. Next, we will demonstrate the attack surfaces in its current implementations and how to uncover security vulnerabilities related to virtual machine escape. In particular, we will anatomize the bugs leveraged in our escape chain, CVE-2018-6981 and CVE-2018-6982, and give an exhaustive delineation about some reliable techniques to manipulate the heap for exploitation, triggering arbitrary code execution in the host context. Meanwhile, due to the existence of sandbox mechanism in ESXi, code execution is not enough to pop a shell. Therefore, we will underline the design of the sandbox and explain how it is adopted to restrict permissions. We will also give an in-depth analysis of the approaches leveraged to circumvent the sandbox in our escape chain. Finally, we will provide a demonstration of a full chain escape on ESXi 6.7.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9225,
+      "public_name": "f1yyy"
+    },
+    {
+      "id": 9226,
+      "public_name": "Hanqing Zhao"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

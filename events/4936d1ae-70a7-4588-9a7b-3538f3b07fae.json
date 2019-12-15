@@ -1,0 +1,32 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10880.html",
+  "id": 10880,
+  "guid": "4936d1ae-70a7-4588-9a7b-3538f3b07fae",
+  "logo": null,
+  "date": "2019-12-29T16:10:00+01:00",
+  "start": "16:10",
+  "duration": "01:00",
+  "room": "Clarke",
+  "slug": "36c3-10880-no_source_no_problem_high_speed_binary_fuzzing",
+  "title": "No source, no problem! High speed binary fuzzing",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Modern grey-box fuzzers are the most effective way of finding bugs in complex code bases, and instrumentation is fundamental to their effectiveness. Existing instrumentation techniques either require source code (e.g., afl-gcc, ASan) or have a high runtime performance cost (roughly 10x slowdown for e.g., afl-qemu).\r\nWe introduce Retrowrite, a binary rewriting framework that enables direct static instrumentation for both user-mode binaries and Linux kernel modules. Unlike dynamic translation and trampolining, rewriting code with Retrowrite does not introduce a performance penalty. We show the effectiveness of Retrowrite for fuzzing by implementing binary-only coverage tracking and ASan instrumentation passes. Our binary instrumentation achieves performance similar to compiler-based instrumentation.",
+  "description": "Fuzzing is the method of choice for finding security vulnerabilities in software due to its simplicity and scalability, but it struggles to find deep paths in complex programs, and only detects bugs when the target crashes. Instrumentation greatly helps with both issues by (i) collecting coverage feedback, which drives fuzzing deeper into the target, and (ii) crashing the target immediately when bugs are detected, which lets the fuzzer detect more bugs and produce more precise reports. One of the main difficulties of fuzzing closed-source software is that instrumenting compiled binaries comes at a huge performance cost. For example, simple coverage instrumentation through dynamic binary translation already incurs between 10x and 100x slowdown, which prevents the fuzzer from finding interesting inputs and bugs.\r\n\r\nIn this talk we show how we used static binary rewriting for instrumentation: our approach has low overhead (comparable to compile-time instrumentation) but works on binaries. \r\nThere are three main techniques to rewrite binaries: recompilation, trampoline insertion and reassembleable assembly. Recompilation is the most powerful but it requires expensive analysis and type recovery, which is an open/unsolved problem. Trampolines add a level of indirection and increase the size of the code, both of which have a negative impact on performance. Reassembleable assembly, the technique that we use, suffers from neither problem. In order to produce reassembleable assembly, we first disassemble the binary and then symbolize all code and data references (replacing offsets and references with references to unique labels). The output can then be fed to a standard assembler to produce a binary. Because symbolization replaces all references with labels, we can now insert instrumentation in the code and the assembler will fix the references for us when reassembling the binary.\r\nSymbolization is possible because references to code and global data always use RIP-relative addressing in the class of binaries that we support (position-independent x86_64 binaries). This makes it easy to distinguish between references and integer constants in the disassembly.\r\n\r\nWe present Retrowrite, a framework for static binary rewriting that can add efficient instrumentation to compiled binaries and scales to real-world code. Retrowrite symbolizes x86_64 position-independent Linux binaries and emits reassembleable assembly, which can be fed to instrumentation passes. We implement a binary version of Address Sanitizer (ASan) that integrates with the source-based version. Retrowrite\u2019s output can also be fed directly to AFL\u2019s afl-gcc to produce a binary with coverage-tracking instrumentation. RetroWrite is openly available for everyone to use and we will demo it during the presentation.\r\n\r\nWe also present kRetrowrite, which uses the same approach to instrument binary kernel modules for Linux. While many devices can be used with open-source drivers, some still require binary drivers. Device drivers are an inviting target for attackers because they run at the highest privilege level, and a buggy driver could result in full system compromise. kRetrowrite can instrument binary Linux modules to add kCov-based coverage tracking and KASan instrumentation.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9646,
+      "public_name": "Nspace"
+    },
+    {
+      "id": 2410,
+      "public_name": "gannimo"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

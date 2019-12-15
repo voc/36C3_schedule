@@ -1,0 +1,36 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10689.html",
+  "id": 10689,
+  "guid": "a86ef320-5bed-4539-aa3f-a6e8586f452d",
+  "logo": null,
+  "date": "2019-12-28T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "01:00",
+  "room": "Dijkstra",
+  "slug": "36c3-10689-on_the_insecure_nature_of_turbine_control_systems_in_power_generation",
+  "title": "On the insecure nature of turbine control systems in power generation",
+  "subtitle": "A security study of turbine control systems in power generation",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "A deep dive into power generation process, industrial solutions and their security implications. Flavoured with vulnerabilities, penetration testing (security assessment) methodology and available remediation approaches.",
+  "description": "The research studies a very widespread industrial site throughout the world \u2013 power generation plants. Specifically, the heart of power generation \u2013 turbines and its DCS \u2013 control system managing all operations for powering our TVs and railways, gaming consoles and manufacturing, kettles and surveillance systems. We will share our notes on how those systems are functioning, where they are located network-wise and what security challenges are facing owners of power generation. A series of vulnerabilities will be disclosed along with prioritisation of DCS elements (hosts) and attack vectors. Discussed vulnerabilities are addressed by vendor of one of the most widespread DCS on our planet. During the talk we will focus on methodology how to safely assess your DCS installation, which security issues you should try to address in the first place and how to perform do-it-yourself remediation. Most of the remediation steps are confirmed by vendor which is crucial for industrial owners.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3686,
+      "public_name": "repdet"
+    },
+    {
+      "id": 9296,
+      "public_name": "@_moradek_"
+    },
+    {
+      "id": 9297,
+      "public_name": "c0rs"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

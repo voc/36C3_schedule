@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10730.html",
+  "id": 10730,
+  "guid": "d16de585-1439-4939-a309-7913c7d840a2",
+  "logo": null,
+  "date": "2019-12-29T14:10:00+01:00",
+  "start": "14:10",
+  "duration": "01:00",
+  "room": "Clarke",
+  "slug": "36c3-10730-email_authentication_for_penetration_testers",
+  "title": "Email authentication for penetration testers",
+  "subtitle": "When SPF is not enough",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Forget look-alike domains, typosquatting and homograph attacks. In this talk we will discuss ways of forging perfect email counterfeits that (as far as recipients can tell) appear to be coming from well-known domain and successfully pass all checks on their way. Prime focus of this talk will be modern anti-spoofing strategies and the ways around them. Join us as we try to figure out answers to questions such as \"Isn't SPF enough?\", \"Do I *really* need DMARC?\" and \"Does ticking all three (SPF, DKIM, DMARC) provide the best protection possible?\" (answers to these questions are \"no\", \"yes\", \"no\" by the way).",
+  "description": "Email security is poorly covered by a contemporary penetration testing curricula. In this talk I will argue that it leads to underreporting of email-related security issues during regular penetration tests or red team assignments. Getting clicks from (at least some) users is usually fairly easy, even with obviously fake domain names and email addresses, so penetration testers rarely need to do anything more fancy in order to achieve their objective.\r\n\r\nWhile this highlights the need for user education, it misses common misconfiguration issues that might lead to much more devastating compromises and could instill false sense of security in (rare) cases that regular phishing attacks fail. Technically inclined users (such as developers, tech support or even SIEM analysts) are less likely than others to fall for phishing email originating from fake domain, but they are actually more likely to fall for email seemingly originating from real known-good source due to overconfidence.\r\n\r\nIn this talk we will see just how easy is it to send spoofed mail from arbitrary source address due to lack of protection for this scenario in original SMTP spec. We won't stop there however and our next object of focus will be contemporary anti-spoofing technologies (SPF, DKIM and DMARC). We will discuss motivation behind them, their technical limitations, weaknesses discovered in recent years as well as common misconfigurations. Attendees will gain knowledge about relevant protocols and technologies that should be applicable for identifying weaknesses in the architecture of their own email systems.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9240,
+      "public_name": "Andrew Konstantinov"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

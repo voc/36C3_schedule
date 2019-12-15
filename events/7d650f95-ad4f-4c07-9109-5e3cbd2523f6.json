@@ -1,0 +1,32 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10893.html",
+  "id": 10893,
+  "guid": "7d650f95-ad4f-4c07-9109-5e3cbd2523f6",
+  "logo": null,
+  "date": "2019-12-29T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "01:00",
+  "room": "Borg",
+  "slug": "36c3-10893-high-assurance_crypto_software",
+  "title": "High-assurance crypto software",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Software bugs and timing leaks have destroyed the security of every Chromebook ECDSA \"built-in security key\" before June 2019, ECDSA keys from several popular crypto libraries, the Dilithium post-quantum software, the Falcon post-quantum software, and more. Will we ever have trustworthy implementations of the cryptographic tools at the heart of our security systems?",
+  "description": "Standard testing and fuzzing catch many bugs, but they don't catch all bugs. Masochists try to formally prove that crypto software does its job. Sadists try to convince you to do your own proof work and to let them watch. After years of pain, a team of fifteen authors has now proudly announced a verified crypto library: fast but unportable implementations of a few cryptographic functions specifically for CPUs that aren't in your smartphone. This is progress, but the progress needs to accelerate.\r\n\r\nThis talk will highlight a way to exploit the power of modern reverse-engineering tools to much more easily verify crypto software. This relies on the software being constant-time software, but we want constant-time software anyway so that we can guarantee security against timing attacks. Constant-time software is also surprisingly fast when cryptosystems are selected carefully.\r\n\r\nThis talk is meant as an introduction for a general audience, giving self-contained answers to the following questions: What are timing attacks? What is constant-time software? What are some examples of constant-time crypto? How can we be sure that code is constant-time? What do these reverse-engineering tools do? How does constant-time code help these tools? How do we get from reverse engineering to guaranteeing correctness?\r\n  \r\nThe talk will be given as a joint presentation by Daniel J. Bernstein and Tanja Lange.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3538,
+      "public_name": "djb"
+    },
+    {
+      "id": 3714,
+      "public_name": "Tanja Lange"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

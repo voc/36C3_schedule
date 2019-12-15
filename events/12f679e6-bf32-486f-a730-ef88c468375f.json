@@ -1,0 +1,33 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10701.html",
+  "id": 10701,
+  "guid": "12f679e6-bf32-486f-a730-ef88c468375f",
+  "logo": null,
+  "date": "2019-12-27T23:30:00+01:00",
+  "start": "23:30",
+  "duration": "01:00",
+  "room": "Dijkstra",
+  "slug": "36c3-10701-select_code_execution_from_using_sqlite",
+  "title": "SELECT code_execution FROM * USING SQLite;",
+  "subtitle": "--Gaining code execution using a malicious SQLite database",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "SQLite is one of the most deployed software in the world. However, from a security perspective, it has only been examined through the narrow lens of WebSQL and browser exploitation. We believe that this is just the tip of the iceberg.\r\nIn our long term research, we experimented with the exploitation of memory corruption issues within SQLite without relying on any environment other than the SQL language. Using our innovative techniques of Query Hijacking and Query Oriented Programming, we proved it is possible to reliably exploit memory corruptions issues in the SQLite engine. We demonstrate these techniques a couple of real-world scenarios: pwning a password stealer backend server, and achieving iOS persistency with higher privileges.",
+  "description": "Everyone knows that databases are the crown jewels from a hacker's point of view, but what if you could use a database as the hacking tool itself? We discovered that simply querying a malicious SQLite database - can lead to Remote Code Execution. We used undocumented SQLite3 behavior and memory corruption vulnerabilities to take advantage of the assumption that querying a database is safe.\r\n\r\nHow? We created a rogue SQLite database that exploits the software used to open it.Exploring only a few of the possibilities this presents we\u2019ll pwn password stealer backends while they parse credentials files and achieve iOS persistency by replacing its Contacts database\u2026\r\n\r\nThe landscape is endless (Hint: Did someone say Windows 10 0-day?). This is extremely terrifying since SQLite3 is now practically built-in to any modern system.\r\n\r\nIn our talk we also discuss the SQLite internals and our novel approach for abusing them. We had to invent our own ROP chain technique using nothing but SQL CREATE statements. We used JOIN statements for Heap Spray and SELECT subqueries for x64 pointer unpacking and arithmetics. It's a new world of using the familiar Structured Query Language for exploitation primitives,laying the foundations for a generic leverage of memory corruption issues in database engines.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9516,
+      "public_name": "OmerGull"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://research.checkpoint.com/select-code_execution-from-using-sqlite/",
+      "title": "A detailed whitepaper of the vulnerabilities and exploitation technique "
+    }
+  ],
+  "attachments": []
+}

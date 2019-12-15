@@ -1,0 +1,32 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10706.html",
+  "id": 10706,
+  "guid": "330c672b-9ec1-4416-ab28-4c808aa4ad76",
+  "logo": null,
+  "date": "2019-12-29T18:50:00+01:00",
+  "start": "18:50",
+  "duration": "01:00",
+  "room": "Borg",
+  "slug": "36c3-10706-boot2root",
+  "title": "Boot2root",
+  "subtitle": "Auditing Boot Loaders by Example",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "The Achilles heel of [your secure device] is the secure boot chain. In this presentation we will show our results from auditing commonly used boot loaders and walk through the attack surface you open yourself up to. You would be surprised at how much attack surface exists when hardening and defense in depth is ignored. From remote attack surface via network protocol parsers to local filesystems and various BUS parsing, we will walk through the common mistakes we've seen by example and showcase how realistic it is for your product's secure boot chain to be compromised. ",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 821,
+      "public_name": "Ilja van Sprundel"
+    },
+    {
+      "id": 4720,
+      "public_name": "Joseph Tartaro"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11089.html",
+  "id": 11089,
+  "guid": "422a606e-59d3-4d80-ac98-671a0fec67d7",
+  "logo": null,
+  "date": "2019-12-28T19:10:00+01:00",
+  "start": "19:10",
+  "duration": "00:40",
+  "room": "Dijkstra",
+  "slug": "36c3-11089-reflections_on_the_new_reverse_engineering_law",
+  "title": "Reflections on the New Reverse Engineering Law",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Individuals conducting reverse engineering for research purposes face several legal issues arising from IP and competition law. The legislation has reacted by introducing a new law on trade secrets specifically allowing reverse engineering. While the new law is certainly an improvement, many questions still remain as to conflicts with opposing domestic laws as well as other possibilities to waive the permission. In this talk, we provide guidance through the jungle of the current legal situation from a techno-legal perspective.",
+  "description": "Hardware Reverse Engineering (HRE) is common practice for security researchers in order to detect vulnerabilities and assure integrity of microchips. Following last years talk \u201cMehr schlecht als Recht: Grauzone Sicherheitsforschung\u201d and from the standpoint of a research group regularly applying HRE, we asked ourselves about potential negative legal implications for our personal lives. Therefore, we consulted an expert who assesses the legal implications of our work.\r\n\r\nFor a long time, our law has solely protected the inventor of a product. Discovering the underlying technical details and mechanisms of, e. g. microchips, has been deemed illegal due to intellectual property (IP) protection laws. Only lately, the legislation has recognized the importance of cybersecurity that heavily relies on reverse engineering to find security gaps and malfunctions. Subsequently, Germany introduced a new trade secret allowing for the \u201cobservation, study, disassembly or testing of a product or object\u201d in 2018. However, at this stage, several questions remain unanswered: Is it possible to  restrict this freedom by, e. g. contractual agreements? How may the gained knowledge (not) be used? How do claims from IP holders from other legal systems such as the US influence our case?\r\n\r\nThe talk will shed light on these questions from a techno-legal perspective. Ultimately, it will give guidance for reverse engineers, demonstrating the boundaries of such new developments and highlighting the legal uncertainties in need of clarifications by literature and practice.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9744,
+      "public_name": "Steffen Becker"
+    },
+    {
+      "id": 9750,
+      "public_name": "Stephan Kolo\u00dfa"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

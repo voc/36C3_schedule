@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11020.html",
+  "id": 11020,
+  "guid": "949200f1-fa20-4a53-a981-50074957d6ba",
+  "logo": null,
+  "date": "2019-12-28T23:30:00+01:00",
+  "start": "23:30",
+  "duration": "01:00",
+  "room": "Borg",
+  "slug": "36c3-11020-vehicle_immobilization_revisited",
+  "title": "Vehicle immobilization revisited",
+  "subtitle": "Uncovering and assessing a second authentication mechanism in modern vehicle immobilization systems",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Modern road vehicles are fitted with an electronic immobilization system, which prevents the vehicle from starting unless an authorized transponder is present. It is common knowledge that the security transponder embedded in the key fob should be secure, and quite some work has been published on the (in)security of such transponders. However, we identify another crucial part of the immobilizer system, that has not yet received any academic attention. We investigated three vehicles, and found that the security transponder does not communicate with the ECM (Engine Control Module) but with the BCM (Body Control Module). After succesful authentication of the key, the BCM will then authenticate towards the ECM, after which immobilization is deactivated and the vehicle may start. If either the security transponder or this ECM-BCM authentication protocol is weak, vehicles may be started without presence of a valid security transponder. \r\n\r\nWe present three case studies of such ECM-BCM protocols on vehicles from Peugeot, Fiat and Opel. The protocols are shown to be used in many different models, and also by other brands owned by the same group. We show how two of the protocols are completely broken, while the third one is derived directly from a 1995 security transponder. Both attacks can be carried out through the standardized OBD-II connector, present and conveniently located in all modern vehicles. Bottom line: cryptographic protocols used in the ECM-BCM authentication are not on par when compared with the crypto embedded in the transponder.",
+  "description": "Nowadays, immobilizers play an essential role in the prevention of vehicle theft. Intended to raise the complexity of theft through the introduction of non-mechanical safety measures, immobilizers have always worked by the same basic principle: to disallow ignition until some secret is presented to the vehicle. Immobilizers gained popularity in the 1990s, as a consequence of legislation: the European Union, Australia and Canada adopted regulation in the nineties, mandating the use of electronic immobilization systems in passenger cars. \r\n\r\nImmobilizers have shown to be highly effective in the effort to reduce theft rates. According to a 2016 study, the broad deployment of immobilization devices has lead to a reduction in car theft of an estimated 40% on average during 1995-2008. However, various tools are on the market to bypass electronic security mechanisms. Deployment of insecure immobilizer systems has real-world consequences: multiple sources report cars being stolen by exploiting vulnerabilities in electronic security, sometimes to extents where insurance companies refuse to insure models unless additional security measures are taken.\r\n\r\nIn modern cars, the ECM (Engine Control Module) is responsible for operating the car engine, and is also responsible for starting the engine. A common misconception about immobilizer systems is that the car key always authenticates directly to the ECM, and that the ECM will only allow the car to start when it has established an authorized 125KHz RFID security transponder is present. In practise, the security transponder in the key fob authenticates towards the BCM (Body Control Module), which in turn authenticates towards the ECM. \r\n\r\nWe have selected three cars from different major Original Equipment Manufacturers (OEMs) and identified immobilizer protocol messages from CAN-bus traffic, which can be accessed through the conveniently located OBD-II connector. We made traces of CAN-traffic when the ignition lock is switched to the ON position. Immobilizer related messages can be easily recognized when searching for high-entropy messages that strongly differ between traces. Confidence that the messages are indeed related to immobilizer can be increased by removing the security transponder from the key, which should result in different protocol messages.\r\n\r\nAfter identification of related messages, we dumped ECM and BCM micro-controller firmwares, either by leveraging existing software functions, or by using micro-controller debug functionality such as JTAG and BDM. We derived the immobilizer protocol through reverse-engineering. In all three cases, we established the same protocol is used in several different models from the same OEMs, including currently manufactured ones. We then analyzed the protocols for cryptographic strength. Two turn out to be completely broken, while the last one is directly derived from a 1995 security transponder. While it exhibits no obvious weaknesses, it is used in conjunction with current AES security transponders, and as such, we still recommend the manufacturer to replace it.  ",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8314,
+      "public_name": "Wouter Bokslag"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

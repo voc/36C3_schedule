@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10531.html",
+  "id": 10531,
+  "guid": "77078359-ac9b-4839-8b5b-bd4114903d1c",
+  "logo": "/system/events/logos/000/010/531/large/logo.png?1576361884",
+  "date": "2019-12-28T17:10:00+01:00",
+  "start": "17:10",
+  "duration": "00:40",
+  "room": "Ada",
+  "slug": "36c3-10531-all_wireless_communication_stacks_are_equally_broken",
+  "title": "All wireless communication stacks are equally broken",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Wireless connectivity is an integral part of almost any modern device. These technologies include LTE, Wi-Fi, Bluetooth, and NFC. Attackers in wireless range can send arbitrary signals, which are then processed by the chips and operating systems of these devices. Wireless specifications and standards for those technologies are thousands of pages long, and thus pose a large attack surface.",
+  "description": "Wireless exploitation is enabled by the technologies any smartphone user uses everyday. Without wireless connectivity our devices are bricked. While we can be more careful to which devices and networks we establish connections to protect ourselves, we cannot disable all wireless chips all the time. Thus, security issues in wireless implementations affect all of us.\r\n\r\nWireless chips run a firmware that decodes wireless signals and interprets frames. Any parsing error can lead to code execution within the chip. This is already sufficient to read data passing the chip in plaintext, even if it would be encrypted while transmitted over the air. We will provide a preview into a new tool that enables full-stack Bluetooth fuzzing by real-time firmware emulation, which helps to efficiently identify parsing errors in wireless firmware.\r\n\r\nSince this kind of bug is within the wireless chips' proprietary firmware, patching requires assistance of the manufacturer. Often, fixing this type of security issue takes multiple months, if done at all. We will tell about our own responsible disclosure experiences, which are both sad and funny.\r\n\r\nAnother risk are drivers in the operating system, which perform a lot of operations on the data they receive from the wireless chip. Most drivers trust the input they get from a wireless chip too much, meaning that wireless exploitation within the chip can easily escalate into the driver.\r\n\r\nWhile escalating directly into the operating system is the commonly known option, it is also possible to escalate into other chips. This is a new attack type, which cannot be filtered by the operating system.\r\n\r\nFor everyone who is also concerned during our talk, there will be fancy tin foil hats.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 4927,
+      "public_name": "jiska"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

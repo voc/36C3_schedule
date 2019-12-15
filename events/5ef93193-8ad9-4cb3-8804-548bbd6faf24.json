@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11034.html",
+  "id": 11034,
+  "guid": "5ef93193-8ad9-4cb3-8804-548bbd6faf24",
+  "logo": null,
+  "date": "2019-12-27T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "01:00",
+  "room": "Eliza",
+  "slug": "36c3-11034-tales_of_old_untethering_ios_11",
+  "title": "Tales of old: untethering iOS 11",
+  "subtitle": "Spoiler: Apple is bad at patching",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "This talk is about running unsigned code at boot on iOS 11. I will demonstrate how you can start out with a daemon config file and end up with kernel code execution.",
+  "description": "This talk is about achieving unsigned code execution at boot on iOS 11 and using that to jailbreak the device, commonly known as \"untethering\". This used to be the norm for jailbreaks until iOS 9.1 (Pangu FuXi Qin - October 2015), but hasn't been publicly done since. I will unveil a yet unfixed vulnerability in the config file parser of a daemon process, and couple that with a kernel 1day for full system pwnage. I will run you through how either bug can be exploited, what challenges we faced along the way, and about the feasibility of building a kernel exploit entirely in ROP in this day and age, on one of the most secure platforms there are.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9441,
+      "public_name": "littlelailo"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

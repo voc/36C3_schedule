@@ -1,0 +1,32 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10928.html",
+  "id": 10928,
+  "guid": "6a4a1d40-e2da-45d9-92d3-87dee0799354",
+  "logo": null,
+  "date": "2019-12-29T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "01:00",
+  "room": "Eliza",
+  "slug": "36c3-10928-provable_insecurity",
+  "title": "Provable Insecurity",
+  "subtitle": "where artifacts come from, and how constructive math may help",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Cryptographic hash functions are everywhere, yet modeling the characteristics of their real-world occurrences is surprisingly complicated when trying to prove security. We argue how seemingly convenient features of doing classical math may make it actually harder to model them correctly.",
+  "description": "<p>\r\nDid you ever wonder why programmers use hash functions without keys while cryptographers only proved the implemented protocol secure for a hash function that is keyed? Did you ever want to have your passwords hashed using a random oracle for maximum security? If you are unhappy because it is possible to prove that a microkernel implementation can be proven to do what it is supposed to do, but your favourite cryptographic protocol cannot, then this talk may be for you.</p>\r\n<p>We explore how the way we do classical math leads deviations between cryptographic functions and how they can be modeled in proofs, and what could be done about that.</p>\r\n<p>We focus on questions like:</p>\r\n<ul>\r\n<li>How we can be forced to worry about collisions that no one knows</li>\r\n<li>How it can be that proofs in an exact science like math need to be interpreted</li>\r\n<li>Why modern cryptographers cannot prove something under the assumption that \"hash function X is secure\" while programmers have to design their software like this</li>\r\n<li>Whether \"proving A\" is always the same as \"proving A\"</li>\r\n<li>How to reasonably measure precomputation complexity in cryptographic attack</li>\r\n<li>And finally: Why we may need different mathematical foundations to formalize cryptography</li>\r\n</ul>",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9655,
+      "public_name": "dreiwert"
+    },
+    {
+      "id": 9747,
+      "public_name": "Claus Diem"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

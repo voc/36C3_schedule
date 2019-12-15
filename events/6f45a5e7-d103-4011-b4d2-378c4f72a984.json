@@ -1,0 +1,37 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10884.html",
+  "id": 10884,
+  "guid": "6f45a5e7-d103-4011-b4d2-378c4f72a984",
+  "logo": null,
+  "date": "2019-12-27T22:30:00+01:00",
+  "start": "22:30",
+  "duration": "00:40",
+  "room": "Ada",
+  "slug": "36c3-10884-practical_cache_attacks_from_the_network_and_bad_cat_puns",
+  "title": "Practical Cache Attacks from the Network and Bad Cat Puns",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Our research shows that network-based cache side-channel attacks are a realistic threat. Cache attacks have been traditionally used to leak sensitive data on a local setting (e.g., from an attacker-controlled virtual machine to a victim virtual machine that share the CPU cache on a cloud platform). With our attack called NetCAT, we show this threat extends to untrusted clients over the network, which can now leak sensitive data such as keystrokes in a SSH session from remote servers with\u00a0no\u00a0local access. The root cause of the vulnerability is a recent Intel feature called DDIO, which grants network devices and other peripherals access to the CPU cache. Originally, intended as a performance optimization in fast networks, we show DDIO has severe security implications, exposing servers in local untrusted networks to remote side-channel attacks.",
+  "description": "Increased peripheral performance is causing strain on the memory subsystem of modern processors. For example, available DRAM throughput can no longer sustain the traffic of a modern network card. Scrambling to deliver the promised performance, instead of transferring peripheral data to and from DRAM, modern Intel processors perform I/O operations directly on the Last Level Cache (LLC). While Direct Cache Access (DCA) instead of Direct Memory Access (DMA) is a sensible performance optimization, it is unfortunately implemented without care for security, as the LLC is now shared between the CPU and all the attached devices, including the network card.\r\n\r\nIn this talk, we present the first security analysis of DDIO. Based on our analysis, we present NetCAT, the first network-based cache attack on the processor\u2019s last-level cache of a remote machine. We show that NetCAT can break confidentiality of a SSH session from a third machine without any malicious software running on the remote server or client. The attacker machine does this by solely sending network packets to the remote server. netcat is also a famous utility that hackers and system administrators use to send information over the network. NetCAT is a pun on being able to read data from the network without cooperation from the other machine on the network.\u00a0However, we received very mixed reactions on that pun. More details on this in the talk. \r\n\r\nThe vulnerability was acknowledged by Intel with a bounty and CVE-2019-11184 was assigned to track this issue. The public disclosure was on September 10, 2019. ",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9659,
+      "public_name": "Michael Kurth"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.vusec.net/projects/netcat/",
+      "title": "VUSec Project Site"
+    },
+    {
+      "url": "https://youtu.be/QXut1XBymAk",
+      "title": "Exploit POC Video"
+    }
+  ],
+  "attachments": []
+}

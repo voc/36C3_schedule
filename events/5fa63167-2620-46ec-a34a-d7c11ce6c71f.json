@@ -1,0 +1,36 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10690.html",
+  "id": 10690,
+  "guid": "5fa63167-2620-46ec-a34a-d7c11ce6c71f",
+  "logo": "/system/events/logos/000/010/690/large/logo_4x.png?1571748219",
+  "date": "2019-12-27T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "01:00",
+  "room": "Clarke",
+  "slug": "36c3-10690-open_source_is_insufficient_to_solve_trust_problems_in_hardware",
+  "title": "Open Source is Insufficient to Solve Trust Problems in Hardware",
+  "subtitle": "How Betrusted Aims to Close the Hardware TOCTOU Gap",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "While open source is necessary for trustable hardware, it is far from sufficient. This is because \u201chashing\u201d hardware \u2013 verifying its construction down to the transistor level \u2013 is typically a destructive process, so trust in hardware is a massive time-of-check/time-of-use (TOCTOU) problem. This talk helps us understand the nature of the TOCTOU problem by providing a brief overview of the supply chain security problem and various classes of hardware implants. We then shift gears to talk about ways to potentially close the TOCTOU gap, concluding with a curated set of verifiable components that we are sharing as an open source mobile communications platform  \u2013 a kind of combination hardware and software distribution \u2013 that we hope can be useful for developing and deploying all manner of open platforms that require a higher level of trust and security.",
+  "description": "The inconvenient truth is that open source hardware is precisely as trustworthy as closed source hardware. The availability of design source only enables us to agree that the designer\u2019s intent can be trusted and is likely correct, but there is no essential link between the hardware design source and the piece of hardware on your desk. Thus while open source is necessary for trustable hardware, it is far from sufficient. This is quite opposite from the case of open source software thanks to projects like Reproducible Builds, where binaries can be loaded in-memory and cryptographically verified and independently reproduced to ensure a match to the complete and corresponding source of a particular build prior to execution, thus establishing a robust link between the executable and the source.\r\n\r\nUnfortunately, \u201chashing\u201d hardware \u2013 verifying its construction down to the transistor level \u2013 is typically a destructive process, so trust in hardware is a massive time-of-check/time-of-use (TOCTOU) problem. Even if you thoroughly inspect the design source, the factory could modify the design. Even if you audit the factory, the courier delivering the hardware to your desk could insert an implant. Even if you carried the hardware from the factory to your desk, an \u201cevil maid\u201d could modify your machine. This creates an existential crisis for trust \u2013 how can we know our secrets are safe if the very hardware we use to compute them could be readily tainted? \r\n\r\nThis talk addresses the elephant in the room by helping us understand the nature of the TOCTOU problem by providing a brief overview of the supply chain security problem and various classes of hardware implants. We then shift gears to talk about ways to potentially close the TOCTOU gap. When thinking about hardening a system against supply chain attacks, every component \u2013 from the CPU to the keyboard to the LCD \u2013 must be considered in order to defend against implanted screen grabbers and key loggers. At every level, a trade-off exists between complexity and the feasibility of non-destructive end-user verification with minimal tooling: a system simple enough to be readily verified will not have the equivalent compute power or features of a smartphone. \r\n\r\nHowever, we believe that a verifiable system should have adequate performance for a select range of tasks that include text chats, cryptocurrency wallets, and voice calls. Certain high-risk individuals such as politicians, journalists, executives, whistleblowers, and activists may be willing to use a device that forgoes bells and whistles in exchange for privacy and security. With this in mind, the <https://betrusted.io>Betrusted</a> project brings together a curated set of verifiable components as an open source mobile communications platform - a combination open source hardware and software distribution. We are sharing Betrusted with the community in the hopes that others may adopt it as a reference design for developing and deploying all manner of open platforms that require a higher level of trust and security.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3155,
+      "public_name": "bunnie"
+    },
+    {
+      "id": 4376,
+      "public_name": "Sean \"xobs\" Cross"
+    },
+    {
+      "id": 9852,
+      "public_name": "Tom Marble"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

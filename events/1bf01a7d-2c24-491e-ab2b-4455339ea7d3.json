@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10497.html",
+  "id": 10497,
+  "guid": "1bf01a7d-2c24-491e-ab2b-4455339ea7d3",
+  "logo": null,
+  "date": "2019-12-27T14:10:00+01:00",
+  "start": "14:10",
+  "duration": "01:00",
+  "room": "Ada",
+  "slug": "36c3-10497-messenger_hacking_remotely_compromising_an_iphone_through_imessage",
+  "title": "Messenger Hacking: Remotely Compromising an iPhone through iMessage",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "So called \u201c0-click\u201d exploits, in which no user interaction is required to compromise a mobile device, have become a highly interesting topic for security researchers, and not just because Apple announced a one million dollar bug bounty for such exploits against the iPhone this year. This talk will go into the details of how a single memory corruption vulnerability in iMessage was remotely exploited to compromise an iPhone. The insights gained from the exploitation process will hopefully help defend against such attacks in the future.",
+  "description": "This talk will dive into the internals of an iMessage exploit that achieves unsandboxed remote code execution on vulnerable devices (all iPhones and potentially other iDevices up to iOS 12.4) without user interaction and within a couple of minutes. All that is necessary for a successful attack in a default configuration is knowledge of the target\u2019s phone number or an email address. Further, the attack is also possible without any visible indicators of the attack displayed to the user.\r\n\r\nFirst, an overview of the general iMessage software architecture will be given, followed by an introduction of the exploited vulnerability. Next, a walkthrough of the exploitation process, including details about how the various exploit mitigations deployed on iOS were bypassed, will be presented. Some of the exploitation techniques are rather generic and should be applicable to exploit other vulnerabilities, messengers, and even other platforms such as Android. Along the way, some advice will be shared with the audience on how to bootstrap research in this area. The talk concludes with a set of suggestions for mobile OS and messenger vendors on how to mitigate the demonstrated exploit techniques effectively and hopefully make these kinds of attacks significantly more difficult/costly to perform in the future. While previous experience with iOS userland exploitation will not be required for this talk, some basic background knowledge on memory corruption vulnerabilities is recommended.\r\n\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9215,
+      "public_name": "Samuel Gro\u00df"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

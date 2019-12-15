@@ -1,0 +1,45 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11113.html",
+  "id": 11113,
+  "guid": "53f01da7-4793-4f96-a158-c375966b8068",
+  "logo": null,
+  "date": "2019-12-28T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "01:00",
+  "room": "Clarke",
+  "slug": "36c3-11113-reducing_carbon_in_the_digital_realm",
+  "title": "Reducing Carbon in the Digital Realm",
+  "subtitle": "How to understand the environmental impact of the digital products you build, and take measurable steps to \u201cgreen your stack\u201d",
+  "track": "Resilience & Sustainability",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "In this talk, you'll learn about the environmental impact of the digital products and services you build, why this matters. You\u2019ll be introduced to a mental model, known as Platform, Packets, Process,  for measuring and identifying emissions hotspots in digital products, and the steps you can take to reduce them.\r\n",
+  "description": "You might have heard stories about how bitcoin, or the internet itself, is responsible for an ever-growing share of global carbon emissions. \r\n\r\nBut it doesn\u2019t need to be this way.\r\n\r\nDid you know that just by switching AWS regions in the US, you can wipe out a huge chunk of the carbon footprint from running your tech infrastructure? Most people don't, and we need stuff like this to be common knowledge in our industry - we need to know how to build digital products without needing to emit carbon, the same way we expect people in automotive industries to how to build cars with without needing lead in the fuel.\r\n\r\nIn this talk, you'll learn about the environmental impact of the digital products and services you build, and a about a mental model, known as Platform, Packets, Process,  for measuring and identifying emissions hotspots in the way you build them.\r\n\r\nYou\u2019ll also see how to use skills you already have to make meaningful, measurable improvements to the environmental impact of the digital products and services you build, and the open source tools available to support you in your efforts to green your stack.\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9534,
+      "public_name": "mrchrisadams"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.thegreenwebfoundation.org/news/packets-yet-another-lever-for-a-low-carbon-internet/",
+      "title": "More on \"Packets\" - infrastrucure that you don't control that causes carbon emissions"
+    },
+    {
+      "url": "https://www.thegreenwebfoundation.org/news/provisioning-and-providers-two-levers-for-a-lower-carbon-internet/",
+      "title": "More on \"Platform\" \u2013 emissions caused by servers and infrastructure you run yourself"
+    },
+    {
+      "url": "https://www.thegreenwebfoundation.org/news/place-policy-procurement-more-levers-for-a-lower-carbon-internet/",
+      "title": "More on \"Process\" - emissions caused by decisions about how and where you work"
+    },
+    {
+      "url": "https://chrisadams.me.uk/",
+      "title": "My personal site, with links to previous talks"
+    }
+  ],
+  "attachments": []
+}

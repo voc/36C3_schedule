@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10564.html",
+  "id": 10564,
+  "guid": "a5a2ed60-072f-49b0-9193-2a6e1ea36ffa",
+  "logo": null,
+  "date": "2019-12-29T21:50:00+01:00",
+  "start": "21:50",
+  "duration": "00:40",
+  "room": "Clarke",
+  "slug": "36c3-10564-hacking_with_a_tpm",
+  "title": "Hacking (with) a TPM",
+  "subtitle": "Don't ask what you can do for TPMs, Ask what TPMs can do for you",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Trusted Platform Modules (TPMs) are nowadays included in all consumer-grade devices. Whilst \"the Trusted Platform Modules available for PCs are not dangerous, and there is no reason not to include one in a computer or support it in system software\" (Richard Stallman, GNU) they have yet to gain wide-ranged adoption, especially for the daily needs of your average nerd.\r\n\r\nThis talk will introduce OpenSource software and use cases that are already supported and how your everyday nerd can benefit from those by security your personal credentials, securing your system credentials, encrypting your storage and detecting BIOS manipulations. This talk is based on the https://tpm2-software.github.io contributions. It will also give a quick rundown to debunk some myths and call for participation in the OpenSource efforts for supporting more use cases via TPMs.",
+  "description": "TPMs provide several features. Most talked about are the capabilities to perform \"attestations\", i.e. to reliably determine the software (BIOS, OS, applications) that are running on a given system. Most commonly useful are its capabilities to act similar to a \"built-in smartcard\". It provides storage for keys and secrets on the device that can be protected by PINs, i.e. that are protected against bruteforce attacks. It further provides an encrypted swapping mechanism for such keys, enabling almost infinitely large storage for said keys.\r\n\r\nWith this range of features available at your average nerd's disposal, it would be a shame not to use them.\r\n\r\n1. Securing your personal credentials\r\nThe most frequent application of TPMs stems from logging into other system. This includes ssh client logins or browser based https client certificates and becomes even more frequent when put into context with git+ssh, git+https, sftp or webdav. All these technologies and mostly all implementation support PKCS11 to allow storage of secrets on a smartcard. But SmartCards or Yubikeys require extra readers, occupy USB-slots, have to be carried around.\r\n\r\nThe tpm2-pkcs11 library allows anyone to seamlessly use the TPM instead of an external smartcard. This approach provides much higher convenience compared to smartcards and even compared to passwords, since you merely need a short pin instead of a username+vErys3cur3passwor! combinations. It maps the smartcards property of possession to possession of the device, i.e. notebook.\r\n\r\n2. Securing your system credentials\r\nHeartbleed is old but the principle problem of having keys lay around in RAM and disk is as relevant as it used to be. This is where the tpm2-tss-engine for OpenSSL comes into play. It allows the use of TPM-based keys for authentication via TLS (server and client side). Of course, if your system get's owned, it's owned, but once the attacker is gone (reboot, update, etc), you can be sure that he could not have copied the private key. Thus, no revocation or similar action is needed.\r\n\r\n3. Encrypting your storage\r\nBasically \"BitLocker for Linux\" is the keyword. By extending LUKS(2) and cryptsetup, we're enabling anyone to encrypt their disk and protect there data from bruteforce password guessing if the device or disk ever got stolen. This even provides a lot more convenience, since the TPM operations can be faster than the typical KDF'ing and you can work with PINs and short passwords instead of vErys3cur3passwor! ones.\r\n\r\n4. Detecting BIOS manipulations\r\nTalks and news about evil maids, government trojans installed at airport inspections and BIOS-based backdoors are present anywhere. The tpm2-totp project is a clone of Matthew Garrets tpm-totp that he presented at 32c3. It enable the user to authenticate not only the device to be theirs, but also if the BIOS and kernel are still in the same state as they were when they left it.\r\n\r\nAll these use cases are actually running code shipping with more and more distros.\r\nThe talk will give some deeper explanations into each of these and possibly some live demos.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9313,
+      "public_name": "Andreas Fuchs"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

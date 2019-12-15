@@ -1,0 +1,38 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10549.html",
+  "id": 10549,
+  "guid": "c7af7833-e274-4e67-adf1-e29b807ea343",
+  "logo": "/system/events/logos/000/010/549/large/a64tux.png?1570567588",
+  "date": "2019-12-29T23:50:00+01:00",
+  "start": "23:50",
+  "duration": "00:40",
+  "room": "Dijkstra",
+  "slug": "36c3-10549-linux_on_open_source_hardware_with_open_source_chip_design",
+  "title": "Linux on Open Source Hardware with Open Source chip design",
+  "subtitle": "",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Want to run Linux on open hardware?  This talk will explore Open Source Hardware projects capable of that task, and explore how RISC-V and free software FPGA projects can be leveraged to create libre systems.",
+  "description": "This talk will explore Open Source Hardware projects relevant to Linux, including boards like BeagleBone, Olimex OLinuXino, Giant board and more. Looking at the benefits and challenges of designing Open Source Hardware for a Linux system, along with BeagleBoard.org\u2019s experience of working with community, manufacturers, and distributors to create an Open Source Hardware platform.\r\n\r\nDrew will also talk about the importance of the RISC-V instruction set and free software FPGA toolchains.  He will explore the options for running Linux on open source chip designs.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9288,
+      "public_name": "Drew Fustini"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://embedded-recipes.org/2019/linux-on-open-source-hardware-and-libre-silicon/",
+      "title": "Embedded Recipes 2019: Linux on Open Source Hardware and Libre Silicon"
+    }
+  ],
+  "attachments": [
+    {
+      "url": "/system/event_attachments/attachments/000/003/840/original/er2019.pdf?1570567494",
+      "title": "Slides from Embedded Recipes 2019 in Paris"
+    }
+  ]
+}

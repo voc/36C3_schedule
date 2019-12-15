@@ -1,0 +1,58 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10576.html",
+  "id": 10576,
+  "guid": "2c870588-7b9e-4530-a352-f1e871252cec",
+  "logo": "/system/events/logos/000/010/576/large/Mitel-DECT.jpg?1571665850",
+  "date": "2019-12-29T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "01:00",
+  "room": "Dijkstra",
+  "slug": "36c3-10576-mifail_oder_mit_gigaset_ware_das_nicht_passiert",
+  "title": "#mifail oder: Mit Gigaset w\u00e4re das nicht passiert!",
+  "subtitle": "DECT is korrekt.",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Seit 2018 betreibt Eventphone ein\u00a0neues Telefonsystem auf den chaosnahen Events. Nat\u00fcrlich wird neue Soft- und Hardware sofort zum Forschungsgegenstand. Schnell gab es die \u00fcblichen Fragen: Wie funktioniert das genau? Ist das alles an Features? Kann man das updaten? Kann man nicht kompatible Ger\u00e4te vielleicht kompatibel machen? Was kann man noch verbessern? Ist das Sicher? Und nat\u00fcrlich haben wir Antworten und m\u00f6chten unser Wissen mit euch teilen. Es gibt einen \u00dcberblick \u00fcber DECT, kaputte Crypto\u2122 und was man mit Kreativit\u00e4t daraus machen kann. Unser Anspruch ist, dass wir es so erkl\u00e4ren, dass alle Zuschauerinnen und Zuschauer ein bisschen mehr \u00fcber DECT wissen und mindestens einmal gelacht haben.",
+  "description": "Seit dem Easterhegg 2018 betreibt Eventphone das PoC (Phone Operation Center) mit neuer Hard- und Software. Wer ist Eventphone bzw. das PoC und was machen die? Neben vielen selbst entwickelten Komponenten nutzen wir eine DECT over IP L\u00f6sung des\u00a0kanadischen Telekommunikationsunternehmens Mitel. Wir geben euch eine Architektur\u00fcbersicht der neuen Anlage und sprechen \u00fcber Antennen, Software sowie Lizenzierung. Nachdem wir die\u00a0gr\u00f6\u00dften Probleme, die wir mit dem alten System hatten, vollst\u00e4ndig gel\u00f6st haben schauten wir etwas genauer unter die Haube. Bei den ersten Analysen entdeckten wir einen unkritischen aber witzigen Fehler, den wir euch zeigen wollen. Unser prim\u00e4res Ziel war es die Kompatibilit\u00e4t zu erh\u00f6hen, denn es gab einige Ger\u00e4te die trotz DECT Standard nicht mit der Anlage funktionierten oder sich sehr sonderlich verhielten. Warum eigentlich? Wir fingen an die Kommunikation der Ger\u00e4te zu analysieren und fanden heraus:\u00a0Wer ein Byte verliert, hat acht Bit zu wenig. Es folgt: Eine DECT Anmeldung als Theaterst\u00fcck. Aber halt! Ist das nicht alles verschl\u00fcsselt? Woher wisst ihr das? Es folgt: die\u00a0Geschichte der Mitel Crypto und was daraus entstand:\u00a0rfpproxy. Es folgt: Eine DECT Anmeldung mit rfpproxy als Theaterst\u00fcck. Dann sammelten wir\u00a0Metadaten und l\u00f6schten sie wieder, mit Unterst\u00fctzung der Feuerwehr. Und dann? Dann haben wir viel gespielt, analysiert und entwickelt. Weil die Zeit knapp ist zeigen wir euch 3 kleine Beispiele. Musik w\u00e4hrend des Telefonats \u00fcber Vanity Number, die Akte AVM und\u00a0Telefonbuchfunktionen. Am Ende geben wir euch Informationen zum Weitermachen sowie einen Ausblick. Au\u00dferdem\u00a0wollen euch motivieren uns zu helfen. Wir h\u00e4tten gern einen Wireshark Dissector.\u00a0Stay connected!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9328,
+      "public_name": "zivillian"
+    },
+    {
+      "id": 4972,
+      "public_name": "ST Kambor-Wiesenberg"
+    },
+    {
+      "id": 1757,
+      "public_name": "LaForge"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://eventphone.de/blog/2018/12/30/eventphone-fruher-heute-morgen-vortrag-auf-dem-35c3/",
+      "title": "Eventphone: fr\u00fcher, heute, morgen \u2013 Vortrag auf dem 35C3"
+    },
+    {
+      "url": "https://media.ccc.de/v/eh19-179-das-neue-eventphone-poc-telefonsystem",
+      "title": "Das neue Eventphone (PoC) Telefonsystem (Easterhegg 2019)"
+    },
+    {
+      "url": "https://eventphone.de/blog/2018/03/30/dect-anmeldung/",
+      "title": "Die neue DECT Anmeldung"
+    },
+    {
+      "url": "https://eventphone.de/blog/2018/04/01/dect-deregistrierung-easterhegg-2018/",
+      "title": "DECT Deregistrierung (Easterhegg 2018)"
+    }
+  ],
+  "attachments": [
+    {
+      "url": "/system/event_attachments/attachments/000/003/867/original/Mitel-DECT.jpg?1571665830",
+      "title": "Mitel DECT"
+    }
+  ]
+}

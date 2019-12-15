@@ -1,0 +1,37 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10561.html",
+  "id": 10561,
+  "guid": "b0fdc339-c0d7-4576-950f-0770b458f084",
+  "logo": "/system/events/logos/000/010/561/large/ic_eg.PNG?1571922527",
+  "date": "2019-12-29T21:50:00+01:00",
+  "start": "21:50",
+  "duration": "00:40",
+  "room": "Dijkstra",
+  "slug": "36c3-10561-the_eye_on_the_nile",
+  "title": "The Eye on the Nile",
+  "subtitle": "Egypt's Civil Society Under Attack",
+  "track": "Ethics, Society & Politics",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "What happens when we come across a surveillance operation targeting Egypt\u2019s civil society? And what happens when the attackers expose all of their backend code by mistake? This is The Eye on the Nile.",
+  "description": "Egyptian activists and journalists report and fight against human rights violations, only to face human rights violations themselves: they are often silenced, detained, tortured and imprisoned. Practicing their freedom of expression becomes especially dangerous under a regime that is constantly wary of attempts to spark a second revolution. Therefore, it would not be surprising to see surveillance-motivated attacks trying to go after those targets.\r\n\r\nThis talk will discuss how an opsec mistake made by a state actor gave us a rare insight into their long-term malicious activity, and the methods they were using to keep a close eye on possible internal threats within Egypt. Among our findings were attempts to gain access to victims' inboxes and monitor their correspondences, mobile applications hosted on Google's Play Store and used to track victims' communications or location, and more.\r\n\r\nWe will start by reviewing our investigation into the attackers' infrastructure, and will then go over the different attack vectors and previously undisclosed malicious artifacts used in this operation. Lastly, we will share how we were able to find and reveal the identities of this campaign's high-profile targets, and the location of the headquarters which we suspect the attackers are operating from.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9317,
+      "public_name": "Aseel Kayal"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://research.checkpoint.com/the-eye-on-the-nile/",
+      "title": "Technical Publication"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/10/03/world/middleeast/egypt-cyber-attack-phones.html",
+      "title": "New York Times Publication"
+    }
+  ],
+  "attachments": []
+}

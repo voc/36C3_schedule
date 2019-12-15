@@ -1,0 +1,33 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10630.html",
+  "id": 10630,
+  "guid": "3be4da1b-7efd-4ab3-9f51-297c42c06d6a",
+  "logo": null,
+  "date": "2019-12-29T14:10:00+01:00",
+  "start": "14:10",
+  "duration": "00:40",
+  "room": "Dijkstra",
+  "slug": "36c3-10630-wifibroadcast",
+  "title": "Wifibroadcast",
+  "subtitle": "How to convert standard wifi dongles into digital broadcast transmitters",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "This talk is about modifying cheap wifi dongles to realize true unidirectional broadcast transmissions that can transport digital data like HD drone video with guaranteed latency over a range of tens of kilometers. The talk will show the necessary changes to the firmware and kernel of the wifi dongle, the forward error correction and software diversity (fuse several receivers in software) that is added to improve reliability and the most prominent use case: Flying a remote controlled drone at a distance of tens of kilometers.",
+  "description": "Wifi as it is implemented in the 802.11 standard tries (as best as it can) to guarantee to a user the delivery of data and the correctness of the data.\r\nTo increase the chance of delivery, the standard includes techniques like automatic retransmission, automatic rate reduction, CSMA/CA. To guarantee correctness, the packets are using CRC sums. These measures are very useful in a typical 1-to-1 communication scenario. However, they do not adapt very well to a 1-to-n scheme (broadcast). Even in case of a 1-to-1 scenario the techniques mentioned above make it impossible to guarantee a latency and throughput of a transmission.\r\n\r\nWifibroadcast uses the wifi hardware in a mode that is very similar to the classic analog broadcast transmitters. Data will immediately be sent over the air, without any association of devices, retransmissions and rate reductions.\r\nThe data can be picked up by an arbitrary number of receivers that decode the data stream, repair damaged packages via software diversity and repair damaged bits via forward error correction.\r\n\r\nThe Wifibroadcast software is an easy to use Linux program into which arbitrary data can be piped. The same data will then appear on the receiving program on standard output and can thus be piped into further programs.\r\n\r\nAll software developed has been made available under the GPL license.\r\n\r\n\r\nA prominent use case for Wifibroadcast is the transmission of live video from a drone. Compared to standard wifi this offers the following advantages:\r\n\r\n * Guaranteed latency\r\n * No association (that might get lost)\r\n * Multiple receivers work out of the box\r\n * True unidirectional communication allows to use asymmetrical antenna setups\r\n * Slow breakup of connection instead of complete communication loss\r\n\r\n\r\nThe talk will show the details of the Wifibroadcast protocol, the changes to the firmware & driver, the forward error correction, software diversity and finally will show the HD video transmission over tens of kilometers as an application example.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9409,
+      "public_name": "befi"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/",
+      "title": "Wifibroadcast \u2013 Analog-like transmission of live video data"
+    }
+  ],
+  "attachments": []
+}

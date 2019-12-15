@@ -1,0 +1,45 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10796.html",
+  "id": 10796,
+  "guid": "584c5682-c1a6-4149-9572-04e44cf44645",
+  "logo": "/system/events/logos/000/010/796/large/3dbrew2.png?1571958345",
+  "date": "2019-12-27T14:10:00+01:00",
+  "start": "14:10",
+  "duration": "01:00",
+  "room": "Dijkstra",
+  "slug": "36c3-10796-it_s_not_safe_on_the_streets_especially_for_your_3ds",
+  "title": "It's not safe on the streets... especially for your 3DS!",
+  "subtitle": "Exploring a new attack surface on the 3DS",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "The 3DS is reaching end of life but has not revealed all its weaknesses yet. This talk will go through the process of reverse engineering an undocumented communication protocol and show how assessing hard-to-reach features yields dangerous results, including remote code execution exploits!",
+  "description": "<p>Embedded Devices are all around us, talking to each other in ways we often don't even realize. In this talk, we discuss how one such communication mechanism in the 3DS remained unexplored for over seven years as well as the vulnerabilities that were lying dormant as a result.</p>\r\n<p>We will explore specific features of the 3DS and talk about their low-level implementation details and about why they were not tested before. Besides, we will walk through the (lengthy) dev process involved in putting together this exploit, and the significant risks involved in devices (even game consoles) having this kind of vulnerability.</p>\r\n<p>Finally, we will demonstrate the attack in action.</p>\r\n<p>Since the talk will be a bit technical some basic knowledge about network protocols and software exploitation techniques is recommended, but it is aimed to be enjoyable for non-technical audiences as well.<br>One might also take a look at previous talks (32c3 and 33c3) about the 3ds for more in-depth background knowledge.</p>",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9142,
+      "public_name": "nba::yoh"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.3dbrew.org/",
+      "title": "3DBrew Wiki"
+    },
+    {
+      "url": "https://twitter.com/MrNbaYoh",
+      "title": "Twiter"
+    },
+    {
+      "url": "https://smealum.github.io/3ds/32c3/",
+      "title": "32c3 - Breaking the 3ds security system by smea, plutto and derrek"
+    },
+    {
+      "url": "https://derrekr.github.io/3ds/",
+      "title": "33c3 - Nintendo Hacking 2016 - Game Over by naehrwert, derrek and nedwill"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11186.html",
+  "id": 11186,
+  "guid": "333a8580-79d9-4a01-800b-f958612636e6",
+  "logo": null,
+  "date": "2019-12-28T17:10:00+01:00",
+  "start": "17:10",
+  "duration": "00:40",
+  "room": "Eliza",
+  "slug": "36c3-11186-breaking_microsoft_edge_extensions_security_policies",
+  "title": "Breaking Microsoft Edge Extensions Security Policies",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Browsers are the ones who handle our sensitive information. We entirely rely on them to protect our privacy, that\u2019s something blindly trusting on a piece of software to protect us. Almost every one of us uses browser extensions on daily life, for example, ad-block plus, Grammarly, LastPass, etc.",
+  "description": "But what is the reality when we talk about security of browser extensions.\r\n\r\nEvery browser extensions installed with specific permissions, the most critical one is host access permission which defines on which particular domains your browser extension can read/write data.\r\n\r\nYou might already notice the sensitivity of host permissions since a little mistake in the implementation flow would lead to a massive security/privacy violation.\r\n\r\nYou can think of this way when you install an extension that has permission to execute JavaScript code on https://www.bing.com, but indeed, it allows javaScript code execution on https://mail.google.com. Which means this extension can also read your google mail, and this violates user privacy and trust.\r\n\r\nDuring the research on edge extensions, we noticed a way to bypass host access permissions which means an extension which has permission to work on bing.com can read your google, facebook, almost every site data.\r\n\r\nwe noticed using this flow we can change in internal browser settings, Further, we ware able to read local system files using the extensions. Also in certain conditions, it allows you to execute javaScript on reading mode which is meant to protect users from any javaScript code execution issues.\r\n\r\nThis major flaw in Microsoft Edge extension has been submitted responsibly to the Microsoft Security Team; as a result, CVE-2019-0678 assigned with the highest possible bounty.\r\n\r\nOutline\r\n\r\n1. Introduction to the browser extension\r\nThis section is going to cover what is browser extensions, and examples of browser extensions that are used on a daily basis.\r\n\r\n2. Permission model in browser extensions\r\nThis section details about the importance of manifest.json file, further details about several permissions supported by edge extensions and at last it describes different host access permissions and the concept of privileged pages in browsers.\r\n\r\n3. Implementation of sample extension\r\nIn this section, we will understand the working of edge extensions and associated files.\r\n\r\n4. Playing with Tabs API\r\nThis section includes the demonstration of loading external websites, local files and privileged pages using the tabs API.\r\n\r\n5. Forcing edge extensions to load local files and privileged pages\r\nHere we will see how I fooled edge extensions to allow me to load local files and privileged pages as well.\r\n\r\n6. Overview of javascript protocol\r\nThis section brief about the working and the use of JavaScript protocol.\r\n\r\n7. Bypassing host access permission\r\nThe continuing previous section, here we will discuss I was able to bypass host access permission of edge extensions using the javascript URI\u2019s.\r\n\r\n8. Stealing google mails\r\nOnce we bypassed the host access permission, we will discuss how edge extension can read your Google emails without having permission.\r\n\r\n9. Stealing local files\r\nThe continuing previous section, here we will discuss how an edge extension can again escalate his privileges to read local system files.\r\n\r\n10. Changing internal edge settings\r\nThis section details how I was able to change into internal edge settings using edge extensions, this includes enabling/disabling flash, enabling/disabling developer features.\r\n\r\n11. Force Update Compatibility list\r\nThis section details how an extension can force update Microsoft compatibility list\r\n\r\n12. javascript code execution on reading mode?\r\nHere we will dicuss about the working of reading mode and CSP issues associated with it.\r\n\r\n13. Escalating CSP privileges.\r\nThis section describes how edge extensions provides more privilages to the user when dealing with content security policy",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8928,
+      "public_name": "Nikhil Mittal"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

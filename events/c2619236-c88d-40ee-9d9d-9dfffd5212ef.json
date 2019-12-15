@@ -1,0 +1,42 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10862.html",
+  "id": 10862,
+  "guid": "c2619236-c88d-40ee-9d9d-9dfffd5212ef",
+  "logo": null,
+  "date": "2019-12-28T18:10:00+01:00",
+  "start": "18:10",
+  "duration": "00:40",
+  "room": "Dijkstra",
+  "slug": "36c3-10862-offene_sensordaten_fur_jedermann_-_ein_citizen_science_projekt_basierend_auf_open_source_und_open_hardware",
+  "title": "Offene Sensordaten f\u00fcr Jedermann - Ein Citizen Science Projekt basierend auf Open Source und Open Hardware",
+  "subtitle": "",
+  "track": "Resilience & Sustainability",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Der Talk soll die Geschichte der senseBox von Beginn bis jetzt wiedergeben. Dabei m\u00f6chte ich vor allem auf unsere Arbeit im Bereich Open Source, Open Data, Open Hardware und Open Educational Resources eingehen. Die Motivation von Teilnehmern des senseBox Projekts m\u00f6chte ich basierend auf einer Nutzerstudie kurz wiedergeben. Au\u00dferdem m\u00f6chte ich auf aktuelle Probleme sowie technische H\u00fcrden und die Genauigkeit der Daten eingehen. Zu guter Letzt gebe ich einen kurzen Ausblick in die Zukunft des Projekts.",
+  "description": "Mithilfe der senseBox, einem DIY Citizen Science Baukasten, kann jeder an der Forschung und Wissenschaft teilnehmen. Sei es durch die Messung von Umweltdaten, Analyse und Auswertung dieser Daten oder durch die Teilnahme an Diskussionen einer gro\u00dfen Community. Au\u00dferdem k\u00f6nnen Sch\u00fclerinnen und Sch\u00fcler durch die Nutzung von Open Educational Resources und einer visuellen Entwicklungsumgebung das Programmieren spielend erlernen. Dadurch wird nicht nur das Umweltverst\u00e4ndnis, sondern auch die digitale Bildung gef\u00f6rdert.\r\nDie Hardware der senseBox basiert auf dem Konzept von Arduino und enth\u00e4lt neben dem Microcontroller noch weitere Umweltsensoren. Jegliche Projekte, von einer einfachen Wetterstation \u00fcber ein intelligentes Bew\u00e4sserungssystem f\u00fcr den Garten bis hin zu einer Wasserqualit\u00e4t-Boje in der Nordsee, sind durch die offene Arduino Plattform umsetzbar. Das R\u00fcckgrat der senseBox ist die openSenseMap. Das Backend sammelt die gesendeten Daten der senseBoxen aber auch anderer Ger\u00e4te. Sensoren zur Luftqualit\u00e4t von Luftdaten.info oder HackAIR sowie alle anderen Ger\u00e4te k\u00f6nnen ihre Sensordaten zur offenen API der openSenseMap senden. Die Webanwendung erm\u00f6glicht Visualisierungen und Analysem\u00f6glichkeiten. Die Daten sind \u00fcber die API f\u00fcr jeden frei verf\u00fcgbar und k\u00f6nnen somit unter anderem f\u00fcr die Klimaforschung genutzt werden. \r\nDas Projekt startete vor einigen Jahren als Studienprojekt an der Universit\u00e4t M\u00fcnster. Nach mehreren Abschlussarbeiten, Projektwochen, Workshops und F\u00f6rderperioden entstand aus einer einfachen Idee ein umfangreiches Toolkit. Die openSenseMap, auf welcher anf\u00e4nglich einige Dutzend senseBoxen registriert waren, verzeichnete in den letzten 5 Jahren steigende Nutzerzahlen mit aktuell rund 5300 registrierten senseBoxen. Daraus resultieren Probleme, welche zu Beginn des Projekts nicht absehbar waren: die Webanwendung l\u00e4uft inzwischen in der Cloud und fordert viel Rechen- und Speicherkapazit\u00e4t. Die Messdaten werden ineffizient in Datenbanken gespeichert, dadurch ben\u00f6tigt die Anwendung starke virtuelle Server.\r\nDer Talk soll die Geschichte der senseBox von Beginn bis jetzt wiedergeben. Dabei m\u00f6chte ich vor allem auf unsere Arbeit im Bereich Open Source, Open Data, Open Hardware und Open Educational Resources eingehen. Die Motivation von Teilnehmern des senseBox Projekts m\u00f6chte ich basierend auf einer Nutzerstudie kurz wiedergeben. Au\u00dferdem m\u00f6chte ich auf aktuelle Probleme sowie technische H\u00fcrden und die Genauigkeit der Daten eingehen. Zu guter Letzt gebe ich einen kurzen Ausblick in die Zukunft des Projekts.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9635,
+      "public_name": "Felix Erdmann"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://sensebox.de/",
+      "title": "senseBox"
+    },
+    {
+      "url": "https://opensensemap.org/",
+      "title": "openSenseMap"
+    }
+  ],
+  "attachments": [
+    {
+      "url": "/system/event_attachments/attachments/000/003/919/original/36c3_senseBox.pdf?1572014737",
+      "title": "36c3_senseBox.pdf"
+    }
+  ]
+}

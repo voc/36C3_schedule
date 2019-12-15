@@ -1,0 +1,37 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10694.html",
+  "id": 10694,
+  "guid": "4a4bb36e-70fa-4ee2-aa7e-1d0a4ccd74c1",
+  "logo": null,
+  "date": "2019-12-27T18:50:00+01:00",
+  "start": "18:50",
+  "duration": "01:00",
+  "room": "Borg",
+  "slug": "36c3-10694-intel_management_engine_deep_dive",
+  "title": "Intel Management Engine deep dive",
+  "subtitle": "Understanding the ME at the OS and hardware level",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Reverse engineering a system on a chip from sparse documentation and binaries, developing an emulator from it and gathering the knowledge needed to develop a replacement for one of the more controversial binary blobs in the modern PC.",
+  "description": "The Intel Management Engine, a secondary computer system embedded\r\nin modern chipsets, has long been considered a security risk \r\nbecause of its black-box nature and high privileges within the\r\nsystem. The last few years have seen increasing amounts of \r\nresearch into the ME and several vulnerabilities have been found.\r\n\r\nAlthough limited details were published about these vulnerabilities,\r\nreproducing exploits has been hard because of the limited information\r\navailable on the platform. \r\n\r\nThe ME firmware is the root of trust for the fTPM, Intel Boot Guard\r\nand several other platform security features, controlling it allows\r\noverriding manufacturer firmware signing, and allows implementing \r\nmany background management features.\r\n\r\nI have spent most of past year reverse engineering the OS, hardware\r\nand links to the host (main CPU) system. This research has led me \r\nto create custom tools for manipulating firmware images, to write\r\nan emulator for running ME firmware modules under controlled \r\ncircumstances and allowed me to replicate an unpublished exploit to\r\ngain code execution.\r\n\r\nIn this talk I will share the knowledge I have gathered so far, document\r\nmy methods and also explain how to go about a similar project.\r\n\r\nI also plan to discuss the possibility of an open source replacement \r\nfirmware for the Management Engine.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9511,
+      "public_name": "Peter Bosch"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://pbx.sh/intelme-sw1/",
+      "title": "Introduction the the Management Engine OS, Part 1"
+    },
+    {
+      "url": "https://pbx.sh/intelme-sw2/",
+      "title": "Introduction the the Management Engine OS, Part 2"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11155.html",
+  "id": 11155,
+  "guid": "ba5874d0-d12e-4878-b929-69be90c5dab4",
+  "logo": null,
+  "date": "2019-12-27T18:50:00+01:00",
+  "start": "18:50",
+  "duration": "01:00",
+  "room": "Dijkstra",
+  "slug": "36c3-11155-mathematical_diseases_in_climate_models_and_how_to_cure_them",
+  "title": "Mathematical diseases in climate models and how to cure them",
+  "subtitle": "",
+  "track": "Science",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Making climate predictions is extremely difficult because climate models cannot simulate every cloud particle in the atmosphere and every wave in the ocean, and the model has no idea what humans will do in the future. I will discuss how we are using the Julia programming language and GPUs in our attempt to build a fast and user-friendly climate model, and improve the accuracy of climate predictions by learning the small-scale physics from observations.",
+  "description": "Climate models are usually written in Fortran for performance reasons at the expense of usability, but this makes it hard to hack and improve existing models.\r\n\r\nBigger supercomputers can resolve smaller-scale physics and help improve accuracy but cannot resolve all the small-scale physics so we need to take a different approach to climate modeling.\r\n\r\nIn this talk I will discuss why modeling the climate on a computer is so difficult, and how we are using the Julia programming language to develop a fast and user-friendly climate model that is flexible and easy to extend.\r\n\r\nI will also discuss how we can leverage GPUs to embed high-resolution simulations within a global climate model to resolve and learn the small-scale physics allowing us to simulate the climate more accurately, as the the laws of physics will not change even if the climate does.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9323,
+      "public_name": "Ali Ramadhan"
+    },
+    {
+      "id": 9843,
+      "public_name": "Valentin Churavy"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://github.com/climate-machine/Oceananigans.jl",
+      "title": "Oceananigans.jl git repository"
+    }
+  ],
+  "attachments": []
+}

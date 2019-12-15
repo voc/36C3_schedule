@@ -1,0 +1,41 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10754.html",
+  "id": 10754,
+  "guid": "43ecd44e-8450-42f6-829e-7bda680ad54a",
+  "logo": "/system/events/logos/000/010/754/large/zombieload_logo_square.png?1571914849",
+  "date": "2019-12-28T23:30:00+01:00",
+  "start": "23:30",
+  "duration": "01:00",
+  "room": "Ada",
+  "slug": "36c3-10754-zombieload_attack",
+  "title": "ZombieLoad Attack",
+  "subtitle": "Leaking Your Recent Memory Operations on Intel CPUs",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "The ZombieLoad attack exploits a vulnerability of most Intel CPUs, which allows leaking data currently processed by other programs. ZombieLoad is extremely powerful, as it leaks data from user-processes, the kernel, secure enclaves, and even across virtual machines. Moreover, ZombieLoad also works on CPUs where Meltdown is fixed in software or hardware.",
+  "description": "The Meltdown attack published in 2018 was a hardware vulnerability which showed that the security guarantees of modern CPUs do not always hold. Meltdown allowed attackers to leak arbitrary memory by exploiting the lazy fault handling of Intel CPUs which continue transient execution with data received from faulting loads. With software mitigations, such as stronger kernel isolation, as well as new CPUs with this vulnerability fixed, Meltdown seemed to be solved. \r\n\r\nIn this talk, we show that this is not true, and Meltdown is still an issue on modern CPUs. We present ZombieLoad, an attack closely related to the original Meltdown attack, which leaks data across multiple privilege boundaries: processes, kernel, SGX, hyperthreads, and even across virtual machines. Furthermore, we compare ZombieLoad to other microarchitectural data-sampling (MDS) attacks, such as Fallout and RIDL. The ZombieLoad attack can be mounted from any unprivileged application, without user interactions, both on Linux and Windows. \r\n\r\nIn the talk, we present multiple attacks, such as monitoring the browsing behavior, stealing cryptographic keys, and leaking the root-password hash on Linux. In a live demo, we demonstrate that such attacks are not only feasible but also relatively easy to mount, and difficult to mitigate. \r\n\r\nWe show that Meltdown mitigations do not affect ZombieLoad, and consequently outline challenges for future research on Meltdown attacks and mitigations. Finally, we discuss the short-term and long-term implications of Meltdown attacks for hardware vendors, software vendors, and users. ",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8665,
+      "public_name": "Michael Schwarz"
+    },
+    {
+      "id": 6937,
+      "public_name": "Moritz Lipp"
+    },
+    {
+      "id": 6293,
+      "public_name": "Daniel Gruss"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://zombieloadattack.com/",
+      "title": "Official ZombieLoad Website"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10607.html",
+  "id": 10607,
+  "guid": "1582b215-d610-4b56-83af-71cdb54e557c",
+  "logo": "/system/events/logos/000/010/607/large/logo.png?1571239945",
+  "date": "2019-12-29T18:50:00+01:00",
+  "start": "18:50",
+  "duration": "01:00",
+  "room": "Dijkstra",
+  "slug": "36c3-10607-grow_your_own_planet",
+  "title": "Grow your own planet",
+  "subtitle": "How simulations help us understand the Universe",
+  "track": "Science",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "This year the Nobel prize in physics was awarded to three astronomers changing the understanding of the Universe and finding the first exoplanet. This is a good reason to dive into astronomy,  numerics, and programming and to learn how modern astronomy creates the pictures and models of the reality we observe in the night sky.\r\nLet\u2019s find out together how we can simulate the Universe and grow new planets \u2013 computationally!",
+  "description": "In all ages people have gazed at the stars and tried to grasp the dimensions of the Universe and of the teeny-tiny marble we call our planet and wondered how unique it actually is. From the ancient geeks to Johannes Kepler to modern times we slowly advanced our understanding of the sky and the laws necessary to describe the orbits and evolution of all its objects. Nowadays computational power has greatly increased. So we can further our understanding of the Universe from basic, analytically computable orbits to the challenge of turbulent gas flows \u2013 only accessible with numerical simulations.\r\n\r\nLet's go on a journey through space and compare the data we observe with breath-taking accuracy using instruments like ALMA, VLT, Gaia, and Hubble Space Telescope to numerical simulations now possible due to computer clusters, multi-core CPU and GPU-calculations. We want to explore the physics and numeric algorithms we need to comprehend the Universe and travel to the unexplained territory of problems we can not quite solve yet.\r\n\r\nWe present three state-of-the-art hydrodynamics programs:\r\nPLUTO (by A. Mignone), FARGO3D (by P. Ben\u00edtez Llambay and F. Masset) and AREPO (by V. Springel). All of them are free open source software and commonly used in research worldwide. Using their example, we demonstrate how hydrodynamics recreates many of the things we see in the sky, including planets.\r\n\r\nSimulations teach us how rare the formation of Earth was and show that there is no alternative planet in reach. In modern times we humans continue to gaze at the stars. Even without Planet B in sight, we are still fascinated with what we see. Numerical methods help us satisfy our thirst for knowledge and accelerate the research of the Universe.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9363,
+      "public_name": "miosta"
+    },
+    {
+      "id": 9364,
+      "public_name": "caro"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://plutocode.ph.unito.it/",
+      "title": "PLUTO"
+    },
+    {
+      "url": "http://fargo.in2p3.fr/",
+      "title": "FARGO3D"
+    },
+    {
+      "url": "https://arepo-code.org/",
+      "title": "AREPO"
+    }
+  ],
+  "attachments": []
+}

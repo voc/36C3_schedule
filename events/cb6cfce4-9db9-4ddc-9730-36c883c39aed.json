@@ -1,0 +1,33 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10784.html",
+  "id": 10784,
+  "guid": "cb6cfce4-9db9-4ddc-9730-36c883c39aed",
+  "logo": null,
+  "date": "2019-12-27T20:50:00+01:00",
+  "start": "20:50",
+  "duration": "01:00",
+  "room": "Eliza",
+  "slug": "36c3-10784-libresilicon_s_standard_cell_library_de",
+  "title": "LibreSilicon's Standard Cell Library (de)",
+  "subtitle": "show + tell",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "(en) We make Standard Cells for LibreSilicon available, which are open source and feasible. And we like to talk and demonstrate what we are doing.\r\n\r\n(de) Wir machen Standardzellen f\u00fcr LibreSilicon verf\u00fcgbar, welche Open Source und nutzbar sind. Wir m\u00f6chten dar\u00fcber sprechen und vorf\u00fchren, was wir tun.",
+  "description": "(en) LibreSilicon develops a free and open source technology to fabricate chips in silicon and provides all information to use them - or technical spoken - a Process Design Kit (PDK).\r\nOn one abstraction level higher, user always using with their design compile tools a Standard Cell Library (StdCellLib) with basic blocks like logic gates, latches, flipflops, rams, and even pad cells.\r\nFrom a programmers point of view, as a PDK is comparable to a language like C, the Standard Cell Library becomes comparable to libc.\r\nAll commercial available Standard Cell Libraries containing a small subset of all useful cells only, limited just by the manpower of the vendor. They are hand-crafted and error-prone. Unfortunately Standard Cell Libraries are also commercial exploited with Non-disclosure agreement (NDAs) and heavily depend on the underlying PDKs. Our aim is to become the first free and open source Standard Cell Library available.\r\nThe lecture shows, how far we are gone, with makefile controlled press-button solution which generates a substantial number of Standard Cells by automated processing and respecting the dependencies in the generated outputs.\r\n\r\n(de) LibreSilicon entwickelt eine freie und offene Technologie um Siliziumchips herstellen zu k\u00f6nnen. Dies umfasst alle notwendigen Informationen dies zu tun, oder technisch gesagt, ein Process Design Kit (PDK - engl: Prozessbauskasten).\r\nDie Anwender nutzen \u00fcberwiegend auf einer Abstraktionsebene h\u00f6her mit ihren Design Compiler meist jedoch die Standardzellenbibliothek (StdCellLib) mit Basisbl\u00f6cken wie Logikgattern, Latches, FlipFlops, Speicherzellen oder auch Padzellen.\r\nAus Sicht eines Programmierers w\u00e4re das PDK vergleichbar einer Sprachdefinition wie C, die darauf aufsetzende Standardzellbibliothek (StdCellLib) dann vergleichbar mit der libc.\r\nNun enthalten alle nur kommerziell verf\u00fcgbaren Standardzellenbibliotheken lediglich eine kleine Teilmenge aller n\u00fctzlichen Zellen, limitiert durch die Arbeitskr\u00e4fte beim Hersteller. Sie sind handgemacht und fehlertr\u00e4chtig. Ungl\u00fccklicherweise sind die kommerziellen Standardzellbibliotheken stark vom PDK abh\u00e4ngig und mit Geheimhaltungsvereinbarungen gepflastert. Unser Ziel ist es, die erste freie und offene Standardzellbibliothek zu werden.\r\nDieser Talk zeigt, wie weit wir bereits gekommen sind, mit Hilfe der Makefile-gesteuerten L\u00f6sung eine beachtliche Anzahl an Standardzellen und deren Ausgabeformate als Abh\u00e4ngigkeiten automatisiert zu generieren.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 1018,
+      "public_name": "chipforge"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://github.com/chipforge/stdcelllib",
+      "title": "StdCellLib Repository"
+    }
+  ],
+  "attachments": []
+}

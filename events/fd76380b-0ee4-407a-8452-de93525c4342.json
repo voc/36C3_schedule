@@ -1,0 +1,37 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10924.html",
+  "id": 10924,
+  "guid": "fd76380b-0ee4-407a-8452-de93525c4342",
+  "logo": null,
+  "date": "2019-12-28T19:10:00+01:00",
+  "start": "19:10",
+  "duration": "00:40",
+  "room": "Ada",
+  "slug": "36c3-10924-the_sustainability_of_safety_security_and_privacy",
+  "title": "The sustainability of safety, security and privacy",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "What sort of tools and methodologies should you use to write software for a car that will go on sale in 2023, if you have to support security patches and safety upgrades till 2043?",
+  "description": "Now that we\u2019re putting software and network connections into cars and medical devices, we\u2019ll have to patch vulnerabilities, as we do with phones. But we can't let vendors stop patching them after three years, as they do with phones. So in May, the EU passed Directive 2019/771 on the sale of goods. This gives consumers the right to software updates for goods with digital elements, for the time period the consumer might reasonably expect.  In this talk I'll describe the background, including a study we did for the European Commission in 2016, and the likely future effects. As sustainable safety, security and privacy become a legal mandate, this will create real tension with existing business models and supply chains. It will also pose a grand challenge for computer scientists.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9677,
+      "public_name": "Ross Anderson"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.lightbluetouchpaper.org/2018/03/06/making-security-sustainable/",
+      "title": "Making security sustainable"
+    },
+    {
+      "url": "https://www.lightbluetouchpaper.org/2017/06/01/when-safety-and-security-become-one/",
+      "title": "When safety and security become one"
+    }
+  ],
+  "attachments": []
+}

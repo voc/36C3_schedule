@@ -1,0 +1,36 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10841.html",
+  "id": 10841,
+  "guid": "b8d5ce42-c4ef-4863-bd8a-8baceb257199",
+  "logo": null,
+  "date": "2019-12-27T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "01:00",
+  "room": "Borg",
+  "slug": "36c3-10841-i_am_system_breaking_the_security_boundary_in_windows_os",
+  "title": "I am system: breaking the security boundary in windows OS.",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Nowadays, Windows is still the most popular OS used in the world. It's very important for red teams / attackers to maintain the authority after they get into the OS by penetration test. So they need a vulnerability to hide in windows to escalate their account to system privilege.",
+  "description": "In this presentation, we will share the methodology about how we started this work to analyze Windows internals. We will explain the inner workings of this technique and how we analyzed ALPC and Component Object Model(COM) in Windows OS. By analyzing historical bugs, we are able to extract their features from multiple vulnerabilities.\r\n\r\nWe will develop an IDA plugin to analyze the execution path of target interfaces. Through this way we could find out the interface that called the specified sensitive operation.\r\nIn fact, we found a large number of vulnerable modules in the ALPC and COM object, which allows the attacker to cross the security boundary and directly access the system.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9621,
+      "public_name": "Shi Qin"
+    },
+    {
+      "id": 9625,
+      "public_name": "Wenxu Wu"
+    },
+    {
+      "id": 9626,
+      "public_name": "Haoyu Yang"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

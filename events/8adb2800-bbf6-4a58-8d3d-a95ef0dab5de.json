@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10608.html",
+  "id": 10608,
+  "guid": "8adb2800-bbf6-4a58-8d3d-a95ef0dab5de",
+  "logo": null,
+  "date": "2019-12-28T14:10:00+01:00",
+  "start": "14:10",
+  "duration": "01:00",
+  "room": "Borg",
+  "slug": "36c3-10608-das_nutzlich-unbedenklich_spektrum",
+  "title": "Das n\u00fctzlich-unbedenklich Spektrum",
+  "subtitle": "K\u00f6nnen wir Software bauen, die n\u00fctzlich /und/ unbedenklich ist?",
+  "track": "Security",
+  "type": "lecture",
+  "language": "de",
+  "abstract": "Eine Software ist unbedenklich, wenn man sie auf ungefilterte Daten aus einem Webformular aufrufen kann, ohne pr\u00fcfen zu m\u00fcssen, ob dann etwas schlimmes passieren kann. In der Praxis l\u00e4sst sich ein Kontinuum zwischen N\u00fctzlichkeit und Unbedenklichkeit als Kontrahenten beobachten. Software f\u00e4ngt h\u00e4ufig eher unbedenklich an, und wird dann immer bedenklicher, je m\u00e4chtiger sie wird. Dieser Vortrag will a) diese Beobachtung beschreiben und b) fragen, wie man die Unbedenklichkeit beibehalten kann. Gibt es da Abstufungen? Metriken? Kriterien, die bei einer konkreten Entscheidung helfen k\u00f6nnen?",
+  "description": "Die Kernidee dieses Vortrages ist es, von reaktiver Security (\"wir packen einfach alles in eine VM / einen Container / eine Sandbox\") wegzukommen hin zu einer vertrauensw\u00fcrdigen Software-Infrastruktur, der man auch ohne Einsperren trauen kann.<p>\r\nDie offensichtliche Frage ist, wie man sowas konstruieren w\u00fcrde. Noch wichtiger ist aber die Frage, woran wir vertrauensw\u00fcrdige Software \u00fcberhaupt erkennen k\u00f6nnen.<p>Diese Metrik w\u00e4re dann auch hilfreich, um zu erkennen, ob unsere Einsperr-Methode \u00fcberhaupt vertrauensw\u00fcrdig war.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 1621,
+      "public_name": "Fefe"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

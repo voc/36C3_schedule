@@ -1,0 +1,33 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10879.html",
+  "id": 10879,
+  "guid": "8cd18c98-4e30-4f3c-ab82-90178e7076ad",
+  "logo": null,
+  "date": "2019-12-30T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "01:00",
+  "room": "Ada",
+  "slug": "36c3-10879-hal_-_the_open-source_hardware_analyzer",
+  "title": "HAL - The Open-Source Hardware Analyzer",
+  "subtitle": "",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Since the Snowden revelations the fear of stealthy hardware manipulations is no longer regarded as far fetched.\r\nThis fear is also reflected in the massive discussions sparked by last year's Bloomberg allegations on a supposed hardware spy implant on Supermicro serverboards or the recent USA ban on Huawei telecommunication equipment.\r\n\r\nHardware reverse engineering (HRE) is a promising method to detect such manipulations or hidden backdoors.\r\nHowever, HRE is a highly complex and cumbersome task.\r\nIt takes months of work as well as expensive equipment to even obtain the netlist of a chip, the equivalent to the binary in software reverse engineering (SRE).\r\nIn contrast to SRE where various paid or open-source tools for binary analysis exist, e.g., IDA Pro or Ghidra, in HRE simply no tool for netlist analysis were available - neither commercial, nor free.\r\nTo close this gap, researchers from the Ruhr University Bochum developed HAL, the first open-source netlist analysis framework.\r\n\r\nIn this talk, we start with a basic introduction into the challenges of HRE.\r\nThen, we demonstrate the capabilities of HAL before giving a brief overview on our current research with HAL.",
+  "description": "Hardware reverse engineering (HRE) is an important technique for analysts to understand the internals of a physical system.\r\nUse cases range from recovering interface specifications of old chips, over detection of malicious manipulations or patent infringements, to straight up counterfeiting.\r\nHowever, HRE is a notably complex and cumbersome task which consists of two phases:\r\nIn the first phase the netlist, i.e., circuit description of a chip, has to be extracted from the physical device.\r\nSuch a netlist is equivalent to the binary in software reverse engineering (SRE).\r\nIn the second phase, the analyst then processes the netlist in order to understand (parts of) its functionality.\r\n\r\nHowever, obtaining a netlist from a chip can take several months and requires professional and costly equipment as well as expertise.\r\nEven with a recovered netlist, understanding its functionality is an enormously challenging task.\r\nThis is partly due to the lack of proper tools for netlist analysis:\r\nWhile in SRE various commercial or open-source tools for binary analysis exist, e.g., IDA Pro or Ghidra, in HRE simply no tool for netlist analysis was available, neither commercial, nor free.\r\nTo close this gap, researchers from the Embedded Security group of the Horst-G\u00f6rtz Institute for IT-Security at the Ruhr University Bochum developed HAL, the first open-source netlist analysis framework.\r\nInspired by the modularity of its SRE equivalents, HAL can be extended through optimized C++ plugins or directly used as a Python library, while at the same time offering a GUI for explorative and interactive analysis.\r\nThe project is supposed to give hardware analysts a common platform for the development of new algorithms with a portable design, ultimately aiding both professionals in their daily work as well as researchers in their efforts to publish reproducible results.\r\n\r\nIn this talk, we will first introduce the foundations and main challenges of HRE, before giving a live demonstration of HAL and some of its capabilities on selected case studies.\r\nWe conclude the talk with a glimpse at our associated research at the university that spans both, technical research as well as cross-disciplinary work with psychologists.\r\n\r\nOur talk requires only minimum prior knowledge on digital hardware.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9370,
+      "public_name": "Max Hoffmann"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://github.com/emsec/hal",
+      "title": "HAL on GitHub"
+    }
+  ],
+  "attachments": []
+}

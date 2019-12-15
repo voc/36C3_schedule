@@ -1,0 +1,33 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10519.html",
+  "id": 10519,
+  "guid": "88a7a303-c577-4a7b-80eb-c96e344c1db2",
+  "logo": "/system/events/logos/000/010/519/large/logo.png?1573581289",
+  "date": "2019-12-29T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "01:00",
+  "room": "Clarke",
+  "slug": "36c3-10519-a_systematic_evaluation_of_openbsd_s_mitigations",
+  "title": "A systematic evaluation of OpenBSD's mitigations",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "OpenBSD markets itself as a secure operating system, but doesn't provide much evidences to back this claim. The goal of this talk is to evaluate how effective OpenBSD's security mitigation are, in a systematic, rational and comprehensive way.",
+  "description": "<a href=\"https://openbsd.org\">OpenBSD's website</a> advertises a secure and modern operating system, with cool and modern mitigations. But no rational analysis is provided: are those mitigations effective? what are their impacts on performances, inspectability and complexity? against what are they supposed to defend? how easy are they to bypass? where they invented by OpenBSD or by others? is OpenBSD's reputation warranted?\r\n\r\nThis talk aims at answering all those questions, for all OpenBSD's mitigations, because, in the words of <a href=\"https://twitter.com/ryiron/status/1150924668020203521\">Ryan Mallon</a>:\r\n\r\n<quote>Threat modelling rule of thumb: if you don\u2019t explain exactly what you are securing against and how you secure against it, the answers can be assumed to be: \u201cbears\u201d and \u201cnot very well\u201d.</quote>\r\n\r\nFor example, OpenBSD added last year a <a href=\"https://man.openbsd.org/mmap.2#MAP_STACK\">MAP_STACK</a> flag to its <code>mmap</code> function, and branded it as a security measure against \"ROPchains\". But this mitigation used to be part of Windows until 2012, and was removed because of at least generic public bypasses. It's also implemented on Linux since 2008, but for other reasons :)\r\n\r\nAll the research done for this talk is available on <a href=\"https://isopenbsdsecu.re\">isopenbsdsecu.re</a>",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9251,
+      "public_name": "stein"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://isopenbsdsecu.re",
+      "title": "Main website"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10816.html",
+  "id": 10816,
+  "guid": "4d3166b6-77ec-47b2-b70f-d7f656ea9427",
+  "logo": null,
+  "date": "2019-12-28T23:30:00+01:00",
+  "start": "23:30",
+  "duration": "01:00",
+  "room": "Dijkstra",
+  "slug": "36c3-10816-don_t_ruck_us_too_hard_-_owning_ruckus_ap_devices",
+  "title": "Don't Ruck Us Too Hard - Owning Ruckus AP devices",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Ruckus Networks is a company selling wired and wireless networking equipment and software. This talk presents vulnerability research conducted on Ruckus access points and WiFi controllers, which resulted in 3 different pre-authentication remote code execution. Exploitation used various vulnerabilities such as information leak, authentication bypass, command injection, path traversal, stack overflow, and arbitrary file read/write. Throughout the research, 33 different access points firmware examined, and all of them were found vulnerable. This talk also introduces and shares the framework used in this research. That includes a Ghidra script and a dockerized QEMU full system emulation for easy cross-architecture research setup.\r\nHere's a fun fact: BlackHat USA 2019 used Ruckus Networks access points.",
+  "description": "Presentation Outline: \r\nThis talk demonstrates 3 remote code executions and the techniques used to find and exploit them.\r\nIt overviews Ruckus equipment and their attack surfaces. Explain the firmware analysis and emulation prosses using our dockerized QEMU full system framework. \r\n-Demonstrate the first RCE and its specifics. Describe the webserver logic using Ghidra decompiler and its scripting environment. \r\n-Demonstrate the second RCE using stack overflow vulnerability.\r\n-Lastly, demonstrate the third RCE by using a vulnerability chaining technique.\r\nAll Tools used in this research will be published. ",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9605,
+      "public_name": "Gal Zror"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

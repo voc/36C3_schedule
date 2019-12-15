@@ -1,0 +1,33 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10806.html",
+  "id": 10806,
+  "guid": "9cbacaba-92e8-452b-8878-be42881f3cd1",
+  "logo": null,
+  "date": "2019-12-28T20:50:00+01:00",
+  "start": "20:50",
+  "duration": "01:00",
+  "room": "Ada",
+  "slug": "36c3-10806-ktrw_the_journey_to_build_a_debuggable_iphone",
+  "title": "KTRW: The journey to build a debuggable iPhone",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Development-fused iPhones with hardware debugging features like JTAG are out of reach for many security researchers. This talk takes you along my journey to create a similar capability using off-the-shelf iPhones. We'll look at a way to break KTRR, a custom hardware mitigation Apple developed to prevent kernel patches, and use this capability to load a kernel extension that enables full-featured, single-step kernel debugging with LLDB on production iPhones.",
+  "description": "This talk walks through the discovery of hardware debug registers on the iPhone X that enable low-level debugging of a CPU core at any time during its operation. By single-stepping execution of the reset vector, we can modify register state at key points to disable KTRR and remap the kernel as writable. I'll then describe how I used this capability to develop an iOS kext loader and a kernel extension called KTRW that can be used to debug the kernel with LLDB over USB.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9388,
+      "public_name": "Brandon Azad"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://github.com/googleprojectzero/ktrw",
+      "title": "KTRW iOS kernel debugger for A11 iPhones"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10597.html",
+  "id": 10597,
+  "guid": "252da3e6-cdd0-42fe-8882-a0da51762d27",
+  "logo": null,
+  "date": "2019-12-28T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "01:00",
+  "room": "Dijkstra",
+  "slug": "36c3-10597-tamago_-_bare_metal_go_framework_for_arm_socs",
+  "title": "TamaGo - bare metal Go framework for ARM SoCs.",
+  "subtitle": "Reducing the attack surface with pure embedded Go.",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "TamaGo is an Open Source operating environment framework which aims to allow deployment of firmware for embedded ARM devices by using 0% C and 100% Go code. The goal is to dramatically reduce the attack surface posed by complex OSes while allowing unencumbered Go applications.",
+  "description": "TamaGo is a compiler modification and driver set for ARM SoCs, which allows bare metal drivers and applications to be executed with pure Go code and minimal deviations from the standard Go runtime.\r\n\r\nThe presentation explores the inspiration, challenges and implementation of TamaGo as well as providing sample applications that benefit from a pure Go bare metal environment.\r\n\r\nTamaGo allows a considerable reduction of embedded firmware attack surface, while maintaining the strength of Go runtime standard (and external) libraries. This enables the creation of HSMs, cryptocurrency stacks and many more applications without the requirement for complex OSes and libraries as dependencies.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9369,
+      "public_name": "Andrea Barisani"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://github.com/inversepath/tamago",
+      "title": "TamaGo"
+    }
+  ],
+  "attachments": []
+}

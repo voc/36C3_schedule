@@ -1,0 +1,36 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10942.html",
+  "id": 10942,
+  "guid": "cfcdac00-62af-412f-a03b-ca5f11d2b64d",
+  "logo": null,
+  "date": "2019-12-27T22:10:00+01:00",
+  "start": "22:10",
+  "duration": "01:00",
+  "room": "Borg",
+  "slug": "36c3-10942-uncover_understand_own_-_regaining_control_over_your_amd_cpu",
+  "title": "Uncover, Understand, Own - Regaining Control Over Your AMD CPU",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "The AMD Platform Security Processor (PSP) is a dedicated ARM CPU inside your AMD processor and runs undocumented, proprietary firmware provided by AMD.\r\n\r\nIt is a processor inside your processor that you don't control. It is essential for system startup. In fact, in runs before the main processor is even started and is responsible for bootstrapping all other components.\r\n\r\nThis talk presents our efforts investigating the PSP internals and functionality and how you can better understand it. ",
+  "description": "Our talk is divided into three parts:\r\n\r\nThe first part covers the firmware structure of the PSP and how we analyzed this proprietary firmware. We will demonstrate how to extract and replace individual firmware components of the PSP and how to observe the PSP during boot.\r\n\r\nThe second part covers the functionality of the PSP and how it interacts with other components of the x86 CPU like the DRAM controller or System Management Unit (SMU). We will present our method to gain access to the, otherwise hidden, debug output.\r\n\r\nThe talk concludes with a security analysis of the PSP firmware.\r\nWe will demonstrate how to provide custom firmare to run on the PSP and introduce our toolchain that helps building custom applications for the PSP. \r\n\r\nThis talk documents the PSP firmware's proprietary filesystem  and provides insights into reverse-engineering such a deeply embedded system. It further sheds light on how we might regain trust in AMD CPUs despite the delicate nature of the PSP.\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9525,
+      "public_name": "Robert Buhren"
+    },
+    {
+      "id": 9555,
+      "public_name": "Alexander Eichner"
+    },
+    {
+      "id": 8290,
+      "public_name": "Christian Werling"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

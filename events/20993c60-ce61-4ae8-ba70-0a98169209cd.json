@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10995.html",
+  "id": 10995,
+  "guid": "20993c60-ce61-4ae8-ba70-0a98169209cd",
+  "logo": null,
+  "date": "2019-12-28T14:10:00+01:00",
+  "start": "14:10",
+  "duration": "01:00",
+  "room": "Clarke",
+  "slug": "36c3-10995-the_search_for_anonymous_data",
+  "title": "The search for anonymous data",
+  "subtitle": "Attacks against privacy-preserving systems",
+  "track": "Science",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Data is core to the digital economy. Scandals such as Cambridge Analytica, however, serve as a reminder that large-scale collection and use of data raise serious privacy concerns. In this talk, I will discuss past and current research in data anonymization and anonymous use of data. More specifically, I will describe how historical statistical disclosure control methods fail to protect people's privacy in a world of big data and discuss the potential and challenges of modern security-based approaches to data privacy.",
+  "description": "Data is a core element of modern society but its collection and use also raise serious privacy concerns. To allow data to be used while preserving privacy, GDPR and other legal frameworks rely on the notion of \u201canonymous data\u201d. \r\n\r\nIn this talk, I will first show how historical anonymization methods fail on modern large-scale datasets including how to quantify the risk of re-identification, how noise addition doesn't fundamentaly help, and finally recent work on how the incompleteness of datasets or sampling methods can be overcomed. This has lead to the development of online anonymization systems which are becoming a growing area of interest in industry and research. Second, I will discuss these the limits of these systems and more specifically new research attacking a dynamic anonymization system called Diffix. I will describe the system, both our noise-exploitation attacks, and their efficiency against real-world datasets. I will finally conclude by discussing the potential of online anonymization systems moving forward.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9708,
+      "public_name": "Yves-Alexandre de Montjoye"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

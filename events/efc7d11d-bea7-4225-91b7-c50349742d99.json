@@ -1,0 +1,37 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11238.html",
+  "id": 11238,
+  "guid": "efc7d11d-bea7-4225-91b7-c50349742d99",
+  "logo": "/system/events/logos/000/011/238/large/Screenshot_2019-11-23_at_15.52.50.png?1574517764",
+  "date": "2019-12-29T20:50:00+01:00",
+  "start": "20:50",
+  "duration": "00:40",
+  "room": "Ada",
+  "slug": "36c3-11238-the_one_weird_trick_securerom_hates",
+  "title": "The One Weird Trick SecureROM Hates",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Checkm8 is an unfixable vulnerability present in hundreds of millions of iPhones' SecureROM. This is a critical component in Apple's Secure Boot model and allows security researchers and jailbreakers alike to take full control over the application processor's execution. ",
+  "description": "This talk will detail how we built an iOS jailbreak from the ground up - quite literally - by using an use-after-free in Apple's SecureROM. This is key code which is designed to bring up the application processor during boot but also exposes a firmware update interface over USB called DFU. \r\nBy abusing this vulnerability it is possible to unlock full control of the application processor, including enabling debugging functionalities such as JTAG, helping security researchers look for security vulnerabilities in Apple devices more effectively. \r\nWe will analyse the root-cause and techniques used for exploitation, as well mention some of the hurdles we encountered while trying to turn this into a reliable jailbreak and plans for the future of this project.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9859,
+      "public_name": "qwertyoruiop"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://checkra.in",
+      "title": "checkra1n website"
+    },
+    {
+      "url": "https://twitter.com/checkra1n",
+      "title": "checkra1n twitter"
+    }
+  ],
+  "attachments": []
+}

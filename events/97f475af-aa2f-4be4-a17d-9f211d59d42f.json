@@ -1,0 +1,41 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10912.html",
+  "id": 10912,
+  "guid": "97f475af-aa2f-4be4-a17d-9f211d59d42f",
+  "logo": null,
+  "date": "2019-12-29T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "01:00",
+  "room": "Eliza",
+  "slug": "36c3-10912-on_the_edge_of_human-data_interaction_with_the_databox",
+  "title": "On the Edge of Human-Data Interaction with the Databox",
+  "subtitle": "",
+  "track": "Resilience & Sustainability",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "In this talk I will report on Databox, the focus of a UK-based research collaboration between the University of Cambridge, the University of Nottingham, and Imperial College, with support from industrial partners including the BBC. Databox is an open-source software platform that seeks to embody the principles of Human-Data Interaction by enabling individuals to see and exercise dynamic control over what is done with their personal data. The research project has melded computer systems design with ethnomethodological approaches to Human-Computer Interaction to explore how such a platform can make use of personal data accountable to individuals. \r\n\r\n",
+  "description": "We are all the subjects of data collection and processing systems that use data generated both about and by us to support many services. Means for others to use such data -- often referred to possessively as \"your data\" -- are only increasing with the long-heralded advent of the Internet of Things just the latest example. Simultaneously, many jurisdictions have regulatory and statutory instruments to govern the use of such data. Means to enable personal data management is thus increasingly recognised as a pressing societal issue.\r\n\r\nIn thinking about this complex space, we formulated the notion of Human-Data Interaction (HDI) which resulted in the Databox, a platform enabling an individual data subject to manage, log and audit access to their data by others. The fundamental architectural change Databox embodies is to move from copying of personal data by others for central processing in the cloud, to distribution of data analysis to a subject-controlled edge platform for execution. After briefly introducing HDI, I will present the Databox platform design, implementation and current status.\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9374,
+      "public_name": "mort"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.databoxproject.uk/",
+      "title": "Databox Project"
+    },
+    {
+      "url": "https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-data-interaction",
+      "title": "Human-Data Interaction"
+    },
+    {
+      "url": "https://www.bbc.co.uk/rd/projects/databox",
+      "title": "BBC R&D -- The BBC Box"
+    }
+  ],
+  "attachments": []
+}

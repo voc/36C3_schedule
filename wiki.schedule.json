@@ -1,37 +1,18 @@
 {
   "schedule": {
-    "version": "2019-12-15 15:30",
+    "version": "2019-12-15 15:51",
     "conference": {
-      "acronym": "36C3",
-      "title": "36. Chaos Communication Congress - Wiki",
-      "start": "2019-12-26",
+      "acronym": "36c3",
+      "title": "36th Chaos Communication Congress - Wiki",
+      "start": "2019-12-27",
       "end": "2019-12-30",
-      "daysCount": 5,
-      "timeslot_duration": "00:15",
+      "daysCount": 4,
+      "timeslot_duration": "00:10",
       "days": [
         {
           "index": 1,
-          "date": "2019-12-26",
-          "day_start": "2019-12-26T06:00:00+01:00",
-          "day_end": "2019-12-27T04:00:00+01:00",
-          "rooms": {
-            "Lecture room 11": [],
-            "Seminar room 14-15": [],
-            "Seminar room 13": [],
-            "Lecture room M1": [],
-            "Lecture room M2": [],
-            "Lecture room M3": [],
-            "Kidspace": [],
-            "CCL Saal 3": [],
-            "Chaos West B\u00fchne": [],
-            "ChaosZone": [],
-            "OIO Stage": []
-          }
-        },
-        {
-          "index": 2,
           "date": "2019-12-27",
-          "day_start": "2019-12-27T06:00:00+01:00",
+          "day_start": "2019-12-27T11:00:00+01:00",
           "day_end": "2019-12-28T04:00:00+01:00",
           "rooms": {
             "Lecture room 11": [
@@ -630,32 +611,6 @@
             ],
             "Lecture room M3": [
               {
-                "id": 1120,
-                "guid": "2eaac6d6-b303-4729-af45-15cf8c55417b",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga",
-                "logo": null,
-                "date": "2019-12-27T08:30:00+01:00",
-                "start": "08:30",
-                "duration": "1:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1120-session_42birds_hitchhiker_s_towel_yoga",
-                "title": "42birds: Hitchhiker's Towel-Yoga",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Birdy1976",
-                    "public_name": "Birdy1976"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1007,
                 "guid": "0257ce0d-bffa-48ca-8a89-3f49d143377e",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Angelmeeting:_Stage_Support_%26_Stage_Manager",
@@ -768,9 +723,10 @@
             ],
             "Kidspace": [],
             "CCL Saal 3": [],
-            "Chaos West B\u00fchne": [],
+            "Chaos-West B\u00fchne": [],
             "ChaosZone": [],
             "OIO Stage": [],
+            "OIO Workshop": [],
             "Assembly:Milliways": [
               {
                 "id": 1082,
@@ -824,9 +780,9 @@
           }
         },
         {
-          "index": 3,
+          "index": 2,
           "date": "2019-12-28",
-          "day_start": "2019-12-28T06:00:00+01:00",
+          "day_start": "2019-12-28T11:00:00+01:00",
           "day_end": "2019-12-29T04:00:00+01:00",
           "rooms": {
             "Lecture room 11": [
@@ -905,28 +861,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1010,
-                "guid": "36a2fc57-4f42-4315-8d77-cb579a0c7ef3",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksenfr%C3%BChst%C3%BCck",
-                "logo": null,
-                "date": "2019-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "3:00",
-                "room": "Lecture room 11",
-                "slug": "36c3-1010-session_haecksenfruehstueck",
-                "title": "Haecksenfr\u00fchst\u00fcck",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "",
-                "abstract": "",
-                "description": "\nJedes Jahr treffen wir Haecksen uns zum traditionellen Haecksenfr\u00fchst\u00fcck auf dem Kongress, tauschen uns aus und planen das n\u00e4chste Jahr. Willkommen sind zum Fr\u00fchst\u00fcck Frauen (cis und trans), sowie non-binaries, die sich unter dem Label \"Frau\" wiederfinden k\u00f6nnen. Kommt gerne vorbei und bringt am Besten etwas zum Fr\u00fchst\u00fccken mit. The Hacksenbreakfast is the biggest annual meeting of the Haecksen group, a group of female hackers within the CCC. We have a breakfast together and do some planning for the next year. This meeting is only for women (cis and trans) and non-binaries, who can find themselves somehow under the label \"female\". Please remind us to speak English if you do not understand German. It is a good idea to bring something for the breakfast, but of course this is not mandatory.",
-                "persons": [],
-                "links": [
-                  "http://haecksen.org"
-                ]
               },
               {
                 "id": 1069,
@@ -1097,32 +1031,6 @@
                 "abstract": "",
                 "description": "Get to know a workshop design that uses improvisational theater methods to explore the topic of sustainability, called 'Sustainable Improv'. The idea is to deal with serious topics like the climate crisis in a playful way and share knowledge and ideas for change in the process.\nGet to know a workshop design that uses improvisational theater methods to explore the topic of sustainability, called 'Sustainable Improv'. The idea is to deal with serious topics like the climate crisis in a playful way and share knowledge and ideas for change in the process. Maybe this contains some ideas that might inspire you. How the session will work: We will play and reflect on several improv exercises and games that link to sustainability. - Improv theater is basically theater without a script, with characters and stories created in teamwork between the actors.- You do not need to know anything about improv to attend, and we will try to make everyone feel safe and welcome.- Everyone can do this, you do not need to be particularly brave, spontaneous or creative :-)",
                 "persons": [],
-                "links": []
-              },
-              {
-                "id": 1074,
-                "guid": "a4c2c83c-ba37-4385-8ad8-4b6144174dfd",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Monitor_anything_you_want.",
-                "logo": null,
-                "date": "2019-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "2:00",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1074-session_monitor_anything_you_want_",
-                "title": "Monitor anything you want.",
-                "subtitle": "Intro into prometheus-client libs and writing your first exporter.",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Monitor anything you want with Prometheus or Graphite using Grafana.\nWho doesn't know it.You have some very nice Software build or a Project finished.And you want to monitor the most important metrics of that Project or Software.That is where Prometheus and Graphite kick in.Using them you can store your metrics in a easy queryable way for Grafana to show them.This ensures that you are able to view insights of your project or your newly build Software.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Cellebyte",
-                    "public_name": "Cellebyte"
-                  }
-                ],
                 "links": []
               },
               {
@@ -1400,32 +1308,6 @@
                 "links": []
               },
               {
-                "id": 1094,
-                "guid": "73b43a41-5736-46bd-a4ef-1b0281f6fd83",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:My_first_kernel_module:_A_keylogger",
-                "logo": null,
-                "date": "2019-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "3:00",
-                "room": "Lecture room M1",
-                "slug": "36c3-1094-session_my_first_kernel_module_a_keylogger",
-                "title": "My first kernel module: A keylogger",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Introduction to writing kernel modules\nIn this workshop, we will learn how to write a kernel module step by step, which will function as a keylogger. We will implement a character device to communicate data to the user space as a first step, hook tty functions to listen in on data typed on the keyboard, learn about kernel fifos and other typical kernel structures.To prepare for this session, you should download qemu, git, gcc, a text editor, ...Knowledge of C coding and a general idea of how an operating systems works would be very helpful for this session.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chrysh",
-                    "public_name": "Chrysh"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1065,
                 "guid": "6e3896e7-2912-46a3-a20a-49839a263bd8",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wie_man_ein_klimafreundliches_Haus_baut",
@@ -1598,32 +1480,6 @@
                 "links": []
               },
               {
-                "id": 1092,
-                "guid": "729d330b-b0a8-4b77-afec-158982b9d2b4",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Python_Programming_for_Absolute_Beginner",
-                "logo": null,
-                "date": "2019-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "1:30",
-                "room": "Lecture room M2",
-                "slug": "36c3-1092-session_python_programming_for_absolute_beginner",
-                "title": "Python Programming for Absolute Beginner",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "In this workshop, addressed at (absolute) beginners, you will get your feet wet in (Python) programming. Don't worry, everyone who wants to have a (first?) look at programming is welcome independently of their skills or background.\n''(While this abstract is in English, this workshop will be held either in English or German; depending on who wants to participate!)''This workshop is intended as a first introduction to (Python) programming '''for absolute beginners'''. While C3 traditionally is a 'tech/hacker conference', more and more people without a background in programming attend - as far as I'm concerned, this is awesome!While you certainly don't have to be a 'coder' to be a part of congress (or to be a hacker), programming is still fun, wonderfully creative, and also an extremely valuable skill. Don't be afraid to give it a go!Of course, by the end of this 90-minute workshop, you will not be a programmer. You will, however, have attempted a deep dive into (Python) programming, learned some basics, and set yourself up for further learning (if you choose to do so).'''About Me'''<br>My name is Ingo, and I'm currently working at Heidelberg University as a computational/corpus linguist and teacher educator. I'm particularly involved with teacher education/training and foreign language teaching.My love for Python stems from my work as a (computational) linguist and various projects I've been involved with. :)'''Required Previous Knowledge'''<br>No previous knowledge is required!'''Technical Requirements'''<br>If you want to participate actively (i.e., code along), you should bring a device that is capable of running a modern browser and has Internet access. Being able to type comfortably is also recommended ;). Alternatively, any device capable of running Python 3.6+ (ideally in a Jupyter Notebook) will do just fine!'''Material'''<br>All material (e.g., slides) will be provided on this page after the workshop. Please also check back here a day before the workshop because I will provide some additional material useful for active participation.Ps. This is a slightly updated version of the workshop(s) I gave at 35c3 last year.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ingo",
-                    "public_name": "Ingo"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1019,
                 "guid": "9421c49b-4f0d-4275-9f0a-078c513e6c71",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:RegioPR-Treffen",
@@ -1671,32 +1527,6 @@
               }
             ],
             "Lecture room M3": [
-              {
-                "id": 1123,
-                "guid": "10ba6be0-688f-4481-aebf-9180edbf05c7",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga",
-                "logo": null,
-                "date": "2019-12-28T09:15:00+01:00",
-                "start": "09:15",
-                "duration": "1:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1123-session_42birds_hitchhiker_s_towel_yoga",
-                "title": "42birds: Hitchhiker's Towel-Yoga",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Birdy1976",
-                    "public_name": "Birdy1976"
-                  }
-                ],
-                "links": []
-              },
               {
                 "id": 1008,
                 "guid": "bc4f7e6d-7af5-4dec-9810-da8eec85f2b8",
@@ -1830,94 +1660,11 @@
             ],
             "Kidspace": [],
             "CCL Saal 3": [],
-            "Chaos West B\u00fchne": [],
+            "Chaos-West B\u00fchne": [],
             "ChaosZone": [],
             "OIO Stage": [],
-            "Assembly:ChaosZone": [
-              {
-                "id": 1144,
-                "guid": "6e04b867-66c8-4954-a220-b6af9a34938d",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Chaoszone_Junghackertag",
-                "logo": null,
-                "date": "2019-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "7:00",
-                "room": "Assembly:ChaosZone",
-                "slug": "36c3-1144-session_chaoszone_junghackertag",
-                "title": "Chaoszone Junghackertag",
-                "subtitle": "Chaoszone Junghackertag",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "for all kids who like soldering and controlling robot cars etc.\n[[File:Chaoszone junghacker.png|400px]]At 10 a.m. we will start at the common Junghackertag opening session: [[Session:Junghackertag_Er\u00f6ffnung|Junghackertag Er\u00f6ffnung]].AT 11 a.m. our Chaoszone Junghackertag will beginn. We have several parallel tracks:* soldering kits of different complexity* controlling mbots from simple tasks up to navigating through a parkour* programming calliope* Working with Raspberry Pi Scratch stations* Until 2 p.m. soldering the makerbuino, information: [[MAKERbuino|can be found here]].",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:R2d2data",
-                    "public_name": "R2d2data"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1111,
-                "guid": "803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag",
-                "logo": null,
-                "date": "2019-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "3:00",
-                "room": "Assembly:ChaosZone",
-                "slug": "36c3-1111-session_makerbuino_building_session_1_junghackertag",
-                "title": "MAKERbuino Building Session 1 @ Junghackertag",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Let's build a game console!\n[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) participating in the Junghackertag. We'll have 10 seats available.Please note that this is not a kit for absolute beginners and that you should have at least some basic experience in soldering.We'll have 10 seats available at ChaosZone.More information [[MAKERbuino|can be found here]].",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
-                    "public_name": "Micha"
-                  }
-                ],
-                "links": [
-                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
-                ]
-              }
-            ],
+            "OIO Workshop": [],
             "C-base": [
-              {
-                "id": 1108,
-                "guid": "5d7b0d0e-cadb-4687-af83-39ff06b2961b",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:CoderDojo_Neopixel_Hacking",
-                "logo": null,
-                "date": "2019-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "4:00",
-                "room": "C-base",
-                "slug": "36c3-1108-session_coderdojo_neopixel_hacking",
-                "title": "CoderDojo Neopixel Hacking",
-                "subtitle": "Workshop 1",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "ATTiny+Neopixel hacking\nIm Rahmen des Workshops werden wir auf Basis des Microcontrollers ATTiny85  Neopixel LEDs zum leuchten bringen. Gerne kann die Schaltung am Ende des Workshops mitgenommen werden. Eine Spendenbox wird es auch geben.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
-                    "public_name": "DerMicha"
-                  }
-                ],
-                "links": [
-                  "https://coderdojo.c-base.org/"
-                ]
-              },
               {
                 "id": 1110,
                 "guid": "90cac72d-ab11-4d28-8409-e392c3b92049",
@@ -2006,43 +1753,13 @@
                   "http://hammeshacks.com/intro/"
                 ]
               }
-            ],
-            "Art-and-Play Stage": [
-              {
-                "id": 1142,
-                "guid": "c501c610-8efd-4796-b6da-51377b33db88",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Junghackertag_Er%C3%B6ffnung",
-                "logo": null,
-                "date": "2019-12-28T09:00:00+01:00",
-                "start": "09:00",
-                "duration": "1:00",
-                "room": "Art-and-Play Stage",
-                "slug": "36c3-1142-session_junghackertag_eroeffnung",
-                "title": "Junghackertag Er\u00f6ffnung",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Er\u00f6ffnung des Junghackertags\nWir stellen euch den Junghackertag vor. Die einzelnen Sessions werden vorgestellt. Ihr erfahrt wo die Sessions stattfinden und was ihr dort machen k\u00f6nnt. Wenn ihr Fragen habt, k\u00f6nnt ihr die auch loswerden.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hbr",
-                    "public_name": "Hbr"
-                  }
-                ],
-                "links": [
-                  "https://junghack.de"
-                ]
-              }
             ]
           }
         },
         {
-          "index": 4,
+          "index": 3,
           "date": "2019-12-29",
-          "day_start": "2019-12-29T06:00:00+01:00",
+          "day_start": "2019-12-29T11:00:00+01:00",
           "day_end": "2019-12-30T04:00:00+01:00",
           "rooms": {
             "Lecture room 11": [
@@ -2094,28 +1811,6 @@
                 "persons": [],
                 "links": [
                   "https://c3voc.de/"
-                ]
-              },
-              {
-                "id": 1009,
-                "guid": "b43660b5-f98a-4ba9-a0bc-63608edbb1ff",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Gnunet",
-                "logo": null,
-                "date": "2019-12-29T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "3:00",
-                "room": "Lecture room 11",
-                "slug": "36c3-1009-session_gnunet",
-                "title": "Gnunet",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "",
-                "abstract": "",
-                "description": "The Internet of tomorrow needs GNUnet today\nIn this session we will present talks around GNUnet.Incomplete list / TBD:- GNUnet Overview- re:claimID- GNS- ???",
-                "persons": [],
-                "links": [
-                  "https://gnunet.org"
                 ]
               },
               {
@@ -2317,32 +2012,6 @@
                 "links": []
               },
               {
-                "id": 1093,
-                "guid": "ef30e718-5095-408f-aeee-bc14be571b91",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Introduction_to_Natural_Language_Processing",
-                "logo": null,
-                "date": "2019-12-29T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "2:00",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1093-session_introduction_to_natural_language_processing",
-                "title": "Introduction to Natural Language Processing",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "This workshop will introduce you to the basics of natural language processing in Python.\n''(While this abstract is in English, this workshop will be held either in English or German; depending on who wants to participate!)''Language is not just everywhere, but also essential to what makes us human. The rapidly growing field of Natural Language Processing (NLP) and/or computational linguistics, essentially, is trying to make computers 'understand' and produce natural language. The results of this endeavor are already omnipresent. Just to name a few, think about voice assistants and interfaces, chatbots, automated customer service agents, or the large scale analysis of, for example, social media data.This two-hour workshop, targeted towards interested beginners, will be a gentle introduction to NLP. In the first half an hour, we will be discussing some fundamentals of linguistics. Afterward, we will use Python to practically explore a linguistic dataset (a language corpus) and get to know some fundamental methods of NLP. If time allows for it, we will also briefly address state-of-the-art machine and deep learning approaches to understanding, analyzing, and generating natural language.'''About Me'''<br>My name is Ingo, and I'm currently working at Heidelberg University as a computational/corpus linguist and teacher educator. I'm particularly involved with teacher education/training and foreign language teaching.'''Required Previous Knowledge'''<br>* You are not required to have any previous knowledge about linguistics or NLP* Basic knowledge of Python (or similar) is recommended if you want to follow along with the technical section of the workshop'''Technical Requirements'''<br>If you want to participate actively (i.e., code along), you should bring a device that is capable of running a modern browser and has Internet access. Being able to type comfortably is also recommended ;). Alternatively, any device capable of running Python 3.6+ (ideally in a Jupyter Notebook) will do just fine!'''Material'''<br>All material (e.g., slides) will be provided on this page after the workshop. Please also check back here a day before the workshop because I will provide some additional material useful for active participation.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ingo",
-                    "public_name": "Ingo"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1116,
                 "guid": "bc31497b-07a7-4341-b7bf-649c09add3f9",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pen%26Paper_RPG",
@@ -2387,6 +2056,34 @@
                 "description": "How Hackers and Repair Initiatives are coming together\n",
                 "persons": [],
                 "links": []
+              },
+              {
+                "id": 1154,
+                "guid": "74a87210-81e0-4cb3-8fb4-8cf652546e82",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Solidarity_By_Design:_Technology_For_Organising_The_Gressroots",
+                "logo": null,
+                "date": "2019-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1154-session_solidarity_by_design_technology_for_organising_the_gressroots",
+                "title": "Solidarity By Design: Technology For Organising The Gressroots",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Let's have a brainstorm about how technology can help the grassroots and labor organizing. We'll bring out own vision - an app we're making that will have several functionalities we believe to be helpful - but we want this to be a collaborative discussion.\nLet's have a brainstorm about how technology can help the grassroots and labor organizing. We'll bring our own vision - an app we're making that will have several functionalities we believe to be helpful - but we want this to be a collaborative discussion.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Evainfeld",
+                    "public_name": "Evainfeld"
+                  }
+                ],
+                "links": [
+                  "http://impakt.network"
+                ]
               }
             ],
             "Seminar room 13": [
@@ -2817,32 +2514,6 @@
             ],
             "Lecture room M3": [
               {
-                "id": 1128,
-                "guid": "dfbd64f6-9930-4b01-96a5-ee1cf6d13932",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga",
-                "logo": null,
-                "date": "2019-12-29T09:15:00+01:00",
-                "start": "09:15",
-                "duration": "1:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1128-session_42birds_hitchhiker_s_towel_yoga",
-                "title": "42birds: Hitchhiker's Towel-Yoga",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Birdy1976",
-                    "public_name": "Birdy1976"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1145,
                 "guid": "95d34463-aed3-419b-afcf-044cdf611429",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:EightOS_Bodymind_Operating_System",
@@ -2983,9 +2654,10 @@
             ],
             "Kidspace": [],
             "CCL Saal 3": [],
-            "Chaos West B\u00fchne": [],
+            "Chaos-West B\u00fchne": [],
             "ChaosZone": [],
             "OIO Stage": [],
+            "OIO Workshop": [],
             "Assembly:Haecksen": [
               {
                 "id": 1140,
@@ -3046,34 +2718,6 @@
                 ]
               },
               {
-                "id": 1112,
-                "guid": "702627f8-4acf-40d3-9e59-0837af6584d8",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_2_@_Hardware_Hacking_Area",
-                "logo": null,
-                "date": "2019-12-29T09:00:00+01:00",
-                "start": "09:00",
-                "duration": "3:00",
-                "room": "Assembly:Hardware Hacking Area",
-                "slug": "36c3-1112-session_makerbuino_building_session_2_hardware_hacking_area",
-                "title": "MAKERbuino Building Session 2 @ Hardware Hacking Area",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Build your own game console!\n[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) and grown-ups at 36C3. I know that kids are usually not interested in as many talks as grown-ups, so there's a potentially high demand for fun stuff to do for kids at 36C3. For this reason, the MAKERbuino kits are intended to be built by 1. kids and 2. non-kids (everybody else). If you're a grown-up, you're most welcome to join the session! Build your own kit if there are any kits left and/or consider helping a kid if you already have some basic soldering experience.We'll have 10 seats available at Hamsterspace@HHA. Here are some additional hints:* If you're a kid, bring a parent if you can! * If you've never soldered before, build a small kit before building a MAKERbuino. There's plenty of opportunity at 36C3 to gain basic soldering experience during the days before the session, for example:** [[Learn_to_solder|Learn To Solder (Hardware Hacking Area)]]** [[Session:Soldering_Workshop_(Chaos_macht_Schule)|Soldering Workshop (Chaos macht Schule)]]*More information [[MAKERbuino|can be found here]].",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
-                    "public_name": "Micha"
-                  }
-                ],
-                "links": [
-                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
-                ]
-              },
-              {
                 "id": 1139,
                 "guid": "037eb97a-9e99-43ca-a29e-e59b7d7eab66",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Soldering_for_Beginners:_making_an_LED_toy",
@@ -3105,10 +2749,10 @@
           }
         },
         {
-          "index": 5,
+          "index": 4,
           "date": "2019-12-30",
-          "day_start": "2019-12-30T06:00:00+01:00",
-          "day_end": "2019-12-31T04:00:00+01:00",
+          "day_start": "2019-12-30T11:00:00+01:00",
+          "day_end": "2019-12-30T19:00:00+01:00",
           "rooms": {
             "Lecture room 11": [
               {
@@ -3264,32 +2908,6 @@
             "Lecture room M2": [],
             "Lecture room M3": [
               {
-                "id": 1129,
-                "guid": "c6651dbd-6541-43ed-ba37-5e9097a97df8",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga",
-                "logo": null,
-                "date": "2019-12-30T09:15:00+01:00",
-                "start": "09:15",
-                "duration": "1:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1129-session_42birds_hitchhiker_s_towel_yoga",
-                "title": "42birds: Hitchhiker's Towel-Yoga",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Birdy1976",
-                    "public_name": "Birdy1976"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1135,
                 "guid": "dc53d304-200a-497b-b2b7-ccbc7f76421a",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:General_Angel_meeting_day_4_/_Teardown_info",
@@ -3320,9 +2938,10 @@
             ],
             "Kidspace": [],
             "CCL Saal 3": [],
-            "Chaos West B\u00fchne": [],
+            "Chaos-West B\u00fchne": [],
             "ChaosZone": [],
             "OIO Stage": [],
+            "OIO Workshop": [],
             "Assembly:Hardware Hacking Area": [
               {
                 "id": 1152,
@@ -3352,40 +2971,11 @@
                   "http://hammeshacks.com/intro/"
                 ]
               }
-            ],
-            "Assembly:C-base / CCC-B / xHain": [
-              {
-                "id": 1113,
-                "guid": "15864380-4f8f-4daf-a979-3145d94ef077",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Programming_Session",
-                "logo": null,
-                "date": "2019-12-30T09:00:00+01:00",
-                "start": "09:00",
-                "duration": "3:00",
-                "room": "Assembly:C-base / CCC-B / xHain",
-                "slug": "36c3-1113-session_makerbuino_programming_session",
-                "title": "MAKERbuino Programming Session",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Let's make a game for the MAKERbuino!\n[[File:MAKERbuino.jpg|800px]]More information [[MAKERbuino|can be found here]].",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
-                    "public_name": "Micha"
-                  }
-                ],
-                "links": [
-                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
-                ]
-              }
             ]
           }
         }
-      ]
+      ],
+      "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/"
     }
   }
 }

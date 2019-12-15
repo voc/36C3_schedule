@@ -1,0 +1,41 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10592.html",
+  "id": 10592,
+  "guid": "95eba607-f3bd-4ee6-b822-57a0efb3cf2f",
+  "logo": null,
+  "date": "2019-12-30T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "00:40",
+  "room": "Clarke",
+  "slug": "36c3-10592-fairtronics",
+  "title": "Fairtronics",
+  "subtitle": "A Tool for Analyzing the Fairness of Electronic Devices",
+  "track": "Resilience & Sustainability",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Electronic gadgets come not just with an ecological footprint, but also a human cost of bad working conditions and human rights violations. To support hardware makers who want to design fairer devices, we are building a software tool to easily discover social risk hotspots and identify measures for improvement.",
+  "description": "The issue of human rights violations in the supply chains of electronics products is nowadays being broadly discussed. However, from the point of view of a hardware maker, it is difficult to exclude the possibiltiy of harm being done to workers in their supply chains due to their complexity and lack of transparency. At the same time, projects such as Fairphone and NagerIT demonstrate that improvements are, in fact, possible.\r\n\r\nAt FairL\u00f6tet and the Fairtronics project, we try to support those who would like to improve the social impact of their products in taking the first step towards improvement. To this end, we are building a software tool which will provide a first estimate of the risks contained within a given design: circuit diagram in, analysis out.\r\n\r\nThe analysis shows the main social risks associated with the product, due to which components and materials they arise, and in what regions of the world the risks are located. This enables the user to understand where efforts towards sustainability should be concentrated, e.g. by making informed purchasing decisions or engaging with suppliers.\r\n\r\nIn this talk, you will learn about the risks associated with electronics, how they are estimated, and what data we gather to compute them. No deep background in sustainability or hardware is required.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9367,
+      "public_name": "Andreas Fritsch"
+    },
+    {
+      "id": 7455,
+      "public_name": "xian"
+    },
+    {
+      "id": 9515,
+      "public_name": "tamdrx"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://prototypefund.de/project/portal-sozialbilanz-elektronik-pse/",
+      "title": "Projektbeschreibung beim Prototypefund"
+    }
+  ],
+  "attachments": []
+}

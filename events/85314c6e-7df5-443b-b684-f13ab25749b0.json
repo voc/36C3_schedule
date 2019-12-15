@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10768.html",
+  "id": 10768,
+  "guid": "85314c6e-7df5-443b-b684-f13ab25749b0",
+  "logo": null,
+  "date": "2019-12-29T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "01:00",
+  "room": "Dijkstra",
+  "slug": "36c3-10768-getting_software_right_with_properties_generated_tests_and_proofs",
+  "title": "Getting software right with properties, generated tests, and proofs",
+  "subtitle": "Evolve your hack into robust software!",
+  "track": "Resilience & Sustainability",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "How do we write software that works - or rather, how do we ensure it's correct once it's written?  We can just try it out and run it, and see if it works on a few examples.  If the program was correct to begin with, that's great - but if it's not, we're going to miss bugs.  Bugs that might crash our computer, make it vulnerable to attacks, stop the factory, endanger lives, or \"just\" leave us unsatisfied.  This talk is about techniques every programmer can use to avoid large classes of bugs.  You think about general properties of the things in your code, verify them through automatically generated tests, and (when it's particularly critical) proofs.  This is a surprisingly fun and satisfying experience, and any programmer can do it.  You need just a bit of high school math (which we'll refresh in the talk) to get started.\r\n",
+  "description": "This talk is specifically about accessible techniques: Almost any program, function, or entity has a few interesting properties, and teasing them out will enhance your understanding of what is going on in your software.  The next trick is to write out the property in your programming language.  People with lots of time and budget can write down enough properties to form a complete specification of the security- and safety-critical parts of a system and prove that they hold for their system.  In the talk, we'll instead focus on a dead-simple technique called <b>QuickCheck</b>.  (Your programming language almost certainly has a QuickCheck library you can use.)  QuickCheck - from the code describing the property - will automatically generate as many test cases as you want, run them, and produce counterexamples for failures.  QuickCheck is amazingly effective at flushing out those corner cases that elude traditional unit tests.  Finally, for simple properties of pure functions, we can also attempt a proof using simple algebra.  The results are a wonderful feeling of satisfaction, and a sound sleep.\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 7686,
+      "public_name": "Mike Sperber"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

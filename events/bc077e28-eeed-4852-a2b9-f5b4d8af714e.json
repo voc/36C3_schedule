@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10543.html",
+  "id": 10543,
+  "guid": "bc077e28-eeed-4852-a2b9-f5b4d8af714e",
+  "logo": "/system/events/logos/000/010/543/large/pq.png?1573524184",
+  "date": "2019-12-27T18:50:00+01:00",
+  "start": "18:50",
+  "duration": "01:00",
+  "room": "Eliza",
+  "slug": "36c3-10543-post-quantum_isogeny_cryptography",
+  "title": "(Post-Quantum) Isogeny Cryptography",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "There are countless post-quantum buzzwords to list: lattices, codes, multivariate polynomial systems, supersingular elliptic curve isogenies. We cannot possibly explain in one hour what each of those mean, but we will do our best to give the audience an idea about why elliptic curves and isogenies are awesome for building strong cryptosystems.",
+  "description": "It is the year 2019 and apparently quantum supremacy is finally upon us [1,2]. Surely, classical cryptography is broken? How are we going to protect our personal communication from eagerly snooping governments now? And more importantly, who will make sure my online banking stays secure?\r\n\r\nThe obvious sarcasm aside, we should strive for secure post-quantum cryptography in case push comes to shove. Post-quantum cryptography is currently divided into several factions. On the one side there are the lattice- and code-based system loyalists. Other groups hope that multivariate polynomials will be the answer to all of our prayers. And finally, somewhere over there we have elliptic curve isogeny cryptography.\r\n\r\nUnfortunately, these fancy terms \"supersingular\", \"elliptic curve\", \"isogeny\" are bound to sound magical to the untrained ear. Our goal is to shed some light on this proposed type of post-quantum cryptography and bring basic understanding of these mythical isogenies to the masses. We will explain how elliptic curve isogenies work and how to build secure key exchange and signature algorithms from them. We aim for our explanations to be understandable by a broad audience without previous knowledge of the subject.\r\n\r\n[1] https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/\r\n[2] https://www.nature.com/articles/d41586-019-02936-3\r\n",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3416,
+      "public_name": "naehrwert"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

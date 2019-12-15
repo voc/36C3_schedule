@@ -1,0 +1,33 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11039.html",
+  "id": 11039,
+  "guid": "66bbe840-baea-4ccf-af25-f81a3ae3dd44",
+  "logo": null,
+  "date": "2019-12-29T16:10:00+01:00",
+  "start": "16:10",
+  "duration": "01:00",
+  "room": "Borg",
+  "slug": "36c3-11039-quantum_computing_are_we_there_yet",
+  "title": "Quantum Computing: Are we there yet?",
+  "subtitle": "An introduction to quantum computing and a review of the progress we made in the last 5 years.",
+  "track": "Science",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Five years ago I spoke about my work in quantum computing, building and running a tiny two qubit processor. A few weeks ago, Google announced a potentially groundbreaking result achieved with a 53 qubit quantum processor. I will therefore review the state of experimental quantum computing and discuss the progress we made in the last 5 years. I will explain quantum supremacy, surface code architecture and superconducting quantum processors and show which challenges we still have to overcome to build large scale quantum computers.",
+  "description": "We will first dive into the basics of quantum computing and learn about quantum gates, fidelities, error correction and qubit architecture. We will then go through Google\u2019s experiment and try to understand what they actually did and why it matters. We will then see what else we need to build a useful quantum computer, and discuss when that might happen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9731,
+      "public_name": "Andreas Dewes"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://media.ccc.de/v/31c3_-_6261_-_en_-_saal_2_-_201412291245_-_let_s_build_a_quantum_computer_-_andreas_dewes",
+      "title": "My 31c3 talk (media.ccc.de)"
+    }
+  ],
+  "attachments": []
+}

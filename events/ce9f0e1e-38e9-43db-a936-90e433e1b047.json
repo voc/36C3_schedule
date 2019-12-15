@@ -1,0 +1,28 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10859.html",
+  "id": 10859,
+  "guid": "ce9f0e1e-38e9-43db-a936-90e433e1b047",
+  "logo": null,
+  "date": "2019-12-28T14:10:00+01:00",
+  "start": "14:10",
+  "duration": "01:00",
+  "room": "Dijkstra",
+  "slug": "36c3-10859-trustzone-m_eh_breaking_armv8-m_s_security",
+  "title": "TrustZone-M(eh): Breaking ARMv8-M's security",
+  "subtitle": "How secure is the next generation of 'secure' processor features?",
+  "track": "Hardware & Making",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Most modern embedded devices have something to protect: Whether it's cryptographic keys for your bitcoins, the password to your WiFi, or the integrity of the engine-control unit code for your car.\r\n\r\nTo protect these devices, vendors often utilise the latest processors with the newest security features: From read-out protections, crypto storage, secure-boot up to TrustZone-M on the latest ARM processors.\r\n\r\nIn this talk, we break these features: We show how it is possible to bypass the security features of modern IoT/embedded processors using fault-injection attacks, including breaking TrustZone-M on the new ARMv8-M processors, and presenting hardware attacks on RISC-V processors.\r\n\r\nWe are also releasing and open-sourcing our entire soft- and hardware toolchain for doing so, making it possible to integrate fault-injection testing into the secure development lifecycle.",
+  "description": "Modern devices, especially secure ones, often rely on the security of the underlying silicon: Read-out protection, secure-boot, JTAG locking, integrated crypto accelerators or advanced features such as TrustZone are just some of the features utilized by modern embedded devices.\r\n\r\nProcessor vendors are keeping up with this demand by releasing new, secure processors every year. Often, device vendors place a significant trust into the security claims of the processors. In this talk, we look at using fault-injection attacks to bypass security features of modern processors, allowing us to defeat the latest chip security measures such as TrustZone-M on the new ARMv8 processors.\r\n\r\nAfter a quick introduction into the theory of glitching, we introduce our fully open-source FPGA platform for glitching: An FPGA-based glitcher with a fully open-source toolchain & hardware, making glitching accessible to a wider audience and significantly reducing the costs of getting started with it - going as far as being able to integrate glitch-testing into the Secure Development Lifecycle of a product.\r\n\r\nThen, we look at how to conduct glitching attacks on real-world targets, beyond academic environments, including how to prepare a device for glitching and how to find potential glitch targets.\r\n\r\nAfterwards, we demonstrate fault-injection vulnerabilities we found in modern, widely-used IoT/embedded processors and devices, allowing us to bypass security features integrated into the chip, such as:\r\n\r\n- Re-enabling locked JTAG\r\n- Bypassing a secure bootloader\r\n- Recovering symmetric crypto keys by glitching the AES implementation\r\n- Bypassing secure-boot\r\n- Fully bypassing TrustZone-M security features on some new ARMv8M processors\r\n\r\nWe will also demonstrating how to bypass security features and how to break the reference secure bootloader of the Microchip SAM L11, one of the newest, TrustZone-M enabled ARM Cortex-M processors, using roughly $5 of equipment.\r\n\r\nAfter the talk, PCBs of our hardware platform will be given out to attendees.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 7775,
+      "public_name": "Thomas Roth"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

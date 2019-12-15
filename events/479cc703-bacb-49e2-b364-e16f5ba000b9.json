@@ -1,0 +1,32 @@
+{
+  "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10883.html",
+  "id": 10883,
+  "guid": "479cc703-bacb-49e2-b364-e16f5ba000b9",
+  "logo": null,
+  "date": "2019-12-27T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "01:00",
+  "room": "Ada",
+  "slug": "36c3-10883-plundervolt_flipping_bits_from_software_without_rowhammer",
+  "title": "Plundervolt: Flipping Bits from Software without Rowhammer",
+  "subtitle": "",
+  "track": "Security",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "We present the next step after Rowhammer, a new software-based fault attack primitive: Plundervolt (CVE-2019-11157).\r\n\r\nMany processors (including the widespread Intel Core series) expose privileged software interfaces to dynamically regulate processor frequency and operating voltage. We show that these privileged interfaces can be reliably exploited to undermine the system's security.\r\nIn multiple case studies, we show how the induced faults in enclave computations can be leveraged in real-world attacks to recover keys from cryptographic algorithms (including the AES-NI instruction set extension) or to induce memory safety vulnerabilities into bug-free enclave code.",
+  "description": "Fault attacks pose a substantial threat to the security of our modern systems, allowing to break cryptographic algorithms or to obtain root privileges on a system. Fortunately, fault attacks have always required local physical access to the system. This changed with the Rowhammer attack (BlackHat USA 2015, CCC 2015), which for the first time enabled an attacker to mount a software-based fault attack. However, as countermeasures against Rowhammer are developed and deployed, fault attacks require local physical access again.\r\n\r\nIn this CCC talk, we present the next step, a long-awaited alternative to Rowhammer, a second software-based fault attack primitive: Plundervolt.\r\n\r\nDynamic frequency and voltage scaling features have been introduced to manage ever-growing heat and power consumption in modern processors. Design restrictions ensure frequency and voltage are adjusted as a pair, based on the current load, because for each frequency there is only a certain voltage range where the processor can operate correctly. For this purpose, many processors (including the widespread Intel Core series) expose privileged software interfaces to dynamically regulate processor frequency and operating voltage.\r\n\r\nIn this talk, we show that these privileged interfaces can be reliably exploited to undermine the system's security. We present the Plundervolt attack, in which a privileged software adversary abuses an undocumented Intel Core voltage scaling interface to corrupt the integrity of Intel SGX enclave computations.\r\nPlundervolt carefully controls the processor's supply voltage during an enclave computation, inducing predictable faults within the processor package. Consequently, even Intel SGX's memory encryption/authentication technology cannot protect against Plundervolt.\r\n\r\nIn multiple case studies, we show how the induced faults in enclave computations can be leveraged in real-world attacks to recover keys from cryptographic algorithms (including the AES-NI instruction set extension) or to induce memory safety vulnerabilities into bug-free enclave code. We finally discuss why mitigating Plundervolt is not trivial, requiring trusted computing base recovery through microcode updates or hardware changes.\r\n\r\nWe have responsibly disclosed our findings to Intel on June 7, 2019. Intel assigned CVE-2019-11157 to track this vulnerability and refer to mitigations. The scientific paper on Plundervolt will appear at the IEEE Security & Privacy Symposium 2020. The work is the result of a collaboration of Kit Murdock (The University of Birmingham, UK), David Oswald (The University of Birmingham, UK), Flavio D. Garcia (The University of Birmingham, UK), Jo Van Bulck (imec-DistriNet, KU Leuven, Belgium), Daniel Gruss (Graz University of Technology, Austria), and Frank Piessens (imec-DistriNet, KU Leuven, Belgium).",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 6293,
+      "public_name": "Daniel Gruss"
+    },
+    {
+      "id": 9207,
+      "public_name": "Kit Murdock"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

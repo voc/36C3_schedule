@@ -1,0 +1,39 @@
+{
+  "id": 595,
+  "guid": "95c2bf57-087f-5fb0-9ce8-a3210a585f9c",
+  "logo": "",
+  "date": "2019-12-28T16:00:00+00:00",
+  "start": "16:00",
+  "duration": "00:30",
+  "room": "WikiPaka WG: Esszimmer",
+  "slug": "HMMPQQ",
+  "url": "https://cfp.verschwoerhaus.de/36c3/talk/HMMPQQ/",
+  "title": "Interactively Discovering Implicational Knowledge in Wikidata",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "en",
+  "abstract": "The ever-growing Wikidata contains a vast amount of factual knowledge. More complex knowledge, however, lies hidden beneath the surface: it can only be discovered by combining the factual statements of multiple items. Some of this knowledge may not even be stated explicitly, but rather hold simply by virtue of having no counterexamples present on Wikidata. Such implicit knowledge is not readily discoverable by humans, as the sheer size of Wikidata makes it impossible to verify the absence of counterexamples. We set out to identify a form of implicit knowledge that is succinctly representable, yet still comprehensible to humans: implications between properties of some set of items. Using techniques from Formal Concept Analysis, we show how to compute such implications, which can then be used to enhance the quality of Wikidata itself: absence of an expected rule points to counterexamples in the data set; unexpected rules indicate incomplete data. We propose an interactive exploration process that guides editors to identify false counterexamples and provide missing data. This procedure forms the basis of [The Exploration Game](https://tools.wmflabs.org/teg/), a game in which players can explore the implicational knowledge of set of Wikidata items of their choosing. We hope that the discovered knowledge may be useful not only for the insights gained, but also as a basis from which to create entity schemata.",
+  "description": "The talk will introduce the notions of Implicational Knowledge, describe how Formal Context Analysis may be employed to extract implications, and showcase the interactive exploration process.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 65,
+      "code": "NRJCAP",
+      "public_name": "Maximilian Marx",
+      "biography": "Ich bin Doktorand am Lehrstuhl f\u00fcr Wissensbasierte Systeme an der TU Dresden und forsche zu logikbasierter Wissensrepr\u00e4sentation, insbesondere zu Knowledge Graphs.",
+      "answers": []
+    },
+    {
+      "id": 88,
+      "code": "9EVSLK",
+      "public_name": "Tom Hanika",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": 559,
+  "guid": "7d03fd50-1926-5de2-88c7-35a0403ef079",
+  "logo": "",
+  "date": "2019-12-27T16:00:00+00:00",
+  "start": "16:00",
+  "duration": "00:30",
+  "room": "WikiPaka WG: Esszimmer",
+  "slug": "MH3WTA",
+  "url": "https://cfp.verschwoerhaus.de/36c3/talk/MH3WTA/",
+  "title": "KDE Itinerary - A privacy by design travel assistant",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Getting your itinerary presented in a unified, well structured and always up to date fashion rather than as advertisement overloaded HTML emails or via countless vendor apps has become a standard feature of digital assistants such as the Google platform. While very useful and convenient, it comes at a heavy privacy cost. Besides sensitive information such as passport or credit card numbers, the correlation of travel data from a large pool of users exposes a lot about people's work, interests and relationships. Just not using such services is one way to escape this, or we build a privacy-respecting alternative ourselves!",
+  "description": "Standing on the shoulders of KDE, Wikidata, Navitia, OpenStreetMap and a few other FOSS communities we have been exploring what it would take to to build a free and privacy-respecting travel assistant during the past two years, resulting in a number of building blocks and the \"KDE Itinerary\" application. In this talk we will look at what has been built, and how, and what can be done with this now. In particular we will review the different types of data digital travel assistants rely on, where we can get those from, and at what impact for your privacy.\r\n\r\nThe most obvious data source are your personal booking information. Extracting data from reservation documents is possible from a number of different input formats, such as emails, PDF files or Apple Wallet passes, considering structured annotations and barcodes, but also by using vendor-specific extractors for unstructured data. All of this is done locally on your own devices, without any online access.\r\n\r\nReservation data is then augmented from open data sources such as Wikidata and OpenStreetMap to fill in often missing but crucial information such as timezones or geo coordinates of departure and arrival locations. And finally we need realtime traffic data as well, such as provided by Navitia as Open Data for ground-based transport.\r\n\r\nShould the author fail to show up to this presentation it might be that his Deutsche Bahn ticket rendering code still needs a few bugfixes ;-)",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 69,
+      "code": "WR3T9D",
+      "public_name": "Volker Krause",
+      "biography": "Volker started contributing to KDE in 2002, primarily working on KDE PIM and Akonadi, the KDE Frameworks syntax highlighting engine, ELF Dissector, the telemetry and survey framework KUserFeedback and KDE Itinerary. Volker is also a Qt approver and the author of the Qt runtime introspection tool GammaRay.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

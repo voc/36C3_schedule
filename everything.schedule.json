@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-15 13:00; chaos-west 1.0; open-infra 5; chaoszone 0.1; wiki 2019-12-15 13:00",
+    "version": "2019-12-15 13:10; chaos-west 1.0; open-infra 5; chaoszone 0.1; wiki 2019-12-15 13:10",
     "conference": {
       "acronym": "36C3",
       "title": "36. Chaos Communication Congress",
@@ -2060,6 +2060,32 @@
                 "abstract": "",
                 "description": "Pr\u00e4vention und Intervention\n",
                 "persons": [],
+                "links": []
+              },
+              {
+                "id": 1148,
+                "guid": "abef1108-ed97-48cb-8390-f4f156a97898",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Structural_Gaps_in_Networks_as_a_Source_of_Insight",
+                "logo": null,
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "2:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1148-session_structural_gaps_in_networks_as_a_source_of_insight",
+                "title": "Structural Gaps in Networks as a Source of Insight",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "",
+                "abstract": "",
+                "description": "Exploring a method for generating insight based on identifying structural gaps in networks\nIn this session we will share a method for generating insight using network analysis. We will use open-source software InfraNodus, which you can install using  http://github.com/noduslabs/infranodus \u2014 or get your own preferred network visualization and analysis tool (e.g. Gephi, Pajek or others).Using the example of text network analysis we will demonstrate a method for generating insight and understanding how any discourse can be developed in an interesting way. We will then try to apply the same method and approach to other datasets and your own examples that you will hopefully bring with you.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aerodynamika",
+                    "public_name": "Aerodynamika"
+                  }
+                ],
                 "links": []
               }
             ],

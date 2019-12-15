@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-15 13:00; chaos-west 1.0; open-infra 5; chaoszone 0.1; wiki 2019-12-15 13:00</version>
+  <version>2019-12-15 13:10; chaos-west 1.0; open-infra 5; chaoszone 0.1; wiki 2019-12-15 13:10</version>
   <conference>
     <acronym>36C3</acronym>
     <title>36. Chaos Communication Congress</title>
@@ -2042,6 +2042,27 @@ Who doesn't know it.You have some very nice Software build or a Project finished
         <description>Prävention und Intervention
 </description>
         <persons/>
+        <links/>
+      </event>
+      <event id="1148" guid="abef1108-ed97-48cb-8390-f4f156a97898">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Structural_Gaps_in_Networks_as_a_Source_of_Insight</url>
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1148-session_structural_gaps_in_networks_as_a_source_of_insight</slug>
+        <title>Structural Gaps in Networks as a Source of Insight</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description>Exploring a method for generating insight based on identifying structural gaps in networks
+In this session we will share a method for generating insight using network analysis. We will use open-source software InfraNodus, which you can install using  http://github.com/noduslabs/infranodus — or get your own preferred network visualization and analysis tool (e.g. Gephi, Pajek or others).Using the example of text network analysis we will demonstrate a method for generating insight and understanding how any discourse can be developed in an interesting way. We will then try to apply the same method and approach to other datasets and your own examples that you will hopefully bring with you.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Aerodynamika">Aerodynamika</person>
+        </persons>
         <links/>
       </event>
     </room>

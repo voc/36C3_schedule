@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-16 21:50</version>
+  <version>2019-12-16 22:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1916,6 +1916,29 @@ This is a meetup for everyone already being part of or interested in the LessWro
     <room name="ChaosZone"/>
     <room name="OIO Stage"/>
     <room name="OIO Workshop"/>
+    <room name="Assembly:C3blind">
+      <event id="1187" guid="7b5b0248-73c6-4965-9392-54a862dcb6a1">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Alles_ganz_anders!</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:C3blind</room>
+        <slug>36c3-1187-session_alles_ganz_anders_</slug>
+        <title>Alles ganz anders!</title>
+        <subtitle>Smartphones blind nutzen!</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wie kann man eigentlich sein Smartphone bedienen, wenn man nichts sehen kann? Wir gucken uns an, wie das geht!
+Hast du dich auch schonmal gefragt, wie es wäre, ein Smartphone zu nutzen, ohne etwas sehen zu können? Ist dein Display kaputt und du kannst es nicht direkt reparieren? Es gibt immer Möglichkeiten mit moderner Technik! Wir schauen uns an, was geht, wie es funktioniert und was man damit sonst noch so machen kann. Es ist kein Hexenwerk, kann aber oft sehr nützlich für dich sein!Hierbei handelt es sich um eine Kids-Session zum Junghackertag am 28.12.Um teilzunehmen benötigt ihr ein eigenes Smartphone mit Android oder iOS, bei dem ihr wichtige Systemeinstellungen ändern und Apps installieren dürft!Diese Session hat leider eine stark limitierte Teilnehmerzahl. Falls du dich dafür interessierst, teilzunehmen, ruf' mich bitte bis spätestens 13:00 Uhr unter 6964 an, schreibe mir eine E-Mail an hallo@nwng.eu oder melde dich auf Twitter per PN bei @nwng_. Ich freue mich auf dich!</description>
+        <persons>
+          <person id="0">Nwng</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:Hardware Hacking Area">
       <event id="1170" guid="4468e228-53a6-44e6-bf98-05b173a58605">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Arduino_For_Total_Newbies</url>
@@ -2406,6 +2429,27 @@ During my sociology master thesis I tried a lot of free software and developed a
 ''(While this abstract is in English, this workshop will be held either in English or German; depending on who wants to participate!)''Language is not just everywhere, but also essential to what makes us human. The rapidly growing field of Natural Language Processing (NLP) and/or computational linguistics, essentially, is trying to make computers 'understand' and produce natural language. The results of this endeavor are already omnipresent. Just to name a few, think about voice assistants and interfaces, chatbots, automated customer service agents, or the large scale analysis of, for example, social media data.This two-hour workshop, targeted towards interested beginners, will be a gentle introduction to NLP. In the first half an hour, we will be discussing some fundamentals of linguistics. Afterward, we will use Python to practically explore a linguistic dataset (a language corpus) and get to know some fundamental methods of NLP. If time allows for it, we will also briefly address state-of-the-art machine and deep learning approaches to understanding, analyzing, and generating natural language.'''About Me'''&lt;br&gt;My name is Ingo, and I'm currently working at Heidelberg University as a computational/corpus linguist and teacher educator. I'm particularly involved with teacher education/training and foreign language teaching.'''Required Previous Knowledge'''&lt;br&gt;* You are not required to have any previous knowledge about linguistics or NLP* Basic knowledge of Python (or similar) is recommended if you want to follow along with the technical section of the workshop'''Technical Requirements'''&lt;br&gt;If you want to participate actively (i.e., code along), you should bring a device that is capable of running a modern browser and has Internet access. Being able to type comfortably is also recommended ;). Alternatively, any device capable of running Python 3.6+ (ideally in a Jupyter Notebook) will do just fine!'''Material'''&lt;br&gt;All material (e.g., slides) will be provided on this page after the workshop. Please also check back here a day before the workshop because I will provide some additional material useful for active participation.</description>
         <persons>
           <person id="0">Ingo</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1116" guid="bc31497b-07a7-4341-b7bf-649c09add3f9">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pen%26Paper_RPG</url>
+        <logo/>
+        <date>2019-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>6:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1116-session_pen_paper_rpg</slug>
+        <title>Pen&amp;Paper RPG</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Round of Pen and Paper RPG
+Hast du dich auch schonmal gefragt, wie es wäre, ein Smartphone zu nutzen, ohne etwas sehen zu können? Ist dein Display kaputt und du kannst es nicht direkt reparieren? Es gibt immer Möglichkeiten mit moderner Technik! Wir schauen uns an, was geht, wie es funktioniert und was man damit sonst noch so machen kann. Es ist kein Hexenwerk, kann aber oft sehr nützlich für dich sein!Hierbei handelt es sich um eine Kids-Session zum Junghackertag am 28.12.Um teilzunehmen benötigt ihr ein eigenes Smartphone mit Android oder iOS, bei dem ihr wichtige Systemeinstellungen ändern und Apps installieren dürft!Diese Session hat leider eine stark limitierte Teilnehmerzahl. Falls du dich dafür interessierst, teilzunehmen, ruf' mich bitte bis spätestens 13:00 Uhr unter 6964 an, schreibe mir eine E-Mail an hallo@nwng.eu oder melde dich auf Twitter per PN bei @nwng_. Ich freue mich auf dich!</description>
+        <persons>
+          <person id="0">Shantalya</person>
         </persons>
         <links/>
       </event>

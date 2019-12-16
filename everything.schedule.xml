@@ -1,5 +1,5 @@
 <schedule>
-  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-16 22:10</version>
+  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-16 22:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -1535,14 +1535,14 @@ To be done</description>
         </persons>
         <links/>
       </event>
-      <event id="1175" guid="5fad2cd6-77e6-432f-8476-917dcded792a">
+      <event id="1188" guid="5fad2cd6-77e6-432f-8476-917dcded792b">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Subtitles_Angelmeeting</url>
         <logo/>
         <date>2019-12-27T16:15:00+01:00</date>
         <start>16:15</start>
         <duration>0:45</duration>
         <room>Lecture room 11</room>
-        <slug>36c3-1175-session_subtitles_angelmeeting</slug>
+        <slug>36c3-1188-session_subtitles_angelmeeting</slug>
         <title>Subtitles Angelmeeting</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1751,14 +1751,14 @@ Der Workshop richtet sich an Frauen und Personen, die sich mit dem Label "Frau" 
         </persons>
         <links/>
       </event>
-      <event id="1185" guid="8472a460-2466-52ad-bf91-35a53e038ca5">
+      <event id="1175" guid="5fad2cd6-77e6-432f-8476-917dcded792a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Subtitles_Angelmeeting</url>
         <logo/>
         <date>2019-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
-        <slug>36c3-1185-session_subtitles_angelmeeting</slug>
+        <slug>36c3-1175-session_subtitles_angelmeeting</slug>
         <title>Subtitles Angelmeeting</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1880,6 +1880,27 @@ This meeting is used for the distribution of shifts for the Translation team.</d
 This meeting is used for the distribution of shifts for the Translation team.</description>
         <persons>
           <person id="0">Katti</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1192" guid="fe333059-81f6-482a-93bb-f55a54f2176b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1192-session_werewolf</slug>
+        <title>Werewolf</title>
+        <subtitle>Werewolf Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Werewolf, the (roleplaying)(card)game
+We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
+        <persons>
+          <person id="0">Haurane</person>
         </persons>
         <links/>
       </event>
@@ -6035,14 +6056,14 @@ We, a small team of developers in Hanover, are building Tutanota to offer a priv
         <persons/>
         <links/>
       </event>
-      <event id="1176" guid="b0a04c60-6352-5445-9461-470404faa83c">
+      <event id="1189" guid="5fad2cd6-77e6-432f-8476-917dcded792c">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Subtitles_Angelmeeting</url>
         <logo/>
         <date>2019-12-28T16:15:00+01:00</date>
         <start>16:15</start>
         <duration>0:45</duration>
         <room>Lecture room 11</room>
-        <slug>36c3-1176-session_subtitles_angelmeeting</slug>
+        <slug>36c3-1189-session_subtitles_angelmeeting</slug>
         <title>Subtitles Angelmeeting</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -6348,6 +6369,27 @@ This meeting is used for the distribution of shifts for the Translation team.</d
 This meeting is used for the distribution of shifts for the Translation team.</description>
         <persons>
           <person id="0">Katti</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1191" guid="c6e892e6-4398-5fd7-a35c-0d38284b66cc">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1191-session_werewolf</slug>
+        <title>Werewolf</title>
+        <subtitle>Werewolf Day 2</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Werewolf, the (roleplaying)(card)game
+We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
+        <persons>
+          <person id="0">Haurane</person>
         </persons>
         <links/>
       </event>
@@ -8259,7 +8301,7 @@ Dies umfasst, Auskunftsersuchen zu von euch gespeicherten persönlichen Daten. A
         <language>de</language>
         <abstract/>
         <description>Wie kann man eigentlich sein Smartphone bedienen, wenn man nichts sehen kann? Wir gucken uns an, wie das geht!
-Hast du dich auch schonmal gefragt, wie es wäre, ein Smartphone zu nutzen, ohne etwas sehen zu können? Ist dein Display kaputt und du kannst es nicht direkt reparieren? Es gibt immer Möglichkeiten mit moderner Technik! Wir schauen uns an, was geht, wie es funktioniert und was man damit sonst noch so machen kann. Es ist kein Hexenwerk, kann aber oft sehr nützlich für dich sein!Hierbei handelt es sich um eine Kids-Session zum Junghackertag am 28.12.Um teilzunehmen benötigt ihr ein eigenes Smartphone mit Android oder iOS, bei dem ihr wichtige Systemeinstellungen ändern und Apps installieren dürft!Diese Session hat leider eine stark limitierte Teilnehmerzahl. Falls du dich dafür interessierst, teilzunehmen, ruf' mich bitte bis spätestens 13:00 Uhr unter 6964 an, schreibe mir eine E-Mail an hallo@nwng.eu oder melde dich auf Twitter per PN bei @nwng_. Ich freue mich auf dich!</description>
+Hast du dich auch schonmal gefragt, wie es wäre, ein Smartphone zu nutzen, ohne etwas sehen zu können? Ist dein Display kaputt und du kannst es nicht direkt reparieren? Es gibt immer Möglichkeiten mit moderner Technik! Wir schauen uns an, was geht, wie es funktioniert und was man damit sonst noch so machen kann. Es ist kein Hexenwerk, kann aber oft sehr nützlich für dich sein!Hierbei handelt es sich um eine Kids-Session zum Junghackertag am 28.12.Um teilzunehmen benötigt ihr ein eigenes Smartphone mit Android oder iOS, bei dem ihr wichtige Systemeinstellungen ändern und Apps installieren dürft!Diese Session hat leider eine stark limitierte Teilnehmerzahl. Falls du dich dafür interessierst, teilzunehmen, ruf' mich bitte bis spätestens 13:00 Uhr unter 6964 an, schreibe uns eine E-Mail an c3blind@nwng.eu oder melde dich auf Twitter per PN bei @c3blind. Wir freuen uns auf dich!</description>
         <persons>
           <person id="0">Nwng</person>
         </persons>
@@ -10550,6 +10592,27 @@ We want to meet and get to know each other - not only current members of LUKi e.
 This meeting is used for the distribution of shifts for the Translation team.</description>
         <persons>
           <person id="0">Katti</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1190" guid="685c4e66-f482-42c4-946c-70dbe296d900">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1190-session_werewolf</slug>
+        <title>Werewolf</title>
+        <subtitle>Werewolf Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Werewolf, the (roleplaying)(card)game
+We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
+        <persons>
+          <person id="0">Haurane</person>
         </persons>
         <links/>
       </event>

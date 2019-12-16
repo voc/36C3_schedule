@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.2; chaoszone 0.1; wiki 2019-12-16 04:20",
+    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.2; chaoszone 0.1; wiki 2019-12-16 04:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -5571,6 +5571,32 @@
                 "links": [
                   "http://www.femlens.com"
                 ]
+              },
+              {
+                "id": 1164,
+                "guid": "08997d73-6187-4ea6-ae5c-402ef74c4768",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "2:00",
+                "room": "Seminar room 13",
+                "slug": "36c3-1164-session_formalizing_mathematics_in_the_proof_assistant_agda",
+                "title": "Formalizing mathematics in the proof assistant Agda",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "for students of mathematics, computer science or a related subject\nSome day, computers will help working mathematicians of all disciplines in finding and checking proofs. It will feel easy, effortless and natural. Computers might even surpass us, creating a new exciting niche for mathematicians: understanding the mathematical advances put forward by computers. The univalent foundations program by the late Vladimir Voevodsky was an important step towards this vision. However, we aren't there yet.Still even the current generation of theorem provers is very exciting. It's fun to talk the computer into accepting our proofs, and invariably we learn something about our proofs in the process.In this workshop, we'll cover the basics of Agda, one of the well-known proof assistants. After a short intro to the general theory, we'll get to lots of hands-on examples. Bring your laptop and have Agda installed before the workshop starts (Debian package agda, NixOS package haskellPackages.Agda). You belong to the target audience iff you have some experience in writing down mathematical proofs, for instance if at some point you proved Gau\u00df's sum formula using induction. Knowledge of Haskell is beneficiary (modulo syntax, Agda is a superset of a subset of Haskell), but not required.Literature: https://plfa.github.io/",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+                    "public_name": "Iblech"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1026,

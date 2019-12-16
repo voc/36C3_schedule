@@ -1,5 +1,5 @@
 <schedule>
-  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-16 20:00</version>
+  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-16 20:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -4732,7 +4732,7 @@ After identification of related messages, we dumped ECM and BCM micro-controller
         <track>#36C3 Lightning Talks</track>
         <type>Lightning Talk</type>
         <language>en</language>
-        <abstract>An introduction to the JSON Meta Application Protocol a spiritual successor to IMAP &amp; Submission, and into Ltt.rs one of the first clients to use it</abstract>
+        <abstract>An introduction to the JSON Meta Application Protocol, a spiritual successor to IMAP &amp; Submission, and into Ltt.rs one of the first clients to use it.</abstract>
         <description>The [JSON Meta Application Protocol](https://jmap.io) is a recent IETF standard meant to replace IMAP &amp; Submission for certain scenarios (mostly mobile and web).&#13;
 This talk will give a very brief introduction on why the protocol is needed, how it looks like and will showcase [Ltt.rs for Andnroid](https://ltt.rs) a o-frills, easy to use, easy to maintain Email client for Android based on JMAP.</description>
         <recording>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-16 20:10",
+    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-16 20:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -1493,34 +1493,6 @@
                 "persons": [],
                 "links": [
                   "https://c3voc.de/"
-                ]
-              },
-              {
-                "id": 1157,
-                "guid": "a832bef1-11a0-42d4-bd49-c87332e71626",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Planet_A",
-                "logo": null,
-                "date": "2019-12-27T21:30:00+01:00",
-                "start": "21:30",
-                "duration": "1:00",
-                "room": "Lecture room 11",
-                "slug": "36c3-1157-session_planet_a",
-                "title": "Planet A",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "en",
-                "abstract": "",
-                "description": "Hackers gathering to kickoff a social revolution project - Planet A.\nComing soon",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zap",
-                    "public_name": "Zap"
-                  }
-                ],
-                "links": [
-                  "http://planet-a.org"
                 ]
               },
               {
@@ -10555,6 +10527,34 @@
                 ],
                 "links": [
                   "http://haecksen.org"
+                ]
+              },
+              {
+                "id": 1157,
+                "guid": "a832bef1-11a0-42d4-bd49-c87332e71626",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Planet_A",
+                "logo": null,
+                "date": "2019-12-29T21:30:00+01:00",
+                "start": "21:30",
+                "duration": "1:00",
+                "room": "Lecture room 11",
+                "slug": "36c3-1157-session_planet_a",
+                "title": "Planet A",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Hackers gathering to kickoff a social revolution project - Planet A.\nComing soon",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zap",
+                    "public_name": "Zap"
+                  }
+                ],
+                "links": [
+                  "http://planet-a.org"
                 ]
               },
               {

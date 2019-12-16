@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-16 16:20</version>
+  <version>2019-12-16 16:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1347,6 +1347,27 @@ This meeting is used for the distribution of shifts for the Translation team.</d
       </event>
     </room>
     <room name="Lecture room M1">
+      <event id="1177" guid="22f132e1-41b4-47c1-8097-c30636edaefe">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_l%CC%B6a%CC%B6n%CC%B6e%CC%B6_dump</url>
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1177-session_a_trip_down_the_memory_l_a_n_e_dump</slug>
+        <title>A trip down the memory l̶a̶n̶e̶ dump</title>
+        <subtitle>An introduction to memory forensics</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>This workshop covers the fundamentals of memory internals and then dive into hands-on analysis with volatility. Newbie or seasoned, professional or hobbyist, this session is for you!
+Both theoretical and technical aspects of memory forensics will be covered: A theoretical approach of the basics of how memory in Windows systems works and hands-on dive to memory analysis.&lt;br&gt;The following topics will be discussed:&lt;br&gt;* How memory works in Windows systems* Memory acquisition* Introduction to Volatility and its plugins* Hands-on analysis of machine hit by ransomwareLast 15 minutes will feature a general discussion and ideally will set the foundation of a C3 assembly dedicated to Digital ForensicsIt is a BYOD, so please have the latest version of volatility installed on your machine!&lt;br&gt;https://github.com/volatilityfoundation/volatility/wiki/Installation&lt;br&gt;The workshop will be all about how to use it, not install it! :)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:November">November</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1005" guid="77483904-f342-461c-827c-cd1c63613b5f">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Accessibility_and_Inclusion</url>
         <logo/>
@@ -1486,27 +1507,6 @@ Heizung von Häusern ist für etwa ein Drittel der Treibhausgasemissionen Deutsc
       </event>
     </room>
     <room name="Lecture room M2">
-      <event id="1160" guid="1af612a6-5c9c-4025-a1c6-0116230a2acb">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_l%CC%B6a%CC%B6n%CC%B6e%CC%B6_dump</url>
-        <logo/>
-        <date>2019-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>1:00</duration>
-        <room>Lecture room M2</room>
-        <slug>36c3-1160-session_a_trip_down_the_memory_l_a_n_e_dump</slug>
-        <title>A trip down the memory l̶a̶n̶e̶ dump</title>
-        <subtitle>Introduction to memory forensics</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>
-</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:November">November</person>
-        </persons>
-        <links/>
-      </event>
       <event id="1060" guid="565bb40a-c1ce-46b9-8776-4c1714aaf3da">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Finding_your_new_home:_Canadian_Immigration_system</url>
         <logo/>
@@ -2927,7 +2927,29 @@ The will be an extra registration for the workshop which will be linked in this 
         </links>
       </event>
     </room>
-    <room name="Lecture room M2"/>
+    <room name="Lecture room M2">
+      <event id="1178" guid="c934b660-8d4e-4260-af17-48c8444c70b7">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:ADHD_%26_me_-_..._and_you%3F</url>
+        <logo/>
+        <date>2019-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>1:30</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1178-session_adhd_me_and_you_</slug>
+        <title>ADHD &amp; me - ... and you?</title>
+        <subtitle>Squirrel!</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>I was diagnosed with ADHD  just two years ago. I want to share what I learned so far and provide a space to exchange stories, tools, strategies and support.
+Both theoretical and technical aspects of memory forensics will be covered: A theoretical approach of the basics of how memory in Windows systems works and hands-on dive to memory analysis.&lt;br&gt;The following topics will be discussed:&lt;br&gt;* How memory works in Windows systems* Memory acquisition* Introduction to Volatility and its plugins* Hands-on analysis of machine hit by ransomwareLast 15 minutes will feature a general discussion and ideally will set the foundation of a C3 assembly dedicated to Digital ForensicsIt is a BYOD, so please have the latest version of volatility installed on your machine!&lt;br&gt;https://github.com/volatilityfoundation/volatility/wiki/Installation&lt;br&gt;The workshop will be all about how to use it, not install it! :)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Stormwind">Stormwind</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Lecture room M3">
       <event id="1135" guid="dc53d304-200a-497b-b2b7-ccbc7f76421a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:General_Angel_meeting_day_4_/_Teardown_info</url>

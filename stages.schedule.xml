@@ -1,5 +1,5 @@
 <schedule>
-  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.2; chaoszone 0.2; lightning Scandium</version>
+  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.3; chaoszone 0.2; lightning Scandium</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -2544,6 +2544,36 @@ https://www.wachter-jud.net/</biography>
       </event>
     </room>
     <room name="WikiPaka WG: Esszimmer">
+      <event id="598" guid="b931d00c-d364-55d2-ab1e-80d2b2af336d">
+        <logo/>
+        <date>2019-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:45</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>A3ZPHC</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/A3ZPHC/</url>
+        <title>#chaosPatinnen opening event</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>en</language>
+        <abstract>-</abstract>
+        <description>-</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="94">
+            <code>LNFKWY</code>
+            <public_name>Chaosmentors</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="560" guid="1227e67b-fe22-5065-ac6b-5677b64b0971">
         <logo/>
         <date>2019-12-27T12:00:00+01:00</date>
@@ -6311,6 +6341,41 @@ Du kannst dich zum mitspielen bewerben oder mithelfen - auch als Erwachsene\*r. 
       </event>
     </room>
     <room name="WikiPaka WG: Bibliothek">
+      <event id="558" guid="434e8b74-c0c7-5cff-a5b9-4ea446b342f7">
+        <logo/>
+        <date>2019-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:00</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>VKRA9V</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/VKRA9V/</url>
+        <title>Wikipedia-Einführung</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Erklärung der Wikipedia-Grundprinzipien, hilfreiche Schritte für den Einstieg, Einblicke in die Community</abstract>
+        <description>Schnapp Dir einen Laptop und los geht's. In diesem Wikipedia-Workshop werden Dir folgende Inhalte vermittelt:&#13;
+- was eine Enzyklopädie ist&#13;
+- wichtigste Regeln&#13;
+- hilfreiche Tipps für die Artikelerstellung/-bearbeitung&#13;
+- Umgang innerhalb der Community&#13;
+- wo Ansprechpartner*innen zu finden sind</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="68">
+            <code>U9BKXX</code>
+            <public_name>Liatom</public_name>
+            <biography>Seit einigen Jahren bin ich in der Wikipedia tätig und möchte mein Wissen an Dich vermitteln :)</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="580" guid="45434716-9298-5b9b-b735-f380c1e52cbf">
         <logo/>
         <date>2019-12-28T16:55:00+01:00</date>
@@ -9584,6 +9649,41 @@ If you want to know how we do that, come to our talk. We will explain our system
         <attachments/>
         <answers/>
       </event>
+      <event id="566" guid="c6410063-47d5-592d-8474-ca86c5b22713">
+        <logo/>
+        <date>2019-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>9BS3FB</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/9BS3FB/</url>
+        <title>Operation Mindfuck Vol. 3</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wir präsentieren zum dritten Mal einen bunten Blumenstrauß aus Nerdsniping-Themen – einige unserer Lieblingsfakten über Computer, Kunst und Kuriositäten! Wir ziehen viel Inspiration aus neuen und absurden Ideen, und möchten diese Begeisterung mit euch teilen!</abstract>
+        <description>Es gibt Aufzeichnungen von [Vol. 1](https://morr.cc/operation-mindfuck/) und [Vol. 2](https://morr.cc/operation-mindfuck-2/)!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="23">
+            <code>39LEJR</code>
+            <public_name>blinry</public_name>
+            <biography>I'm enthusiastic about many things, including computer science, programming, and design! I like free licenses, value autonomy, creativity and curiosity, and try to keep an open mind and heart. After doing research in the field of Computational Geometry for a while, I'm now working as an independent programmer, artist, and game designer.</biography>
+          </person>
+          <person id="2">
+            <code>RBEKZW</code>
+            <public_name>bleeptrack</public_name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="WikiPaka WG: Bibliothek">
       <event id="584" guid="f3131c0f-4d45-536b-b106-e822d2abe188">
@@ -11396,43 +11496,6 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
             <code>K38FMT</code>
             <public_name>Arne</public_name>
             <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="WikiPaka WG: Bibliothek">
-      <event id="558" guid="434e8b74-c0c7-5cff-a5b9-4ea446b342f7">
-        <logo/>
-        <date>2019-12-30T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:00</duration>
-        <room>WikiPaka WG: Bibliothek</room>
-        <slug>VKRA9V</slug>
-        <url>https://cfp.verschwoerhaus.de/36c3/talk/VKRA9V/</url>
-        <title>Wikipedia-Einführung</title>
-        <subtitle/>
-        <track/>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Erklärung der Wikipedia-Grundprinzipien, hilfreiche Schritte für den Einstieg, Einblicke in die Community</abstract>
-        <description>Schnapp Dir einen Laptop und los geht's. In diesem Wikipedia-Workshop werden Dir folgende Inhalte vermittelt:&#13;
-- was eine Enzyklopädie ist&#13;
-- wichtigste Regeln&#13;
-- hilfreiche Tipps für die Artikelerstellung/-bearbeitung&#13;
-- Umgang innerhalb der Community&#13;
-- wo Ansprechpartner*innen zu finden sind</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="68">
-            <code>U9BKXX</code>
-            <public_name>Liatom</public_name>
-            <biography>Seit einigen Jahren bin ich in der Wikipedia tätig und möchte mein Wissen an Dich vermitteln :)</biography>
           </person>
         </persons>
         <links/>

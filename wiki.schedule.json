@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-16 07:30",
+    "version": "2019-12-16 07:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -689,6 +689,32 @@
                 "links": []
               },
               {
+                "id": 1168,
+                "guid": "ef442ca4-3569-45f9-b205-50e564f83bda",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Open_Source_Silicon",
+                "logo": null,
+                "date": "2019-12-27T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Lecture room M2",
+                "slug": "36c3-1168-session_open_source_silicon",
+                "title": "Open Source Silicon",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "Update on new advances in the area of open source silicon, including interesting new announcements.\nUpdate on the status of various open source silicon projects;* System Verilog support in open source tools** System Verilog compliance test suite - https://github.com/SymbiFlow/sv-tests and https://symbiflow.github.io/sv-tests** New System Verilog formatter and linter - https://github.com/google/verible** New System Verilog parser - https://github.com/alainmarcel/Surelog* OpenRoadProject - https://theopenroadproject.org/* OpenRAM - https://github.com/VLSIDA/OpenRAM* Open Source PDKs",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mithro",
+                    "public_name": "Mithro"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1114,
                 "guid": "a13e233f-c6c2-4941-81c9-bf3dc088b761",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Passwordsafe_f%C3%BCr_Anf%C3%A4nger",
@@ -936,7 +962,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Fomu, the FPGA in your USB Port\n<br><br>Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)''' ''<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). The workshop is self guided with helpers for when you get stuck. See https://workshop.fomu.im <br><br>Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]].<br><br>",
+                "description": "Fomu, the FPGA in your USB Port\n<br><br>Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). The workshop is self guided with helpers for when you get stuck. See https://workshop.fomu.im <br><br>Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]].<br><br>",
                 "persons": [
                   {
                     "id": 0,
@@ -964,7 +990,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Fomu, the FPGA in your USB Port\n<br><br>Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)''' ''<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). The workshop is self guided with helpers for when you get stuck. See https://workshop.fomu.im <br><br>Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]].<br><br>",
+                "description": "Fomu, the FPGA in your USB Port\n<br><br>Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). The workshop is self guided with helpers for when you get stuck. See https://workshop.fomu.im <br><br>Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]].<br><br>",
                 "persons": [
                   {
                     "id": 0,

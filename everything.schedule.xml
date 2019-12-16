@@ -1,5 +1,5 @@
 <schedule>
-  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.2; chaoszone 0.1; lightning Scandium; wiki 2019-12-16 11:10</version>
+  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.2; chaoszone 0.1; lightning Scandium; wiki 2019-12-16 11:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -7832,6 +7832,54 @@ In diesem Workshop erläutern wir die Hintergründe und zeigen euch welche Daten
         <answers/>
       </event>
     </room>
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1170" guid="4468e228-53a6-44e6-bf98-05b173a58605">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Arduino_For_Total_Newbies</url>
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>3:30</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1170-session_arduino_for_total_newbies</slug>
+        <title>Arduino For Total Newbies</title>
+        <subtitle>Day 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>''Learn Arduino using TV-B-Gone as an example project''&lt;br&gt; &lt;br&gt; You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.&lt;br&gt; &lt;br&gt; ''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given twice&lt;br&gt;(both identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 28-Dec, 1pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 29-Dec, 1pm - 4:30pm&lt;br&gt;
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php</link>
+        </links>
+      </event>
+      <event id="1136" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programming</url>
+        <logo/>
+        <date>2019-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>2:30</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1136-session_intro_to_arduino_shield_soldering_and_programming</slug>
+        <title>Intro to Arduino Shield Soldering and Programming</title>
+        <subtitle>Day 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>In this 2-3 hour workshop I teach you how to solder and program an Arduino!
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Hammes_Hacks">Hammes Hacks</person>
+        </persons>
+        <links>
+          <link>http://hammeshacks.com/intro/</link>
+        </links>
+      </event>
+    </room>
     <room name="C-base">
       <event id="1110" guid="90cac72d-ab11-4d28-8409-e392c3b92049">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacker_Boardgames</url>
@@ -7879,31 +7927,6 @@ In dieser Runde können alle Fragen rund um die Haecksen gestellt werden - Sind 
         </persons>
         <links>
           <link>http://haecksen.org</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Hardware Hacking Area">
-      <event id="1136" guid="e87a7b37-b57c-4367-957c-1ef2dcd3a606">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programming</url>
-        <logo/>
-        <date>2019-12-28T16:30:00+01:00</date>
-        <start>16:30</start>
-        <duration>2:30</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug>36c3-1136-session_intro_to_arduino_shield_soldering_and_programming</slug>
-        <title>Intro to Arduino Shield Soldering and Programming</title>
-        <subtitle>Day 2</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>In this 2-3 hour workshop I teach you how to solder and program an Arduino!
-</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Hammes_Hacks">Hammes Hacks</person>
-        </persons>
-        <links>
-          <link>http://hammeshacks.com/intro/</link>
         </links>
       </event>
     </room>
@@ -11686,6 +11709,77 @@ We will provide a first, clumsy version of the tool and a list of TODOs (esp. re
         <answers/>
       </event>
     </room>
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1171" guid="5ecb5c1f-725a-481b-90ad-f840bd7e5ea8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Arduino_For_Total_Newbies</url>
+        <logo/>
+        <date>2019-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>3:30</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1171-session_arduino_for_total_newbies</slug>
+        <title>Arduino For Total Newbies</title>
+        <subtitle>Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>''Learn Arduino using TV-B-Gone as an example project''&lt;br&gt; &lt;br&gt; You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.&lt;br&gt; &lt;br&gt; ''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given twice&lt;br&gt;(both identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 28-Dec, 1pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 29-Dec, 1pm - 4:30pm&lt;br&gt;
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php</link>
+        </links>
+      </event>
+      <event id="1153" guid="1befc1a5-0001-49af-bfb0-081d26e8a9c9">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programming</url>
+        <logo/>
+        <date>2019-12-29T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>2:30</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1153-session_intro_to_arduino_shield_soldering_and_programming</slug>
+        <title>Intro to Arduino Shield Soldering and Programming</title>
+        <subtitle>Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>In this 2-3 hour workshop I teach you how to solder and program an Arduino!
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Hammes_Hacks">Hammes Hacks</person>
+        </persons>
+        <links>
+          <link>http://hammeshacks.com/intro/</link>
+        </links>
+      </event>
+      <event id="1139" guid="037eb97a-9e99-43ca-a29e-e59b7d7eab66">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Soldering_for_Beginners:_making_an_LED_toy</url>
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1139-session_soldering_for_beginners_making_an_led_toy</slug>
+        <title>Soldering for Beginners: making an LED toy</title>
+        <subtitle>Day 3- Adult Session</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>A 1-2 hour through hole soldering class where we build a simple toy
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Hammes_Hacks">Hammes Hacks</person>
+        </persons>
+        <links>
+          <link>http://hammeshacks.com/</link>
+        </links>
+      </event>
+    </room>
     <room name="C-base">
       <event id="1159" guid="1c6b3e1c-f1a8-48b3-879f-5077c768af69">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Cyber4EDU</url>
@@ -11733,54 +11827,6 @@ Wir reden über interessante Bücher und erweitern die Liste.Der Workshop ist of
         </persons>
         <links>
           <link>https://wiki.haecksen.org/index.php/Haecksen_library</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Hardware Hacking Area">
-      <event id="1153" guid="1befc1a5-0001-49af-bfb0-081d26e8a9c9">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programming</url>
-        <logo/>
-        <date>2019-12-29T16:30:00+01:00</date>
-        <start>16:30</start>
-        <duration>2:30</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug>36c3-1153-session_intro_to_arduino_shield_soldering_and_programming</slug>
-        <title>Intro to Arduino Shield Soldering and Programming</title>
-        <subtitle>Day 3</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>In this 2-3 hour workshop I teach you how to solder and program an Arduino!
-</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Hammes_Hacks">Hammes Hacks</person>
-        </persons>
-        <links>
-          <link>http://hammeshacks.com/intro/</link>
-        </links>
-      </event>
-      <event id="1139" guid="037eb97a-9e99-43ca-a29e-e59b7d7eab66">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Soldering_for_Beginners:_making_an_LED_toy</url>
-        <logo/>
-        <date>2019-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug>36c3-1139-session_soldering_for_beginners_making_an_led_toy</slug>
-        <title>Soldering for Beginners: making an LED toy</title>
-        <subtitle>Day 3- Adult Session</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>A 1-2 hour through hole soldering class where we build a simple toy
-</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Hammes_Hacks">Hammes Hacks</person>
-        </persons>
-        <links>
-          <link>http://hammeshacks.com/</link>
         </links>
       </event>
     </room>
@@ -13285,6 +13331,29 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
       </event>
     </room>
     <room name="Assembly:Hardware Hacking Area">
+      <event id="1169" guid="c3d799ba-5e32-4073-8b58-619d41efade3">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:ArduTouch_Music_Synthesizer_Workshop</url>
+        <logo/>
+        <date>2019-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1169-session_ardutouch_music_synthesizer_workshop</slug>
+        <title>ArduTouch Music Synthesizer Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>''Learn to solder together a cool, powerful music synthesizer,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;and learn to make cool music, sound, and noise!''&lt;br&gt; &lt;br&gt; ''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given:&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 4: 30-Dec, 12pm - 2pm&lt;br&gt;
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>https://cornfieldelectronics.com/cfe/projects.php#ardutouch</link>
+        </links>
+      </event>
       <event id="1152" guid="fb1dfcaa-82e3-4aa9-a6f0-581ad4b436f3">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programming</url>
         <logo/>

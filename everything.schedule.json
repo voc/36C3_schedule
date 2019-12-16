@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-16 22:00",
+    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-16 22:05",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -14425,7 +14425,34 @@
                 ]
               }
             ],
-            "Lecture room M2": [],
+            "Lecture room M2": [
+              {
+                "id": 1178,
+                "guid": "c934b660-8d4e-4260-af17-48c8444c70b7",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:ADHD_%26_me_-_..._and_you%3F",
+                "logo": null,
+                "date": "2019-12-30T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "1:30",
+                "room": "Lecture room M2",
+                "slug": "36c3-1178-session_adhd_me_and_you_",
+                "title": "ADHD & me - ... and you?",
+                "subtitle": "Squirrel!",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "I was diagnosed with ADHD  just two years ago. I want to share what I learned so far and provide a space to exchange stories, tools, strategies and support.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Stormwind",
+                    "public_name": "Stormwind"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Lecture room M3": [
               {
                 "id": 1135,

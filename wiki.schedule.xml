@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-16 16:00</version>
+  <version>2019-12-16 16:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -337,6 +337,29 @@ Ich stelle am Beispiel von binären Zahlen vor, wie Montessorimaterial funktioni
           <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Schnuppi">Schnuppi</person>
         </persons>
         <links/>
+      </event>
+      <event id="1173" guid="a1ad3239-5d41-4700-b210-4b2013a91814">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Delta_Chat_Hands_On:_Development_Status_iOS,_Android,_%26_Desktop</url>
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1173-session_delta_chat_hands_on_development_status_ios_android_desktop</slug>
+        <title>Delta Chat Hands On: Development Status iOS, Android, &amp; Desktop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn more about the development approach of Delta Chat, an encrypted E-Mail messenger.
+</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2019/wiki/index.php/User:Compl4xx">Compl4xx</person>
+        </persons>
+        <links>
+          <link>https://delta.chat</link>
+        </links>
       </event>
       <event id="1030" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8ce">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
@@ -1464,14 +1487,14 @@ Heizung von Häusern ist für etwa ein Drittel der Treibhausgasemissionen Deutsc
     </room>
     <room name="Lecture room M2">
       <event id="1160" guid="1af612a6-5c9c-4025-a1c6-0116230a2acb">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_lane</url>
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_l%CC%B6a%CC%B6n%CC%B6e%CC%B6_dump</url>
         <logo/>
         <date>2019-12-28T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug>36c3-1160-session_a_trip_down_the_memory_lane</slug>
-        <title>A trip down the memory lane</title>
+        <slug>36c3-1160-session_a_trip_down_the_memory_l_a_n_e_dump</slug>
+        <title>A trip down the memory l̶a̶n̶e̶ dump</title>
         <subtitle>Introduction to memory forensics</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>

@@ -1,0 +1,32 @@
+{
+  "id": 751,
+  "guid": "b87c698c-3bb6-5da2-9978-2999bf74e450",
+  "logo": "",
+  "date": "2019-12-30T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "04:00",
+  "room": "ChaosZone Workshop",
+  "slug": "N7AUBH",
+  "url": "https://cfp.chaoszone.cz/36c3/talk/N7AUBH/",
+  "title": "Technologien f\u00fcr freie Kommunikation",
+  "subtitle": "",
+  "track": null,
+  "type": "Workshop 4h",
+  "language": "de",
+  "abstract": "Whatsapp, Instagram, Amazon, ... . Die meistgenutzten Plattformen genie\u00dfen Monopolstatus - es f\u00fchrt kaum ein weg an ihnen vorbei. Dabei sammeln sie unsere Daten und bestimmen den Rahmen in dem wir kommunizieren.\r\n\r\nDas muss nicht sein.\r\nGemeinsam k\u00f6nnen wir L\u00f6sungen und Technologien erarbeiten, die den Weg weg bereiten von Plattformen, dessen Existenzgrund deine Abh\u00e4ngigkeit zu ihnen ist.\r\n\r\nKomm und diskutiere, konzipiere, kreiere!",
+  "description": "Digitale Kommunikation und Social Media \u2013 ein Herzst\u00fcck unserer allt\u00e4glichen Kommunikation im Netz \u2013 zentrieren sich heute auf wenige Plattformen. Dies spielt den Plattformbetreibern gro\u00dfe Macht zu.\r\n\r\nTechnisch sind wir auf diese Plattformen nicht angewiesen, praktisch schon.\r\n\r\nWenn ich heute einer Freundin schreiben will, die nur Whatsapp nutzt, ich aber nicht, dann muss ich ihr entweder eine SMS (unverschl\u00fcsselt, kostenpflichtig) oder eine Email (unverschl\u00fcsselt) schicken. Whatsapp m\u00f6chte ich nicht benutzen, da ich nicht will, das Facebook meine Daten sammelt. Warum kann ich mir nicht aussuchen nicht bei Facebook zu sein und trotzdem Menschen dort zu schreiben? Ich kann ja auch Mails and xyz@gmail.com verschicken ohne bei Google Nutzer zu sein. Oder jemanden, der bei der Telekom Kunde ist anrufen.\r\nGenauso gut w\u00e4ren offene Protokolle denkbar. Mit denen k\u00f6nnte sich jede\\*r aussuchen \u00fcber welchen Kanal/Server er\\*sie kommuniziert (fast so wie bei Emails).\r\n\r\nUnd \u00fcberhaupt - warum bin ich so beschr\u00e4nkt in dem was ich mit Whatsapp tun kann? Keine Umfragen? Kein voting? Keine Untergruppen? Keine Live-Standorte? Warum l\u00e4sst sich das nicht integrieren?\r\nKein Problem - beispielsweise mit einer Webanwendung problemlos realisierbar.\r\n\r\nUnter anderem scheitern solche Versuche an den geschlossenen Schnittstellen der Plattformbetreiber. F\u00fcr die untergraben solche Ans\u00e4tze ihr Plattform-Monopol.\r\n\r\nNichtsdestotrotz f\u00fchrt kein Weg daran vorbei \u2013 wenn wir den Rahmen unserer Kommunkikation selber gestalten wollen, brauchen wir Technologien, die vielseitig nutzbar sind und Plattformunabh\u00e4ngigkeit bieten \u2013 also dezentraler funktionieren. Sie m\u00fcssen so gut wie m\u00f6glich zu vorhandenen Plattformen Schnittstellen bieten und den Weg von dort weg so einfach wie m\u00f6glich gestalten. Wenn solche Technologien einmal vorhanden sind, erschweren sie neuen klassischen Plattformen das entstehen von Monopolen.\r\n\r\nSolche Technologien m\u00fcssen f\u00fcr Nutzer aller Kenntnislevel ohne H\u00fcrden (intuitiv) nutzbar sein, um Popularit\u00e4t zu erreichen.\r\n\r\nEbenso m\u00fcssen sie flexibel genug sein um eine Vielzahl an Kommunikationsrahmen abdecken zu k\u00f6nnen.\r\n\r\nIch w\u00fcrde die (technischen) Anforderungen in vier Kategorien teilen:\r\n- Flexibilit\u00e4t: Gestaltbarkeit der Kommunikationsstruktur (Forendiskussionen, Anzeigen, ...), soziale Strukturen und Diskurse abbilden (in Sicherheits-& Kompatibilit\u00e4tstechnisch saubere Bahnen leitend)\r\n- Sicherheit: Flexibilit\u00e4t darf Nutzerdaten/Sicherheit nicht kompromittieren; dezentral gespeicherte Daten, Kontrolle \u00fcber diese\r\n- Kompatibilit\u00e4t: open Interfaces, barrierefreie Interoperabilit\u00e4t mit anderen Diensten\r\n- Nutzerfreundlichkeit: \u00dcbersichtlichkeit, Navigierbarkeit, (technisch) transparent, sauber gestaltbar\r\n\r\nDiese m\u00fcssen alle Hand in Hand miteinander funktionieren, damit sie auch gew\u00e4hrleistet sind. Wenn zum Beispiel die Flexibilit\u00e4t aus dem Ruder l\u00e4uft, k\u00f6nnten inkompatibele Schnittstellen entstehen. Das w\u00fcrde wiederum die Nutzbarkeit und Sicherheitspr\u00fcfungen erschweren.\r\n\r\nIch stelle mir vor so etwas mithilfe von Plugins zu realisieren. Diese werden im Web gehostet (zum beispiel als JavaScript) und greifen auf die in der \u00fcbertragenen Nachricht gespeicherten (Meta-)Daten zu. Implementierbar w\u00e4re so etwas mithilfe von [Solid](https://solidproject.org/).\r\n\r\nIch freue mich auf Anregungen und Diskussionen jeder Art!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 58,
+      "code": "YRULU8",
+      "public_name": "Laurin Weger",
+      "biography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

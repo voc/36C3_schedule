@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-16 16:00",
+    "version": "2019-12-16 16:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -409,6 +409,34 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1173,
+                "guid": "a1ad3239-5d41-4700-b210-4b2013a91814",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Delta_Chat_Hands_On:_Development_Status_iOS,_Android,_%26_Desktop",
+                "logo": null,
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "2:00",
+                "room": "Seminar room 13",
+                "slug": "36c3-1173-session_delta_chat_hands_on_development_status_ios_android_desktop",
+                "title": "Delta Chat Hands On: Development Status iOS, Android, & Desktop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn more about the development approach of Delta Chat, an encrypted E-Mail messenger.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Compl4xx",
+                    "public_name": "Compl4xx"
+                  }
+                ],
+                "links": [
+                  "https://delta.chat"
+                ]
               },
               {
                 "id": 1030,
@@ -1740,14 +1768,14 @@
               {
                 "id": 1160,
                 "guid": "1af612a6-5c9c-4025-a1c6-0116230a2acb",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_lane",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_l%CC%B6a%CC%B6n%CC%B6e%CC%B6_dump",
                 "logo": null,
                 "date": "2019-12-28T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "1:00",
                 "room": "Lecture room M2",
-                "slug": "36c3-1160-session_a_trip_down_the_memory_lane",
-                "title": "A trip down the memory lane",
+                "slug": "36c3-1160-session_a_trip_down_the_memory_l_a_n_e_dump",
+                "title": "A trip down the memory l\u0336a\u0336n\u0336e\u0336 dump",
                 "subtitle": "Introduction to memory forensics",
                 "track": "self organized sessions",
                 "type": "workshop",

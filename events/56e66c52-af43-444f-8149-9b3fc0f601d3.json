@@ -1,0 +1,26 @@
+{
+  "id": 1181,
+  "guid": "56e66c52-af43-444f-8149-9b3fc0f601d3",
+  "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F",
+  "logo": null,
+  "date": "2019-12-27T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "1:00",
+  "room": "Lecture room M1",
+  "slug": "36c3-1181-session_foundation_workshop_hands_on_how_does_the_internet_work_",
+  "title": "Foundation workshop: Hands-on, how does the Internet work?",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "This workshop is for all who only have a vague idea or might not know at all what an \"IP address\" is. We'll learn how the Internet works by making Internet traffic visible. This is a beginner's workshop. If you toyed with Wireshark before, you will be bored to hell in this workshop.\nInvisible to the casual user, lots of computers communicate and work together to deliver the kitten videos you're craving. In this workshop, we use the tool Wireshark (available for all operating systems) to make this communication visible. In lots of life demos, we'll learn that the domain names we're familiar with, like ccc.de or fridaysforfuture.de, are a thin layer around IP addresses, which are the real addresses computers use to identify themselves. We'll uncover which hidden information your browser sends along each request, and we'll see how easy it is to intercept traffic.This workshop is for everybody who is interested in knowing how the Internet works, in which form computers talk to each other. Absolutely no prerequisites are required. People who are familiar with network stacks will be bored to hell.Note to the infrastructure team: In the final part of the talk, we'll perform a standard ARP spoofing attack to intercept traffic from a volunteer. Of course we won't use the congress network for this. I'll open an own hotspot.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+      "public_name": "Iblech"
+    }
+  ],
+  "links": []
+}

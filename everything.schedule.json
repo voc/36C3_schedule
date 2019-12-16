@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.2; chaoszone 0.1; lightning Scandium; wiki 2019-12-16 15:00",
+    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.2; chaoszone 0.1; lightning Scandium; wiki 2019-12-16 15:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -1474,28 +1474,6 @@
             ],
             "Lecture room 11": [
               {
-                "id": 1003,
-                "guid": "5d91410d-7e49-4e12-a2fc-16abda0103bc",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting",
-                "logo": null,
-                "date": "2019-12-27T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Lecture room 11",
-                "slug": "36c3-1003-session_a_v_angel_meeting",
-                "title": "A/V Angel Meeting",
-                "subtitle": "Day 1",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "de",
-                "abstract": "",
-                "description": "Daily Meetup for A/V Angels\nDaily A/V Angel Meeting. More information can be obtained from our news in the angel system",
-                "persons": [],
-                "links": [
-                  "https://c3voc.de/"
-                ]
-              },
-              {
                 "id": 1157,
                 "guid": "a832bef1-11a0-42d4-bd49-c87332e71626",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Planet_A",
@@ -1574,109 +1552,9 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1044,
-                "guid": "f729430f-eaaa-4c12-831a-6f07a6af0416",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tor_operator_meetup",
-                "logo": null,
-                "date": "2019-12-27T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "1:30",
-                "room": "Lecture room 11",
-                "slug": "36c3-1044-session_tor_operator_meetup",
-                "title": "Tor operator meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "",
-                "abstract": "",
-                "description": "Tor operator meetup, discussion and partly moderated\nTor operator meetup, anyone currently operating any Tor infrastructure or anyone planning to operate and infrastructure in the future is welcome to participate here.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Utzer",
-                    "public_name": "Utzer"
-                  }
-                ],
-                "links": [
-                  "https://www.torproject.org/"
-                ]
-              },
-              {
-                "id": 1035,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8cf",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-27T18:40:00+01:00",
-                "start": "18:40",
-                "duration": "1:20",
-                "room": "Lecture room 11",
-                "slug": "36c3-1035-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Meeting Day 1 #2",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1032,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8cd",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-27T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:15",
-                "room": "Lecture room 11",
-                "slug": "36c3-1032-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Meeting Day 1 #1",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
-                "links": []
               }
             ],
             "Seminar room 14-15": [
-              {
-                "id": 1072,
-                "guid": "c6a9ec39-ea7c-497b-befd-c2f86b7dc44f",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Improv_Theater/_Applied_Improvisation",
-                "logo": null,
-                "date": "2019-12-27T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "1:30",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1072-session_improv_theater_applied_improvisation",
-                "title": "Improv Theater/ Applied Improvisation",
-                "subtitle": "10 ways of anything",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Come join us for a joyful session with some improvisational theater training activities and games! Topic: '10 ways of anything' \u2022 Improv theater is basically theater without a script, with characters and stories created in teamwork between the actors. \t\u2022 You do not need to know anything about improv to attend, and we will try to make everyone feel safe and welcome.\nCome join us for a joyful session with some improvisational theater training activities and games! Topic: '10 ways of anything'\t\u2022 Improv theater is basically theater without a script, with characters and stories created in teamwork between the actors.\t\u2022 You do not need to know anything about improv to attend, and we will try to make everyone feel safe and welcome.\t\u2022 Everyone can do this, you do not need to be particularly brave, spontaneous or creative :-) \t\u2022 There are several techniques and concepts one can learn, and improv skills can help in daily life too :-)\tSome skills that are important in improv:\t\u2022 accepting and building on others' ideas, \t\u2022 making your partner look good, \t\u2022 listening,\t\u2022 playfulness, and\t\u2022 being courageous.How the session will work: We will play various improv exercises and games, with some theory and reflection in between.",
-                "persons": [],
-                "links": []
-              },
               {
                 "id": 1162,
                 "guid": "1b09ad86-d444-4e6d-914a-e83c177ad2b1",
@@ -1814,86 +1692,7 @@
                 ]
               }
             ],
-            "Seminar room 13": [
-              {
-                "id": 1156,
-                "guid": "ed5b00c6-4312-4dd5-b44b-d56a20bf86cf",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Bin%C3%A4re_Zahlen_mit_Montessori_%E2%80%93_Mathe_kann_jeder!",
-                "logo": null,
-                "date": "2019-12-27T16:30:00+01:00",
-                "start": "16:30",
-                "duration": "1:00",
-                "room": "Seminar room 13",
-                "slug": "36c3-1156-session_binaere_zahlen_mit_montessori_mathe_kann_jeder_",
-                "title": "Bin\u00e4re Zahlen mit Montessori \u2013 Mathe kann jeder!",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Ich stelle am Beispiel von bin\u00e4ren Zahlen vor, wie Montessorimaterial funktioniert.\nIch stelle am Beispiel von bin\u00e4ren Zahlen vor, wie Montessorimaterial funktioniert. Mit  Dienesmaterial (das sind im Prinzip kleine Kl\u00f6tzchen, Stangen und Platten)  rechne ich dezimale in bin\u00e4re Zahlen um, erkl\u00e4re Zahlensysteme im Allgemeinen, und kann auch bin\u00e4re Zahlen z.B. multiplizieren oder dividieren.Wieso ist das interessant und wem n\u00fctzt das? Mathematik polarisiert sehr. Entweder man kann Mathe (=klug) oder man kann es eben nicht (=dumm). Dar\u00fcber wird viel Bewertung und Wissenshierarchie verbreitet. In folge dessen machen Menschen, die eher sozial und politisch interessiert sind oft einen gro\u00dfen Bogen um Mathe und Naturwissenschaften (\u201ekann ich eh nicht\u201c) und viele mathematisch und naturwissenschaftlich versierte Menschen halten sich f\u00fcr kl\u00fcger als den Rest und entziehen sich aber sozialen und gesellschaftlichen Fragen. Beides nicht gut. Und wir k\u00f6nnen uns diesen Graben in der Gesellschaft gerade heute nicht mehr leisten, wo wir vor gro\u00dfen Problemen wie z.B. Klimawandel stehen, die L\u00f6sungen auf sozialen, politischen, technischen und naturwissenschaftlichen Ebenen erfordern. Wir m\u00fcssen also alles ins Boot holen und das f\u00e4ngt bei den Grundlagen an. Mir geht es darum, die Philosphie und den Ansatz von Montessori zu zeigen, und die Idee zu vermitteln, dass Mathe nicht unverst\u00e4ndlich oder unanschaulich sein muss. Falls dich interessiert, worum es bei Montessori geht oder dich Mathematik \u00fcberhaupt interessiert oder du ernsthafte Probleme mit Mathematik hast, bist du bei diesem Vortrag richtig.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Schnuppi",
-                    "public_name": "Schnuppi"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1030,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8ce",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-27T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:15",
-                "room": "Seminar room 13",
-                "slug": "36c3-1030-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Meeting Day 1 #1 2nd language",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1027,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d0",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-27T18:40:00+01:00",
-                "start": "18:40",
-                "duration": "1:20",
-                "room": "Seminar room 13",
-                "slug": "36c3-1027-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Meeting Day 1 #2 2nd language",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
-                "links": []
-              }
-            ],
+            "Seminar room 13": [],
             "Lecture room M1": [
               {
                 "id": 1045,
@@ -2014,32 +1813,6 @@
                 "links": [
                   "https://junghack.de"
                 ]
-              },
-              {
-                "id": 1163,
-                "guid": "e16f568c-2006-47b9-b83e-ece52eb74b54",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_mathematics:_A_gentle_introduction_to_P_vs._NP,_the_biggest_open_question_in_computer_science",
-                "logo": null,
-                "date": "2019-12-27T20:50:00+01:00",
-                "start": "20:50",
-                "duration": "1:00",
-                "room": "Lecture room M1",
-                "slug": "36c3-1163-session_wondrous_mathematics_a_gentle_introduction_to_p_vs_np_the_biggest_open_question_in_computer_science",
-                "title": "Wondrous mathematics: A gentle introduction to P vs. NP, the biggest open question in computer science",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "will be provided shortly\nwill be provided shortly",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
-                    "public_name": "Iblech"
-                  }
-                ],
-                "links": []
               }
             ],
             "Lecture room M2": [
@@ -2100,32 +1873,6 @@
                 ]
               },
               {
-                "id": 1039,
-                "guid": "baffacba-85b1-4b44-92c4-bb84f75605d8",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Edu-Stammtisch",
-                "logo": null,
-                "date": "2019-12-27T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "1:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1039-session_edu_stammtisch",
-                "title": "Edu-Stammtisch",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Stammtisch f\u00fcr Menschen aus dem Bildungsbereich\nStammtisch f\u00fcr Menschen aus dem Bildungsbereich",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Wi-wissen",
-                    "public_name": "Wi-wissen"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1014,
                 "guid": "f369950c-3afb-49f8-b825-ac5235fad4d5",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Intro_to_CTFs_and_binary_Exploitation",
@@ -2167,32 +1914,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mithro",
                     "public_name": "Mithro"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1114,
-                "guid": "a13e233f-c6c2-4941-81c9-bf3dc088b761",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Passwordsafe_f%C3%BCr_Anf%C3%A4nger",
-                "logo": null,
-                "date": "2019-12-27T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1114-session_passwordsafe_fuer_anfaenger",
-                "title": "Passwordsafe f\u00fcr Anf\u00e4nger",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Du wolltest schon immer einen Passwortsafe nutzen? In diesem Workshop richten wir uns einen Passwortsafe ein!\nDu benutzt die drei gleichen Passw\u00f6rter f\u00fcr alle deine Online-Accounts? Du wei\u00dft, dass das nicht sicher ist, hast bislang aber noch keine bessere L\u00f6sung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen l\u00e4sst. Zun\u00e4chst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschlie\u00dfend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht \u00fcberwinden konnten.Disclaimer: Warum Bitwarden? Bitwarden bietet sich an, der er Opensource ist, leicht bedienbar, f\u00fcr fast alle Ger\u00e4te und Betriebssysteme verf\u00fcgbar und f\u00fcr Einsteiger einfacher zu nutzen als ein Passwortsafe wie KeePass.Bei Fragen: Tjal [https://twitter.com/tuikc @tuikc] oder DECT 8524",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Tjal",
-                    "public_name": "Tjal"
                   }
                 ],
                 "links": []
@@ -2254,34 +1975,6 @@
                 "links": []
               },
               {
-                "id": 1133,
-                "guid": "e6dc4b0d-33b8-4909-b2a2-e8d857e44169",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:General_Angel_meeting_day_1_/_Introduction_meeting",
-                "logo": null,
-                "date": "2019-12-27T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "1:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1133-session_general_angel_meeting_day_1_introduction_meeting",
-                "title": "General Angel meeting day 1 / Introduction meeting",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "General Angel meeting day 1 / Introduction meeting for new angels\nGeneral angel meeting.All angels please join.Also: New angels please come around to get to know the people and some of the tricks of how-to-angel best.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DLange",
-                    "public_name": "DLange"
-                  }
-                ],
-                "links": [
-                  "https://engelsystem.de/36c3/"
-                ]
-              },
-              {
                 "id": 1098,
                 "guid": "f8a7bdb6-2009-482a-a17f-1b93b4c7d190",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:KinkyGeeks_-_Bondage_f%C3%BCr_Anf%C3%A4nger_Workshop",
@@ -2298,34 +1991,6 @@
                 "language": "de",
                 "abstract": "",
                 "description": "Bondage and Safety lesson for beginner\nThe will be an extra registration for the workshop which will be linked in this description. (registration link goes live near christmas) We need to do this because of the large number of people that want to attend. We have only limited room and we would like to not handle a huge crowd control again.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Lil-Missy",
-                    "public_name": "Lil-Missy"
-                  }
-                ],
-                "links": [
-                  "https://kinkygeeks.de"
-                ]
-              },
-              {
-                "id": 1102,
-                "guid": "5bae76cb-7863-4ad4-b71b-8294acad2381",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:KinkyGeeks_-_Hypnose_f%C3%BCr_Anf%C3%A4nger_Workshop",
-                "logo": null,
-                "date": "2019-12-27T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "2:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1102-session_kinkygeeks_hypnose_fuer_anfaenger_workshop",
-                "title": "KinkyGeeks - Hypnose f\u00fcr Anf\u00e4nger Workshop",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Hypnosis lesson for beginner\nThe will be an extra registration for the workshop which will be linked in this description. (registration link goes live near christmas) We need to do this because of the large number of people that want to attend. We have only limited room and we would like to not handle a huge crowd control again.",
                 "persons": [
                   {
                     "id": 0,
@@ -3529,64 +3194,6 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
-              }
-            ],
-            "C-base": [
-              {
-                "id": 1158,
-                "guid": "4e14dacd-e21b-43ef-884a-5723d19ab6a8",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Cyber4EDU",
-                "logo": null,
-                "date": "2019-12-27T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1158-session_cyber4edu",
-                "title": "Cyber4EDU",
-                "subtitle": "C4EDU Workshop 1",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "de",
-                "abstract": "",
-                "description": "Nachhaltig gute Software, Lernmaterialien und Hardware f\u00fcr Schulen\nWir wollen einen Vorschlag f\u00fcr eine Checkliste f\u00fcr Schulen diskutieren. Die Checkliste soll Schulen helfen bei der Auswahl von Software, Lerninhalten und Hardware eine Orientierung f\u00fcr relevante Kriterien geben.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
-                    "public_name": "DerMicha"
-                  }
-                ],
-                "links": [
-                  "https://cyber4edu.org"
-                ]
-              }
-            ],
-            "Assembly:Milliways": [
-              {
-                "id": 1082,
-                "guid": "a972292a-964c-4cfa-9528-c47422acb9e8",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:DO_NOT_TRY_THIS_AT_HOME",
-                "logo": null,
-                "date": "2019-12-27T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "1:30",
-                "room": "Assembly:Milliways",
-                "slug": "36c3-1082-session_do_not_try_this_at_home",
-                "title": "DO NOT TRY THIS AT HOME",
-                "subtitle": "Really, do not try this at home!",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "en",
-                "abstract": "",
-                "description": "What not to do when the shit hits the fan\nA short demonstration of techniques, materials and methods for rope access and rescue, especially the dangers and what can go wrong. *How to spot and avoid Materials that are totally unsafe for most applications *Things you shouldn't do when stuck in your favourite tree house.*Things you shouldn't do when you find yourself on a bridge. *Things you definitely shouldn't do when you discover a giant poster in your pocket. *Things you should absolutely avoid when expecting a speedy rescue by the authorities.*How to get your friends safely back to the ground when the authorities start fucking up This is not an in-depth climbing course.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MikeTango",
-                    "public_name": "MikeTango"
-                  }
-                ],
-                "links": []
               }
             ],
             "Assembly:Hardware Hacking Area": [
@@ -5378,28 +4985,6 @@
             ],
             "Lecture room 11": [
               {
-                "id": 1000,
-                "guid": "a9513da7-a95c-4eb4-ba32-11485be62787",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting",
-                "logo": null,
-                "date": "2019-12-28T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Lecture room 11",
-                "slug": "36c3-1000-session_a_v_angel_meeting",
-                "title": "A/V Angel Meeting",
-                "subtitle": "Day 2",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "de",
-                "abstract": "",
-                "description": "Daily Meetup for A/V Angels\nDaily A/V Angel Meeting. More information can be obtained from our news in the angel system",
-                "persons": [],
-                "links": [
-                  "https://c3voc.de/"
-                ]
-              },
-              {
                 "id": 1126,
                 "guid": "7f73bcec-fdde-4b52-a3aa-b39baf73fb8a",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:An_introduction_to_Anarchism",
@@ -5426,32 +5011,6 @@
                 "links": [
                   "https://and.notraces.net"
                 ]
-              },
-              {
-                "id": 1056,
-                "guid": "85fe9ff2-d148-49d4-89df-c4e6284ea3a5",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Das_Freie_Software_1_x_1",
-                "logo": null,
-                "date": "2019-12-28T17:30:00+01:00",
-                "start": "17:30",
-                "duration": "1:00",
-                "room": "Lecture room 11",
-                "slug": "36c3-1056-session_das_freie_software_1_x_1",
-                "title": "Das Freie Software 1 x 1",
-                "subtitle": "Grundlagen & typische Missverst\u00e4ndnisse aufkl\u00e4ren",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Der Talk ist ein \"Foundation Talk\" vom Pr\u00e4sident der FSFE und  dazu gedacht den Zuh\u00f6renden einen leichten Einstieg in die Welt Freier Software zu erm\u00f6glichen.\nFreie Software und Open Source - ist das eigentlich das gleiche? GPL, AGPL, LGPL, MIT, Apache und hunderte mehr ... warum braucht Freie Software eigentlich Lizenzen und wir unterscheiden sie sich? Wer benutzt eigentlich Freie Software au\u00dfer der NASA und dem CCC? Und kann man damit Geld verdienen?Der Talk ist ein \"Foundation Talk\" und ist dazu gedacht den Zuh\u00f6renden einen leichten Einstieg in die Welt Freier Software zu erm\u00f6glichen. Im zweiten Teil werde ich einige der weitverbreitetsten Missverst\u00e4ndnisse zu Freier Software aufgekl\u00e4r, die sich schon seit Jahren halten und dadurch erschweren, m\u00f6glichst schnell das Potential Freier Software zu nutzen. Zum Beispiel a) Freie Software sei kostenlos, b) wer Freie Software \u00e4ndert, muss die \u00c4nderungen wieder allen verf\u00fcgbar machen und c) Freie Software ist (un)sicherer als propriet\u00e4re Software oder d) Freie Software ist das \u00fcberlegene Entwicklungsmodell. Oft h\u00f6rt man auch e) Freie Software bringe einem nichts, wenn man nicht selbst programmieren kann, und so weiter ...Dieser Foundation Talk ist auch dann richtig f\u00fcr dich, wenn Du Dich wunderst warum eine der Aussagen falsch sein soll oder Du Anregungen suchst, wie und was Du auf solche oder \u00e4hnliche Aussagen in Zukunft in unter zwei Minuten erwidern kannst.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
-                    "public_name": "Dreirik"
-                  }
-                ],
-                "links": []
               },
               {
                 "id": 1069,
@@ -5499,58 +5058,6 @@
                 "abstract": "",
                 "description": "\n",
                 "persons": [],
-                "links": []
-              },
-              {
-                "id": 1029,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d1",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:15",
-                "room": "Lecture room 11",
-                "slug": "36c3-1029-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Meeting Day 2 #1",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1034,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d3",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-28T18:40:00+01:00",
-                "start": "18:40",
-                "duration": "1:20",
-                "room": "Lecture room 11",
-                "slug": "36c3-1034-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Meeting Day 2 #2",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
                 "links": []
               }
             ],
@@ -5625,72 +5132,6 @@
                 "links": []
               },
               {
-                "id": 1054,
-                "guid": "fbefd4a9-c00d-4bb5-b03c-03034959c845",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Open_Thinking_Sustainable_Tech",
-                "logo": null,
-                "date": "2019-12-28T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:00",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1054-session_open_thinking_sustainable_tech",
-                "title": "Open Thinking Sustainable Tech",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "This is a meet-up of people by invitation only to get to know each other and combine knowledge around digital sustainability. If you think you have been missed to get invited, please get in contact.\n",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1021,
-                "guid": "beea77e4-46c0-4280-a406-79b79ed66d8a",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Sexuelle_Bel%C3%A4stigung_am_Arbeitsplatz",
-                "logo": null,
-                "date": "2019-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "2:00",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1021-session_sexuelle_belaestigung_am_arbeitsplatz",
-                "title": "Sexuelle Bel\u00e4stigung am Arbeitsplatz",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "de",
-                "abstract": "",
-                "description": "Pr\u00e4vention und Intervention\n",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1148,
-                "guid": "abef1108-ed97-48cb-8390-f4f156a97898",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Structural_Gaps_in_Networks_as_a_Source_of_Insight",
-                "logo": null,
-                "date": "2019-12-28T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "2:00",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1148-session_structural_gaps_in_networks_as_a_source_of_insight",
-                "title": "Structural Gaps in Networks as a Source of Insight",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "",
-                "abstract": "",
-                "description": "Exploring a method for generating insight based on identifying structural gaps in networks\nIn this session we will share a method for generating insight using network analysis. We will use open-source software InfraNodus, which you can install using  http://github.com/noduslabs/infranodus \u2014 or get your own preferred network visualization and analysis tool (e.g. Gephi, Pajek or others).Using the example of text network analysis we will demonstrate a method for generating insight and understanding how any discourse can be developed in an interesting way. We will then try to apply the same method and approach to other datasets and your own examples that you will hopefully bring with you.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aerodynamika",
-                    "public_name": "Aerodynamika"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1150,
                 "guid": "49e084b6-a14d-49be-9197-932acd5acdad",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:XMPP_User_Meetup",
@@ -5719,34 +5160,6 @@
             ],
             "Seminar room 13": [
               {
-                "id": 1155,
-                "guid": "570a14ce-1157-45dd-9a2d-cd1b4c6afb01",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Community_Visual_Storytelling:_A_Practical_Q%26A",
-                "logo": null,
-                "date": "2019-12-28T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "1:00",
-                "room": "Seminar room 13",
-                "slug": "36c3-1155-session_community_visual_storytelling_a_practical_q_a",
-                "title": "Community Visual Storytelling: A Practical Q&A",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "outside",
-                "language": "en",
-                "abstract": "",
-                "description": "A Q&A about documentary photography\nIch stelle am Beispiel von bin\u00e4ren Zahlen vor, wie Montessorimaterial funktioniert. Mit  Dienesmaterial (das sind im Prinzip kleine Kl\u00f6tzchen, Stangen und Platten)  rechne ich dezimale in bin\u00e4re Zahlen um, erkl\u00e4re Zahlensysteme im Allgemeinen, und kann auch bin\u00e4re Zahlen z.B. multiplizieren oder dividieren.Wieso ist das interessant und wem n\u00fctzt das? Mathematik polarisiert sehr. Entweder man kann Mathe (=klug) oder man kann es eben nicht (=dumm). Dar\u00fcber wird viel Bewertung und Wissenshierarchie verbreitet. In folge dessen machen Menschen, die eher sozial und politisch interessiert sind oft einen gro\u00dfen Bogen um Mathe und Naturwissenschaften (\u201ekann ich eh nicht\u201c) und viele mathematisch und naturwissenschaftlich versierte Menschen halten sich f\u00fcr kl\u00fcger als den Rest und entziehen sich aber sozialen und gesellschaftlichen Fragen. Beides nicht gut. Und wir k\u00f6nnen uns diesen Graben in der Gesellschaft gerade heute nicht mehr leisten, wo wir vor gro\u00dfen Problemen wie z.B. Klimawandel stehen, die L\u00f6sungen auf sozialen, politischen, technischen und naturwissenschaftlichen Ebenen erfordern. Wir m\u00fcssen also alles ins Boot holen und das f\u00e4ngt bei den Grundlagen an. Mir geht es darum, die Philosphie und den Ansatz von Montessori zu zeigen, und die Idee zu vermitteln, dass Mathe nicht unverst\u00e4ndlich oder unanschaulich sein muss. Falls dich interessiert, worum es bei Montessori geht oder dich Mathematik \u00fcberhaupt interessiert oder du ernsthafte Probleme mit Mathematik hast, bist du bei diesem Vortrag richtig.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:K8",
-                    "public_name": "K8"
-                  }
-                ],
-                "links": [
-                  "http://www.femlens.com"
-                ]
-              },
-              {
                 "id": 1164,
                 "guid": "08997d73-6187-4ea6-ae5c-402ef74c4768",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda",
@@ -5771,107 +5184,9 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1026,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d4",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-28T18:40:00+01:00",
-                "start": "18:40",
-                "duration": "1:20",
-                "room": "Seminar room 13",
-                "slug": "36c3-1026-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Meeting Day 2 #2 2nd language",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1023,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d2",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:15",
-                "room": "Seminar room 13",
-                "slug": "36c3-1023-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Metting Day 2 #1 2nd language",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1103,
-                "guid": "61043bae-cc81-426f-b8cb-a85b2aa837c6",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Youth_IGF_-_Jugendbeteiligung_in_der_Netzpolitik",
-                "logo": null,
-                "date": "2019-12-28T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "1:30",
-                "room": "Seminar room 13",
-                "slug": "36c3-1103-session_youth_igf_jugendbeteiligung_in_der_netzpolitik",
-                "title": "Youth IGF - Jugendbeteiligung in der Netzpolitik",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "",
-                "abstract": "",
-                "description": "\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Raketenlurch",
-                    "public_name": "Raketenlurch"
-                  }
-                ],
-                "links": []
               }
             ],
             "Lecture room M1": [
-              {
-                "id": 1005,
-                "guid": "77483904-f342-461c-827c-cd1c63613b5f",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Accessibility_and_Inclusion",
-                "logo": null,
-                "date": "2019-12-28T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "2:00",
-                "room": "Lecture room M1",
-                "slug": "36c3-1005-session_accessibility_and_inclusion",
-                "title": "Accessibility and Inclusion",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "",
-                "abstract": "",
-                "description": "Hacking everyday communication practices to change the world\n",
-                "persons": [],
-                "links": []
-              },
               {
                 "id": 1077,
                 "guid": "0de73d96-3c74-426c-93b2-6a08539f4561",
@@ -5909,46 +5224,6 @@
                 "language": "",
                 "abstract": "",
                 "description": "\n",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1067,
-                "guid": "d8d6aa0c-a83a-4849-8a95-be32d82f5273",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Decentralized_and_centralized_control:_global_trends_in_network_censorship",
-                "logo": null,
-                "date": "2019-12-28T19:30:00+01:00",
-                "start": "19:30",
-                "duration": "0:30",
-                "room": "Lecture room M1",
-                "slug": "36c3-1067-session_decentralized_and_centralized_control_global_trends_in_network_censorship",
-                "title": "Decentralized and centralized control: global trends in network censorship",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "en",
-                "abstract": "",
-                "description": "Let's review the proliferation of network censorship in countries around the world in the past two years, and talk about the areas where we can continue to push back, including current battles being fought to fix Internet privacy leaks.\nIn the past few years we\u2019ve seen a massive proliferationof aggressive techniques states are employing to silence dissent andaccess to information, such as the proliferation of different DPItechniques to identify and block traffic, temporary Internet slowdownmeasures during political strife, and an increasing number ofnetwork-enabled spyware campaigns being launched against activists bypowerful actors. Let's review the proliferation of network censorship incountries around the world in the past two years, and talk about theareas where we can continue to push back, including current battlesbeing fought to fix Internet privacy leaks.Mona Wang is a Staff Technologist working on ourinitiative to encrypt the entire Internet. She researches and tracksmethods of global Internet censorship for our International workinggroup. She also develops STARTTLS Everywhere, an initiative to secureemail delivery, and our Let's Encrypt client, Certbot, to secure the webwith HTTPS",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1068,
-                "guid": "9974ba2c-a6e4-405b-a82e-bdb09382643e",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Free_software_for_minorities_of_Turkey_with_their_own_languages",
-                "logo": null,
-                "date": "2019-12-28T20:30:00+01:00",
-                "start": "20:30",
-                "duration": "0:30",
-                "room": "Lecture room M1",
-                "slug": "36c3-1068-session_free_software_for_minorities_of_turkey_with_their_own_languages",
-                "title": "Free software for minorities of Turkey with their own languages",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Free software and freedom philosophy gives a ray of hope to Anatolian minorities. With free documentation and free software, with using their devices in their own language, people may keep their language alive by contributing projects like Wiktionary and Wikisource.\n    In Turkey, along the Anatolia, more than 25 languages are spoken. As \u00d6zg\u00fcr Yaz\u0131l\u0131m Derne\u011fi (Free Software Association of Turkey), we wanted to translate our website and works to these Anatolian languages such as Kurdish, Zazaki, Lazuri, Homshetsi and so on. After we started conversations with culture institutes and associations from these folks, they replied as they are not able to use their devices with their own language. So now, we started a project with Anatolian minorities, we are translating and documenting GNU/Linux, GNOME, Firefox and LibreOffice (maybe Android/Replicant) to this languages, so with free software, these people can use computers and mobile phones with their own language. Also we are starting Wiktionary and Wikipedia ersions in these languages in order to keep these languages alive and compile the documents and publications in their language to make them documented well.     In this talk at 36C3,  we will tell a project in Turkey (a developing country which has no free software consciousness). In our project, Anatolian languages and minorities' cultures may be kept in the future. So many people uses proprietary software in their devices. These minorities are repressed to use their languages, not only their publication houses were closed by government, but also they were judged at \"National Security Courts\" in Turkey. With these assimilation policies, especially Lazuri and Homshetsi languages are imperilment right now, children are acquiring only Turkish as main tongue. Proprietary software and \"proprietarians\" are only seeking for profit, surveillance, and oppressing people's freedoms, so they are not able to use their devices with their own language. This situation makes the position of their languages much worse.    Free software and freedom philosophy gives a ray of hope to Anatolian minorities. With free documentation and free software, with using their devices in their own language, people may keep their language alive by contributing projects like Wiktionary and Wikisource.",
                 "persons": [],
                 "links": []
               },
@@ -6002,52 +5277,6 @@
               }
             ],
             "Lecture room M2": [
-              {
-                "id": 1160,
-                "guid": "1af612a6-5c9c-4025-a1c6-0116230a2acb",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_lane",
-                "logo": null,
-                "date": "2019-12-28T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "1:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1160-session_a_trip_down_the_memory_lane",
-                "title": "A trip down the memory lane",
-                "subtitle": "Introduction to memory forensics",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:November",
-                    "public_name": "November"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1060,
-                "guid": "565bb40a-c1ce-46b9-8776-4c1714aaf3da",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Finding_your_new_home:_Canadian_Immigration_system",
-                "logo": null,
-                "date": "2019-12-28T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1060-session_finding_your_new_home_canadian_immigration_system",
-                "title": "Finding your new home: Canadian Immigration system",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Options to make Canada your new home from obtaining visa to immigration.\n",
-                "persons": [],
-                "links": []
-              },
               {
                 "id": 1109,
                 "guid": "90f01e54-c3fb-45eb-ae12-893317789b78",
@@ -6153,52 +5382,6 @@
                 "links": []
               },
               {
-                "id": 1095,
-                "guid": "04353a77-a338-4644-b705-da821c790a1a",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Origami",
-                "logo": null,
-                "date": "2019-12-28T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "1:30",
-                "room": "Lecture room M2",
-                "slug": "36c3-1095-session_origami",
-                "title": "Origami",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "en",
-                "abstract": "",
-                "description": "Origami for absolute beginners\nMountainfolds and Valleyfolds and diagrams and how to read them.Folding simple objects.I will provide paper for all participants. If you are already experienced feel free to join to help other participants with less experience.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Cyberpilot",
-                    "public_name": "Cyberpilot"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1019,
-                "guid": "9421c49b-4f0d-4275-9f0a-078c513e6c71",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:RegioPR-Treffen",
-                "logo": null,
-                "date": "2019-12-28T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "1:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1019-session_regiopr_treffen",
-                "title": "RegioPR-Treffen",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "",
-                "abstract": "",
-                "description": "RegioPR-Treffen\nThe RegioPR-Treffen from the CCC organized by Vollkorn",
-                "persons": [],
-                "links": []
-              },
-              {
                 "id": 1091,
                 "guid": "b637b910-011b-41ea-b60f-36d7f6e29754",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Sensor.Community_-_Platform_for_Environmental_Data",
@@ -6251,34 +5434,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1122,
-                "guid": "2e010d12-8dc1-4576-9387-e86997da732b",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Film_%22Deckname_Jenny%22",
-                "logo": null,
-                "date": "2019-12-28T20:30:00+01:00",
-                "start": "20:30",
-                "duration": "2:29",
-                "room": "Lecture room M3",
-                "slug": "36c3-1122-session_film_deckname_jenny_",
-                "title": "Film \"Deckname Jenny\"",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "other",
-                "language": "en",
-                "abstract": "",
-                "description": "Movie on activism and it's challenges in the modern German state\nDECKNAME JENNY // 2018 // 108 min // Orginalton: Deutsch // Untertitel:EnglischRechtsruck in Europa. Ertrunkene Menschen im Mittelmeer. Der Staat fahndet im Netz nach G20-Gegner*innen.Jennys Bande schaut nicht mehr zu. Und handelt. Zwischen analogen Aktionen und hacken mu\u00df entschieden werden. Doch als Jennys Vater deren militante Ambitionen herausfindet, muss er sich seiner eigenen Vergangenheit als Mitglied einer Stadtguerillagruppe stellen. Das finden auch alte Gegner nicht lustig. Und nun wird es f\u00fcr alle Beteiligten eng...Eine Geschichte zwischen Liebe und Verrat, Hoffnung und Resignation, Widerstand und Freundschaft.hochaktuell * generations\u00fcbergreifend * mit Augenzwinkern * subversiv * anarchistisch * aus einem queeren & feministischen Blickwinkel *Filmmusik: Guts Pie Earshot // Nomi & Aino*Deckname Jenny erz\u00e4hlt die fiktive Geschichte von jungen Aktivist*innen und ehemaligen Militanten. Mit Augenzwinkern. In Tempo, Zeitlupe und Aktion.**Aus Sympathie und Liebe zu den Menschen, die sich nicht mit Rassismus, Homophobie, \u00dcberwachung und einer Festung Europa abfinden wollen.**Es geht um Menschen mit St\u00e4rken und Schw\u00e4chen \u2013 nicht um Geschlechterstereotype, Macker und Helden.**Ohne Denunziation des militanten Teils sozialer Bewegung. Denn Geschichte von unten erz\u00e4hlt sich anders.**Filmabend und anschlie\u00dfendes Filmgespr\u00e4ch & Diskussion mit Regie/Buch und Schauspieler*in",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Abcdd",
-                    "public_name": "Abcdd"
-                  }
-                ],
-                "links": [
-                  "https://jenny.in-berlin.de/"
-                ]
               },
               {
                 "id": 1099,
@@ -6335,26 +5490,6 @@
                 "links": [
                   "https://www.lesswrong.com/"
                 ]
-              },
-              {
-                "id": 1020,
-                "guid": "dd0016f1-fca6-4e1c-923f-53069aebe53e",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Regiotreffen",
-                "logo": null,
-                "date": "2019-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "3:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1020-session_regiotreffen",
-                "title": "Regiotreffen",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "other",
-                "language": "",
-                "abstract": "",
-                "description": "\n",
-                "persons": [],
-                "links": []
               }
             ],
             "Kidspace": [],
@@ -7703,34 +6838,6 @@
             ],
             "Assembly:Hardware Hacking Area": [
               {
-                "id": 1170,
-                "guid": "4468e228-53a6-44e6-bf98-05b173a58605",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Arduino_For_Total_Newbies",
-                "logo": null,
-                "date": "2019-12-28T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "3:30",
-                "room": "Assembly:Hardware Hacking Area",
-                "slug": "36c3-1170-session_arduino_for_total_newbies",
-                "title": "Arduino For Total Newbies",
-                "subtitle": "Day 2",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Maltman23",
-                    "public_name": "Maltman23"
-                  }
-                ],
-                "links": [
-                  "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php"
-                ]
-              },
-              {
                 "id": 1136,
                 "guid": "e87a7b37-b57c-4367-957c-1ef2dcd3a606",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Intro_to_Arduino_Shield_Soldering_and_Programming",
@@ -7756,66 +6863,6 @@
                 ],
                 "links": [
                   "http://hammeshacks.com/intro/"
-                ]
-              }
-            ],
-            "C-base": [
-              {
-                "id": 1110,
-                "guid": "90cac72d-ab11-4d28-8409-e392c3b92049",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacker_Boardgames",
-                "logo": null,
-                "date": "2019-12-28T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "2:00",
-                "room": "C-base",
-                "slug": "36c3-1110-session_hacker_boardgames",
-                "title": "Hacker Boardgames",
-                "subtitle": "Hacker Boardgames 1",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "We willl play nice hacker boardgames\nWir werden eine Sammlung von Brettspielen f\u00fcr Hacker und Coder dabei haben, wie z.B.:* Robo Rally* Rasende Roboter",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
-                    "public_name": "DerMicha"
-                  }
-                ],
-                "links": [
-                  "https://coderdojo.c-base.org/"
-                ]
-              }
-            ],
-            "Assembly:Haecksen": [
-              {
-                "id": 1141,
-                "guid": "ad672dac-37b9-4598-8e93-9944e8e6a9b0",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksen_f%C3%BCr_NichtHaecksen",
-                "logo": null,
-                "date": "2019-12-28T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "1:00",
-                "room": "Assembly:Haecksen",
-                "slug": "36c3-1141-session_haecksen_fuer_nichthaecksen",
-                "title": "Haecksen f\u00fcr NichtHaecksen",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "de",
-                "abstract": "",
-                "description": "Die Haecksen f\u00fcr Nicht-Haecksen - eine Fragerunde\nIn dieser Runde k\u00f6nnen alle Fragen rund um die Haecksen gestellt werden - Sind die Haecksen wirklich der gr\u00f6\u00dfte Chaostreff vom CCC mit 300 Mitgliedern? (Spoiler: ja) - Was sind die Ziele der Haecksen? - Wie kann man die Haecksen oder generell Gleichberechtigung unterst\u00fctzen? - Warum k\u00f6nnen zB. M\u00e4nner keine Haecksen werden?  - Warum sind dann trotzdem so ziemlich jeder Workshop der Haecksen f\u00fcr alle Wesen besuchbar?Diese Runde ist explizit an Menschen gerichtet, die sich nicht im Begriff Frau wiederfinden k\u00f6nnen und damit keine unserer anderen Veranstaltungen besuchen k\u00f6nnen,in denen wir solche Fragen beantworten. Findest du dich im Begriff Frau wieder, schau bitte an Tag 2 beim Haecksenfr\u00fchst\u00fcck vorbei, danke.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Melzai",
-                    "public_name": "Melzai"
-                  }
-                ],
-                "links": [
-                  "http://haecksen.org"
                 ]
               }
             ]
@@ -9662,56 +8709,6 @@
                 ]
               },
               {
-                "id": 1002,
-                "guid": "a9513da7-a95c-4eb4-ba32-11485be62789",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting",
-                "logo": null,
-                "date": "2019-12-29T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:30",
-                "room": "Lecture room 11",
-                "slug": "36c3-1002-session_a_v_angel_meeting",
-                "title": "A/V Angel Meeting",
-                "subtitle": "Day 3",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "de",
-                "abstract": "",
-                "description": "Daily Meetup for A/V Angels\nDaily A/V Angel Meeting. More information can be obtained from our news in the angel system",
-                "persons": [],
-                "links": [
-                  "https://c3voc.de/"
-                ]
-              },
-              {
-                "id": 1011,
-                "guid": "edac6192-3ec5-4810-b16f-2841228ac857",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksenplenum",
-                "logo": null,
-                "date": "2019-12-29T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "2:00",
-                "room": "Lecture room 11",
-                "slug": "36c3-1011-session_haecksenplenum",
-                "title": "Haecksenplenum",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Pleeeenum! Ple-he-he-num, Plenum ist wichtig f\u00fcr die Revolution!\nDies ist ein internes Treffen der Haecksen. Wenn du noch keine bist und eine werden m\u00f6chtest, komme bitte zum [[Session:Haecksenfr\u00fchst\u00fcck|Haecksenfr\u00fchst\u00fcck]].F\u00fcr alle Haecksen: wir besprechen die Pl\u00e4ne f\u00fcr 2020, verteilen bei Bedarf Verwantwortung um, suchen Freiwillige f\u00fcr Hilfsarbeiten, gr\u00fcnden neue AGs, pr\u00fcfen das Budget.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Janepie",
-                    "public_name": "Janepie"
-                  }
-                ],
-                "links": [
-                  "http://haecksen.org"
-                ]
-              },
-              {
                 "id": 1057,
                 "guid": "5f61260e-8576-452d-a876-fd8c3c0b9e35",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:The_Secret_Truecrypt_Audit_from_the_BSI",
@@ -9733,32 +8730,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
                     "public_name": "Dreirik"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1033,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d7",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-29T18:40:00+01:00",
-                "start": "18:40",
-                "duration": "1:20",
-                "room": "Lecture room 11",
-                "slug": "36c3-1033-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Meeting Day 3 #2",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
                   }
                 ],
                 "links": []
@@ -9788,60 +8759,6 @@
                 ]
               },
               {
-                "id": 1090,
-                "guid": "81e1c0f9-1bc2-4961-8558-9b1769806831",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:AG_KRITIS",
-                "logo": null,
-                "date": "2019-12-29T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "2:00",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1090-session_ag_kritis",
-                "title": "AG KRITIS",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Meeting der AG KRITIS\nEin Meeting f\u00fcr Mitglieder - und in geringem Umfang auch Interessierte - der im Rahmen des 34C3 gegr\u00fcndeten Arbeitsgruppe f\u00fcr kritische Infrastrukturen. Interessierte melden sich entweder bei HonkHase oder TheC.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:TheC",
-                    "public_name": "TheC"
-                  }
-                ],
-                "links": [
-                  "https://ag.kritis.info"
-                ]
-              },
-              {
-                "id": 1118,
-                "guid": "5401dff1-b4a7-47b7-8c42-70c4b453b338",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Community_Accountability",
-                "logo": null,
-                "date": "2019-12-29T19:00:00+01:00",
-                "start": "19:00",
-                "duration": "1:00",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1118-session_community_accountability",
-                "title": "Community Accountability",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Community Accountability\nDer Workshop schlie\u00dft an den Talk \"Sexualisierter Gewalt und die Verantwortung von Gesellschaft und Communities\" (https://fahrplan.chaos-west.de/36c3/talk/R33ZSA/) an und widmet sich der Frage, wie \"Community Accountability\" konkret und praktisch aussehen kann.Nach einem Blick auf Gr\u00fcnde, die allzu oft dazu f\u00fchren, dass \u00fcber Erfahrungen mit sexualisierter und/ oder psychischer Gewalt nicht gesprochen wird bzw. gesprochen werden kann, wollen wir \u00fcberlegen, was dem entgegengesetzt werden kann. Wie kann ein Umfeld aussehen, das Betroffene in der Verarbeitung entsprechender Erlebnisse unterst\u00fctzt? Wie k\u00f6nnen wir unsere Zusammenh\u00e4nge f\u00fcr toxische Beziehungen sensibilisieren? Wie kann sexualisierter/ emotionaler Gewalt innerhalb von Communities entgegengewirkt und vorgebeugt werden? Was hei\u00dft Community Accountability im Chaos-Kontext? Um Antworten auf diese Fragen zu finden bedarf es einer intensiven und l\u00e4ngerfristigen Diskussion und der Workshop kann nur Baustein sein in einem l\u00e4ngeren Prozess des Austauschs, der Reflexion und der Ver\u00e4nderung. Und es braucht Mut, sich als Community dieses Themas anzunehmen.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Buecherwurm",
-                    "public_name": "Buecherwurm"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1063,
                 "guid": "39dc7a54-3a39-4be8-b3d4-385e75c19c7e",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Free_Software_for_Open_Science",
@@ -9858,26 +8775,6 @@
                 "language": "en",
                 "abstract": "",
                 "description": "In this session we will discuss the state of FOSS within the various European  scientific communities.\nThe principles of Free and Open Source Software (FOSS) are well aligned with the core tenets of science, i.e., the sharing of knowledge and the demand for reproducibility of results. Nevertheless, FOSS is still  rather the exception than the rule for the majority of scientific domains. In this session we will discuss the state of FOSS within the various European  scientific communities. Based on this we will try to identify stakeholders,  common goals and potential policy proposals.",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1064,
-                "guid": "828e37b3-dcea-42a4-8482-b51c1c809580",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Free_Software_for_Qualitative_Social_Research",
-                "logo": null,
-                "date": "2019-12-29T13:30:00+01:00",
-                "start": "13:30",
-                "duration": "0:30",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1064-session_free_software_for_qualitative_social_research",
-                "title": "Free Software for Qualitative Social Research",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Discussing Free Software tools for social research\nDuring my sociology master thesis I tried a lot of free software and developed a profound workflow from literature research, interview preparation and processing to analysis, note taking and the final writing process. Because I have made the experience that especially in the social sciences and humanities there is hardly any technical interest, there is also little information about free software among fellow students. Therefore I would like to use the about:freedom space to introduce the tools I have used and exchange information about alternative software for academic use. I'm just finishing my sociology master's degree at Osnabr\u00fcck University and would like to become a journalist afterwards. Free Software has always been important to me since I've been using Linux for about ten years now and I'm always looking for new, useful software and try to share my knowledge for example at CryptoParties.",
                 "persons": [],
                 "links": []
               },
@@ -9929,60 +8826,6 @@
               }
             ],
             "Seminar room 13": [
-              {
-                "id": 1143,
-                "guid": "f160d7c6-46aa-4bb5-9a18-f909d7905156",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:LUKi_Meetup",
-                "logo": null,
-                "date": "2019-12-29T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "1:20",
-                "room": "Seminar room 13",
-                "slug": "36c3-1143-session_luki_meetup",
-                "title": "LUKi Meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "come together for people interested in LUKi e. V.\nWe want to meet and get to know each other - not only current members of LUKi e. V. but also (and especially) perosns interested in the topics and work of LUKi e. V.We welcome all human beings interested in discussing and supporting free and open software and infrastructure for churches or other social movements.CU at LUKi Meetup----... Jesus would use Linux! ... ;-)",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:A-mo-rex",
-                    "public_name": "A-mo-rex"
-                  }
-                ],
-                "links": [
-                  "https://luki.org/"
-                ]
-              },
-              {
-                "id": 1028,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d8",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-29T18:40:00+01:00",
-                "start": "18:40",
-                "duration": "1:20",
-                "room": "Seminar room 13",
-                "slug": "36c3-1028-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Meeting Day 3 #2 2nd language",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
-                "links": []
-              },
               {
                 "id": 1149,
                 "guid": "8ffb50b3-43d4-4164-9d1e-f0e91b5b179a",
@@ -10058,32 +8901,6 @@
                 "links": []
               },
               {
-                "id": 1016,
-                "guid": "5ce4ab77-ca9b-4153-b208-9a975a4b439a",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Kernel_Hacking",
-                "logo": null,
-                "date": "2019-12-29T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "3:00",
-                "room": "Lecture room M1",
-                "slug": "36c3-1016-kernel_hacking",
-                "title": "Kernel Hacking",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "en",
-                "abstract": "",
-                "description": "Write a simple kernel driver, debug and trace it remotely with gdb.\nTarget boards will be provided, bring your own laptop, more details to follow.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Vtec",
-                    "public_name": "Vtec"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1018,
                 "guid": "cf0f33c6-12f0-4aa7-b371-ffb80f06af3e",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:NIFTI-Meetup",
@@ -10109,48 +8926,6 @@
                 ],
                 "links": [
                   "http://nifti.org"
-                ]
-              },
-              {
-                "id": 1070,
-                "guid": "4abeba44-7a8e-477c-8eb0-09b1226d924c",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:The_Bisq_DAO:_A_New_Model_for_Sustainable_Free_Software",
-                "logo": null,
-                "date": "2019-12-29T19:00:00+01:00",
-                "start": "19:00",
-                "duration": "1:00",
-                "room": "Lecture room M1",
-                "slug": "36c3-1070-session_the_bisq_dao_a_new_model_for_sustainable_free_software",
-                "title": "The Bisq DAO: A New Model for Sustainable Free Software",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "This talk covers the primary mechanisms by which this is possible, offering a  completely new paradigm for funding free software...that could maybe one day be applied to make consumer services, government, and business more sustainable and more accountable.\nBisq is free software with a revenue model integrated in the natural flow of using it\u2014revenue is collected when people use Bisq to trade, and this revenue funds Bisq's development. But there are no investors, no companies, no bank accounts, no foundations, and no legal entities of any kind to make this happen. *Value transfer happens entirely through the software*. This talk covers the primary mechanisms by which this is possible, offering a  completely new paradigm for funding free software...that could maybe one day be applied to make consumer services, government, and business more sustainable and more accountable.",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1071,
-                "guid": "84be99ea-3bf4-4cf8-bc82-390358547989",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:The_state_of_secure_messaging:_the_case_of_OTR",
-                "logo": null,
-                "date": "2019-12-29T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "0:30",
-                "room": "Lecture room M1",
-                "slug": "36c3-1071-session_the_state_of_secure_messaging_the_case_of_otr",
-                "title": "The state of secure messaging: the case of OTR",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "On this talk, we will talk about the state of different secure messaging applications: from MLS, Signal, Wire to OTR. We will talk around what impact they have as a technology used to resist mass surveillance and why they are needed in the current ever oppressive world. We will look at the challenges they face and what need ideas come with the 4th version of OTR.\nOn this talk, we will talk about the state of differentsecure messaging applications: from MLS, Signal, Wire to OTR. We willtalk around what impact they have as a technology used to resist masssurveillance and why they are needed in the current ever oppressiveworld. We will look at the challenges they face and what need ideas comewith the 4th version of OTR.",
-                "persons": [],
-                "links": [
-                  "https://www.youtube.com/watch?v=KR4s6t9D9Jo"
                 ]
               }
             ],
@@ -10202,52 +8977,6 @@
                 "links": [
                   "https://carbontxt.org/"
                 ]
-              },
-              {
-                "id": 1085,
-                "guid": "d257071f-c913-4a48-b01b-65f4c28c73dc",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Finding_your_new_home:_Canadian_Immigration_system",
-                "logo": null,
-                "date": "2019-12-29T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1085-session_finding_your_new_home_canadian_immigration_system",
-                "title": "Finding your new home: Canadian Immigration system",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Options to make Canada your new home from obtaining visa to immigration.\n",
-                "persons": [],
-                "links": []
-              },
-              {
-                "id": 1086,
-                "guid": "901b927b-cd27-4250-a434-358aa6b214c9",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Insulin_hackers_meetup",
-                "logo": null,
-                "date": "2019-12-29T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "1:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1086-session_insulin_hackers_meetup",
-                "title": "Insulin hackers meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Type 1 diabetes meetup. Lets discuss experiences and learnings with Continuos glucose monitoring (CGM), the open artificial pancreas system (OpenAPS) and looping in general. Bring your T1D hardware!\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:InsulinJunkieDe",
-                    "public_name": "InsulinJunkieDe"
-                  }
-                ],
-                "links": []
               },
               {
                 "id": 1043,
@@ -10326,91 +9055,9 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1036,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d6",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-29T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:15",
-                "room": "Lecture room M2",
-                "slug": "36c3-1036-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Meeting Day 3 #1 2nd language",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1165,
-                "guid": "d630961b-f508-4b39-9a77-68812d919594",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_mathematics:_A_primer_to_the_set-theoretic_multiverse_philosophy_(a_guided_tour_to_the_limits_of_mathematical_reasoning)",
-                "logo": null,
-                "date": "2019-12-29T21:40:00+01:00",
-                "start": "21:40",
-                "duration": "1:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1165-session_wondrous_mathematics_a_primer_to_the_set_theoretic_multiverse_philosophy_a_guided_tour_to_the_limits_of_mathematical_reasoning_",
-                "title": "Wondrous mathematics: A primer to the set-theoretic multiverse philosophy (a guided tour to the limits of mathematical reasoning)",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "will be provided shortly\nwill be provided shortly",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
-                    "public_name": "Iblech"
-                  }
-                ],
-                "links": [
-                  "https://iblech.gitlab.io/bb/multiverse.html"
-                ]
               }
             ],
             "Lecture room M3": [
-              {
-                "id": 1145,
-                "guid": "95d34463-aed3-419b-afcf-044cdf611429",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:EightOS_Bodymind_Operating_System",
-                "logo": null,
-                "date": "2019-12-29T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "3:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1145-session_eightos_bodymind_operating_system",
-                "title": "EightOS Bodymind Operating System",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "In this session we will explore the notions used in hacking through interactive physical exercises. Creating the body-based code for the software, based on systemic thinking and non-equilibrium dynamics.  Physical practice workshop + interactive exercises. No prior experience needed. Total refresh.\nLet\u2019s suppose that our bodymind is the hardware and our behavior is the software. A lot of the stuff we \"run\" are based on ancient concepts and outdated evolutionary circuits. Moreover, when we learn the new stuff we usually do it only intellectually, not letting the new information enter our bodies and become part of our everyday reflexes. In this workshop we want to share with you the open-source operating system for the bodymind \u221eOS.Taking as inspiration the latest findings from complex systems theory and network science we come up with powerful physical metaphors that can be observed in nature and then activate them on the level of the body. We combine them with various approaches found in martial art Systema and contemporary dance to create engaging, interactive and informative exercises, which we then practice together to upgrade our software for the 21st century.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aerodynamika",
-                    "public_name": "Aerodynamika"
-                  }
-                ],
-                "links": [
-                  "http://www.8os.io"
-                ]
-              },
               {
                 "id": 1146,
                 "guid": "a2677c28-9f3f-4224-81fc-c210f8cd5be0",
@@ -10438,88 +9085,6 @@
                 "links": [
                   "http://8os.io"
                 ]
-              },
-              {
-                "id": 1134,
-                "guid": "a10fe7a1-8c97-4bac-9bc3-989e4cb6a986",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:General_Angel_meeting_day_3",
-                "logo": null,
-                "date": "2019-12-29T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1134-session_general_angel_meeting_day_3",
-                "title": "General Angel meeting day 3",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "General Angel meeting day 3\nGeneral angel meeting.All angels please join.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DLange",
-                    "public_name": "DLange"
-                  }
-                ],
-                "links": [
-                  "https://engelsystem.de/36c3/"
-                ]
-              },
-              {
-                "id": 1100,
-                "guid": "3daf76a7-622b-473c-a9c4-36d193a841ba",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:KinkyGeeks_-_Playfight_Bondage_Workshop",
-                "logo": null,
-                "date": "2019-12-29T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "2:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1100-session_kinkygeeks_playfight_bondage_workshop",
-                "title": "KinkyGeeks - Playfight Bondage Workshop",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "how to: playful overpowering and bondage someone\nThe will be an extra registration for the workshop which will be linked in this description. (registration link goes live near christmas) We need to do this because of the large number of people that want to attend. We have only limited room and we would like to not handle a huge crowd control again.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Lil-Missy",
-                    "public_name": "Lil-Missy"
-                  }
-                ],
-                "links": [
-                  "https://kinkygeeks.de"
-                ]
-              },
-              {
-                "id": 1037,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d5",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-29T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:15",
-                "room": "Lecture room M3",
-                "slug": "36c3-1037-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Meeting Day 3 #1",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
-                "links": []
               }
             ],
             "Kidspace": [],
@@ -11640,35 +10205,37 @@
                 "answers": []
               }
             ],
-            "Assembly:Hardware Hacking Area": [
+            "Meeting": [
               {
-                "id": 1171,
-                "guid": "5ecb5c1f-725a-481b-90ad-f840bd7e5ea8",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Arduino_For_Total_Newbies",
+                "id": 1011,
+                "guid": "edac6192-3ec5-4810-b16f-2841228ac857",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksenplenum",
                 "logo": null,
-                "date": "2019-12-29T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "3:30",
-                "room": "Assembly:Hardware Hacking Area",
-                "slug": "36c3-1171-session_arduino_for_total_newbies",
-                "title": "Arduino For Total Newbies",
-                "subtitle": "Day 3",
+                "date": "2019-12-29T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "2:00",
+                "room": "Meeting",
+                "slug": "36c3-1011-session_haecksenplenum",
+                "title": "Haecksenplenum",
+                "subtitle": "",
                 "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
+                "type": "meeting",
+                "language": "de",
                 "abstract": "",
-                "description": "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>\n",
+                "description": "Pleeeenum! Ple-he-he-num, Plenum ist wichtig f\u00fcr die Revolution!\nDies ist ein internes Treffen der Haecksen. Wenn du noch keine bist und eine werden m\u00f6chtest, komme bitte zum [[Session:Haecksenfr\u00fchst\u00fcck|Haecksenfr\u00fchst\u00fcck]].F\u00fcr alle Haecksen: wir besprechen die Pl\u00e4ne f\u00fcr 2020, verteilen bei Bedarf Verwantwortung um, suchen Freiwillige f\u00fcr Hilfsarbeiten, gr\u00fcnden neue AGs, pr\u00fcfen das Budget.",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Maltman23",
-                    "public_name": "Maltman23"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Janepie",
+                    "public_name": "Janepie"
                   }
                 ],
                 "links": [
-                  "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php"
+                  "http://haecksen.org"
                 ]
-              },
+              }
+            ],
+            "Assembly:Hardware Hacking Area": [
               {
                 "id": 1153,
                 "guid": "1befc1a5-0001-49af-bfb0-081d26e8a9c9",
@@ -11723,66 +10290,6 @@
                 ],
                 "links": [
                   "http://hammeshacks.com/"
-                ]
-              }
-            ],
-            "C-base": [
-              {
-                "id": 1159,
-                "guid": "1c6b3e1c-f1a8-48b3-879f-5077c768af69",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Cyber4EDU",
-                "logo": null,
-                "date": "2019-12-29T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1159-session_cyber4edu",
-                "title": "Cyber4EDU",
-                "subtitle": "C4EDU Workshop 2",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "de",
-                "abstract": "",
-                "description": "Nachhaltig gute Software, Lernmaterialien und Hardware f\u00fcr Schulen\nWir wollen einen Vorschlag f\u00fcr eine Checkliste f\u00fcr Schulen diskutieren. Die Checkliste soll Schulen helfen bei der Auswahl von Software, Lerninhalten und Hardware eine Orientierung f\u00fcr relevante Kriterien geben.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
-                    "public_name": "DerMicha"
-                  }
-                ],
-                "links": [
-                  "https://cyber4edu.org"
-                ]
-              }
-            ],
-            "Assembly:Haecksen": [
-              {
-                "id": 1140,
-                "guid": "9bf60888-18b6-449f-8880-44c88db9c77a",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Feministischer_Buchclub",
-                "logo": null,
-                "date": "2019-12-29T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "Assembly:Haecksen",
-                "slug": "36c3-1140-session_feministischer_buchclub",
-                "title": "Feministischer Buchclub",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "",
-                "abstract": "",
-                "description": "Feministischer Buchclub: Wir reden \u00fcber B\u00fccher\nWir reden \u00fcber interessante B\u00fccher und erweitern die Liste.Der Workshop ist offen f\u00fcr alle Wesen auf dem Congress. Auch M\u00e4nner k\u00f6nnen sich hier erste Buchtipps abholen oder einbringen.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Melzai",
-                    "public_name": "Melzai"
-                  }
-                ],
-                "links": [
-                  "https://wiki.haecksen.org/index.php/Haecksen_library"
                 ]
               }
             ]
@@ -12532,86 +11039,8 @@
                 "attachments": []
               }
             ],
-            "Lecture room 11": [
-              {
-                "id": 1004,
-                "guid": "a9513da7-a95c-4eb4-ba32-11485be6278a",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting",
-                "logo": null,
-                "date": "2019-12-30T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:30",
-                "room": "Lecture room 11",
-                "slug": "36c3-1004-session_a_v_angel_meeting",
-                "title": "A/V Angel Meeting",
-                "subtitle": "Day 4",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "de",
-                "abstract": "",
-                "description": "Daily Meetup for A/V Angels\nDaily A/V Angel Meeting. More information can be obtained from our news in the angel system",
-                "persons": [],
-                "links": [
-                  "https://c3voc.de/"
-                ]
-              },
-              {
-                "id": 1151,
-                "guid": "b61433fb-3304-439e-8823-be43cd1f3f6c",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:CryptoParty:_Digital_Self-Defense_Workshop",
-                "logo": null,
-                "date": "2019-12-30T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "2:00",
-                "room": "Lecture room 11",
-                "slug": "36c3-1151-session_cryptoparty_digital_self_defense_workshop",
-                "title": "CryptoParty: Digital Self-Defense Workshop",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "en",
-                "abstract": "",
-                "description": "CryptoParties are free and open for everyone, but especially those without prior knowledge, who haven't yet attended one. CryptoParty is a decentralized movement with events happening all over the world. The goal is to pass on knowledge about protecting yourself in the digital space. This can include encrypted communication, preventing being tracked while browsing the web, and general security advice regarding computers and smartphones. To try the tools and apps directly at the CryptoParty, bring your laptop or smartphone.\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dawning_Sun",
-                    "public_name": "Dawning Sun"
-                  }
-                ],
-                "links": [
-                  "https://cryptoparty.in/36c3"
-                ]
-              }
-            ],
-            "Seminar room 14-15": [
-              {
-                "id": 1024,
-                "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d9",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
-                "logo": null,
-                "date": "2019-12-30T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:00",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1024-session_translation_team_meeting",
-                "title": "Translation Team Meeting",
-                "subtitle": "Final Meeting Day 4",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.\nThis meeting is used for the distribution of shifts for the Translation team.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
-                    "public_name": "Katti"
-                  }
-                ],
-                "links": []
-              }
-            ],
+            "Lecture room 11": [],
+            "Seminar room 14-15": [],
             "Seminar room 13": [],
             "Lecture room M1": [
               {
@@ -12653,34 +11082,6 @@
                 "description": "\n",
                 "persons": [],
                 "links": []
-              },
-              {
-                "id": 1101,
-                "guid": "818315e1-ecdf-4ed6-97e8-fdf88087b7d6",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:KinkyGeeks_-_Erste_Hilfe_-_Kinky_Edition",
-                "logo": null,
-                "date": "2019-12-30T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "2:00",
-                "room": "Lecture room M1",
-                "slug": "36c3-1101-session_kinkygeeks_erste_hilfe_kinky_edition",
-                "title": "KinkyGeeks - Erste Hilfe - Kinky Edition",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "First aid lesson for kinky people\nThe will be an extra registration for the workshop which will be linked in this description. (registration link goes live near christmas) We need to do this because of the large number of people that want to attend. We have only limited room and we would like to not handle a huge crowd control again.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Lil-Missy",
-                    "public_name": "Lil-Missy"
-                  }
-                ],
-                "links": [
-                  "https://kinkygeeks.de"
-                ]
               }
             ],
             "Lecture room M2": [],

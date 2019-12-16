@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.2; chaoszone 0.1; wiki 2019-12-16 05:10",
+    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.2; chaoszone 0.1; wiki 2019-12-16 07:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -3561,6 +3561,64 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:Hardware Hacking Area": [
+              {
+                "id": 1166,
+                "guid": "bd0a9be9-bbf5-4e33-b3fe-a6bc52f29258",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Fomu",
+                "logo": null,
+                "date": "2019-12-27T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:30",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1166-session_fomu",
+                "title": "Fomu",
+                "subtitle": "Session 2",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Fomu, the FPGA in your USB Port\n<br><br>Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)''' ''<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). The workshop is self guided with helpers for when you get stuck. See https://workshop.fomu.im <br><br>Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]].<br><br>",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mithro",
+                    "public_name": "Mithro"
+                  }
+                ],
+                "links": [
+                  "http://fomu.im"
+                ]
+              },
+              {
+                "id": 1167,
+                "guid": "6275814e-f992-4639-8215-a2ab4f8947f3",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Fomu",
+                "logo": null,
+                "date": "2019-12-27T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "1:30",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1167-session_fomu",
+                "title": "Fomu",
+                "subtitle": "Session 1",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Fomu, the FPGA in your USB Port\n<br><br>Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)''' ''<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). The workshop is self guided with helpers for when you get stuck. See https://workshop.fomu.im <br><br>Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]].<br><br>",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mithro",
+                    "public_name": "Mithro"
+                  }
+                ],
+                "links": [
+                  "http://fomu.im"
+                ]
               }
             ],
             "CCL Terrace": [

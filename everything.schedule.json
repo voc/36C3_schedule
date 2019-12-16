@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.3; chaoszone 0.2; lightning Scandium; wiki 2019-12-16 17:20",
+    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.3; chaoszone 0.2; lightning Scandium; wiki 2019-12-16 17:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -3310,7 +3310,7 @@
                 "type": "Meetup",
                 "language": "en",
                 "abstract": "Welcome Ceremony for the ChaosPatinnen Assembly",
-                "description": "-",
+                "description": "Is this your first visit to Congress and you're unsure if you will fit in, visiting alone, or are you a part of a minority at the event? ChaosPatinnen may be for you! Unfortunately, SignUps have already ended, so find a helpful Hacker!\r\n\r\nThis is the opening event for mentees to meet their mentors, get to know more about the Assembly, and who to turn to for help! From here, we're off to the 11:00AM Keynote!",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
@@ -13744,34 +13744,7 @@
                 ]
               }
             ],
-            "Lecture room M2": [
-              {
-                "id": 1178,
-                "guid": "c934b660-8d4e-4260-af17-48c8444c70b7",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:ADHD_%26_me_-_..._and_you%3F",
-                "logo": null,
-                "date": "2019-12-30T14:30:00+01:00",
-                "start": "14:30",
-                "duration": "1:30",
-                "room": "Lecture room M2",
-                "slug": "36c3-1178-session_adhd_me_and_you_",
-                "title": "ADHD & me - ... and you?",
-                "subtitle": "Squirrel!",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "I was diagnosed with ADHD  just two years ago. I want to share what I learned so far and provide a space to exchange stories, tools, strategies and support.\nBoth theoretical and technical aspects of memory forensics will be covered: A theoretical approach of the basics of how memory in Windows systems works and hands-on dive to memory analysis.<br>The following topics will be discussed:<br>* How memory works in Windows systems* Memory acquisition* Introduction to Volatility and its plugins* Hands-on analysis of machine hit by ransomwareLast 15 minutes will feature a general discussion and ideally will set the foundation of a C3 assembly dedicated to Digital ForensicsIt is a BYOD, so please have the latest version of volatility installed on your machine!<br>https://github.com/volatilityfoundation/volatility/wiki/Installation<br>The workshop will be all about how to use it, not install it! :)",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Stormwind",
-                    "public_name": "Stormwind"
-                  }
-                ],
-                "links": []
-              }
-            ],
+            "Lecture room M2": [],
             "Lecture room M3": [
               {
                 "id": 1135,

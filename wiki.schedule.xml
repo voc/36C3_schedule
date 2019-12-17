@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-17 19:10</version>
+  <version>2019-12-17 20:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -2428,6 +2428,27 @@ Wir werden eine Sammlung von Brettspielen für Hacker und Coder dabei haben, wie
         <links>
           <link>https://coderdojo.c-base.org/</link>
         </links>
+      </event>
+      <event id="1217" guid="a7700e84-a4bb-481c-8bfc-452d221e2314">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Python_mit_dem_Lego_EVO3_Roboter</url>
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1217-session_python_mit_dem_lego_evo3_roboter</slug>
+        <title>Python mit dem Lego EVO3 Roboter</title>
+        <subtitle>EVO3 Python für Anfänger</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir zeigen Schul-Projekte und bieten Einsteigern Hilfe an.
+Die Roboter Werkstatt der Evangelischen Schule Berlin Zentrum zeigt ein paar mit Python umgesetzte Lego EVO3 Roboter Projekte. Teilnehmerinnen der Werkstatt werden Interessierten ihre Projekte zeigen und die ersten Schritte der Python Programmierung mit dem Lego EVO3 Roboter vermitteln.</description>
+        <persons>
+          <person id="0">DerMicha</person>
+        </persons>
+        <links/>
       </event>
     </room>
     <room name="Assembly:Haecksen">

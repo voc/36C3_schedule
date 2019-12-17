@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "bison; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 20:20",
+    "version": "bison; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 21:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -11834,6 +11834,60 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1218,
+                "guid": "9ef2a13a-61f1-4b47-a4f5-2bdd2c1b66de",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Alternatives_to_Google_Apps_on_Android",
+                "logo": null,
+                "date": "2019-12-29T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "0:30",
+                "room": "Lecture room M1",
+                "slug": "36c3-1218-session_alternatives_to_google_apps_on_android",
+                "title": "Alternatives to Google Apps on Android",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "I will go over my experience with finding and implementing alternatives. I go over how I used different tools, protocols, and software such as OwnCloud, CardDAV, CalDAV,, RSS, FreeOTP. and OpenVPN to decentralize my digital life and the pros and cons of doing such.\nFollow the journey of a long time Android user who sawone day, every aspect of their digital life was centralized by Google.Calendar, Contacts, email, instant messaging, etc. Is it worth it toseek alternatives when the phone's ecosystem is centrally communicatingwith Google?I will go over my experience with finding and implementing alternatives.I go over how I used different tools, protocols, and software such asOwnCloud, CardDAV, CalDAV,, RSS, FreeOTP. and OpenVPN to decentralize mydigital life and the pros and cons of doing such.Alexis works to secure the web by working on HTTPSEverywhere. She has previously been a web developer and systemadministrator for 5 years and a statistician in the education realm. Shehas earned degrees from the Rochester Institute of Technology in MediaArts and Technology and The New School in Organizational ChangeManagement. She is very passionate about encryption and tech equity forall. Alexis can be found either online ranting about bad security &surveillance policies, crocheting, or tinkering with a new tech toy.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
+                    "public_name": "Dreirik"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1219,
+                "guid": "c997a62c-fd35-4c59-99f9-324cd4e62b65",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Ask_the_Electronic_Frontier_Foundation",
+                "logo": null,
+                "date": "2019-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Lecture room M1",
+                "slug": "36c3-1219-session_ask_the_electronic_frontier_foundation",
+                "title": "Ask the Electronic Frontier Foundation",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "\"Ask the EFF\" will be a panel presentation and question-and-answer session with the Electronic Frontier Foundation, featuring Kurt Opsahl, Deputy Executive Director and General Counsel; and Staff Technologists Alexis Hancock and Mona Wang\n\"Ask the EFF\" will be a panel presentation andquestion-and-answer session with the Electronic Frontier Foundation,featuring Kurt Opsahl, Deputy Executive Director and General Counsel;and Staff Technologists Alexis Hancock and Mona Wang. Come for thelatest information about how the law is racing to catch up withtechnological change from staffers at the Electronic FrontierFoundation, the Internet's premiere digital civil liberties groupfighting for freedom and privacy in the computer age. Come with yourquestions about current EFF issues such as the effort to undermineencryption (and add backdoors), discussion of our technology projectslike Certbot (now our of beta!), encrypted DNS, and privacy enhancingsoftware, and much more that are important to you.urt Opsahl is the Deputy Executive Director andGeneral Counsel of the Electronic Frontier Foundation. In addition torepresenting clients on civil liberties, free speech and privacy law,Opsahl counsels on EFF projects and initiatives. Opsahl is the leadattorney on the Coders' Rights Project.Alexis Hancock is a Staff Technologist who works on EFF's HTTPSEverywhere web extension. She's researches ways to expand and advocateconsumer privacy, with a recent focus on mobile and dedicates time toclose the equity gap in tech.Mona Wang is a Staff Technologist working on our initiative to encryptthe entire Internet. She researches and tracks methods of globalInternet censorship for our International working group. She alsodevelops  STARTTLS Everywhere, an initiative to secure email delivery,and our Let's Encrypt client, Certbot, to secure the web with HTTPS.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
+                    "public_name": "Dreirik"
+                  }
+                ],
+                "links": [
+                  "https://eff.org/"
+                ]
               },
               {
                 "id": 1130,

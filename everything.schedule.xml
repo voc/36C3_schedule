@@ -1,5 +1,5 @@
 <schedule>
-  <version>bison; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 21:20</version>
+  <version>bison; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 21:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -6719,6 +6719,31 @@ On this talk, we will talk about the state of differentsecure messaging applicat
           <link>https://www.youtube.com/watch?v=KR4s6t9D9Jo</link>
         </links>
       </event>
+      <event id="1199" guid="816f77ca-d7bf-4869-b5cf-529a89501e85">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Yubikey_101</url>
+        <logo/>
+        <date>2019-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1199-session_yubikey_101</slug>
+        <title>Yubikey 101</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Introduction to Yubikeys
+Have you ever wanted to step up your personal security posture with hardware security tokens?Did you receive a YubiKey for Christmas, and now are like "now what??"Want to teach your mom how to use a YubiKey?Then this workshop is for you!We will spend an hour going through a walk-through general setup and configuration of YubiKeys and how to integrate them into daily life by walking through examples:* making sure the YubiKey in front of you is actually a YubiKey (attestation)* using 2FA with your nextcloud/github account* integrating passdb with YubiKeys* generating gpg keys on an airgapped machine and transferring subkeys to a YubiKey* signing commits with a YubiKey* using your YubiKey to SSH into remote machines</description>
+        <persons>
+          <person id="0">Sather</person>
+          <person id="0">Dgrove</person>
+          <person id="0">Lrvick</person>
+        </persons>
+        <links>
+          <link>http://hashbang.sh</link>
+        </links>
+      </event>
     </room>
     <room name="Lecture room M2">
       <event id="1060" guid="565bb40a-c1ce-46b9-8776-4c1714aaf3da">
@@ -6905,31 +6930,6 @@ The RegioPR-Treffen from the CCC organized by Vollkorn</description>
           <person id="0">Dreirik</person>
         </persons>
         <links/>
-      </event>
-      <event id="1199" guid="816f77ca-d7bf-4869-b5cf-529a89501e85">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Yubikey_101</url>
-        <logo/>
-        <date>2019-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:00</duration>
-        <room>Lecture room M2</room>
-        <slug>36c3-1199-session_yubikey_101</slug>
-        <title>Yubikey 101</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Introduction to Yubikeys
-Have you ever wanted to step up your personal security posture with hardware security tokens?Did you receive a YubiKey for Christmas, and now are like "now what??"Want to teach your mom how to use a YubiKey?Then this workshop is for you!We will spend an hour going through a walk-through general setup and configuration of YubiKeys and how to integrate them into daily life by walking through examples:* making sure the YubiKey in front of you is actually a YubiKey (attestation)* using 2FA with your nextcloud/github account* integrating passdb with YubiKeys* generating gpg keys on an airgapped machine and transferring subkeys to a YubiKey* signing commits with a YubiKey* using your YubiKey to SSH into remote machines</description>
-        <persons>
-          <person id="0">Sather</person>
-          <person id="0">Dgrove</person>
-          <person id="0">Lrvick</person>
-        </persons>
-        <links>
-          <link>http://hashbang.sh</link>
-        </links>
       </event>
     </room>
     <room name="Lecture room M3">

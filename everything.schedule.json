@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "awk; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 13:50",
+    "version": "awk; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 14:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -8939,6 +8939,34 @@
                 ],
                 "links": [
                   "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php"
+                ]
+              },
+              {
+                "id": 1205,
+                "guid": "70b6ca48-af97-49ca-bc3a-aa0d543934ff",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Fomu",
+                "logo": null,
+                "date": "2019-12-28T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "1:30",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1205-session_fomu",
+                "title": "Fomu",
+                "subtitle": "Session 3",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Fomu, the FPGA in your USB Port\n<br><br>Come get an FPGA dev board in your USB port and start hacking!<br> Get toolchain setup and you can get <b>free</b> hardware!<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). The workshop is self guided with helpers for when you get stuck. See https://workshop.fomu.im <br><br>Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]].<br><br>",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mithro",
+                    "public_name": "Mithro"
+                  }
+                ],
+                "links": [
+                  "http://fomu.im"
                 ]
               },
               {

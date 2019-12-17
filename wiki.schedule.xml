@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-17 13:50</version>
+  <version>2019-12-17 14:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -2099,6 +2099,29 @@ Hast du dich auch schonmal gefragt, wie es wäre, ein Smartphone zu nutzen, ohne
         </persons>
         <links>
           <link>http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php</link>
+        </links>
+      </event>
+      <event id="1205" guid="70b6ca48-af97-49ca-bc3a-aa0d543934ff">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fomu</url>
+        <logo/>
+        <date>2019-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1205-session_fomu</slug>
+        <title>Fomu</title>
+        <subtitle>Session 3</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Fomu, the FPGA in your USB Port
+&lt;br&gt;&lt;br&gt;Come get an FPGA dev board in your USB port and start hacking!&lt;br&gt; Get toolchain setup and you can get &lt;b&gt;free&lt;/b&gt; hardware!&lt;br&gt;&lt;br&gt;''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''&lt;br&gt;&lt;br&gt;This workshop will be given multiple times (all sessions are &lt;b&gt;identical&lt;/b&gt;). The workshop is self guided with helpers for when you get stuck. See https://workshop.fomu.im &lt;br&gt;&lt;br&gt;Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]].&lt;br&gt;&lt;br&gt;</description>
+        <persons>
+          <person id="0">Mithro</person>
+        </persons>
+        <links>
+          <link>http://fomu.im</link>
         </links>
       </event>
       <event id="1203" guid="0d40455d-ca39-4e1f-b040-f24594ff005d">

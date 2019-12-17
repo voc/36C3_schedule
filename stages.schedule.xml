@@ -1,5 +1,5 @@
 <schedule>
-  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium</version>
+  <version>awk; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -5811,6 +5811,35 @@ Dieser Talk behandelt, wie sehr sich die verkaufte Hardware sowie Software von d
         <attachments/>
         <answers/>
       </event>
+      <event id="377" guid="6bacef9b-6bf0-572d-82bc-cdd5c254c2c1">
+        <logo/>
+        <date>2019-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>01:30</duration>
+        <room>OIO Stage</room>
+        <slug>QSKPAM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/QSKPAM/</url>
+        <title>Autocomplete Texting</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Mitmachspass mit Autocomplete: Entdecke KI-Seele deines Smartphones</abstract>
+        <description>Ein Spiel mit dem Publikum: &#13;
+Menschen nutzen die Autocomplete/Predict-Funktion ihres Mobilgerätes, um basierend auf einem (wechselnden) vorgegebenen ersten Wort Sätze zu bilden, also immer nur das nächste vorgeschlagene Wort zu bestätigen. &#13;
+Die Ergebnisse werden mehr oder minder live und total willkürlich ausgewählt verlesen.&#13;
+Auch wenn's erstmal sinnlos erscheint: Und auch wenn den Absendenden Anonymität zugesichert wird und im Gegensatz Schummeln verboten ist: Die Art der Sätze, die die trainierte/konditionierte Maschine dabei hervorbringt  offenbaren mindestens einen eigenen Charakter oder sagen zumindest etwas über die bevorzugte Nutzung des Gerätes.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Adorfer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="OIO Workshop">
       <event id="347" guid="bf48fa55-92a1-5481-a14a-f77cc0d4fccb">
@@ -8697,6 +8726,32 @@ with activists in eastern european countries and asian cities.</abstract>
         <attachments/>
         <answers/>
       </event>
+      <event id="350" guid="f5910185-f9b5-5d5a-b2df-fdfce6b8a8b9">
+        <logo>/media/36c3-oio/images/CJFWMY/PleskPahil_portrait_400x400_mVnE9V5.jpg</logo>
+        <date>2019-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>CJFWMY</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/CJFWMY/</url>
+        <title>Episode VIII - Die letzten Freifunker?</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Freifunk steht für freie Kommunikation in digitalen Datennetzen. Reicht dieser Slogan aus, um die Communities wachsen und die Marke Freifunk bei den Menschen in unserem Land bekannt zu machen? Was können wir tun, um nicht bald die letzten Freifunker zu sein und insbesondere eine engagierte junge Generation anzusprechen, die Informationen ganz anders filtert und verarbeitet als GenX oder Baby Boomers? In diesem interaktiven Talk mit einer Marketingexpertin aus der IT Branche, geht es um die Identität von Freifunk und warum 8 Sekunden entscheidend sind.</abstract>
+        <description>Freie Kommunikation in digitalen Datennetzen - ein wichtiges Gut, für das Freifunk steht. Aber wie steht es um die Marke Freifunk in Städten, Gemeinden, Kommunen und der Bevölkerung? Gibt es Nachwuchssorgen in den Communities und könnten wir nicht schon viel weiter sein mit unserem 'Netzausbau'? In diesem Talk möchte ich mit Euch gemeinsam einen kritischen Blick auf Freifunk von der Marketingseite her werfen und Ideen entwickeln, wie wir viele Menschen einladen können mitzumachen sodass Freifunk zu einem wichtigen Bestandteil ihres digitalen Lebens wird. Je mehr aktive Mitglieder unsere communities haben, desto eher können wir das umsetzen, worüber Politik und etablierte Wirtschaft primär nur reden: Digitalisierung und digitale Transformation vorantreiben - in Stadt und Land.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="124">Glitzi</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="388" guid="81b0de17-dbef-5da7-80e8-4d9ae563a4fd">
         <logo/>
         <date>2019-12-29T19:00:00+01:00</date>
@@ -10770,6 +10825,36 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
       </event>
     </room>
     <room name="OIO Workshop">
+      <event id="378" guid="3d0efe4f-63da-5a8b-822a-b0ba99692ed3">
+        <logo/>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:59</duration>
+        <room>OIO Workshop</room>
+        <slug>A93MNM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/A93MNM/</url>
+        <title>Freifunk, was tun, damit 2020 kein weiteres 2019 wird?</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 2 hours</type>
+        <language>de</language>
+        <abstract>Wie soll es mit dem Freifunk weitergehen? &#13;
+Admin-Mangel, zunehmende Finanzierungsprobleme, unerfüllte Erwartungen?</abstract>
+        <description>Auch wenn die c't-Aktion das Schlimmste im Jahr 2019 abgewendet hat, so ist es doch nur ein Jahr der Fortsetzung von 2018 gewesen: Community-Sterben, kein Lichtblick bei der Gemeinnützigkeit, immer weniger Bedarf/Verständnis für das was Freifunkende unter "freies Wlan" verstehen, umgekehrt immer größere Schere zwichen dem was Freifunk realistisch an Bandbreiten liefern und Verfügbarkeiten garantieren kann und dem was inzwischen von vielen Nutzenden erwartet wird. In Summe immer weniger Spass am Gerät für die verbliebenen Nutzenden. &#13;
+Neben der Bestandsaufnahme "Was wir beobachten" und "warum das vermutlich so ist": &#13;
+Können wir es ändern? Wollen wir es ändern? Wie kann man sich neu orientieren, wenn alle bisherigen Rezepte versagt haben. Oder wie fährt man Communties herunter, damit zumindest die Außendarstellung nicht völlig desaströs ist?&#13;
+Dieser Workshop richtet sich an Menschen, die mehr als 1-2 Jahren schon Freifunk-Geschichte erlebt haben. Um Lösungsstrategien zu diskutieren. Ein ähnlich gelagerter Forenthread zur Einstimmung: https://forum.freifunk.net/t/rueckgang-von-communities-rettungsleine/21507/38</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="6">Adorfer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="346" guid="51138520-7dc9-5c59-997b-76c4d0ca9f24">
         <logo/>
         <date>2019-12-30T15:00:00+01:00</date>

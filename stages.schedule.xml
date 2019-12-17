@@ -1,5 +1,5 @@
 <schedule>
-  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2</version>
+  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3541,6 +3541,249 @@ After identification of related messages, we dumped ECM and BCM micro-controller
         <links/>
         <attachments/>
       </event>
+      <event id="3150" guid="8864b899-1e15-55de-a952-0daa4d50e267">
+        <logo/>
+        <date>2019-12-28T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>USUJZB</slug>
+        <url>https://c3lt.de/36c3/talk/USUJZB/</url>
+        <title>Lightning Talks Introduction Day 2</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>A short introduction to the Lightning Talks Day 2 session</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="1">gedsic</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3160" guid="8063162a-42b1-583c-90f9-293d6574139f">
+        <logo/>
+        <date>2019-12-28T11:45:00+01:00</date>
+        <start>11:45</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>KKUYRL</slug>
+        <url>https://c3lt.de/36c3/talk/KKUYRL/</url>
+        <title>JMAP &amp; Ltt.rs</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>An introduction to the JSON Meta Application Protocol, a spiritual successor to IMAP &amp; Submission, and into Ltt.rs one of the first clients to use it.</abstract>
+        <description>The [JSON Meta Application Protocol](https://jmap.io) is a recent IETF standard meant to replace IMAP &amp; Submission for certain scenarios (mostly mobile and web).&#13;
+This talk will give a very brief introduction on why the protocol is needed, how it looks like and will showcase [Ltt.rs for Andnroid](https://ltt.rs) a o-frills, easy to use, easy to maintain Email client for Android based on JMAP.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="158">Daniel Gultsch</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3166" guid="2c2cab5c-fa94-5864-8a45-42ca7ff03b9f">
+        <logo/>
+        <date>2019-12-28T11:50:00+01:00</date>
+        <start>11:50</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>BGNPT3</slug>
+        <url>https://c3lt.de/36c3/talk/BGNPT3/</url>
+        <title>Learning from Open Hardware: DevOps and Continuous Integration for the Production of Big Stuff</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>What is Missing to Prototype and Make Big Machines, Cars, Trucks, Spaceships Really Fast?</abstract>
+        <description>Continuous Integration was a big buzzword with software projects already years ago. In projects as our Open Hardware Pocket Science Lab we take the idea of Development Operations a step further and apply these concepts to hardware. The increased speed of development and production with a click almost feels like automatic deployment. What are the next steps to apply this to industrial machine production and solve problems of our times such as the lack of sustainable development?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="62">Mario Behling</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3155" guid="bca1ec84-e62d-528a-b254-68401ece6c7c">
+        <logo/>
+        <date>2019-12-28T12:35:00+01:00</date>
+        <start>12:35</start>
+        <duration>00:15</duration>
+        <room>Borg</room>
+        <slug>MN8DFG</slug>
+        <url>https://c3lt.de/36c3/talk/MN8DFG/</url>
+        <title>15 minute break - 15 Minuten Pause</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>15 minute break - 15 Minuten Pause</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="1">gedsic</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3157" guid="de010e94-d694-5c0d-becf-f8c849ef8e85">
+        <logo/>
+        <date>2019-12-28T12:50:00+01:00</date>
+        <start>12:50</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>CVH7UU</slug>
+        <url>https://c3lt.de/36c3/talk/CVH7UU/</url>
+        <title>Accessibility for (adult) autistics at larger events</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Basic guide how to care for autistics at larger events</abstract>
+        <description>* accept uncommon behavior and allow people to leave rooms&#13;
+* don't force people into overstimulating situations&#13;
+* make a predictable schedule&#13;
+* school your paramedic&#13;
+* bonus: help with nonverbal communication</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="155">Benjamin Wand</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3165" guid="aa7c8be9-2f05-562e-960e-12c7d35bf4cd">
+        <logo/>
+        <date>2019-12-28T12:55:00+01:00</date>
+        <start>12:55</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>F9979K</slug>
+        <url>https://c3lt.de/36c3/talk/F9979K/</url>
+        <title>"There's javascript in my powerplug!" - How I found my first CVE</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>I will tell the story how I found my first CVE by exploiting a "smart" iot powerplug and disclose details &amp; POC for (unpublished) CVE-2019-18842.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="160">harryr</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3158" guid="26550232-d563-51d9-b234-1250a298711c">
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>YRQHDE</slug>
+        <url>https://c3lt.de/36c3/talk/YRQHDE/</url>
+        <title>Tesla Radar</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Tesla vehicles with 'Phone Key' transmit a unique ID.Tesla Radar tracks these IDs and creates a heat-map in order to raise awareness for the issue.</abstract>
+        <description>Newer Tesla vehicles (eg. Tesla Model 3) transmit unique IDs via Bluetooth that does not change over time an that cannot be disabled by the owner. Tesla stated, that they have no intentions (as of July 2019) to change the implementation of the 'Phone Key' feature to a privacy friendly version. &#13;
+&#13;
+in order to raise awareness for this shortcoming, the Android app Tesla Radar gamifies the process of spotting Tesla vehicles with 'Phone Key' feature around the globe.&#13;
+&#13;
+https://www.teslaradar.com/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="157">Martin Herfurt</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3163" guid="ef7a3150-d3e5-5fbd-a03f-55c89f506a2f">
+        <logo/>
+        <date>2019-12-28T13:05:00+01:00</date>
+        <start>13:05</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>UWMXYZ</slug>
+        <url>https://c3lt.de/36c3/talk/UWMXYZ/</url>
+        <title>Open Source Licenses: Where they come from</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Introduction to Open Source Initiative's license review process.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="73">Hong Phuc Dang</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3159" guid="477ab2d2-bd6e-5c90-8130-d5111e51ea42">
+        <logo/>
+        <date>2019-12-28T13:10:00+01:00</date>
+        <start>13:10</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>8WSHJV</slug>
+        <url>https://c3lt.de/36c3/talk/8WSHJV/</url>
+        <title>Soldering Workshops at the Hardware Hacking Area</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>I will give an overview of the workshops taught at the Hardware Hacking Area.</abstract>
+        <description>https://events.ccc.de/congress/2019/wiki/index.php/Assembly:Hardware_Hacking_Area</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="156">Emily Hammes</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="Clarke">
       <event id="10575" guid="4b1df5b6-5436-456f-936b-77ccfd26698f">
@@ -6734,6 +6977,58 @@ Durchs Sporangium katapultieren wie immer julika &amp; Rainer</description>
         </links>
         <attachments/>
       </event>
+      <event id="3151" guid="60e58731-e2b4-5bdb-9f8d-fe33ed1c744b">
+        <logo/>
+        <date>2019-12-29T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>3SDLF7</slug>
+        <url>https://c3lt.de/36c3/talk/3SDLF7/</url>
+        <title>Lightning Talks Introduction Day 3</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>A short introduction to the Lightning Talks Day 2 session</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="1">gedsic</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3154" guid="cda64c9e-b230-589a-ace0-6beca2693eff">
+        <logo/>
+        <date>2019-12-29T12:35:00+01:00</date>
+        <start>12:35</start>
+        <duration>00:15</duration>
+        <room>Borg</room>
+        <slug>WBNFAZ</slug>
+        <url>https://c3lt.de/36c3/talk/WBNFAZ/</url>
+        <title>15 minute break - 15 Minuten Pause</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>15 minute break - 15 Minuten Pause</abstract>
+        <description>15 minute break - 15 Minuten Pause</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="1">gedsic</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="Clarke">
       <event id="10519" guid="88a7a303-c577-4a7b-80eb-c96e344c1db2">
@@ -9633,6 +9928,84 @@ Der Technologiepfad der Elektromobilität gilt als eingeschlagen, der Erfolg ihr
         </persons>
         <links/>
         <attachments/>
+      </event>
+      <event id="3152" guid="6d8bfcf4-12bf-576d-9747-d7e02d2d6571">
+        <logo/>
+        <date>2019-12-30T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>MY9A93</slug>
+        <url>https://c3lt.de/36c3/talk/MY9A93/</url>
+        <title>Lightning Talks Introduction Day 4</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>A short introduction to the Lightning Talks Day 4 session</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="1">gedsic</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3153" guid="f33dd7b7-99d6-574b-9282-26986b5a0ea0">
+        <logo/>
+        <date>2019-12-30T12:20:00+01:00</date>
+        <start>12:20</start>
+        <duration>00:10</duration>
+        <room>Borg</room>
+        <slug>PYVARR</slug>
+        <url>https://c3lt.de/36c3/talk/PYVARR/</url>
+        <title>10 minute break - 10 Minuten Pause</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>10 minute break - 10 Minuten Pause</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="1">gedsic</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3162" guid="854de65f-f649-5168-b6c7-1734534bac14">
+        <logo/>
+        <date>2019-12-30T13:10:00+01:00</date>
+        <start>13:10</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>CUC3CT</slug>
+        <url>https://c3lt.de/36c3/talk/CUC3CT/</url>
+        <title>Natural Language Processing Is Harder Than You Think: Challenges and Consequences</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Despite many amazing (technical) results, NLP is facing both linguistic and ethical challenges. Given the rise of NLP, we are facing the consequences.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="152">Ingo Kleiber</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="Clarke">

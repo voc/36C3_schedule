@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2",
+    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -3552,6 +3552,294 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 3150,
+                "guid": "8864b899-1e15-55de-a952-0daa4d50e267",
+                "logo": "",
+                "date": "2019-12-28T11:30:00+01:00",
+                "start": "11:30",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "USUJZB",
+                "url": "https://c3lt.de/36c3/talk/USUJZB/",
+                "title": "Lightning Talks Introduction Day 2",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "A short introduction to the Lightning Talks Day 2 session",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 1,
+                    "code": "FGUN9A",
+                    "public_name": "gedsic",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3160,
+                "guid": "8063162a-42b1-583c-90f9-293d6574139f",
+                "logo": "",
+                "date": "2019-12-28T11:45:00+01:00",
+                "start": "11:45",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "KKUYRL",
+                "url": "https://c3lt.de/36c3/talk/KKUYRL/",
+                "title": "JMAP & Ltt.rs",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "An introduction to the JSON Meta Application Protocol, a spiritual successor to IMAP & Submission, and into Ltt.rs one of the first clients to use it.",
+                "description": "The [JSON Meta Application Protocol](https://jmap.io) is a recent IETF standard meant to replace IMAP & Submission for certain scenarios (mostly mobile and web).\r\nThis talk will give a very brief introduction on why the protocol is needed, how it looks like and will showcase [Ltt.rs for Andnroid](https://ltt.rs) a o-frills, easy to use, easy to maintain Email client for Android based on JMAP.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 158,
+                    "code": "DGR3KH",
+                    "public_name": "Daniel Gultsch",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3166,
+                "guid": "2c2cab5c-fa94-5864-8a45-42ca7ff03b9f",
+                "logo": "",
+                "date": "2019-12-28T11:50:00+01:00",
+                "start": "11:50",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "BGNPT3",
+                "url": "https://c3lt.de/36c3/talk/BGNPT3/",
+                "title": "Learning from Open Hardware: DevOps and Continuous Integration for the Production of Big Stuff",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "What is Missing to Prototype and Make Big Machines, Cars, Trucks, Spaceships Really Fast?",
+                "description": "Continuous Integration was a big buzzword with software projects already years ago. In projects as our Open Hardware Pocket Science Lab we take the idea of Development Operations a step further and apply these concepts to hardware. The increased speed of development and production with a click almost feels like automatic deployment. What are the next steps to apply this to industrial machine production and solve problems of our times such as the lack of sustainable development?",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 62,
+                    "code": "TPYWVP",
+                    "public_name": "Mario Behling",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3155,
+                "guid": "bca1ec84-e62d-528a-b254-68401ece6c7c",
+                "logo": "",
+                "date": "2019-12-28T12:35:00+01:00",
+                "start": "12:35",
+                "duration": "00:15",
+                "room": "Borg",
+                "slug": "MN8DFG",
+                "url": "https://c3lt.de/36c3/talk/MN8DFG/",
+                "title": "15 minute break - 15 Minuten Pause",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "15 minute break - 15 Minuten Pause",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 1,
+                    "code": "FGUN9A",
+                    "public_name": "gedsic",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3157,
+                "guid": "de010e94-d694-5c0d-becf-f8c849ef8e85",
+                "logo": "",
+                "date": "2019-12-28T12:50:00+01:00",
+                "start": "12:50",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "CVH7UU",
+                "url": "https://c3lt.de/36c3/talk/CVH7UU/",
+                "title": "Accessibility for (adult) autistics at larger events",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Basic guide how to care for autistics at larger events",
+                "description": "* accept uncommon behavior and allow people to leave rooms\r\n* don't force people into overstimulating situations\r\n* make a predictable schedule\r\n* school your paramedic\r\n* bonus: help with nonverbal communication",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 155,
+                    "code": "DKNEZB",
+                    "public_name": "Benjamin Wand",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3165,
+                "guid": "aa7c8be9-2f05-562e-960e-12c7d35bf4cd",
+                "logo": "",
+                "date": "2019-12-28T12:55:00+01:00",
+                "start": "12:55",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "F9979K",
+                "url": "https://c3lt.de/36c3/talk/F9979K/",
+                "title": "\"There's javascript in my powerplug!\" - How I found my first CVE",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "I will tell the story how I found my first CVE by exploiting a \"smart\" iot powerplug and disclose details & POC for (unpublished) CVE-2019-18842.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "GMRRNX",
+                    "public_name": "harryr",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3158,
+                "guid": "26550232-d563-51d9-b234-1250a298711c",
+                "logo": "",
+                "date": "2019-12-28T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "YRQHDE",
+                "url": "https://c3lt.de/36c3/talk/YRQHDE/",
+                "title": "Tesla Radar",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Tesla vehicles with 'Phone Key' transmit a unique ID.Tesla Radar tracks these IDs and creates a heat-map in order to raise awareness for the issue.",
+                "description": "Newer Tesla vehicles (eg. Tesla Model 3) transmit unique IDs via Bluetooth that does not change over time an that cannot be disabled by the owner. Tesla stated, that they have no intentions (as of July 2019) to change the implementation of the 'Phone Key' feature to a privacy friendly version. \r\n\r\nin order to raise awareness for this shortcoming, the Android app Tesla Radar gamifies the process of spotting Tesla vehicles with 'Phone Key' feature around the globe.\r\n\r\nhttps://www.teslaradar.com/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 157,
+                    "code": "M8LBF3",
+                    "public_name": "Martin Herfurt",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3163,
+                "guid": "ef7a3150-d3e5-5fbd-a03f-55c89f506a2f",
+                "logo": "",
+                "date": "2019-12-28T13:05:00+01:00",
+                "start": "13:05",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "UWMXYZ",
+                "url": "https://c3lt.de/36c3/talk/UWMXYZ/",
+                "title": "Open Source Licenses: Where they come from",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Introduction to Open Source Initiative's license review process.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 73,
+                    "code": "PWJ7VT",
+                    "public_name": "Hong Phuc Dang",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3159,
+                "guid": "477ab2d2-bd6e-5c90-8130-d5111e51ea42",
+                "logo": "",
+                "date": "2019-12-28T13:10:00+01:00",
+                "start": "13:10",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "8WSHJV",
+                "url": "https://c3lt.de/36c3/talk/8WSHJV/",
+                "title": "Soldering Workshops at the Hardware Hacking Area",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "I will give an overview of the workshops taught at the Hardware Hacking Area.",
+                "description": "https://events.ccc.de/congress/2019/wiki/index.php/Assembly:Hardware_Hacking_Area",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 156,
+                    "code": "GYFDHK",
+                    "public_name": "Emily Hammes",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "Clarke": [
@@ -6807,6 +7095,70 @@
                   }
                 ],
                 "attachments": []
+              },
+              {
+                "id": 3151,
+                "guid": "60e58731-e2b4-5bdb-9f8d-fe33ed1c744b",
+                "logo": "",
+                "date": "2019-12-29T11:30:00+01:00",
+                "start": "11:30",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "3SDLF7",
+                "url": "https://c3lt.de/36c3/talk/3SDLF7/",
+                "title": "Lightning Talks Introduction Day 3",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "A short introduction to the Lightning Talks Day 2 session",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 1,
+                    "code": "FGUN9A",
+                    "public_name": "gedsic",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3154,
+                "guid": "cda64c9e-b230-589a-ace0-6beca2693eff",
+                "logo": "",
+                "date": "2019-12-29T12:35:00+01:00",
+                "start": "12:35",
+                "duration": "00:15",
+                "room": "Borg",
+                "slug": "WBNFAZ",
+                "url": "https://c3lt.de/36c3/talk/WBNFAZ/",
+                "title": "15 minute break - 15 Minuten Pause",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "15 minute break - 15 Minuten Pause",
+                "description": "15 minute break - 15 Minuten Pause",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 1,
+                    "code": "FGUN9A",
+                    "public_name": "gedsic",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "Clarke": [
@@ -9788,6 +10140,102 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 3152,
+                "guid": "6d8bfcf4-12bf-576d-9747-d7e02d2d6571",
+                "logo": "",
+                "date": "2019-12-30T11:30:00+01:00",
+                "start": "11:30",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "MY9A93",
+                "url": "https://c3lt.de/36c3/talk/MY9A93/",
+                "title": "Lightning Talks Introduction Day 4",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "A short introduction to the Lightning Talks Day 4 session",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 1,
+                    "code": "FGUN9A",
+                    "public_name": "gedsic",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3153,
+                "guid": "f33dd7b7-99d6-574b-9282-26986b5a0ea0",
+                "logo": "",
+                "date": "2019-12-30T12:20:00+01:00",
+                "start": "12:20",
+                "duration": "00:10",
+                "room": "Borg",
+                "slug": "PYVARR",
+                "url": "https://c3lt.de/36c3/talk/PYVARR/",
+                "title": "10 minute break - 10 Minuten Pause",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "10 minute break - 10 Minuten Pause",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 1,
+                    "code": "FGUN9A",
+                    "public_name": "gedsic",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3162,
+                "guid": "854de65f-f649-5168-b6c7-1734534bac14",
+                "logo": "",
+                "date": "2019-12-30T13:10:00+01:00",
+                "start": "13:10",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "CUC3CT",
+                "url": "https://c3lt.de/36c3/talk/CUC3CT/",
+                "title": "Natural Language Processing Is Harder Than You Think: Challenges and Consequences",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Despite many amazing (technical) results, NLP is facing both linguistic and ethical challenges. Given the rise of NLP, we are facing the consequences.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 152,
+                    "code": "HPYWBU",
+                    "public_name": "Ingo Kleiber",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "Clarke": [

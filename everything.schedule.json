@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-16 22:50",
+    "version": "awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 01:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -6353,7 +6353,13 @@
                 "language": "en",
                 "abstract": "",
                 "description": "This is a meet-up of people by invitation only to get to know each other and combine knowledge around digital sustainability. If you think you have been missed to get invited, please get in contact.\n",
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
+                    "public_name": "Dreirik"
+                  }
+                ],
                 "links": []
               },
               {

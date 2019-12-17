@@ -1,5 +1,5 @@
 <schedule>
-  <version>awk; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 15:10</version>
+  <version>bison; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 15:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -500,7 +500,9 @@ In this talk I will share the knowledge I have gathered so far, document&#13;
 my methods and also explain how to go about a similar project.&#13;
 &#13;
 I also plan to discuss the possibility of an open source replacement &#13;
-firmware for the Management Engine.</description>
+firmware for the Management Engine. &#13;
+&#13;
+The information in this talk covers ME version 11.x, which is found in 6th and 7th generation chipsets (Skylake/Kabylake era), most of the hardware related information is also relevant for newer chipsets.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -1200,19 +1202,20 @@ In our talk we also discuss the SQLite internals and our novel approach for abus
     <room name="Eliza">
       <event id="11239" guid="0d0cb392-278b-4b74-abfc-58a87a38a074">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11239.html</url>
-        <logo>/system/events/logos/000/011/239/large/microsoft-project-natick-2.png?1574520332</logo>
+        <logo>/system/events/logos/000/011/239/large/amz_2.png?1576581694</logo>
         <date>2019-12-27T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>01:00</duration>
         <room>Eliza</room>
-        <slug>36c3-11239-the_interface_deconstructed</slug>
-        <title>The Interface, Deconstructed</title>
-        <subtitle/>
+        <slug>36c3-11239-environmental_impact_of_surveillance_adtech_and_legacy_code</slug>
+        <title>Environmental impact of Surveillance, Adtech and Legacy Code</title>
+        <subtitle>The hidden economic and environmental costs of user monetization processes</subtitle>
         <track>Art &amp; Culture</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>Our so-called networked society has failed so far to transpose the logic of interconnectedness into our lives. Citizens are becoming increasingly machine-like and dependent on data, threatening the connection between humans and their natural habitats.</abstract>
-        <description>Our so-called networked society has failed so far to transpose the logic of interconnectedness into our lives. Citizens are becoming increasingly machine-like and dependent on data, threatening the connection between humans and their natural habitats. Although most of our daily transactions are carried out through electronic devices, we know very little of the apparatus that facilitates such interactions, or in other words, about the factory that lies beyond the interface. In this talk, artist Joana Moll will try to trace the connection between interfaces, patriarchy, intimacy, data, language, IT business models, free labour, surveillance, CO2 and domesticated electricity.</description>
+        <abstract>During this talk, Joana will reveal the hidden economic and&#13;
+environmental costs of user monetization processes taking Amazon as a case study.</abstract>
+        <description>This talk will shed light on the often unacknowledged but aggressive exploitation of online users, embedded at the core of the so-called internet companies’ business strategies. Such strategies rely on apparently neutral, personalized user experiences afforded by attractive interfaces. These interfaces obfuscate sophisticated business models embedded in endless pages of indecipherable code, all of which are activated by user labor. In turn, these strategies have a significant energy cost, part of which is involuntarily assumed by the user. To put it bluntly, the user is not just exploited by means of their free labor but is also forced to assume the energy costs of such exploitation. </description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -4518,10 +4521,8 @@ This talk is a primer in nuclear physics with focus on conversion of weapon grad
         <track>Security</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>Xbox 360 video game console had a number of widely known hacks for firmware of its optical disc drives. However, it was never the case with Blu-ray disc drives of Sony PlayStation video game consoles. In fact, up until recently there was no much information available on this subject publicly. In this presentation, I would like to share my journey of delving deep into internals and security of Sony PlayStation Blu-ray disc drives. As games are distributed within optical media, those embedded devices were intended to contain the best security possible. I will demonstrate a multiple hardware hacks and several software vulnerabilities that allowed me to dump firmware and get code execution on multiple models of Sony PlayStation Blu-ray disc drives.</abstract>
-        <description>In this presentation, I would like to change that and I will shed a light on internals and security of Sony PlayStation Blu-ray disc drives.&#13;
-&#13;
-In this presentation, I will share the following:&#13;
+        <abstract>Xbox 360 video game console had a number of widely known hacks for firmware of its optical disc drives. However, it was never the case with Blu-ray disc drives of Sony PlayStation video game consoles. In fact, up until recently there was no much information available on this subject publicly. In this presentation, I would like to share my journey of delving deep into internals and security of Sony PlayStation Blu-ray disc drives. As games are distributed within optical media, those embedded devices were intended to contain the best security possible. I will demonstrate a multiple hardware hacks and several software vulnerabilities that allowed to dump firmware and get code execution on multiple models of Sony PlayStation Blu-ray disc drives.</abstract>
+        <description>In this presentation, I will share the following:&#13;
 1)	I will provide in-depth analysis of vulnerabilities and their exploitation to achieve code execution on multiple models of Sony PlayStation Blu-ray disc drives&#13;
 2)	I will discuss problems that I’ve encountered while reverse engineering the firmware and how I solved (some of) them&#13;
 3)	I will talk about security features of Sony PlayStation Blu-ray disc drives&#13;
@@ -5513,8 +5514,8 @@ Die Mittelmeer-Monologe liefern persönliche und intime Einblicke in die weitesg
         <duration>01:00</duration>
         <room>Dijkstra</room>
         <slug>36c3-10816-don_t_ruck_us_too_hard_-_owning_ruckus_ap_devices</slug>
-        <title>Don't Ruck Us Too Hard - Owning Ruckus AP devices</title>
-        <subtitle/>
+        <title>Don't Ruck Us Too Hard - Owning Ruckus AP Devices</title>
+        <subtitle>3 different RCE vulnerabilities on Ruckus Wireless access points devices.</subtitle>
         <track>Security</track>
         <type>lecture</type>
         <language>en</language>
@@ -5615,7 +5616,7 @@ In my talk, I will give a brief introduction to the rapidly developing field of 
       </event>
       <event id="10892" guid="1fa314fd-c59a-450b-8347-05224b473972">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10892.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/892/large/switzerland-2704160_640.jpg?1576511152</logo>
         <date>2019-12-28T14:10:00+01:00</date>
         <start>14:10</start>
         <duration>01:00</duration>
@@ -5629,24 +5630,23 @@ In my talk, I will give a brief introduction to the rapidly developing field of 
         <abstract>Die Intensität des Kampfes um die Freiheit im digitalen Raum lässt auch in der Schweiz nicht nach. Wir blicken auf das netzpolitische Jahr 2019 zwischen Bodensee und Matterhorn zurück. Wir behandeln jene Themen, die relevant waren und relevant bleiben.</abstract>
         <description>Weiter zeigen wir, was von der Digitalen Gesellschaft in der Schweiz im neuen Jahr zu erwarten ist.&#13;
 &#13;
-Themen sind unter anderem:&#13;
-&lt;ul&gt;&#13;
-    &lt;li&gt;&lt;b&gt;Elektronische Identifizierung (E-ID):&lt;/b&gt; Das Gesetz, welches die elektronische Identifizierung regelt, ist verabschiedet worden. Der digitale Ausweis soll von privaten Unternehmen herausgegeben werden. Wir haben das Referendum gegen das Gesetz ergriffen.&lt;/li&gt;&#13;
+&lt;strong&gt;Themen sind unter anderem:&lt;/strong&gt;&#13;
 &#13;
-    &lt;li&gt;&lt;b&gt;E-Voting:&lt;/b&gt; Ein öffentlicher Test des letzten sich im Rennen befindenden Systems war vernichtend. Wie es nun weitergeht im Kampf für das Vertrauen in die direkte Demokratie in der Schweiz.&lt;/li&gt;&#13;
+&lt;strong&gt;Elektronische Identifizierung (E-ID):&lt;/strong&gt; Das Gesetz, welches die elektronische Identifizierung regelt, ist verabschiedet worden. Der digitale Ausweis soll von privaten Unternehmen herausgegeben werden. Wir haben das Referendum gegen das Gesetz ergriffen.&#13;
 &#13;
-    &lt;li&gt;&lt;b&gt;Netzsperren:&lt;/b&gt; Das erste Gesetz, in dem Netzsperren explizit verankert sind, ist dieses Jahr in Kraft getreten. Wie es in der Umsetzung aussieht&lt;/li&gt;&#13;
+&lt;strong&gt;E-Voting:&lt;/strong&gt; Ein öffentlicher Test des letzten sich im Rennen befindenden Systems war vernichtend. Wie es nun weitergeht im Kampf für das Vertrauen in die direkte Demokratie in der Schweiz.&#13;
 &#13;
-    &lt;li&gt;&lt;b&gt;Leistungsschutzrecht:&lt;/b&gt; Was es ins neue Urheberrechtsgesetz geschafft hat - und wie das Leistungsschutzrecht gebodigt wurde.&lt;/li&gt;&#13;
+&lt;strong&gt;Netzsperren:&lt;/strong&gt; Das erste Gesetz, in dem Netzsperren explizit verankert sind, ist dieses Jahr in Kraft getreten. Wie es in der Umsetzung aussieht&#13;
 &#13;
-    &lt;li&gt;&lt;b&gt;Datenschutz:&lt;/b&gt; Wo in der Schweiz besonders viel «Datenreichtum» zu beobachten war und was es mit der Login- bzw. Tracking-Allianz auf sich hat.&lt;/li&gt;&#13;
+&lt;strong&gt;Leistungsschutzrecht:&lt;/strong&gt; Was es ins neue Urheberrechtsgesetz geschafft hat - und wie das Leistungsschutzrecht bezwungen wurde.&#13;
 &#13;
-    &lt;li&gt;&lt;b&gt;Netzneutralität:&lt;/b&gt; Nach einem langen Kampf erhält die Schweiz eine gesetzlich verankerte Netzneutralität. Im kommenden Jahr wird das Gesetz in Kraft treten.&lt;/li&gt;&#13;
+&lt;strong&gt;Datenschutz:&lt;/strong&gt; Wo in der Schweiz besonders viel «Datenreichtum» zu beobachten war und was es mit der Login- bzw. Tracking-Allianz auf sich hat.&#13;
 &#13;
-    &lt;li&gt;&lt;b&gt;Digitale Gesellschaft in der Schweiz:&lt;/b&gt; Winterkongress, Big Brother Awards und andere Aktivitäten.&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
+&lt;strong&gt;Netzneutralität:&lt;/strong&gt; Nach einem langen Kampf erhält die Schweiz eine gesetzlich verankerte Netzneutralität. Im kommenden Jahr wird das Gesetz in Kraft treten.&#13;
 &#13;
-Nach dem Vortrag sind alle interessierten Personen eingeladen, die Diskussion in einem Workshop fortzusetzen. Es werden Aktivistinnen und Aktivisten von verschiedenen Organisationen der Netzpolitik in der Schweiz anwesend sein (Digitale Gesellschaft, CCC-CH, CCCZH, Piratenpartei Schweiz).</description>
+&lt;strong&gt;Digitale Gesellschaft in der Schweiz:&lt;/strong&gt; Winterkongress, Big Brother Awards und andere Aktivitäten.&#13;
+&#13;
+Nach dem Vortrag sind alle interessierten Personen eingeladen, die Diskussion in einem &lt;a href="https://events.ccc.de/congress/2019/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk"&gt;Treffen&lt;/a&gt; fortzusetzen. Es werden Aktivistinnen und Aktivisten von verschiedenen Organisationen der Netzpolitik in der Schweiz anwesend sein (Digitale Gesellschaft, CCC-CH, CCCZH, Piratenpartei Schweiz).</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -9643,7 +9643,7 @@ Basically "BitLocker for Linux" is the keyword. By extending LUKS(2) and cryptse
 4. Detecting BIOS manipulations&#13;
 Talks and news about evil maids, government trojans installed at airport inspections and BIOS-based backdoors are present anywhere. The tpm2-totp project is a clone of Matthew Garrets tpm-totp that he presented at 32c3. It enable the user to authenticate not only the device to be theirs, but also if the BIOS and kernel are still in the same state as they were when they left it.&#13;
 &#13;
-All these use cases are actually running code shipping with more and more distros.&#13;
+Most use cases are actually running code shipping with more and more distros.&#13;
 The talk will give some deeper explanations into each of these and possibly some live demos.</description>
         <recording>
           <license/>
@@ -10194,7 +10194,7 @@ Degrowth ist eine politische Bewegung von Wissenschaftler*innen und Aktivist*inn
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="8992">Anja</person>
+          <person id="8992">Anja Höfner</person>
         </persons>
         <links/>
         <attachments/>
@@ -10235,7 +10235,7 @@ In thinking about this complex space, we formulated the notion of Human-Data Int
       </event>
       <event id="10756" guid="9c139fdf-f96b-4957-865c-565cfc04d476">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10756.html</url>
-        <logo>/system/events/logos/000/010/756/large/190921-ournetworks-presentation.001.jpeg?1571915217</logo>
+        <logo>/system/events/logos/000/010/756/large/blatt3000-pandas.jpg?1576528919</logo>
         <date>2019-12-29T18:50:00+01:00</date>
         <start>18:50</start>
         <duration>01:00</duration>
@@ -10252,11 +10252,9 @@ In thinking about this complex space, we formulated the notion of Human-Data Int
 &lt;p&gt;In this presentation we want to:&lt;/p&gt;&#13;
 &#13;
 &lt;ul&gt;&#13;
-&lt;li&gt;Show work and reflection processes of collectives and groups (look into the discourse of BLATT 3000, Liebe Chaos Verein e. V. in Berlin) on how technology informs art production and how these systemic "meta"-questions can be made the actual means of art, theory and discussion.&lt;/li&gt;&#13;
+&lt;li&gt;Show work and reflection processes of BLATT 3000 and Liebe Chaos Verein e. V. i. G. in Berlin on how technology informs art production and how these systemic "meta"-questions can be made the actual means of art, theory and discussion.&lt;/li&gt;&#13;
 &#13;
-&lt;li&gt;Introduce some technical key-concepts of the p2panda protocol and how offline-first, only-broadcast models / append-only data-types, user authorization through cryptographic keys are interesting for ephemerality, self-organization, non-individuality, decentralization and anonymity in art and theory production.&lt;/li&gt;&#13;
-&#13;
-&lt;li&gt;Discuss questions and needs around questioning frameworks (technologies, festivals, universities, curation as "frameworks") and how the p2panda protocol might help to experiment with them.&lt;/li&gt;&#13;
+&lt;li&gt;Introduce some technical key-concepts of the p2panda protocol and how offline-first, append-only data-types, user authorization through cryptographic keys are interesting for ephemerality, self-organization, non-individuality, decentralization and anonymity in art and theory production.&lt;/li&gt;&#13;
 &#13;
 &lt;li&gt;Present fictional ideas for festivals of the future.&lt;/li&gt;&#13;
 &#13;
@@ -10269,6 +10267,7 @@ In thinking about this complex space, we formulated the notion of Human-Data Int
         <persons>
           <person id="8994">adz</person>
           <person id="9886">sophiiistika</person>
+          <person id="9483">Vincent Ahrend</person>
         </persons>
         <links>
           <link href="https://github.com/p2panda/design-document">p2panda - Design document</link>
@@ -10276,7 +10275,7 @@ In thinking about this complex space, we formulated the notion of Human-Data Int
           <link href="https://liebechaos.org/">Liebe Chaos Verein e. V.</link>
         </links>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/003/896/original/190921-ournetworks-presentation.002.jpeg?1571915217">p2panda</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
       <event id="10890" guid="b600081b-88f8-41b2-b0d2-f790e3e7d6ea">
@@ -11227,6 +11226,27 @@ The will be an extra registration for the workshop which will be linked in this 
         <links>
           <link>https://kinkygeeks.de</link>
         </links>
+      </event>
+      <event id="1206" guid="0a13ed97-d312-4343-9d49-b90c58ec771c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Neues_vom_Datenschutz_und_der_DSGVO</url>
+        <logo/>
+        <date>2019-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1206-session_neues_vom_datenschutz_und_der_dsgvo</slug>
+        <title>Neues vom Datenschutz und der DSGVO</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Vorträge und Diskussion über Datenschutz und die Aktivitäten der Aufsichtsbehörden
+Vorträge und Diskussion zu Datenschutz und die DSGVO, mit Datenschützern und Mitarbeitern der Aufsichtsbehörden.'''Mehr Beschreibung folgt!'''</description>
+        <persons>
+          <person id="0">Alvar Freude</person>
+        </persons>
+        <links/>
       </event>
       <event id="1037" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d5">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
@@ -12963,38 +12983,11 @@ Wir reden über interessante Bücher und erweitern die Liste.Der Workshop ist of
   </day>
   <day index="4" date="2019-12-30" start="2019-12-30T11:00:00+01:00" end="2019-12-30T19:00:00+01:00">
     <room name="Ada">
-      <event id="10976" guid="3029ab5c-df83-48e5-9de6-69d3c222592f">
-        <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10976.html</url>
-        <logo/>
-        <date>2019-12-30T11:30:00+01:00</date>
-        <start>11:30</start>
-        <duration>00:40</duration>
-        <room>Ada</room>
-        <slug>36c3-10976-understanding_millions_of_gates</slug>
-        <title>Understanding millions of gates </title>
-        <subtitle>Introduction to IC reverse engineering for non-chip-reverse-engineers. </subtitle>
-        <track>Hardware &amp; Making</track>
-        <type>lecture</type>
-        <language>en</language>
-        <abstract>Reverse Engineering of integrated circuits is often seen as something only companies can do, as the equipment to image the chip is expensive, and the HR costs to hire enough reverse engineers to then understand the chip even more so. This talk gives a short introduction on the motivation behind understanding your own or someone else’s chip (as a chip manufacturing company), and why it might be important for the rest of us (not a chip manufacturing company). The focus is on understanding what millions of logical gates represent, rather than the physical aspect (delayering, imaging, image processing…), because everyone can do this at home. I will introduce some proposed countermeasures (like logic encryption) and explain if, how and why they fail. </abstract>
-        <description>&#13;
-The talk will give a general overview of the research field and explain why companies are interested in reverse engineering ICs (IP overproduction, Counterfeits, Hardware Trojans), as well as why it’s important for an end user (IC trust, chip failure). Then, I will very shortly introduce the reverse engineering workflow, from decapsulating, delayering, imaging, stitching, image processing and then come to the focus: netlist abstraction. The idea is to show some methods which are currently used in research to understand what netlists represent. Some theory will be explained (circuit design, formal verification of circuits, graph theory…), but I want to keep this to a minimum. Finally, I will show some current ideas on how to make reverse engineering difficult, as well as some attacks on these ideas. The talk does not give insights into how large companies do reverse engineering (i.e. throw money at the problem), but rather show the research side of things, with some of the methods published in the last couple of years, which is something everyone can do at home. &#13;
-</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="8855">Kitty</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="10879" guid="8cd18c98-4e30-4f3c-ab82-90178e7076ad">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10879.html</url>
         <logo/>
-        <date>2019-12-30T12:30:00+01:00</date>
-        <start>12:30</start>
+        <date>2019-12-30T11:30:00+01:00</date>
+        <start>11:30</start>
         <duration>01:00</duration>
         <room>Ada</room>
         <slug>36c3-10879-hal_-_the_open-source_hardware_analyzer</slug>
@@ -13043,6 +13036,33 @@ Our talk requires only minimum prior knowledge on digital hardware.</description
         <links>
           <link href="https://github.com/emsec/hal">HAL on GitHub</link>
         </links>
+        <attachments/>
+      </event>
+      <event id="10976" guid="3029ab5c-df83-48e5-9de6-69d3c222592f">
+        <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10976.html</url>
+        <logo/>
+        <date>2019-12-30T12:50:00+01:00</date>
+        <start>12:50</start>
+        <duration>00:40</duration>
+        <room>Ada</room>
+        <slug>36c3-10976-understanding_millions_of_gates</slug>
+        <title>Understanding millions of gates </title>
+        <subtitle>Introduction to IC reverse engineering for non-chip-reverse-engineers. </subtitle>
+        <track>Hardware &amp; Making</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Reverse Engineering of integrated circuits is often seen as something only companies can do, as the equipment to image the chip is expensive, and the HR costs to hire enough reverse engineers to then understand the chip even more so. This talk gives a short introduction on the motivation behind understanding your own or someone else’s chip (as a chip manufacturing company), and why it might be important for the rest of us (not a chip manufacturing company). The focus is on understanding what millions of logical gates represent, rather than the physical aspect (delayering, imaging, image processing…), because everyone can do this at home. I will introduce some proposed countermeasures (like logic encryption) and explain if, how and why they fail. </abstract>
+        <description>&#13;
+The talk will give a general overview of the research field and explain why companies are interested in reverse engineering ICs (IP overproduction, Counterfeits, Hardware Trojans), as well as why it’s important for an end user (IC trust, chip failure). Then, I will very shortly introduce the reverse engineering workflow, from decapsulating, delayering, imaging, stitching, image processing and then come to the focus: netlist abstraction. The idea is to show some methods which are currently used in research to understand what netlists represent. Some theory will be explained (circuit design, formal verification of circuits, graph theory…), but I want to keep this to a minimum. Finally, I will show some current ideas on how to make reverse engineering difficult, as well as some attacks on these ideas. The talk does not give insights into how large companies do reverse engineering (i.e. throw money at the problem), but rather show the research side of things, with some of the methods published in the last couple of years, which is something everyone can do at home. &#13;
+</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8855">Kitty</person>
+        </persons>
+        <links/>
         <attachments/>
       </event>
       <event id="11218" guid="eaeae62b-555d-4c70-9ea0-5a32d5993489">
@@ -13530,7 +13550,7 @@ All of this is part of a bigger network of refusal, from Fuck Off Google (31C3) 
         </recording>
         <persons>
           <person id="9777">el</person>
-          <person id="8761">Reclaim Club Culture</person>
+          <person id="8761">Rosa Rave</person>
         </persons>
         <links/>
         <attachments/>
@@ -13656,7 +13676,7 @@ Im dritten Teil des Vortrags wird eine Web-Anwendung vorgestellt, die Daten aus 
     <room name="Eliza">
       <event id="11035" guid="3615eddc-bf2c-4c32-9f98-ba4738c82c90">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11035.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/011/035/large/Faire_Digitalisierung_gestalten.png?1576506648</logo>
         <date>2019-12-30T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>00:40</duration>
@@ -13672,72 +13692,29 @@ Der Vortrag setzt sich mit der Frage auseinander, inwiefern die Digitalisierung 
 Schwerpunkt der Analyse bildet die Auseinandersetzung mit dem digitalen Handel. Fast unbemerkt hat sich in der Handelspolitik eine neue Dynamik entwickelt. Führende Tech-Konzerne, allen voran die aus dem Silicon Valley, instrumentalisieren zunehmend das Handelsrecht für ihre Interessen. Dabei geht es längst nicht mehr nur um die Reduzierung von Zöllen auf digitale Produkte wie Software oder einheitliche Standards für Telekommunikationsdienste. Patente auf Künstliche Intelligenz sowie die (Nicht)Regulierung von Datenflüssen sind inzwischen auch Bestandteil handelsrechtlicher Regelungen und Gegenstand kontroverser Debatten in der Welthandelsorganisation WTO. Für die Länder des Globalen Südens – aber nicht nur für sie – steht dabei viel auf dem Spiel, einschließlich der Gefahr eines neuen, digitalen Kolonialismus. &#13;
 Im Vortrag zeigt zudem erste Ansätze zum Aufbau einer fairen und menschenwürdigen Digitalisierung auf. &#13;
 </abstract>
-        <description>Digitaler Handel ist unfairer als analoger Handel&#13;
-Vor 25 Jahren kaufte ein Internetnutzer aus Philadelphia, mit seiner Kreditkarte am Computer eine Audio-CD des Musikers Sting. Der elektronische Handel war geboren. Ein Jahr später verkaufte auch Amazon sein erstes Buch über das Internet. Das Unternehmen aus Seattle startete 1995 als kleiner Online-Buchhändler, weil Bücher robust beim Versand waren und eine ordentliche Gewinnmarge boten.&#13;
-In der Frühphase des elektronischen Handels wurden, wie diese Beispiele zeigen, vor allem physisch greifbare, materielle Güter wie CDs oder Bücher verkauft. Typischerweise über einen Webshop im Internet bestellt, lieferten die Post oder private Paketdienste die Ware dann an die Kund/innen. Das ist bis heute so geblieben. Noch heute stellt der Verkauf physischer Güter den Großteil des elektronischen Handels dar.&#13;
-&#13;
-Neue Produkte aufgrund technischer Fortschritte&#13;
-Mit dem technischen Fortschritt kamen neue Produkte und Vermittlungswege zwischen Anbietern und Nachfragern hinzu, so dass heutzutage auch zahlreiche Dienstleistungen wie Hotelreservierungen, Online-Kurse oder Versicherungsvermittlung angeboten und direkt digital übermittelt werden. &#13;
-Dazu änderten einige Waren auch ihre Gestalt und verwandelten sich vom physischen Produkt ins digitale. So werden jetzt neben gedruckten Büchern auch E-Books über das Internet gehandelt. Die digitalen Produkte bestehen im Wesentlichen aus Daten und Programmen. Ähnliche Transformationen erfuhren Audio- oder Video-CDs, deren Inhalte heutzutage per Webradio oder Streamingdienst konsumiert werden können.&#13;
-&#13;
-Vom E-Commerce zum digitalen Handel&#13;
-Durch die Fortschritte in der Kommunikation mit mobilen Endgeräten und die Entwicklung der Smartphones wurden zahlreiche weitere physische Güter zu digitalen: Flugscheine, Kinotickets oder Landkarten. Per Apps lassen sie sich in digitaler Form nutzen, sei es beim Einchecken auf den Flughäfen, beim Einlass ins Kino oder bei Wandertouren. Auch diese Digitalprodukte werden im Internet gehandelt. Mit der Verlagerung der gehandelten Güter von materiellen Produkten zu immateriellen wandelte sich auch die Begrifflichkeit. So verdrängte der Terminus des „digitalen Handels“ zunehmend den des „elektronischen Handels“. &#13;
+        <description>Vom E-Commerce zum digitalen Handel&#13;
+Vor 25 Jahren kaufte ein Internetnutzer aus Philadelphia, mit seiner Kreditkarte am Computer eine Audio-CD des Musikers Sting. Der elektronische Handel war geboren. Ein Jahr später ging Amazon mit seinem ersten Buch an den Start. Während in der Frühphase des E-Commerce vor allem materielle Güterverkauft wurde, kamen in der Folgezeit, aufgrund technischer Fortschritte, neue Produkte und Vermittlungswege hinzu. Eine Welt ohne digitale Dienstleistungen (wie der Fahrkartenkontrolle per App) und digital übermittelt Produkte (wie z. B. Video-Streaming) ist heutzutage nicht mehr vorstellbar. Mit der Verlagerung der gehandelten Güter von materiellen Produkten zu immateriellen wandelte sich auch die Begrifflichkeit. So verdrängte der Terminus des „digitalen Handels“ zunehmend den des „elektronischen Handels“. &#13;
 &#13;
 Asymmetrische Einbindung des globalen Südens &#13;
 Mit dem digitalen Handel und der Digitalwirtschaft werden häufig große Hoffnungen für den Globalen Süden verknüpft. Die Schaffung neuer, digitaler Märkte sei mit hohen Wachstumsraten verbunden, einhergehend mit einer Steigerung des Wohlstandes, behaupten nicht nur Tech-Konzerne, sondern auch Akteure aus der Entwicklungszusammenarbeit.&#13;
-Wie hat sich nun der Handel mit digitalen Produkten auf die Staaten Afrikas, Asiens und Lateinamerikas ausgewirkt? Ein Bericht der Vereinten Nationen gibt Antwort. Die UNCTAD analysierte welche Regionen von dem Handel mit immateriellen Gütern profitieren und welche nicht. Demnach entfällt gut die Hälfte (51 Prozent) des weltweiten Handelsvolumens auf den asiatisch-pazifischen Raum. Gefolgt von Europa (24 Prozent) und Nordamerika (23 Prozent) – mit jeweils fast einem Viertel des globalen Handelsvolumens. Afrika - einschließl. dem Nahen Osten! -  repräsentiert hingegen nur ein Prozent. Auf Lateinamerika entfällt ebenfalls nur ein Prozent. Damit ist das Gefälle zwischen den verschiedenen Weltregionen beim digitalen Handel noch gravierender als beim analogen Handel. Dort repräsentieren Afrika und Lateinamerika zusammengenommen zumindest acht Prozent des Welthandels.&#13;
 &#13;
-China profitiert, Entwicklungsländer leiden unter Handelsbilanzdefiziten&#13;
-Welche Länder profitieren vom Handel mit immateriellen bzw. digitalen Produkten? Laut einer UNCTAD-Studie (2017) ist China der größte Exporteur von Videospielen, Filmen und anderen elektronisch übertragenen Produkten, - gefolgt von Deutschland, den USA und Großbritannien.&#13;
-Welche Folgen haben diese ungleichen Austauschbeziehungen zwischen China und den führenden Industrienationen einerseits, und den Entwicklungs- und Schwellenländern andererseits? Die Auswirkungen sind in erster Linie monetärer Natur.&#13;
-Die Mehrzahl der Staaten im südlichen Afrika leidet unter einem Handelsbilanzdefizit, da sie weit mehr  IT-Produkte importiert als sie exportierten. Ein kleines Land wie Malawi etwa verzeichnet ein Defizit von rund 70 Millionen US-Dollar. &#13;
-Und sogar Schwellenländer gehören zu den sog. Nettoimporteuren und weisen zum Teil hohe Handelsdefizite auf. In Mexiko etwa belief sich das Defizit auf fast 600 Millionen US-Dollar. Thailand, Südafrika, Chile und Brasilien weisen ebenfalls Defizite von jeweils über 200 Millionen US-Dollar auf.&#13;
+Ein Bericht der Vereinten Nationen kommt jedoch zu einem anderen Ergebnis. Demnach verteilt sich der Handel mit digitalen, immateriellen Gütern noch ungleicher, als beim traditionellen, analogen Handel. Auch beim Handel mit IT-Produkten, wie Laptops oder GPS-Geräten, geraten die Entwicklungsländer ins Hintertreffen. Die ökonomischen Folgen für die Länder des Südens sind schwerwiegend: Viele Entwicklungsländer leiden unter (1) Handelsbilanzdefiziten, (2) geringeren Staatseinnahmen und (3) erschwerten Bedingungen zum Aufbau einer eigenen, lokalen Digitalwirtschaft. &#13;
 &#13;
-E-Commerce im Rahmen von Handelsabkommen Der digitale Handel ist seit langer Zeit Bestandteil von Handelsabkommen. Entsprechende Regelung findet sich sowohl in bilateralen als auch multilateralen Verträgen. Den Anfang macht die WTO. Die Welthandelsorganisation verabschiedete bereits bei ihrer ersten Ministerkonferenz, 1996 in Singapur, den dazu bislang umfassendsten Vertrag: das Informationstechnologieabkommen ITA (Information Technology Agreement). Beim ITA handelt es sich um ein so genanntes plurilaterales Abkommen unter dem Dach der WTO, da sich seine Gültigkeit nicht auf alle WTO-Mitgliedstaaten erstreckt, sondern nur auf die Unterzeichnerstaaten. Mittlerweile haben 81 Staaten das ITA unterzeichnet.&#13;
-„Erreichen maximaler Freiheit für Produkte der Informationstechnologie im Welthandel" lautet das oberste Ziel des ITA. Der Vertrag schreibt den Abbau von Zöllen auf informationstechnologische Güter vom PC bis zum Handy vor. Im Rahmen der 10. WTO-Ministerkonferenz 2015 in Nairobi wurden über 200 neue Produkte in das Abkommen übernommen. Sie umfassen einen Wert von 1,3 Billionen US-Dollar. &#13;
-&#13;
-Auswirkungen des ITA auf Globalen Süden&#13;
-Welchen Auswirkungen haben das ITA und die dort vereinbarten Zollsenkungen auf Null? Bei der Beantwortung der Frage müssen wir unterscheiden zwischen den Tech-Konzernen und Konsumenten einerseits – und den Staaten andererseits. IT-Konzerne, die bei der Herstellung von Tablets oder GPS-Geräten zu den Marktführen gehören, profitieren von der Abschaffung der Zölle. Eine Nichterhebung von Zöllen auf die international gehandelten Produkte reduziert deren Kaufpreise und erhöht damit die Verkaufszahlen von Microsoft, Apple und Co.. Während die Tech-Konzerne steigende Umsätze verzeichnen, erfreuen sich die Konsumenten daran, ihr Handy zu einem günstigeren Preis erwerben zu können.  &#13;
-Staaten hingegen müssen eine andere Rechnung aufmachen. Die fehlenden Zolleinnahmen gehen zu Lasten ihres Staatshaushalts. Die Einnahmenverluste durch den Wegfall der Zölle sind vor allem für die Gruppe der am wenigsten entwickelten Länder (Least Developed Countries – LDCs) problematisch, da ihre Staatshaushalte teils in hohem Maße von Zöllen abhängen. So liegt der geschätzte Anteil der Zölle an den gesamten Steuereinnahmen in Togo, Benin, Sierra Leone oder Mali bei über 40 Prozent.&#13;
-&#13;
-Industriestaaten drängen auf permanentes Zollverbot…&#13;
-Bislang handelt es sich um ein zeitlich befristetes Zollmoratorium. Bei jeder der WTO-Ministertagungen, die im zwei Jahres Turnus stattfinden, müssen die Mitgliedstaaten einer Verlängerung der Zollreduzierung zustimmen. Die Industrieländer, in denen die großen IT-Konzerne ansässig sind, drängen seit geraumer Zeit darauf, es in ein unbefristetes, permanentes Moratorium umzuwandeln.&#13;
-… Entwicklungsländer halten dagegen&#13;
-Bei den Entwicklungsländern stößt dieses Vorhaben auf viel Kritik. Fehlende Staatseinnahmen ist nur eines ihrer Gegenargumente. Zölle können auch ein wichtiges wirtschaftslenkendes Instrument sein. Allen voran haben die Staaten Südostasiens vorgemacht, wie Entwicklungsländern eine nachholende Industrialisierung gelingen kann. Südkorea und Singapur waren u. a. deswegen so erfolgreich, weil sie ihre – noch im Aufbau befindlichen – neuen Industrien vor ausländischer Konkurrenz schützten –  indem sie Außenzölle auf jene Importe erhoben, die sie zukünftig im eigenen Land selbst produzieren wollten. Erst als ihre Unternehmen international wettbewerbsfähig waren, gingen sie mit diesen Schutzzöllen runter.&#13;
-Hinsichtlich der Perspektiven für den Aufbau eigener Märkte in Ländern des Südens fragt das South Centre, eine Beratungsorganisation der Entwicklungsländer, deswegen sorgenvoll: „Wenn Zölle nicht länger relevant sind, weil die Konsumentinnen und Konsumenten digitale Produkte kaufen, die nicht mehr den Zoll passieren, was bedeutet das für die lokalen und regionalen Märkte, die wir aufzubauen versuchen?“ Die regionalen afrikanischen Märkte etwa seien für afrikanische Industrieunternehmen unverzichtbar, da sie einen Großteil ihrer an Wertschöpfung reichen Produktion in Afrika absetzen. Sichere Absatzkanäle seien deswegen eines der wichtigen Motive für den Aufbau der afrikanischen Freihandelszone CFTA (Continental Free Trade Area). Gibt es keinen adäquaten Außenschutz zur Steuerung des elektronischen Handels mit digitalen Produkten, könnte ein Teil dieser Bemühungen scheitern. &#13;
-&#13;
-Das Anfang 2019 in Kraft getretene transpazifische CPTPP-Abkommen, dem elf Staaten, darunter sechs OECD-Länder (Japan, Kanada, Neuseeland, Australien, Chile, Mexiko) angehören ist insofern ein Negativbeispiel für einen fairen Handel. Gleiches gilt für das zwischen den USA und Japan am 25. September 2019 abgeschlossene Handelsabkommen, welches am 1. Januar 2020 in Kraft treten könnte. &#13;
-Beide Abkommen verfolgen die Nicht-Regulierungsagenda des Silicon Valley, die seit 2000 zur offiziellen Handelspolitik der USA erklärt wurde, indem Washington eine Digitale Agenda verabschiedete, wonach in Handelsabkommen der USA u. a. die folgenden Verbote hineinverhandelt werden sollen:&#13;
+Daten – Der Zankapfel in neuen Handelsabkommen&#13;
+Ein Anfang 2019 in Kraft getretenes Mega-regionales Handelsabkommen, dem elf Staaten angehören, darunter wichtige OECD-Länder (Japan, Kanada, Neuseeland, Australien, Chile, Mexiko), geht weit über bisherige Verträge zum digitalen Handel hinaus. Gleiches gilt für das von Trump vor drei Monaten abgeschlossene Handelsabkommen mit Japan. Beide verfolgen die Nicht-Regulierungsagenda des Silicon Valley, die seit 2000 zur offiziellen Handelspolitik der USA erklärt wurde. Demnach sollen in Handelsabkommen der USA folgenden Verbote hineinverhandelt werden:&#13;
 •	Verbot von Zöllen&#13;
 •	Verbot einer Digitalsteuer&#13;
 •	Verbot lokaler Datenspeicherung&#13;
 •	Verbot Quellcodes zu öffnen&#13;
-Solche Regelungen schränken den politischen Gestaltungsspielraum von Staaten in unzulässigem Maße ein und schicken Entwicklungs- und Schwellenländer bereits zum gegenwärtigen Zeitpunkt auf die Verliererstraße.&#13;
 &#13;
-Gestaltung einer fairen Digitalisierung&#13;
-(1)Handelspolitische Spielräume erweitern &#13;
-Nach Ansicht der Vereinten Nationen müssen die Entwicklungsländer in die Lage versetzt werden, eine eigene - auf ihre nationalen Bedürfnisse zugeschnittene - digitale Wirtschaft aufzubauen. Voraussetzung hierfür ist, dass die gegenwärtigen politischen Gestaltungsräume erhalten und sogar ausgebaut werden. Aus dieser Forderung zieht die UNCTAD zwei Konsequenzen:&#13;
-Erstens: Keine übereilten Handelsabkommen, die eine weitere Liberalisierung des digitalen Handels vorantreiben. Denn die Erfahrungen lehrt, dass dies zu Lasten der Länder geht, die sich auf einem niedrigeren Entwicklungsniveau befinden. &#13;
-Zweitens müssen die rechtlichen und politischen Möglichkeiten zur Förderung und zum Schutz der heimischer digitalen Wirtschaft, erweitert werden. Bislang erlaubt das Handelsrecht den Schutz der eigenen Wirtschaft nur unter sehr strikten Konditionen. Hier besteht Reformbedarf bei der WTO und auch in bilateralen Abkommen. &#13;
+Digitalisierung von Wertschöpfungsketten&#13;
+Neben den hohen Wachstumsraten beim digitalen Handel, setzen viele Akteure aus der Entwicklungszusammenarbeit auch große Hoffnungen auf die Digitalisierung globaler Lieferketten. Sie versprechen sich davon gleich mehrere positive Impulse: Eine verbesserte Effizienz, mehr Produktivität und Transparenz sowie dem, aus entwicklungspolitischer Perspektive entscheidenden Faktor: Eine erhöhte Wertschöpfung für jene Menschen, die am Anfang der Lieferkette stehen, wie beispielsweise Kleinbauern in Kamerun&#13;
 &#13;
+Erste Untersuchungen, u. a. am Beispiel ostafrikanischer Teeproduzenten, bestätigen diese Hoffnungen, allerdings nur zum Teil. Durch die Anbindung an das Internet hat sich die Kommunikation der Teepflücker mit anderen Akteuren aus der Lieferkette verbessert; auch können sie ihre Arbeit effizienter und transparenter gestalten. Trotz dieser Fortschritte hat sich jedoch die Einkommenssituation der Teepflücker*innen nicht verbessert, da die Anzahl potentieller Lieferant*innen mit gleichwertiger Qualitätsteigt an, wodurch diese verstärkt miteinander in Konkurrenz treten. &#13;
 &#13;
-(2) Digitale Kluft mit öffentlichen Infrastruktur schließen &#13;
-Alle Akteure sind sich ein: Die digitale Kluft, die unseren Globus in zwei Hälften schneidet, muss geschlossen werden. Wir dürfen dieses Vorhaben aber nicht, ´den ‚Big Five‘ aus den Silicon Valley und auch nicht Alibaba oder anderen Unternehmen aus China. überlassen. &#13;
-Diese sind ohnehin eifrig dabei sind, die für die Digitalisierung notwendige Infrastruktur - wie Seekabel und Funkmasten - aufzubauen. Die Internetkonzerne tun dies bekanntlich nicht aus altruistischen Überlegungen, sondern wollen sich damit vielmehr Zugang zu neuen Märkten und    &amp;   Zugang zu den Daten verschaffen.&#13;
-Damit sich die Abhängigkeiten von den großen IT-Unternehmen nicht weiter vergrößert, müssen die Länder des Südens befähigt werden eine öffentliche Dateninfrastruktur auf- und auszubauen. Dazu werden sie aber von sich aus nicht in der Lage sein. Vielmehr ist die Internationale Staatengemeinschaft herausgefordert die Entwicklungsländer dabei zu unterstützen. Die Industriestaaten müssen vor allem die dafür notwendigen Ressourcen zur Verfügung stellen – angefangen von der finanziellen Unterstützung bis hin zum Wissens- und Technologietransfer. &#13;
-&#13;
-(3) Digitale Monopole kontrollieren und regulieren &#13;
-In den vergangenen 20 Jahren haben die führenden IT-Unternehmen aus den USA und China eine - historisch einmalige - marktmächtige Stellung eingenommen. Diese dominante Monopolstellung erschwert es kleineren und später hinzugekommenen Unternehmern, auf dem Markt bestehen zu können. Sogar etablierte Unternehmen in Indien oder auf dem afrikanischen Kontinent geraten durch digitale Plattformen in Bedrängnis. &#13;
-Vor diesem Hintergrund ist es wichtig, politische Rahmenbedingungen zu schaffen, welche die Monopole kontrollieren und regulieren.  Die Europäische Union denkt und handelt bereits in diese Richtung. Bislang allerdings in erster Linie nur bezogen auf ihren eigenen Wirtschaftsraum. Wir müssen die Regulierung von Monopolen jedoch als eine globale Aufgabe betrachten.&#13;
-&#13;
-(4) Nationale und regionale Plattformen fördern&#13;
-Damit die Entwicklungsländer nicht langfristig auf die Rolle von Datenzulieferern für die globalen Akteure beschränkt bleiben, müssen sie eigene nationale und regionale Plattformen aufbauen. Eine der wichtigsten Voraussetzungen ist, grenzübergreifende, regionale Märkte zu schaffen. Deutschland und die EU sind bei diesem Ziel doppelt herausgefordert. Zum einen müssen sie die Länder dabei unterstützen, regionale Märkte zu schaffen. Zum anderen darf die EU diese Anstrengungen nicht mit bilateralen Abkommen konterkarieren, wie sie es gegenwärtig mit den Wirtschaftspartnerschaftsabkommen tut.&#13;
-&#13;
-  (5) Genossenschaftliche Plattformen und neue Governance-Strukturen schaffen&#13;
-Um möglichst vielen Menschen eine Arbeit zu bieten und den gesellschaftlichen Zusammenhalt zu stärken, sollten digitale Plattformen aufgebaut werden, die einzelne Produkte und Dienstleistungen auch genossenschaftlich erbringen können. Zugleich müssten neue Governance-Strukturen etabliert werden, die diese genossenschaftlichen Plattformen gegenüber Aktiengesellschaften wettbewerbsfähiger werden lassen. Staatliche Programme – unterstützt durch globale Kapitalgeber – könnten hier eine wichtige Rolle einnehmen und den digitalen Plattformen im Globalen Süden das notwendige Kapital zur Verfügung stellen. &#13;
-&#13;
-&#13;
-</description>
+Faire Gestaltung der Digitalisierung&#13;
+„There is no time to lose in taming the power of the digital. We can either surrender our digital future, or we can take ownership of it.” (‘Digital Justice Manifesto’, Just Net Coalition, November 2019).&#13;
+Zum Schluss stell ich die einige Eckpfeiler für die Gestaltung einer Digitalisierung zugunsten der Menschen im Globalen Süden vor. </description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -13748,7 +13725,9 @@ Um möglichst vielen Menschen eine Arbeit zu bieten und den gesellschaftlichen Z
         <links>
           <link href="https://info.brot-fuer-die-welt.de/sites/default/files/blog-downloads/gerechtigkeit_4.0.pdf">Gerechtigkeit 4.0</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/033/original/Faire_Digitalisierung_gestalten.png?1576507093">Digitalisierung fair gestalten </attachment>
+        </attachments>
       </event>
       <event id="10885" guid="ca958208-abe7-4840-b938-193780eafca0">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10885.html</url>

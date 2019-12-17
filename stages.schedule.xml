@@ -1,5 +1,5 @@
 <schedule>
-  <version>bison; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium</version>
+  <version>bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; lightning Yttrium</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -2098,6 +2098,34 @@ https://hearthis.at/petrosilius/keintraum/</description>
         </recording>
         <persons>
           <person id="139">Peter</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="389" guid="84ed569f-8e4b-5539-8151-3e53c7b7d184">
+        <logo>/media/36c3-oio/images/T7XNAT/malta-flugzeug-wasser_VxtX0IJ.jpg</logo>
+        <date>2019-12-27T14:45:00+01:00</date>
+        <start>14:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>T7XNAT</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/T7XNAT/</url>
+        <title>SearchWing - Rettungsdrohne im Mittelmeer</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>SearchWing baut eine Rettungsdrohne für die zivilen Rettungsorganisationen im Mittelmeer wie Sea-Watch, Sea-Eye und Resqship. Wir beschreiben den Aufbau, die Tests auf dem Mittelmeer, die Herausforderungen beim Bau und beim Einsatz des autonomen Flugzeugs und werfen einen Blick auf die verwendeten Bilderkennungsalgorithmen.</abstract>
+        <description>Wir helfen zivilen Rettungsorganisationen im Mittelmeer bei der Suche nach Schiffbrüchigen. In diesem Talk berichten wir von den Schwierigkeiten und Herausforderungen beim Bau einer autonomen Drohne, die für Einsatz im Mittelmeer geeignet ist. Wenn beispielsweise die Akkus auf dem Flughafen Hamburg im sicheren Schrank verbleiben, weil einer vergessen hat die Akkus für den Flug anzumelden... Wir erläutern den technischen Aufbau mit PixRacer Hardware, Mini Talon EPO Rumpf und den anderen Komponenten. Ungewöhnlich im Vergleich zum klassischen Modellflug ist der Long Range Telemetrie Funk, der große Akku (10000 mAh bei 2kg Fluggewicht) und das ganze Salzwasser :-(. Im Februar 2019 waren wir für Tests auf Malta und im Mai 2019 hat Björn dann den ersten Einsatz im Mittelmeer in Zusammenarbeit mit ResQShip e.V. gemacht. Deshalb können wir auch die Einsatzerfahrungen schildern - wie man das Flugzeug auf dem Schiff startet und landet. Zum Einstieg geben wir auch eine Zusammenfassung der Situation der Seenotrettung im Mittelmeer.&#13;
+Unser Flugzeug sammelt im Flug Bilder, die im Anschluss vom Flugzeug geladen und analysiert werden. Um diese manuelle Bildanalyse zu beschleunigen entwickelt Petrosilius Computer Vision Algorithmen - auch davon werden wir auf dem Talk einen Überblick geben. Petrosilius hat letztes Jahr auf der Freifunkbühne über die Computervision berichtet (s.u.).</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="151">Friedrich Beckmann</person>
+          <person id="152">KingBBQ</person>
         </persons>
         <links/>
         <attachments/>
@@ -10693,10 +10721,36 @@ In this talk we'll dive into the challenge of going fully FOSS. We'd like to int
         <attachments/>
         <answers/>
       </event>
+      <event id="345" guid="797c2897-5903-57ae-9ad2-f5d4a9b5a79c">
+        <logo/>
+        <date>2019-12-30T13:45:00+01:00</date>
+        <start>13:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>BFEFPM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/BFEFPM/</url>
+        <title>Internet access and VoIP as Open/Commons Infrastructure</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Some Initiatives are trying to provide internet access and VoIP dial-out in a user-owned (Commons Economy) or completely open infrastructure. We will present the state of affairs and invite to a discussion on the possible perspectives.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="121">Sumy</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="364" guid="5eed96a6-5814-5798-a584-9581c8dd23ea">
         <logo/>
-        <date>2019-12-30T13:50:00+01:00</date>
-        <start>13:50</start>
+        <date>2019-12-30T14:15:00+01:00</date>
+        <start>14:15</start>
         <duration>00:55</duration>
         <room>OIO Stage</room>
         <slug>BBL8YL</slug>
@@ -10719,32 +10773,6 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
         </recording>
         <persons>
           <person id="134">Steffen</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="345" guid="797c2897-5903-57ae-9ad2-f5d4a9b5a79c">
-        <logo/>
-        <date>2019-12-30T14:50:00+01:00</date>
-        <start>14:50</start>
-        <duration>00:25</duration>
-        <room>OIO Stage</room>
-        <slug>BFEFPM</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/BFEFPM/</url>
-        <title>Internet access and VoIP as Open/Commons Infrastructure</title>
-        <subtitle/>
-        <track/>
-        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
-        <language>en</language>
-        <abstract>Some Initiatives are trying to provide internet access and VoIP dial-out in a user-owned (Commons Economy) or completely open infrastructure. We will present the state of affairs and invite to a discussion on the possible perspectives.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="121">Sumy</person>
         </persons>
         <links/>
         <attachments/>

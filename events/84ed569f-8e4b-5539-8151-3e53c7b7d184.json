@@ -1,0 +1,39 @@
+{
+  "id": 389,
+  "guid": "84ed569f-8e4b-5539-8151-3e53c7b7d184",
+  "logo": "/media/36c3-oio/images/T7XNAT/malta-flugzeug-wasser_VxtX0IJ.jpg",
+  "date": "2019-12-27T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "00:25",
+  "room": "OIO Stage",
+  "slug": "T7XNAT",
+  "url": "https://talks.oio.social/36c3-oio/talk/T7XNAT/",
+  "title": "SearchWing - Rettungsdrohne im Mittelmeer",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk 20 minutes + 5 minutes Q&A",
+  "language": "de",
+  "abstract": "SearchWing baut eine Rettungsdrohne f\u00fcr die zivilen Rettungsorganisationen im Mittelmeer wie Sea-Watch, Sea-Eye und Resqship. Wir beschreiben den Aufbau, die Tests auf dem Mittelmeer, die Herausforderungen beim Bau und beim Einsatz des autonomen Flugzeugs und werfen einen Blick auf die verwendeten Bilderkennungsalgorithmen.",
+  "description": "Wir helfen zivilen Rettungsorganisationen im Mittelmeer bei der Suche nach Schiffbr\u00fcchigen. In diesem Talk berichten wir von den Schwierigkeiten und Herausforderungen beim Bau einer autonomen Drohne, die f\u00fcr Einsatz im Mittelmeer geeignet ist. Wenn beispielsweise die Akkus auf dem Flughafen Hamburg im sicheren Schrank verbleiben, weil einer vergessen hat die Akkus f\u00fcr den Flug anzumelden... Wir erl\u00e4utern den technischen Aufbau mit PixRacer Hardware, Mini Talon EPO Rumpf und den anderen Komponenten. Ungew\u00f6hnlich im Vergleich zum klassischen Modellflug ist der Long Range Telemetrie Funk, der gro\u00dfe Akku (10000 mAh bei 2kg Fluggewicht) und das ganze Salzwasser :-(. Im Februar 2019 waren wir f\u00fcr Tests auf Malta und im Mai 2019 hat Bj\u00f6rn dann den ersten Einsatz im Mittelmeer in Zusammenarbeit mit ResQShip e.V. gemacht. Deshalb k\u00f6nnen wir auch die Einsatzerfahrungen schildern - wie man das Flugzeug auf dem Schiff startet und landet. Zum Einstieg geben wir auch eine Zusammenfassung der Situation der Seenotrettung im Mittelmeer.\r\nUnser Flugzeug sammelt im Flug Bilder, die im Anschluss vom Flugzeug geladen und analysiert werden. Um diese manuelle Bildanalyse zu beschleunigen entwickelt Petrosilius Computer Vision Algorithmen - auch davon werden wir auf dem Talk einen \u00dcberblick geben. Petrosilius hat letztes Jahr auf der Freifunkb\u00fchne \u00fcber die Computervision berichtet (s.u.).",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 151,
+      "code": "JYFUHD",
+      "public_name": "Friedrich Beckmann",
+      "biography": "Ich bin Professor an der Hochschule Augsburg an der Fakult\u00e4t Elektrotechnik und habe die SearchWinggruppe im Mai 2017 gegr\u00fcndet.",
+      "answers": []
+    },
+    {
+      "id": 152,
+      "code": "BHGXNJ",
+      "public_name": "KingBBQ",
+      "biography": "Mitglied bei Searchwing",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

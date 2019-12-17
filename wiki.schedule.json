@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-18 00:10",
+    "version": "2019-12-18 00:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -1817,6 +1817,32 @@
                 "links": []
               },
               {
+                "id": 1227,
+                "guid": "bbef5ff3-cd20-4084-a88a-f0f8bc0c9402",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Microachitectural_Attacks:_Round_Table",
+                "logo": null,
+                "date": "2019-12-28T16:15:00+01:00",
+                "start": "16:15",
+                "duration": "1:00",
+                "room": "Seminar room 13",
+                "slug": "36c3-1227-session_microachitectural_attacks_round_table",
+                "title": "Microachitectural Attacks: Round Table",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "An open discussion of microarchitectural attacks: Spectre, Meltdown, side channels, and so on. What can we do and what should we do about them?\nLet's meet and talk side channels!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:TheAlex",
+                    "public_name": "TheAlex"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1026,
                 "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d4",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
@@ -2719,6 +2745,34 @@
                 "links": []
               },
               {
+                "id": 1111,
+                "guid": "803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag",
+                "logo": null,
+                "date": "2019-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "3:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1111-session_makerbuino_building_session_1_junghackertag",
+                "title": "MAKERbuino Building Session 1 @ Junghackertag",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's build a game console!\n[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) participating in the Junghackertag. We'll have 10 seats available.Please note that this is not a kit for absolute beginners and that you should have at least some basic experience in soldering.We'll have 10 seats available at ChaosZone.More information [[MAKERbuino|can be found here]].",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
+                    "public_name": "Micha"
+                  }
+                ],
+                "links": [
+                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
+                ]
+              },
+              {
                 "id": 1207,
                 "guid": "c94a9818-7cac-4957-b9bb-90f473f334eb",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners",
@@ -2851,34 +2905,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1111,
-                "guid": "803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag",
-                "logo": null,
-                "date": "2019-12-28T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "3:00",
-                "room": "Assembly:ChaosZone",
-                "slug": "36c3-1111-session_makerbuino_building_session_1_junghackertag",
-                "title": "MAKERbuino Building Session 1 @ Junghackertag",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Let's build a game console!\n[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) participating in the Junghackertag. We'll have 10 seats available.Please note that this is not a kit for absolute beginners and that you should have at least some basic experience in soldering.We'll have 10 seats available at ChaosZone.More information [[MAKERbuino|can be found here]].",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
-                    "public_name": "Micha"
-                  }
-                ],
-                "links": [
-                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
-                ]
               }
             ],
             "C-base": [

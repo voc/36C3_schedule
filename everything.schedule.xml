@@ -1,5 +1,5 @@
 <schedule>
-  <version>bison; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-18 00:10</version>
+  <version>bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-18 00:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -2967,6 +2967,34 @@ https://hearthis.at/petrosilius/keintraum/</description>
         </recording>
         <persons>
           <person id="139">Peter</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="389" guid="84ed569f-8e4b-5539-8151-3e53c7b7d184">
+        <logo>/media/36c3-oio/images/T7XNAT/malta-flugzeug-wasser_VxtX0IJ.jpg</logo>
+        <date>2019-12-27T14:45:00+01:00</date>
+        <start>14:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>T7XNAT</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/T7XNAT/</url>
+        <title>SearchWing - Rettungsdrohne im Mittelmeer</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>SearchWing baut eine Rettungsdrohne für die zivilen Rettungsorganisationen im Mittelmeer wie Sea-Watch, Sea-Eye und Resqship. Wir beschreiben den Aufbau, die Tests auf dem Mittelmeer, die Herausforderungen beim Bau und beim Einsatz des autonomen Flugzeugs und werfen einen Blick auf die verwendeten Bilderkennungsalgorithmen.</abstract>
+        <description>Wir helfen zivilen Rettungsorganisationen im Mittelmeer bei der Suche nach Schiffbrüchigen. In diesem Talk berichten wir von den Schwierigkeiten und Herausforderungen beim Bau einer autonomen Drohne, die für Einsatz im Mittelmeer geeignet ist. Wenn beispielsweise die Akkus auf dem Flughafen Hamburg im sicheren Schrank verbleiben, weil einer vergessen hat die Akkus für den Flug anzumelden... Wir erläutern den technischen Aufbau mit PixRacer Hardware, Mini Talon EPO Rumpf und den anderen Komponenten. Ungewöhnlich im Vergleich zum klassischen Modellflug ist der Long Range Telemetrie Funk, der große Akku (10000 mAh bei 2kg Fluggewicht) und das ganze Salzwasser :-(. Im Februar 2019 waren wir für Tests auf Malta und im Mai 2019 hat Björn dann den ersten Einsatz im Mittelmeer in Zusammenarbeit mit ResQShip e.V. gemacht. Deshalb können wir auch die Einsatzerfahrungen schildern - wie man das Flugzeug auf dem Schiff startet und landet. Zum Einstieg geben wir auch eine Zusammenfassung der Situation der Seenotrettung im Mittelmeer.&#13;
+Unser Flugzeug sammelt im Flug Bilder, die im Anschluss vom Flugzeug geladen und analysiert werden. Um diese manuelle Bildanalyse zu beschleunigen entwickelt Petrosilius Computer Vision Algorithmen - auch davon werden wir auf dem Talk einen Überblick geben. Petrosilius hat letztes Jahr auf der Freifunkbühne über die Computervision berichtet (s.u.).</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="151">Friedrich Beckmann</person>
+          <person id="152">KingBBQ</person>
         </persons>
         <links/>
         <attachments/>
@@ -6442,6 +6470,27 @@ Some day, computers will help working mathematicians of all disciplines in findi
         </persons>
         <links/>
       </event>
+      <event id="1227" guid="bbef5ff3-cd20-4084-a88a-f0f8bc0c9402">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Microachitectural_Attacks:_Round_Table</url>
+        <logo/>
+        <date>2019-12-28T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1227-session_microachitectural_attacks_round_table</slug>
+        <title>Microachitectural Attacks: Round Table</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>An open discussion of microarchitectural attacks: Spectre, Meltdown, side channels, and so on. What can we do and what should we do about them?
+Let's meet and talk side channels!</description>
+        <persons>
+          <person id="0">TheAlex</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1026" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d4">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
         <logo/>
@@ -8600,6 +8649,29 @@ Hast du dich auch schonmal gefragt, wie es wäre, ein Smartphone zu nutzen, ohne
         </persons>
         <links/>
       </event>
+      <event id="1111" guid="803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag</url>
+        <logo/>
+        <date>2019-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>3:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1111-session_makerbuino_building_session_1_junghackertag</slug>
+        <title>MAKERbuino Building Session 1 @ Junghackertag</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's build a game console!
+[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) participating in the Junghackertag. We'll have 10 seats available.Please note that this is not a kit for absolute beginners and that you should have at least some basic experience in soldering.We'll have 10 seats available at ChaosZone.More information [[MAKERbuino|can be found here]].</description>
+        <persons>
+          <person id="0">Micha</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino</link>
+        </links>
+      </event>
       <event id="1207" guid="c94a9818-7cac-4957-b9bb-90f473f334eb">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</url>
         <logo/>
@@ -8708,29 +8780,6 @@ Takes about two hours. Basic workshop. No prior knowledge needed. Materials cost
           <person id="0">R2d2data</person>
         </persons>
         <links/>
-      </event>
-      <event id="1111" guid="803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag</url>
-        <logo/>
-        <date>2019-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>3:00</duration>
-        <room>Assembly:ChaosZone</room>
-        <slug>36c3-1111-session_makerbuino_building_session_1_junghackertag</slug>
-        <title>MAKERbuino Building Session 1 @ Junghackertag</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Let's build a game console!
-[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) participating in the Junghackertag. We'll have 10 seats available.Please note that this is not a kit for absolute beginners and that you should have at least some basic experience in soldering.We'll have 10 seats available at ChaosZone.More information [[MAKERbuino|can be found here]].</description>
-        <persons>
-          <person id="0">Micha</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino</link>
-        </links>
       </event>
     </room>
     <room name="C-base">
@@ -14449,10 +14498,36 @@ In this talk we'll dive into the challenge of going fully FOSS. We'd like to int
         <attachments/>
         <answers/>
       </event>
+      <event id="345" guid="797c2897-5903-57ae-9ad2-f5d4a9b5a79c">
+        <logo/>
+        <date>2019-12-30T13:45:00+01:00</date>
+        <start>13:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>BFEFPM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/BFEFPM/</url>
+        <title>Internet access and VoIP as Open/Commons Infrastructure</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Some Initiatives are trying to provide internet access and VoIP dial-out in a user-owned (Commons Economy) or completely open infrastructure. We will present the state of affairs and invite to a discussion on the possible perspectives.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="121">Sumy</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="364" guid="5eed96a6-5814-5798-a584-9581c8dd23ea">
         <logo/>
-        <date>2019-12-30T13:50:00+01:00</date>
-        <start>13:50</start>
+        <date>2019-12-30T14:15:00+01:00</date>
+        <start>14:15</start>
         <duration>00:55</duration>
         <room>OIO Stage</room>
         <slug>BBL8YL</slug>
@@ -14475,32 +14550,6 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
         </recording>
         <persons>
           <person id="134">Steffen</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="345" guid="797c2897-5903-57ae-9ad2-f5d4a9b5a79c">
-        <logo/>
-        <date>2019-12-30T14:50:00+01:00</date>
-        <start>14:50</start>
-        <duration>00:25</duration>
-        <room>OIO Stage</room>
-        <slug>BFEFPM</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/BFEFPM/</url>
-        <title>Internet access and VoIP as Open/Commons Infrastructure</title>
-        <subtitle/>
-        <track/>
-        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
-        <language>en</language>
-        <abstract>Some Initiatives are trying to provide internet access and VoIP dial-out in a user-owned (Commons Economy) or completely open infrastructure. We will present the state of affairs and invite to a discussion on the possible perspectives.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="121">Sumy</person>
         </persons>
         <links/>
         <attachments/>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "bison; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 16:20",
+    "version": "bison; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 16:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -2985,8 +2985,8 @@
                   {
                     "id": 157,
                     "code": "EZVYCT",
-                    "public_name": "Andreas",
-                    "biography": "Antifaschist-Aktivist-Data Science",
+                    "public_name": "Andreas Kr\u00e4mer",
+                    "biography": "@Housetier84\r\n\r\nAntifaschist-Aktivist-Data Science",
                     "answers": []
                   },
                   {
@@ -4136,6 +4136,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Maltman23",
                     "public_name": "Maltman23"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1211,
+                "guid": "b1ea5cb7-0b8e-42f6-9ace-8a34ad000fbc",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners",
+                "logo": null,
+                "date": "2019-12-27T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1211-session_surface_mount_electronics_assembly_for_terrified_beginners",
+                "title": "Surface mount electronics assembly for terrified beginners",
+                "subtitle": "Day 1",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 120mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.\nTakes about two hours. Basic workshop. No prior knowledge needed. Materials cost 20\u20ac per kit.We are going to build an electronic kitten using tiny SMD parts. It will purr when you touch it right and hiss when you touch it wrong. It's going to work.For people afraid of surface mount assembly/rework. You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how!Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Avoid caffeine immediately before the workshop, because shaky hands are a disadvantage.The workshop kit costs 20\u20ac. Please SIGN UP ON THE PAPER LIST at the Hardware Hacking Area. PLEASE BE ON TIME!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kliment",
+                    "public_name": "Kliment"
                   }
                 ],
                 "links": []
@@ -9064,6 +9090,84 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1207,
+                "guid": "c94a9818-7cac-4957-b9bb-90f473f334eb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners",
+                "logo": null,
+                "date": "2019-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1207-session_surface_mount_electronics_assembly_for_terrified_beginners",
+                "title": "Surface mount electronics assembly for terrified beginners",
+                "subtitle": "Day 2, session 1",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 120mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.\nTakes about two hours. Basic workshop. No prior knowledge needed. Materials cost 20\u20ac per kit.We are going to build an electronic kitten using tiny SMD parts. It will purr when you touch it right and hiss when you touch it wrong. It's going to work.For people afraid of surface mount assembly/rework. You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how!Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Avoid caffeine immediately before the workshop, because shaky hands are a disadvantage.The workshop kit costs 20\u20ac. Please SIGN UP ON THE PAPER LIST at the Hardware Hacking Area. PLEASE BE ON TIME!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kliment",
+                    "public_name": "Kliment"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1208,
+                "guid": "23da7814-af44-50aa-aa57-279015997126",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners",
+                "logo": null,
+                "date": "2019-12-28T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1208-session_surface_mount_electronics_assembly_for_terrified_beginners",
+                "title": "Surface mount electronics assembly for terrified beginners",
+                "subtitle": "Day 2, session 3",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 120mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.\nTakes about two hours. Basic workshop. No prior knowledge needed. Materials cost 20\u20ac per kit.We are going to build an electronic kitten using tiny SMD parts. It will purr when you touch it right and hiss when you touch it wrong. It's going to work.For people afraid of surface mount assembly/rework. You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how!Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Avoid caffeine immediately before the workshop, because shaky hands are a disadvantage.The workshop kit costs 20\u20ac. Please SIGN UP ON THE PAPER LIST at the Hardware Hacking Area. PLEASE BE ON TIME!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kliment",
+                    "public_name": "Kliment"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1210,
+                "guid": "5a75edce-5548-5b4d-aebe-82bc67d907a3",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners",
+                "logo": null,
+                "date": "2019-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1210-session_surface_mount_electronics_assembly_for_terrified_beginners",
+                "title": "Surface mount electronics assembly for terrified beginners",
+                "subtitle": "Day 2, session 2",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 120mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.\nTakes about two hours. Basic workshop. No prior knowledge needed. Materials cost 20\u20ac per kit.We are going to build an electronic kitten using tiny SMD parts. It will purr when you touch it right and hiss when you touch it wrong. It's going to work.For people afraid of surface mount assembly/rework. You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how!Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Avoid caffeine immediately before the workshop, because shaky hands are a disadvantage.The workshop kit costs 20\u20ac. Please SIGN UP ON THE PAPER LIST at the Hardware Hacking Area. PLEASE BE ON TIME!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kliment",
+                    "public_name": "Kliment"
+                  }
+                ],
+                "links": []
               }
             ],
             "Art-and-Play Stage": [
@@ -13815,6 +13919,84 @@
                 "links": [
                   "http://hammeshacks.com/"
                 ]
+              },
+              {
+                "id": 1209,
+                "guid": "b90b2d10-cff7-5444-b635-24fc24388968",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners",
+                "logo": null,
+                "date": "2019-12-29T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1209-session_surface_mount_electronics_assembly_for_terrified_beginners",
+                "title": "Surface mount electronics assembly for terrified beginners",
+                "subtitle": "Day 3, session 3",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 120mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.\nTakes about two hours. Basic workshop. No prior knowledge needed. Materials cost 20\u20ac per kit.We are going to build an electronic kitten using tiny SMD parts. It will purr when you touch it right and hiss when you touch it wrong. It's going to work.For people afraid of surface mount assembly/rework. You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how!Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Avoid caffeine immediately before the workshop, because shaky hands are a disadvantage.The workshop kit costs 20\u20ac. Please SIGN UP ON THE PAPER LIST at the Hardware Hacking Area. PLEASE BE ON TIME!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kliment",
+                    "public_name": "Kliment"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1213,
+                "guid": "a5e4eb4f-ccc9-5c08-b715-8d3c33a62fe7",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners",
+                "logo": null,
+                "date": "2019-12-29T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1213-session_surface_mount_electronics_assembly_for_terrified_beginners",
+                "title": "Surface mount electronics assembly for terrified beginners",
+                "subtitle": "Day 3, Session 1",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 120mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.\nTakes about two hours. Basic workshop. No prior knowledge needed. Materials cost 20\u20ac per kit.We are going to build an electronic kitten using tiny SMD parts. It will purr when you touch it right and hiss when you touch it wrong. It's going to work.For people afraid of surface mount assembly/rework. You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how!Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Avoid caffeine immediately before the workshop, because shaky hands are a disadvantage.The workshop kit costs 20\u20ac. Please SIGN UP ON THE PAPER LIST at the Hardware Hacking Area. PLEASE BE ON TIME!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kliment",
+                    "public_name": "Kliment"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1214,
+                "guid": "c362fbe2-5b12-563d-8f11-3d0b805ea86d",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners",
+                "logo": null,
+                "date": "2019-12-29T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1214-session_surface_mount_electronics_assembly_for_terrified_beginners",
+                "title": "Surface mount electronics assembly for terrified beginners",
+                "subtitle": "Day 3, session 2",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 120mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.\nTakes about two hours. Basic workshop. No prior knowledge needed. Materials cost 20\u20ac per kit.We are going to build an electronic kitten using tiny SMD parts. It will purr when you touch it right and hiss when you touch it wrong. It's going to work.For people afraid of surface mount assembly/rework. You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how!Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Avoid caffeine immediately before the workshop, because shaky hands are a disadvantage.The workshop kit costs 20\u20ac. Please SIGN UP ON THE PAPER LIST at the Hardware Hacking Area. PLEASE BE ON TIME!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kliment",
+                    "public_name": "Kliment"
+                  }
+                ],
+                "links": []
               }
             ],
             "C-base": [
@@ -15521,6 +15703,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Maltman23",
                     "public_name": "Maltman23"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1212,
+                "guid": "7ab66bcc-1e45-5d00-8a7f-b89d633147ff",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners",
+                "logo": null,
+                "date": "2019-12-30T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1212-session_surface_mount_electronics_assembly_for_terrified_beginners",
+                "title": "Surface mount electronics assembly for terrified beginners",
+                "subtitle": "Day 4",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 120mins, 20\u20ac/kit, avoid caffeine immediately before. Max 20 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.\nTakes about two hours. Basic workshop. No prior knowledge needed. Materials cost 20\u20ac per kit.We are going to build an electronic kitten using tiny SMD parts. It will purr when you touch it right and hiss when you touch it wrong. It's going to work.For people afraid of surface mount assembly/rework. You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how!Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Avoid caffeine immediately before the workshop, because shaky hands are a disadvantage.The workshop kit costs 20\u20ac. Please SIGN UP ON THE PAPER LIST at the Hardware Hacking Area. PLEASE BE ON TIME!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kliment",
+                    "public_name": "Kliment"
                   }
                 ],
                 "links": []

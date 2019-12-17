@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-17 14:20</version>
+  <version>2019-12-17 15:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1545,6 +1545,27 @@ We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, 
       </event>
     </room>
     <room name="Lecture room M1">
+      <event id="1066" guid="48801aee-64d2-4e30-8b92-8d360566bbac">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:3.8_Billion_users%27_future:_Email_3.0</url>
+        <logo/>
+        <date>2019-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>0:30</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1066-session_3_8_billion_users_future_email_3_0</slug>
+        <title>3.8 Billion users' future: Email 3.0</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?
+Hundreds of messaging platforms have launched and failed over the last 50 years. One has grown voraciously, netting 3.8 billion users, and handling 103 trillion messages each year. Like the Internet itself, email is decentralised and censorship resistant by design. It is technically extensible, powered by Free Software, and Open Standards agreed independently by consensus.LinkedIn, Facebook, Google and others are racing to own the future of this space, with Gmail alone accounting for 28% of email opens in 2018, in Western countries. Email's freedom, privacy, and security are taken for granted and under threat. What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?</description>
+        <persons>
+          <person id="0">Dreirik</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1177" guid="22f132e1-41b4-47c1-8097-c30636edaefe">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_l%CC%B6a%CC%B6n%CC%B6e%CC%B6_dump</url>
         <logo/>
@@ -1626,8 +1647,8 @@ Both theoretical and technical aspects of memory forensics will be covered: A th
       <event id="1067" guid="d8d6aa0c-a83a-4849-8a95-be32d82f5273">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Decentralized_and_centralized_control:_global_trends_in_network_censorship</url>
         <logo/>
-        <date>2019-12-28T20:30:00+01:00</date>
-        <start>20:30</start>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
         <duration>0:30</duration>
         <room>Lecture room M1</room>
         <slug>36c3-1067-session_decentralized_and_centralized_control_global_trends_in_network_censorship</slug>
@@ -1645,8 +1666,8 @@ In the past few years we’ve seen a massive proliferationof aggressive techniqu
       <event id="1068" guid="9974ba2c-a6e4-405b-a82e-bdb09382643e">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Free_software_for_minorities_of_Turkey_with_their_own_languages</url>
         <logo/>
-        <date>2019-12-28T21:30:00+01:00</date>
-        <start>21:30</start>
+        <date>2019-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>0:30</duration>
         <room>Lecture room M1</room>
         <slug>36c3-1068-session_free_software_for_minorities_of_turkey_with_their_own_languages</slug>
@@ -1657,8 +1678,10 @@ In the past few years we’ve seen a massive proliferationof aggressive techniqu
         <language>en</language>
         <abstract/>
         <description>Free software and freedom philosophy gives a ray of hope to Anatolian minorities. With free documentation and free software, with using their devices in their own language, people may keep their language alive by contributing projects like Wiktionary and Wikisource.
-    In Turkey, along the Anatolia, more than 25 languages are spoken. As Özgür Yazılım Derneği (Free Software Association of Turkey), we wanted to translate our website and works to these Anatolian languages such as Kurdish, Zazaki, Lazuri, Homshetsi and so on. After we started conversations with culture institutes and associations from these folks, they replied as they are not able to use their devices with their own language. So now, we started a project with Anatolian minorities, we are translating and documenting GNU/Linux, GNOME, Firefox and LibreOffice (maybe Android/Replicant) to this languages, so with free software, these people can use computers and mobile phones with their own language. Also we are starting Wiktionary and Wikipedia ersions in these languages in order to keep these languages alive and compile the documents and publications in their language to make them documented well.     In this talk at 36C3,  we will tell a project in Turkey (a developing country which has no free software consciousness). In our project, Anatolian languages and minorities' cultures may be kept in the future. So many people uses proprietary software in their devices. These minorities are repressed to use their languages, not only their publication houses were closed by government, but also they were judged at "National Security Courts" in Turkey. With these assimilation policies, especially Lazuri and Homshetsi languages are imperilment right now, children are acquiring only Turkish as main tongue. Proprietary software and "proprietarians" are only seeking for profit, surveillance, and oppressing people's freedoms, so they are not able to use their devices with their own language. This situation makes the position of their languages much worse.    Free software and freedom philosophy gives a ray of hope to Anatolian minorities. With free documentation and free software, with using their devices in their own language, people may keep their language alive by contributing projects like Wiktionary and Wikisource.</description>
-        <persons/>
+In Turkey, along the Anatolia, more than 25 languages are spoken. As Özgür Yazılım Derneği (Free Software Association of Turkey), we wanted to translate our website and works to these Anatolian languages such as Kurdish, Zazaki, Lazuri, Homshetsi and so on. After we started conversations with culture institutes and associations from these folks, they replied as they are not able to use their devices with their own language. So now, we started a project with Anatolian minorities, we are translating and documenting GNU/Linux, GNOME, Firefox and LibreOffice (maybe Android/Replicant) to this languages, so with free software, these people can use computers and mobile phones with their own language. Also we are starting Wiktionary and Wikipedia ersions in these languages in order to keep these languages alive and compile the documents and publications in their language to make them documented well.     In this talk at 36C3,  we will tell a project in Turkey (a developing country which has no free software consciousness). In our project, Anatolian languages and minorities' cultures may be kept in the future. So many people uses proprietary software in their devices. These minorities are repressed to use their languages, not only their publication houses were closed by government, but also they were judged at "National Security Courts" in Turkey. With these assimilation policies, especially Lazuri and Homshetsi languages are imperilment right now, children are acquiring only Turkish as main tongue. Proprietary software and "proprietarians" are only seeking for profit, surveillance, and oppressing people's freedoms, so they are not able to use their devices with their own language. This situation makes the position of their languages much worse.    Free software and freedom philosophy gives a ray of hope to Anatolian minorities. With free documentation and free software, with using their devices in their own language, people may keep their language alive by contributing projects like Wiktionary and Wikisource.</description>
+        <persons>
+          <person id="0">Dreirik</person>
+        </persons>
         <links/>
       </event>
       <event id="1094" guid="73b43a41-5736-46bd-a4ef-1b0281f6fd83">
@@ -2917,27 +2940,6 @@ On this talk, we will talk about the state of differentsecure messaging applicat
       </event>
     </room>
     <room name="Lecture room M2">
-      <event id="1066" guid="48801aee-64d2-4e30-8b92-8d360566bbac">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:3.8_Billion_users%27_future:_Email_3.0</url>
-        <logo/>
-        <date>2019-12-29T20:30:00+01:00</date>
-        <start>20:30</start>
-        <duration>0:30</duration>
-        <room>Lecture room M2</room>
-        <slug>36c3-1066-session_3_8_billion_users_future_email_3_0</slug>
-        <title>3.8 Billion users' future: Email 3.0</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?
-Hundreds of messaging platforms have launched and failed over the last 50 years. One has grown voraciously, netting 3.8 billion users, and handling 103 trillion messages each year. Like the Internet itself, email is decentralised and censorship resistant by design. It is technically extensible, powered by Free Software, and Open Standards agreed independently by consensus.LinkedIn, Facebook, Google and others are racing to own the future of this space, with Gmail alone accounting for 28% of email opens in 2018, in Western countries. Email's freedom, privacy, and security are taken for granted and under threat. What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?</description>
-        <persons>
-          <person id="0">Dreirik</person>
-        </persons>
-        <links/>
-      </event>
       <event id="1059" guid="40223e47-9260-4412-a25c-3ed07ac2fd70">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Carbon.txt_-_what_would_a_robots.txt_for_green_infrastructure_look_like%3F</url>
         <logo/>

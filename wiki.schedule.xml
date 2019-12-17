@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-17 02:10</version>
+  <version>2019-12-17 02:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1841,6 +1841,30 @@ The RegioPR-Treffen from the CCC organized by Vollkorn</description>
           <person id="0">Dreirik</person>
         </persons>
         <links/>
+      </event>
+      <event id="1199" guid="816f77ca-d7bf-4869-b5cf-529a89501e85">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Yubikey_101</url>
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1199-session_yubikey_101</slug>
+        <title>Yubikey 101</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Introduction to Yubikeys
+Have you ever wanted to step up your personal security posture with hardware security tokens?Did you receive a yubikey for Christmas, and now are like "now what??"Want to teach your mom how to use a yubikey?Then this workshop is for you!We will spend an hour going through a walk-through general setup and configuration of yubikeys and how to integrate them into daily life by walking through examples:* making sure the yubikey in front of you is actually a yubikey (attestation)* using 2FA with your nextcloud/github account* integrating passdb with yubikeys* generating gpg keys on an airgapped machine and transferring subkeys to a yubikey* signing commits with a yubikey* using your yubikey to SSH into remote machines</description>
+        <persons>
+          <person id="0">Sather</person>
+          <person id="0">Dgrove</person>
+        </persons>
+        <links>
+          <link>http://hashbang.sh</link>
+        </links>
       </event>
     </room>
     <room name="Lecture room M3">

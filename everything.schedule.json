@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "bison; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 18:00",
+    "version": "bison; chaos-west 1.0; open-infra 6; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 18:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -7184,7 +7184,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Introduction to Yubikeys\nHave you ever wanted to step up your personal security posture with hardware security tokens?Did you receive a yubikey for Christmas, and now are like \"now what??\"Want to teach your mom how to use a yubikey?Then this workshop is for you!We will spend an hour going through a walk-through general setup and configuration of yubikeys and how to integrate them into daily life by walking through examples:* making sure the yubikey in front of you is actually a yubikey (attestation)* using 2FA with your nextcloud/github account* integrating passdb with yubikeys* generating gpg keys on an airgapped machine and transferring subkeys to a yubikey* signing commits with a yubikey* using your yubikey to SSH into remote machines",
+                "description": "Introduction to Yubikeys\nHave you ever wanted to step up your personal security posture with hardware security tokens?Did you receive a YubiKey for Christmas, and now are like \"now what??\"Want to teach your mom how to use a YubiKey?Then this workshop is for you!We will spend an hour going through a walk-through general setup and configuration of YubiKeys and how to integrate them into daily life by walking through examples:* making sure the YubiKey in front of you is actually a YubiKey (attestation)* using 2FA with your nextcloud/github account* integrating passdb with YubiKeys* generating gpg keys on an airgapped machine and transferring subkeys to a YubiKey* signing commits with a YubiKey* using your YubiKey to SSH into remote machines",
                 "persons": [
                   {
                     "id": 0,

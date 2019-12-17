@@ -1,5 +1,5 @@
 <schedule>
-  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 10:50</version>
+  <version>awk; chaos-west 1.0; open-infra 5; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-17 11:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3882,6 +3882,31 @@ A short demonstration of techniques, materials and methods for rope access and r
           <person id="0">Maltman23</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Assembly:ICMP">
+      <event id="1202" guid="f56f634b-cfab-426b-a7a5-45b7e9440e4c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerspace_Erlangen</url>
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:ICMP</room>
+        <slug>36c3-1202-session_hackerspace_erlangen</slug>
+        <title>Hackerspace Erlangen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Latest news, open discussions and meet-and-greet.
+Since ex-Teppich, interest of having a Hacker- and Makerspace in Erlangen has sparked from many groups. We will report on current developments, but mostly want to get the hacker side of people together and exchange ideas and discuss possible implementations.Feel free to join! Stay tuned and subscribe to oeffentlich@erlangen.ccc.de for more information on this endeavour.</description>
+        <persons>
+          <person id="0">Codemonk</person>
+        </persons>
+        <links>
+          <link>https://erlangen.ccc.de.</link>
+        </links>
       </event>
     </room>
     <room name="CCL Terrace">

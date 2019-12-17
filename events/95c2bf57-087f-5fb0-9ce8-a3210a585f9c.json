@@ -10,7 +10,7 @@
   "url": "https://cfp.verschwoerhaus.de/36c3/talk/HMMPQQ/",
   "title": "Interactively Discovering Implicational Knowledge in Wikidata",
   "subtitle": "",
-  "track": null,
+  "track": "Science",
   "type": "Talk",
   "language": "en",
   "abstract": "The ever-growing Wikidata contains a vast amount of factual knowledge. More complex knowledge, however, lies hidden beneath the surface: it can only be discovered by combining the factual statements of multiple items. Some of this knowledge may not even be stated explicitly, but rather hold simply by virtue of having no counterexamples present on Wikidata. Such implicit knowledge is not readily discoverable by humans, as the sheer size of Wikidata makes it impossible to verify the absence of counterexamples. We set out to identify a form of implicit knowledge that is succinctly representable, yet still comprehensible to humans: implications between properties of some set of items. Using techniques from Formal Concept Analysis, we show how to compute such implications, which can then be used to enhance the quality of Wikidata itself: absence of an expected rule points to counterexamples in the data set; unexpected rules indicate incomplete data. We propose an interactive exploration process that guides editors to identify false counterexamples and provide missing data. This procedure forms the basis of [The Exploration Game](https://tools.wmflabs.org/teg/), a game in which players can explore the implicational knowledge of set of Wikidata items of their choosing. We hope that the discovered knowledge may be useful not only for the insights gained, but also as a basis from which to create entity schemata.",

@@ -1,5 +1,5 @@
 <schedule>
-  <version>bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; lightning Lanthanum; wiki 2019-12-18 11:20</version>
+  <version>bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; lightning Lanthanum; wiki 2019-12-18 11:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -2184,7 +2184,7 @@ Stammtisch für Menschen aus dem Bildungsbereich</description>
         <language>de</language>
         <abstract/>
         <description>Part I: Intro to CTFs with the example of picoCTF.  Can be used as guided preparation for junior (and/or main) C3 CTF. Part II: Binary exploitation with Stack Based Buffer Overflows. Workshop VM provided (please download before)
-Part I: Intro to CTFs with the example of picoCTF.  Short example showcases for each of the main categories (very basic examples for: web, crypto, reversing, forensic); binary exploitation covered in part II). Part II: Binary exploitation with Stack Based Buffer Overflows and Return Oriented Programming. Workshop VM for the whole Workshop provided (please download before, Link will follow).</description>
+Part I: Intro to CTFs with the example of picoCTF.  Short example showcases for each of the main categories (very basic examples for: web, crypto, reversing, forensic); binary exploitation covered in part II). Part II: Binary exploitation with Stack Based Buffer Overflows and Return Oriented Programming. Workshop VM (containing slides, exercises etc) for the whole Workshop provided (please download before, Link will follow).=&gt; To get most of the workshop, and especially Part II, its best when you follow along! :)So what you need is:- some sort of Hypervisor (Virtualbox, VMware) installed- ca. 10 Gb free diskspace for the VM (ping me via email if you really can't afford the space- we will find a solution)- import the VM and you're ready to go, excited to see you there :)</description>
         <persons>
           <person id="0">Chiliz</person>
         </persons>

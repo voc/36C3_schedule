@@ -1,5 +1,5 @@
 <schedule>
-  <version>bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; lightning Yttrium</version>
+  <version>bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; lightning Lanthanum</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3591,6 +3591,59 @@ After identification of related messages, we dumped ECM and BCM micro-controller
         <attachments/>
         <answers/>
       </event>
+      <event id="3176" guid="8c7badce-b7f1-54e3-b5ad-74cfa3a75d45">
+        <logo/>
+        <date>2019-12-28T11:35:00+01:00</date>
+        <start>11:35</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>U3WQCS</slug>
+        <url>https://c3lt.de/36c3/talk/U3WQCS/</url>
+        <title>freewvs - a free web vulnerability scanner</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>freewvs is a little tool that allows to locally scan filesystems for known vulnerable web applications.</abstract>
+        <description>freewvs is a tool for web server administrators that allows them to see if their users are using any web applications with known vulnerabilities. It detects the presence and version of web applications (e.g CMS systems like Drupal, Joomla, Wordpress) and checks it against a list of known vulnerable versions. It is Free Software under the CC0 license.&#13;
+https://freewvs.schokokeks.org/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="169">Hanno Böck</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3168" guid="33fe8591-bdd7-5b42-ab54-4411a655e27c">
+        <logo/>
+        <date>2019-12-28T11:40:00+01:00</date>
+        <start>11:40</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>VVRMMA</slug>
+        <url>https://c3lt.de/36c3/talk/VVRMMA/</url>
+        <title>Pocket Science Lab</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>PSLab is a small USB powered open hardware extension for your Android phone or PC that lets you measure all kinds of things.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="162">Marc Nause</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3160" guid="8063162a-42b1-583c-90f9-293d6574139f">
         <logo/>
         <date>2019-12-28T11:45:00+01:00</date>
@@ -3639,6 +3692,59 @@ This talk will give a very brief introduction on why the protocol is needed, how
         </recording>
         <persons>
           <person id="62">Mario Behling</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3175" guid="17270e1f-3379-5ef7-8cbc-5487d97efeda">
+        <logo/>
+        <date>2019-12-28T12:25:00+01:00</date>
+        <start>12:25</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>CRHAQR</slug>
+        <url>https://c3lt.de/36c3/talk/CRHAQR/</url>
+        <title>Ungewöhnliche Taktiken für Online Campaigning</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>**Gibt es Alternativen zur Petition? Kreative Wege für Online Campaigning.**</abstract>
+        <description>Wenn du richtig viel Glück hast reicht eine Petition aus um eine Kampagne zu gewinnen. Leider ist in den meisten Fällen jahrelange harte Arbeit gefragt, bevor politische Kampagnen Wirkung zeigen.&#13;
+Deswegen ist es für Aktivisten um so wichtiger mit verschiedenen Taktiken zu arbeiten um die Aufmerksamkeit des Targets oder Zielgruppe auf sich zu ziehen, den Druck zu erhöhen und die Unterstützer zu binden. In diesem Talk geht es um ein paar spannende digitale Alternativen zur schnöden Petition.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="168">Lena Rieger</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3167" guid="4c1b84bd-2548-508e-8bf9-bd9092c4d06b">
+        <logo/>
+        <date>2019-12-28T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>KRDS97</slug>
+        <url>https://c3lt.de/36c3/talk/KRDS97/</url>
+        <title>TSDB mal anders</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Was kann man abseits von Monitoring mit Grafana und Time series databases machen?</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="163">zivillian</person>
         </persons>
         <links/>
         <attachments/>
@@ -3803,6 +3909,32 @@ https://www.teslaradar.com/</description>
         </recording>
         <persons>
           <person id="156">Emily Hammes</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3161" guid="241763f2-f389-5769-b710-6905efb4dc1b">
+        <logo/>
+        <date>2019-12-28T13:15:00+01:00</date>
+        <start>13:15</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>NVYV77</slug>
+        <url>https://c3lt.de/36c3/talk/NVYV77/</url>
+        <title>Exciting developments around Linux on Phones</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>There have been countless attempts to dethrone Android. Many tried, many failed. But 2020 might be the year we finally see this change!</abstract>
+        <description>A brief overview of the things you absolutely *have* to know about all the hot alternative mobile operating systems out there, as well as some upcoming devices. If you ever wondered what happened to [Ubuntu Touch](https://ubuntu-touch.io) since UBports took over, what [KDE is up to with Plasma Mobile](https://www.plasma-mobile.org/), and what to expect from Manjaro on Phones, or you're thinking about buying a Librem 5 or PinePhone, this is the talk for you.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="75">Jan Sprinz</person>
         </persons>
         <links/>
         <attachments/>
@@ -7055,6 +7187,60 @@ Durchs Sporangium katapultieren wie immer julika &amp; Rainer</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="3169" guid="4a37668d-e619-5486-a375-0894dec1c2ba">
+        <logo/>
+        <date>2019-12-29T11:35:00+01:00</date>
+        <start>11:35</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>RSZDHX</slug>
+        <url>https://c3lt.de/36c3/talk/RSZDHX/</url>
+        <title>Where Trust Ends - Certificate Pinning for the Rest of Us!</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>A quick intro to certificate pinning, why it is useful and a new Firefox add-on to do this for any https enabled website.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="164">Heurekus</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3178" guid="d4558899-a24d-5e7a-b08e-d352f642b910">
+        <logo/>
+        <date>2019-12-29T11:40:00+01:00</date>
+        <start>11:40</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>EYVQVY</slug>
+        <url>https://c3lt.de/36c3/talk/EYVQVY/</url>
+        <title>distri: a Linux distribution to research fast package management</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Linux package managers are too slow!</abstract>
+        <description>Computers can easily process gigabytes of data per second, and yet package installation in current Linux distributions achieves data rates of only a few megabytes per second, even on top-of-the-line computers.&#13;
+&#13;
+In this talk, I explain current design choices and how one can make different design choices for drastically better outcomes. This is not just armchair criticism: I have implemented these ideas in a research Linux distribution to prove they’re feasible.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="133">Michael Stapelberg</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3154" guid="cda64c9e-b230-589a-ace0-6beca2693eff">
         <logo/>
         <date>2019-12-29T12:35:00+01:00</date>
@@ -7076,6 +7262,32 @@ Durchs Sporangium katapultieren wie immer julika &amp; Rainer</description>
         </recording>
         <persons>
           <person id="1">gedsic</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3172" guid="1ff7b258-2624-59eb-8e0a-5c9face00b84">
+        <logo/>
+        <date>2019-12-29T12:50:00+01:00</date>
+        <start>12:50</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>JJA3MC</slug>
+        <url>https://c3lt.de/36c3/talk/JJA3MC/</url>
+        <title>Pix2Vex: Unsupervised 3D-Reconstruction</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Performing texture-agnostic Image-to-Geometry Reconstruction without 3D Supervision.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="153">Felix Petersen</person>
         </persons>
         <links/>
         <attachments/>

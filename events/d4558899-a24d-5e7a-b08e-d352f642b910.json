@@ -1,0 +1,32 @@
+{
+  "id": 3178,
+  "guid": "d4558899-a24d-5e7a-b08e-d352f642b910",
+  "logo": "",
+  "date": "2019-12-29T11:40:00+01:00",
+  "start": "11:40",
+  "duration": "00:05",
+  "room": "Borg",
+  "slug": "EYVQVY",
+  "url": "https://c3lt.de/36c3/talk/EYVQVY/",
+  "title": "distri: a Linux distribution to research fast package management",
+  "subtitle": "",
+  "track": "#36C3 Lightning Talks",
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "Linux package managers are too slow!",
+  "description": "Computers can easily process gigabytes of data per second, and yet package installation in current Linux distributions achieves data rates of only a few megabytes per second, even on top-of-the-line computers.\r\n\r\nIn this talk, I explain current design choices and how one can make different design choices for drastically better outcomes. This is not just armchair criticism: I have implemented these ideas in a research Linux distribution to prove they\u2019re feasible.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 133,
+      "code": "QCEP3Y",
+      "public_name": "Michael Stapelberg",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

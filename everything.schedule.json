@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; lightning Yttrium; wiki 2019-12-18 08:00",
+    "version": "bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; lightning Lanthanum; wiki 2019-12-18 09:00",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -4929,6 +4929,70 @@
                 "answers": []
               },
               {
+                "id": 3176,
+                "guid": "8c7badce-b7f1-54e3-b5ad-74cfa3a75d45",
+                "logo": "",
+                "date": "2019-12-28T11:35:00+01:00",
+                "start": "11:35",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "U3WQCS",
+                "url": "https://c3lt.de/36c3/talk/U3WQCS/",
+                "title": "freewvs - a free web vulnerability scanner",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "freewvs is a little tool that allows to locally scan filesystems for known vulnerable web applications.",
+                "description": "freewvs is a tool for web server administrators that allows them to see if their users are using any web applications with known vulnerabilities. It detects the presence and version of web applications (e.g CMS systems like Drupal, Joomla, Wordpress) and checks it against a list of known vulnerable versions. It is Free Software under the CC0 license.\r\nhttps://freewvs.schokokeks.org/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 169,
+                    "code": "WP9DSB",
+                    "public_name": "Hanno B\u00f6ck",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3168,
+                "guid": "33fe8591-bdd7-5b42-ab54-4411a655e27c",
+                "logo": "",
+                "date": "2019-12-28T11:40:00+01:00",
+                "start": "11:40",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "VVRMMA",
+                "url": "https://c3lt.de/36c3/talk/VVRMMA/",
+                "title": "Pocket Science Lab",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "PSLab is a small USB powered open hardware extension for your Android phone or PC that lets you measure all kinds of things.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 162,
+                    "code": "MKPLFJ",
+                    "public_name": "Marc Nause",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3160,
                 "guid": "8063162a-42b1-583c-90f9-293d6574139f",
                 "logo": "",
@@ -4984,6 +5048,70 @@
                     "id": 62,
                     "code": "TPYWVP",
                     "public_name": "Mario Behling",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3175,
+                "guid": "17270e1f-3379-5ef7-8cbc-5487d97efeda",
+                "logo": "",
+                "date": "2019-12-28T12:25:00+01:00",
+                "start": "12:25",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "CRHAQR",
+                "url": "https://c3lt.de/36c3/talk/CRHAQR/",
+                "title": "Ungew\u00f6hnliche Taktiken f\u00fcr Online Campaigning",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "**Gibt es Alternativen zur Petition? Kreative Wege f\u00fcr Online Campaigning.**",
+                "description": "Wenn du richtig viel Gl\u00fcck hast reicht eine Petition aus um eine Kampagne zu gewinnen. Leider ist in den meisten F\u00e4llen jahrelange harte Arbeit gefragt, bevor politische Kampagnen Wirkung zeigen.\r\nDeswegen ist es f\u00fcr Aktivisten um so wichtiger mit verschiedenen Taktiken zu arbeiten um die Aufmerksamkeit des Targets oder Zielgruppe auf sich zu ziehen, den Druck zu erh\u00f6hen und die Unterst\u00fctzer zu binden. In diesem Talk geht es um ein paar spannende digitale Alternativen zur schn\u00f6den Petition.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 168,
+                    "code": "8DQTCH",
+                    "public_name": "Lena Rieger",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3167,
+                "guid": "4c1b84bd-2548-508e-8bf9-bd9092c4d06b",
+                "logo": "",
+                "date": "2019-12-28T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "KRDS97",
+                "url": "https://c3lt.de/36c3/talk/KRDS97/",
+                "title": "TSDB mal anders",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "Was kann man abseits von Monitoring mit Grafana und Time series databases machen?",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 163,
+                    "code": "8PHKTB",
+                    "public_name": "zivillian",
                     "biography": null,
                     "answers": []
                   }
@@ -5176,6 +5304,38 @@
                     "id": 156,
                     "code": "GYFDHK",
                     "public_name": "Emily Hammes",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3161,
+                "guid": "241763f2-f389-5769-b710-6905efb4dc1b",
+                "logo": "",
+                "date": "2019-12-28T13:15:00+01:00",
+                "start": "13:15",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "NVYV77",
+                "url": "https://c3lt.de/36c3/talk/NVYV77/",
+                "title": "Exciting developments around Linux on Phones",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "There have been countless attempts to dethrone Android. Many tried, many failed. But 2020 might be the year we finally see this change!",
+                "description": "A brief overview of the things you absolutely *have* to know about all the hot alternative mobile operating systems out there, as well as some upcoming devices. If you ever wondered what happened to [Ubuntu Touch](https://ubuntu-touch.io) since UBports took over, what [KDE is up to with Plasma Mobile](https://www.plasma-mobile.org/), and what to expect from Manjaro on Phones, or you're thinking about buying a Librem 5 or PinePhone, this is the talk for you.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 75,
+                    "code": "FNJXNJ",
+                    "public_name": "Jan Sprinz",
                     "biography": null,
                     "answers": []
                   }
@@ -10147,6 +10307,70 @@
                 "answers": []
               },
               {
+                "id": 3169,
+                "guid": "4a37668d-e619-5486-a375-0894dec1c2ba",
+                "logo": "",
+                "date": "2019-12-29T11:35:00+01:00",
+                "start": "11:35",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "RSZDHX",
+                "url": "https://c3lt.de/36c3/talk/RSZDHX/",
+                "title": "Where Trust Ends - Certificate Pinning for the Rest of Us!",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "A quick intro to certificate pinning, why it is useful and a new Firefox add-on to do this for any https enabled website.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 164,
+                    "code": "XVWPWQ",
+                    "public_name": "Heurekus",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3178,
+                "guid": "d4558899-a24d-5e7a-b08e-d352f642b910",
+                "logo": "",
+                "date": "2019-12-29T11:40:00+01:00",
+                "start": "11:40",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "EYVQVY",
+                "url": "https://c3lt.de/36c3/talk/EYVQVY/",
+                "title": "distri: a Linux distribution to research fast package management",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Linux package managers are too slow!",
+                "description": "Computers can easily process gigabytes of data per second, and yet package installation in current Linux distributions achieves data rates of only a few megabytes per second, even on top-of-the-line computers.\r\n\r\nIn this talk, I explain current design choices and how one can make different design choices for drastically better outcomes. This is not just armchair criticism: I have implemented these ideas in a research Linux distribution to prove they\u2019re feasible.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 133,
+                    "code": "QCEP3Y",
+                    "public_name": "Michael Stapelberg",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3154,
                 "guid": "cda64c9e-b230-589a-ace0-6beca2693eff",
                 "logo": "",
@@ -10170,6 +10394,38 @@
                     "id": 1,
                     "code": "FGUN9A",
                     "public_name": "gedsic",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3172,
+                "guid": "1ff7b258-2624-59eb-8e0a-5c9face00b84",
+                "logo": "",
+                "date": "2019-12-29T12:50:00+01:00",
+                "start": "12:50",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "JJA3MC",
+                "url": "https://c3lt.de/36c3/talk/JJA3MC/",
+                "title": "Pix2Vex: Unsupervised 3D-Reconstruction",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Performing texture-agnostic Image-to-Geometry Reconstruction without 3D Supervision.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 153,
+                    "code": "UHP9ZX",
+                    "public_name": "Felix Petersen",
                     "biography": null,
                     "answers": []
                   }

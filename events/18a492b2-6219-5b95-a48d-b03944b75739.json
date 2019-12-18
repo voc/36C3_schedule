@@ -10,7 +10,7 @@
   "url": "https://talks.oio.social/36c3-oio/talk/WSLWVM/",
   "title": "Delta Chat: e-mail based messaging, the Rustocalypse and UX driven approach [YBTI/wefixthenet session]",
   "subtitle": "",
-  "track": null,
+  "track": "Resilience & Sustainability",
   "type": "Talk 45 minutes + 10 minutes Q&A",
   "language": "en",
   "abstract": "Delta Chat is an e-mail instant messenger that is just becoming available on all platforms. \r\nUnlike other offerings, Delta Chat is no platform and operates no own servers. \r\nInstead it uses existing SMTP/IMAP servers to send and receive messages.\r\nWe'll talk about the current development status on all platforms, our new \r\nRust-core based approach, our decentralized e2e-encryption facilities (not requiring \r\nkeyservers, and safe against active attacks) and how we are generally driving\r\ndevelopments from UX and security perspectives.  We also aim to showcase\r\n\"burner accounts\", a new concept that we are developing and discussing\r\nwith activists in eastern european countries and asian cities.",

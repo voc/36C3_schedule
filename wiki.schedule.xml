@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-18 12:50</version>
+  <version>2019-12-18 13:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1007,6 +1007,29 @@ For more information please refer to the foodhackingbase wiki page: https://food
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Fhb_36c3</link>
+        </links>
+      </event>
+      <event id="1236" guid="f69665f6-d183-4fc6-86a9-00569f0815b8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Whisky_Tasting</url>
+        <logo/>
+        <date>2019-12-27T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>36c3-1236-session_whisky_tasting</slug>
+        <title>Whisky Tasting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Whisky Tasting at foodhackingbase
+For more information please refer to the foodhackingbase wiki page: https://foodhackingbase.org/wiki/Whisky_tasting_36c3</description>
+        <persons>
+          <person id="0">0x378</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Whisky_tasting_36c3</link>
         </links>
       </event>
     </room>
@@ -2592,6 +2615,77 @@ In dieser Runde können alle Fragen rund um die Haecksen gestellt werden - Sind 
         </persons>
         <links>
           <link>http://haecksen.org</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Foodhackingbase">
+      <event id="1234" guid="5d4714ef-b83c-4cca-9d78-c43b15114af7">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Kefir_Making</url>
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>36c3-1234-session_kefir_making</slug>
+        <title>Kefir Making</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>At this workshop you will learn how to make your own kefir ferments using the kefir grain culture.
+For more information please refer to the foodhackingbase wiki page: https://foodhackingbase.org/wiki/Kefir_making_36c3</description>
+        <persons>
+          <person id="0">0x378</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Kefir_making_36c3</link>
+        </links>
+      </event>
+      <event id="1235" guid="3e19fc1b-25ae-4700-bea9-a223c214ba36">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Mead_making_presentation</url>
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>36c3-1235-session_mead_making_presentation</slug>
+        <title>Mead making presentation</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>A presentation on how to make Mead
+For more information please refer to the foodhackingbase wiki page: https://foodhackingbase.org/wiki/Fhb_36c3Please note that this events is offered on the 27th and the 28th.</description>
+        <persons>
+          <person id="0">0x378</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Fhb_36c3</link>
+        </links>
+      </event>
+      <event id="1237" guid="ff1e410b-6753-4219-b256-6d1db2a37081">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:%EC%98%A4%EB%B0%A9%EC%83%89_Five_Colour_%EA%B9%80%EB%B0%A5_Gimbab_Varieties</url>
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>36c3-1237-session__five_colour__gimbab_varieties</slug>
+        <title>오방색 Five Colour 김밥 Gimbab Varieties</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>You will learn during this hands on workshop directly from Eunha who is Korean, how to prepare popular Korean picnic food 김밥 (gimbab),
+For more information please refer to the foodhackingbase wiki page: https://foodhackingbase.org/wiki/Gimbab_making_36c3</description>
+        <persons>
+          <person id="0">0x378</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Gimbab_making_36c3</link>
         </links>
       </event>
     </room>

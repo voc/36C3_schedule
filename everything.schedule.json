@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; komona 0.1; lightning Lanthanum; wiki 2019-12-18 22:10",
+    "version": "bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; komona 0.1; lightning Lanthanum; wiki 2019-12-18 23:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -2338,7 +2338,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "Part I: Intro to CTFs with the example of picoCTF.  Can be used as guided preparation for junior (and/or main) C3 CTF. Part II: Binary exploitation with Stack Based Buffer Overflows. Workshop VM provided (please download before)\n'''Part I: '''Intro to CTFs with the example of picoCTF.  Short example showcases for each of the main categories (very basic examples for: web, crypto, reversing, forensic); binary exploitation covered in part II). <br />'''Part II: '''Binary exploitation with Stack Based Buffer Overflows and Return Oriented Programming. Workshop VM (containing slides, exercises etc) for the whole Workshop provided (please download before, Link will follow).<br />=> To get most of the workshop, and especially Part II, its best when you follow along! :)So what you need is:* some sort of Hypervisor (Virtualbox, VMware) installed* ca. 10 Gb free diskspace for the VM (ping me via email if you really can't afford the space- we will find a solution)* import the VM and you're ready to go, excited to see you there :)",
+                "description": "Part I: Intro to CTFs with the example of picoCTF.  Can be used as guided preparation for junior (and/or main) C3 CTF. Part II: Binary exploitation with Stack Based Buffer Overflows. Workshop VM provided (please download before)\nThis is a workshop primarily put together for haecksen, but if there are free seats, and you want to join, that works.However, it's very important to me that every haeckse that wants to join at any given time has the opportunity. Please be kind enough to respect that and help to make that happen. '''Part I: '''Intro to CTFs with the example of picoCTF.  Short example showcases for each of the main categories (very basic examples for: web, crypto, reversing, forensic); binary exploitation covered in part II). <br />'''Part II: '''Binary exploitation with Stack Based Buffer Overflows and Return Oriented Programming. Workshop VM (containing slides, exercises etc) for the whole Workshop provided (please download before, Link will follow).<br />=> To get most of the workshop, and especially Part II, its best when you follow along! :)So what you need is:* some sort of Hypervisor (Virtualbox, VMware) installed* ca. 10 Gb free diskspace for the VM (ping me via email if you really can't afford the space- we will find a solution)* import the VM and you're ready to go, excited to see you there :)",
                 "persons": [
                   {
                     "id": 0,

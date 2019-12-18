@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-18 12:00</version>
+  <version>2019-12-18 12:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -893,6 +893,31 @@ The will be an extra registration for the workshop which will be linked in this 
     <room name="ChaosZone"/>
     <room name="OIO Stage"/>
     <room name="OIO Workshop"/>
+    <room name="Assembly:Foodhackingbase">
+      <event id="1229" guid="501dc0d8-9558-43db-8614-d391410f1b8b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Curtisannes_Cake_Center</url>
+        <logo/>
+        <date>2019-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>3:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>36c3-1229-session_curtisannes_cake_center</slug>
+        <title>Curtisannes Cake Center</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description>Bringing curtisannes cantine from OpenLab Augsburg to 36C3!
+For more information please refer to the foodhackingbase wiki page: https://foodhackingbase.org/wiki/Ccc36c3</description>
+        <persons>
+          <person id="0">0x378</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Ccc36c3</link>
+        </links>
+      </event>
+    </room>
     <room name="C-base">
       <event id="1158" guid="4e14dacd-e21b-43ef-884a-5723d19ab6a8">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Cyber4EDU</url>

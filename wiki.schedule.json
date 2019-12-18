@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-18 12:00",
+    "version": "2019-12-18 12:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -1090,6 +1090,36 @@
             "ChaosZone": [],
             "OIO Stage": [],
             "OIO Workshop": [],
+            "Assembly:Foodhackingbase": [
+              {
+                "id": 1229,
+                "guid": "501dc0d8-9558-43db-8614-d391410f1b8b",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Curtisannes_Cake_Center",
+                "logo": null,
+                "date": "2019-12-27T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "3:00",
+                "room": "Assembly:Foodhackingbase",
+                "slug": "36c3-1229-session_curtisannes_cake_center",
+                "title": "Curtisannes Cake Center",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "Bringing curtisannes cantine from OpenLab Augsburg to 36C3!\nFor more information please refer to the foodhackingbase wiki page: https://foodhackingbase.org/wiki/Ccc36c3",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:0x378",
+                    "public_name": "0x378"
+                  }
+                ],
+                "links": [
+                  "https://foodhackingbase.org/wiki/Ccc36c3"
+                ]
+              }
+            ],
             "C-base": [
               {
                 "id": 1158,

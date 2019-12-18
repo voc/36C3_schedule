@@ -1,5 +1,5 @@
 <schedule>
-  <version>bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; komona 0.1; lightning Lanthanum; wiki 2019-12-18 22:00</version>
+  <version>bison; chaos-west 1.0; open-infra 7; wikipaka 0.4; chaoszone 0.2; komona 0.1; lightning Lanthanum; wiki 2019-12-18 22:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -4061,6 +4061,30 @@ Wir wollen einen Vorschlag für eine Checkliste für Schulen diskutieren. Die Ch
         </persons>
         <links>
           <link>https://cyber4edu.org</link>
+        </links>
+      </event>
+      <event id="1249" guid="6ce16f97-bdde-4638-888f-5067564b41a2">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:F-Droid_Meetup</url>
+        <logo/>
+        <date>2019-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1249-session_f_droid_meetup</slug>
+        <title>F-Droid Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>F-Droid Community Meetup
+F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.This is a meet-up of F-Droid developers, developers of FOSS Android apps and interested users of the free Android ecosystem.</description>
+        <persons>
+          <person id="0">Bubu</person>
+        </persons>
+        <links>
+          <link>https://f-droid.org</link>
+          <link>https://mastodon.technology/@fdroidorg</link>
         </links>
       </event>
     </room>

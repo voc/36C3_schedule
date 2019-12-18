@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-18 07:00",
+    "version": "2019-12-18 08:00",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -1949,32 +1949,6 @@
             ],
             "Lecture room M1": [
               {
-                "id": 1177,
-                "guid": "22f132e1-41b4-47c1-8097-c30636edaefe",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_l%CC%B6a%CC%B6n%CC%B6e%CC%B6_dump",
-                "logo": null,
-                "date": "2019-12-28T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "1:15",
-                "room": "Lecture room M1",
-                "slug": "36c3-1177-session_a_trip_down_the_memory_l_a_n_e_dump",
-                "title": "A trip down the memory l\u0336a\u0336n\u0336e\u0336 dump",
-                "subtitle": "An introduction to memory forensics",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "This workshop covers the fundamentals of memory internals and then dive into hands-on analysis with volatility. Newbie or seasoned, professional or hobbyist, this session is for you!\nBoth theoretical and technical aspects of memory forensics will be covered: A theoretical approach of the basics of how memory in Windows systems works and hands-on dive to memory analysis.<br>The following topics will be discussed:<br>* How memory works in Windows systems* Memory acquisition* Introduction to Volatility and its plugins* Hands-on analysis of machine hit by ransomwareLast 15 minutes will feature a general discussion and ideally will set the foundation of a C3 assembly dedicated to Digital ForensicsIt is a BYOD, so please have the latest version of volatility installed on your machine!<br>https://github.com/volatilityfoundation/volatility/wiki/Installation<br>The workshop will be all about how to use it, not install it! :)",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:November",
-                    "public_name": "November"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1005,
                 "guid": "77483904-f342-461c-827c-cd1c63613b5f",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Accessibility_and_Inclusion",
@@ -3057,6 +3031,32 @@
                 "links": [
                   "https://kahoot.it/"
                 ]
+              },
+              {
+                "id": 1177,
+                "guid": "22f132e1-41b4-47c1-8097-c30636edaefe",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_l%CC%B6a%CC%B6n%CC%B6e%CC%B6_dump",
+                "logo": null,
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:15",
+                "room": "Lecture room 11",
+                "slug": "36c3-1177-session_a_trip_down_the_memory_l_a_n_e_dump",
+                "title": "A trip down the memory l\u0336a\u0336n\u0336e\u0336 dump",
+                "subtitle": "An introduction to memory forensics",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "This workshop covers the fundamentals of memory internals and then dive into hands-on analysis with volatility. Newbie or seasoned, professional or hobbyist, this session is for you!\nBoth theoretical and technical aspects of memory forensics will be covered: A theoretical approach of the basics of how memory in Windows systems works and hands-on dive to memory analysis.<br>The following topics will be discussed:<br>* How memory works in Windows systems* Memory acquisition* Introduction to Volatility and its plugins* Hands-on analysis of machine hit by ransomwareLast 15 minutes will feature a general discussion and ideally will set the foundation of a C3 assembly dedicated to Digital ForensicsIt is a BYOD, so please have the latest version of volatility installed on your machine!<br>https://github.com/volatilityfoundation/volatility/wiki/Installation<br>The workshop will be all about how to use it, not install it! :)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:November",
+                    "public_name": "November"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1002,

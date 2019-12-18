@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-18 17:30",
+    "version": "2019-12-18 20:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -148,18 +148,18 @@
               {
                 "id": 1044,
                 "guid": "f729430f-eaaa-4c12-831a-6f07a6af0416",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tor_operator_meetup",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tor_relay_operator_meetup",
                 "logo": null,
                 "date": "2019-12-27T21:00:00+01:00",
                 "start": "21:00",
                 "duration": "1:30",
                 "room": "Lecture room 11",
-                "slug": "36c3-1044-session_tor_operator_meetup",
-                "title": "Tor operator meetup",
-                "subtitle": "",
+                "slug": "36c3-1044-session_tor_relay_operator_meetup",
+                "title": "Tor relay operator meetup",
+                "subtitle": "Meetup1",
                 "track": "self organized sessions",
                 "type": "meeting",
-                "language": "",
+                "language": "en",
                 "abstract": "",
                 "description": "Tor operator meetup, discussion and partly moderated\nTor operator meetup, anyone currently operating any Tor infrastructure or anyone planning to operate and infrastructure in the future is welcome to participate here.",
                 "persons": [
@@ -1081,6 +1081,34 @@
                 ],
                 "links": [
                   "https://kinkygeeks.de"
+                ]
+              },
+              {
+                "id": 1248,
+                "guid": "6aafd768-1ec4-4abe-9acb-0ca2cb255608",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tor_relay_operator_meetup",
+                "logo": null,
+                "date": "2019-12-27T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "2:30",
+                "room": "Lecture room M3",
+                "slug": "36c3-1248-session_tor_relay_operator_meetup",
+                "title": "Tor relay operator meetup",
+                "subtitle": "Meetup 2",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "Tor operator meetup, discussion and partly moderated\nTor operator meetup, anyone currently operating any Tor infrastructure or anyone planning to operate and infrastructure in the future is welcome to participate here.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Utzer",
+                    "public_name": "Utzer"
+                  }
+                ],
+                "links": [
+                  "https://www.torproject.org/"
                 ]
               }
             ],

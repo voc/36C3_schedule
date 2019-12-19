@@ -1,0 +1,32 @@
+{
+  "id": 828,
+  "guid": "c76e9072-025e-5fed-9587-fd731509c4f1",
+  "logo": "",
+  "date": "2019-12-28T13:45:00+00:00",
+  "start": "13:45",
+  "duration": "00:45",
+  "room": "Dome 2",
+  "slug": "PVZ8QC",
+  "url": "https://talks.komona.org/36c3/talk/PVZ8QC/",
+  "title": "The SolidBase app - SoLiD used for communicating budget data of community backed economies",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "en",
+  "abstract": "The [SolidBase app](https://app.solidbase.info/) is for communicating costs of solidarity based enterprises to (potential) members. It's written in [vue.js](https://vuejs.org/) and uses [Solid](https://solid.inrupt.com/how-it-works) for storing data.",
+  "description": "The [SolidBase app](https://app.solidbase.info/) was born in a project emerged within [urgenci](http://urgenci.net/?s=solidbase), the global network for community supported agriculture (CSA). [Solawi, the german CSA network](https://www.solidarische-landwirtschaft.org/das-netzwerk/projekte/solid-base/), took over the role of coordinating it's development. It shall help CSA coordinators to communicate costs that are special to this economic mode to potential members. By this enhanced insight can be gained into the financial needs of the producers and the willingness to contribute adequate amounts of money might be increased.\r\n\r\nIn this talk I'll present the basic functionalities of this app and will give a short intro to the way  it accesses [Solid](https://solid.inrupt.com/how-it-works) from the [vuex store](https://vuex.vuejs.org/).",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 32,
+      "code": "EZLDPK",
+      "public_name": "yova",
+      "biography": "matrix: #solidbase:matrix.allmende.io\r\nmastodon: @yova@social.coop",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

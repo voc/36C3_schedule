@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "bison; chaos-west 1.0; open-infra 8; wikipaka 0.4; chaoszone 0.3; komona 0.2; lightning Lanthanum",
+    "version": "bison; chaos-west 1.0; open-infra 8; wikipaka 0.4; chaoszone 0.4; komona 0.2; lightning Lanthanum",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -2977,6 +2977,38 @@
                     "code": "T9ZTMY",
                     "public_name": "Barbara Kurz",
                     "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 747,
+                "guid": "f4c71fc1-0569-5924-b2e8-2e539aa26186",
+                "logo": "/media/36c3/images/CUVNKQ/Gartensia_logo.png",
+                "date": "2019-12-27T20:50:00+01:00",
+                "start": "20:50",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "CUVNKQ",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/CUVNKQ/",
+                "title": "Den Wohnungsmarkt hacken: Wie geht das?",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "de",
+                "abstract": "Ein Haus das zwanzig Jahre lang leer steht, eine gravierende Wohnungsnot und ein paar Aktivisti reichen um Leerstand zu beenden. \r\nIm Juli wurde die Gartenstra\u00dfe 7 in T\u00fcbingen Leerstand besetzt und ist es bis heute. Der Talk soll davon handeln, warum es zu einer solchen Besetzung kommt, wie so etwas im Alltag aussieht, wie die Besetzung sich von anderen unterscheidet und wie die Zukunft aussehen wird.",
+                "description": "In T\u00fcbingen herrscht wie in vielen anderen St\u00e4dten Wohnungsnot. Das Problem wird insbesondere durch Leerstand und einen eklatanten Mangel an sozialem Wohungsbau versch\u00e4rft. Es gibt verschiedene Gesetzte, Verordnungen und Handlunkgsm\u00f6glichkeiten die der Kommune helfen dem Problem zu begegnen. Trotz aller Bem\u00fchungen der Stadt stehen Geb\u00e4ude wie die Gartenstra\u00dfe 7 *20 Jahre* lang leer.\r\n\r\nDie Besetzung durch Aktivisti im Juli hat diesen Leerstand beendet. Seitdem leben in diesem Haus Menschen, es ist ein t\u00e4glich ge\u00f6ffnetes Caf\u00e8 eingerichtet, es finden Konzerte, Lesungen und Workshops statt. Ich w\u00fcrde gerne zeigen wie es zur Schaffung dieses Freiraums kam, wie der Alltag und aber auch die Zukunft des Projekts aussieht. Gro\u00dfe Rolle wird dabei die \"T\u00fcbinger Linie\" spielen - eine Position der Stadt die Verhandlungen einer R\u00e4umung vorzieht.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 57,
+                    "code": "TZBDGG",
+                    "public_name": "Moanos",
+                    "biography": "I studied Medical Engineering and are currently working in a research lab in neuroscience. We there \"hack\" the brain with electric and magnetic stimulation. For me this means a lot of programming, mostly in Python and C.\r\nI also created an online platform for home training of stroke patients.\r\n\r\nMy biggest Open-Source Project so far is ILMO, a tool for the management of a library.",
                     "answers": []
                   }
                 ],
@@ -10741,38 +10773,6 @@
                     "code": "CPEMXC",
                     "public_name": "Stefan",
                     "biography": "Hacktivism, DevOpse, Guerilla-IT, freies Radio & Co.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 747,
-                "guid": "f4c71fc1-0569-5924-b2e8-2e539aa26186",
-                "logo": "/media/36c3/images/CUVNKQ/Gartensia_logo.png",
-                "date": "2019-12-29T21:45:00+01:00",
-                "start": "21:45",
-                "duration": "01:00",
-                "room": "ChaosZone B\u00fchne",
-                "slug": "CUVNKQ",
-                "url": "https://cfp.chaoszone.cz/36c3/talk/CUVNKQ/",
-                "title": "Den Wohnungsmarkt hacken: Wie geht das?",
-                "subtitle": "",
-                "track": "Ethics, Society & Politics",
-                "type": "Vortrag 60min  (inkl. Q&A)",
-                "language": "de",
-                "abstract": "Ein Haus das zwanzig Jahre lang leer steht, eine gravierende Wohnungsnot und ein paar Aktivisti reichen um Leerstand zu beenden. \r\nIm Juli wurde die Gartenstra\u00dfe 7 in T\u00fcbingen Leerstand besetzt und ist es bis heute. Der Talk soll davon handeln, warum es zu einer solchen Besetzung kommt, wie so etwas im Alltag aussieht, wie die Besetzung sich von anderen unterscheidet und wie die Zukunft aussehen wird.",
-                "description": "In T\u00fcbingen herrscht wie in vielen anderen St\u00e4dten Wohnungsnot. Das Problem wird insbesondere durch Leerstand und einen eklatanten Mangel an sozialem Wohungsbau versch\u00e4rft. Es gibt verschiedene Gesetzte, Verordnungen und Handlunkgsm\u00f6glichkeiten die der Kommune helfen dem Problem zu begegnen. Trotz aller Bem\u00fchungen der Stadt stehen Geb\u00e4ude wie die Gartenstra\u00dfe 7 *20 Jahre* lang leer.\r\n\r\nDie Besetzung durch Aktivisti im Juli hat diesen Leerstand beendet. Seitdem leben in diesem Haus Menschen, es ist ein t\u00e4glich ge\u00f6ffnetes Caf\u00e8 eingerichtet, es finden Konzerte, Lesungen und Workshops statt. Ich w\u00fcrde gerne zeigen wie es zur Schaffung dieses Freiraums kam, wie der Alltag und aber auch die Zukunft des Projekts aussieht. Gro\u00dfe Rolle wird dabei die \"T\u00fcbinger Linie\" spielen - eine Position der Stadt die Verhandlungen einer R\u00e4umung vorzieht.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 57,
-                    "code": "TZBDGG",
-                    "public_name": "Moanos",
-                    "biography": "I studied Medical Engineering and are currently working in a research lab in neuroscience. We there \"hack\" the brain with electric and magnetic stimulation. For me this means a lot of programming, mostly in Python and C.\r\nI also created an online platform for home training of stroke patients.\r\n\r\nMy biggest Open-Source Project so far is ILMO, a tool for the management of a library.",
                     "answers": []
                   }
                 ],

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "bison; chaos-west 1.0; open-infra 8; wikipaka 0.4; chaoszone 0.4; komona 0.2; sendezentrum 0.1; lightning Lanthanum",
+    "version": "bison; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.2; sendezentrum 0.1; lightning Lanthanum",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -11099,6 +11099,38 @@
                     "code": "YRX8PJ",
                     "public_name": "Peer Springst\u00fcbe",
                     "biography": "Have done my Diploma in Informatik (that's *Computer Science* in Germany) and got a side order of Physics and Philosophy with it. Tried out robotics and deep learning while at university. I am now working with a company that does industrial IoT focused on NB-IoT and LoRaWAN. \r\n\r\nI am heavily involved with [deep cyber](https://www.deepcyber.de) &ndash; check out our assembly at 36c3!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 393,
+                "guid": "46c24f81-f788-52e6-bd61-9e2e68040ad5",
+                "logo": "",
+                "date": "2019-12-29T19:15:00+01:00",
+                "start": "19:15",
+                "duration": "01:00",
+                "room": "OIO Workshop",
+                "slug": "LZMW9E",
+                "url": "https://talks.oio.social/36c3-oio/talk/LZMW9E/",
+                "title": "Wireless Security Meetup",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Workshop 1 hour",
+                "language": "en",
+                "abstract": "Open discussion about wireless security of current and upcoming chips and wireless technologies.",
+                "description": "Anyone who wants to discuss wireless security is welcome! Topics will most likely include NFC, Bluetooth, Wi-Fi, LTE, LoRaWAN, TETRA and more. We will talk about implementation issues, as well as security testing, and problems with the specifications.\r\n\r\nThis meetup is organized by Jiska, who presents the talk \"All wireless communication stacks are equally broken\" at the main conference.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 157,
+                    "code": "89SAST",
+                    "public_name": "jiska",
+                    "biography": "Working on wireless security with a focus on Bluetooth.",
                     "answers": []
                   }
                 ],

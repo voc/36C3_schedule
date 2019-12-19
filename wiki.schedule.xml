@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-20 00:10</version>
+  <version>2019-12-20 00:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -3665,6 +3665,30 @@ Bisq is free software with a revenue model integrated in the natural flow of usi
       </event>
     </room>
     <room name="Lecture room M2">
+      <event id="1258" guid="9cf095f6-efeb-495e-810b-716efc5ef7b0">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Blockchain_Interoperability:_NIPoPoWs_%26_Sidechains</url>
+        <logo/>
+        <date>2019-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1258-session_blockchain_interoperability_nipopows_sidechains</slug>
+        <title>Blockchain Interoperability: NIPoPoWs &amp; Sidechains</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Moving value between chains
+</description>
+        <persons>
+          <person id="0">Gtklocker</person>
+          <person id="0">Dionyziz</person>
+        </persons>
+        <links>
+          <link>https://nipopows.com/</link>
+        </links>
+      </event>
       <event id="1059" guid="40223e47-9260-4412-a25c-3ed07ac2fd70">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Carbon.txt_-_what_would_a_robots.txt_for_green_infrastructure_look_like%3F</url>
         <logo/>

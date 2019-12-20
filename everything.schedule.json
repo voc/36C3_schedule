@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Lanthanum; wiki 2019-12-20 15:00",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Lanthanum; wiki 2019-12-20 15:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -5598,6 +5598,39 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1261,
+                "guid": "d0cd1403-d9d6-4454-9453-4c02fa7f93fb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Meet_and_solder_the_Bill_Badge",
+                "logo": null,
+                "date": "2019-12-27T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "1:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1261-session_meet_and_solder_the_bill_badge",
+                "title": "Meet and solder the Bill Badge",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn how to solder and play the Bill Badge game!\nWe created a multiplayer, team based game so anyone with a working Bill Badge can play it! The Badge only uses through-hole components making it fast and easy to solder. The first time your badge is turned on, you'll be assigned a random team (the led color will indicate your team). Your team will change whenever you're targeted by enemy badges. Target other badges and press the button to convert them to your team.Get as many players as you can on your team while avoiding being captured by enemy teams!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Deantonious",
+                    "public_name": "Deantonious"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:13r1ckz",
+                    "public_name": "13r1ckz"
+                  }
+                ],
+                "links": [
+                  "https://mysteryhack.space"
+                ]
               },
               {
                 "id": 1211,

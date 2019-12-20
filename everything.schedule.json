@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Lanthanum; wiki 2019-12-20 21:00",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Lanthanum; wiki 2019-12-20 21:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -3522,7 +3522,8 @@
                 "answers": []
               }
             ],
-            "OIO Workshop": [
+            "OIO Workshop": [],
+            "OIO workshop dome": [
               {
                 "id": 367,
                 "guid": "81f5f0c4-3d35-522c-8f1c-c8825b92f00a",
@@ -3530,7 +3531,7 @@
                 "date": "2019-12-27T16:10:00+01:00",
                 "start": "16:10",
                 "duration": "02:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "SRMX8W",
                 "url": "https://talks.oio.social/36c3-oio/talk/SRMX8W/",
                 "title": "Beginners Workshop: How to Hack your Web Application",
@@ -3562,7 +3563,7 @@
                 "date": "2019-12-27T18:35:00+01:00",
                 "start": "18:35",
                 "duration": "04:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "NTFYAL",
                 "url": "https://talks.oio.social/36c3-oio/talk/NTFYAL/",
                 "title": "Alpha Testing of qaul.net (Internet independent wifi mesh communication App)",
@@ -3588,7 +3589,7 @@
                 "answers": []
               }
             ],
-            "Solder area": [
+            "OIO Solder area": [
               {
                 "id": 390,
                 "guid": "4f5c1cc5-ad99-52dc-89cd-699eae66bcb8",
@@ -3596,7 +3597,7 @@
                 "date": "2019-12-27T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "02:00",
-                "room": "Solder area",
+                "room": "OIO Solder area",
                 "slug": "3KNRHJ",
                 "url": "https://talks.oio.social/36c3-oio/talk/3KNRHJ/",
                 "title": "L\u00f6ten f\u00fcr Einsteiger",
@@ -4790,12 +4791,12 @@
                 "room": "Sendetisch",
                 "slug": "MEPEVB",
                 "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/MEPEVB/",
-                "title": "Akronymiserbar Gala 2019",
+                "title": "Akronymisierbar Gala 2019",
                 "subtitle": "",
                 "track": "Sendetisch",
                 "type": "Ausgebucht, bitte nicht mehr ausw\u00e4hlen! \u00dcberl\u00e4nge (nur Sendetisch)",
                 "language": "de",
-                "abstract": "Akronymisierbar Jahres/CongressR\u00fcckblick, diesmal wieder live mit Kilian und Hendrik und Freundinnen und G\u00e4stinnen des PodCasts.",
+                "abstract": "Akronymisierbar Jahres/CongressR\u00fcckblick, diesmal wieder live mit Kilian und Hendrik und Freundinnen und G\u00e4stinnen des Podcasts.",
                 "description": "Akronymisierbar ist das gemeinsame Projekt von Kilian und Hendrik die sich abwechselnd \u00fcber nerdextremistische Themen unterhalten und Freunde aus der erweiterten Dresdner Softwareszene interviewen.",
                 "recording_license": "",
                 "do_not_record": false,
@@ -10036,7 +10037,8 @@
                 "answers": []
               }
             ],
-            "OIO Workshop": [
+            "OIO Workshop": [],
+            "OIO workshop dome": [
               {
                 "id": 347,
                 "guid": "bf48fa55-92a1-5481-a14a-f77cc0d4fccb",
@@ -10044,7 +10046,7 @@
                 "date": "2019-12-28T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "01:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "FU3ZZE",
                 "url": "https://talks.oio.social/36c3-oio/talk/FU3ZZE/",
                 "title": "Nudeln hacken - Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e",
@@ -10076,7 +10078,7 @@
                 "date": "2019-12-28T13:30:00+01:00",
                 "start": "13:30",
                 "duration": "01:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "RW3HCE",
                 "url": "https://talks.oio.social/36c3-oio/talk/RW3HCE/",
                 "title": "Trotz Schule die Zukunft meistern? - Mitmach-Workshop f\u00fcr Menschen von 10-100 Jahre",
@@ -10108,7 +10110,7 @@
                 "date": "2019-12-28T15:30:00+01:00",
                 "start": "15:30",
                 "duration": "01:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "FU3ZZE",
                 "url": "https://talks.oio.social/36c3-oio/talk/FU3ZZE/",
                 "title": "Nudeln hacken - Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e",
@@ -10140,7 +10142,7 @@
                 "date": "2019-12-28T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "02:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "TZBSSE",
                 "url": "https://talks.oio.social/36c3-oio/talk/TZBSSE/",
                 "title": "SDR kennenlernen",
@@ -10172,7 +10174,7 @@
                 "date": "2019-12-28T20:30:00+01:00",
                 "start": "20:30",
                 "duration": "02:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "CTQSQ8",
                 "url": "https://talks.oio.social/36c3-oio/talk/CTQSQ8/",
                 "title": "Open Communication Meetup! - Decentralized Social Networks",
@@ -16155,7 +16157,8 @@
                 "answers": []
               }
             ],
-            "OIO Workshop": [
+            "OIO Workshop": [],
+            "OIO workshop dome": [
               {
                 "id": 344,
                 "guid": "312560c7-7ce7-5c81-97b4-7692b2d9a240",
@@ -16163,7 +16166,7 @@
                 "date": "2019-12-29T13:50:00+01:00",
                 "start": "13:50",
                 "duration": "02:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "HHZQAY",
                 "url": "https://talks.oio.social/36c3-oio/talk/HHZQAY/",
                 "title": "Open Communication Meetup! - Adhoc mesh routing protocols",
@@ -16195,7 +16198,7 @@
                 "date": "2019-12-29T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "01:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "PATB9E",
                 "url": "https://talks.oio.social/36c3-oio/talk/PATB9E/",
                 "title": "GNUnet e.V. annual assembly",
@@ -16227,7 +16230,7 @@
                 "date": "2019-12-29T17:10:00+01:00",
                 "start": "17:10",
                 "duration": "02:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "VHZQKJ",
                 "url": "https://talks.oio.social/36c3-oio/talk/VHZQKJ/",
                 "title": "Getting started connecting your Devices using LoRaWAN",
@@ -16259,7 +16262,7 @@
                 "date": "2019-12-29T19:15:00+01:00",
                 "start": "19:15",
                 "duration": "01:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "LZMW9E",
                 "url": "https://talks.oio.social/36c3-oio/talk/LZMW9E/",
                 "title": "Wireless Security Meetup",
@@ -16291,7 +16294,7 @@
                 "date": "2019-12-29T20:50:00+01:00",
                 "start": "20:50",
                 "duration": "01:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "8PGUXK",
                 "url": "https://talks.oio.social/36c3-oio/talk/8PGUXK/",
                 "title": "Global Innovation Gathering meetup",
@@ -16317,7 +16320,7 @@
                 "answers": []
               }
             ],
-            "Solder area": [
+            "OIO Solder area": [
               {
                 "id": 390,
                 "guid": "4f5c1cc5-ad99-52dc-89cd-699eae66bcb8",
@@ -16325,7 +16328,7 @@
                 "date": "2019-12-29T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
-                "room": "Solder area",
+                "room": "OIO Solder area",
                 "slug": "3KNRHJ",
                 "url": "https://talks.oio.social/36c3-oio/talk/3KNRHJ/",
                 "title": "L\u00f6ten f\u00fcr Einsteiger",
@@ -19396,7 +19399,8 @@
                 "answers": []
               }
             ],
-            "OIO Workshop": [
+            "OIO Workshop": [],
+            "OIO workshop dome": [
               {
                 "id": 378,
                 "guid": "3d0efe4f-63da-5a8b-822a-b0ba99692ed3",
@@ -19404,7 +19408,7 @@
                 "date": "2019-12-30T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:59",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "A93MNM",
                 "url": "https://talks.oio.social/36c3-oio/talk/A93MNM/",
                 "title": "Freifunk, was tun, damit 2020 kein weiteres 2019 wird?",
@@ -19436,7 +19440,7 @@
                 "date": "2019-12-30T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "02:00",
-                "room": "OIO Workshop",
+                "room": "OIO workshop dome",
                 "slug": "XJHFPM",
                 "url": "https://talks.oio.social/36c3-oio/talk/XJHFPM/",
                 "title": "Internet access and VoIP as Open/Commons Infrastructure",

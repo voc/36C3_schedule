@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.2; sendezentrum 0.1; lightning Lanthanum; wiki 2019-12-20 12:00",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Lanthanum; wiki 2019-12-20 12:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -4511,6 +4511,38 @@
                     "code": "LNMHMC",
                     "public_name": "Jonathan Eibisch",
                     "biography": "Ich arbeite seit einigen Jahren zu anarchistischer politischer Theorie. Damit m\u00f6chte ich Wissen vermitteln, \u00fcber unsere Praxis reflektieren, anarchistische Projekte st\u00e4rken und den Raum f\u00fcr gemeinsame Diskussion \u00f6ffnen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 802,
+                "guid": "45fe476b-4f65-5bd3-9802-a4b18cd86936",
+                "logo": "",
+                "date": "2019-12-27T19:00:00+00:00",
+                "start": "19:00",
+                "duration": "00:45",
+                "room": "Dome 2",
+                "slug": "HMVENJ",
+                "url": "https://talks.komona.org/36c3/talk/HMVENJ/",
+                "title": "I am a kernel dev - Ask me anything",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "Reddit style Q&A, where you can ask all the questions you wanted to know about the life of a kernel programmer.",
+                "description": "Are you interested to know about a kernel devs work, how they got into kernel programming, where to find a job and to get into this field, what good resources for newbies are, whether they got shouted at by Linus, etc..? Here is the right place where you can ask those questions.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 17,
+                    "code": "VAVRQP",
+                    "public_name": "chrysh",
+                    "biography": "chrysh is studied Electrical Engineering at TU Berlin and is currently working as an Embedded Systems Engineer in Nice, France. She played IT Sec CTFs for ENOFLAG, and works on bringing the security closer to the Kernel community.  She is addicted to coffee and her favorite language is C.",
                     "answers": []
                   }
                 ],
@@ -10605,61 +10637,29 @@
             ],
             "Dome 1": [
               {
-                "id": 805,
-                "guid": "9e042d3f-798b-52ce-af01-ad52f07a2f4a",
+                "id": 804,
+                "guid": "ab54e029-fc58-5258-a687-5d91ae1669a9",
                 "logo": "",
-                "date": "2019-12-28T12:30:00+00:00",
-                "start": "12:30",
-                "duration": "01:00",
+                "date": "2019-12-28T12:00:00+00:00",
+                "start": "12:00",
+                "duration": "00:45",
                 "room": "Dome 1",
-                "slug": "8GQNUJ",
-                "url": "https://talks.komona.org/36c3/talk/8GQNUJ/",
-                "title": "Book club for grown-up victims",
+                "slug": "SKEAQM",
+                "url": "https://talks.komona.org/36c3/talk/SKEAQM/",
+                "title": "komona story month",
                 "subtitle": "",
                 "track": null,
-                "type": "Session",
+                "type": "Talk",
                 "language": "en",
-                "abstract": "I am proposing to share information, thoughts, likes, dislikes...  about useful books for victims.",
-                "description": "**DISCLAIMER:**\r\n*This session is NOT a group therapy, it is NOT a substitute for therapy and I am NOT a psychologist (I work as an IT engineer actually, I am just a regular victim in late stage recovery and who grew up with an overentitled mother and suicidal father.)*\r\n\r\n\r\nBeing a victim is a hard experience. Being raised as a victim within a **[dysfunctional family](https://en.wikipedia.org/wiki/Dysfunctional_family)** (or more generally sustaining long, repeated abuse/neglect with no possible escape) is even worse. Your mind gets conditioned to tolerate abusive behaviours from others, your intimate life seems like a perpetual Cornelian oscillation between isolation (to protect yourself) and toxic relationships (because you are a magnet for narcissist personalities). Recovery is a long journey with many digressions and set-backs.\r\n\r\nThis workshop is primarily intended to **raise awareness, knowledge and resilience among victims**. These are critical ingredients, because:\r\n\r\n- taking care of oneself is part of the recovery\r\n- good therapists are hard to find\r\n- even a even a good therapist can become a SPOF in your life\r\n- the pharmaceutical industry won't help (somatisation is good for business, you know)\r\n- traumas are diverse, reading about others can give perspective and reduce isolation\r\n\r\n\r\nThere are lots of self-help books (of varying relevance and quality) and the ecosystem is in steady movement, especially this year with the [complex post-traumatic stress disorder (C-PTSD)](https://en.wikipedia.org/wiki/C-PTSD) being officially recognized by the World Health Organization (since the adoption of [ICD-11](https://en.wikipedia.org/wiki/ICD)). Naming problems helps to fight them.\r\n\r\n**All kinds of books are welcome**, whether it is a self-help book, a scientific publication, a fiction or anything else. Also we may talk about other works of art (films,...) if you like.\r\n\r\n**Bring your favorite books with you** (to share their content with the other attendees) and **be supportive(*) to each other!**\r\n\r\n\r\n(*) I prefer avoiding the word 'excellent' here because I understand that its superlative nature can be over-interpreted by those of us who are [codependent](https://en.wikipedia.org/wiki/Codependency).",
+                "abstract": "a brief get together to talk about the past. one two three 4komona.",
+                "description": "her story, his story, ko mo stories.\r\ni'll bring the old plans. and some papers i collected.\r\nyou have stories, artifacts or pictures from one of the past komonas? \r\nfeel invited to come and share.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 14,
-                    "code": "ULMBAR",
-                    "public_name": "procrastinator",
-                    "biography": "",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 803,
-                "guid": "36ae9d08-070a-5611-a4c6-267326903343",
-                "logo": "",
-                "date": "2019-12-28T14:00:00+00:00",
-                "start": "14:00",
-                "duration": "00:25",
-                "room": "Dome 1",
-                "slug": "XBRFTV",
-                "url": "https://talks.komona.org/36c3/talk/XBRFTV/",
-                "title": "Fahr\u00e4der Zeichnen und Analysieren",
-                "subtitle": "",
-                "track": null,
-                "type": "Session",
-                "language": "de",
-                "abstract": "Hier kannst du ein Fahradzeichnen das wir danach gemeinsam analysieren.",
-                "description": "F\u00fcr diese Session brauchst du weder zeichenen k\u00f6nnen, noch lernst du hier wie man zeichnet! \r\nFahrr\u00e4der zeichnen ist einfach, deswegen kannst du hier eins zeichnen.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 19,
-                    "code": "NJNDSR",
-                    "public_name": "ruru4143",
+                    "id": 18,
+                    "code": "FXNUJW",
+                    "public_name": "noja",
                     "biography": "",
                     "answers": []
                   }
@@ -10693,6 +10693,38 @@
                     "code": "CLZ8FM",
                     "public_name": "Lucie Panknin",
                     "biography": "Hello there, my name is Lucie. I am a mediator and I enjoy sharing knowledge I gained from my training and work experience. I am passionate about group dynamics as well as collective learning processes.   \r\nIt is fascinating, how simple techniques and frameworks can change the way people perceive each other and how they interact. It does not need super complicated knowledge or skills to change team work and make our interaction become aware, trustful and considerate. The simplicity I discovered is what thrives me to share my experiences and learn also about yours. Looking forward to meet you!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 803,
+                "guid": "36ae9d08-070a-5611-a4c6-267326903343",
+                "logo": "",
+                "date": "2019-12-28T17:00:00+00:00",
+                "start": "17:00",
+                "duration": "00:25",
+                "room": "Dome 1",
+                "slug": "XBRFTV",
+                "url": "https://talks.komona.org/36c3/talk/XBRFTV/",
+                "title": "Fahr\u00e4der Zeichnen und Analysieren",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "de",
+                "abstract": "Hier kannst du ein Fahradzeichnen das wir danach gemeinsam analysieren.",
+                "description": "F\u00fcr diese Session brauchst du weder zeichenen k\u00f6nnen, noch lernst du hier wie man zeichnet! \r\nFahrr\u00e4der zeichnen ist einfach, deswegen kannst du hier eins zeichnen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 19,
+                    "code": "NJNDSR",
+                    "public_name": "ruru4143",
+                    "biography": "",
                     "answers": []
                   }
                 ],
@@ -10766,6 +10798,38 @@
               }
             ],
             "Dome 2": [
+              {
+                "id": 805,
+                "guid": "9e042d3f-798b-52ce-af01-ad52f07a2f4a",
+                "logo": "",
+                "date": "2019-12-28T12:30:00+00:00",
+                "start": "12:30",
+                "duration": "01:00",
+                "room": "Dome 2",
+                "slug": "8GQNUJ",
+                "url": "https://talks.komona.org/36c3/talk/8GQNUJ/",
+                "title": "Book club for grown-up victims",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "I am proposing to share information, thoughts, likes, dislikes...  about useful books for victims.",
+                "description": "**DISCLAIMER:**\r\n*This session is NOT a group therapy, it is NOT a substitute for therapy and I am NOT a psychologist (I work as an IT engineer actually, I am just a regular victim in late stage recovery and who grew up with an overentitled mother and suicidal father.)*\r\n\r\n\r\nBeing a victim is a hard experience. Being raised as a victim within a **[dysfunctional family](https://en.wikipedia.org/wiki/Dysfunctional_family)** (or more generally sustaining long, repeated abuse/neglect with no possible escape) is even worse. Your mind gets conditioned to tolerate abusive behaviours from others, your intimate life seems like a perpetual Cornelian oscillation between isolation (to protect yourself) and toxic relationships (because you are a magnet for narcissist personalities). Recovery is a long journey with many digressions and set-backs.\r\n\r\nThis workshop is primarily intended to **raise awareness, knowledge and resilience among victims**. These are critical ingredients, because:\r\n\r\n- taking care of oneself is part of the recovery\r\n- good therapists are hard to find\r\n- even a even a good therapist can become a SPOF in your life\r\n- the pharmaceutical industry won't help (somatisation is good for business, you know)\r\n- traumas are diverse, reading about others can give perspective and reduce isolation\r\n\r\n\r\nThere are lots of self-help books (of varying relevance and quality) and the ecosystem is in steady movement, especially this year with the [complex post-traumatic stress disorder (C-PTSD)](https://en.wikipedia.org/wiki/C-PTSD) being officially recognized by the World Health Organization (since the adoption of [ICD-11](https://en.wikipedia.org/wiki/ICD)). Naming problems helps to fight them.\r\n\r\n**All kinds of books are welcome**, whether it is a self-help book, a scientific publication, a fiction or anything else. Also we may talk about other works of art (films,...) if you like.\r\n\r\n**Bring your favorite books with you** (to share their content with the other attendees) and **be supportive(*) to each other!**\r\n\r\n\r\n(*) I prefer avoiding the word 'excellent' here because I understand that its superlative nature can be over-interpreted by those of us who are [codependent](https://en.wikipedia.org/wiki/Codependency).",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 14,
+                    "code": "ULMBAR",
+                    "public_name": "procrastinator",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
               {
                 "id": 828,
                 "guid": "c76e9072-025e-5fed-9587-fd731509c4f1",
@@ -10855,6 +10919,72 @@
                     "code": "LNMHMC",
                     "public_name": "Jonathan Eibisch",
                     "biography": "Ich arbeite seit einigen Jahren zu anarchistischer politischer Theorie. Damit m\u00f6chte ich Wissen vermitteln, \u00fcber unsere Praxis reflektieren, anarchistische Projekte st\u00e4rken und den Raum f\u00fcr gemeinsame Diskussion \u00f6ffnen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "Dome 3": [
+              {
+                "id": 832,
+                "guid": "849beefc-ef58-5e06-818b-c0dc21fd1a87",
+                "logo": "",
+                "date": "2019-12-28T13:00:00+00:00",
+                "start": "13:00",
+                "duration": "00:45",
+                "room": "Dome 3",
+                "slug": "Q3RDGV",
+                "url": "https://talks.komona.org/36c3/talk/Q3RDGV/",
+                "title": "Introduction to OpenAppStack: Self-hosting a private application cloud",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "en",
+                "abstract": "OpenAppStack is a **free and open source (libre) platform** that will offer self-managed, click-and-play provisioning of online applications. Users will be able to easily set up a self-hosted instance of OpenAppStack, so they can keep control over their data. It provides an extensible platform that enables **collaboration like google docs without selling it's users to a 3rd party!** By pre-configuring the installed applications in a **privacy by default** manner and by providing a very simple mechanism to upgrade applications OpenAppStack aims to reduce the pain for administrators that is usually involved in self-hosting collaboration platforms.\r\n\r\nOur current focus lies on providing free and open source alternatives for chat, file storage and collaborative document editing and will be extended in the future.\r\n\r\nOpenAppStack applications are managed with Kubernetes, a popular container orchestration system. \r\nOpenappstack sets up a simple, single node Kubernetes cluster with relatively simple configuration which is compatible with future scaling of your cloud and adding new applications.\r\nSetting up a Kubernetes cluster can be hard and can be done in many different ways. To complicate things further, a lot of choices need to be made when configuring your cluster. What Ingress should you use? How are you going to do storage?\r\nWith running applications on self owned infrastructure a new challenge arises: somebody needs to keep the software up to date, configure it to work together and make sure people can use it.\r\n\r\nIn this session we'll show OpenAppStack's design, installation procedure and challenges that come with self-hosted container infrastructure. We'll cover the following topics:\r\n\r\n* Automatic updates\r\n* Single-sign-on\r\n* Monitoring of containerized deployments\r\n* Cloud-native vs. old-school aplications\r\n\r\nhttps://openappstack.net\r\n\r\n\r\nOpenAppStack is a **free and open source (libre) platform** that will offer self-managed, click-and-play provisioning of online applications. Users will be able to easily set up a self-hosted instance of OpenAppStack, so they can keep control over their data. It provides an extensible platform that enables **collaboration like google docs without selling it's users to a 3rd party!** By pre-configuring the installed applications in a **privacy by default** manner and by providing a very simple mechanism to upgrade applications OpenAppStack aims to reduce the pain for administrators that is usually involved in self-hosting collaboration platforms.",
+                "description": "Our current focus lies on providing free and open source alternatives for chat, file storage and collaborative document editing and will be extended in the future.\r\n\r\nOpenAppStack applications are managed with Kubernetes, a popular container orchestration system. \r\nOpenappstack sets up a simple, single node Kubernetes cluster with relatively simple configuration which is compatible with future scaling of your cloud and adding new applications.\r\nSetting up a Kubernetes cluster can be hard and can be done in many different ways. To complicate things further, a lot of choices need to be made when configuring your cluster. What Ingress should you use? How are you going to do storage?\r\nWith running applications on self owned infrastructure a new challenge arises: somebody needs to keep the software up to date, configure it to work together and make sure people can use it.\r\n\r\nIn this session we'll show OpenAppStack's design, installation procedure and challenges that come with self-hosted container infrastructure. We'll cover the following topics:\r\n\r\n* Automatic updates\r\n* Single-sign-on\r\n* Monitoring of containerized deployments\r\n* Cloud-native vs. old-school aplications",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 36,
+                    "code": "D9F87B",
+                    "public_name": "Varac",
+                    "biography": "Loves developing FOSS systems and software with a privacy and decentralised focus.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 831,
+                "guid": "90347ebe-6446-512d-8ec3-18aa49284fe1",
+                "logo": "",
+                "date": "2019-12-28T14:00:00+00:00",
+                "start": "14:00",
+                "duration": "01:00",
+                "room": "Dome 3",
+                "slug": "AZH9TC",
+                "url": "https://talks.komona.org/36c3/talk/AZH9TC/",
+                "title": "Linksunten Indymedia",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "History of repressions and recent update on Linksunten Indymedia with mobilization to protest in January in Leipzig",
+                "description": "To come",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 35,
+                    "code": "T7H8LJ",
+                    "public_name": "Anarchist Black Cross",
+                    "biography": "Anarchist network of supporting repressed activists",
                     "answers": []
                   }
                 ],
@@ -16850,6 +16980,38 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              },
+              {
+                "id": 830,
+                "guid": "e60c710a-09f8-54f0-af5a-b884b289d748",
+                "logo": "",
+                "date": "2019-12-29T19:00:00+00:00",
+                "start": "19:00",
+                "duration": "00:45",
+                "room": "Dome 1",
+                "slug": "9PCNBC",
+                "url": "https://talks.komona.org/36c3/talk/9PCNBC/",
+                "title": "Would you live in a floating city in the sky? K\u00fcnstlerische Forschung als kritische und emanzipatorische Praxis f\u00fcr Hexen und Pirat*innen",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Der Talk soll dazu beitragen, die eigene forschende oder k\u00fcnstlerische Praxis auch als k\u00fcnstlerische Forschung zu konzipieren, um sich weitere R\u00e4ume und Ressourcen daf\u00fcr erschlie\u00dfen zu k\u00f6nnen. Durch die vielen Beispiele zeitgen\u00f6ssischer technoaffiner Kunst und den einf\u00fchrenden Charakter kann man auch prima zum Bilder gucken kommen.",
+                "description": "Artistic Research ist ein neueres Schlagwort auf dem Kunstfeld, unter dem dissidente Wissensproduktion mit k\u00fcnstlerischen Methoden gefasst und inzwischen institutionalisiert wird. In diesem Vortrag gebe ich eine Einf\u00fchrung, was k\u00fcnstlerische Forschung von Wissenschaft und Kunstproduktion unterscheidet und auch, wo sich beides verbindet. Einfach gesprochen er\u00f6ffnet sich hier ein Forschungsfeld, in dem, anders als im reglementierten universit\u00e4ren Kontext, andere Personengruppen in anderen R\u00e4umen mit interdisziplin\u00e4ren und k\u00fcnstlerischen Methoden Wissen produzieren und in anderen Formaten als einem sprachlichen Text vermitteln. Akteure sind hier nicht nur K\u00fcnstler* innen, sondern um in einer emanzipatorischen Praxis dem m\u00e4nnlichen Genie der Kunsttradition etwas entgegen zu setzen, auch Hexen oder Pirat*innen. Wir schauen uns viele Beispiele aus der Arch\u00e4ologie, dem Transhumanismus sowie aus queerfeministischen und postkolonialen Kontexten genauer an.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 34,
+                    "code": "L9Y3RW",
+                    "public_name": "Sophie Elle",
+                    "biography": "artist writer piratessa\r\nmatrix: so-elle@matrix.org",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "Dome 2": [
@@ -16910,6 +17072,72 @@
                     "code": "KNLTAU",
                     "public_name": "several people of 1komona I guess",
                     "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "Dome 3": [
+              {
+                "id": 833,
+                "guid": "4f065cd2-ea3b-53d6-b3b8-ecd35718dc5a",
+                "logo": "",
+                "date": "2019-12-29T12:00:00+00:00",
+                "start": "12:00",
+                "duration": "01:30",
+                "room": "Dome 3",
+                "slug": "3ZAXKV",
+                "url": "https://talks.komona.org/36c3/talk/3ZAXKV/",
+                "title": "Openappstack hands-on session",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "en",
+                "abstract": "After you hopefully made it to the OpenAppStack introduction session the day before, this session is focussed on installing your OpenAppStack cluster. We'll guide you through the installation, help out with issues and if time allows we will show how to integrate more applications into OpenAppStack.",
+                "description": "Prerequistes:\r\n\r\n* Bring your own machine ! See the machine requirements (https://docs.openappstack.net/en/latest/installation_instructions.html#prerequisites) about OS, minimal disk size and RAM requirements.\r\n* If you want to install and test Openappstack but don't have a VM for that please reach out to us, we might be able to provide temporary test VMs.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 36,
+                    "code": "D9F87B",
+                    "public_name": "Varac",
+                    "biography": "Loves developing FOSS systems and software with a privacy and decentralised focus.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 835,
+                "guid": "b4e13072-d8a7-5c44-baa8-4196a457f5dc",
+                "logo": "",
+                "date": "2019-12-29T14:00:00+00:00",
+                "start": "14:00",
+                "duration": "01:00",
+                "room": "Dome 3",
+                "slug": "8BYT87",
+                "url": "https://talks.komona.org/36c3/talk/8BYT87/",
+                "title": "Linksunten Indymedia",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "History of repressions and recent update on Linksunten Indymedia with mobilization to protest in January in Leipzig",
+                "description": "We would love to get Art and Play stage on 28th somewhere between 14 and 20 o'clock",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 27,
+                    "code": "DBTGRV",
+                    "public_name": "1komonista",
+                    "biography": null,
                     "answers": []
                   }
                 ],

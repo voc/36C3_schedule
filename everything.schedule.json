@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.2; sendezentrum 0.1; lightning Lanthanum; wiki 2019-12-20 09:30",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.2; sendezentrum 0.1; lightning Lanthanum; wiki 2019-12-20 10:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -8957,6 +8957,34 @@
                 "description": "\n",
                 "persons": [],
                 "links": []
+              },
+              {
+                "id": 1260,
+                "guid": "2ffd5755-10b9-4c30-859d-6972e4909e1a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Workshop:_Digitale_Selbstverteidigung_f%C3%BCr_Anf%C3%A4nger*innen",
+                "logo": null,
+                "date": "2019-12-28T11:15:00+01:00",
+                "start": "11:15",
+                "duration": "1:45",
+                "room": "Lecture room M3",
+                "slug": "36c3-1260-session_workshop_digitale_selbstverteidigung_fuer_anfaenger_innen",
+                "title": "Workshop: Digitale Selbstverteidigung f\u00fcr Anf\u00e4nger*innen",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "In diesem Workshop m\u00f6chten wir uns mit wenig Vorwissen den folgenden Fragen n\u00e4hern: Was habe ich zu verbergen? Wie sch\u00fctze ich mich am besten? Was macht \u00dcberwachung mit einer Gesellschaft?\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Vik",
+                    "public_name": "Vik"
+                  }
+                ],
+                "links": [
+                  "https://digitatel-freiheit.jetzt"
+                ]
               }
             ],
             "Kidspace": [],
@@ -16403,7 +16431,7 @@
                 "type": "Workshop",
                 "language": "de",
                 "abstract": "We want to meet up in the Wikipaka WG to start working on an interactive data visualization tool for publicly accessible ecological (and socio-economical) time series datasets from different sources. The goal of the project is to help people to get an idea of the challenges ecosystems are facing in the Anthropocene and to encourage people to become active.",
-                "description": "Hacking Ecology is a citizen science collective that, on the basis of the ideas of open source and open data, wants to contribute to the research necessary to avert the ecological crisis. In this mini-Hackathon, we want to kickstart out first project, an easily useable interactive (web-)tool (in Python, using Bokeh) and brings together and visualizes publicly available time series datasets from very different sources. With it, it should be possible to visualize e. G. the change in precipitation or rate of urbanization as well as the numbers of earthworms in the same figure, so that one can get a feeling for the challenges ecosystems are facing in the Anthropocene. Furthermore, this tool will be a good basis for future work of Hacking Ecology, as it makes it easier to e. G. form hypotheses on which human actions are harmful for the environment or what actions could be taken to avoid ecosystems from breaking down. \r\nWe will provide a first, clumsy version of the tool and a list of TODOs (esp. relevant datasets), but are very happy to take up all helpful input and ideas; all code will be immediately published on Github and we'll try to run this as collaborative as possible. Please bring something you can write and submit code with.",
+                "description": "Hacking Ecology is a citizen science collective that, on the basis of the ideas of open source and open data, wants to contribute to the research necessary to avert the ecological crisis. In this mini-Hackathon, we want to kickstart out first project, an easily useable interactive (web-)tool (in Python, using Bokeh) and brings together and visualizes publicly available time series datasets from very different sources. With it, it should be possible to visualize e. G. the change in precipitation or rate of urbanization as well as the numbers of earthworms in the same figure, so that one can get a feeling for the challenges ecosystems are facing in the Anthropocene. Furthermore, this tool will be a good basis for future work of Hacking Ecology, as it makes it easier to e. G. form hypotheses on which human actions are harmful for the environment or what actions could be taken to avoid ecosystems from breaking down. \r\nWe will provide a first, clumsy version of the tool and a list of datasets that might be relevant to ecosystems, but are very happy to take up all helpful input and ideas; all code will be immediately published on Github and we'll try to run this as collaborative as possible. Please bring something you can write and submit code with.",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [

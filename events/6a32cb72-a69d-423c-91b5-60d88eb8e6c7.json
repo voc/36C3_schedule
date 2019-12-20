@@ -7,17 +7,26 @@
   "start": "11:00",
   "duration": "00:30",
   "room": "Ada",
-  "slug": "36c3-11223-opening_ceremony",
-  "title": "Opening Ceremony",
+  "slug": "36c3-11223-opening_ceremony_de",
+  "title": "Opening Ceremony (de)",
   "subtitle": "",
   "track": "CCC",
   "type": "lecture",
-  "language": "en",
-  "abstract": "",
+  "language": "de",
+  "abstract": "Welcome!",
   "description": "",
   "recording_license": "",
   "do_not_record": false,
-  "persons": [],
+  "persons": [
+    {
+      "id": 9891,
+      "public_name": "bleeptrack"
+    },
+    {
+      "id": 6697,
+      "public_name": "blinry"
+    }
+  ],
   "links": [],
   "attachments": []
 }

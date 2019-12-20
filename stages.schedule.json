@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "bison; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.2; sendezentrum 0.1; lightning Lanthanum",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.2; sendezentrum 0.1; lightning Lanthanum",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -26,17 +26,54 @@
                 "start": "11:00",
                 "duration": "00:30",
                 "room": "Ada",
-                "slug": "36c3-11223-opening_ceremony",
-                "title": "Opening Ceremony",
+                "slug": "36c3-11223-opening_ceremony_de",
+                "title": "Opening Ceremony (de)",
                 "subtitle": "",
                 "track": "CCC",
                 "type": "lecture",
-                "language": "en",
-                "abstract": "",
+                "language": "de",
+                "abstract": "Welcome!",
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 9891,
+                    "public_name": "bleeptrack"
+                  },
+                  {
+                    "id": 6697,
+                    "public_name": "blinry"
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11220.html",
+                "id": 11220,
+                "guid": "3aae5c0a-9c9b-483a-8c09-b4402d749a82",
+                "logo": null,
+                "date": "2019-12-27T11:30:00+01:00",
+                "start": "11:30",
+                "duration": "01:00",
+                "room": "Ada",
+                "slug": "36c3-11220-the_case_for_scale_in_cyber_security",
+                "title": "The case for Scale in Cyber Security",
+                "subtitle": "",
+                "track": "Security",
+                "type": "lecture",
+                "language": "en",
+                "abstract": "The impact of scale in our field has been enormous and it has transformed the tools, the jobs and the face of the Infosec community. In this talk we discuss some of the ways in which defense has benefitted from scale, how the industry might be transitioning to a new phase of its growth and how the community will have to evolve to stay relevant.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 9846,
+                    "public_name": "Vincenzo Iozzo"
+                  }
+                ],
                 "links": [],
                 "attachments": []
               },
@@ -72,7 +109,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10497.html",
                 "id": 10497,
                 "guid": "1bf01a7d-2c24-491e-ab2b-4455339ea7d3",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/497/large/Screenshot_2019-12-19_at_15.07.43.png?1576764495",
                 "date": "2019-12-27T14:10:00+01:00",
                 "start": "14:10",
                 "duration": "01:00",
@@ -241,8 +278,8 @@
                 "track": "Hardware & Making",
                 "type": "lecture",
                 "language": "en",
-                "abstract": "Billions of subscribers use SIM cards in their phones.  Yet, outside a relatively small circle, information about SIM card technology is not widely known. This talk aims to be an in-depth technical overview.",
-                "description": "<p>\r\nToday, billions of subscribers use SIM cards in their phones.  Yet, outside\r\na relatively small circle, information about SIM card technology is not\r\nwidely known.  If at all, people know that once upon a time, they were\r\nstoring phone books on SIM cards.\r\n</p>\r\n<p>\r\nEvery so often there are some IT security news about SIM card\r\nvulnerabilities, and SIM card based attacks on subscribers.\r\n</p>\r\n<p>\r\nLet's have a look at SIM card technology during the past almost 30\r\nyears and cover topics like\r\n<ul>\r\n<li>Quick intro to ISO7816 smart cards</li>\r\n<li>SIM card hardware, operating system, applications</li>\r\n<li>SIM card related specification bodies, industry, processes</li>\r\n<li>from SIM to UICC, USIM, ISIM and more</li>\r\n<li>SIM toolkit, proactive SIM</li>\r\n<li>eSIM</li>\r\n</ul>\r\n</p>",
+                "abstract": "Billions of subscribers use SIM cards in their phones. Yet, outside a relatively small circle, information about SIM card technology is not widely known. This talk aims to be an in-depth technical overview.",
+                "description": "<p>Today, billions of subscribers use SIM cards in their phones. Yet, outside a relatively small circle, information about SIM card technology is not widely known. If at all, people know that once upon a time, they were storing phone books on SIM cards.</p>\r\n<p>Every so often there are some IT security news about SIM card\r\nvulnerabilities, and SIM card based attacks on subscribers.</p>\r\n<p>Let's have a look at SIM card technology during the past almost 30 years and cover topics like\r\n<ul>\r\n<li>Quick intro to ISO7816 smart cards</li>\r\n<li>SIM card hardware, operating system, applications</li>\r\n<li>SIM card related specification bodies, industry, processes</li>\r\n<li>from SIM to UICC, USIM, ISIM and more</li>\r\n<li>SIM toolkit, proactive SIM</li>\r\n<li>eSIM</li>\r\n</ul>\r\n</p>",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -566,6 +603,42 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10936.html",
+                "id": 10936,
+                "guid": "27300e0d-e9a3-4e59-8261-c1b67cc0d86d",
+                "logo": null,
+                "date": "2019-12-27T23:30:00+01:00",
+                "start": "23:30",
+                "duration": "01:00",
+                "room": "Borg",
+                "slug": "36c3-10936-inside_the_fake_like_factories",
+                "title": "Inside the Fake Like Factories",
+                "subtitle": "How thousands of Facebook, You Tube and Instagram pages benefited from purchased likes and how we reverse engineered facebooks user IDs",
+                "track": "Ethics, Society & Politics",
+                "type": "lecture",
+                "language": "en",
+                "abstract": "This talk investigates the business of fake likes and fake accounts: In a world, where the number of followers, likes, shares and views are worth money, the temptation and the will to cheat is high. With some luck, programming knowledge and persistence we obtained thousands of fanpages, You Tube and Instagram account, where likes have been bought from a Likes seller. We were also able to meet people working behind the scenes and we will prove, that Facebook is a big bubble, with a very high percentage of dead or at least zombie accounts. The talk presents the methodology, findings and outcomes from a team of scientists and investigative journalists, who delved into the parallel universe of Fake Like Factories.",
+                "description": "When you hear about fake likes and fake accounts, you instantly think of mobile phones strung together in multiple lines in front of an Asian woman or man. What if we tell you, that this is not necessarily the whole truth?  That you better imagine a ordinary guy sitting at home at his computer? In a longterm investigation we met and talked to various of these so called \u201cclickworkers\u201d - liking, watching, clicking Facebook, You Tube and Instagram for a small amount of money the whole day in their living room.\r\nFortuitously we could access thousand campaigns, Facebook Fanpages, You Tube videos or Instagram accounts. Thousands of websites and accounts, for which somebody bought likes in the past years.\r\nBut we did not stop the investigation there: We dived deeper into the Facebook Fake Accounts and Fake Likes universe, bought likes at various other Fake Likes sellers. To get the big picture, we also developed a statistical method to calculate the alleged total number of Facebok User IDs, with surprising results.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 7209,
+                    "public_name": "@sveckert"
+                  },
+                  {
+                    "id": 9611,
+                    "public_name": "Dennis Tatang"
+                  },
+                  {
+                    "id": 9372,
+                    "public_name": "pkreissel"
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "Clarke": [
@@ -739,13 +812,13 @@
                 "start": "18:50",
                 "duration": "01:00",
                 "room": "Clarke",
-                "slug": "36c3-11236-technochauvinism",
-                "title": "Technochauvinism",
-                "subtitle": "What are the material and human costs of our \u201ctechnochauvinist\u201d culture? ",
+                "slug": "36c3-11236-the_internet_of_rubbish_things_and_bodies",
+                "title": "The Internet of rubbish things and bodies",
+                "subtitle": "A review of the best art & tech projects from 2019. With a focus on e-waste",
                 "track": "Art & Culture",
                 "type": "lecture",
                 "language": "en",
-                "abstract": "An exploration, through the works of artists, of the geopolitical forces behind the production, design and exploitation of technology. And of the ways to fight back. ",
+                "abstract": "Once you start looking at electronic trash you see it everywhere: in laptops of course but also increasingly in cars, fridges, even inside the bodies of humans and other animals. The talk will look at how artists have been exploring the e-junk invasion.",
                 "description": "R\u00e9gine Debatty is a curator, critic and founder of http://we-make-money-not-art.com/, a blog which has received numerous distinctions over the years, including two Webby awards and an honorary mention at the STARTS Prize, a competition launched by the European Commission to acknowledge \"innovative projects at the interface of science, technology and art\".\r\nR\u00e9gine writes and lectures internationally about the way artists, hackers, and designers use science and technology as a medium for critical discussion. She also created A.I.L. (Artists in Laboratories), a weekly radio program about the connections between art and science for Resonance104.4fm in London (2012\u201314), is the co-author of the \u201csprint book\u201d New Art/Science Affinities, published by Carnegie Mellon University (2011) and is currently co-writing a book about culture and artificial intelligence.",
                 "recording_license": "",
                 "do_not_record": false,
@@ -811,7 +884,7 @@
                 "type": "lecture",
                 "language": "en",
                 "abstract": "This spring marked the 30th anniversary of the public uncovering of the so-called KGB Hack, bringing with it a number of new articles remembering the event and forging bridges to the present.",
-                "description": "The 36C3 seems an excellent opportunity to take a look back at the instance of hacking which, even more so than previous events like the BTX Hack, brought the CCC into the focus of the (West-)German public \u2013 and, additionally, the Federal Office for the Protection of the Constitution (Verfassungsschutz) and the Federal Intelligence Service (Bundesnachrichtendienst).\r\n\r\nThis talk aims to focus on the uncovering of the KGB Hack, which began in 1986 when Clifford Stoll, a systems administrator at the University of California in Berkeley, noticed an intruder in his laboratory\u2019s computer system. It took three more years of relentless investigation on Stoll\u2019s part and laborious convincing of the authorities of the United States and the Federal Republic of Germany to trace back the intruder to a young man loosely connected to the CCC who worked with the KGB, selling information from US military networks to the Soviet Union. \r\n\r\nIn early March of 1989, the widely watched television news program ARD Im Brennpunkt informed the public of the \u201cbiggest instance of espionage since the Guillaume affair\u201d. It presented a new quality of high tech espionage, undertaken by \u201ccomputer freaks\u201d, somewhat shady young men connected to the Chaos Computer Club.\r\n\r\nThe reporting on the KGB Hack had a tremendously negative effect on the public image of hackers in general and the CCC in particular. Now the \u201ccomputer freaks\u201d were not benevolent geeks who pointed out flaws in computer systems anymore - they were criminals, working with the Russians, harming their own country. This negative image has been lingering until today.",
+                "description": "This spring marked the 30th anniversary of the public uncovering of the so-called KGB Hack, bringing with it a number of new articles remembering the event and forging bridges to the present. \r\nThe 36C3 seems an excellent opportunity to take a look back at the instance of hacking which, even more so than previous events like the BTX and NASA Hacks, brought the CCC into the focus of the (West-)German public \u2013 and, additionally, the Federal Office for the Protection of the Constitution (Verfassungsschutz) and the Federal Intelligence Service (Bundesnachrichtendienst). \r\n\r\nThis talk aims to focus on the uncovering of the KGB Hack, which began in 1986 when Clifford Stoll, a systems administrator at the University of California in Berkeley, noticed an intruder in his laboratory\u2019s computer system \u2013 and, unlike other admins of the time, decided to do something about it. It took three more years of relentless investigation on Stoll\u2019s part and laborious convincing of the authorities of the United States and the Federal Republic of Germany to trace back the intruder to a group of young men loosely connected to the CCC who worked with the KGB, selling information gained from breaking into US military computers to the Soviet Union.  \r\n\r\nIn March of 1989, the widely watched West-German television news program \"ARD Im Brennpunkt\" informed the public of the \u201cbiggest instance of espionage since the Guillaume affair\u201d. It presented a new quality of high tech espionage, undertaken by \u201ccomputer freaks\u201d, somewhat shady-seeming young men connected to the Chaos Computer Club. \r\n\r\nThe reporting on the KGB Hack had a tremendously negative effect on the public image of hackers in general and the CCC in particular. Now the \u201ccomputer freaks\u201d were no longer seen as benevolent geeks who pointed out flaws in computer systems - they were criminals, working with the Russians, harming their own country. Sounds familiar? It\u2019s an image which has been lingering until today. ",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -1462,6 +1535,10 @@
                   {
                     "id": 5610,
                     "public_name": " Gabriella \"Biella\" Coleman"
+                  },
+                  {
+                    "id": 9892,
+                    "public_name": "Paula Bialski"
                   }
                 ],
                 "links": [
@@ -5127,7 +5204,7 @@
                 "persons": [
                   {
                     "id": 9118,
-                    "public_name": "Extinction Rebellion Berlin"
+                    "public_name": "Maria"
                   },
                   {
                     "id": 9888,
@@ -5183,7 +5260,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10751.html",
                 "id": 10751,
                 "guid": "4799e975-6a42-4570-a637-84b0bfa47bd7",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/751/large/1R3VdhcVj7Cn3eykkqSs%28%E5%B7%B2%E5%8E%BB%E5%BA%95%29.jpg?1576641244",
                 "date": "2019-12-28T19:10:00+01:00",
                 "start": "19:10",
                 "duration": "00:40",
@@ -5194,8 +5271,8 @@
                 "track": "Security",
                 "type": "lecture",
                 "language": "en",
-                "abstract": "With the rapid development of mobile internet, apps become more and more complex. However, their most used functions are limited to a few pages.\r\n\r\nEnters instant app. It has many advantages over normal apps, such as click-to-play and concise design, and it's becoming more and more popular. There is some form of instant app framework in many popular apps, such as Google Play, WeChat, TikTok, etc. In addition, many phone vendors have also embedded instant app frameworks in their pre-installed applications.\r\n\r\nHowever, there is barely any public research on attacking instant apps.",
-                "description": "In this talk, we will dive into a common architecture of instant app framework, and demonstrate attack models for it. Based on these attack models, we have reverse engineered top instant app frameworks. We will show how to bypass various kinds of sandboxing and restriction technologies to break isolations between instant apps.\r\n\r\nThese vulnerabilities could lead to sensitive information leakage, identity theft, account takeover and other severe consequences. During the study of Google Instant app, we also bypassed component access restrictions, which greatly expands attack surface.\r\n\r\nThese vulnerabilities and attack models affects more than 60% of Android devices and at least 1 billion users.\r\n\r\nFinally, we summarize the root causes of these vulnerabilities at the architectural level and point out the potential attack points. We will also propose practical mitigation measures for specific vulnerabilities. \r\n\r\nWe hope we could make users and developers aware of the potential security risks while enjoying the convenience of instant apps. We also hope to make security community aware of this emerging new attack surface.\r\n\r\nMy Presentation Outline as follows:\r\n1. Introduction\r\n\r\nBrief introduction to instant app. We define terms that appears later in the talk, such as \u201csupervisor app\u201d, \u201crender layer\u201d, \u201clogic layer\u201d, etc. Supervisor app is a platform application that manages and runs instant app.\r\n\r\n2. WebView based architecture\r\n\r\nDetailed description of a common architecture of WebView based instant app. Explain its similarities and differences with React Native and traditional WebView. We abstract it as a multiple domains - API asynchronous communication model.\r\n\r\n3. RPC communication between instant app, supervisor app and backend server\r\n\r\nWe describe how an instant app invoke APIs provided by supervisor app through cross-domain access. \r\n\r\nAnd we explain how the supervisor app and backend server identify the RPC caller. \r\n\r\n4. Vulnerabilities to break instant app isolation\r\n\r\nBased on the communication described in the previous section, we detail two different approaches to break the isolation between instant apps. \r\n\r\nWe encountered some problem in actual exploitation. To make our payload run on victim\u2019s phone, we need to bypass security policies enforced during server-side compilation. We combined features of Webpack and JavaScript to break API restrictions to complete the attack.\r\n\r\nAt the end of this section we will demonstrate an attack that breaks app isolation to steal sensitive information and take over accounts.\r\n\r\n5. Mitigation\r\n\r\nWe summarize the root causes of these vulnerabilities at the architectural level. We also propose practical mitigation measures for specific vulnerabilities.\r\n\r\n6. Other architectures and vulnerabilities\r\n\r\nThere are some other different architectures, such as the one used by Google Play. We will briefly describe a vulnerability we found that bypass the Google Instant App component access sandbox. It can expand the attack surface and transform local attacks to remote attacks.\r\n\r\n7. Closing\r\n\r\nFinally, we will give a outlook to the future evolvement of instant app and potential attack surfaces.\r\n\r\nThe up to date research you can take away from my presentation is as follows:\r\n\r\n1. A common architecture of WebView based instant app and communication mechanism between modules. This is completely new mobile attack surface.\r\n\r\n2. Instant app attack model, and the approach to extend attack surface in Android, which may be a key gadget for your exploit chain in a remote attack.\r\n\r\n3. Two vulnerabilities that break instant app isolation in XXX. And a vulnerability that bypass components access sandbox in Google Instant App.\r\n\r\n4. Mitigation for these vulnerabilities, and how to build a safer instant app framework.",
+                "abstract": "With the rapid development of mobile internet, apps become more and more complex. However, their most used functions are limited to a few pages.\r\n\r\nEnters instant app. It has many advantages over normal apps, such as click-to-play and concise design, and it's becoming more and more popular. There is some form of instant app framework in many popular apps, such as Google Play, TikTok, etc. In addition, many phone vendors have also embedded instant app frameworks in their pre-installed applications.\r\n\r\nHowever, there is barely any public research on attacking instant apps.",
+                "description": "In this talk, we will dive into a common architecture of instant app framework, and demonstrate attack models for it. Based on these attack models, we have reverse engineered top instant app frameworks. We will show how to bypass various kinds of sandboxing and restriction technologies to break isolations between instant apps.\r\n\r\nThese vulnerabilities could lead to sensitive information leakage, identity theft, account takeover and other severe consequences. During the study of Google Instant app, we also bypassed component access restrictions, which greatly expands attack surface.\r\n\r\nThese vulnerabilities and attack models affects more than 60% of Android devices and at least 1 billion users.\r\n\r\nFinally, we summarize the root causes of these vulnerabilities at the architectural level and point out the potential attack points. We will also propose practical mitigation measures for specific vulnerabilities. \r\n\r\nWe hope we could make users and developers aware of the potential security risks while enjoying the convenience of instant apps. We also hope to make security community aware of this emerging new attack surface.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -5301,7 +5378,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10983.html",
                 "id": 10983,
                 "guid": "7bdf7688-8620-4170-93bf-3c2adfd30030",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/983/large/noPAG.png?1576693771",
                 "date": "2019-12-28T23:30:00+01:00",
                 "start": "23:30",
                 "duration": "01:00",
@@ -5444,7 +5521,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "F\u00fcr Sinti*zze und Roma*nja geh\u00f6ren Anfeindungen zum Alltag. Auch bei Ermittlungsbeh\u00f6rden stehen sie unter Generalverdacht: Es steht zu bef\u00fcrchten, dass die Polizei in unterschiedlichen Bundesl\u00e4ndern rechtswidrig Daten zu ethnischer Herkunft erhebt und ver\u00f6ffentlicht.\r\n\r\nWarum ist es so gef\u00e4hrlich, ethnische Herkunft in Polizeidatenbanken zu erfassen? Und was f\u00fcr Konsequenzen hat es, sie in Berichterstattung zu erw\u00e4hnen? Wann darf die Polizei \u00fcberhaupt Daten zu ethnischer Herkunft erheben? Und wann und mit welchen Methoden tut sie es vielleicht trotz Verbots? ",
-                "description": "F\u00fcr Sinti*zze und Roma*nja geh\u00f6ren auch in Deutschland Anfeindungen in allen Lebenslagen zum Alltag. Auch bei Ermittlungsbeh\u00f6rden stehen sie unter Generalverdacht: Es steht zu bef\u00fcrchten, dass die Polizei in unterschiedlichen Bundesl\u00e4ndern rechtswidrig Daten zu ethnischer Herkunft erhebt und ver\u00f6ffentlicht. In Pressemitteilungen der Polizei tauchen immer wieder Hinweise auf die ethnische Herkunft auf, vor allem bei Tatverd\u00e4chtigen, seltener bei Opfern oder Zeug*innen. Die Berliner Polizei hat in der Kriminalstatistik 2017 den Hinweis ver\u00f6ffentlicht, dass die Mehrheit der Tatverd\u00e4chtigen von \u201eTrickdiebstahl in Wohnungen\u201c Angeh\u00f6rige der Volksgruppe Sinti und Roma seien: Dass es rechtswidrig ist, wenn die Polizei die zugrunde liegenden Daten tats\u00e4chlich erhebt, ist unstreitig. \r\n\r\nIn Kooperation mit dem Zentralrat hat die Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) im Fall der Berliner Polizeikriminalstatistik bei der Berliner Landesdatenschutzbeauftragten ein Beschwerdeverfahren wegen des Verdachts auf Diskriminierung von Sinti*zze und Roma*nja lanciert. Beide Organisationen pr\u00fcfen gemeinsam weitere rechtliche M\u00f6glichkeiten.\r\n\r\nWarum ist es so gef\u00e4hrlich, ethnische Herkunft in Polizeidatenbanken zu erfassen? Und was f\u00fcr Konsequenzen hat es, sie in Berichterstattung zu erw\u00e4hnen? Wann darf die Polizei \u00fcberhaupt Daten zu ethnischer Herkunft erheben? Und wann tut sie es vielleicht trotz Verbots? Und mit welchen Methoden erhebt die Polizei \u00fcberhaupt die ethnische Herkunft? \r\n\r\nDie Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) und der Zentralrat Deutscher Sinti und Roma wollen diese Fragen gemeinsam mit dem Publikum diskutieren. \r\n\r\nAnja Reuss ist Politische Referentin des Zentralrats Deutscher Sinti und Roma, der sich seit Jahren f\u00fcr eine diskriminierungsfreie Polizeiarbeit einsetzt. \r\n\r\nLea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF). Die GFF ist eine NGO, die durch strategische Prozesse Grund- und Menschenrechte st\u00e4rkt und zivilgesellschaftlichen Partnerorganisationen rechtlich unterst\u00fctzt. In ihren Verfahren setzt sich die GFF dabei immer wieder kritisch mit polizeilichen Ermittlungsbefugnissen auseinander, sei dies im Zusammenhang mit dem Einsatz von Sp\u00e4h-Software oder bei der Datenerhebung. ",
+                "description": "F\u00fcr Sinti*zze und Roma*nja geh\u00f6ren auch in Deutschland Anfeindungen in allen Lebenslagen zum Alltag. Auch bei Ermittlungsbeh\u00f6rden stehen sie unter Generalverdacht: Es steht zu bef\u00fcrchten, dass die Polizei in unterschiedlichen Bundesl\u00e4ndern rechtswidrig Daten zu ethnischer Herkunft erhebt und ver\u00f6ffentlicht. In Pressemitteilungen der Polizei tauchen immer wieder Hinweise auf die ethnische Herkunft auf, vor allem bei Tatverd\u00e4chtigen, seltener bei Opfern oder Zeug*innen. Die Berliner Polizei hat in der Kriminalstatistik 2017 den Hinweis ver\u00f6ffentlicht, dass die Mehrheit der Tatverd\u00e4chtigen von \u201eTrickdiebstahl in Wohnungen\u201c Angeh\u00f6rige der Volksgruppe Sinti und Roma seien: Dass es rechtswidrig ist, wenn die Polizei die zugrunde liegenden Daten tats\u00e4chlich erhebt, ist unstreitig. \r\n\r\nIn Kooperation mit dem Zentralrat hat die Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) im Fall der Berliner Polizeikriminalstatistik bei der Berliner Landesdatenschutzbeauftragten ein Beschwerdeverfahren wegen des Verdachts auf Diskriminierung von Sinti*zze und Roma*nja lanciert. Beide Organisationen pr\u00fcfen gemeinsam weitere rechtliche M\u00f6glichkeiten.\r\n\r\nWarum ist es so gef\u00e4hrlich, ethnische Herkunft in Polizeidatenbanken zu erfassen? Und was f\u00fcr Konsequenzen hat es, sie in Berichterstattung zu erw\u00e4hnen? Wann darf die Polizei \u00fcberhaupt Daten zu ethnischer Herkunft erheben? Und wann tut sie es vielleicht trotz Verbots? Und mit welchen Methoden erhebt die Polizei \u00fcberhaupt die ethnische Herkunft? \r\n\r\nDie Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) und der Zentralrat Deutscher Sinti und Roma wollen diese Fragen gemeinsam mit dem Publikum diskutieren. \r\n\r\nAnja Reuss ist Politische Referentin des Zentralrats Deutscher Sinti und Roma, der politischen Interessenvertretung der deutschen Sinti und Roma mit Sitz in Heidelberg. Als Dachverband setzt sich der Zentralrat auf nationaler und internationaler Ebene f\u00fcr eine gleichberechtigte Teilhabe von Sinti und Roma in Politik und Gesellschaft sowie f\u00fcr die Auseinandersetzung mit und Bek\u00e4mpfung von Antiziganismus ein.\r\n\r\nLea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF). Die GFF ist eine NGO, die durch strategische Prozesse Grund- und Menschenrechte st\u00e4rkt und zivilgesellschaftlichen Partnerorganisationen rechtlich unterst\u00fctzt. In ihren Verfahren setzt sich die GFF dabei immer wieder kritisch mit polizeilichen Ermittlungsbefugnissen auseinander, sei dies im Zusammenhang mit dem Einsatz von Sp\u00e4h-Software oder bei der Datenerhebung. ",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -5454,7 +5531,7 @@
                   },
                   {
                     "id": 9481,
-                    "public_name": "Anja"
+                    "public_name": "Anja Reuss"
                   }
                 ],
                 "links": [
@@ -5505,7 +5582,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10862.html",
                 "id": 10862,
                 "guid": "c2619236-c88d-40ee-9d9d-9dfffd5212ef",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/862/large/sensebox_logo_neu.png?1576613698",
                 "date": "2019-12-28T18:10:00+01:00",
                 "start": "18:10",
                 "duration": "00:40",
@@ -8986,7 +9063,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "So wie Farnpflanzen ihre Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren, auf dass sie dort auf fruchtbaren Boden fallen, werden unsere 8 Expert*innen ihr Nerd- und Fach-Wissen weitergeben \u2013 spektakul\u00e4r, wirkungsvoll und unterhaltsam. So bunt wie die besten Slams, so dicht wie die besten Lightning Talks: 8 Antworten auf die Frage, warum Techies und \u00d6kos zusammengeh\u00f6ren.",
-                "description": "Bei der Bits&B\u00e4ume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und L\u00f6sungsans\u00e4tze zu erkl\u00e4ren, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste \"Sporangium\" hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. F\u00fcr de C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?\r\n\r\nSpeaker*innen:\r\nlislis: Der H\u00fcrdenlauf f\u00fcr gr\u00fcne Daten\r\ntba \u2013 technologische Fragen in der Entwicklungsarbeit\r\nCarina Haupt: Nachhaltige Software\r\nJulia \u2013 aktivistische Mikrozellen der Stadt\r\nviktor: Datenschutz? Klimaschutz? Zukunft!\r\ntba \u2013 technische Infrastrukturen des Aktivismus\r\nIsabella Hermann: \u00d6kos im Weltraum? Nachhaltigkeit in Science Fiction\r\nelenos Manifesti: Bits&B\u00e4ume fordert!\r\n\r\nDurchs Sporangium katapultieren wie immer julika & Rainer",
+                "description": "Bei der Bits&B\u00e4ume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und L\u00f6sungsans\u00e4tze zu erkl\u00e4ren, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste \"Sporangium\" hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. F\u00fcr de C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?\r\n\r\nSpeaker*innen:\r\ntba \u2013 Klimawandel?! Echt jetzt?!!!\r\ntba \u2013 technologische Fragen in der Entwicklungsarbeit\r\nCarina Haupt: Nachhaltige Softwareentwicklung (f\u00fcr weniger explodierende Raketen)\r\nElenos Manifesti: Wir fordern! Das Bits&B\u00e4ume-Manifest\r\nIsabella Hermann: \u00d6kos im Weltraum? Nachhaltigkeit in Science Fiction\r\nJulia \u2013 aktivistische Mikrozellen der Stadt\r\nLisa Passing: \u00d6kostrom != \u00d6kostrom. Down the green energy rabbit hole\r\nViktor Schl\u00fcter: Datenschutz? Klimaschutz? Zukunft!\r\n\r\n\r\nDurchs Sporangium katapultieren wie immer julika & Rainer",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -9016,7 +9093,7 @@
                   },
                   {
                     "id": 9427,
-                    "public_name": "Viktor"
+                    "public_name": "Viktor Schl\u00fcter"
                   },
                   {
                     "id": 3752,
@@ -9627,7 +9704,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10630.html",
                 "id": 10630,
                 "guid": "3be4da1b-7efd-4ab3-9f51-297c42c06d6a",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/630/large/tower.png?1576682663",
                 "date": "2019-12-29T14:10:00+01:00",
                 "start": "14:10",
                 "duration": "00:40",
@@ -9886,7 +9963,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10672.html",
                 "id": 10672,
                 "guid": "afd7efb3-f594-4938-aa7f-5a42e54fbec7",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/672/large/Talk_Logo_3D_printer_Tshirts.png?1576667942",
                 "date": "2019-12-29T22:50:00+01:00",
                 "start": "22:50",
                 "duration": "00:40",
@@ -10063,7 +10140,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11030.html",
                 "id": 11030,
                 "guid": "cc3e9b8a-14e3-425a-b683-4eab463ed1bd",
-                "logo": null,
+                "logo": "/system/events/logos/000/011/030/large/repair.jpg?1576772458",
                 "date": "2019-12-29T16:10:00+01:00",
                 "start": "16:10",
                 "duration": "01:00",
@@ -12387,14 +12464,14 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10879.html",
                 "id": 10879,
                 "guid": "8cd18c98-4e30-4f3c-ab82-90178e7076ad",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/879/large/hal_9000_by_johnnyslowhand_1_.png?1576657105",
                 "date": "2019-12-30T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "01:00",
                 "room": "Ada",
                 "slug": "36c3-10879-hal_-_the_open-source_hardware_analyzer",
                 "title": "HAL - The Open-Source Hardware Analyzer",
-                "subtitle": "",
+                "subtitle": "A dive into the foundations of hardware reverse engineering and our netlist analysis framework HAL",
                 "track": "Hardware & Making",
                 "type": "lecture",
                 "language": "en",
@@ -12541,17 +12618,26 @@
                 "start": "17:20",
                 "duration": "00:30",
                 "room": "Ada",
-                "slug": "36c3-11224-closing_ceremony",
-                "title": "Closing Ceremony",
+                "slug": "36c3-11224-closing_ceremony_de",
+                "title": "Closing Ceremony (de)",
                 "subtitle": "",
                 "track": "CCC",
                 "type": "lecture",
-                "language": "en",
+                "language": "de",
                 "abstract": "",
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 9891,
+                    "public_name": "bleeptrack"
+                  },
+                  {
+                    "id": 6697,
+                    "public_name": "blinry"
+                  }
+                ],
                 "links": [],
                 "attachments": []
               }
@@ -12839,7 +12925,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10919.html",
                 "id": 10919,
                 "guid": "2fb147d5-27be-49a4-a85c-998940f3ae46",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/919/large/nopnreu_logo.png?1576657717",
                 "date": "2019-12-30T12:30:00+01:00",
                 "start": "12:30",
                 "duration": "00:40",
@@ -12944,7 +13030,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11178.html",
                 "id": 11178,
                 "guid": "9af057bd-eb94-41f6-8005-f322ecf66662",
-                "logo": null,
+                "logo": "/system/events/logos/000/011/178/large/fck.PNG?1576712719",
                 "date": "2019-12-30T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "00:40",
@@ -12956,7 +13042,7 @@
                 "type": "lecture",
                 "language": "en",
                 "abstract": "Currently Facebook has a tight grip on the cultural scene with its events-calendar and with Instagram as a spectacular image feed. But there is graffiti in the ruins of the feed and the party-info-capital is emigrating. The talk calls upon the critical net scene to contribute arguments and skills - theory and practice - in order to build bridges and include many.",
-                "description": "Currently Facebook has a tight grip on the cultural scene with its events-calendar and with Instagram as a spectacular image feed. Even the leftist-critical scene of alternative culture and protests is busy contributing for the sake of outreach. Their contributions feed the filter systems, and profiling and affect loops run hot.\r\n<br>\r\nBut an opposition is rising. Graffiti and net-art are merging with hacking. Activists in Berlin, Paris, Rio and Sao Paulo are using facebook graffiti, through circulating UTF-8 textbombs that cross the layout of the feed (Check the wiki for workshop materials from 34C3).\r\n<br>\r\nThe Berlin network Reclaim Club Culture meanwhile is calling for a Facebook Exodus (CCCamp2019). They want to motivate the club and cultural scene to support free alternatives, by moving their biggest information capital, which are the event announcements. Once the information monopoly is cut through, maybe more people will make the step to leave the platform they don't even like anymore.\r\n<br>\r\nAll of this is part of a bigger network of refusal, from Fuck Off Google (31C3) to Facebook Resistance Artists. The talk calls upon the critical net scene to contribute arguments and skills - theory and practice - in order to build bridges and include many.",
+                "description": "Currently Facebook has a tight grip on the cultural scene with its events-calendar and with Instagram as a spectacular image feed. Even the leftist-critical scene of alternative culture and protests is busy contributing for the sake of outreach. Their contributions feed the filter systems, and profiling and affect loops run hot.\r\nBut an opposition is rising. Graffiti and net-art are merging with hacking. Activists in Berlin, Paris, Rio and Sao Paulo are using facebook graffiti, through circulating UTF-8 textbombs that cross the layout of the feed (Check the wiki for workshop materials from 34C3).\r\nThe Berlin network Reclaim Club Culture meanwhile is calling for a Facebook Exodus (CCCamp2019). They want to motivate the club and cultural scene to support free alternatives, by moving their biggest information capital, which are the event announcements. Once the information monopoly is cut through, maybe more people will make the step to leave the platform they don't even like anymore.\r\nAll of this is part of a bigger network of refusal, from Fuck Off Google (31C3) to Facebook Resistance Artists. The talk calls upon the critical net scene to contribute arguments and skills - theory and practice - in order to build bridges and include many.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [

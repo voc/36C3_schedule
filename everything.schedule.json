@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 17:50",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 18:00",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -12046,7 +12046,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Measure local pollution levels by building your own particle matter sensor system. This DIY setup allowed everyone to measure air quality. Join thousands around the world by contributing the data to citizen science projects with open data. The system uses off the shelf parts with no soldering (design by OK Lab Stuttgart as part of the https://luftdaten.info/\u00a0 project).\n",
+                "description": "Measure local pollution levels by building your own particle matter sensor system. This DIY setup allowed everyone to measure air quality. Join thousands around the world by contributing the data to citizen science projects with open data. The system uses off the shelf parts with no soldering (design by OK Lab Stuttgart as part of the https://luftdaten.info/\u00a0 \nproject).\u00a0<br> \n\nThis workshop will be given twice\n(both identical): Max 10 places\nDay 2: 28-Dec, 4pm - 5:30pm\nDay 3: 29-Dec, 6pm - 7:30pm\n\n<br> ''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)'''''<br>\n",
                 "persons": [
                   {
                     "id": 0,
@@ -15849,32 +15849,6 @@
                 "duration": "3:00",
                 "room": "Lecture room M1",
                 "slug": "36c3-1269-kernel_hacking",
-                "title": "Kernel Hacking",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "en",
-                "abstract": "",
-                "description": "Write a simple kernel driver, debug and trace it remotely with gdb.\nIn this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. KGDB, the kernel debugger, allows you to debug a kernel running on a different architecture, remotely, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. ",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Vtec",
-                    "public_name": "Vtec"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1016,
-                "guid": "5ce4ab77-ca9b-4153-b208-9a975a4b439a",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Kernel_Hacking",
-                "logo": null,
-                "date": "2019-12-29T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "3:00",
-                "room": "Lecture room M1",
-                "slug": "36c3-1016-kernel_hacking",
                 "title": "Kernel Hacking",
                 "subtitle": "",
                 "track": "self organized sessions",

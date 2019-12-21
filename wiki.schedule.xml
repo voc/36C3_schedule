@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-21 17:50</version>
+  <version>2019-12-21 18:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -2573,7 +2573,15 @@ Die Bewegungspausen:* Augen-Yoga* Wer anderen eine Grube gräbt* Statistik I und
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>Measure local pollution levels by building your own particle matter sensor system. This DIY setup allowed everyone to measure air quality. Join thousands around the world by contributing the data to citizen science projects with open data. The system uses off the shelf parts with no soldering (design by OK Lab Stuttgart as part of the https://luftdaten.info/  project).
+        <description>Measure local pollution levels by building your own particle matter sensor system. This DIY setup allowed everyone to measure air quality. Join thousands around the world by contributing the data to citizen science projects with open data. The system uses off the shelf parts with no soldering (design by OK Lab Stuttgart as part of the https://luftdaten.info/  
+project). &lt;br&gt; 
+
+This workshop will be given twice
+(both identical): Max 10 places
+Day 2: 28-Dec, 4pm - 5:30pm
+Day 3: 29-Dec, 6pm - 7:30pm
+
+&lt;br&gt; ''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt;
 </description>
         <persons>
           <person id="0">Tdr112</person>
@@ -3887,27 +3895,6 @@ find more Info at [[C3auti]]</description>
         <duration>3:00</duration>
         <room>Lecture room M1</room>
         <slug>36c3-1269-kernel_hacking</slug>
-        <title>Kernel Hacking</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>en</language>
-        <abstract/>
-        <description>Write a simple kernel driver, debug and trace it remotely with gdb.
-In this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. KGDB, the kernel debugger, allows you to debug a kernel running on a different architecture, remotely, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. </description>
-        <persons>
-          <person id="0">Vtec</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1016" guid="5ce4ab77-ca9b-4153-b208-9a975a4b439a">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Kernel_Hacking</url>
-        <logo/>
-        <date>2019-12-29T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>3:00</duration>
-        <room>Lecture room M1</room>
-        <slug>36c3-1016-kernel_hacking</slug>
         <title>Kernel Hacking</title>
         <subtitle/>
         <track>self organized sessions</track>

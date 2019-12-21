@@ -1,5 +1,5 @@
 <schedule>
-  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Praseodymium</version>
+  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3465,6 +3465,34 @@ We will dance in Komona and in the Lounge @ c36c3. More infos to come soon.&#13;
 &#13;
 Until then: Keep on dancing.</abstract>
         <description>Chaos Ballet is about...</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="28">Chaos Ensemble</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="836" guid="bbb85436-a57a-504e-8f90-6a45188e0fa3">
+        <logo>/media/36c3/images/3PCCCZ/chaos_ballett_promo_imgsize_M.jpg</logo>
+        <date>2019-12-27T21:00:00+00:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>CKR&amp;W*</room>
+        <slug>3PCCCZ</slug>
+        <url>https://talks.komona.org/36c3/talk/3PCCCZ/</url>
+        <title>Chaos Ballett Screening</title>
+        <subtitle/>
+        <track/>
+        <type>Session</type>
+        <language>en</language>
+        <abstract>come and see, we might show you some snippets or the whole chaos ballett which took place here:&#13;
+&#13;
+https://www.hkw.de/en/programm/projekte/veranstaltung/p_163517.php</abstract>
+        <description>#chaosballettscreening</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -7745,6 +7773,32 @@ Episodes are in Japanese with English subtitles. We'll have some time to look at
       </event>
     </room>
     <room name="Dome 2">
+      <event id="837" guid="84186fc0-d3d0-5c30-92c3-cede6a4c9a5c">
+        <logo>/media/36c3/images/SNMYTC/vpn-img.png</logo>
+        <date>2019-12-28T11:00:00+00:00</date>
+        <start>11:00</start>
+        <duration>00:45</duration>
+        <room>Dome 2</room>
+        <slug>SNMYTC</slug>
+        <url>https://talks.komona.org/36c3/talk/SNMYTC/</url>
+        <title>Tunnel up/Tunnel down</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>In this talk we will look into the basics of virtual private networks such as the Internet Protocol Security layer known as IPsec, and the openVPN. We will talk about how tunnels work, why do we need them, and what tools are available. We will try to understand how various tunneling protocols come with different flavors of transport modes, different authentication methods and different encryption.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="38">mara</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="805" guid="9e042d3f-798b-52ce-af01-ad52f07a2f4a">
         <logo/>
         <date>2019-12-28T12:30:00+00:00</date>

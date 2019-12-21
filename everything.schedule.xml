@@ -1,5 +1,5 @@
 <schedule>
-  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 18:00</version>
+  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 18:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -10971,15 +10971,7 @@ Die Bewegungspausen:* Augen-Yoga* Wer anderen eine Grube gräbt* Statistik I und
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>Measure local pollution levels by building your own particle matter sensor system. This DIY setup allowed everyone to measure air quality. Join thousands around the world by contributing the data to citizen science projects with open data. The system uses off the shelf parts with no soldering (design by OK Lab Stuttgart as part of the https://luftdaten.info/  
-project). &lt;br&gt; 
-
-This workshop will be given twice
-(both identical): Max 10 places
-Day 2: 28-Dec, 4pm - 5:30pm
-Day 3: 29-Dec, 6pm - 7:30pm
-
-&lt;br&gt; ''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt;
+        <description>Measure local pollution levels by building your own particle matter sensor system. This DIY setup allowed everyone to measure air quality. Join thousands around the world by contributing the data to citizen science projects with open data. The system uses off the shelf parts with no soldering (design by OK Lab Stuttgart as part of the https://luftdaten.info/  project). &lt;br&gt;&lt;br&gt; This workshop will be given twice(both identical): &lt;br&gt;Max 10 places per session &lt;br&gt;Day 2: 28-Dec, 4pm - 5:30pm  &lt;br&gt;Day 3: 29-Dec, 6pm - 7:30pm&lt;br&gt; ''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt;
 </description>
         <persons>
           <person id="0">Tdr112</person>
@@ -13676,27 +13668,6 @@ Along with the talk we would like to emphasize that the advancement of the curre
         <links>
           <link>https://kahoot.it/</link>
         </links>
-      </event>
-      <event id="1177" guid="22f132e1-41b4-47c1-8097-c30636edaefe">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_l%CC%B6a%CC%B6n%CC%B6e%CC%B6_dump</url>
-        <logo/>
-        <date>2019-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:15</duration>
-        <room>Lecture room 11</room>
-        <slug>36c3-1177-session_a_trip_down_the_memory_l_a_n_e_dump</slug>
-        <title>A trip down the memory l̶a̶n̶e̶ dump</title>
-        <subtitle>An introduction to memory forensics</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>This workshop covers the fundamentals of memory internals and then dive into hands-on analysis with volatility. Newbie or seasoned, professional or hobbyist, this session is for you!
-Both theoretical and technical aspects of memory forensics will be covered: A theoretical approach of the basics of how memory in Windows systems works and hands-on dive to memory analysis.&lt;br&gt;The following topics will be discussed:&lt;br&gt;* How memory works in Windows systems* Memory acquisition* Introduction to Volatility and its plugins* Hands-on analysis of machine hit by ransomwareLast 15 minutes will feature a general discussion and ideally will set the foundation of a C3 assembly dedicated to Digital ForensicsIt is a BYOD, so please have the latest version of volatility installed on your machine!&lt;br&gt;https://github.com/volatilityfoundation/volatility/wiki/Installation&lt;br&gt;The workshop will be all about how to use it, not install it! :)</description>
-        <persons>
-          <person id="0">November</person>
-        </persons>
-        <links/>
       </event>
       <event id="1002" guid="a9513da7-a95c-4eb4-ba32-11485be62789">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting</url>
@@ -16863,6 +16834,27 @@ For more information please refer to the foodhackingbase wiki page: https://food
       </event>
     </room>
     <room name="Assembly:Hardware Hacking Area">
+      <event id="1277" guid="54b8608f-424e-4436-ae34-a09a1a42a9c9">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Air_Quality_Particulate_Matter_Sensor_Workshop</url>
+        <logo/>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1277-session_air_quality_particulate_matter_sensor_workshop</slug>
+        <title>Air Quality Particulate Matter Sensor Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Measure local pollution levels by building your own particle matter sensor system. This DIY setup allowed everyone to measure air quality. Join thousands around the world by contributing the data to citizen science projects with open data. The system uses off the shelf parts with no soldering (design by OK Lab Stuttgart as part of the https://luftdaten.info/  project). &lt;br&gt;&lt;br&gt; This workshop will be given twice(both identical): &lt;br&gt;Max 10 places per session &lt;br&gt;Day 2: 28-Dec, 4pm - 5:30pm  &lt;br&gt;Day 3: 29-Dec, 6pm - 7:30pm&lt;br&gt; ''(This is one of many cool things happening throughout 36C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt;
+</description>
+        <persons>
+          <person id="0">Tdr112</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1171" guid="5ecb5c1f-725a-481b-90ad-f840bd7e5ea8">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Arduino_For_Total_Newbies</url>
         <logo/>
@@ -18083,6 +18075,27 @@ This meeting is used for the distribution of shifts for the Translation team.</d
       </event>
     </room>
     <room name="Lecture room M2">
+      <event id="1177" guid="22f132e1-41b4-47c1-8097-c30636edaefe">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_l%CC%B6a%CC%B6n%CC%B6e%CC%B6_dump</url>
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:15</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1177-session_a_trip_down_the_memory_l_a_n_e_dump</slug>
+        <title>A trip down the memory l̶a̶n̶e̶ dump</title>
+        <subtitle>An introduction to memory forensics</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>This workshop covers the fundamentals of memory internals and then dive into hands-on analysis with volatility. Newbie or seasoned, professional or hobbyist, this session is for you!
+Both theoretical and technical aspects of memory forensics will be covered: A theoretical approach of the basics of how memory in Windows systems works and hands-on dive to memory analysis.&lt;br&gt;The following topics will be discussed:&lt;br&gt;* How memory works in Windows systems* Memory acquisition* Introduction to Volatility and its plugins* Hands-on analysis of machine hit by ransomwareLast 15 minutes will feature a general discussion and ideally will set the foundation of a C3 assembly dedicated to Digital ForensicsIt is a BYOD, so please have the latest version of volatility installed on your machine!&lt;br&gt;https://github.com/volatilityfoundation/volatility/wiki/Installation&lt;br&gt;The workshop will be all about how to use it, not install it! :)</description>
+        <persons>
+          <person id="0">November</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1178" guid="c934b660-8d4e-4260-af17-48c8444c70b7">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:ADHD_%26_me_-_..._and_you%3F</url>
         <logo/>

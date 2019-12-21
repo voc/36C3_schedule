@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-21 20:30</version>
+  <version>2019-12-21 21:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -4738,6 +4738,27 @@ Daily A/V Angel Meeting. More information can be obtained from our news in the a
       </event>
     </room>
     <room name="Seminar room 14-15">
+      <event id="1279" guid="32991e00-405b-4cc4-ba36-5d0045e1527b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Getting_to_know_Julia</url>
+        <logo/>
+        <date>2019-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1279-session_getting_to_know_julia</slug>
+        <title>Getting to know Julia</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>This workshop is for everyone who wants to get an idea and some first look at the programming language Julia, which is tailored primarily for data analysis or scientific computing
+In this introductory workshop you are invited to get a first look at the programming language Julia. Julia is comparatively recent (version 1.0 got released August last year) and was originally designed from scratch to provide a high-level language, which is also fast. As a result applications include scientific simulations, data science, machine learning and generally high-performance computing. Writing Julia feels a lot like writing a scripting language, but since code is automatically (and painlessly) compiled down to machine code before execution, a performance comparable to low-level languages like C or FORTRAN can be achieved.We will use examples and a few exercises to discuss the main concepts of Julia. The main purpose is to get you curious and give you an overview. Care is taken to provide rich lists of links with further information to continue to explore Julia on your own (if you wish to do so ...).</description>
+        <persons>
+          <person id="0">Mfh</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1024" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d9">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
         <logo/>

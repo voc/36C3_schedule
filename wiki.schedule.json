@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-21 04:30",
+    "version": "2019-12-21 04:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -4591,6 +4591,32 @@
                 "links": []
               },
               {
+                "id": 1269,
+                "guid": "edb78696-bb02-4e15-95c1-39e32d4b0a94",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Kernel_Hacking",
+                "logo": null,
+                "date": "2019-12-29T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "3:00",
+                "room": "Lecture room M1",
+                "slug": "36c3-1269-kernel_hacking",
+                "title": "Kernel Hacking",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "Write a simple kernel driver, debug and trace it remotely with gdb.\nIn this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. The Linux kernel allows you to debug kernel code running on a remote system with a different architecture, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. ",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Vtec",
+                    "public_name": "Vtec"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1016,
                 "guid": "5ce4ab77-ca9b-4153-b208-9a975a4b439a",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Kernel_Hacking",
@@ -4606,7 +4632,7 @@
                 "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "Write a simple kernel driver, debug and trace it remotely with gdb.\nTarget boards will be provided, bring your own laptop, more details to follow.",
+                "description": "Write a simple kernel driver, debug and trace it remotely with gdb.\nIn this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. The Linux kernel allows you to debug kernel code running on a remote system with a different architecture, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. ",
                 "persons": [
                   {
                     "id": 0,

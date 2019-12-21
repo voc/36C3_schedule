@@ -970,7 +970,7 @@
                 "room": "Dijkstra",
                 "slug": "36c3-11172-leaving_legacy_behind",
                 "title": "Leaving legacy behind",
-                "subtitle": "towards secure network services",
+                "subtitle": "Reducing carbon footprint of network services with MirageOS unikernels",
                 "track": "Security",
                 "type": "lecture",
                 "language": "en",
@@ -1340,8 +1340,8 @@
                 "track": "Hardware & Making",
                 "type": "lecture",
                 "language": "en",
-                "abstract": "Modern smartphones offer a whole range of sensors like magnetometers, accelerometers or gyroscopes. The open source app \"phyphox\", developed at the RWTH Aachen University, repurposes these sensors as measuring instruments in physics education. When put into a salad spinner, the phone can acquire the relation of centripetal acceleration and angular velocity. Its barometer can be used to measure the velocity of an elevator. And when using two phones, it is easy to determine the speed of sound with a very simple method.\r\n\r\nIn this talk, I will show these possibilities in demonstration experiments, discuss available sensors and their limitations and introduce interfaces to integrate phyphox into other projects.",
-                "description": "In this talk, the developer of the app \"phyphox\" at the RWTH Aachen University will first introduce how sensors in smartphones can be used to enable experimentation and data acquisition in physics teaching with several demonstrations on stage. Available sensors and their limitations will be discussed along with interfaces allowing the integration of phyphox into other project, either as a means to access sensor data or to display data from other sources.\r\n\r\nThe app is open source under the GNU GPLv3 licence and available for Android (>=4.0) and iOS (>=8.0). It is designed around experiment configurations for physics education at school and university, allowing for a quick setup with a single tap. At the same time, these configurations may be modified by any user to set up customized sensor configurations along with data analysis and data visualization, defined in an XML format. These configurations are Turing complete and can easily be transferred via QR codes, so an experienced user (teacher) can create a specific configuration and allow less experienced users (students) to use it with ease.\r\n",
+                "abstract": "Modern smartphones offer a whole range of sensors like magnetometers, accelerometers or gyroscopes. The open source app \"phyphox\", developed at the RWTH Aachen University, repurposes these sensors as measuring instruments in physics education.",
+                "description": "When put into a salad spinner, the phone can acquire the relation of centripetal acceleration and angular velocity. Its barometer can be used to measure the velocity of an elevator. And when using two phones, it is easy to determine the speed of sound with a very simple method.\r\n\r\nIn this talk, I will show these possibilities in demonstration experiments, discuss available sensors and their limitations and introduce interfaces to integrate phyphox into other projects.\r\n\r\nIn this talk, the developer of the app \"phyphox\" at the RWTH Aachen University will first introduce how sensors in smartphones can be used to enable experimentation and data acquisition in physics teaching with several demonstrations on stage. Available sensors and their limitations will be discussed along with interfaces allowing the integration of phyphox into other project, either as a means to access sensor data or to display data from other sources.\r\n\r\nThe app is open source under the GNU GPLv3 licence and available for Android (>=4.0) and iOS (>=8.0). It is designed around experiment configurations for physics education at school and university, allowing for a quick setup with a single tap. At the same time, these configurations may be modified by any user to set up customized sensor configurations along with data analysis and data visualization, defined in an XML format. These configurations are Turing complete and can easily be transferred via QR codes, so an experienced user (teacher) can create a specific configuration and allow less experienced users (students) to use it with ease.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -1495,7 +1495,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "Einf\u00fchrung in das Forschungsfeld der Kritikalit\u00e4tsanalysen. Anhand der Rohstoffe Tantal, Wolfram, Zinn und Gold werden exemplarisch die quantitativen und qualitativen Indikatoren f\u00fcr eine Versorgungsengpassanalyse vorgestellt.",
-                "description": "Moderne High-Tech Produkte ben\u00f6tigen chemische Elemente, die in spezifischen Rohstoffen (z.B. Erze) vorkommen. Dabei unterliegen Verf\u00fcgbarkeit und Preis dieser Rohstoffe in hohem Ma\u00dfe den Einflussfaktoren der Konzentrationsrisken, politischen Risiken, Angebotsreduktions- und Nachfrageanstiegsrisiken. Da Unternehmen oftmals \u00fcber Jahre hinweg an bestimmte Rohstoffe gebunden sind, m\u00fcssen sie den Unsicherheiten mit vielf\u00e4ltigen Strategien begegnen. Vom Abbau und der Verarbeitung bis zur Nutzung und Entsorgung, wird die gesamte Wertsch\u00f6pfungskettenkritikalit\u00e4t bewertet. Dadurch k\u00f6nnen Verwundbarkeiten von Unternehmen und L\u00e4ndern durch Rohstoffengp\u00e4sse objektiv identifiziert und Handlungsempfehlungen definiert werden. Die Kritikalit\u00e4tsanalyse wird am Beispiel der 3TG Materialien (Tantal, Wolfram, Zinn und Gold) veranschaulicht.",
+                "description": "Moderne High-Tech-Produkte ben\u00f6tigen chemische Elemente, die in spezifischen Rohstoffen (z. B. Erze) vorkommen. Dabei unterliegen Verf\u00fcgbarkeit und Preis dieser Rohstoffe in hohem Ma\u00dfe den Einflussfaktoren der Konzentrationsrisken, politischen Risiken, Angebotsreduktions- und Nachfrageanstiegsrisiken. Da Unternehmen oftmals \u00fcber Jahre hinweg an bestimmte Rohstoffe gebunden sind, m\u00fcssen sie den Unsicherheiten mit vielf\u00e4ltigen Strategien begegnen. Vom Abbau und der Verarbeitung bis zur Nutzung und Entsorgung wird die gesamte Wertsch\u00f6pfungskettenkritikalit\u00e4t bewertet. Dadurch k\u00f6nnen Verwundbarkeiten von Unternehmen und L\u00e4ndern durch Rohstoffengp\u00e4sse objektiv identifiziert und Handlungsempfehlungen definiert werden. Die Kritikalit\u00e4tsanalyse wird am Beispiel der 3TG-Materialien (Tantal, Wolfram, Zinn und Gold) veranschaulicht.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -1506,8 +1506,8 @@
                 ],
                 "links": [
                   {
-                    "url": "www.ressourcen.fm",
-                    "title": "Ressourcen.fm Podcast"
+                    "url": "https://ressourcen.fm",
+                    "title": "Ressourcen.fm-Podcast"
                   }
                 ],
                 "attachments": []
@@ -5949,8 +5949,8 @@
                 "track": "Ethics, Society & Politics",
                 "type": "lecture",
                 "language": "en",
-                "abstract": "Robots, Satellites and biometrical traps - more than a Billion Euro will be spent in 2021 for what they call \"Border Security.\" The European Border and Coastguard, formerly Frontex, dreams of a fully automomus border surveillance system. As a humanitarian & human rights organisation involved in sea rescue, we recognise however that the shift towards new technologies correlates with a shift away from basic human rights standards. The robots, sattelites & co. are not used to make society safer & life easier but to spy on us and to deport people to torture in Libya. ",
-                "description": "At Sea-Watch e.V. we are involved in a non-profit initiative dedicated to the civilian rescue of refugees at sea. In view of the humanitarian disaster on the Mediterranean Sea-Watch provides emergency aid, demands and forces at the same time the rescue by the responsible European institutions and stands publicly for legal escape routes and open borders. We are politically and religiously independent and finance ourselves exclusively through donations.\r\nAt sea, we formerly cooperated with Frontex ships in rescues when they were still involved in live saving operations. Now we regularly observe them actually being involved in illegal refoulements, especially with our surveillance aircraft Moonbird. \r\n\r\nFrontex was formerly an agency that advised governments on border control and did risk assessments on border crossings, it had basically a coordinating role within the European framework. They were called \"European Agency for the Management of Operational Cooperation at the External Borders\". In 2016, during the so-called refugee crisis, the European Commission proposed to strengthen them and they became the European Border and Coast Guard Agency.\r\n\r\nFrontex is working and developing satellite observation, the development of drone capabilities and other surveillance technologies like IMSI-Catchers with the help of European universities and companies like EADS and esri. All this happens right now without a lot of public or transparency from the site of the agency. While they provide national authorities with equipment and justify their yearly growing budget with out border security there are no sources to measure the effectivity of their methods.\r\n\r\nWhile they present themselves as the friendly boarderguard next door it has evolved into an engency which is developing capabilities in all kinds of surveillance technologies with pilot projects which sound like they are taken out of a science fiction movie:\r\n\r\nSMILE\r\n\"SMILE proposes a novel mobility concept, using privacy by design principles, that will enable low cost secure exchange and processing of biometric data, addressing in parallel the aforementioned challenges by designing, implementing and evaluating in relevant environments (TRL6) prototype management architecture, for the accurate verification, automated control, monitoring and optimization of people\u2019 flows at Land Border Infrastructures.\"\r\n    \r\nRoborder\r\n\"ROBORDER aims at developing and demonstrating a fully-functional autonomous border surveillance system with unmanned mobile robots including aerial, water surface, underwater and ground vehicles, capable of functioning both as standalone and in swarms, which will incorporate multimodal sensors as part of an interoperable network.\"\r\nhttp://btn.frontex.europa.eu/projects/external/roborder\r\n    \r\nCamelot\r\n\"\"iBorderCtrl envisages to enable faster thorough border control for third country nationals crossing the borders of EU, with technologies that adopt the future development of the Schengen Border Management.\r\nThe project will present an optimal mixture of an enhanced, voluntary form of a Registered Traveller Programme and an auxiliary solution for the Entry/Exit System based on involving bona fide travellers\"\r\nhttp://btn.frontex.europa.eu/projects/external/iborderctrl    \r\n    \r\niBorderCtrl\r\n\"iBorderCtrl envisages to enable faster thorough border control for third country nationals crossing the borders of EU, with technologies that adopt the future development of the Schengen Border Management.\r\nThe project will present an optimal mixture of an enhanced, voluntary form of a Registered Traveller Programme and an auxiliary solution for the Entry/Exit System based on involving bona fide travellers\"\r\nhttp://btn.frontex.europa.eu/projects/external/iborderctrl\r\n\r\nWhile the people in charge do not manage to organize a proper search- and rescue program, Europe is setting up and spending more and more on a massive surveillance agency for border protection which has a big focus in surveillance and \"protecting\" the European external borders while no one ever evaluated the effectivity of this massive border militarization.",
+                "abstract": "Robots, Satellites and biometrical traps - more than a Billion Euro will be spent in 2021 for what they call \"Border Security.\" The European Border and Coastguard, formerly Frontex, dreams of a fully automomus border surveillance system.",
+                "description": "As a humanitarian & human rights organisation involved in sea rescue, we recognise however that the shift towards new technologies correlates with a shift away from basic human rights standards. The robots, satellites & co. are not used to make society safer & life easier but to spy on us and to deport people to torture in Libya.\r\n\r\nAt Sea-Watch e.V. we are involved in a non-profit initiative dedicated to the civilian rescue of refugees at sea. In view of the humanitarian disaster on the Mediterranean Sea-Watch provides emergency aid, demands and forces at the same time the rescue by the responsible European institutions and stands publicly for legal escape routes and open borders. We are politically and religiously independent and finance ourselves exclusively through donations.\r\n\r\nAt sea, we formerly cooperated with Frontex ships in rescues when they were still involved in live saving operations. Now we regularly observe them actually being involved in illegal refoulements, especially with our surveillance aircraft Moonbird.\r\n\r\nFrontex was formerly an agency that advised governments on border control and did risk assessments on border crossings, it had basically a coordinating role within the European framework. They were called \"European Agency for the Management of Operational Cooperation at the External Borders\". In 2016, during the so-called refugee crisis, the European Commission proposed to strengthen them and they became the European Border and Coast Guard Agency.\r\n\r\nFrontex is working and developing satellite observation, the development of drone capabilities and other surveillance technologies like IMSI-Catchers with the help of European universities and companies like EADS and esri. All this happens right now without a lot of public or transparency from the site of the agency. While they provide national authorities with equipment and justify their yearly growing budget with out border security there are no sources to measure the effectivity of their methods.\r\n\r\nWhile they present themselves as the friendly boarderguard next door it has evolved into an engency which is developing capabilities in all kinds of surveillance technologies with pilot projects which sound like they are taken out of a science fiction movie:\r\n\r\nSMILE\r\n\"SMILE proposes a novel mobility concept, using privacy by design principles, that will enable low cost secure exchange and processing of biometric data, addressing in parallel the aforementioned challenges by designing, implementing and evaluating in relevant environments (TRL6) prototype management architecture, for the accurate verification, automated control, monitoring and optimization of people\u2019 flows at Land Border Infrastructures.\"\r\n    \r\nRoborder\r\n\"ROBORDER aims at developing and demonstrating a fully-functional autonomous border surveillance system with unmanned mobile robots including aerial, water surface, underwater and ground vehicles, capable of functioning both as standalone and in swarms, which will incorporate multimodal sensors as part of an interoperable network.\"\r\nhttp://btn.frontex.europa.eu/projects/external/roborder    \r\n    \r\niBorderCtrl\r\n\"iBorderCtrl envisages to enable faster thorough border control for third country nationals crossing the borders of EU, with technologies that adopt the future development of the Schengen Border Management.\r\nThe project will present an optimal mixture of an enhanced, voluntary form of a Registered Traveller Programme and an auxiliary solution for the Entry/Exit System based on involving bona fide travellers\"\r\nhttp://btn.frontex.europa.eu/projects/external/iborderctrl\r\n\r\nWhile the people in charge do not manage to organize a proper search- and rescue program, Europe is setting up and spending more and more on a massive surveillance agency for border protection which has a big focus in surveillance and \"protecting\" the European external borders while no one ever evaluated the effectivity of this massive border militarization.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -8666,6 +8666,10 @@
                   {
                     "id": 9645,
                     "public_name": "Sebastian Erb"
+                  },
+                  {
+                    "id": 9893,
+                    "public_name": "Daniel Schulz"
                   }
                 ],
                 "links": [
@@ -9216,7 +9220,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "So wie Farnpflanzen ihre Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren, auf dass sie dort auf fruchtbaren Boden fallen, werden unsere 8 Expert*innen ihr Nerd- und Fach-Wissen weitergeben \u2013 spektakul\u00e4r, wirkungsvoll und unterhaltsam. So bunt wie die besten Slams, so dicht wie die besten Lightning Talks: 8 Antworten auf die Frage, warum Techies und \u00d6kos zusammengeh\u00f6ren.",
-                "description": "Bei der Bits&B\u00e4ume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und L\u00f6sungsans\u00e4tze zu erkl\u00e4ren, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste \"Sporangium\" hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. F\u00fcr de C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?\r\n\r\nSpeaker*innen:\r\ntba \u2013 Klimawandel?! Echt jetzt?!!!\r\ntba \u2013 technologische Fragen in der Entwicklungsarbeit\r\nCarina Haupt: Nachhaltige Softwareentwicklung (f\u00fcr weniger explodierende Raketen)\r\nElenos Manifesti: Wir fordern! Das Bits&B\u00e4ume-Manifest\r\nIsabella Hermann: \u00d6kos im Weltraum? Nachhaltigkeit in Science Fiction\r\nJulia \u2013 aktivistische Mikrozellen der Stadt\r\nLisa Passing: \u00d6kostrom != \u00d6kostrom. Down the green energy rabbit hole\r\nViktor Schl\u00fcter: Datenschutz? Klimaschutz? Zukunft!\r\n\r\n\r\nDurchs Sporangium katapultieren wie immer julika & Rainer",
+                "description": "Bei der Bits&B\u00e4ume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und L\u00f6sungsans\u00e4tze zu erkl\u00e4ren, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste \"Sporangium\" hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. F\u00fcr de C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?\r\n\r\nSpeaker*innen:\r\ntba \u2013 Klimawandel?! Echt jetzt?!!!\r\ntba \u2013 technologische Fragen in der Entwicklungsarbeit\r\nCarina Haupt: Nachhaltige Softwareentwicklung (f\u00fcr weniger explodierende Raketen)\r\nElenos Manifesti: Wir fordern! Das Bits&B\u00e4ume-Manifest\r\nIsabella Hermann: \u00d6kos im Weltraum? Nachhaltigkeit in Science Fiction\r\nJulia \u2013 Raum f\u00fcr Wissen\r\nLisa Passing: \u00d6kostrom != \u00d6kostrom. Down the green energy rabbit hole\r\nViktor Schl\u00fcter: Datenschutz? Klimaschutz? Zukunft!\r\n\r\n\r\nDurchs Sporangium katapultieren wie immer julika & Rainer",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -9909,10 +9913,6 @@
                   {
                     "id": 9298,
                     "public_name": "Simon Hegelich"
-                  },
-                  {
-                    "id": 9519,
-                    "public_name": "Florina Speth"
                   }
                 ],
                 "links": [
@@ -10312,6 +10312,10 @@
                   {
                     "id": 8992,
                     "public_name": "Anja H\u00f6fner"
+                  },
+                  {
+                    "id": 9067,
+                    "public_name": "Nicolas Guenot"
                   }
                 ],
                 "links": [],
@@ -10388,7 +10392,7 @@
                   },
                   {
                     "id": 9483,
-                    "public_name": "Vincent Ahrend"
+                    "public_name": "cafca"
                   }
                 ],
                 "links": [
@@ -10405,12 +10409,7 @@
                     "title": "Liebe Chaos Verein e. V."
                   }
                 ],
-                "attachments": [
-                  {
-                    "url": "/attachments/original/missing.png",
-                    "title": "file"
-                  }
-                ]
+                "attachments": []
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10890.html",

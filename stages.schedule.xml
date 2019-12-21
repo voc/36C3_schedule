@@ -929,7 +929,7 @@ Der Vortrag beleuchtet einerseits den US-kulturellen Hintergrund des Feldes: von
         <room>Dijkstra</room>
         <slug>36c3-11172-leaving_legacy_behind</slug>
         <title>Leaving legacy behind</title>
-        <subtitle>towards secure network services</subtitle>
+        <subtitle>Reducing carbon footprint of network services with MirageOS unikernels</subtitle>
         <track>Security</track>
         <type>lecture</type>
         <language>en</language>
@@ -1317,13 +1317,14 @@ environmental costs of user monetization processes taking Amazon as a case study
         <track>Hardware &amp; Making</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>Modern smartphones offer a whole range of sensors like magnetometers, accelerometers or gyroscopes. The open source app "phyphox", developed at the RWTH Aachen University, repurposes these sensors as measuring instruments in physics education. When put into a salad spinner, the phone can acquire the relation of centripetal acceleration and angular velocity. Its barometer can be used to measure the velocity of an elevator. And when using two phones, it is easy to determine the speed of sound with a very simple method.&#13;
+        <abstract>Modern smartphones offer a whole range of sensors like magnetometers, accelerometers or gyroscopes. The open source app "phyphox", developed at the RWTH Aachen University, repurposes these sensors as measuring instruments in physics education.</abstract>
+        <description>When put into a salad spinner, the phone can acquire the relation of centripetal acceleration and angular velocity. Its barometer can be used to measure the velocity of an elevator. And when using two phones, it is easy to determine the speed of sound with a very simple method.&#13;
 &#13;
-In this talk, I will show these possibilities in demonstration experiments, discuss available sensors and their limitations and introduce interfaces to integrate phyphox into other projects.</abstract>
-        <description>In this talk, the developer of the app "phyphox" at the RWTH Aachen University will first introduce how sensors in smartphones can be used to enable experimentation and data acquisition in physics teaching with several demonstrations on stage. Available sensors and their limitations will be discussed along with interfaces allowing the integration of phyphox into other project, either as a means to access sensor data or to display data from other sources.&#13;
+In this talk, I will show these possibilities in demonstration experiments, discuss available sensors and their limitations and introduce interfaces to integrate phyphox into other projects.&#13;
 &#13;
-The app is open source under the GNU GPLv3 licence and available for Android (&gt;=4.0) and iOS (&gt;=8.0). It is designed around experiment configurations for physics education at school and university, allowing for a quick setup with a single tap. At the same time, these configurations may be modified by any user to set up customized sensor configurations along with data analysis and data visualization, defined in an XML format. These configurations are Turing complete and can easily be transferred via QR codes, so an experienced user (teacher) can create a specific configuration and allow less experienced users (students) to use it with ease.&#13;
-</description>
+In this talk, the developer of the app "phyphox" at the RWTH Aachen University will first introduce how sensors in smartphones can be used to enable experimentation and data acquisition in physics teaching with several demonstrations on stage. Available sensors and their limitations will be discussed along with interfaces allowing the integration of phyphox into other project, either as a means to access sensor data or to display data from other sources.&#13;
+&#13;
+The app is open source under the GNU GPLv3 licence and available for Android (&gt;=4.0) and iOS (&gt;=8.0). It is designed around experiment configurations for physics education at school and university, allowing for a quick setup with a single tap. At the same time, these configurations may be modified by any user to set up customized sensor configurations along with data analysis and data visualization, defined in an XML format. These configurations are Turing complete and can easily be transferred via QR codes, so an experienced user (teacher) can create a specific configuration and allow less experienced users (students) to use it with ease.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -1475,7 +1476,7 @@ Dieser Talk zeigt, wie weit wir bereits gekommen sind, mit Hilfe der Makefile-ge
         <type>lecture</type>
         <language>de</language>
         <abstract>Einführung in das Forschungsfeld der Kritikalitätsanalysen. Anhand der Rohstoffe Tantal, Wolfram, Zinn und Gold werden exemplarisch die quantitativen und qualitativen Indikatoren für eine Versorgungsengpassanalyse vorgestellt.</abstract>
-        <description>Moderne High-Tech Produkte benötigen chemische Elemente, die in spezifischen Rohstoffen (z.B. Erze) vorkommen. Dabei unterliegen Verfügbarkeit und Preis dieser Rohstoffe in hohem Maße den Einflussfaktoren der Konzentrationsrisken, politischen Risiken, Angebotsreduktions- und Nachfrageanstiegsrisiken. Da Unternehmen oftmals über Jahre hinweg an bestimmte Rohstoffe gebunden sind, müssen sie den Unsicherheiten mit vielfältigen Strategien begegnen. Vom Abbau und der Verarbeitung bis zur Nutzung und Entsorgung, wird die gesamte Wertschöpfungskettenkritikalität bewertet. Dadurch können Verwundbarkeiten von Unternehmen und Ländern durch Rohstoffengpässe objektiv identifiziert und Handlungsempfehlungen definiert werden. Die Kritikalitätsanalyse wird am Beispiel der 3TG Materialien (Tantal, Wolfram, Zinn und Gold) veranschaulicht.</description>
+        <description>Moderne High-Tech-Produkte benötigen chemische Elemente, die in spezifischen Rohstoffen (z. B. Erze) vorkommen. Dabei unterliegen Verfügbarkeit und Preis dieser Rohstoffe in hohem Maße den Einflussfaktoren der Konzentrationsrisken, politischen Risiken, Angebotsreduktions- und Nachfrageanstiegsrisiken. Da Unternehmen oftmals über Jahre hinweg an bestimmte Rohstoffe gebunden sind, müssen sie den Unsicherheiten mit vielfältigen Strategien begegnen. Vom Abbau und der Verarbeitung bis zur Nutzung und Entsorgung wird die gesamte Wertschöpfungskettenkritikalität bewertet. Dadurch können Verwundbarkeiten von Unternehmen und Ländern durch Rohstoffengpässe objektiv identifiziert und Handlungsempfehlungen definiert werden. Die Kritikalitätsanalyse wird am Beispiel der 3TG-Materialien (Tantal, Wolfram, Zinn und Gold) veranschaulicht.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -1484,7 +1485,7 @@ Dieser Talk zeigt, wie weit wir bereits gekommen sind, mit Hilfe der Makefile-ge
           <person id="9335">Martin Hillenbrand</person>
         </persons>
         <links>
-          <link href="www.ressourcen.fm">Ressourcen.fm Podcast</link>
+          <link href="https://ressourcen.fm">Ressourcen.fm-Podcast</link>
         </links>
         <attachments/>
       </event>
@@ -5751,9 +5752,12 @@ This section describes how edge extensions provides more privilages to the user 
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>Robots, Satellites and biometrical traps - more than a Billion Euro will be spent in 2021 for what they call "Border Security." The European Border and Coastguard, formerly Frontex, dreams of a fully automomus border surveillance system. As a humanitarian &amp; human rights organisation involved in sea rescue, we recognise however that the shift towards new technologies correlates with a shift away from basic human rights standards. The robots, sattelites &amp; co. are not used to make society safer &amp; life easier but to spy on us and to deport people to torture in Libya. </abstract>
-        <description>At Sea-Watch e.V. we are involved in a non-profit initiative dedicated to the civilian rescue of refugees at sea. In view of the humanitarian disaster on the Mediterranean Sea-Watch provides emergency aid, demands and forces at the same time the rescue by the responsible European institutions and stands publicly for legal escape routes and open borders. We are politically and religiously independent and finance ourselves exclusively through donations.&#13;
-At sea, we formerly cooperated with Frontex ships in rescues when they were still involved in live saving operations. Now we regularly observe them actually being involved in illegal refoulements, especially with our surveillance aircraft Moonbird. &#13;
+        <abstract>Robots, Satellites and biometrical traps - more than a Billion Euro will be spent in 2021 for what they call "Border Security." The European Border and Coastguard, formerly Frontex, dreams of a fully automomus border surveillance system.</abstract>
+        <description>As a humanitarian &amp; human rights organisation involved in sea rescue, we recognise however that the shift towards new technologies correlates with a shift away from basic human rights standards. The robots, satellites &amp; co. are not used to make society safer &amp; life easier but to spy on us and to deport people to torture in Libya.&#13;
+&#13;
+At Sea-Watch e.V. we are involved in a non-profit initiative dedicated to the civilian rescue of refugees at sea. In view of the humanitarian disaster on the Mediterranean Sea-Watch provides emergency aid, demands and forces at the same time the rescue by the responsible European institutions and stands publicly for legal escape routes and open borders. We are politically and religiously independent and finance ourselves exclusively through donations.&#13;
+&#13;
+At sea, we formerly cooperated with Frontex ships in rescues when they were still involved in live saving operations. Now we regularly observe them actually being involved in illegal refoulements, especially with our surveillance aircraft Moonbird.&#13;
 &#13;
 Frontex was formerly an agency that advised governments on border control and did risk assessments on border crossings, it had basically a coordinating role within the European framework. They were called "European Agency for the Management of Operational Cooperation at the External Borders". In 2016, during the so-called refugee crisis, the European Commission proposed to strengthen them and they became the European Border and Coast Guard Agency.&#13;
 &#13;
@@ -5766,12 +5770,7 @@ SMILE&#13;
     &#13;
 Roborder&#13;
 "ROBORDER aims at developing and demonstrating a fully-functional autonomous border surveillance system with unmanned mobile robots including aerial, water surface, underwater and ground vehicles, capable of functioning both as standalone and in swarms, which will incorporate multimodal sensors as part of an interoperable network."&#13;
-http://btn.frontex.europa.eu/projects/external/roborder&#13;
-    &#13;
-Camelot&#13;
-""iBorderCtrl envisages to enable faster thorough border control for third country nationals crossing the borders of EU, with technologies that adopt the future development of the Schengen Border Management.&#13;
-The project will present an optimal mixture of an enhanced, voluntary form of a Registered Traveller Programme and an auxiliary solution for the Entry/Exit System based on involving bona fide travellers"&#13;
-http://btn.frontex.europa.eu/projects/external/iborderctrl    &#13;
+http://btn.frontex.europa.eu/projects/external/roborder    &#13;
     &#13;
 iBorderCtrl&#13;
 "iBorderCtrl envisages to enable faster thorough border control for third country nationals crossing the borders of EU, with technologies that adopt the future development of the Schengen Border Management.&#13;
@@ -8199,6 +8198,7 @@ Daniel Schulz, Leiter des Ressorts Reportage &amp; Recherche der taz</descriptio
         </recording>
         <persons>
           <person id="9645">Sebastian Erb</person>
+          <person id="9893">Daniel Schulz</person>
         </persons>
         <links>
           <link href="www.taz.de/hannibal">Alle taz-Texte der "Hannibal"-Recherche</link>
@@ -8722,7 +8722,7 @@ tba – technologische Fragen in der Entwicklungsarbeit&#13;
 Carina Haupt: Nachhaltige Softwareentwicklung (für weniger explodierende Raketen)&#13;
 Elenos Manifesti: Wir fordern! Das Bits&amp;Bäume-Manifest&#13;
 Isabella Hermann: Ökos im Weltraum? Nachhaltigkeit in Science Fiction&#13;
-Julia – aktivistische Mikrozellen der Stadt&#13;
+Julia – Raum für Wissen&#13;
 Lisa Passing: Ökostrom != Ökostrom. Down the green energy rabbit hole&#13;
 Viktor Schlüter: Datenschutz? Klimaschutz? Zukunft!&#13;
 &#13;
@@ -9384,7 +9384,6 @@ Florina Speth (Zukunftsforscherin, Multiinstrumentalistin, Cellistin, Komponisti
         </recording>
         <persons>
           <person id="9298">Simon Hegelich</person>
-          <person id="9519">Florina Speth</person>
         </persons>
         <links>
           <link href="https://soundcloud.com/florinaspeth">Soundcloud Florina</link>
@@ -9712,6 +9711,7 @@ Degrowth ist eine politische Bewegung von Wissenschaftler*innen und Aktivist*inn
         </recording>
         <persons>
           <person id="8992">Anja Höfner</person>
+          <person id="9067">Nicolas Guenot</person>
         </persons>
         <links/>
         <attachments/>
@@ -9784,16 +9784,14 @@ In thinking about this complex space, we formulated the notion of Human-Data Int
         <persons>
           <person id="8994">adz</person>
           <person id="9886">sophiiistika</person>
-          <person id="9483">Vincent Ahrend</person>
+          <person id="9483">cafca</person>
         </persons>
         <links>
           <link href="https://github.com/p2panda/design-document">p2panda - Design document</link>
           <link href="https://hoffnung3000.de/">HOFFNUNG 3000 - Experimental festival platform</link>
           <link href="https://liebechaos.org/">Liebe Chaos Verein e. V.</link>
         </links>
-        <attachments>
-          <attachment href="/attachments/original/missing.png">file</attachment>
-        </attachments>
+        <attachments/>
       </event>
       <event id="10890" guid="b600081b-88f8-41b2-b0d2-f790e3e7d6ea">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10890.html</url>

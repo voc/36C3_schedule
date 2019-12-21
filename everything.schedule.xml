@@ -1,5 +1,5 @@
 <schedule>
-  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Cerium; wiki 2019-12-21 12:10</version>
+  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 12:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -5848,7 +5848,7 @@ After identification of related messages, we dumped ECM and BCM micro-controller
         <url>https://c3lt.de/36c3/talk/USUJZB/</url>
         <title>Lightning Talks Introduction Day 2</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Entertainment</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>A short introduction to the Lightning Talks Day 2 session</abstract>
@@ -5874,7 +5874,7 @@ After identification of related messages, we dumped ECM and BCM micro-controller
         <url>https://c3lt.de/36c3/talk/U3WQCS/</url>
         <title>freewvs - a free web vulnerability scanner</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Security</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>freewvs is a little tool that allows to locally scan filesystems for known vulnerable web applications.</abstract>
@@ -5901,7 +5901,7 @@ https://freewvs.schokokeks.org/</description>
         <url>https://c3lt.de/36c3/talk/VVRMMA/</url>
         <title>Pocket Science Lab</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Science</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>PSLab is a small USB powered open hardware extension for your Android phone or PC that lets you measure all kinds of things.</abstract>
@@ -5927,7 +5927,7 @@ https://freewvs.schokokeks.org/</description>
         <url>https://c3lt.de/36c3/talk/KKUYRL/</url>
         <title>JMAP &amp; Ltt.rs</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Hardware &amp; Making</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>An introduction to the JSON Meta Application Protocol, a spiritual successor to IMAP &amp; Submission, and into Ltt.rs one of the first clients to use it.</abstract>
@@ -5954,7 +5954,7 @@ This talk will give a very brief introduction on why the protocol is needed, how
         <url>https://c3lt.de/36c3/talk/BGNPT3/</url>
         <title>Learning from Open Hardware: DevOps and Continuous Integration for the Production of Big Stuff</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Hardware &amp; Making</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>What is Missing to Prototype and Make Big Machines, Cars, Trucks, Spaceships Really Fast?</abstract>
@@ -5980,7 +5980,7 @@ This talk will give a very brief introduction on why the protocol is needed, how
         <url>https://c3lt.de/36c3/talk/93MFWV/</url>
         <title>PathAuditor: finding privilege escalation bugs with dynamic instrumentation</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Security</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>PathAuditor is a tool to detect file accesses in which an unprivileged user might have messed with the path. The impact can range from DoS to LPE.</abstract>
@@ -6006,7 +6006,7 @@ This talk will give a very brief introduction on why the protocol is needed, how
         <url>https://c3lt.de/36c3/talk/BXSJBE/</url>
         <title>Axolotl</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Security</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>**Axoltol** is a signal client written in go and  vuejs. This talk is about the history of the project, difficulties and future.</abstract>
@@ -6062,7 +6062,7 @@ https://cfp.chaoszone.cz/36c3/talk/VPJPZR/</description>
         <url>https://c3lt.de/36c3/talk/W3YJT7/</url>
         <title>sustain it</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Ethics, Society &amp; Politics</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>A profession based on exponentially growing resource consumption starts discovering it's responsibility for zero-growth.</abstract>
@@ -6088,7 +6088,7 @@ https://cfp.chaoszone.cz/36c3/talk/VPJPZR/</description>
         <url>https://c3lt.de/36c3/talk/VCYPUW/</url>
         <title>Free Pascal - An Open Source, Cross Platform, Object Pascal Compiler</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Hardware &amp; Making</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>This talk will provide a short overview of Free Pascal, an open source, cross platform, Object Pascal compiler.</abstract>
@@ -6104,6 +6104,32 @@ https://cfp.chaoszone.cz/36c3/talk/VPJPZR/</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="3193" guid="3dd2dd55-f927-55cd-b754-612d645fa57b">
+        <logo/>
+        <date>2019-12-28T12:20:00+01:00</date>
+        <start>12:20</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>ZFRRVX</slug>
+        <url>https://c3lt.de/36c3/talk/ZFRRVX/</url>
+        <title>Five Easy Things to fix Machine Learning</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>There are five simple rules to follow when researching in Machine Learning. They make your work easier to verify.</abstract>
+        <description>I have studied Computer Science and had to deal with many papers during my master's thesis. "Thanks" to poorly documented code and missing technical details I had a fair number of problems. As a consequence, I developed five easy to follow rules that improve the reproducability of any research significantly.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="183">2martens</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3175" guid="17270e1f-3379-5ef7-8cbc-5487d97efeda">
         <logo/>
         <date>2019-12-28T12:25:00+01:00</date>
@@ -6114,7 +6140,7 @@ https://cfp.chaoszone.cz/36c3/talk/VPJPZR/</description>
         <url>https://c3lt.de/36c3/talk/CRHAQR/</url>
         <title>Ungewöhnliche Taktiken für Online Campaigning</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Ethics, Society &amp; Politics</track>
         <type>Lightning Talk</type>
         <language>de</language>
         <abstract>**Gibt es Alternativen zur Petition? Kreative Wege für Online Campaigning.**</abstract>
@@ -6141,7 +6167,7 @@ Deswegen ist es für Aktivisten um so wichtiger mit verschiedenen Taktiken zu ar
         <url>https://c3lt.de/36c3/talk/KRDS97/</url>
         <title>TSDB mal anders</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Security</track>
         <type>Lightning Talk</type>
         <language>de</language>
         <abstract>Was kann man abseits von Monitoring mit Grafana und Time series databases machen?</abstract>
@@ -6167,7 +6193,7 @@ Deswegen ist es für Aktivisten um so wichtiger mit verschiedenen Taktiken zu ar
         <url>https://c3lt.de/36c3/talk/MN8DFG/</url>
         <title>15 minute break - 15 Minuten Pause</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Entertainment</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>15 minute break - 15 Minuten Pause</abstract>
@@ -6193,7 +6219,7 @@ Deswegen ist es für Aktivisten um so wichtiger mit verschiedenen Taktiken zu ar
         <url>https://c3lt.de/36c3/talk/CVH7UU/</url>
         <title>Accessibility for (adult) autistics at larger events</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Ethics, Society &amp; Politics</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Basic guide how to care for autistics at larger events</abstract>
@@ -6223,7 +6249,7 @@ Deswegen ist es für Aktivisten um so wichtiger mit verschiedenen Taktiken zu ar
         <url>https://c3lt.de/36c3/talk/F9979K/</url>
         <title>"There's javascript in my powerplug!" - How I found my first CVE</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Security</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>I will tell the story how I found my first CVE by exploiting a "smart" iot powerplug and disclose details &amp; POC for (unpublished) CVE-2019-18842.</abstract>
@@ -6249,7 +6275,7 @@ Deswegen ist es für Aktivisten um so wichtiger mit verschiedenen Taktiken zu ar
         <url>https://c3lt.de/36c3/talk/YRQHDE/</url>
         <title>Tesla Radar</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Security</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Tesla vehicles with 'Phone Key' transmit a unique ID.Tesla Radar tracks these IDs and creates a heat-map in order to raise awareness for the issue.</abstract>
@@ -6279,7 +6305,7 @@ https://www.teslaradar.com/</description>
         <url>https://c3lt.de/36c3/talk/UWMXYZ/</url>
         <title>Open Source Licenses: Where they come from</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Ethics, Society &amp; Politics</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Introduction to Open Source Initiative's license review process.</abstract>
@@ -6305,7 +6331,7 @@ https://www.teslaradar.com/</description>
         <url>https://c3lt.de/36c3/talk/8WSHJV/</url>
         <title>Soldering Workshops at the Hardware Hacking Area</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Hardware &amp; Making</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>I will give an overview of the workshops taught at the Hardware Hacking Area.</abstract>
@@ -6331,7 +6357,7 @@ https://www.teslaradar.com/</description>
         <url>https://c3lt.de/36c3/talk/NVYV77/</url>
         <title>Exciting developments around Linux on Phones</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Hardware &amp; Making</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>There have been countless attempts to dethrone Android. Many tried, many failed. But 2020 might be the year we finally see this change!</abstract>
@@ -6357,7 +6383,7 @@ https://www.teslaradar.com/</description>
         <url>https://c3lt.de/36c3/talk/VPWRHF/</url>
         <title>Hacking Ecology - Four projects where you can help!</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Ethics, Society &amp; Politics</track>
         <type>Lightning Talk</type>
         <language>de</language>
         <abstract>Four projects are presented where you can help nature and people.&#13;
@@ -6389,7 +6415,7 @@ Later we will meet at Wikipaka to do start right away with a small hackathon:&#1
         <url>https://c3lt.de/36c3/talk/PCX3PM/</url>
         <title>Make peace &amp; time with accounting</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Ethics, Society &amp; Politics</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Accounting is not very fun and is not taught at school, yet this talk will try to convince you that it is as important as brushing your teeth.</abstract>
@@ -6419,7 +6445,7 @@ This short talk will explain what doing accounting means, good reasons for doing
         <url>https://c3lt.de/36c3/talk/WQWRTE/</url>
         <title>Do-ocracy done well</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Ethics, Society &amp; Politics</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Lessons learned from five years of experimenting with do-ocracy. How to solve internal conflict and give power to the people who do stuff!</abstract>
@@ -12080,7 +12106,7 @@ Durchs Sporangium katapultieren wie immer julika &amp; Rainer</description>
         <url>https://c3lt.de/36c3/talk/3SDLF7/</url>
         <title>Lightning Talks Introduction Day 3</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Entertainment</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>A short introduction to the Lightning Talks Day 2 session</abstract>
@@ -12106,7 +12132,7 @@ Durchs Sporangium katapultieren wie immer julika &amp; Rainer</description>
         <url>https://c3lt.de/36c3/talk/RSZDHX/</url>
         <title>Where Trust Ends - Certificate Pinning for the Rest of Us!</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Security</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>A quick intro to certificate pinning, why it is useful and a new Firefox add-on to do this for any https enabled website.</abstract>
@@ -12132,7 +12158,7 @@ Durchs Sporangium katapultieren wie immer julika &amp; Rainer</description>
         <url>https://c3lt.de/36c3/talk/EYVQVY/</url>
         <title>distri: a Linux distribution to research fast package management</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Hardware &amp; Making</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Linux package managers are too slow!</abstract>
@@ -12160,7 +12186,7 @@ In this talk, I explain current design choices and how one can make different de
         <url>https://c3lt.de/36c3/talk/BWNUSE/</url>
         <title>Hacking Neural Networks</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Science</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>A quick look at one of many vulnerabilities deep learning can have and how you can learn more about exploiting and defending neural networks.</abstract>
@@ -12186,7 +12212,7 @@ In this talk, I explain current design choices and how one can make different de
         <url>https://c3lt.de/36c3/talk/NKBHM8/</url>
         <title>XSRF Side Channel</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Security</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Get requests to REST APIs are not protected against XSRF, this opens a side-channel to attackers able to read the network traffic.</abstract>
@@ -12212,7 +12238,7 @@ In this talk, I explain current design choices and how one can make different de
         <url>https://c3lt.de/36c3/talk/QGJBHV/</url>
         <title>Emissions API: Easy access to satellite-based emission data for everyone</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Hardware &amp; Making</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Emissions API’s mission is to provide easy access to satellite-based air pollution data without the need of being an expert in data analysis</abstract>
@@ -12240,7 +12266,7 @@ Emissions API’s mission is to provide easy access to this data without the nee
         <url>https://c3lt.de/36c3/talk/ESNZ7H/</url>
         <title>EXWM -- Emacs X11 Window Manager</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Hardware &amp; Making</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>This talk will be about my year using EXWM as my window manager for every day tasks.</abstract>
@@ -12270,7 +12296,7 @@ I will talk a bit about the good parts, bad parts and the future.</description>
         <url>https://c3lt.de/36c3/talk/G3FTEY/</url>
         <title>Uninstall $product now !</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Security</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Another day, another highly critical CVE on a popular project.&#13;
@@ -12328,7 +12354,7 @@ When lack of control of unrevokable CVE(s) on your project have long term unwant
         <url>https://c3lt.de/36c3/talk/SXXNNP/</url>
         <title>Warum wir ein Lieferkettengesetz brauchen</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Ethics, Society &amp; Politics</track>
         <type>Lightning Talk</type>
         <language>de</language>
         <abstract>Menschenrechte gelten für alle. Wir sollten Unternehmen dazu verpflichten, für ihre Einhaltung zu sorgen.</abstract>
@@ -12354,7 +12380,7 @@ When lack of control of unrevokable CVE(s) on your project have long term unwant
         <url>https://c3lt.de/36c3/talk/WBNFAZ/</url>
         <title>15 minute break - 15 Minuten Pause</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Entertainment</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>15 minute break - 15 Minuten Pause</abstract>
@@ -12380,7 +12406,7 @@ When lack of control of unrevokable CVE(s) on your project have long term unwant
         <url>https://c3lt.de/36c3/talk/JJA3MC/</url>
         <title>Pix2Vex: Unsupervised 3D-Reconstruction</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Art &amp; Culture</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Performing texture-agnostic Image-to-Geometry Reconstruction without 3D Supervision.</abstract>
@@ -12406,7 +12432,7 @@ When lack of control of unrevokable CVE(s) on your project have long term unwant
         <url>https://c3lt.de/36c3/talk/D87EQJ/</url>
         <title>Balkan Computer Congress - BalCCon2k20</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Security</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Balkan Computer Congress is an annual three days gathering of the international hacker community in the organization of LUGoNS</abstract>
@@ -12433,7 +12459,7 @@ BalCCon is community organized and non commercial event - from Hackers to Hacker
         <url>https://c3lt.de/36c3/talk/AL8SP7/</url>
         <title>A concise introduction to double-entry accounting</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Ethics, Society &amp; Politics</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Convinced that accounting is rewarding, this talk will explain the centuries old method of double entry accounting in wide use today.</abstract>
@@ -17319,7 +17345,7 @@ Der Technologiepfad der Elektromobilität gilt als eingeschlagen, der Erfolg ihr
         <url>https://c3lt.de/36c3/talk/MY9A93/</url>
         <title>Lightning Talks Introduction Day 4</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Entertainment</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>A short introduction to the Lightning Talks Day 4 session</abstract>
@@ -17345,7 +17371,7 @@ Der Technologiepfad der Elektromobilität gilt als eingeschlagen, der Erfolg ihr
         <url>https://c3lt.de/36c3/talk/PYVARR/</url>
         <title>10 minute break - 10 Minuten Pause</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Entertainment</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>10 minute break - 10 Minuten Pause</abstract>
@@ -17371,7 +17397,7 @@ Der Technologiepfad der Elektromobilität gilt als eingeschlagen, der Erfolg ihr
         <url>https://c3lt.de/36c3/talk/CUC3CT/</url>
         <title>Natural Language Processing Is Harder Than You Think: Challenges and Consequences</title>
         <subtitle/>
-        <track>#36C3 Lightning Talks</track>
+        <track>Science</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>Despite many amazing (technical) results, NLP is facing both linguistic and ethical challenges. Given the rise of NLP, we are facing the consequences.</abstract>

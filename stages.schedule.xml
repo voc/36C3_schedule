@@ -1,5 +1,5 @@
 <schedule>
-  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Lanthanum</version>
+  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Cerium</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -4543,6 +4543,140 @@ This talk will give a very brief introduction on why the protocol is needed, how
         <attachments/>
         <answers/>
       </event>
+      <event id="3170" guid="d08d8968-7fc3-5d5b-8b61-c768959bf49d">
+        <logo/>
+        <date>2019-12-28T11:55:00+01:00</date>
+        <start>11:55</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>93MFWV</slug>
+        <url>https://c3lt.de/36c3/talk/93MFWV/</url>
+        <title>PathAuditor: finding privilege escalation bugs with dynamic instrumentation</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>PathAuditor is a tool to detect file accesses in which an unprivileged user might have messed with the path. The impact can range from DoS to LPE.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="165">tsuro</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3189" guid="7fb8ba70-18c7-568a-86b1-c2a80024643a">
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>BXSJBE</slug>
+        <url>https://c3lt.de/36c3/talk/BXSJBE/</url>
+        <title>Axolotl</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>**Axoltol** is a signal client written in go and  vuejs. This talk is about the history of the project, difficulties and future.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="178">nanu-c</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3191" guid="cecbd67c-44c3-5eb0-99e7-f79e843b03d6">
+        <logo/>
+        <date>2019-12-28T12:05:00+01:00</date>
+        <start>12:05</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>L8CLUH</slug>
+        <url>https://c3lt.de/36c3/talk/L8CLUH/</url>
+        <title>Congress Design on an Oscilloscope</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>How to connect JavaScript with an analoge oscilloscope</abstract>
+        <description>Bleeptracks Design Generator for this congress is very cool, so I wanted to have it on all my screens. Including an analoge oscilloscope.&#13;
+&#13;
+I will give a short overview how it works.&#13;
+For a deeper introduction, more information and live demos come to my german talk at the chaoszone stage at day2 19:45. It is a non recording stage, so don't miss it.&#13;
+https://cfp.chaoszone.cz/36c3/talk/VPJPZR/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="140">quanten</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3171" guid="dc3df44a-6ea5-55c8-af93-c6bd2a3c4fc2">
+        <logo/>
+        <date>2019-12-28T12:10:00+01:00</date>
+        <start>12:10</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>W3YJT7</slug>
+        <url>https://c3lt.de/36c3/talk/W3YJT7/</url>
+        <title>sustain it</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>A profession based on exponentially growing resource consumption starts discovering it's responsibility for zero-growth.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="49">0x4c.de</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3180" guid="ac085440-bf49-51da-963d-6d473ee734d9">
+        <logo/>
+        <date>2019-12-28T12:15:00+01:00</date>
+        <start>12:15</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>VCYPUW</slug>
+        <url>https://c3lt.de/36c3/talk/VCYPUW/</url>
+        <title>Free Pascal - An Open Source, Cross Platform, Object Pascal Compiler</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>This talk will provide a short overview of Free Pascal, an open source, cross platform, Object Pascal compiler.</abstract>
+        <description>Free Pascal is a &gt; 25 year old Object Pascal compiler that is available as Open Source, supports a variety of platforms as well as many features that make it useable as an daily development tool.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="171">PascalDragon</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3175" guid="17270e1f-3379-5ef7-8cbc-5487d97efeda">
         <logo/>
         <date>2019-12-28T12:25:00+01:00</date>
@@ -4781,6 +4915,94 @@ https://www.teslaradar.com/</description>
         </recording>
         <persons>
           <person id="75">Jan Sprinz</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3183" guid="357b3e88-f851-59bf-b725-1cdcfdf7f2f7">
+        <logo/>
+        <date>2019-12-28T13:20:00+01:00</date>
+        <start>13:20</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>VPWRHF</slug>
+        <url>https://c3lt.de/36c3/talk/VPWRHF/</url>
+        <title>Hacking Ecology - Four projects where you can help!</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Four projects are presented where you can help nature and people.&#13;
+Later we meet at Wikipaka (2019-12-29, 19:00–22:00) for a small hackathon.</abstract>
+        <description>We will introduce four projects where you can help nature and people.&#13;
+Later we will meet at Wikipaka to do start right away with a small hackathon:&#13;
+1) Data visualization - A Webinterface for publicly available data.&#13;
+2) Wildretter (rescuing wildlife) - A navigation app.&#13;
+3) Buidling an open source rhizotron (root scanner) - 3D printing and micro controller&#13;
+4) Snooze against the machine - Snooze for future - A charity alarmclock app.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="174">Mario</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3182" guid="e5f611ab-7675-59c0-9521-70b8168edc5f">
+        <logo/>
+        <date>2019-12-28T13:25:00+01:00</date>
+        <start>13:25</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>PCX3PM</slug>
+        <url>https://c3lt.de/36c3/talk/PCX3PM/</url>
+        <title>Make peace &amp; time with accounting</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Accounting is not very fun and is not taught at school, yet this talk will try to convince you that it is as important as brushing your teeth.</abstract>
+        <description>A few years ago, I spent the time to learn and discipline myself to double-entry accounting to help me manage the complexity of my financial situation across the United States and Europe.&#13;
+&#13;
+Doing accounting is not very fun, yet after all those years, I fail to find any reason to not take it as seriously as brushing your teeth.&#13;
+&#13;
+This short talk will explain what doing accounting means, good reasons for doing it and a few bad reasons for not doing it.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="173">Louis Opter</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3186" guid="6924a8ba-dc22-507a-a2cc-57ad529ed1d5">
+        <logo/>
+        <date>2019-12-28T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>WQWRTE</slug>
+        <url>https://c3lt.de/36c3/talk/WQWRTE/</url>
+        <title>Do-ocracy done well</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Lessons learned from five years of experimenting with do-ocracy. How to solve internal conflict and give power to the people who do stuff!</abstract>
+        <description>Hackerspace.Gent presents [the hackerspace blueprint](https://hackerspace.design): a living document which explains how our community works. It is the result of five years of hacking do-ocracy to reduce interpersonal conflict and get the best out of people. It’s a system with minimal overhead and minimal control, designed to give power to the people who do stuff.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="175">Merlijn Sebrechts</person>
         </persons>
         <links/>
         <attachments/>
@@ -8828,6 +9050,200 @@ In this talk, I explain current design choices and how one can make different de
         <attachments/>
         <answers/>
       </event>
+      <event id="3181" guid="7215a7f1-64a3-501c-8442-48177bf3a780">
+        <logo/>
+        <date>2019-12-29T11:45:00+01:00</date>
+        <start>11:45</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>BWNUSE</slug>
+        <url>https://c3lt.de/36c3/talk/BWNUSE/</url>
+        <title>Hacking Neural Networks</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>A quick look at one of many vulnerabilities deep learning can have and how you can learn more about exploiting and defending neural networks.</abstract>
+        <description>Neural networks are all the rage, but how secure are they? In this talk, I will show you that there is nothing magical about neurons and how they are as susceptible to hacking as any other piece of software.  Together, we will explore one such vulnerability, which is part of the open source course "Hacking Neural Networks: A Short Introduction" that I made available on GitHub: https://github.com/Kayzaks/HackingNeuralNetworks</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="149">Michael Kissner</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3156" guid="88d03c0f-68b5-5a23-bbff-1dc243efa2fa">
+        <logo/>
+        <date>2019-12-29T11:50:00+01:00</date>
+        <start>11:50</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>NKBHM8</slug>
+        <url>https://c3lt.de/36c3/talk/NKBHM8/</url>
+        <title>XSRF Side Channel</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Get requests to REST APIs are not protected against XSRF, this opens a side-channel to attackers able to read the network traffic.</abstract>
+        <description>Get requests to REST APIs are not protected against XSRF, this opens a side-channel to attackers able to read the network traffic. How to deal with this?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="148">Eric</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3177" guid="31bcdf9b-47cc-5eb1-b9e4-22d9ac36250d">
+        <logo/>
+        <date>2019-12-29T11:55:00+01:00</date>
+        <start>11:55</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>QGJBHV</slug>
+        <url>https://c3lt.de/36c3/talk/QGJBHV/</url>
+        <title>Emissions API: Easy access to satellite-based emission data for everyone</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Emissions API’s mission is to provide easy access to satellite-based air pollution data without the need of being an expert in data analysis</abstract>
+        <description>The European Space Agency’s Sentinel-5P satellite is built to monitor air quality data (carbon hydroxide, sulfur monoxide, ozone, …). All data gathered are publicly available …if you know what to do with those data sets. But if not:&#13;
+&#13;
+Emissions API’s mission is to provide easy access to this data without the need of being an expert in satellite data analysis and without having to process terabytes of data yourself.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="170">Lars Kiesow</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3188" guid="b4f3d763-7151-53ba-a200-0a83a7c9faf5">
+        <logo/>
+        <date>2019-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>ESNZ7H</slug>
+        <url>https://c3lt.de/36c3/talk/ESNZ7H/</url>
+        <title>EXWM -- Emacs X11 Window Manager</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>This talk will be about my year using EXWM as my window manager for every day tasks.</abstract>
+        <description>For the past year (since 35c3) I've used EXWM as my only window manager on all of my graphical computer systems.&#13;
+&#13;
+I will tell you a bit of my experience from the past year on EXWM.&#13;
+&#13;
+I will talk a bit about the good parts, bad parts and the future.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="177">Elis Hirwing</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3185" guid="176b7daf-5b5b-5be4-8dc5-128e3184ac89">
+        <logo/>
+        <date>2019-12-29T12:05:00+01:00</date>
+        <start>12:05</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>G3FTEY</slug>
+        <url>https://c3lt.de/36c3/talk/G3FTEY/</url>
+        <title>Uninstall $product now !</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Another day, another highly critical CVE on a popular project.&#13;
+&#13;
+All good for everyone ? Well, except when it's **invalid**</abstract>
+        <description>Security researcher: failed. &lt;br&gt;&#13;
+Emergency Response Team: failed. &lt;br&gt;&#13;
+Medias: failed.&lt;br&gt;&#13;
+&#13;
+When lack of control of unrevokable CVE(s) on your project have long term unwanted effects...</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="76">François Cartegnie</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3190" guid="c7cef3ac-fe94-524a-a27a-53e34043a8a5">
+        <logo/>
+        <date>2019-12-29T12:10:00+01:00</date>
+        <start>12:10</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>VLSYPM</slug>
+        <url>https://c3lt.de/36c3/talk/VLSYPM/</url>
+        <title>doing quantum computing with schoolkids</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>I will explain what it takes to teach schoolkids how to programm a quantum annealer and to solve optimization problems with this cool machine.</abstract>
+        <description>My students Jakov (14), Paul (15) and Jonathan (16) won the first price at  Jugend forscht 2019 (Bayern), by solving the n-queens problem with a quantum annealer. As the teacher of the three boys I will explain what it took to teach the boys how to use a D-Wave quantum annealer, how much knowledge of quantum physics was necessary and what the pupils had to know about formulating a mathematical puzzle as a quadratic unconstrained binary optimization (QUBO) problem.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="180">René Grünbauer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3174" guid="a6911eea-3983-5314-8686-c9b4b244c91b">
+        <logo/>
+        <date>2019-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>SXXNNP</slug>
+        <url>https://c3lt.de/36c3/talk/SXXNNP/</url>
+        <title>Warum wir ein Lieferkettengesetz brauchen</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Menschenrechte gelten für alle. Wir sollten Unternehmen dazu verpflichten, für ihre Einhaltung zu sorgen.</abstract>
+        <description>Einen gesetzlichen Rahmen für Menschenrechte in Lieferketten: das fordert die NGO-Kampagne *Initiative Lieferkettengesetz*. Konzerne sollen haften, wenn sie Menschenrechtsverletzungen bei der Herstellung ihrer Produkte nicht verhindert haben, obwohl sie das gekonnt hätten. Ich stelle euch die Ziele der Initiative vor und erkläre, was das für Arbeiter\*innen und Unternehmen bedeutet.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="161">xian</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3154" guid="cda64c9e-b230-589a-ace0-6beca2693eff">
         <logo/>
         <date>2019-12-29T12:35:00+01:00</date>
@@ -8875,6 +9291,63 @@ In this talk, I explain current design choices and how one can make different de
         </recording>
         <persons>
           <person id="153">Felix Petersen</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3179" guid="d1a0c28f-eb47-5866-8b59-55ca9a1a158a">
+        <logo/>
+        <date>2019-12-29T12:55:00+01:00</date>
+        <start>12:55</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>D87EQJ</slug>
+        <url>https://c3lt.de/36c3/talk/D87EQJ/</url>
+        <title>Balkan Computer Congress - BalCCon2k20</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Balkan Computer Congress is an annual three days gathering of the international hacker community in the organization of LUGoNS</abstract>
+        <description>Our goal is to gather all the communities from the region and abroad so we can socialize, hack, play, learn, exchange knowledge and experience and of course, party together.&#13;
+BalCCon is community organized and non commercial event - from Hackers to Hackers. We are aiming to become the center of the hacker community in the region as well as to provide an opportunity for all the people in this part of Europe to connect and to cooperate.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Jelena_BalCCon</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3184" guid="d543050e-45f1-551f-a270-ec5ae9810ad1">
+        <logo/>
+        <date>2019-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>AL8SP7</slug>
+        <url>https://c3lt.de/36c3/talk/AL8SP7/</url>
+        <title>A concise introduction to double-entry accounting</title>
+        <subtitle/>
+        <track>#36C3 Lightning Talks</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Convinced that accounting is rewarding, this talk will explain the centuries old method of double entry accounting in wide use today.</abstract>
+        <description>On day 2, I tried to convince you that accounting can reduce anxiety about money and be a tool to achieve your projects.&#13;
+&#13;
+This short talk will focus on the practical aspects of double-entry accounting: the five different types of accounts, transactions and how their debits and credits (called splits) must sum to 0. After an example, the accounting equation will be introduced.&#13;
+&#13;
+Everything presented will be applicable to GnuCash a libre software for personal and small-business accounting.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="173">Louis Opter</person>
         </persons>
         <links/>
         <attachments/>

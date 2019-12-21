@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Lanthanum",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.3; sendezentrum 0.1; lightning Cerium",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -4814,6 +4814,166 @@
                 "answers": []
               },
               {
+                "id": 3170,
+                "guid": "d08d8968-7fc3-5d5b-8b61-c768959bf49d",
+                "logo": "",
+                "date": "2019-12-28T11:55:00+01:00",
+                "start": "11:55",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "93MFWV",
+                "url": "https://c3lt.de/36c3/talk/93MFWV/",
+                "title": "PathAuditor: finding privilege escalation bugs with dynamic instrumentation",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "PathAuditor is a tool to detect file accesses in which an unprivileged user might have messed with the path. The impact can range from DoS to LPE.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 165,
+                    "code": "DXWCWJ",
+                    "public_name": "tsuro",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3189,
+                "guid": "7fb8ba70-18c7-568a-86b1-c2a80024643a",
+                "logo": "",
+                "date": "2019-12-28T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "BXSJBE",
+                "url": "https://c3lt.de/36c3/talk/BXSJBE/",
+                "title": "Axolotl",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "**Axoltol** is a signal client written in go and  vuejs. This talk is about the history of the project, difficulties and future.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 178,
+                    "code": "PYEKR7",
+                    "public_name": "nanu-c",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3191,
+                "guid": "cecbd67c-44c3-5eb0-99e7-f79e843b03d6",
+                "logo": "",
+                "date": "2019-12-28T12:05:00+01:00",
+                "start": "12:05",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "L8CLUH",
+                "url": "https://c3lt.de/36c3/talk/L8CLUH/",
+                "title": "Congress Design on an Oscilloscope",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "How to connect JavaScript with an analoge oscilloscope",
+                "description": "Bleeptracks Design Generator for this congress is very cool, so I wanted to have it on all my screens. Including an analoge oscilloscope.\r\n\r\nI will give a short overview how it works.\r\nFor a deeper introduction, more information and live demos come to my german talk at the chaoszone stage at day2 19:45. It is a non recording stage, so don't miss it.\r\nhttps://cfp.chaoszone.cz/36c3/talk/VPJPZR/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 140,
+                    "code": "8JWPMY",
+                    "public_name": "quanten",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3171,
+                "guid": "dc3df44a-6ea5-55c8-af93-c6bd2a3c4fc2",
+                "logo": "",
+                "date": "2019-12-28T12:10:00+01:00",
+                "start": "12:10",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "W3YJT7",
+                "url": "https://c3lt.de/36c3/talk/W3YJT7/",
+                "title": "sustain it",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "A profession based on exponentially growing resource consumption starts discovering it's responsibility for zero-growth.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 49,
+                    "code": "Y3WWPQ",
+                    "public_name": "0x4c.de",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3180,
+                "guid": "ac085440-bf49-51da-963d-6d473ee734d9",
+                "logo": "",
+                "date": "2019-12-28T12:15:00+01:00",
+                "start": "12:15",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "VCYPUW",
+                "url": "https://c3lt.de/36c3/talk/VCYPUW/",
+                "title": "Free Pascal - An Open Source, Cross Platform, Object Pascal Compiler",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "This talk will provide a short overview of Free Pascal, an open source, cross platform, Object Pascal compiler.",
+                "description": "Free Pascal is a > 25 year old Object Pascal compiler that is available as Open Source, supports a variety of platforms as well as many features that make it useable as an daily development tool.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 171,
+                    "code": "WLNUGV",
+                    "public_name": "PascalDragon",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3175,
                 "guid": "17270e1f-3379-5ef7-8cbc-5487d97efeda",
                 "logo": "",
@@ -5093,6 +5253,102 @@
                     "id": 75,
                     "code": "FNJXNJ",
                     "public_name": "Jan Sprinz",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3183,
+                "guid": "357b3e88-f851-59bf-b725-1cdcfdf7f2f7",
+                "logo": "",
+                "date": "2019-12-28T13:20:00+01:00",
+                "start": "13:20",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "VPWRHF",
+                "url": "https://c3lt.de/36c3/talk/VPWRHF/",
+                "title": "Hacking Ecology - Four projects where you can help!",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "Four projects are presented where you can help nature and people.\r\nLater we meet at Wikipaka (2019-12-29, 19:00\u201322:00) for a small hackathon.",
+                "description": "We will introduce four projects where you can help nature and people.\r\nLater we will meet at Wikipaka to do start right away with a small hackathon:\r\n1) Data visualization - A Webinterface for publicly available data.\r\n2) Wildretter (rescuing wildlife) - A navigation app.\r\n3) Buidling an open source rhizotron (root scanner) - 3D printing and micro controller\r\n4) Snooze against the machine - Snooze for future - A charity alarmclock app.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 174,
+                    "code": "BG83X7",
+                    "public_name": "Mario",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3182,
+                "guid": "e5f611ab-7675-59c0-9521-70b8168edc5f",
+                "logo": "",
+                "date": "2019-12-28T13:25:00+01:00",
+                "start": "13:25",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "PCX3PM",
+                "url": "https://c3lt.de/36c3/talk/PCX3PM/",
+                "title": "Make peace & time with accounting",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Accounting is not very fun and is not taught at school, yet this talk will try to convince you that it is as important as brushing your teeth.",
+                "description": "A few years ago, I spent the time to learn and discipline myself to double-entry accounting to help me manage the complexity of my financial situation across the United States and Europe.\r\n\r\nDoing accounting is not very fun, yet after all those years, I fail to find any reason to not take it as seriously as brushing your teeth.\r\n\r\nThis short talk will explain what doing accounting means, good reasons for doing it and a few bad reasons for not doing it.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 173,
+                    "code": "ES9EES",
+                    "public_name": "Louis Opter",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3186,
+                "guid": "6924a8ba-dc22-507a-a2cc-57ad529ed1d5",
+                "logo": "",
+                "date": "2019-12-28T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "WQWRTE",
+                "url": "https://c3lt.de/36c3/talk/WQWRTE/",
+                "title": "Do-ocracy done well",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Lessons learned from five years of experimenting with do-ocracy. How to solve internal conflict and give power to the people who do stuff!",
+                "description": "Hackerspace.Gent presents [the hackerspace blueprint](https://hackerspace.design): a living document which explains how our community works. It is the result of five years of hacking do-ocracy to reduce interpersonal conflict and get the best out of people. It\u2019s a system with minimal overhead and minimal control, designed to give power to the people who do stuff.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 175,
+                    "code": "APUTUE",
+                    "public_name": "Merlijn Sebrechts",
                     "biography": null,
                     "answers": []
                   }
@@ -9369,6 +9625,230 @@
                 "answers": []
               },
               {
+                "id": 3181,
+                "guid": "7215a7f1-64a3-501c-8442-48177bf3a780",
+                "logo": "",
+                "date": "2019-12-29T11:45:00+01:00",
+                "start": "11:45",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "BWNUSE",
+                "url": "https://c3lt.de/36c3/talk/BWNUSE/",
+                "title": "Hacking Neural Networks",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "A quick look at one of many vulnerabilities deep learning can have and how you can learn more about exploiting and defending neural networks.",
+                "description": "Neural networks are all the rage, but how secure are they? In this talk, I will show you that there is nothing magical about neurons and how they are as susceptible to hacking as any other piece of software.  Together, we will explore one such vulnerability, which is part of the open source course \"Hacking Neural Networks: A Short Introduction\" that I made available on GitHub: https://github.com/Kayzaks/HackingNeuralNetworks",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 149,
+                    "code": "JRJMTF",
+                    "public_name": "Michael Kissner",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3156,
+                "guid": "88d03c0f-68b5-5a23-bbff-1dc243efa2fa",
+                "logo": "",
+                "date": "2019-12-29T11:50:00+01:00",
+                "start": "11:50",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "NKBHM8",
+                "url": "https://c3lt.de/36c3/talk/NKBHM8/",
+                "title": "XSRF Side Channel",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Get requests to REST APIs are not protected against XSRF, this opens a side-channel to attackers able to read the network traffic.",
+                "description": "Get requests to REST APIs are not protected against XSRF, this opens a side-channel to attackers able to read the network traffic. How to deal with this?",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 148,
+                    "code": "8JPNRR",
+                    "public_name": "Eric",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3177,
+                "guid": "31bcdf9b-47cc-5eb1-b9e4-22d9ac36250d",
+                "logo": "",
+                "date": "2019-12-29T11:55:00+01:00",
+                "start": "11:55",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "QGJBHV",
+                "url": "https://c3lt.de/36c3/talk/QGJBHV/",
+                "title": "Emissions API: Easy access to satellite-based emission data for everyone",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Emissions API\u2019s mission is to provide easy access to satellite-based air pollution data without the need of being an expert in data analysis",
+                "description": "The European Space Agency\u2019s Sentinel-5P satellite is built to monitor air quality data (carbon hydroxide, sulfur monoxide, ozone, \u2026). All data gathered are publicly available \u2026if you know what to do with those data sets. But if not:\r\n\r\nEmissions API\u2019s mission is to provide easy access to this data without the need of being an expert in satellite data analysis and without having to process terabytes of data yourself.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 170,
+                    "code": "R99MLH",
+                    "public_name": "Lars Kiesow",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3188,
+                "guid": "b4f3d763-7151-53ba-a200-0a83a7c9faf5",
+                "logo": "",
+                "date": "2019-12-29T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "ESNZ7H",
+                "url": "https://c3lt.de/36c3/talk/ESNZ7H/",
+                "title": "EXWM -- Emacs X11 Window Manager",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "This talk will be about my year using EXWM as my window manager for every day tasks.",
+                "description": "For the past year (since 35c3) I've used EXWM as my only window manager on all of my graphical computer systems.\r\n\r\nI will tell you a bit of my experience from the past year on EXWM.\r\n\r\nI will talk a bit about the good parts, bad parts and the future.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 177,
+                    "code": "YNL8M8",
+                    "public_name": "Elis Hirwing",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3185,
+                "guid": "176b7daf-5b5b-5be4-8dc5-128e3184ac89",
+                "logo": "",
+                "date": "2019-12-29T12:05:00+01:00",
+                "start": "12:05",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "G3FTEY",
+                "url": "https://c3lt.de/36c3/talk/G3FTEY/",
+                "title": "Uninstall $product now !",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Another day, another highly critical CVE on a popular project.\r\n\r\nAll good for everyone ? Well, except when it's **invalid**",
+                "description": "Security researcher: failed. <br>\r\nEmergency Response Team: failed. <br>\r\nMedias: failed.<br>\r\n\r\nWhen lack of control of unrevokable CVE(s) on your project have long term unwanted effects...",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 76,
+                    "code": "G9JDUV",
+                    "public_name": "Fran\u00e7ois Cartegnie",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3190,
+                "guid": "c7cef3ac-fe94-524a-a27a-53e34043a8a5",
+                "logo": "",
+                "date": "2019-12-29T12:10:00+01:00",
+                "start": "12:10",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "VLSYPM",
+                "url": "https://c3lt.de/36c3/talk/VLSYPM/",
+                "title": "doing quantum computing with schoolkids",
+                "subtitle": "",
+                "track": "Science",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "I will explain what it takes to teach schoolkids how to programm a quantum annealer and to solve optimization problems with this cool machine.",
+                "description": "My students Jakov (14), Paul (15) and Jonathan (16) won the first price at  Jugend forscht 2019 (Bayern), by solving the n-queens problem with a quantum annealer. As the teacher of the three boys I will explain what it took to teach the boys how to use a D-Wave quantum annealer, how much knowledge of quantum physics was necessary and what the pupils had to know about formulating a mathematical puzzle as a quadratic unconstrained binary optimization (QUBO) problem.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 180,
+                    "code": "LCP9YS",
+                    "public_name": "Ren\u00e9 Gr\u00fcnbauer",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3174,
+                "guid": "a6911eea-3983-5314-8686-c9b4b244c91b",
+                "logo": "",
+                "date": "2019-12-29T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "SXXNNP",
+                "url": "https://c3lt.de/36c3/talk/SXXNNP/",
+                "title": "Warum wir ein Lieferkettengesetz brauchen",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "Menschenrechte gelten f\u00fcr alle. Wir sollten Unternehmen dazu verpflichten, f\u00fcr ihre Einhaltung zu sorgen.",
+                "description": "Einen gesetzlichen Rahmen f\u00fcr Menschenrechte in Lieferketten: das fordert die NGO-Kampagne *Initiative Lieferkettengesetz*. Konzerne sollen haften, wenn sie Menschenrechtsverletzungen bei der Herstellung ihrer Produkte nicht verhindert haben, obwohl sie das gekonnt h\u00e4tten. Ich stelle euch die Ziele der Initiative vor und erkl\u00e4re, was das f\u00fcr Arbeiter\\*innen und Unternehmen bedeutet.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 161,
+                    "code": "NATDBS",
+                    "public_name": "xian",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3154,
                 "guid": "cda64c9e-b230-589a-ace0-6beca2693eff",
                 "logo": "",
@@ -9424,6 +9904,70 @@
                     "id": 153,
                     "code": "UHP9ZX",
                     "public_name": "Felix Petersen",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3179,
+                "guid": "d1a0c28f-eb47-5866-8b59-55ca9a1a158a",
+                "logo": "",
+                "date": "2019-12-29T12:55:00+01:00",
+                "start": "12:55",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "D87EQJ",
+                "url": "https://c3lt.de/36c3/talk/D87EQJ/",
+                "title": "Balkan Computer Congress - BalCCon2k20",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Balkan Computer Congress is an annual three days gathering of the international hacker community in the organization of LUGoNS",
+                "description": "Our goal is to gather all the communities from the region and abroad so we can socialize, hack, play, learn, exchange knowledge and experience and of course, party together.\r\nBalCCon is community organized and non commercial event - from Hackers to Hackers. We are aiming to become the center of the hacker community in the region as well as to provide an opportunity for all the people in this part of Europe to connect and to cooperate.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 6,
+                    "code": "ETYMHL",
+                    "public_name": "Jelena_BalCCon",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3184,
+                "guid": "d543050e-45f1-551f-a270-ec5ae9810ad1",
+                "logo": "",
+                "date": "2019-12-29T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "AL8SP7",
+                "url": "https://c3lt.de/36c3/talk/AL8SP7/",
+                "title": "A concise introduction to double-entry accounting",
+                "subtitle": "",
+                "track": "#36C3 Lightning Talks",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Convinced that accounting is rewarding, this talk will explain the centuries old method of double entry accounting in wide use today.",
+                "description": "On day 2, I tried to convince you that accounting can reduce anxiety about money and be a tool to achieve your projects.\r\n\r\nThis short talk will focus on the practical aspects of double-entry accounting: the five different types of accounts, transactions and how their debits and credits (called splits) must sum to 0. After an example, the accounting equation will be introduced.\r\n\r\nEverything presented will be applicable to GnuCash a libre software for personal and small-business accounting.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 173,
+                    "code": "ES9EES",
+                    "public_name": "Louis Opter",
                     "biography": null,
                     "answers": []
                   }

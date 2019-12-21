@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-21 23:10",
+    "version": "2019-12-21 23:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -3873,6 +3873,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:Nibble Area": [
+              {
+                "id": 1280,
+                "guid": "7eb05109-ba3f-4a8d-b573-00c0780c91d3",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Fancy_RGB-LED_Cube_Workshop_(Junghacker_Edition)",
+                "logo": null,
+                "date": "2019-12-28T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "3:00",
+                "room": "Assembly:Nibble Area",
+                "slug": "36c3-1280-session_fancy_rgb_led_cube_workshop_junghacker_edition_",
+                "title": "Fancy RGB-LED Cube Workshop (Junghacker Edition)",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "A very simple but fancy RGB LED Cube especially made for learning how to solder.\nThe Binary Kitchen soldering workshop goes CCCamp 2019. We are providing a soldering workshop for several and completely different soldering kits. At the CCCamp you can come and solder with us, an manual and 20 soldering irons.The RGB LED Cube is a simple LED cube consisting of 27 RGB LEDs in a 3x3x3 configuration. No programming or soldering skills needed.This is a special Workshop for Junghacker. If there is space left, feel free to join!Soldering skills are helpful but not needed. This course is also for absolute beginners. We don't have a sign up list, just come by and solder (but we just have 38 seats, first come first serve).[[File:rgb-led-cube.jpg|600px]]* More information about other Workshops: https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:nibble_area* More information about CubeDIP: https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/CubeDIP",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Marove",
+                    "public_name": "Marove"
+                  }
+                ],
+                "links": [
+                  "https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:nibble_area"
+                ]
               }
             ],
             "Assembly:WikipakaWG": [

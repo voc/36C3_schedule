@@ -1,5 +1,5 @@
 <schedule>
-  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.5; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 23:10</version>
+  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.5; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 23:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -11597,6 +11597,31 @@ tba</description>
           <person id="0">Andre</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Assembly:Nibble Area">
+      <event id="1280" guid="7eb05109-ba3f-4a8d-b573-00c0780c91d3">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fancy_RGB-LED_Cube_Workshop_(Junghacker_Edition)</url>
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>3:00</duration>
+        <room>Assembly:Nibble Area</room>
+        <slug>36c3-1280-session_fancy_rgb_led_cube_workshop_junghacker_edition_</slug>
+        <title>Fancy RGB-LED Cube Workshop (Junghacker Edition)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>A very simple but fancy RGB LED Cube especially made for learning how to solder.
+The Binary Kitchen soldering workshop goes CCCamp 2019. We are providing a soldering workshop for several and completely different soldering kits. At the CCCamp you can come and solder with us, an manual and 20 soldering irons.The RGB LED Cube is a simple LED cube consisting of 27 RGB LEDs in a 3x3x3 configuration. No programming or soldering skills needed.This is a special Workshop for Junghacker. If there is space left, feel free to join!Soldering skills are helpful but not needed. This course is also for absolute beginners. We don't have a sign up list, just come by and solder (but we just have 38 seats, first come first serve).[[File:rgb-led-cube.jpg|600px]]* More information about other Workshops: https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:nibble_area* More information about CubeDIP: https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/CubeDIP</description>
+        <persons>
+          <person id="0">Marove</person>
+        </persons>
+        <links>
+          <link>https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:nibble_area</link>
+        </links>
       </event>
     </room>
     <room name="Assembly:WikipakaWG">

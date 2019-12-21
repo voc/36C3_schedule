@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 21:10",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 21:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -2391,12 +2391,17 @@
                 "type": "talk",
                 "language": "en",
                 "abstract": "",
-                "description": "In this session, the Awarenessteam will answer the following questions and more: What is the CCC Awarenessteam and how can it help me? What does it do and what does it not currently do? There will be room for your questions and for discussion.\nThe first and future annual meeting for new and seasoned Hall Angel Coordinators. On Day 0, we will do the first introduction. if you are new or did Hall Angel Coordination last year, please come by!Hall Angel Coordinators are the invisible hands behind a hall, besides of the Stage Manager Role, that make sure that everything Hall related especially the people changes (aka Crowd Consulting) is working and everyone finds a seat. They assist and communicate between all of the Hall Angel Teams in the lecture halls, to guarantee a smooth and entertaining program.",
+                "description": "In this session, the Awarenessteam will answer the following questions and more: What is the CCC Awarenessteam and how can it help me? What does it do and what does it not currently do? There will be room for your questions and for discussion.\nNote: This in NOT an introductory angel meeting! This session is aimed at all Congress participants who want to learn about the Awarenessteam.Members of the CCC Awarenessteam will give an introduction to the team, what work it does, how it does this work, and how it interacts with other teams and the overall Congress organizational structure.We will also answer your questions and there will be room for discussion.",
                 "persons": [
                   {
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Theresa",
                     "public_name": "Theresa"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Rafiot",
+                    "public_name": "Rafiot"
                   }
                 ],
                 "links": [
@@ -19858,7 +19863,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "This workshop is for everyone who wants to get an idea and some first look at the programming language Julia, which is tailored primarily for data analysis or scientific computing\nIn this introductory workshop you are invited to get a first look at the programming language Julia. Julia is comparatively recent (version 1.0 got released August last year) and was originally designed from scratch to provide a high-level language, which is also fast. As a result applications include scientific simulations, data science, machine learning and generally high-performance computing. Writing Julia feels a lot like writing a scripting language, but since code is automatically (and painlessly) compiled down to machine code before execution, a performance comparable to low-level languages like C or FORTRAN can be achieved.We will use examples and a few exercises to discuss the main concepts of Julia. The main purpose is to get you curious and give you an overview. Care is taken to provide rich lists of links with further information to continue to explore Julia on your own (if you wish to do so ...).",
+                "description": "This workshop is for everyone who wants to get an idea and some first look at the programming language Julia, which was originally designed for data analysis or scientific computing\nIn this introductory workshop you are invited to get a first look at the programming language Julia. Julia is comparatively recent (version 1.0 got released August last year) and was originally designed from scratch to provide a high-level language, which is also fast. As a result applications include scientific simulations, data science, machine learning and generally high-performance computing. Writing Julia feels a lot like writing a scripting language, but since code is automatically (and painlessly) compiled down to machine code before execution, a performance comparable to low-level languages like C or FORTRAN can be achieved.We will use examples and a few exercises to discuss the main concepts of Julia. The main purpose is to get you curious and give you an overview. Care is taken to provide rich lists of links with further information to continue to explore Julia on your own (if you wish to do so ...).",
                 "persons": [
                   {
                     "id": 0,

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 13:21",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 14:21",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -6785,12 +6785,12 @@
                 "room": "Borg",
                 "slug": "CRHAQR",
                 "url": "https://c3lt.de/36c3/talk/CRHAQR/",
-                "title": "Ungew\u00f6hnliche Taktiken f\u00fcr Online Campaigning",
+                "title": "Uncoventional tactics for online campaigning",
                 "subtitle": "",
                 "track": "Ethics, Society & Politics",
                 "type": "Lightning Talk",
-                "language": "de",
-                "abstract": "**Gibt es Alternativen zur Petition? Kreative Wege f\u00fcr Online Campaigning.**",
+                "language": "en",
+                "abstract": "**Are there alternatives for petitions? A creative approach to online campaigning.**",
                 "description": "Wenn du richtig viel Gl\u00fcck hast reicht eine Petition aus um eine Kampagne zu gewinnen. Leider ist in den meisten F\u00e4llen jahrelange harte Arbeit gefragt, bevor politische Kampagnen Wirkung zeigen.\r\nDeswegen ist es f\u00fcr Aktivisten um so wichtiger mit verschiedenen Taktiken zu arbeiten um die Aufmerksamkeit des Targets oder Zielgruppe auf sich zu ziehen, den Druck zu erh\u00f6hen und die Unterst\u00fctzer zu binden. In diesem Talk geht es um ein paar spannende digitale Alternativen zur schn\u00f6den Petition.",
                 "recording_license": "",
                 "do_not_record": false,
@@ -11971,6 +11971,34 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              }
+            ],
+            "Assembly:Pseudoroom": [
+              {
+                "id": 1273,
+                "guid": "b06f2734-4fd2-4488-920f-8fe7c6de3857",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Bewegungspause",
+                "logo": null,
+                "date": "2019-12-28T15:15:00+01:00",
+                "start": "15:15",
+                "duration": "0:45",
+                "room": "Assembly:Pseudoroom",
+                "slug": "36c3-1273-session_42birds_bewegungspause",
+                "title": "42birds: Bewegungspause",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Hier trifft sich jung und alt f\u00fcr eine bewegte Pause\nDie Bewegungspausen:* Augen-Yoga* Wer anderen eine Grube gr\u00e4bt* Statistik I und II* Gruppendynamik* Mor\u00adgen\u00adr\u00f6\u00adte",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Birdy1976",
+                    "public_name": "Birdy1976"
+                  }
+                ],
+                "links": []
               }
             ],
             "Assembly:C3blind": [

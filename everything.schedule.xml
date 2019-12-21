@@ -1,5 +1,5 @@
 <schedule>
-  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 17:10</version>
+  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 17:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -1559,7 +1559,7 @@ Daily A/V Angel Meeting. More information can be obtained from our news in the a
         <language>cs</language>
         <abstract/>
         <description>Details about using and programming ChameleonMini from the makers
-TBD</description>
+In this workshop we will introduce you to RFID security and the ChameleonMini. We show you how to read and emulate cards. Moreover we outline some programming guide lines. Besides the theoretical introduction we will have enough space for practical tasks and questions.</description>
         <persons>
           <person id="0">Timo</person>
         </persons>
@@ -1865,7 +1865,7 @@ Mit Podlove und Auphonic wurden uns Produzierenden von Podcasts mächtige Werkze
         <type>workshop</type>
         <language>de</language>
         <abstract/>
-        <description>Calibre dient der Verarbeitung, Konvertierung und Verwaltung von E-Books.
+        <description>Calibre dient der Verarbeitung, Konvertierung und Verwaltung von E-Books
 Wir erstellen mit  Calibre [http://scguy318.freeshell.org/Daniel%20Galouye%20-%20Simulacron-3.pdf aus einem PDF] ein EPUB:1. Mit Calibre PDF importieren, dann „Bücher konvertieren“:* Zielformat DOCX wählen.2. DOCX öffnen und folgende Bearbeitungsschritte vornehmen:* Cover löschen.* Überschriften / Inhaltsverzeichnis etc. erstellen.* Doppelte Leerschläge ersetzen.3. Geändertes DOCX in Calibre via „Bücher konvertieren“:* Zuerst auf „Standard wiederherstellen“ klicken.* Dann Zielformat EPUB wählen.* Cover ergänzen (meist reicht eine [https://duckduckgo.com/?q=Simulacron-3&amp;t=canonical&amp;iax=images&amp;ia=images&amp;iaf=size%3Aimagesize-wallpaper Websuche]).* Layout &gt; Text &gt; Satzzeichen typografisieren.* Layout &gt; Layout &gt; Abstand zwischen Absätzen entfernen.* Heuristische Verarbeitung einschalten.4. EPUB z. B. mit „Verbinden/Teilen &gt; Inhaltsserver starten“ auf Reader laden.</description>
         <persons>
           <person id="0">Birdy1976</person>
@@ -14288,7 +14288,7 @@ find more Info at [[C3auti]]</description>
         <language>en</language>
         <abstract/>
         <description>Write a simple kernel driver, debug and trace it remotely with gdb.
-In this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. The Linux kernel allows you to debug kernel code running on a remote system with a different architecture, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. </description>
+In this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. KGDB, the kernel debugger, allows you to debug a kernel running on a different architecture, remotely, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. </description>
         <persons>
           <person id="0">Vtec</person>
         </persons>
@@ -14309,7 +14309,7 @@ In this hands-on workshop, you have a chance to learn some cool tricks working w
         <language>en</language>
         <abstract/>
         <description>Write a simple kernel driver, debug and trace it remotely with gdb.
-In this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. The Linux kernel allows you to debug kernel code running on a remote system with a different architecture, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. </description>
+In this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. KGDB, the kernel debugger, allows you to debug a kernel running on a different architecture, remotely, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. </description>
         <persons>
           <person id="0">Vtec</person>
         </persons>

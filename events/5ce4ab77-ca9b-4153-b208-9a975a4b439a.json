@@ -14,7 +14,7 @@
   "type": "hands-on",
   "language": "en",
   "abstract": "",
-  "description": "Write a simple kernel driver, debug and trace it remotely with gdb.\nIn this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. The Linux kernel allows you to debug kernel code running on a remote system with a different architecture, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. ",
+  "description": "Write a simple kernel driver, debug and trace it remotely with gdb.\nIn this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. KGDB, the kernel debugger, allows you to debug a kernel running on a different architecture, remotely, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. ",
   "persons": [
     {
       "id": 0,

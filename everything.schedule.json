@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 14:21",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.4; komona 0.4; sendezentrum 0.1; lightning Praseodymium; wiki 2019-12-21 14:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -5799,6 +5799,34 @@
                 "links": [
                   "https://erlangen.ccc.de."
                 ]
+              }
+            ],
+            "Assembly:HSBE": [
+              {
+                "id": 1274,
+                "guid": "338f0d2e-588a-452d-bfe4-a2344ede11e2",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Jenever_tasting_(Belgian_gins)",
+                "logo": null,
+                "date": "2019-12-27T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "2:00",
+                "room": "Assembly:HSBE",
+                "slug": "36c3-1274-session_jenever_tasting_belgian_gins_",
+                "title": "Jenever tasting (Belgian gins)",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "We'll taste over 10 different kinds of jenever.\nLimited spots, first come first served.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Qwaxys",
+                    "public_name": "Qwaxys"
+                  }
+                ],
+                "links": []
               }
             ],
             "CCL Terrace": [

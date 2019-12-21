@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-21 14:21</version>
+  <version>2019-12-21 14:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1426,6 +1426,29 @@ Since ex-Teppich, interest of having a Hacker- and Makerspace in Erlangen has sp
         <links>
           <link>https://erlangen.ccc.de.</link>
         </links>
+      </event>
+    </room>
+    <room name="Assembly:HSBE">
+      <event id="1274" guid="338f0d2e-588a-452d-bfe4-a2344ede11e2">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Jenever_tasting_(Belgian_gins)</url>
+        <logo/>
+        <date>2019-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:HSBE</room>
+        <slug>36c3-1274-session_jenever_tasting_belgian_gins_</slug>
+        <title>Jenever tasting (Belgian gins)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>We'll taste over 10 different kinds of jenever.
+Limited spots, first come first served.</description>
+        <persons>
+          <person id="0">Qwaxys</person>
+        </persons>
+        <links/>
       </event>
     </room>
     <room name="CCL Terrace">

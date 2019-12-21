@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-21 12:20",
+    "version": "2019-12-21 12:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -5572,6 +5572,34 @@
                 "links": [
                   "https://wiki.haecksen.org/index.php/Haecksen_library"
                 ]
+              },
+              {
+                "id": 1272,
+                "guid": "9ead05d0-2a38-44be-b99b-f1458a8f4afe",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Using_Arduino_to_control_sensors_and_servos",
+                "logo": null,
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "3:00",
+                "room": "Assembly:Haecksen",
+                "slug": "36c3-1272-session_using_arduino_to_control_sensors_and_servos",
+                "title": "Using Arduino to control sensors and servos",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Introduction into Arduino, Sensors and Servomotors. Hands on how to get things moving depending on the sensor output.\nGetting things move in interaction with the surrounding gives your robots or other creatures more 'personality'. Here is an example of an eye starting to blink if you approach and getting faster and faster if you are getting too close.  https://twitter.com/wellenleiter/status/994312455005368322The Make article describes a Robot always circulation in the direction somebody approaches and also blinking with the eyes...which is supposed to work as a propaganda bot at events. http://www.wellenleiter.net/bewegende-momente/ (it is freely availabel at the heise website)The Workshop will give a short introduction on programming with Arduino, the technology of different distance sensors and servos and how to get them controlled with an Arduino. Please bring your Arduino and Servo an US- or IR-Sensor (e.g. HC - SR04) if possible. I will bring a bunch of Ultrasonic Ranging Module HC - SR04 and some sparse Arduino. You should have a running Arduino Software (https://www.arduino.cc/en/Main/Software) and  Servo-Library  (https://www.arduino.cc/en/Guide/Libraries). * For FNIs only. *",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Fm",
+                    "public_name": "Fm"
+                  }
+                ],
+                "links": [
+                  "http://www.wellenleiter.net/bewegende-momente/"
+                ]
               }
             ]
           }
@@ -5679,7 +5707,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Coming soon ;-)\n",
+                "description": "L\u00f6sungshinweise in Multiple-Choice-Fragen exploiten\n# Wir exploiten unbeabsichtigte L\u00f6sungshinweise in Assessments.# Bei Interesse erstellen wir auf Moodle unsere eigenen Assessments.----* Erstelle Multiple-Choice-Fragen (MC) in deinem Kurs ([https://ilias.unibe.ch/goto_ilias3_unibe_cat_307859.html Veto] / [http://www.eassessment.uni-bremen.de/mc_leitfaden.php Tipps]).* Erweitere die Fragensammlung per Hand und / oder Import.** Verwende die Import-Formate [https://docs.moodle.org/en/Aiken_format Aiken] oder [https://docs.moodle.org/en/GIFT_format GIFT] (UTF-8).* Lege einen Test an, f\u00fcge MC hinzu und f\u00fchr ihn durch.** Tipp: Einfachere Fragen als Einstieg (Pr\u00fcfungsstress reduzieren).** Tipp: Browservollbild (F11) und [https://safeexambrowser.org/ Safe Exam Browser (SEB)].* Bewerte einen Freitext, erstelle eine Notenformel und gib Einsicht.** Tipp: Freitext-Antwort-Umfang vorgeben, Bewertungsraster erstellen.* Optimiere die MC-Fragen statistisch f\u00fcr die n\u00e4chste Durchf\u00fchrung.* Zum Abschluss zusammen die [https://die-agentur.ch/die-moodle-rallye/ Moodle-Rallye] absolvieren :-)",
                 "persons": [
                   {
                     "id": 0,
@@ -5687,7 +5715,9 @@
                     "public_name": "Birdy1976"
                   }
                 ],
-                "links": []
+                "links": [
+                  "https://moodle.org/"
+                ]
               }
             ],
             "Lecture room M1": [

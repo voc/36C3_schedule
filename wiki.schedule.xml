@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-21 12:20</version>
+  <version>2019-12-21 12:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -4575,6 +4575,29 @@ Wir reden über interessante Bücher und erweitern die Liste.Der Workshop ist of
           <link>https://wiki.haecksen.org/index.php/Haecksen_library</link>
         </links>
       </event>
+      <event id="1272" guid="9ead05d0-2a38-44be-b99b-f1458a8f4afe">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Using_Arduino_to_control_sensors_and_servos</url>
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>3:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1272-session_using_arduino_to_control_sensors_and_servos</slug>
+        <title>Using Arduino to control sensors and servos</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction into Arduino, Sensors and Servomotors. Hands on how to get things moving depending on the sensor output.
+Getting things move in interaction with the surrounding gives your robots or other creatures more 'personality'. Here is an example of an eye starting to blink if you approach and getting faster and faster if you are getting too close.  https://twitter.com/wellenleiter/status/994312455005368322The Make article describes a Robot always circulation in the direction somebody approaches and also blinking with the eyes...which is supposed to work as a propaganda bot at events. http://www.wellenleiter.net/bewegende-momente/ (it is freely availabel at the heise website)The Workshop will give a short introduction on programming with Arduino, the technology of different distance sensors and servos and how to get them controlled with an Arduino. Please bring your Arduino and Servo an US- or IR-Sensor (e.g. HC - SR04) if possible. I will bring a bunch of Ultrasonic Ranging Module HC - SR04 and some sparse Arduino. You should have a running Arduino Software (https://www.arduino.cc/en/Main/Software) and  Servo-Library  (https://www.arduino.cc/en/Guide/Libraries). * For FNIs only. *</description>
+        <persons>
+          <person id="0">Fm</person>
+        </persons>
+        <links>
+          <link>http://www.wellenleiter.net/bewegende-momente/</link>
+        </links>
+      </event>
     </room>
   </day>
   <day index="4" date="2019-12-30" start="2019-12-30T11:00:00+01:00" end="2019-12-30T19:00:00+01:00">
@@ -4662,12 +4685,14 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Coming soon ;-)
-</description>
+        <description>Lösungshinweise in Multiple-Choice-Fragen exploiten
+# Wir exploiten unbeabsichtigte Lösungshinweise in Assessments.# Bei Interesse erstellen wir auf Moodle unsere eigenen Assessments.----* Erstelle Multiple-Choice-Fragen (MC) in deinem Kurs ([https://ilias.unibe.ch/goto_ilias3_unibe_cat_307859.html Veto] / [http://www.eassessment.uni-bremen.de/mc_leitfaden.php Tipps]).* Erweitere die Fragensammlung per Hand und / oder Import.** Verwende die Import-Formate [https://docs.moodle.org/en/Aiken_format Aiken] oder [https://docs.moodle.org/en/GIFT_format GIFT] (UTF-8).* Lege einen Test an, füge MC hinzu und führ ihn durch.** Tipp: Einfachere Fragen als Einstieg (Prüfungsstress reduzieren).** Tipp: Browservollbild (F11) und [https://safeexambrowser.org/ Safe Exam Browser (SEB)].* Bewerte einen Freitext, erstelle eine Notenformel und gib Einsicht.** Tipp: Freitext-Antwort-Umfang vorgeben, Bewertungsraster erstellen.* Optimiere die MC-Fragen statistisch für die nächste Durchführung.* Zum Abschluss zusammen die [https://die-agentur.ch/die-moodle-rallye/ Moodle-Rallye] absolvieren :-)</description>
         <persons>
           <person id="0">Birdy1976</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://moodle.org/</link>
+        </links>
       </event>
     </room>
     <room name="Lecture room M1">

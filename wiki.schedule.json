@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-21 23:40",
+    "version": "2019-12-21 23:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -5247,6 +5247,36 @@
             "ChaosZone": [],
             "OIO Stage": [],
             "OIO Workshop": [],
+            "Assembly:Nibble Area": [
+              {
+                "id": 1281,
+                "guid": "6be562ab-b327-440f-9202-14740812780a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:ATX_Breakoutboard_Workshop_-_Solder_your_own_Power_Supply",
+                "logo": null,
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "3:00",
+                "room": "Assembly:Nibble Area",
+                "slug": "36c3-1281-session_atx_breakoutboard_workshop_solder_your_own_power_supply",
+                "title": "ATX Breakoutboard Workshop - Solder your own Power Supply",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Build your own 3.3-12V power supply (moderate soldering experience helpful)\nThe Binary Kitchen soldering workshop goes 36C3. We are providing a soldering workshop for several and completely different soldering kits. Come and solder with us, an manual and 38 soldering irons.The ATX-Breakoutboard is a handy breakout board to get all important voltages from an standard ATX power supply: 3.3 V to 12 V. You just attach a ATX power supply and it works!... Hopefully :)Moderate soldering experiences are helpful but not needed. We don't have a sign up list, just come by and solder (but we just have 38 seats, first come first serve).[[File:atx-breakout-board.jpg|600px]]* More information about other Workshops: https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:nibble_area* More information about the ATX breakout board: https://github.com/Binary-Kitchen/SolderingTutorial/tree/master/ATXBreakoutBoardSMD",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Marove",
+                    "public_name": "Marove"
+                  }
+                ],
+                "links": [
+                  "https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:nibble_area"
+                ]
+              }
+            ],
             "Assembly:Foodhackingbase": [
               {
                 "id": 1238,

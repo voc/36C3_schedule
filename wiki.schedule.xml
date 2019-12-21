@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-21 17:40</version>
+  <version>2019-12-21 17:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -2558,30 +2558,28 @@ Die Bewegungspausen:* Augen-Yoga* Wer anderen eine Grube gräbt* Statistik I und
         <links/>
       </event>
     </room>
-    <room name="Assembly:C3blind">
-      <event id="1187" guid="7b5b0248-73c6-4965-9392-54a862dcb6a1">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Alles_ganz_anders!</url>
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1276" guid="8776a2b5-2490-4b52-a3b3-9fecf60bd77d">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Air_Quality_Particulate_Matter_Sensor_Workshop</url>
         <logo/>
-        <date>2019-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:C3blind</room>
-        <slug>36c3-1187-session_alles_ganz_anders_</slug>
-        <title>Alles ganz anders!</title>
-        <subtitle>Smartphones blind nutzen!</subtitle>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1276-session_air_quality_particulate_matter_sensor_workshop</slug>
+        <title>Air Quality Particulate Matter Sensor Workshop</title>
+        <subtitle/>
         <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
+        <type>workshop</type>
+        <language>en</language>
         <abstract/>
-        <description>Wie kann man eigentlich sein Smartphone bedienen, wenn man nichts sehen kann? Wir gucken uns an, wie das geht!
-Hast du dich auch schonmal gefragt, wie es wäre, ein Smartphone zu nutzen, ohne etwas sehen zu können? Ist dein Display kaputt und du kannst es nicht direkt reparieren? Es gibt immer Möglichkeiten mit moderner Technik! Wir schauen uns an, was geht, wie es funktioniert und was man damit sonst noch so machen kann. Es ist kein Hexenwerk, kann aber oft sehr nützlich für dich sein!Hierbei handelt es sich um eine Kids-Session zum Junghackertag am 28.12.Um teilzunehmen benötigt ihr ein eigenes Smartphone mit Android oder iOS, bei dem ihr wichtige Systemeinstellungen ändern und Apps installieren dürft!Diese Session hat leider eine stark limitierte Teilnehmerzahl. Falls du dich dafür interessierst, teilzunehmen, ruf' mich bitte bis spätestens 13:00 Uhr unter 6964 an, schreibe uns eine E-Mail an c3blind@nwng.eu oder melde dich auf Twitter per PN bei @c3blind. Wir freuen uns auf dich!</description>
+        <description>Measure local pollution levels by building your own particle matter sensor system. This DIY setup allowed everyone to measure air quality. Join thousands around the world by contributing the data to citizen science projects with open data. The system uses off the shelf parts with no soldering (design by OK Lab Stuttgart as part of the https://luftdaten.info/  project).
+</description>
         <persons>
-          <person id="0">Nwng</person>
+          <person id="0">Tdr112</person>
         </persons>
         <links/>
       </event>
-    </room>
-    <room name="Assembly:Hardware Hacking Area">
       <event id="1170" guid="4468e228-53a6-44e6-bf98-05b173a58605">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Arduino_For_Total_Newbies</url>
         <logo/>
@@ -2778,6 +2776,29 @@ Takes about two hours. Basic workshop. No prior knowledge needed. Materials cost
 Takes about two hours. Basic workshop. No prior knowledge needed. Materials cost 20€ per kit.We are going to build an electronic kitten using tiny SMD parts. It will purr when you touch it right and hiss when you touch it wrong. It's going to work.For people afraid of surface mount assembly/rework. You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how!Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Avoid caffeine immediately before the workshop, because shaky hands are a disadvantage.The workshop kit costs 20€. Please SIGN UP ON THE PAPER LIST at the Hardware Hacking Area. PLEASE BE ON TIME!</description>
         <persons>
           <person id="0">Kliment</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Assembly:C3blind">
+      <event id="1187" guid="7b5b0248-73c6-4965-9392-54a862dcb6a1">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Alles_ganz_anders!</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:C3blind</room>
+        <slug>36c3-1187-session_alles_ganz_anders_</slug>
+        <title>Alles ganz anders!</title>
+        <subtitle>Smartphones blind nutzen!</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wie kann man eigentlich sein Smartphone bedienen, wenn man nichts sehen kann? Wir gucken uns an, wie das geht!
+Hast du dich auch schonmal gefragt, wie es wäre, ein Smartphone zu nutzen, ohne etwas sehen zu können? Ist dein Display kaputt und du kannst es nicht direkt reparieren? Es gibt immer Möglichkeiten mit moderner Technik! Wir schauen uns an, was geht, wie es funktioniert und was man damit sonst noch so machen kann. Es ist kein Hexenwerk, kann aber oft sehr nützlich für dich sein!Hierbei handelt es sich um eine Kids-Session zum Junghackertag am 28.12.Um teilzunehmen benötigt ihr ein eigenes Smartphone mit Android oder iOS, bei dem ihr wichtige Systemeinstellungen ändern und Apps installieren dürft!Diese Session hat leider eine stark limitierte Teilnehmerzahl. Falls du dich dafür interessierst, teilzunehmen, ruf' mich bitte bis spätestens 13:00 Uhr unter 6964 an, schreibe uns eine E-Mail an c3blind@nwng.eu oder melde dich auf Twitter per PN bei @c3blind. Wir freuen uns auf dich!</description>
+        <persons>
+          <person id="0">Nwng</person>
         </persons>
         <links/>
       </event>

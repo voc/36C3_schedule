@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-22 13:30</version>
+  <version>2019-12-22 13:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1452,6 +1452,54 @@ Limited spots, first come first served.</description>
         <links/>
       </event>
     </room>
+    <room name="Assembly:Haecksen">
+      <event id="1293" guid="52b63ac2-6c44-4f40-8fd9-b2e5f920572d">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Lightningtalks_bei_den_Haecksen</url>
+        <logo/>
+        <date>2019-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1293-session_lightningtalks_bei_den_haecksen</slug>
+        <title>Lightningtalks bei den Haecksen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>We present cool ideas and projects to each other
+Ähnlich wie bei den Lightningtalks auf den Hauptbühnen geht es darum, innerhalb von etwa 5min ein Thema, eine Idee oder ein Projekt zu präsentieren. Wir machen das in kleinerer, gemütlicherer Runde.Similar to the lightningtalks on the main stage this is an opportunity to present a topic of your choice in about 5min.</description>
+        <persons>
+          <person id="0">Zitro</person>
+        </persons>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
+      <event id="1291" guid="a9d2d464-7a7e-42d8-8dde-4cad0987f422">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga</url>
+        <logo/>
+        <date>2019-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>0:20</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1291-session_pseudo_yoga</slug>
+        <title>Pseudo-Yoga</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>fast wie echtes Yoga
+Jeden Morgen um 11:00, Fast wie echtes Yoga</description>
+        <persons>
+          <person id="0">Piko</person>
+        </persons>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:C-base / CCC-B / xHain">
       <event id="1285" guid="caf828c2-5e3f-4da8-bb90-acb217a39152">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
@@ -1474,31 +1522,6 @@ Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depend
         </persons>
         <links>
           <link>https://pentagame.org</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Haecksen">
-      <event id="1291" guid="a9d2d464-7a7e-42d8-8dde-4cad0987f422">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga</url>
-        <logo/>
-        <date>2019-12-27T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>0:20</duration>
-        <room>Assembly:Haecksen</room>
-        <slug>36c3-1291-session_pseudo_yoga</slug>
-        <title>Pseudo-Yoga</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>fast wie echtes Yoga
-Jeden Morgen um 11:00, Fast wie echtes Yoga</description>
-        <persons>
-          <person id="0">Piko</person>
-        </persons>
-        <links>
-          <link>http://haecksen.org</link>
         </links>
       </event>
     </room>
@@ -3526,8 +3549,8 @@ Dies ist ein internes Treffen der Haecksen. Wenn du noch keine bist und eine wer
         <type>discussion</type>
         <language>en</language>
         <abstract/>
-        <description>Hackers gathering to kickoff a social revolution project - Planet A.
-Coming soon</description>
+        <description>
+This year there has been lot of attention drawn to the topic of globalecological crisis. But still people are oblivious. This may be not thatobvious to members of opensource community. We care about freedom. Levels ofawareness of the societal, political and ecological problems are generallyhigher than those among the rest of population. Not only that! We are, hackershave skills to make systemic change in the world with attitude and principlesthat have been the reasons of opensource movement success. And yet we surroundour selves with like minded people and never beak out the bubble. It won't getany better if we will not unite and act upon.Let's step out the bubble. Let's bring awareness to unaware and tools topowerless. How many concerned people have will and yet feel alone and powerlessin the face of scale of the disaster?In this session we will have a short presentation followed by discussion. Wehave some ideas we want to share and want to hear yours too. Everyone is invitedto form the team.We will soon setup a before chat for communication during the congress.Links:Documentary about CCC. You should watch it if you haven't yet.https://allcreatureswelcome.netWhat can the hacker community do to make things better?https://media.ccc.de/v/32c3-7501-ten_years_after_we_lost_the_warExtinction rebelionhttps://rebellion.earth/https://www.youtube.com/watch?v=b2VkC4SnwY0https://tellthetruth.media/</description>
         <persons>
           <person id="0">Zap</person>
         </persons>

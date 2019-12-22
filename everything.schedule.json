@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2; lightning Praseodymium; wiki 2019-12-22 21:40",
+    "version": "dd; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2; lightning Praseodymium; wiki 2019-12-22 23:00",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -127,6 +127,42 @@
                   {
                     "id": 9215,
                     "public_name": "Samuel Gro\u00df"
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10595.html",
+                "id": 10595,
+                "guid": "c73debf0-e6be-4bde-84b5-afaddbe0e3fa",
+                "logo": "/system/events/logos/000/010/595/large/tresor.png?1571148674",
+                "date": "2019-12-27T16:10:00+01:00",
+                "start": "16:10",
+                "duration": "01:00",
+                "room": "Ada",
+                "slug": "36c3-10595-hacker_hin_oder_her_die_elektronische_patientenakte_kommt",
+                "title": "\"Hacker hin oder her\": Die elektronische Patientenakte kommt!",
+                "subtitle": "",
+                "track": "Security",
+                "type": "lecture",
+                "language": "de",
+                "abstract": "Herzst\u00fcck der digitalen Gesundheitsversorgung f\u00fcr 73 Millionen Versicherte ist die hochsichere, kritische Telematik-Infrastruktur mit bereits 115.000 angeschlossenen Arztpraxen. Nur berechtigte Teilnehmer haben \u00fcber dieses geschlossene Netz Zugang zu unseren medizinischen Daten. Ein \"H\u00f6chstma\u00df an Schutz\" also, wie es das Gesundheitsministerium behauptet? Bewaffnet mit 10.000 Seiten Spezifikation und einem Faxger\u00e4t lassen wir Illusionen platzen und stellen fest: Technik allein ist auch keine L\u00f6sung. Braucht es einen Neuanfang?",
+                "description": "Schon in 12 Monaten k\u00f6nnen 73 Millionen gesetzlich Versicherte ihre Gesundheitsdaten in einer elektronischen Patientenakte speichern lassen. Dazu werden zurzeit alle Arztpraxen, Krankenh\u00e4user und Apotheken Deutschlands \u00fcber die neu geschaffene kritische Telematik-Infrastruktur verbunden.\r\n\r\nDieses hochverf\u00fcgbare Netz gen\u00fcgt \"milit\u00e4rischen Sicherheitsstandards\", bietet ein \"europaweit einzigartiges Sicherheitsniveau\" und verspricht ein \"H\u00f6chstma\u00df an Schutz f\u00fcr die personenbezogenen medizinischen Daten\" wie Arztbriefe, Medikamentenpl\u00e4ne, Blutbilder und Chromosomenanalysen.\r\n\r\n\"Wir tun alles, damit Patientendaten sicher bleiben.\"\r\n\r\n\"Selbst dem Chaos Computer Club ist es nicht gelungen, sich in die Telematik-Infrastruktur einzuhacken.\"\r\n\r\n\"Nach den Lehren aus PC-Wahl, Lades\u00e4ulen und dem besonderen elektronischen Anwaltspostfach brauchen wir kein weiteres Exempel.\"",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 7912,
+                    "public_name": "Martin Tschirsich"
+                  },
+                  {
+                    "id": 9376,
+                    "public_name": "cbro"
+                  },
+                  {
+                    "id": 9406,
+                    "public_name": "Dr. Andr\u00e9 Zilch"
                   }
                 ],
                 "links": [],
@@ -944,7 +980,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "Manche Spiele will man gewinnen, andere will man einfach nur spielen. Bei vielen Spielen will man beides. Spielen macht Spa\u00df. Gewinnen auch. Warum also nicht immer und \u00fcberall spielen? Warum nicht Politik spielen wie einen Multiplayer-Shooter? Mit motivierten Kameraden und ahnungslosen Gegnern? Mit zerst\u00f6rbarer Umgebung, erfolgreichen Missionen und zu erobernden Flaggen? Teile der radikalen Rechten tun das mit Erfolg. Der Vortrag schaut sich einige Beispiele aus Deutschland und den USA n\u00e4her an.",
-                "description": "Wir sprechen von \u201cSpielifizierung\u201d, wenn typische Elemente von Spielmechaniken genutzt werden, um in spielfremden Kontexten motivationssteigernd zu wirken. W\u00e4hrend diese Strategie vor allem umfassend genutzt wird, um Kundenbindung und Mitarbeiterproduktivit\u00e4t zu erh\u00f6hen, ist sie auch zu einem zunehmend wichtigen Teil politischer Kultur geworden. Insbesondere Online-Communities verwenden Spielelemente, Memes/Lore und spielnahe Unterhaltungsformate, um ihre Beziehung zur Realit\u00e4t zu gestalten und zu strukturieren. \r\n\r\nInnerhalb solcher Beziehungen war es nur eine Frage der Zeit, bis archetypische NPCs wie der gew\u00f6hnliche Troll sich zu Lone-Wolf-Spielercharakteren entwickeln, Rudel bilden und sich in einem stetig wachsenden System von Gilden und meritokratischen Jagdverb\u00e4nden organisieren w\u00fcrden. Die Politisierung solcher neuer Stammesgesellschaften ist auch eine logische Konsequenz dieser Evolution.\r\n\r\nDer Vortrag beleuchtet einerseits den US-kulturellen Hintergrund des Feldes: von der Spielmetapher als legitimierenden Rahmen in der \u201cManosphere\u201d, \u201c#Gamergate\u201d und Operationen der chan-\u00fcbergreifenden /pol/-Community. Andererseits sucht er Strategien, die darauf abzielen, Teile des politischen Diskurses zu \u201cgamen\u201d, zu kapern und zu verst\u00e4rken, auch in deutscher Trollkultur auf, vom genrepr\u00e4genden \u201cDrachengame\u201d bis zu explizit politischen Initiativen wie \u201cReconquista Germanica\u201d... und dem live gestreamten Terror einer neuen faschistischen Subkultur.",
+                "description": "Wir sprechen von \u201cSpielifizierung\u201d, wenn typische Elemente von Spielmechaniken genutzt werden, um in spielfremden Kontexten motivationssteigernd zu wirken. W\u00e4hrend diese Strategie vor allem wirtschaftlich genutzt wird, um Kundenbindung und Mitarbeiterproduktivit\u00e4t zu erh\u00f6hen, ist sie auch zu einem zunehmend wichtigen Teil politischer Kultur geworden. Insbesondere Online-Communities verwenden Spielelemente, Memes/Lore und spielnahe Unterhaltungsformate, um ihre sozialen Beziehungen und jene zur Realit\u00e4t zu gestalten und zu strukturieren. \r\n\r\nInnerhalb solcher Beziehungen war es nur eine Frage der Zeit, bis archetypische NPCs wie der gew\u00f6hnliche Troll sich zu Lone-Wolf-Spielercharakteren entwickeln, Rudel bilden und sich in einem stetig wachsenden und ausdifferenzierenden System von Gilden und meritokratischen Jagdverb\u00e4nden organisieren w\u00fcrden. Die Politisierung solcher neuer Stammesgesellschaften ist eine logische Konsequenz dieser Evolution.\r\n\r\nDer Vortrag beleuchtet einerseits den US-kulturellen Hintergrund des Feldes: von der Spielmetapher als legitimierenden Rahmen in der \u201cManosphere\u201d, \u201c#Gamergate\u201d und Operationen der chan-\u00fcbergreifenden /pol/-Community. Andererseits sucht er Strategien, die darauf abzielen, Teile des politischen Diskurses zu \u201cgamen\u201d, zu kapern und zu verst\u00e4rken, auch in deutscher Trollkultur auf, vom genrepr\u00e4genden \u201cDrachengame\u201d bis zu explizit politischen Initiativen wie \u201cReconquista Germanica\u201d... und dem live gestreamten Terror einer neuen faschistischen Subkultur.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -7530,7 +7566,7 @@
                   },
                   {
                     "id": 9895,
-                    "public_name": "post@sinakamala.de"
+                    "public_name": "sina"
                   }
                 ],
                 "links": [
@@ -7596,7 +7632,7 @@
                 "abstract": "With the rapid development of mobile internet, apps become more and more complex. However, their most used functions are limited to a few pages.\r\n\r\nEnters instant app. It has many advantages over normal apps, such as click-to-play and concise design, and it's becoming more and more popular. There is some form of instant app framework in many popular apps, such as Google Play, TikTok, etc. In addition, many phone vendors have also embedded instant app frameworks in their pre-installed applications.\r\n\r\nHowever, there is barely any public research on attacking instant apps.",
                 "description": "In this talk, we will dive into a common architecture of instant app framework, and demonstrate attack models for it. Based on these attack models, we have reverse engineered top instant app frameworks. We will show how to bypass various kinds of sandboxing and restriction technologies to break isolations between instant apps.\r\n\r\nThese vulnerabilities could lead to sensitive information leakage, identity theft, account takeover and other severe consequences. During the study of Google Instant app, we also bypassed component access restrictions, which greatly expands attack surface.\r\n\r\nThese vulnerabilities and attack models affects more than 60% of Android devices and at least 1 billion users.\r\n\r\nFinally, we summarize the root causes of these vulnerabilities at the architectural level and point out the potential attack points. We will also propose practical mitigation measures for specific vulnerabilities. \r\n\r\nWe hope we could make users and developers aware of the potential security risks while enjoying the convenience of instant apps. We also hope to make security community aware of this emerging new attack surface.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 9557,
@@ -8248,9 +8284,9 @@
                 "start": "19:10",
                 "duration": "00:40",
                 "room": "Eliza",
-                "slug": "36c3-10855-the_sound_of_surveillance",
-                "title": "The Sound of Surveillance",
-                "subtitle": "Listening Back",
+                "slug": "36c3-10855-listening_back_-_the_sound_of_surveillance",
+                "title": "Listening Back - The Sound of Surveillance",
+                "subtitle": "",
                 "track": "Art & Culture",
                 "type": "lecture",
                 "language": "en",
@@ -8270,8 +8306,12 @@
                     "title": "Listening Back Chrome Browser Add-On"
                   },
                   {
+                    "url": "https://addons.mozilla.org/en-GB/firefox/addon/listening-back/",
+                    "title": "Listening Back Firefox Browser Add-On"
+                  },
+                  {
                     "url": "http://jasmineguffond.com/",
-                    "title": "My Website"
+                    "title": "jasmineguffond.com"
                   }
                 ],
                 "attachments": []
@@ -13935,7 +13975,7 @@
                 "subtitle": "An introduction without maths",
                 "track": "Security",
                 "type": "lecture",
-                "language": "de",
+                "language": "en",
                 "abstract": "This talk will explain the basic building blocks of cryptography in a manner that will (hopefully) be understandable by everyone. The talk will not require any understanding of maths or computer science.\r\nIn particular, the talk will explain encryption, what it is and what it does, what it is <em>not</em> and what it <em>doesn't</em> do, and what other tools cryptography can offer.",
                 "description": "This talk will explain the basic building blocks of cryptography in a manner that will (hopefully) be understandable by everyone, in particular by a non-technical audience. The talk will not require any understanding of maths or computer science.\r\nThis talk will cover the following topics:\r\n<ul>\r\n  <li>What is encryption and what does it do?</li>\r\n  <li>What are the different kinds of encryption?</li>\r\n  <li>What is authenticity? Are authenticity and encryption related?</li>\r\n  <li>How can authenticity be achieved?</li>\r\n  <li>What are certificates for?</li>\r\n  <li>What is TLS and what does it do?</li>\r\n</ul>\r\nWhile covering the above topcis, I will <em>not</em> explain the technical details of common cryptographic schemes (like RSA, AES, HMAC and so on), in order to avoid keep this talk accessible to a broad audience.",
                 "recording_license": "",
@@ -14078,7 +14118,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10571.html",
                 "id": 10571,
                 "guid": "f01cfe55-1ef7-4c9f-84be-276730cdbef8",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/571/large/streifen.png?1577045110",
                 "date": "2019-12-29T21:50:00+01:00",
                 "start": "21:50",
                 "duration": "00:40",
@@ -14787,8 +14827,8 @@
                 "track": "Ethics, Society & Politics",
                 "type": "lecture",
                 "language": "en",
-                "abstract": "In September 2019, Privacy International released exclusive research on the data-sharing practices of menstruation apps. Using traffic analysis, we shed lights on the shady practices of companies that shared your most intimate data with Facebook and other third parties. In this talk we will go over the findings of this research, sharing the tools we have used and explaining why this is not just a privacy problem, but also a cybersecurity one. This talk will also be a call to action to app developers whose tools have concrete impact on the lives of their users. ",
-                "description": "Does anyone \u2013 aside from the person you had sex with \u2013 know when you last had sex? Would you like them to know if your partner used a condom or not? Would you share the date of your last period with them? Does that person know how you feel on any particular day? Do they know about your medical history? Do they know when you masturbate? Chances are this person does not exist, as there is only so much we want to share, even with our most intimate partner. Yet this is all information that menstruation apps expect their users to fill. \r\n\r\nWith all this private information you would expect those apps to uphold the highest standards when it comes to handling the data they collect. So, Privacy International set out to look at the most commonly used menstruation apps to find out if that was the case. Using traffic analysis, we wanted to see if those apps were sharing data with third parties and Facebook in particular, through the Facebook SDK.\r\n\r\nOur research shed light on the horrific practices of some menstruation apps that shared their users\u2019 most intimate data \u2013 about their sexual life, their health and lifestyle \u2013 with Facebook and others. \r\n\r\nIn this talk, we will take you through the research we have conducted by using Privacy International\u2019s publicly available and free testing environment. We will briefly explain how the testing environment work and we will showcase the menstruation apps that have the most problematic practices to show you how very granular and intimate data is shared with third parties and security implications. \r\n",
+                "abstract": "In September 2019, Privacy International released exclusive research on the data-sharing practices of menstruation apps. Using traffic analysis, we shed lights on the shady practices of companies that shared your most intimate data with Facebook and other third parties.",
+                "description": "In this talk we will go over the findings of this research, sharing the tools we have used and explaining why this is not just a privacy problem, but also a cybersecurity one. This talk will also be a call to action to app developers whose tools have concrete impact on the lives of their users.\r\n\r\nDoes anyone \u2013 aside from the person you had sex with \u2013 know when you last had sex? Would you like them to know if your partner used a condom or not? Would you share the date of your last period with them? Does that person know how you feel on any particular day? Do they know about your medical history? Do they know when you masturbate? Chances are this person does not exist, as there is only so much we want to share, even with our most intimate partner. Yet this is all information that menstruation apps expect their users to fill. \r\n\r\nWith all this private information you would expect those apps to uphold the highest standards when it comes to handling the data they collect. So, Privacy International set out to look at the most commonly used menstruation apps to find out if that was the case. Using traffic analysis, we wanted to see if those apps were sharing data with third parties and Facebook in particular, through the Facebook SDK.\r\n\r\nOur research shed light on the horrific practices of some menstruation apps that shared their users\u2019 most intimate data \u2013 about their sexual life, their health and lifestyle \u2013 with Facebook and others.\r\n\r\nIn this talk, we will take you through the research we have conducted by using Privacy International\u2019s publicly available and free testing environment. We will briefly explain how the testing environment work and we will showcase the menstruation apps that have the most problematic practices to show you how very granular and intimate data is shared with third parties and security implications.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -20232,13 +20272,13 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10666.html",
                 "id": 10666,
                 "guid": "325622ae-8785-47f3-81f5-fe62db3209e7",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/666/large/BatRecLau-Cover-white.jpg?1577030760",
                 "date": "2019-12-30T15:10:00+01:00",
                 "start": "15:10",
                 "duration": "00:40",
                 "room": "Borg",
-                "slug": "36c3-10666-nach_der_braunkohle_li-io_batterierecycling",
-                "title": "Nach der Braunkohle: Li-Io Batterierecycling",
+                "slug": "36c3-10666-wandel_im_braunkohlerevier_lithium-ionen-batterierecycling",
+                "title": "Wandel im Braunkohlerevier: Lithium-Ionen-Batterierecycling",
                 "subtitle": "Eine industrielle Perspektive f\u00fcr die Lausitz?",
                 "track": "Science",
                 "type": "lecture",
@@ -20259,7 +20299,12 @@
                     "title": "2018/12 | Studie \"Batterie-Recycling als Besch\u00e4ftigungsperspektive f\u00fcr die Lausitz\""
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/035/original/Batt_Rec_Lau_Leipzig_123019.pptx?1577031864",
+                    "title": "Batt_Rec_Lau_PPP_Folien"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11235.html",

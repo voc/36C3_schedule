@@ -12,7 +12,7 @@
   "subtitle": "An introduction without maths",
   "track": "Security",
   "type": "lecture",
-  "language": "de",
+  "language": "en",
   "abstract": "This talk will explain the basic building blocks of cryptography in a manner that will (hopefully) be understandable by everyone. The talk will not require any understanding of maths or computer science.\r\nIn particular, the talk will explain encryption, what it is and what it does, what it is <em>not</em> and what it <em>doesn't</em> do, and what other tools cryptography can offer.",
   "description": "This talk will explain the basic building blocks of cryptography in a manner that will (hopefully) be understandable by everyone, in particular by a non-technical audience. The talk will not require any understanding of maths or computer science.\r\nThis talk will cover the following topics:\r\n<ul>\r\n  <li>What is encryption and what does it do?</li>\r\n  <li>What are the different kinds of encryption?</li>\r\n  <li>What is authenticity? Are authenticity and encryption related?</li>\r\n  <li>How can authenticity be achieved?</li>\r\n  <li>What are certificates for?</li>\r\n  <li>What is TLS and what does it do?</li>\r\n</ul>\r\nWhile covering the above topcis, I will <em>not</em> explain the technical details of common cryptographic schemes (like RSA, AES, HMAC and so on), in order to avoid keep this talk accessible to a broad audience.",
   "recording_license": "",

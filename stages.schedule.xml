@@ -1,5 +1,5 @@
 <schedule>
-  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2; lightning Praseodymium</version>
+  <version>dd; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2; lightning Praseodymium</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -116,6 +116,41 @@ First, an overview of the general iMessage software architecture will be given, 
         </recording>
         <persons>
           <person id="9215">Samuel Groß</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10595" guid="c73debf0-e6be-4bde-84b5-afaddbe0e3fa">
+        <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10595.html</url>
+        <logo>/system/events/logos/000/010/595/large/tresor.png?1571148674</logo>
+        <date>2019-12-27T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>01:00</duration>
+        <room>Ada</room>
+        <slug>36c3-10595-hacker_hin_oder_her_die_elektronische_patientenakte_kommt</slug>
+        <title>"Hacker hin oder her": Die elektronische Patientenakte kommt!</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Herzstück der digitalen Gesundheitsversorgung für 73 Millionen Versicherte ist die hochsichere, kritische Telematik-Infrastruktur mit bereits 115.000 angeschlossenen Arztpraxen. Nur berechtigte Teilnehmer haben über dieses geschlossene Netz Zugang zu unseren medizinischen Daten. Ein "Höchstmaß an Schutz" also, wie es das Gesundheitsministerium behauptet? Bewaffnet mit 10.000 Seiten Spezifikation und einem Faxgerät lassen wir Illusionen platzen und stellen fest: Technik allein ist auch keine Lösung. Braucht es einen Neuanfang?</abstract>
+        <description>Schon in 12 Monaten können 73 Millionen gesetzlich Versicherte ihre Gesundheitsdaten in einer elektronischen Patientenakte speichern lassen. Dazu werden zurzeit alle Arztpraxen, Krankenhäuser und Apotheken Deutschlands über die neu geschaffene kritische Telematik-Infrastruktur verbunden.&#13;
+&#13;
+Dieses hochverfügbare Netz genügt "militärischen Sicherheitsstandards", bietet ein "europaweit einzigartiges Sicherheitsniveau" und verspricht ein "Höchstmaß an Schutz für die personenbezogenen medizinischen Daten" wie Arztbriefe, Medikamentenpläne, Blutbilder und Chromosomenanalysen.&#13;
+&#13;
+"Wir tun alles, damit Patientendaten sicher bleiben."&#13;
+&#13;
+"Selbst dem Chaos Computer Club ist es nicht gelungen, sich in die Telematik-Infrastruktur einzuhacken."&#13;
+&#13;
+"Nach den Lehren aus PC-Wahl, Ladesäulen und dem besonderen elektronischen Anwaltspostfach brauchen wir kein weiteres Exempel."</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7912">Martin Tschirsich</person>
+          <person id="9376">cbro</person>
+          <person id="9406">Dr. André Zilch</person>
         </persons>
         <links/>
         <attachments/>
@@ -903,9 +938,9 @@ The reporting on the KGB Hack had a tremendously negative effect on the public i
         <type>lecture</type>
         <language>de</language>
         <abstract>Manche Spiele will man gewinnen, andere will man einfach nur spielen. Bei vielen Spielen will man beides. Spielen macht Spaß. Gewinnen auch. Warum also nicht immer und überall spielen? Warum nicht Politik spielen wie einen Multiplayer-Shooter? Mit motivierten Kameraden und ahnungslosen Gegnern? Mit zerstörbarer Umgebung, erfolgreichen Missionen und zu erobernden Flaggen? Teile der radikalen Rechten tun das mit Erfolg. Der Vortrag schaut sich einige Beispiele aus Deutschland und den USA näher an.</abstract>
-        <description>Wir sprechen von “Spielifizierung”, wenn typische Elemente von Spielmechaniken genutzt werden, um in spielfremden Kontexten motivationssteigernd zu wirken. Während diese Strategie vor allem umfassend genutzt wird, um Kundenbindung und Mitarbeiterproduktivität zu erhöhen, ist sie auch zu einem zunehmend wichtigen Teil politischer Kultur geworden. Insbesondere Online-Communities verwenden Spielelemente, Memes/Lore und spielnahe Unterhaltungsformate, um ihre Beziehung zur Realität zu gestalten und zu strukturieren. &#13;
+        <description>Wir sprechen von “Spielifizierung”, wenn typische Elemente von Spielmechaniken genutzt werden, um in spielfremden Kontexten motivationssteigernd zu wirken. Während diese Strategie vor allem wirtschaftlich genutzt wird, um Kundenbindung und Mitarbeiterproduktivität zu erhöhen, ist sie auch zu einem zunehmend wichtigen Teil politischer Kultur geworden. Insbesondere Online-Communities verwenden Spielelemente, Memes/Lore und spielnahe Unterhaltungsformate, um ihre sozialen Beziehungen und jene zur Realität zu gestalten und zu strukturieren. &#13;
 &#13;
-Innerhalb solcher Beziehungen war es nur eine Frage der Zeit, bis archetypische NPCs wie der gewöhnliche Troll sich zu Lone-Wolf-Spielercharakteren entwickeln, Rudel bilden und sich in einem stetig wachsenden System von Gilden und meritokratischen Jagdverbänden organisieren würden. Die Politisierung solcher neuer Stammesgesellschaften ist auch eine logische Konsequenz dieser Evolution.&#13;
+Innerhalb solcher Beziehungen war es nur eine Frage der Zeit, bis archetypische NPCs wie der gewöhnliche Troll sich zu Lone-Wolf-Spielercharakteren entwickeln, Rudel bilden und sich in einem stetig wachsenden und ausdifferenzierenden System von Gilden und meritokratischen Jagdverbänden organisieren würden. Die Politisierung solcher neuer Stammesgesellschaften ist eine logische Konsequenz dieser Evolution.&#13;
 &#13;
 Der Vortrag beleuchtet einerseits den US-kulturellen Hintergrund des Feldes: von der Spielmetapher als legitimierenden Rahmen in der “Manosphere”, “#Gamergate” und Operationen der chan-übergreifenden /pol/-Community. Andererseits sucht er Strategien, die darauf abzielen, Teile des politischen Diskurses zu “gamen”, zu kapern und zu verstärken, auch in deutscher Trollkultur auf, vom genreprägenden “Drachengame” bis zu explizit politischen Initiativen wie “Reconquista Germanica”... und dem live gestreamten Terror einer neuen faschistischen Subkultur.</description>
         <recording>
@@ -5245,7 +5280,7 @@ Es ist daher unumgänglich, den politischen Druck zu erhöhen, indem mehr Aktion
         <persons>
           <person id="9118">Maria</person>
           <person id="9888">Lu Yen Roloff</person>
-          <person id="9895">post@sinakamala.de</person>
+          <person id="9895">sina</person>
         </persons>
         <links>
           <link href="https://extinctionrebellion.de/">Extinction Rebellion Deutschland</link>
@@ -5311,7 +5346,7 @@ Finally, we summarize the root causes of these vulnerabilities at the architectu
 We hope we could make users and developers aware of the potential security risks while enjoying the convenience of instant apps. We also hope to make security community aware of this emerging new attack surface.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="9557">RonnyXing</person>
@@ -6106,9 +6141,9 @@ While the people in charge do not manage to organize a proper search- and rescue
         <start>19:10</start>
         <duration>00:40</duration>
         <room>Eliza</room>
-        <slug>36c3-10855-the_sound_of_surveillance</slug>
-        <title>The Sound of Surveillance</title>
-        <subtitle>Listening Back</subtitle>
+        <slug>36c3-10855-listening_back_-_the_sound_of_surveillance</slug>
+        <title>Listening Back - The Sound of Surveillance</title>
+        <subtitle/>
         <track>Art &amp; Culture</track>
         <type>lecture</type>
         <language>en</language>
@@ -6123,7 +6158,8 @@ While the people in charge do not manage to organize a proper search- and rescue
         </persons>
         <links>
           <link href="https://chrome.google.com/webstore/detail/listening-back/gdkmphlncmoloepkpifnhneogcliiiah">Listening Back Chrome Browser Add-On</link>
-          <link href="http://jasmineguffond.com/">My Website</link>
+          <link href="https://addons.mozilla.org/en-GB/firefox/addon/listening-back/">Listening Back Firefox Browser Add-On</link>
+          <link href="http://jasmineguffond.com/">jasmineguffond.com</link>
         </links>
         <attachments/>
       </event>
@@ -9147,7 +9183,7 @@ We need at least 8 Robots to participate, if we have more, we'll bring this to t
         <subtitle>An introduction without maths</subtitle>
         <track>Security</track>
         <type>lecture</type>
-        <language>de</language>
+        <language>en</language>
         <abstract>This talk will explain the basic building blocks of cryptography in a manner that will (hopefully) be understandable by everyone. The talk will not require any understanding of maths or computer science.&#13;
 In particular, the talk will explain encryption, what it is and what it does, what it is &lt;em&gt;not&lt;/em&gt; and what it &lt;em&gt;doesn't&lt;/em&gt; do, and what other tools cryptography can offer.</abstract>
         <description>This talk will explain the basic building blocks of cryptography in a manner that will (hopefully) be understandable by everyone, in particular by a non-technical audience. The talk will not require any understanding of maths or computer science.&#13;
@@ -9285,7 +9321,7 @@ Ursula von der Leyen ist jetzt EU-Kommissionspräsidentin und hat bereits in ihr
       </event>
       <event id="10571" guid="f01cfe55-1ef7-4c9f-84be-276730cdbef8">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10571.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/571/large/streifen.png?1577045110</logo>
         <date>2019-12-29T21:50:00+01:00</date>
         <start>21:50</start>
         <duration>00:40</duration>
@@ -9931,15 +9967,16 @@ We also present kRetrowrite, which uses the same approach to instrument binary k
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>In September 2019, Privacy International released exclusive research on the data-sharing practices of menstruation apps. Using traffic analysis, we shed lights on the shady practices of companies that shared your most intimate data with Facebook and other third parties. In this talk we will go over the findings of this research, sharing the tools we have used and explaining why this is not just a privacy problem, but also a cybersecurity one. This talk will also be a call to action to app developers whose tools have concrete impact on the lives of their users. </abstract>
-        <description>Does anyone – aside from the person you had sex with – know when you last had sex? Would you like them to know if your partner used a condom or not? Would you share the date of your last period with them? Does that person know how you feel on any particular day? Do they know about your medical history? Do they know when you masturbate? Chances are this person does not exist, as there is only so much we want to share, even with our most intimate partner. Yet this is all information that menstruation apps expect their users to fill. &#13;
+        <abstract>In September 2019, Privacy International released exclusive research on the data-sharing practices of menstruation apps. Using traffic analysis, we shed lights on the shady practices of companies that shared your most intimate data with Facebook and other third parties.</abstract>
+        <description>In this talk we will go over the findings of this research, sharing the tools we have used and explaining why this is not just a privacy problem, but also a cybersecurity one. This talk will also be a call to action to app developers whose tools have concrete impact on the lives of their users.&#13;
+&#13;
+Does anyone – aside from the person you had sex with – know when you last had sex? Would you like them to know if your partner used a condom or not? Would you share the date of your last period with them? Does that person know how you feel on any particular day? Do they know about your medical history? Do they know when you masturbate? Chances are this person does not exist, as there is only so much we want to share, even with our most intimate partner. Yet this is all information that menstruation apps expect their users to fill. &#13;
 &#13;
 With all this private information you would expect those apps to uphold the highest standards when it comes to handling the data they collect. So, Privacy International set out to look at the most commonly used menstruation apps to find out if that was the case. Using traffic analysis, we wanted to see if those apps were sharing data with third parties and Facebook in particular, through the Facebook SDK.&#13;
 &#13;
-Our research shed light on the horrific practices of some menstruation apps that shared their users’ most intimate data – about their sexual life, their health and lifestyle – with Facebook and others. &#13;
+Our research shed light on the horrific practices of some menstruation apps that shared their users’ most intimate data – about their sexual life, their health and lifestyle – with Facebook and others.&#13;
 &#13;
-In this talk, we will take you through the research we have conducted by using Privacy International’s publicly available and free testing environment. We will briefly explain how the testing environment work and we will showcase the menstruation apps that have the most problematic practices to show you how very granular and intimate data is shared with third parties and security implications. &#13;
-</description>
+In this talk, we will take you through the research we have conducted by using Privacy International’s publicly available and free testing environment. We will briefly explain how the testing environment work and we will showcase the menstruation apps that have the most problematic practices to show you how very granular and intimate data is shared with third parties and security implications.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -13151,13 +13188,13 @@ Daher bauen wir ein Open Source Bikesharingsystem: nicht profitorientiert und of
       </event>
       <event id="10666" guid="325622ae-8785-47f3-81f5-fe62db3209e7">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10666.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/666/large/BatRecLau-Cover-white.jpg?1577030760</logo>
         <date>2019-12-30T15:10:00+01:00</date>
         <start>15:10</start>
         <duration>00:40</duration>
         <room>Borg</room>
-        <slug>36c3-10666-nach_der_braunkohle_li-io_batterierecycling</slug>
-        <title>Nach der Braunkohle: Li-Io Batterierecycling</title>
+        <slug>36c3-10666-wandel_im_braunkohlerevier_lithium-ionen-batterierecycling</slug>
+        <title>Wandel im Braunkohlerevier: Lithium-Ionen-Batterierecycling</title>
         <subtitle>Eine industrielle Perspektive für die Lausitz?</subtitle>
         <track>Science</track>
         <type>lecture</type>
@@ -13200,7 +13237,9 @@ Der Technologiepfad der Elektromobilität gilt als eingeschlagen, der Erfolg ihr
         <links>
           <link href="https://www.otto-brenner-stiftung.de/stiftung-neue-laender-snl/projektergebnisse-der-snl/petitel/studie-batterie-recycling-als-beschaeftigungs-perspektive-fuer-die-lausitz/peaktion/show/pecon/Projectresults/">2018/12 | Studie "Batterie-Recycling als Beschäftigungsperspektive für die Lausitz"</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/035/original/Batt_Rec_Lau_Leipzig_123019.pptx?1577031864">Batt_Rec_Lau_PPP_Folien</attachment>
+        </attachments>
       </event>
       <event id="11235" guid="37638658-f5e8-4eb2-8248-b601d0c6b35b">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11235.html</url>

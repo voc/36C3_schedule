@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-22 13:50",
+    "version": "2019-12-22 14:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -3203,6 +3203,92 @@
             "ChaosZone": [],
             "OIO Stage": [],
             "OIO Workshop": [],
+            "Assembly:Haecksen": [
+              {
+                "id": 1294,
+                "guid": "563b6459-75cf-481f-bbbf-9fe36c93e2e5",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:30._Geburtstag",
+                "logo": null,
+                "date": "2019-12-28T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "3:00",
+                "room": "Assembly:Haecksen",
+                "slug": "36c3-1294-session_30_geburtstag",
+                "title": "30. Geburtstag",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "die Haecksen feiern ihren 30sten\nVor 30 Jahren wurden die Haecksen gegr\u00fcndet. Das wollen wir zusammen mit euch feiern!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zitro",
+                    "public_name": "Zitro"
+                  }
+                ],
+                "links": [
+                  "http://haecksen.org"
+                ]
+              },
+              {
+                "id": 1141,
+                "guid": "ad672dac-37b9-4598-8e93-9944e8e6a9b0",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksen_f%C3%BCr_NichtHaecksen",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Assembly:Haecksen",
+                "slug": "36c3-1141-session_haecksen_fuer_nichthaecksen",
+                "title": "Haecksen f\u00fcr NichtHaecksen",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "Die Haecksen f\u00fcr Nicht-Haecksen - eine Fragerunde\nIn dieser Runde k\u00f6nnen alle Fragen rund um die Haecksen gestellt werden - Sind die Haecksen wirklich der gr\u00f6\u00dfte Chaostreff vom CCC mit 300 Mitgliedern? (Spoiler: ja) - Was sind die Ziele der Haecksen? - Wie kann man die Haecksen oder generell Gleichberechtigung unterst\u00fctzen? - Warum k\u00f6nnen zB. M\u00e4nner keine Haecksen werden?  - Warum sind dann trotzdem so ziemlich jeder Workshop der Haecksen f\u00fcr alle Wesen besuchbar?Diese Runde ist explizit an Menschen gerichtet, die sich nicht im Begriff Frau wiederfinden k\u00f6nnen und damit keine unserer anderen Veranstaltungen besuchen k\u00f6nnen,in denen wir solche Fragen beantworten. Findest du dich im Begriff Frau wieder, schau bitte an Tag 2 beim Haecksenfr\u00fchst\u00fcck vorbei, danke.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Melzai",
+                    "public_name": "Melzai"
+                  }
+                ],
+                "links": [
+                  "http://haecksen.org"
+                ]
+              },
+              {
+                "id": 1295,
+                "guid": "2f0a66ac-d848-4b81-a4ed-903884cf6f7e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga",
+                "logo": null,
+                "date": "2019-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "0:20",
+                "room": "Assembly:Haecksen",
+                "slug": "36c3-1295-session_pseudo_yoga",
+                "title": "Pseudo-Yoga",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "fast wie echtes Yoga\nJeden Morgen um 11:00, Fast wie echtes Yoga",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Piko",
+                    "public_name": "Piko"
+                  }
+                ],
+                "links": [
+                  "http://haecksen.org"
+                ]
+              }
+            ],
             "Assembly:Pseudoroom": [
               {
                 "id": 1273,
@@ -3935,34 +4021,6 @@
                 "links": []
               }
             ],
-            "Tba": [
-              {
-                "id": 1263,
-                "guid": "6c5d9e12-9e6e-47b0-8935-8617159686e6",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:DeliberativeDemocracy",
-                "logo": null,
-                "date": "2019-12-28T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:30",
-                "room": "Tba",
-                "slug": "36c3-1263-session_deliberativedemocracy",
-                "title": "DeliberativeDemocracy",
-                "subtitle": "Andre",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "de",
-                "abstract": "",
-                "description": "About the idea of deliberative democracy, how it can be intantiated within our current political system, what has happend and will happen in the near future and how this could help us to takle the disruptions ahead beacuse of resource exhaustion.\ntba",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Andre",
-                    "public_name": "Andre"
-                  }
-                ],
-                "links": []
-              }
-            ],
             "Assembly:Nibble Area": [
               {
                 "id": 1280,
@@ -4053,64 +4111,6 @@
                 ],
                 "links": [
                   "https://nwng.eu/36c3-gg"
-                ]
-              }
-            ],
-            "Assembly:Haecksen": [
-              {
-                "id": 1141,
-                "guid": "ad672dac-37b9-4598-8e93-9944e8e6a9b0",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksen_f%C3%BCr_NichtHaecksen",
-                "logo": null,
-                "date": "2019-12-28T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:00",
-                "room": "Assembly:Haecksen",
-                "slug": "36c3-1141-session_haecksen_fuer_nichthaecksen",
-                "title": "Haecksen f\u00fcr NichtHaecksen",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "de",
-                "abstract": "",
-                "description": "Die Haecksen f\u00fcr Nicht-Haecksen - eine Fragerunde\nIn dieser Runde k\u00f6nnen alle Fragen rund um die Haecksen gestellt werden - Sind die Haecksen wirklich der gr\u00f6\u00dfte Chaostreff vom CCC mit 300 Mitgliedern? (Spoiler: ja) - Was sind die Ziele der Haecksen? - Wie kann man die Haecksen oder generell Gleichberechtigung unterst\u00fctzen? - Warum k\u00f6nnen zB. M\u00e4nner keine Haecksen werden?  - Warum sind dann trotzdem so ziemlich jeder Workshop der Haecksen f\u00fcr alle Wesen besuchbar?Diese Runde ist explizit an Menschen gerichtet, die sich nicht im Begriff Frau wiederfinden k\u00f6nnen und damit keine unserer anderen Veranstaltungen besuchen k\u00f6nnen,in denen wir solche Fragen beantworten. Findest du dich im Begriff Frau wieder, schau bitte an Tag 2 beim Haecksenfr\u00fchst\u00fcck vorbei, danke.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Melzai",
-                    "public_name": "Melzai"
-                  }
-                ],
-                "links": [
-                  "http://haecksen.org"
-                ]
-              },
-              {
-                "id": 1290,
-                "guid": "78323273-1639-5b81-b1a3-308c08dd7312",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga",
-                "logo": null,
-                "date": "2019-12-28T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "0:20",
-                "room": "Assembly:Haecksen",
-                "slug": "36c3-1290-session_pseudo_yoga",
-                "title": "Pseudo-Yoga",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "fast wie echtes Yoga\nJeden Morgen um 11:00, Fast wie echtes Yoga",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Piko",
-                    "public_name": "Piko"
-                  }
-                ],
-                "links": [
-                  "http://haecksen.org"
                 ]
               }
             ],
@@ -5895,6 +5895,32 @@
                 ]
               },
               {
+                "id": 1263,
+                "guid": "6c5d9e12-9e6e-47b0-8935-8617159686e6",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:DeliberativeDemocracy",
+                "logo": null,
+                "date": "2019-12-29T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1263-session_deliberativedemocracy",
+                "title": "DeliberativeDemocracy",
+                "subtitle": "Andre",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "About the idea of deliberative democracy, how it can be intantiated within our current political system, what has happend and will happen in the near future and how this could help us to takle the disruptions ahead beacuse of resource exhaustion.\ntba",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Andre",
+                    "public_name": "Andre"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1198,
                 "guid": "4aa7b5a5-2abd-4711-8029-67c9557a76f3",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
@@ -5951,15 +5977,15 @@
                 ]
               },
               {
-                "id": 1292,
-                "guid": "06ebce2b-13b9-5190-96b1-558f55a0f375",
+                "id": 1296,
+                "guid": "1f7b5a71-fa60-4611-8242-9bb5b0d9b623",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga",
                 "logo": null,
                 "date": "2019-12-29T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "0:20",
                 "room": "Assembly:Haecksen",
-                "slug": "36c3-1292-session_pseudo_yoga",
+                "slug": "36c3-1296-session_pseudo_yoga",
                 "title": "Pseudo-Yoga",
                 "subtitle": "",
                 "track": "self organized sessions",

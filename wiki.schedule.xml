@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-22 13:50</version>
+  <version>2019-12-22 14:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -2630,6 +2630,77 @@ Diese Workshop ist gedacht für Menschen die ganz frisch in dem ganzen Kosmos au
     <room name="ChaosZone"/>
     <room name="OIO Stage"/>
     <room name="OIO Workshop"/>
+    <room name="Assembly:Haecksen">
+      <event id="1294" guid="563b6459-75cf-481f-bbbf-9fe36c93e2e5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:30._Geburtstag</url>
+        <logo/>
+        <date>2019-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>3:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1294-session_30_geburtstag</slug>
+        <title>30. Geburtstag</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>die Haecksen feiern ihren 30sten
+Vor 30 Jahren wurden die Haecksen gegründet. Das wollen wir zusammen mit euch feiern!</description>
+        <persons>
+          <person id="0">Zitro</person>
+        </persons>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
+      <event id="1141" guid="ad672dac-37b9-4598-8e93-9944e8e6a9b0">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksen_f%C3%BCr_NichtHaecksen</url>
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1141-session_haecksen_fuer_nichthaecksen</slug>
+        <title>Haecksen für NichtHaecksen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Die Haecksen für Nicht-Haecksen - eine Fragerunde
+In dieser Runde können alle Fragen rund um die Haecksen gestellt werden - Sind die Haecksen wirklich der größte Chaostreff vom CCC mit 300 Mitgliedern? (Spoiler: ja) - Was sind die Ziele der Haecksen? - Wie kann man die Haecksen oder generell Gleichberechtigung unterstützen? - Warum können zB. Männer keine Haecksen werden?  - Warum sind dann trotzdem so ziemlich jeder Workshop der Haecksen für alle Wesen besuchbar?Diese Runde ist explizit an Menschen gerichtet, die sich nicht im Begriff Frau wiederfinden können und damit keine unserer anderen Veranstaltungen besuchen können,in denen wir solche Fragen beantworten. Findest du dich im Begriff Frau wieder, schau bitte an Tag 2 beim Haecksenfrühstück vorbei, danke.</description>
+        <persons>
+          <person id="0">Melzai</person>
+        </persons>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
+      <event id="1295" guid="2f0a66ac-d848-4b81-a4ed-903884cf6f7e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga</url>
+        <logo/>
+        <date>2019-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>0:20</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1295-session_pseudo_yoga</slug>
+        <title>Pseudo-Yoga</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>fast wie echtes Yoga
+Jeden Morgen um 11:00, Fast wie echtes Yoga</description>
+        <persons>
+          <person id="0">Piko</person>
+        </persons>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Pseudoroom">
       <event id="1273" guid="b06f2734-4fd2-4488-920f-8fe7c6de3857">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Bewegungspause</url>
@@ -3224,29 +3295,6 @@ We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, 
         <links/>
       </event>
     </room>
-    <room name="Tba">
-      <event id="1263" guid="6c5d9e12-9e6e-47b0-8935-8617159686e6">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:DeliberativeDemocracy</url>
-        <logo/>
-        <date>2019-12-28T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>1:30</duration>
-        <room>Tba</room>
-        <slug>36c3-1263-session_deliberativedemocracy</slug>
-        <title>DeliberativeDemocracy</title>
-        <subtitle>Andre</subtitle>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>de</language>
-        <abstract/>
-        <description>About the idea of deliberative democracy, how it can be intantiated within our current political system, what has happend and will happen in the near future and how this could help us to takle the disruptions ahead beacuse of resource exhaustion.
-tba</description>
-        <persons>
-          <person id="0">Andre</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
     <room name="Assembly:Nibble Area">
       <event id="1280" guid="7eb05109-ba3f-4a8d-b573-00c0780c91d3">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fancy_RGB-LED_Cube_Workshop_(Junghacker_Edition)</url>
@@ -3318,54 +3366,6 @@ Das schnelle Quiz für alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jah
         </persons>
         <links>
           <link>https://nwng.eu/36c3-gg</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Haecksen">
-      <event id="1141" guid="ad672dac-37b9-4598-8e93-9944e8e6a9b0">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksen_f%C3%BCr_NichtHaecksen</url>
-        <logo/>
-        <date>2019-12-28T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Haecksen</room>
-        <slug>36c3-1141-session_haecksen_fuer_nichthaecksen</slug>
-        <title>Haecksen für NichtHaecksen</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>de</language>
-        <abstract/>
-        <description>Die Haecksen für Nicht-Haecksen - eine Fragerunde
-In dieser Runde können alle Fragen rund um die Haecksen gestellt werden - Sind die Haecksen wirklich der größte Chaostreff vom CCC mit 300 Mitgliedern? (Spoiler: ja) - Was sind die Ziele der Haecksen? - Wie kann man die Haecksen oder generell Gleichberechtigung unterstützen? - Warum können zB. Männer keine Haecksen werden?  - Warum sind dann trotzdem so ziemlich jeder Workshop der Haecksen für alle Wesen besuchbar?Diese Runde ist explizit an Menschen gerichtet, die sich nicht im Begriff Frau wiederfinden können und damit keine unserer anderen Veranstaltungen besuchen können,in denen wir solche Fragen beantworten. Findest du dich im Begriff Frau wieder, schau bitte an Tag 2 beim Haecksenfrühstück vorbei, danke.</description>
-        <persons>
-          <person id="0">Melzai</person>
-        </persons>
-        <links>
-          <link>http://haecksen.org</link>
-        </links>
-      </event>
-      <event id="1290" guid="78323273-1639-5b81-b1a3-308c08dd7312">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga</url>
-        <logo/>
-        <date>2019-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>0:20</duration>
-        <room>Assembly:Haecksen</room>
-        <slug>36c3-1290-session_pseudo_yoga</slug>
-        <title>Pseudo-Yoga</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>fast wie echtes Yoga
-Jeden Morgen um 11:00, Fast wie echtes Yoga</description>
-        <persons>
-          <person id="0">Piko</person>
-        </persons>
-        <links>
-          <link>http://haecksen.org</link>
         </links>
       </event>
     </room>
@@ -4837,6 +4837,27 @@ Wir wollen einen Vorschlag für eine Checkliste für Schulen diskutieren. Die Ch
           <link>https://cyber4edu.org</link>
         </links>
       </event>
+      <event id="1263" guid="6c5d9e12-9e6e-47b0-8935-8617159686e6">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:DeliberativeDemocracy</url>
+        <logo/>
+        <date>2019-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1263-session_deliberativedemocracy</slug>
+        <title>DeliberativeDemocracy</title>
+        <subtitle>Andre</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>About the idea of deliberative democracy, how it can be intantiated within our current political system, what has happend and will happen in the near future and how this could help us to takle the disruptions ahead beacuse of resource exhaustion.
+tba</description>
+        <persons>
+          <person id="0">Andre</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1198" guid="4aa7b5a5-2abd-4711-8029-67c9557a76f3">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
         <logo/>
@@ -4883,14 +4904,14 @@ Wir reden über interessante Bücher und erweitern die Liste.Der Workshop ist of
           <link>https://wiki.haecksen.org/index.php/Haecksen_library</link>
         </links>
       </event>
-      <event id="1292" guid="06ebce2b-13b9-5190-96b1-558f55a0f375">
+      <event id="1296" guid="1f7b5a71-fa60-4611-8242-9bb5b0d9b623">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga</url>
         <logo/>
         <date>2019-12-29T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>0:20</duration>
         <room>Assembly:Haecksen</room>
-        <slug>36c3-1292-session_pseudo_yoga</slug>
+        <slug>36c3-1296-session_pseudo_yoga</slug>
         <title>Pseudo-Yoga</title>
         <subtitle/>
         <track>self organized sessions</track>

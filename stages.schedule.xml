@@ -1,5 +1,5 @@
 <schedule>
-  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 1.1; lightning Praseodymium</version>
+  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2; lightning Praseodymium</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -7264,34 +7264,6 @@ Hi, ich bin Becci (@genderbeitrag) und veranstalte mittlerweile traditionell auf
         <attachments/>
         <answers/>
       </event>
-      <event id="994" guid="eaf59e9c-e60e-5a80-bd3b-b99ee146282e">
-        <logo>/media/36c3/images/YNP9VN/gbni_logo.jpg</logo>
-        <date>2019-12-29T00:15:00+01:00</date>
-        <start>00:15</start>
-        <duration>01:00</duration>
-        <room>DLF- und Podcast-Bühne</room>
-        <slug>YNP9VN</slug>
-        <url>https://fahrplan.das-sendezentrum.de/36c3/talk/YNP9VN/</url>
-        <title>Gala Be Need Inn</title>
-        <subtitle/>
-        <track>DLF- und Podcast-Bühne</track>
-        <type>Normale Länge</type>
-        <language>de</language>
-        <abstract>Die Podcast Quizshow deren Name ein Anagram des Originals ist!</abstract>
-        <description>In dieser Show geht es um die Lösung hinter Fragen wie was ist ein Alarmstuhl, was ist Spritzgeld oder warum haben Züge aus Deutschland nach Frankreich Knallerbsen an Board! &#13;
-&#13;
-Für die ZuschauerInnen gibt es Spaß, für das Rate Team Alkohol.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="85">MacSnider</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
     </room>
     <room name="OIO workshop dome">
       <event id="347" guid="bf48fa55-92a1-5481-a14a-f77cc0d4fccb">
@@ -11600,6 +11572,34 @@ Machbarkeit im Making wird vornehmlich von physikalischen Gesetzen bestimmt. Doc
         </recording>
         <persons>
           <person id="130">Jürgen Kuri</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="994" guid="eaf59e9c-e60e-5a80-bd3b-b99ee146282e">
+        <logo>/media/36c3/images/YNP9VN/gbni_logo.jpg</logo>
+        <date>2019-12-29T19:15:00+01:00</date>
+        <start>19:15</start>
+        <duration>01:00</duration>
+        <room>DLF- und Podcast-Bühne</room>
+        <slug>YNP9VN</slug>
+        <url>https://fahrplan.das-sendezentrum.de/36c3/talk/YNP9VN/</url>
+        <title>Gala Be Need Inn</title>
+        <subtitle/>
+        <track>DLF- und Podcast-Bühne</track>
+        <type>Normale Länge</type>
+        <language>de</language>
+        <abstract>Die Podcast Quizshow deren Name ein Anagram des Originals ist!</abstract>
+        <description>In dieser Show geht es um die Lösung hinter Fragen wie was ist ein Alarmstuhl, was ist Spritzgeld oder warum haben Züge aus Deutschland nach Frankreich Knallerbsen an Board! &#13;
+&#13;
+Für die ZuschauerInnen gibt es Spaß, für das Rate Team Alkohol.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="85">MacSnider</person>
         </persons>
         <links/>
         <attachments/>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 1.1; lightning Praseodymium",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2; lightning Praseodymium",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -7630,38 +7630,6 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
-              },
-              {
-                "id": 994,
-                "guid": "eaf59e9c-e60e-5a80-bd3b-b99ee146282e",
-                "logo": "/media/36c3/images/YNP9VN/gbni_logo.jpg",
-                "date": "2019-12-29T00:15:00+01:00",
-                "start": "00:15",
-                "duration": "01:00",
-                "room": "DLF- und Podcast-B\u00fchne",
-                "slug": "YNP9VN",
-                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/YNP9VN/",
-                "title": "Gala Be Need Inn",
-                "subtitle": "",
-                "track": "DLF- und Podcast-B\u00fchne",
-                "type": "Normale L\u00e4nge",
-                "language": "de",
-                "abstract": "Die Podcast Quizshow deren Name ein Anagram des Originals ist!",
-                "description": "In dieser Show geht es um die L\u00f6sung hinter Fragen wie was ist ein Alarmstuhl, was ist Spritzgeld oder warum haben Z\u00fcge aus Deutschland nach Frankreich Knallerbsen an Board! \r\n\r\nF\u00fcr die ZuschauerInnen gibt es Spa\u00df, f\u00fcr das Rate Team Alkohol.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 85,
-                    "code": "3VCEJK",
-                    "public_name": "MacSnider",
-                    "biography": "Podcaster seit 2011, Ultraschall Ultra, K\u00f6nig vom Stimmenreich",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
               }
             ],
             "OIO workshop dome": [
@@ -12293,6 +12261,38 @@
                     "code": "MWBW9E",
                     "public_name": "J\u00fcrgen Kuri",
                     "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 994,
+                "guid": "eaf59e9c-e60e-5a80-bd3b-b99ee146282e",
+                "logo": "/media/36c3/images/YNP9VN/gbni_logo.jpg",
+                "date": "2019-12-29T19:15:00+01:00",
+                "start": "19:15",
+                "duration": "01:00",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "YNP9VN",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/YNP9VN/",
+                "title": "Gala Be Need Inn",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Die Podcast Quizshow deren Name ein Anagram des Originals ist!",
+                "description": "In dieser Show geht es um die L\u00f6sung hinter Fragen wie was ist ein Alarmstuhl, was ist Spritzgeld oder warum haben Z\u00fcge aus Deutschland nach Frankreich Knallerbsen an Board! \r\n\r\nF\u00fcr die ZuschauerInnen gibt es Spa\u00df, f\u00fcr das Rate Team Alkohol.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 85,
+                    "code": "3VCEJK",
+                    "public_name": "MacSnider",
+                    "biography": "Podcaster seit 2011, Ultraschall Ultra, K\u00f6nig vom Stimmenreich",
                     "answers": []
                   }
                 ],

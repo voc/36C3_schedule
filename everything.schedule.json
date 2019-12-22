@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2; lightning Praseodymium; wiki 2019-12-22 21:30",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2; lightning Praseodymium; wiki 2019-12-22 21:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -9079,6 +9079,11 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Vishnee",
                     "public_name": "Vishnee"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hirnsalat",
+                    "public_name": "Hirnsalat"
                   }
                 ],
                 "links": []
@@ -16701,7 +16706,7 @@
                 "type": "meeting",
                 "language": "de",
                 "abstract": "",
-                "description": "Introduction, discussion and networking about peace-orientated technology development and assessment in hacker- & makerspaces\n",
+                "description": "Introduction, discussion and networking about peace-orientated technology development and assessment in hacker- & makerspaces\n''(While this abstract is in English, this meet-up will be held either in English or German; depending on who wants to participate!)''This meet-up is intended as a networking opportunity for all species, who are interested in questions of peace-orientated technology development and assessment and how the future partizipation of citizien science (hackerspaces, makerspaces, fab labs, school labs,....) could look like.After a short introduction of our project, we want to discuss with you, share ideas and tie knots for the greater cause. There will be some snacks aswell ;)'''About Us'''<br>Ianus - Science.Peace.Technology. is a group of professors at Technical University Darmstadt. Since it's over 30 years of existence it conducted internationally recognized research in fields like nuclear disarmament and cyberpeace.Ianus Peacelab arises from this environment and wants to invoke questions of peace & conflict research, sustainability and responsible development in the citizien science community.",
                 "persons": [
                   {
                     "id": 0,
@@ -16709,7 +16714,9 @@
                     "public_name": "Sun"
                   }
                 ],
-                "links": []
+                "links": [
+                  "http://ianus-peacelab.de"
+                ]
               },
               {
                 "id": 1096,

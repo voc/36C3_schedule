@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.5; komona 0.5; sendezentrum 0.1; lightning Praseodymium",
+    "version": "cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 0.1; lightning Praseodymium",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -2514,7 +2514,7 @@
                 "type": "Solder Workshop 2h",
                 "language": "de",
                 "abstract": "L\u00f6ten f\u00fcr Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem L\u00f6tkolben nach Huhn?",
-                "description": "Wir wollen uns in den zwei Stunden die Grundlagen des L\u00f6tens erarbeiten. Also welcher L\u00f6tkolben oder L\u00f6tstation, welches Material, welches Zubeh\u00f6r ist notwendig und sinnvoll? \r\n\r\nWas tun wir? \r\n- Handhabung Pflege und des L\u00f6twerkzeugs\r\n- einfache L\u00f6t\u00fcbungen\r\n- L\u00f6ten auf Leiterplatten\r\n- L\u00f6ten mit Dr\u00e4hten und Bauteilen\r\n\r\nW\u00e4hrend des Workshops k\u00f6nnen auch selbst mitgebrachte Baus\u00e4tze zusammengel\u00f6tet werden.",
+                "description": "Wir wollen uns in den zwei Stunden die Grundlagen des L\u00f6tens erarbeiten. Also welcher L\u00f6tkolben oder L\u00f6tstation, welches Material, welches Zubeh\u00f6r ist notwendig und sinnvoll? \r\n\r\nWas tun wir? \r\n- Handhabung Pflege und des L\u00f6twerkzeugs\r\n- einfache L\u00f6t\u00fcbungen\r\n- L\u00f6ten auf Leiterplatten\r\n- L\u00f6ten mit Dr\u00e4hten und Bauteilen\r\n\r\nW\u00e4hrend des Workshops k\u00f6nnen auch selbst mitgebrachte Baus\u00e4tze zusammengel\u00f6tet werden.\r\n\r\nBei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -2685,6 +2685,38 @@
                     "code": "WR3T9D",
                     "public_name": "Volker Krause",
                     "biography": "Volker started contributing to KDE in 2002, primarily working on KDE PIM and Akonadi, the KDE Frameworks syntax highlighting engine, ELF Dissector, the telemetry and survey framework KUserFeedback and KDE Itinerary. Volker is also a Qt approver and the author of the Qt runtime introspection tool GammaRay.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 572,
+                "guid": "e26fdad4-0247-5128-a54b-a7fedea0d130",
+                "logo": "",
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:00",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "CKLM3A",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/CKLM3A/",
+                "title": "DSGVO & Pers\u00f6nlichkeitsrecht bei Fotos",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "DSGVO & Pers\u00f6nlichkeitsrecht bei Fotos mit Fokus auf Nutzung in freien Projekte wie Wikimedia Commons.",
+                "description": "* Pers\u00f6nlichkeitsrechte und ihre Bedeutung f\u00fcr Wikimedia-Projekte, inklusive Grundlagen des Allgemeinen Pers\u00f6nlichkeitsrechts (APR)\r\n* Was ist zu beachten bei Abbildungen von Personen des \u00f6ffentlichen Lebens und beim Fotografieren \u00f6ffentlicher und nicht-\u00f6ffentlicher Veranstaltungen? (inklusive Umgang mit Einschr\u00e4nkungen von Seiten Dritter wie Sportverb\u00e4nden, K\u00fcnstlermanagements usw.)\r\n* Zusammenspiel urheberrechtlicher Lizenzen und pers\u00f6nlichkeitsrechtlicher Regeln\r\n\r\nZeit f\u00fcr Fragen und Antworten ist eingeplant.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 8,
+                    "code": "8XHJNS",
+                    "public_name": "John",
+                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -7647,6 +7679,38 @@
                 "answers": []
               },
               {
+                "id": 589,
+                "guid": "16fa19a5-66a8-5104-9804-44ac491f4936",
+                "logo": "",
+                "date": "2019-12-28T14:10:00+01:00",
+                "start": "14:10",
+                "duration": "00:15",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "V378DD",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/V378DD/",
+                "title": "Measuring Code Contributions in Wikimedia's Technical Community",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "A lightning talk about technical contributions in Wikimedia projects that we can currently measure and the challenges that we face.",
+                "description": "Statistics can help to better understand communities and their needs. This lightning talk shows how Wikimedia uses the free and open source software \"GrimoireLab\" to get some data about its technical contributor base, and also covers some of the challenges that we face when it comes to measuring.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 26,
+                    "code": "DXJG8B",
+                    "public_name": "Andre Klapper",
+                    "biography": "Developer Advocate at Wikimedia",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 595,
                 "guid": "95c2bf57-087f-5fb0-9ce8-a3210a585f9c",
                 "logo": "",
@@ -7678,6 +7742,70 @@
                     "code": "9EVSLK",
                     "public_name": "Tom Hanika",
                     "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 571,
+                "guid": "d3bf066e-5bac-568c-ab7b-b5a282813cc7",
+                "logo": "",
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "01:00",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "3VX9J3",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/3VX9J3/",
+                "title": "Grundlagen Urheberrecht - Schwerpunkt CC-Lizenzen",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Grundlagenwissen zum Urheberrecht",
+                "description": "CC-Lizenzen und das Urheberrecht.\r\nKurze Einf\u00fchrung wie CC-Lizenzen im Urheberrecht verankert sind.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 8,
+                    "code": "8XHJNS",
+                    "public_name": "John",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 588,
+                "guid": "7668e889-63d6-5dbe-8a5b-e81d54731b10",
+                "logo": "",
+                "date": "2019-12-28T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:00",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "LKSJUL",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/LKSJUL/",
+                "title": "Software tools for wikis beyond MediaWiki and its extensions",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "A showcase of software implemented outside of the MediaWiki and MediaWiki extensions code repositories.",
+                "description": "Wikimedia's communities have diverse interests, use cases and technical needs. Volunteer developers experiment with new ideas, build solutions and bridge workflow gaps across our software stack.\r\n\r\nThis session is a showcase of a variety of impressive software solutions implemented outside of the MediaWiki and MediaWiki extensions code repositories.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 26,
+                    "code": "DXJG8B",
+                    "public_name": "Andre Klapper",
+                    "biography": "Developer Advocate at Wikimedia",
                     "answers": []
                   }
                 ],
@@ -7719,6 +7847,38 @@
               }
             ],
             "WikiPaka WG: Bibliothek": [
+              {
+                "id": 590,
+                "guid": "14299031-3b3a-5f01-a970-903ea39d96de",
+                "logo": "",
+                "date": "2019-12-28T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "01:30",
+                "room": "WikiPaka WG: Bibliothek",
+                "slug": "HXVTTM",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/HXVTTM/",
+                "title": "Demo-Aktionstraining",
+                "subtitle": "",
+                "track": "Resilience & Sustainability",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Eine theoretische und praktische Einf\u00fchrung f\u00fcr aktionsorientierte Demonstrationen.",
+                "description": "Bei Demonstrationen setzen sich Menschen f\u00fcr Werte und Ideale ein, f\u00fcr die sie einstehen und machen auf f\u00fcr sie wichtige Themen aufmerksam. Gerade im letzten Jahr durften wir in Deutschland und weltweit erleben, wie sich vermehrt junge Menschen vor allem f\u00fcr Umweltthemen bei Demonstrationen einsetzen.\r\n\r\nDabei bietet sich bei aktionsorientierten Demonstrationen eine Vielzahl an M\u00f6glichkeiten, wie sich durch Zivilcourage aktiv f\u00fcr ein Thema eingesetzt werden kann, jedoch auch ein erh\u00f6htes Konfliktpotential. F\u00fcr eine erfolgreiche Demonstration ist es gut, zu wissen, mit welchem Verhalten Konflikte und Gefahren vermieden und M\u00f6glichkeiten ausgesch\u00f6pft werden k\u00f6nnen.\r\n\r\nKonkret: Wir verbinden Theorie und Praxis. Im ersten Teil werden rechtliche Grundlagen, Verhalten auf Versammlungen und g\u00e4ngige Konzepte (Bezugsgruppen, Demorucksack, usw.) vorgestellt. Im zweiten Teil werden Mittel des Zivilen Ungehorsams geprobt und Techniken zur Vermeidung von Verletzungen erlernt. Zum Abschluss werden die erlebten Erfahrungen reflektiert und wir tauschen uns dar\u00fcber aus, um z. B. auch die Wirkung auf die Polizei besser zu verstehen und gezielt einsetzen zu k\u00f6nnen.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 86,
+                    "code": "8FHGUJ",
+                    "public_name": "jasle",
+                    "biography": "Ist Mentor bei Jugendhackt und hat schon bei vielen Demonstrationen die Technik f\u00fcr den Lauti gemacht.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
               {
                 "id": 558,
                 "guid": "434e8b74-c0c7-5cff-a5b9-4ea446b342f7",
@@ -12231,7 +12391,7 @@
                 "type": "Solder Workshop 2h",
                 "language": "de",
                 "abstract": "L\u00f6ten f\u00fcr Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem L\u00f6tkolben nach Huhn?",
-                "description": "Wir wollen uns in den zwei Stunden die Grundlagen des L\u00f6tens erarbeiten. Also welcher L\u00f6tkolben oder L\u00f6tstation, welches Material, welches Zubeh\u00f6r ist notwendig und sinnvoll? \r\n\r\nWas tun wir? \r\n- Handhabung Pflege und des L\u00f6twerkzeugs\r\n- einfache L\u00f6t\u00fcbungen\r\n- L\u00f6ten auf Leiterplatten\r\n- L\u00f6ten mit Dr\u00e4hten und Bauteilen\r\n\r\nW\u00e4hrend des Workshops k\u00f6nnen auch selbst mitgebrachte Baus\u00e4tze zusammengel\u00f6tet werden.",
+                "description": "Wir wollen uns in den zwei Stunden die Grundlagen des L\u00f6tens erarbeiten. Also welcher L\u00f6tkolben oder L\u00f6tstation, welches Material, welches Zubeh\u00f6r ist notwendig und sinnvoll? \r\n\r\nWas tun wir? \r\n- Handhabung Pflege und des L\u00f6twerkzeugs\r\n- einfache L\u00f6t\u00fcbungen\r\n- L\u00f6ten auf Leiterplatten\r\n- L\u00f6ten mit Dr\u00e4hten und Bauteilen\r\n\r\nW\u00e4hrend des Workshops k\u00f6nnen auch selbst mitgebrachte Baus\u00e4tze zusammengel\u00f6tet werden.\r\n\r\nBei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [

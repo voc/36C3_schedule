@@ -1,5 +1,5 @@
 <schedule>
-  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.4; chaoszone 0.5; komona 0.5; sendezentrum 0.1; lightning Praseodymium</version>
+  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 0.1; lightning Praseodymium</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -2489,7 +2489,9 @@ Was tun wir? &#13;
 - Löten auf Leiterplatten&#13;
 - Löten mit Drähten und Bauteilen&#13;
 &#13;
-Während des Workshops können auch selbst mitgebrachte Bausätze zusammengelötet werden.</description>
+Während des Workshops können auch selbst mitgebrachte Bausätze zusammengelötet werden.&#13;
+&#13;
+Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -2648,6 +2650,36 @@ Should the author fail to show up to this presentation it might be that his Deut
         </recording>
         <persons>
           <person id="69">Volker Krause</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="572" guid="e26fdad4-0247-5128-a54b-a7fedea0d130">
+        <logo/>
+        <date>2019-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>CKLM3A</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/CKLM3A/</url>
+        <title>DSGVO &amp; Persönlichkeitsrecht bei Fotos</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>DSGVO &amp; Persönlichkeitsrecht bei Fotos mit Fokus auf Nutzung in freien Projekte wie Wikimedia Commons.</abstract>
+        <description>* Persönlichkeitsrechte und ihre Bedeutung für Wikimedia-Projekte, inklusive Grundlagen des Allgemeinen Persönlichkeitsrechts (APR)&#13;
+* Was ist zu beachten bei Abbildungen von Personen des öffentlichen Lebens und beim Fotografieren öffentlicher und nicht-öffentlicher Veranstaltungen? (inklusive Umgang mit Einschränkungen von Seiten Dritter wie Sportverbänden, Künstlermanagements usw.)&#13;
+* Zusammenspiel urheberrechtlicher Lizenzen und persönlichkeitsrechtlicher Regeln&#13;
+&#13;
+Zeit für Fragen und Antworten ist eingeplant.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">John</person>
         </persons>
         <links/>
         <attachments/>
@@ -7271,6 +7303,32 @@ Mit der Förderung könnt Ihr sechs Monate lang Code schreiben und einen Prototy
         <attachments/>
         <answers/>
       </event>
+      <event id="589" guid="16fa19a5-66a8-5104-9804-44ac491f4936">
+        <logo/>
+        <date>2019-12-28T14:10:00+01:00</date>
+        <start>14:10</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>V378DD</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/V378DD/</url>
+        <title>Measuring Code Contributions in Wikimedia's Technical Community</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>A lightning talk about technical contributions in Wikimedia projects that we can currently measure and the challenges that we face.</abstract>
+        <description>Statistics can help to better understand communities and their needs. This lightning talk shows how Wikimedia uses the free and open source software "GrimoireLab" to get some data about its technical contributor base, and also covers some of the challenges that we face when it comes to measuring.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">Andre Klapper</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="595" guid="95c2bf57-087f-5fb0-9ce8-a3210a585f9c">
         <logo/>
         <date>2019-12-28T16:00:00+01:00</date>
@@ -7293,6 +7351,61 @@ Mit der Förderung könnt Ihr sechs Monate lang Code schreiben und einen Prototy
         <persons>
           <person id="65">Maximilian Marx</person>
           <person id="88">Tom Hanika</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="571" guid="d3bf066e-5bac-568c-ab7b-b5a282813cc7">
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>3VX9J3</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/3VX9J3/</url>
+        <title>Grundlagen Urheberrecht - Schwerpunkt CC-Lizenzen</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Grundlagenwissen zum Urheberrecht</abstract>
+        <description>CC-Lizenzen und das Urheberrecht.&#13;
+Kurze Einführung wie CC-Lizenzen im Urheberrecht verankert sind.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">John</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="588" guid="7668e889-63d6-5dbe-8a5b-e81d54731b10">
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>LKSJUL</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/LKSJUL/</url>
+        <title>Software tools for wikis beyond MediaWiki and its extensions</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>A showcase of software implemented outside of the MediaWiki and MediaWiki extensions code repositories.</abstract>
+        <description>Wikimedia's communities have diverse interests, use cases and technical needs. Volunteer developers experiment with new ideas, build solutions and bridge workflow gaps across our software stack.&#13;
+&#13;
+This session is a showcase of a variety of impressive software solutions implemented outside of the MediaWiki and MediaWiki extensions code repositories.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">Andre Klapper</person>
         </persons>
         <links/>
         <attachments/>
@@ -7328,6 +7441,36 @@ Du kannst dich zum mitspielen bewerben oder mithelfen - auch als Erwachsene\*r. 
       </event>
     </room>
     <room name="WikiPaka WG: Bibliothek">
+      <event id="590" guid="14299031-3b3a-5f01-a970-903ea39d96de">
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>HXVTTM</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/HXVTTM/</url>
+        <title>Demo-Aktionstraining</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Eine theoretische und praktische Einführung für aktionsorientierte Demonstrationen.</abstract>
+        <description>Bei Demonstrationen setzen sich Menschen für Werte und Ideale ein, für die sie einstehen und machen auf für sie wichtige Themen aufmerksam. Gerade im letzten Jahr durften wir in Deutschland und weltweit erleben, wie sich vermehrt junge Menschen vor allem für Umweltthemen bei Demonstrationen einsetzen.&#13;
+&#13;
+Dabei bietet sich bei aktionsorientierten Demonstrationen eine Vielzahl an Möglichkeiten, wie sich durch Zivilcourage aktiv für ein Thema eingesetzt werden kann, jedoch auch ein erhöhtes Konfliktpotential. Für eine erfolgreiche Demonstration ist es gut, zu wissen, mit welchem Verhalten Konflikte und Gefahren vermieden und Möglichkeiten ausgeschöpft werden können.&#13;
+&#13;
+Konkret: Wir verbinden Theorie und Praxis. Im ersten Teil werden rechtliche Grundlagen, Verhalten auf Versammlungen und gängige Konzepte (Bezugsgruppen, Demorucksack, usw.) vorgestellt. Im zweiten Teil werden Mittel des Zivilen Ungehorsams geprobt und Techniken zur Vermeidung von Verletzungen erlernt. Zum Abschluss werden die erlebten Erfahrungen reflektiert und wir tauschen uns darüber aus, um z. B. auch die Wirkung auf die Polizei besser zu verstehen und gezielt einsetzen zu können.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="86">jasle</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="558" guid="434e8b74-c0c7-5cff-a5b9-4ea446b342f7">
         <logo/>
         <date>2019-12-28T14:30:00+01:00</date>
@@ -11562,7 +11705,9 @@ Was tun wir? &#13;
 - Löten auf Leiterplatten&#13;
 - Löten mit Drähten und Bauteilen&#13;
 &#13;
-Während des Workshops können auch selbst mitgebrachte Bausätze zusammengelötet werden.</description>
+Während des Workshops können auch selbst mitgebrachte Bausätze zusammengelötet werden.&#13;
+&#13;
+Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.</description>
         <recording>
           <license/>
           <optout>false</optout>

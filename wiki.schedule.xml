@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-22 16:15</version>
+  <version>2019-12-22 16:18</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -940,7 +940,6 @@ Tor operator meetup, anyone currently operating any Tor infrastructure or anyone
     <room name="Chaos-West Bühne"/>
     <room name="OIO Stage"/>
     <room name="DLF- und Podcast-Bühne"/>
-    <room name="ChaosZone"/>
     <room name="Assembly:Free Software Foundation Europe">
       <event id="1298" guid="60787fbf-cc1d-4b02-b438-41e1a8767ed0">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</url>
@@ -2650,7 +2649,6 @@ Diese Workshop ist gedacht für Menschen die ganz frisch in dem ganzen Kosmos au
     <room name="Chaos-West Bühne"/>
     <room name="OIO Stage"/>
     <room name="DLF- und Podcast-Bühne"/>
-    <room name="ChaosZone"/>
     <room name="Assembly:Free Software Foundation Europe">
       <event id="1297" guid="d3b23c86-1927-4bc2-a9cc-bf32e2277c20">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</url>
@@ -4489,7 +4487,6 @@ This meeting is used for the distribution of shifts for the Translation team.</d
     <room name="Chaos-West Bühne"/>
     <room name="OIO Stage"/>
     <room name="DLF- und Podcast-Bühne"/>
-    <room name="ChaosZone"/>
     <room name="Assembly:Nibble Area">
       <event id="1281" guid="6be562ab-b327-440f-9202-14740812780a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:ATX_Breakoutboard_Workshop_-_Solder_your_own_Power_Supply</url>
@@ -5276,7 +5273,6 @@ Last time to get the T-Shirt hour count live.And lots of info on teardown. And a
     <room name="Chaos-West Bühne"/>
     <room name="OIO Stage"/>
     <room name="DLF- und Podcast-Bühne"/>
-    <room name="ChaosZone"/>
     <room name="Assembly:Hardware Hacking Area">
       <event id="1169" guid="c3d799ba-5e32-4073-8b58-619d41efade3">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:ArduTouch_Music_Synthesizer_Workshop</url>
@@ -5368,6 +5364,29 @@ Takes about two hours. Basic workshop. No prior knowledge needed. Materials cost
       </event>
     </room>
     <room name="Assembly:Haecksen">
+      <event id="1300" guid="d33201a3-e316-488d-9979-0352d904322d">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Lightningtalks_bei_den_Haecksen</url>
+        <logo/>
+        <date>2019-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1300-session_lightningtalks_bei_den_haecksen</slug>
+        <title>Lightningtalks bei den Haecksen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>We present cool ideas and projects to each other
+Ähnlich wie bei den Lightningtalks auf den Hauptbühnen geht es darum, innerhalb von etwa 5min ein Thema, eine Idee oder ein Projekt zu präsentieren. Wir machen das in kleinerer, gemütlicherer Runde.Similar to the lightningtalks on the main stage this is an opportunity to present a topic of your choice in about 5min.</description>
+        <persons>
+          <person id="0">Zitro</person>
+        </persons>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
       <event id="1289" guid="52577c13-1893-4ce7-853d-0d88c23ee737">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga</url>
         <logo/>

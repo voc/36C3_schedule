@@ -1,5 +1,5 @@
 <schedule>
-  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 1.0; lightning Praseodymium; wiki 2019-12-22 16:15</version>
+  <version>cat; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 1.0; lightning Praseodymium; wiki 2019-12-22 16:18</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3470,7 +3470,6 @@ Wir möchten uns darüber austauschen, wie Wissenschaft unserer Meinung nach kom
         <answers/>
       </event>
     </room>
-    <room name="ChaosZone"/>
     <room name="OIO workshop dome">
       <event id="367" guid="81f5f0c4-3d35-522c-8f1c-c8825b92f00a">
         <logo/>
@@ -9911,7 +9910,6 @@ Für die ZuschauerInnen gibt es Spaß, für das Rate Team Alkohol.</description>
         <answers/>
       </event>
     </room>
-    <room name="ChaosZone"/>
     <room name="OIO workshop dome">
       <event id="347" guid="bf48fa55-92a1-5481-a14a-f77cc0d4fccb">
         <logo/>
@@ -16137,7 +16135,6 @@ Eine unserer Moderator*innen, Katharin, wird direkt von ihren Recherchen für jo
         <answers/>
       </event>
     </room>
-    <room name="ChaosZone"/>
     <room name="OIO workshop dome">
       <event id="344" guid="312560c7-7ce7-5c81-97b4-7692b2d9a240">
         <logo>/media/36c3-oio/images/HHZQAY/meetup_1920_ssHGXLa.png</logo>
@@ -19242,7 +19239,6 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
       </event>
     </room>
     <room name="DLF- und Podcast-Bühne"/>
-    <room name="ChaosZone"/>
     <room name="OIO workshop dome">
       <event id="378" guid="3d0efe4f-63da-5a8b-822a-b0ba99692ed3">
         <logo/>
@@ -19603,6 +19599,29 @@ Takes about two hours. Basic workshop. No prior knowledge needed. Materials cost
       </event>
     </room>
     <room name="Assembly:Haecksen">
+      <event id="1300" guid="d33201a3-e316-488d-9979-0352d904322d">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Lightningtalks_bei_den_Haecksen</url>
+        <logo/>
+        <date>2019-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1300-session_lightningtalks_bei_den_haecksen</slug>
+        <title>Lightningtalks bei den Haecksen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>We present cool ideas and projects to each other
+Ähnlich wie bei den Lightningtalks auf den Hauptbühnen geht es darum, innerhalb von etwa 5min ein Thema, eine Idee oder ein Projekt zu präsentieren. Wir machen das in kleinerer, gemütlicherer Runde.Similar to the lightningtalks on the main stage this is an opportunity to present a topic of your choice in about 5min.</description>
+        <persons>
+          <person id="0">Zitro</person>
+        </persons>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
       <event id="1289" guid="52577c13-1893-4ce7-853d-0d88c23ee737">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga</url>
         <logo/>

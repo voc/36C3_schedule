@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-22 16:18</version>
+  <version>2019-12-22 16:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1512,7 +1512,7 @@ Limited spots, first come first served.</description>
         <language>de</language>
         <abstract/>
         <description>fast wie echtes Yoga
-Jeden Morgen um 11:00, Fast wie echtes Yoga</description>
+Jeden Morgen um 11:00, Fast wie echtes Yoga.Am zweiten Tag um 10:30 Uhr, direkt vor dem Haecksen-Frühstück.</description>
         <persons>
           <person id="0">Piko</person>
         </persons>
@@ -4487,6 +4487,98 @@ This meeting is used for the distribution of shifts for the Translation team.</d
     <room name="Chaos-West Bühne"/>
     <room name="OIO Stage"/>
     <room name="DLF- und Podcast-Bühne"/>
+    <room name="Assembly:Haecksen">
+      <event id="1301" guid="8733f2c5-8aa5-408a-8733-94474f637fe7">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_capella_workshop!</url>
+        <logo/>
+        <date>2019-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>1:30</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1301-session_a_capella_workshop_</slug>
+        <title>A capella workshop!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir singen a capella
+'Wir singen a capella: Musik nur mit der Stimme. Inklusive Einsingen, Stimmgruppenaufteilung, vllt. Beatbox. Je nach Lust und Laune singen wir kleine, leichte Stücke oder Impros.</description>
+        <persons>
+          <person id="0">Zitro</person>
+        </persons>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
+      <event id="1140" guid="9bf60888-18b6-449f-8880-44c88db9c77a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Feministischer_Buchclub</url>
+        <logo/>
+        <date>2019-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1140-session_feministischer_buchclub</slug>
+        <title>Feministischer Buchclub</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language/>
+        <abstract/>
+        <description>Feministischer Buchclub: Wir reden über Bücher
+Wir reden über interessante Bücher und erweitern die Liste.Der Workshop ist offen für alle Wesen auf dem Congress. Auch Männer können sich hier erste Buchtipps abholen oder einbringen.</description>
+        <persons>
+          <person id="0">Melzai</person>
+        </persons>
+        <links>
+          <link>https://wiki.haecksen.org/index.php/Haecksen_library</link>
+        </links>
+      </event>
+      <event id="1296" guid="1f7b5a71-fa60-4611-8242-9bb5b0d9b623">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga</url>
+        <logo/>
+        <date>2019-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>0:20</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1296-session_pseudo_yoga</slug>
+        <title>Pseudo-Yoga</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>fast wie echtes Yoga
+Jeden Morgen um 11:00, Fast wie echtes Yoga.Am zweiten Tag um 10:30 Uhr, direkt vor dem Haecksen-Frühstück.</description>
+        <persons>
+          <person id="0">Piko</person>
+        </persons>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
+      <event id="1272" guid="9ead05d0-2a38-44be-b99b-f1458a8f4afe">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Using_Arduino_to_control_sensors_and_servos</url>
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>3:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1272-session_using_arduino_to_control_sensors_and_servos</slug>
+        <title>Using Arduino to control sensors and servos</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction into Arduino, Sensors and Servomotors. Hands on how to get things moving depending on the sensor output.
+[[File:Globoli outdoor.jpg|thumb]]Getting things move in interaction with the surrounding gives your robots or other creatures more 'personality'. Here is an example of an eye starting to blink if you approach and getting faster and faster if you are getting too close.  https://twitter.com/wellenleiter/status/994312455005368322Globuli is a Robot always circulation in the direction somebody approaches and also blinking with the eyes...which is supposed to work as a propaganda bot at events: http://www.wellenleiter.net/globuli-der-propagandabot/The Workshop will give a short introduction on programming with Arduino, the technology of different distance sensors and servos and how to get them controlled with an Arduino. Please bring your Arduino and Servo an US- or IR-Sensor (e.g. HC - SR04) if possible. I will bring a bunch of Ultrasonic Ranging Module HC - SR04 and some sparse Arduino. You should have a running Arduino Software (https://www.arduino.cc/en/Main/Software) and  Servo-Library  (https://www.arduino.cc/en/Guide/Libraries). * For FNIs only. *</description>
+        <persons>
+          <person id="0">Fm</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:Nibble Area">
       <event id="1281" guid="6be562ab-b327-440f-9202-14740812780a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:ATX_Breakoutboard_Workshop_-_Solder_your_own_Power_Supply</url>
@@ -4920,75 +5012,6 @@ We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, 
         <links/>
       </event>
     </room>
-    <room name="Assembly:Haecksen">
-      <event id="1140" guid="9bf60888-18b6-449f-8880-44c88db9c77a">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Feministischer_Buchclub</url>
-        <logo/>
-        <date>2019-12-29T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Haecksen</room>
-        <slug>36c3-1140-session_feministischer_buchclub</slug>
-        <title>Feministischer Buchclub</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language/>
-        <abstract/>
-        <description>Feministischer Buchclub: Wir reden über Bücher
-Wir reden über interessante Bücher und erweitern die Liste.Der Workshop ist offen für alle Wesen auf dem Congress. Auch Männer können sich hier erste Buchtipps abholen oder einbringen.</description>
-        <persons>
-          <person id="0">Melzai</person>
-        </persons>
-        <links>
-          <link>https://wiki.haecksen.org/index.php/Haecksen_library</link>
-        </links>
-      </event>
-      <event id="1296" guid="1f7b5a71-fa60-4611-8242-9bb5b0d9b623">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga</url>
-        <logo/>
-        <date>2019-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>0:20</duration>
-        <room>Assembly:Haecksen</room>
-        <slug>36c3-1296-session_pseudo_yoga</slug>
-        <title>Pseudo-Yoga</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>fast wie echtes Yoga
-Jeden Morgen um 11:00, Fast wie echtes Yoga</description>
-        <persons>
-          <person id="0">Piko</person>
-        </persons>
-        <links>
-          <link>http://haecksen.org</link>
-        </links>
-      </event>
-      <event id="1272" guid="9ead05d0-2a38-44be-b99b-f1458a8f4afe">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Using_Arduino_to_control_sensors_and_servos</url>
-        <logo/>
-        <date>2019-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>3:00</duration>
-        <room>Assembly:Haecksen</room>
-        <slug>36c3-1272-session_using_arduino_to_control_sensors_and_servos</slug>
-        <title>Using Arduino to control sensors and servos</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Introduction into Arduino, Sensors and Servomotors. Hands on how to get things moving depending on the sensor output.
-[[File:Globoli outdoor.jpg|thumb]]Getting things move in interaction with the surrounding gives your robots or other creatures more 'personality'. Here is an example of an eye starting to blink if you approach and getting faster and faster if you are getting too close.  https://twitter.com/wellenleiter/status/994312455005368322Globuli is a Robot always circulation in the direction somebody approaches and also blinking with the eyes...which is supposed to work as a propaganda bot at events: http://www.wellenleiter.net/globuli-der-propagandabot/The Workshop will give a short introduction on programming with Arduino, the technology of different distance sensors and servos and how to get them controlled with an Arduino. Please bring your Arduino and Servo an US- or IR-Sensor (e.g. HC - SR04) if possible. I will bring a bunch of Ultrasonic Ranging Module HC - SR04 and some sparse Arduino. You should have a running Arduino Software (https://www.arduino.cc/en/Main/Software) and  Servo-Library  (https://www.arduino.cc/en/Guide/Libraries). * For FNIs only. *</description>
-        <persons>
-          <person id="0">Fm</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
     <room name="Assembly:C-base / CCC-B / xHain">
       <event id="1283" guid="5525b2c9-e14b-4b8c-b27f-6f01bb2b301d">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
@@ -5402,7 +5425,7 @@ Takes about two hours. Basic workshop. No prior knowledge needed. Materials cost
         <language>de</language>
         <abstract/>
         <description>fast wie echtes Yoga
-Jeden Morgen um 11:00, Fast wie echtes Yoga</description>
+Jeden Morgen um 11:00, Fast wie echtes Yoga.Am zweiten Tag um 10:30 Uhr, direkt vor dem Haecksen-Frühstück.</description>
         <persons>
           <person id="0">Piko</person>
         </persons>

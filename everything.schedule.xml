@@ -1,5 +1,5 @@
 <schedule>
-  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Neodymium; wiki 2019-12-23 17:30</version>
+  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Neodymium; wiki 2019-12-23 17:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -11112,26 +11112,7 @@ Culture</description>
         <track/>
         <type>Talk</type>
         <language>en</language>
-        <abstract>OpenAppStack is a **free and open source (libre) platform** that will offer self-managed, click-and-play provisioning of online applications. Users will be able to easily set up a self-hosted instance of OpenAppStack, so they can keep control over their data. It provides an extensible platform that enables **collaboration like google docs without selling it's users to a 3rd party!** By pre-configuring the installed applications in a **privacy by default** manner and by providing a very simple mechanism to upgrade applications OpenAppStack aims to reduce the pain for administrators that is usually involved in self-hosting collaboration platforms.&#13;
-&#13;
-Our current focus lies on providing free and open source alternatives for chat, file storage and collaborative document editing and will be extended in the future.&#13;
-&#13;
-OpenAppStack applications are managed with Kubernetes, a popular container orchestration system. &#13;
-Openappstack sets up a simple, single node Kubernetes cluster with relatively simple configuration which is compatible with future scaling of your cloud and adding new applications.&#13;
-Setting up a Kubernetes cluster can be hard and can be done in many different ways. To complicate things further, a lot of choices need to be made when configuring your cluster. What Ingress should you use? How are you going to do storage?&#13;
-With running applications on self owned infrastructure a new challenge arises: somebody needs to keep the software up to date, configure it to work together and make sure people can use it.&#13;
-&#13;
-In this session we'll show OpenAppStack's design, installation procedure and challenges that come with self-hosted container infrastructure. We'll cover the following topics:&#13;
-&#13;
-* Automatic updates&#13;
-* Single-sign-on&#13;
-* Monitoring of containerized deployments&#13;
-* Cloud-native vs. old-school aplications&#13;
-&#13;
-https://openappstack.net&#13;
-&#13;
-&#13;
-OpenAppStack is a **free and open source (libre) platform** that will offer self-managed, click-and-play provisioning of online applications. Users will be able to easily set up a self-hosted instance of OpenAppStack, so they can keep control over their data. It provides an extensible platform that enables **collaboration like google docs without selling it's users to a 3rd party!** By pre-configuring the installed applications in a **privacy by default** manner and by providing a very simple mechanism to upgrade applications OpenAppStack aims to reduce the pain for administrators that is usually involved in self-hosting collaboration platforms.</abstract>
+        <abstract>OpenAppStack is a **free and open source (libre) platform** that will offer self-managed, click-and-play provisioning of online applications. Users will be able to easily set up a self-hosted instance of OpenAppStack, so they can keep control over their data. It provides an extensible platform that enables **collaboration like google docs without selling it's users to a 3rd party!** By pre-configuring the installed applications in a **privacy by default** manner and by providing a very simple mechanism to upgrade applications OpenAppStack aims to reduce the pain for administrators that is usually involved in self-hosting collaboration platforms.</abstract>
         <description>Our current focus lies on providing free and open source alternatives for chat, file storage and collaborative document editing and will be extended in the future.&#13;
 &#13;
 OpenAppStack applications are managed with Kubernetes, a popular container orchestration system. &#13;

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.1; art-play 0.14; lightning Neodymium; wiki 2019-12-23 21:30",
+    "version": "dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; art-play 0.15; lightning Neodymium; wiki 2019-12-23 21:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -11005,8 +11005,8 @@
                 "track": "DLF- und Podcast-B\u00fchne",
                 "type": "Normale L\u00e4nge",
                 "language": "en",
-                "abstract": "Mitglieder der c't-Redaktion diskutieren \u00fcber Themen aus dem Heft und was sonst noch so in der IT-Welt passiert.",
-                "description": "Mitglieder der c't-Redaktion diskutieren \u00fcber Themen aus dem Heft und was sonst noch so in der IT-Welt passiert - dieses Jahr auch auf dem 36c3!",
+                "abstract": "Inside Heise Online & c't: Wie wir arbeiten und was wir tun",
+                "description": "Mitglieder der c't-Redaktion diskutieren \u00fcber Themen aus dem Heft und was sonst noch so in der IT-Welt passiert. Beim 36c3 nehmen wir Eh mit inunsere Redaktio und erkl\u00e4ren Euch, was da passiert und wie wir arbeiten.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -11028,6 +11028,20 @@
                     "id": 134,
                     "code": "YGF7FD",
                     "public_name": "Holger Bleich",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 135,
+                    "code": "VFPMHC",
+                    "public_name": "Pina Merkert",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 136,
+                    "code": "LQ3NHR",
+                    "public_name": "Eva Maria Wei\u00df",
                     "biography": null,
                     "answers": []
                   }
@@ -13036,6 +13050,40 @@
                     "code": "V98EK8",
                     "public_name": "Pastor Leumund",
                     "biography": "http://weltgast.de/artists/pastor-leumund\r\nhttps://pastorleumund.bandcamp.com/releases\r\nhttps://www.facebook.com/Leumundo/",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "Installations": [
+              {
+                "id": 1115,
+                "guid": "68e97e7b-c701-5325-bc6b-291628a5dbca",
+                "logo": "",
+                "date": "2019-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:45",
+                "room": "Installations",
+                "slug": "NS9EMG",
+                "url": "http://stage.artesmobiles.art/36c3/talk/NS9EMG/",
+                "title": "Field Trip",
+                "subtitle": "",
+                "track": "Installation",
+                "type": "Interactive Screening and Q&A",
+                "language": "en",
+                "abstract": "\\#interactive documentary\r\n\r\nInteractive Screening and Q&A",
+                "description": "Field Trip is an interactive documentary film about Tempelhof Field, a former airfield now being used as one of the biggest urban parks in the world. For some, the 300 hectares of open space are full of possibilities; for others, it is a place of oppression and of dark episodes in German history. For others still, it has become a home far away from home. Field Trip tells their stories. Through interactive documentary films and the inclusion of people on site, Field Trip has become a vibrant reflection of one of the most exciting places in Berlin. Field Trip is a ronjafilm production and was initiated by a group of Berlin media makers coming from Documentary film, Journalism and Creative Technology. The Field Trip team has made a large part of the materials (films, illustrations, software, design) available to the public. Most of the materials are published under open licenses.\r\n\r\nOpen licenses strategy\r\n\r\nIn the Field Trip team, we like to see ourselves as commons-based creatives. This is why, the idea we have for our project is to create a permanently open, living documentary, based on open web technologies. This means that all interactive options, visualisations, transitions, effects and almost everything else is implemented through small, re-usable snippets of code. Instead of conventional post-production software, we are using HTML, Javascript and CSS wherever technologically feasible. In addition, we are making these code snippets available in an open repository under MIT and GPL v3 licenses.\r\n\r\nWhen it comes to the documentary reality, while all code behind our interactive documentary is published under open source licences, the conditions for content (e.g. video material, photographs, texts) vary more than we would have liked: we normally use the \"Creative Commons Attribution-ShareAlike 4.0 International License\", which allows the free use, editing and distribution (including commercially) of content, as long as the authors are correctly named and the works are passed on under the same conditions. The majority of Field Trip content is thereby under that CC license. On top of the material used in the documentary, we put rough cut and b-roll material under the said Creative Commons license.\r\n\r\nHowever, in the case of archival material, sensitive material (i.e., where we explicitly needed to protect a protagonist), content obtained through other channels (e.g., private video material), we had to compromise. Any restrictions of this kind are clearly communicated in the list of all materials and licences in our media repository, to be launched in full extent at the 36th Chaos Computer Conference in December 2019.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 14,
+                    "code": "RHXSRX",
+                    "public_name": "Field Trip",
+                    "biography": "https://fieldtrip.berlin\r\n@FieldTripBerlin",
                     "answers": []
                   }
                 ],

@@ -1,5 +1,5 @@
 <schedule>
-  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.1; lightning Neodymium; wiki 2019-12-23 20:50</version>
+  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.1; lightning Neodymium; wiki 2019-12-23 21:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -5236,6 +5236,29 @@ F-Droid is an installable catalogue of FOSS (Free and Open Source Software) appl
           <link>https://mastodon.technology/@fdroidorg</link>
         </links>
       </event>
+      <event id="1315" guid="3dcc0b55-ee18-5a4b-8f20-190872e5b9fa">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
+        <logo/>
+        <date>2019-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1315-session_pentagame_dojo</slug>
+        <title>Pentagame Dojo</title>
+        <subtitle>Just playin'</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Just playing Pentagame
+Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages.</description>
+        <persons>
+          <person id="0">Penta</person>
+        </persons>
+        <links>
+          <link>https://pentagame.org</link>
+        </links>
+      </event>
       <event id="1192" guid="fe333059-81f6-482a-93bb-f55a54f2176b">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
         <logo/>
@@ -5464,31 +5487,6 @@ Limited spots, first come first served.</description>
           <person id="0">Qwaxys</person>
         </persons>
         <links/>
-      </event>
-    </room>
-    <room name="Assembly:C-base / CCC-B / xHain">
-      <event id="1285" guid="caf828c2-5e3f-4da8-bb90-acb217a39152">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
-        <logo/>
-        <date>2019-12-27T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>3:10</duration>
-        <room>Assembly:C-base / CCC-B / xHain</room>
-        <slug>36c3-1285-session_pentagame_dojo</slug>
-        <title>Pentagame Dojo</title>
-        <subtitle>Just playin'</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Just playing Pentagame
-Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages.</description>
-        <persons>
-          <person id="0">Penta</person>
-        </persons>
-        <links>
-          <link>https://pentagame.org</link>
-        </links>
       </event>
     </room>
     <room name="CCL Terrace">
@@ -12193,13 +12191,36 @@ Im Rahmen des Workshops werden wir auf Basis des Microcontrollers ATTiny85  Neop
         <language>de</language>
         <abstract/>
         <description>We willl play nice hacker boardgames
-Was spielen Nerds nach Sonnenuntergang? Sie programmieren beispielsweise Roboter mit Spielkarten und lassen sie über ein Brettspiel laufen. Muss man dafür programmieren können? Nein, überhaupt nicht. Aber das Spiel macht einen Riesenspaß und ganz nebenbei lernt man noch ein bißchen, wie beim Programmieren gedacht wird.Daneben werden wir Rasende Roboter und Go anbieten.Insgesamt also ein lockerer Ausklang für den Junghackertag.Eine Anmeldung ist nicht nötig, sei einfach rechtzeitig bei der Assembly.</description>
+Was spielen Nerds nach Sonnenuntergang? Sie programmieren beispielsweise Roboter mit Spielkarten und lassen sie über ein Brettspiel laufen. Muss man dafür programmieren können? Nein, überhaupt nicht. Aber das Spiel macht einen Riesenspaß und ganz nebenbei lernt man noch ein bißchen, wie beim Programmieren gedacht wird.Daneben werden wir Rasende Roboter, Go und Pentagame anbieten.Insgesamt also ein lockerer Ausklang für den Junghackertag.Eine Anmeldung ist nicht nötig, sei einfach rechtzeitig bei der Assembly.</description>
         <persons>
           <person id="0">DerMicha</person>
           <person id="0">Bengoshi</person>
         </persons>
         <links>
           <link>https://coderdojo.c-base.org/</link>
+        </links>
+      </event>
+      <event id="1316" guid="55dfd0fe-811e-5809-bc83-2cafa9200606">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
+        <logo/>
+        <date>2019-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1316-session_pentagame_dojo</slug>
+        <title>Pentagame Dojo</title>
+        <subtitle>Just playin'</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Just playing Pentagame
+Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages.</description>
+        <persons>
+          <person id="0">Penta</person>
+        </persons>
+        <links>
+          <link>https://pentagame.org</link>
         </links>
       </event>
       <event id="1217" guid="a7700e84-a4bb-481c-8bfc-452d221e2314">
@@ -12316,31 +12337,6 @@ Das schnelle Quiz für alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jah
         </persons>
         <links>
           <link>https://nwng.eu/36c3-gg</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:C-base / CCC-B / xHain">
-      <event id="1287" guid="42b97fd0-a119-435a-aa28-959fe77b6d85">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
-        <logo/>
-        <date>2019-12-28T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>3:10</duration>
-        <room>Assembly:C-base / CCC-B / xHain</room>
-        <slug>36c3-1287-session_pentagame_dojo</slug>
-        <title>Pentagame Dojo</title>
-        <subtitle>Just playin'</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Just playing Pentagame
-Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages.</description>
-        <persons>
-          <person id="0">Penta</person>
-        </persons>
-        <links>
-          <link>https://pentagame.org</link>
         </links>
       </event>
     </room>
@@ -18317,6 +18313,29 @@ tba (For now, see https://en.wikipedia.org/wiki/Deliberative_democracy)</descrip
         </persons>
         <links/>
       </event>
+      <event id="1314" guid="8ec4a011-63cc-4d27-a6c5-36dadb2cc1df">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
+        <logo/>
+        <date>2019-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1314-session_pentagame_dojo</slug>
+        <title>Pentagame Dojo</title>
+        <subtitle>Just playin'</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Just playing Pentagame
+Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages.</description>
+        <persons>
+          <person id="0">Penta</person>
+        </persons>
+        <links>
+          <link>https://pentagame.org</link>
+        </links>
+      </event>
       <event id="1286" guid="005da89f-34b5-4a13-9104-1b8826cb7bff">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Theory</url>
         <logo/>
@@ -18384,29 +18403,6 @@ Join us for a nice hour (or two) of open discussion around the topics of maritim
         </persons>
         <links>
           <link>https://hackerfleet.eu</link>
-        </links>
-      </event>
-      <event id="1283" guid="5525b2c9-e14b-4b8c-b27f-6f01bb2b301d">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
-        <logo/>
-        <date>2019-12-29T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>3:10</duration>
-        <room>Assembly:C-base / CCC-B / xHain</room>
-        <slug>36c3-1283-session_pentagame_dojo</slug>
-        <title>Pentagame Dojo</title>
-        <subtitle>Just playin'</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Just playing Pentagame
-Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages.</description>
-        <persons>
-          <person id="0">Penta</person>
-        </persons>
-        <links>
-          <link>https://pentagame.org</link>
         </links>
       </event>
     </room>

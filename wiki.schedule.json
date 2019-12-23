@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-23 21:10",
+    "version": "2019-12-23 21:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -1636,15 +1636,15 @@
                 ]
               },
               {
-                "id": 1315,
-                "guid": "3dcc0b55-ee18-5a4b-8f20-190872e5b9fa",
+                "id": 1318,
+                "guid": "1a4fdd61-64e1-4cbd-975f-7ec021640ef8",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo",
                 "logo": null,
                 "date": "2019-12-27T22:00:00+01:00",
                 "start": "22:00",
                 "duration": "1:30",
                 "room": "C-base",
-                "slug": "36c3-1315-session_pentagame_dojo",
+                "slug": "36c3-1318-session_pentagame_dojo",
                 "title": "Pentagame Dojo",
                 "subtitle": "Just playin'",
                 "track": "self organized sessions",
@@ -4082,15 +4082,15 @@
                 ]
               },
               {
-                "id": 1316,
-                "guid": "55dfd0fe-811e-5809-bc83-2cafa9200606",
+                "id": 1317,
+                "guid": "06911640-a107-4a23-aea9-61f5fd03e1ce",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo",
                 "logo": null,
                 "date": "2019-12-28T22:00:00+01:00",
                 "start": "22:00",
                 "duration": "1:30",
                 "room": "C-base",
-                "slug": "36c3-1316-session_pentagame_dojo",
+                "slug": "36c3-1317-session_pentagame_dojo",
                 "title": "Pentagame Dojo",
                 "subtitle": "Just playin'",
                 "track": "self organized sessions",
@@ -4107,6 +4107,34 @@
                 ],
                 "links": [
                   "https://pentagame.org"
+                ]
+              },
+              {
+                "id": 1319,
+                "guid": "e0d50857-f0b6-42ef-8362-65eed1a9e6e5",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Turnier",
+                "logo": null,
+                "date": "2019-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "2:00",
+                "room": "C-base",
+                "slug": "36c3-1319-session_pentagame_turnier",
+                "title": "Pentagame Turnier",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Wir spielen ein Pentagame Turnier.\nWir spielen ein Pentagame-Turnier! Ausreichend Spiele sind vorhanden.Das Spiel wird kurz vorher erkl\u00e4rt und ist echt einfach zu verstehen.Das Turnier steht ausdr\u00fccklich auch Anf\u00e4ngern und vor allem Teilnehmenden des Junghackertags offen.Es wird eine Gruppenphase und dann ein K.O.-Tunier der 8 besten geben.Ein Prototyp wird verlost unter jenen, die nicht die K.O.-Phase erreicht haben.Ein weiterer Prototyp geht als Preis an den Turniergewinner (neben Weltruhm, nat\u00fcrlich).Links zu Erkl\u00e4rvideos, Regeln usw. \u00fcber https://pentagame.org/.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Penta",
+                    "public_name": "Penta"
+                  }
+                ],
+                "links": [
+                  "https://pentagame.org/"
                 ]
               },
               {

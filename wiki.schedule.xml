@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-23 21:10</version>
+  <version>2019-12-23 21:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1339,14 +1339,14 @@ F-Droid is an installable catalogue of FOSS (Free and Open Source Software) appl
           <link>https://mastodon.technology/@fdroidorg</link>
         </links>
       </event>
-      <event id="1315" guid="3dcc0b55-ee18-5a4b-8f20-190872e5b9fa">
+      <event id="1318" guid="1a4fdd61-64e1-4cbd-975f-7ec021640ef8">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
         <logo/>
         <date>2019-12-27T22:00:00+01:00</date>
         <start>22:00</start>
         <duration>1:30</duration>
         <room>C-base</room>
-        <slug>36c3-1315-session_pentagame_dojo</slug>
+        <slug>36c3-1318-session_pentagame_dojo</slug>
         <title>Pentagame Dojo</title>
         <subtitle>Just playin'</subtitle>
         <track>self organized sessions</track>
@@ -3341,14 +3341,14 @@ Was spielen Nerds nach Sonnenuntergang? Sie programmieren beispielsweise Roboter
           <link>https://coderdojo.c-base.org/</link>
         </links>
       </event>
-      <event id="1316" guid="55dfd0fe-811e-5809-bc83-2cafa9200606">
+      <event id="1317" guid="06911640-a107-4a23-aea9-61f5fd03e1ce">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
         <logo/>
         <date>2019-12-28T22:00:00+01:00</date>
         <start>22:00</start>
         <duration>1:30</duration>
         <room>C-base</room>
-        <slug>36c3-1316-session_pentagame_dojo</slug>
+        <slug>36c3-1317-session_pentagame_dojo</slug>
         <title>Pentagame Dojo</title>
         <subtitle>Just playin'</subtitle>
         <track>self organized sessions</track>
@@ -3362,6 +3362,29 @@ Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depend
         </persons>
         <links>
           <link>https://pentagame.org</link>
+        </links>
+      </event>
+      <event id="1319" guid="e0d50857-f0b6-42ef-8362-65eed1a9e6e5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Turnier</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1319-session_pentagame_turnier</slug>
+        <title>Pentagame Turnier</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir spielen ein Pentagame Turnier.
+Wir spielen ein Pentagame-Turnier! Ausreichend Spiele sind vorhanden.Das Spiel wird kurz vorher erklärt und ist echt einfach zu verstehen.Das Turnier steht ausdrücklich auch Anfängern und vor allem Teilnehmenden des Junghackertags offen.Es wird eine Gruppenphase und dann ein K.O.-Tunier der 8 besten geben.Ein Prototyp wird verlost unter jenen, die nicht die K.O.-Phase erreicht haben.Ein weiterer Prototyp geht als Preis an den Turniergewinner (neben Weltruhm, natürlich).Links zu Erklärvideos, Regeln usw. über https://pentagame.org/.</description>
+        <persons>
+          <person id="0">Penta</person>
+        </persons>
+        <links>
+          <link>https://pentagame.org/</link>
         </links>
       </event>
       <event id="1217" guid="a7700e84-a4bb-481c-8bfc-452d221e2314">

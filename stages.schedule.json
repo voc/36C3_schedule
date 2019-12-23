@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.5; komona 0.6; sendezentrum 2.1; lightning Neodymium",
+    "version": "dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.1; lightning Neodymium",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -3169,38 +3169,6 @@
                 "answers": []
               },
               {
-                "id": 730,
-                "guid": "8c9ec0e8-0e23-555d-92f3-1896d4612b6a",
-                "logo": "",
-                "date": "2019-12-27T13:45:00+01:00",
-                "start": "13:45",
-                "duration": "00:30",
-                "room": "ChaosZone B\u00fchne",
-                "slug": "8QBQZP",
-                "url": "https://cfp.chaoszone.cz/36c3/talk/8QBQZP/",
-                "title": "Numerisches Python in der Physik",
-                "subtitle": "",
-                "track": null,
-                "type": "Vortrag 30 min (incl. Q&A)",
-                "language": "de",
-                "abstract": "Eine kleine Einf\u00fchrung in numerisches Python mit NumPy und SciPy.",
-                "description": "F\u00fcr alle die noch nicht wissen, dass sie es brauchen oder es schon immer mal benutzen wollten:  \r\nEin kurzer \u00dcberblick der M\u00f6glichkeiten und Funktion von NumPy und SciPy (ohne Anspruch auf Vollst\u00e4ndigkeit).  \r\nDazu beispielhafte Anwendungsgebiete in der Forschung, anschaulich anhand eigener Beispielanwendungen im Kontext numerischer Physik.   \r\nDie kleine Einf\u00fchrung f\u00fcr Neulinge zum Anfangen und Interesse wecken! :)",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 41,
-                    "code": "YKKULV",
-                    "public_name": "Isabell",
-                    "biography": "Informatik-Studentin in Jena.\r\nHat ein freiwilliges wissenschaftliches Jahr in Hannover gemacht und dabei ein paar F\u00e4higkeiten aufgeschnappt :)",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
                 "id": 736,
                 "guid": "791fd76f-3515-59e5-b342-dc3dafabb694",
                 "logo": "/media/36c3/images/V83NXN/Thumbnail-light.png",
@@ -3225,6 +3193,38 @@
                     "code": "ARG387",
                     "public_name": "sarbes",
                     "biography": "Team Kodi member\r\nPython developer",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 730,
+                "guid": "8c9ec0e8-0e23-555d-92f3-1896d4612b6a",
+                "logo": "",
+                "date": "2019-12-27T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "00:30",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "8QBQZP",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/8QBQZP/",
+                "title": "Numerisches Python in der Physik",
+                "subtitle": "",
+                "track": null,
+                "type": "Vortrag 30 min (incl. Q&A)",
+                "language": "de",
+                "abstract": "Eine kleine Einf\u00fchrung in numerisches Python mit NumPy und SciPy.",
+                "description": "F\u00fcr alle die noch nicht wissen, dass sie es brauchen oder es schon immer mal benutzen wollten:  \r\nEin kurzer \u00dcberblick der M\u00f6glichkeiten und Funktion von NumPy und SciPy (ohne Anspruch auf Vollst\u00e4ndigkeit).  \r\nDazu beispielhafte Anwendungsgebiete in der Forschung, anschaulich anhand eigener Beispielanwendungen im Kontext numerischer Physik.   \r\nDie kleine Einf\u00fchrung f\u00fcr Neulinge zum Anfangen und Interesse wecken! :)",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 41,
+                    "code": "YKKULV",
+                    "public_name": "Isabell",
+                    "biography": "Informatik-Studentin in Jena.\r\nHat ein freiwilliges wissenschaftliches Jahr in Hannover gemacht und dabei ein paar F\u00e4higkeiten aufgeschnappt :)",
                     "answers": []
                   }
                 ],
@@ -7614,6 +7614,20 @@
                     "public_name": "J\u00fcrgen Kuri",
                     "biography": null,
                     "answers": []
+                  },
+                  {
+                    "id": 133,
+                    "code": "HX379F",
+                    "public_name": "Merlin Schumacher",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 134,
+                    "code": "YGF7FD",
+                    "public_name": "Holger Bleich",
+                    "biography": null,
+                    "answers": []
                   }
                 ],
                 "links": [],
@@ -8481,38 +8495,6 @@
                     "code": "EM78QC",
                     "public_name": "Marko Makel",
                     "biography": "Lange Zeit Aktiv bei AktE - Arbeitskreis f\u00fcr die totale Einsicht zum Thema Selbstausk\u00fcnfte bei Geheimdiensten",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 759,
-                "guid": "c8a7c2e7-a24f-5b47-a60e-0dadb819804d",
-                "logo": "/media/36c3/images/Q83NB8/classes.jpg",
-                "date": "2019-12-28T22:30:00+01:00",
-                "start": "22:30",
-                "duration": "00:30",
-                "room": "ChaosZone B\u00fchne",
-                "slug": "Q83NB8",
-                "url": "https://cfp.chaoszone.cz/36c3/talk/Q83NB8/",
-                "title": "Solidarity with Academics on Exile: Off-University",
-                "subtitle": "",
-                "track": "Ethics, Society & Politics",
-                "type": "Vortrag 60min  (inkl. Q&A)",
-                "language": "en",
-                "abstract": "Off-University (Organization F\u00fcr den Frieden-University), a research collaboration which was established for and by persecuted academics from Turkey. It is a space for collaborative research projects. We have an online platform which connects former colleagues, or students and their former supervisors to start projects together. The idea is to establish a concrete solidarity channel with academics all over the world, specifically, the ones who have been purged from their institutions, forced to resign, who are legally and politically persecuted and even imprisoned because of their opinion and research. We offer researchers, lecturers and students the chance to teach, share and produce knowledge away from government surveillance and repression via our safe online platform. Through such civic disobedience, it combines the good old ideal of academic freedom with state of the art digital communication and collaboration opportunities. Off-University\u2019s mission is based on its commitment to peace in the world and to living together in diversity. It therefore seeks to develop emancipatory education-research activities that are less hierarchical and more democratic!",
-                "description": "We want to build a worldwide online/offline community that is horizontal and inclusive by using new online teaching methodologies and interactive learning settings. We engage ourselves in online/offline group work activities by developing knowledge on online teaching methods with our lecturers and so on. We also want to create an autonomous community of lecturers and students online and offline as a university thrives on exchange and interaction outside of formal teaching hours. The idea is to establish a digital social place through online discussions and lecture series, and by increasing the visibility and legitimacy of our initiative, encouraging co-learning, student to student feedback and critical thinking.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 71,
-                    "code": "YTYWWK",
-                    "public_name": "Havle Guney",
-                    "biography": "Hi! I'm applying on behalf of Off-University where I'm working as a course assistant and a volunteer. \r\n\r\nMore about us: https://off-university.com/ \r\nOur online platform: https://coworkingsquares.de//de-DE/Login\r\n\r\nCheers!",
                     "answers": []
                   }
                 ],
@@ -13326,6 +13308,38 @@
               }
             ],
             "ChaosZone B\u00fchne": [
+              {
+                "id": 759,
+                "guid": "c8a7c2e7-a24f-5b47-a60e-0dadb819804d",
+                "logo": "/media/36c3/images/Q83NB8/classes.jpg",
+                "date": "2019-12-29T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "Q83NB8",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/Q83NB8/",
+                "title": "Solidarity with Academics on Exile: Off-University",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "en",
+                "abstract": "Off-University (Organization F\u00fcr den Frieden-University), a research collaboration which was established for and by persecuted academics from Turkey. It is a space for collaborative research projects. We have an online platform which connects former colleagues, or students and their former supervisors to start projects together. The idea is to establish a concrete solidarity channel with academics all over the world, specifically, the ones who have been purged from their institutions, forced to resign, who are legally and politically persecuted and even imprisoned because of their opinion and research. We offer researchers, lecturers and students the chance to teach, share and produce knowledge away from government surveillance and repression via our safe online platform. Through such civic disobedience, it combines the good old ideal of academic freedom with state of the art digital communication and collaboration opportunities. Off-University\u2019s mission is based on its commitment to peace in the world and to living together in diversity. It therefore seeks to develop emancipatory education-research activities that are less hierarchical and more democratic!",
+                "description": "We want to build a worldwide online/offline community that is horizontal and inclusive by using new online teaching methodologies and interactive learning settings. We engage ourselves in online/offline group work activities by developing knowledge on online teaching methods with our lecturers and so on. We also want to create an autonomous community of lecturers and students online and offline as a university thrives on exchange and interaction outside of formal teaching hours. The idea is to establish a digital social place through online discussions and lecture series, and by increasing the visibility and legitimacy of our initiative, encouraging co-learning, student to student feedback and critical thinking.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 71,
+                    "code": "YTYWWK",
+                    "public_name": "Havle Guney",
+                    "biography": "Hi! I'm applying on behalf of Off-University where I'm working as a course assistant and a volunteer. \r\n\r\nMore about us: https://off-university.com/ \r\nOur online platform: https://coworkingsquares.de//de-DE/Login\r\n\r\nCheers!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
               {
                 "id": 758,
                 "guid": "ed99a7b8-2ef8-56ee-8292-782864150f58",

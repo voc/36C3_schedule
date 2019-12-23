@@ -1,5 +1,5 @@
 <schedule>
-  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.5; komona 0.6; sendezentrum 2.1; lightning Neodymium</version>
+  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.1; lightning Neodymium</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3073,35 +3073,6 @@ variations on an equation.  Which shall we choose?</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="730" guid="8c9ec0e8-0e23-555d-92f3-1896d4612b6a">
-        <logo/>
-        <date>2019-12-27T13:45:00+01:00</date>
-        <start>13:45</start>
-        <duration>00:30</duration>
-        <room>ChaosZone Bühne</room>
-        <slug>8QBQZP</slug>
-        <url>https://cfp.chaoszone.cz/36c3/talk/8QBQZP/</url>
-        <title>Numerisches Python in der Physik</title>
-        <subtitle/>
-        <track/>
-        <type>Vortrag 30 min (incl. Q&amp;A)</type>
-        <language>de</language>
-        <abstract>Eine kleine Einführung in numerisches Python mit NumPy und SciPy.</abstract>
-        <description>Für alle die noch nicht wissen, dass sie es brauchen oder es schon immer mal benutzen wollten:  &#13;
-Ein kurzer Überblick der Möglichkeiten und Funktion von NumPy und SciPy (ohne Anspruch auf Vollständigkeit).  &#13;
-Dazu beispielhafte Anwendungsgebiete in der Forschung, anschaulich anhand eigener Beispielanwendungen im Kontext numerischer Physik.   &#13;
-Die kleine Einführung für Neulinge zum Anfangen und Interesse wecken! :)</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="41">Isabell</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="736" guid="791fd76f-3515-59e5-b342-dc3dafabb694">
         <logo>/media/36c3/images/V83NXN/Thumbnail-light.png</logo>
         <date>2019-12-27T15:00:00+01:00</date>
@@ -3127,6 +3098,35 @@ A part of the talk will be dedicated to writing Python add-ons (extensions) for 
         </recording>
         <persons>
           <person id="47">sarbes</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="730" guid="8c9ec0e8-0e23-555d-92f3-1896d4612b6a">
+        <logo/>
+        <date>2019-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>ChaosZone Bühne</room>
+        <slug>8QBQZP</slug>
+        <url>https://cfp.chaoszone.cz/36c3/talk/8QBQZP/</url>
+        <title>Numerisches Python in der Physik</title>
+        <subtitle/>
+        <track/>
+        <type>Vortrag 30 min (incl. Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Eine kleine Einführung in numerisches Python mit NumPy und SciPy.</abstract>
+        <description>Für alle die noch nicht wissen, dass sie es brauchen oder es schon immer mal benutzen wollten:  &#13;
+Ein kurzer Überblick der Möglichkeiten und Funktion von NumPy und SciPy (ohne Anspruch auf Vollständigkeit).  &#13;
+Dazu beispielhafte Anwendungsgebiete in der Forschung, anschaulich anhand eigener Beispielanwendungen im Kontext numerischer Physik.   &#13;
+Die kleine Einführung für Neulinge zum Anfangen und Interesse wecken! :)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="41">Isabell</person>
         </persons>
         <links/>
         <attachments/>
@@ -7246,6 +7246,8 @@ Auch wenn's erstmal sinnlos erscheint: Und auch wenn den Absendenden Anonymität
         </recording>
         <persons>
           <person id="130">Jürgen Kuri</person>
+          <person id="133">Merlin Schumacher</person>
+          <person id="134">Holger Bleich</person>
         </persons>
         <links/>
         <attachments/>
@@ -7987,32 +7989,6 @@ Dies umfasst, Auskunftsersuchen zu von euch gespeicherten persönlichen Daten. A
         <persons>
           <person id="46">Johannes Filter</person>
           <person id="73">Marko Makel</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="759" guid="c8a7c2e7-a24f-5b47-a60e-0dadb819804d">
-        <logo>/media/36c3/images/Q83NB8/classes.jpg</logo>
-        <date>2019-12-28T22:30:00+01:00</date>
-        <start>22:30</start>
-        <duration>00:30</duration>
-        <room>ChaosZone Bühne</room>
-        <slug>Q83NB8</slug>
-        <url>https://cfp.chaoszone.cz/36c3/talk/Q83NB8/</url>
-        <title>Solidarity with Academics on Exile: Off-University</title>
-        <subtitle/>
-        <track>Ethics, Society &amp; Politics</track>
-        <type>Vortrag 60min  (inkl. Q&amp;A)</type>
-        <language>en</language>
-        <abstract>Off-University (Organization Für den Frieden-University), a research collaboration which was established for and by persecuted academics from Turkey. It is a space for collaborative research projects. We have an online platform which connects former colleagues, or students and their former supervisors to start projects together. The idea is to establish a concrete solidarity channel with academics all over the world, specifically, the ones who have been purged from their institutions, forced to resign, who are legally and politically persecuted and even imprisoned because of their opinion and research. We offer researchers, lecturers and students the chance to teach, share and produce knowledge away from government surveillance and repression via our safe online platform. Through such civic disobedience, it combines the good old ideal of academic freedom with state of the art digital communication and collaboration opportunities. Off-University’s mission is based on its commitment to peace in the world and to living together in diversity. It therefore seeks to develop emancipatory education-research activities that are less hierarchical and more democratic!</abstract>
-        <description>We want to build a worldwide online/offline community that is horizontal and inclusive by using new online teaching methodologies and interactive learning settings. We engage ourselves in online/offline group work activities by developing knowledge on online teaching methods with our lecturers and so on. We also want to create an autonomous community of lecturers and students online and offline as a university thrives on exchange and interaction outside of formal teaching hours. The idea is to establish a digital social place through online discussions and lecture series, and by increasing the visibility and legitimacy of our initiative, encouraging co-learning, student to student feedback and critical thinking.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="71">Havle Guney</person>
         </persons>
         <links/>
         <attachments/>
@@ -12482,6 +12458,32 @@ We will provide a first, clumsy version of the tool and a list of datasets that 
       </event>
     </room>
     <room name="ChaosZone Bühne">
+      <event id="759" guid="c8a7c2e7-a24f-5b47-a60e-0dadb819804d">
+        <logo>/media/36c3/images/Q83NB8/classes.jpg</logo>
+        <date>2019-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>01:00</duration>
+        <room>ChaosZone Bühne</room>
+        <slug>Q83NB8</slug>
+        <url>https://cfp.chaoszone.cz/36c3/talk/Q83NB8/</url>
+        <title>Solidarity with Academics on Exile: Off-University</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Vortrag 60min  (inkl. Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Off-University (Organization Für den Frieden-University), a research collaboration which was established for and by persecuted academics from Turkey. It is a space for collaborative research projects. We have an online platform which connects former colleagues, or students and their former supervisors to start projects together. The idea is to establish a concrete solidarity channel with academics all over the world, specifically, the ones who have been purged from their institutions, forced to resign, who are legally and politically persecuted and even imprisoned because of their opinion and research. We offer researchers, lecturers and students the chance to teach, share and produce knowledge away from government surveillance and repression via our safe online platform. Through such civic disobedience, it combines the good old ideal of academic freedom with state of the art digital communication and collaboration opportunities. Off-University’s mission is based on its commitment to peace in the world and to living together in diversity. It therefore seeks to develop emancipatory education-research activities that are less hierarchical and more democratic!</abstract>
+        <description>We want to build a worldwide online/offline community that is horizontal and inclusive by using new online teaching methodologies and interactive learning settings. We engage ourselves in online/offline group work activities by developing knowledge on online teaching methods with our lecturers and so on. We also want to create an autonomous community of lecturers and students online and offline as a university thrives on exchange and interaction outside of formal teaching hours. The idea is to establish a digital social place through online discussions and lecture series, and by increasing the visibility and legitimacy of our initiative, encouraging co-learning, student to student feedback and critical thinking.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="71">Havle Guney</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="758" guid="ed99a7b8-2ef8-56ee-8292-782864150f58">
         <logo>/media/36c3/images/J839PV/Google_Women_Cloud_293_neu.jpg</logo>
         <date>2019-12-29T14:00:00+01:00</date>

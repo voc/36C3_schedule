@@ -1,5 +1,5 @@
 <schedule>
-  <version>dd; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Praseodymium; wiki 2019-12-23 15:10</version>
+  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Praseodymium; wiki 2019-12-23 15:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -8695,6 +8695,29 @@ Palettenweise Diskussionsbedarf? Noch ein paar Kisten voller Ideen? Wir bauen Di
         </persons>
         <links/>
       </event>
+      <event id="1310" guid="e59e2c7c-0522-4698-af53-81dccebd3e85">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:NO_Unitary_Software_Patents</url>
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1310-session_no_unitary_software_patents</slug>
+        <title>NO Unitary Software Patents</title>
+        <subtitle>NO Unitary Software Patents</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>EU Software Patents v3.0
+The Unitary Patent is the third attempt to impose software patents in Europe. Software patents are a threat to small- and medium-sized software companies that cannot defend themselves. The UPC (Unified Patent Court) is an international court made outside of the European Union (EU), which would have the last word over the question of software patenting. The Court would favour “patent trolls” which steal our jobs and extort money.</description>
+        <persons>
+          <person id="0">Zoobab</person>
+        </persons>
+        <links>
+          <link>https://www.ffii.org</link>
+        </links>
+      </event>
       <event id="1095" guid="04353a77-a338-4644-b705-da821c790a1a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Origami</url>
         <logo/>
@@ -15842,6 +15865,33 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
       </event>
     </room>
     <room name="OIO Stage">
+      <event id="392" guid="890b2813-ef91-586d-a738-ce01b4b93861">
+        <logo>/media/36c3-oio/images/V7HNKR/Screenshot_from_2019-12-18_17-29-47_qVAm402.png</logo>
+        <date>2019-12-29T14:45:00+01:00</date>
+        <start>14:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>V7HNKR</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/V7HNKR/</url>
+        <title>Open Source Hardware in industry – meet DIN SPEC 3105</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Compared to software, the open source approach is relatively new to most actors in the field of (mechanical) hardware. Plus Open Source Hardware faces some special issues. A yet missing definition of its "source code" is one of them (+ patent law, liability, engineers that do not know how to work with git, costly prototyping…).&#13;
+DIN SPEC 3105 will be/is the first official standard for Open Source Hardware and also the first official standard ever published under a free license (CC-BY-SA 4.0; that was a lot of lobby work ;) ). It defines the technology-specific "source" of Open Source Hardware and aims to build a bridge between research institutes, public authority, industry and the worldwide open source community.</abstract>
+        <description>In this talk I won't explain why Open Source (Hardware) is great. I assume, you all know that (if not, still feel free to ask me in the Q&amp;A part or after the talk). I'll describe what's the standard for, how it works and why its great _for_ Open Source Hardware.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="156">Martin Häuer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="363" guid="a3f9136b-fa32-504d-a762-438d5141ac74">
         <logo/>
         <date>2019-12-29T16:10:00+01:00</date>

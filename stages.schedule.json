@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "dd; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Praseodymium",
+    "version": "dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Praseodymium",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -12040,6 +12040,38 @@
               }
             ],
             "OIO Stage": [
+              {
+                "id": 392,
+                "guid": "890b2813-ef91-586d-a738-ce01b4b93861",
+                "logo": "/media/36c3-oio/images/V7HNKR/Screenshot_from_2019-12-18_17-29-47_qVAm402.png",
+                "date": "2019-12-29T14:45:00+01:00",
+                "start": "14:45",
+                "duration": "00:25",
+                "room": "OIO Stage",
+                "slug": "V7HNKR",
+                "url": "https://talks.oio.social/36c3-oio/talk/V7HNKR/",
+                "title": "Open Source Hardware in industry \u2013 meet DIN SPEC 3105",
+                "subtitle": "",
+                "track": "Resilience & Sustainability",
+                "type": "Talk 20 minutes + 5 minutes Q&A",
+                "language": "en",
+                "abstract": "Compared to software, the open source approach is relatively new to most actors in the field of (mechanical) hardware. Plus Open Source Hardware faces some special issues. A yet missing definition of its \"source code\" is one of them (+ patent law, liability, engineers that do not know how to work with git, costly prototyping\u2026).\r\nDIN SPEC 3105 will be/is the first official standard for Open Source Hardware and also the first official standard ever published under a free license (CC-BY-SA 4.0; that was a lot of lobby work ;) ). It defines the technology-specific \"source\" of Open Source Hardware and aims to build a bridge between research institutes, public authority, industry and the worldwide open source community.",
+                "description": "In this talk I won't explain why Open Source (Hardware) is great. I assume, you all know that (if not, still feel free to ask me in the Q&A part or after the talk). I'll describe what's the standard for, how it works and why its great _for_ Open Source Hardware.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 156,
+                    "code": "TSVPK8",
+                    "public_name": "Martin H\u00e4uer",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
               {
                 "id": 363,
                 "guid": "a3f9136b-fa32-504d-a762-438d5141ac74",

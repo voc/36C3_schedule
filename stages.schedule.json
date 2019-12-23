@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "dd; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2; lightning Praseodymium",
+    "version": "dd; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Praseodymium",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -7480,22 +7480,22 @@
             ],
             "DLF- und Podcast-B\u00fchne": [
               {
-                "id": 1022,
-                "guid": "a66747f4-eb91-57ea-b05a-07f3162bc0c0",
+                "id": 1023,
+                "guid": "f79d565b-cd45-58ec-bfda-f9d30bc49a67",
                 "logo": "",
                 "date": "2019-12-28T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
                 "room": "DLF- und Podcast-B\u00fchne",
-                "slug": "A7LAEE",
-                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/A7LAEE/",
-                "title": "#heiseshow - das Netz am Ende eines Jahrzehnts",
+                "slug": "8SBP3N",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/8SBP3N/",
+                "title": "c't Uplink",
                 "subtitle": "",
                 "track": "DLF- und Podcast-B\u00fchne",
                 "type": "Normale L\u00e4nge",
                 "language": "en",
-                "abstract": "Immer donnerstags um 12 Uhr diskutieren wir in der #heiseshow mit G\u00e4sten \u00fcber aktuelle Ereignisse aus der Hightech-Welt und der Netzpolitik und sind diesmal auf dem 36c3 dabei.",
-                "description": "Nicht nur das Jahr, auch ein ganzes Jahrzehnt neigt sich dem Ende zu. Die heiseshow auf dem 36C3 nehmen wir zum Anlass, R\u00fcck- genauso wie Vorschau zu halten auf verloren geglaubte Netzutopien zwischen \u00dcberwachungsstaat, digitaler Kriminalit\u00e4t, Freiheitshoffnungen und gesellschaftlichem Wandel.",
+                "abstract": "Mitglieder der c't-Redaktion diskutieren \u00fcber Themen aus dem Heft und was sonst noch so in der IT-Welt passiert.",
+                "description": "Mitglieder der c't-Redaktion diskutieren \u00fcber Themen aus dem Heft und was sonst noch so in der IT-Welt passiert - dieses Jahr auch auf dem 36c3!",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -12277,22 +12277,22 @@
             ],
             "DLF- und Podcast-B\u00fchne": [
               {
-                "id": 1023,
-                "guid": "f79d565b-cd45-58ec-bfda-f9d30bc49a67",
+                "id": 1022,
+                "guid": "a66747f4-eb91-57ea-b05a-07f3162bc0c0",
                 "logo": "",
                 "date": "2019-12-29T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
                 "room": "DLF- und Podcast-B\u00fchne",
-                "slug": "8SBP3N",
-                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/8SBP3N/",
-                "title": "c't Uplink",
+                "slug": "A7LAEE",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/A7LAEE/",
+                "title": "#heiseshow - das Netz am Ende eines Jahrzehnts",
                 "subtitle": "",
                 "track": "DLF- und Podcast-B\u00fchne",
                 "type": "Normale L\u00e4nge",
                 "language": "en",
-                "abstract": "Mitglieder der c't-Redaktion diskutieren \u00fcber Themen aus dem Heft und was sonst noch so in der IT-Welt passiert.",
-                "description": "Mitglieder der c't-Redaktion diskutieren \u00fcber Themen aus dem Heft und was sonst noch so in der IT-Welt passiert - dieses Jahr auch auf dem 36c3!",
+                "abstract": "Immer donnerstags um 12 Uhr diskutieren wir in der #heiseshow mit G\u00e4sten \u00fcber aktuelle Ereignisse aus der Hightech-Welt und der Netzpolitik und sind diesmal auf dem 36c3 dabei.",
+                "description": "Nicht nur das Jahr, auch ein ganzes Jahrzehnt neigt sich dem Ende zu. Die heiseshow auf dem 36C3 nehmen wir zum Anlass, R\u00fcck- genauso wie Vorschau zu halten auf verloren geglaubte Netzutopien zwischen \u00dcberwachungsstaat, digitaler Kriminalit\u00e4t, Freiheitshoffnungen und gesellschaftlichem Wandel.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -12300,6 +12300,13 @@
                     "id": 130,
                     "code": "MWBW9E",
                     "public_name": "J\u00fcrgen Kuri",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 131,
+                    "code": "REHXPS",
+                    "public_name": "Martin Holland",
                     "biography": null,
                     "answers": []
                   }

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-23 18:10</version>
+  <version>2019-12-23 18:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -985,6 +985,31 @@ Tor operator meetup, anyone currently operating any Tor infrastructure or anyone
         </persons>
         <links>
           <link>https://www.bierstrasse-franken.de/</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:C3blind">
+      <event id="1312" guid="b92412f9-7947-490f-b490-a5fe0ba013d1">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:C3blind_community_meetup</url>
+        <logo/>
+        <date>2019-12-27T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>1:30</duration>
+        <room>Assembly:C3blind</room>
+        <slug>36c3-1312-session_c3blind_community_meetup</slug>
+        <title>C3blind community meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's get to know each other and discuss c3blind's future!
+Get to know the other blind/visually impaired individuals at this year's Chaos Communication Congress.As it is c3blind's first year in existence, we would also like to discuss the future of the project/assembly/team and what we can do on future Chaos events to spread the word on blindness.</description>
+        <persons>
+          <person id="0">Nwng</person>
+        </persons>
+        <links>
+          <link>https://c3blind.de/</link>
         </links>
       </event>
     </room>

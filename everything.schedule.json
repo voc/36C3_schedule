@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Neodymium; wiki 2019-12-23 18:10",
+    "version": "dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Neodymium; wiki 2019-12-23 18:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -5334,6 +5334,36 @@
                 ],
                 "links": [
                   "https://www.bierstrasse-franken.de/"
+                ]
+              }
+            ],
+            "Assembly:C3blind": [
+              {
+                "id": 1312,
+                "guid": "b92412f9-7947-490f-b490-a5fe0ba013d1",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:C3blind_community_meetup",
+                "logo": null,
+                "date": "2019-12-27T19:30:00+01:00",
+                "start": "19:30",
+                "duration": "1:30",
+                "room": "Assembly:C3blind",
+                "slug": "36c3-1312-session_c3blind_community_meetup",
+                "title": "C3blind community meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's get to know each other and discuss c3blind's future!\nGet to know the other blind/visually impaired individuals at this year's Chaos Communication Congress.As it is c3blind's first year in existence, we would also like to discuss the future of the project/assembly/team and what we can do on future Chaos events to spread the word on blindness.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Nwng",
+                    "public_name": "Nwng"
+                  }
+                ],
+                "links": [
+                  "https://c3blind.de/"
                 ]
               }
             ],

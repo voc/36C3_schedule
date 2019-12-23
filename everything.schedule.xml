@@ -1,5 +1,5 @@
 <schedule>
-  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; art-play 0.15; lightning Neodymium; wiki 2019-12-23 21:40</version>
+  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.15; wiki 2019-12-23 22:24</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3360,7 +3360,7 @@ Bern University of Applied Sciences.</abstract>
       </event>
     </room>
     <room name="DLF- und Podcast-Bühne">
-      <event id="1008" guid="90f17f11-0bd2-52ae-b2db-b3c4fa7ca298">
+      <event id="908" guid="90f17f11-0bd2-52ae-b2db-b3c4fa7ca298">
         <logo/>
         <date>2019-12-27T19:15:00+01:00</date>
         <start>19:15</start>
@@ -3386,7 +3386,7 @@ Bern University of Applied Sciences.</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="1009" guid="27405d5b-3715-5b98-977a-6e9319f1c0a3">
+      <event id="909" guid="27405d5b-3715-5b98-977a-6e9319f1c0a3">
         <logo/>
         <date>2019-12-27T20:30:00+01:00</date>
         <start>20:30</start>
@@ -3413,7 +3413,7 @@ Bern University of Applied Sciences.</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="998" guid="75423a6d-f926-5ae9-b905-68c22c275d90">
+      <event id="898" guid="75423a6d-f926-5ae9-b905-68c22c275d90">
         <logo/>
         <date>2019-12-27T21:45:00+01:00</date>
         <start>21:45</start>
@@ -3443,7 +3443,7 @@ Wer auch ein E Auto hat oder sich über ERoller aufregen will darf gerne dazukom
         <attachments/>
         <answers/>
       </event>
-      <event id="1015" guid="b7fa2545-0034-52d7-802b-fd756c97c5cb">
+      <event id="915" guid="b7fa2545-0034-52d7-802b-fd756c97c5cb">
         <logo/>
         <date>2019-12-27T23:00:00+01:00</date>
         <start>23:00</start>
@@ -3474,7 +3474,7 @@ Jenny Günther ist Politpodcasterin mit Herz, Moritz Klenk ist Monologpodcaster 
         <attachments/>
         <answers/>
       </event>
-      <event id="1016" guid="e82ff951-9420-54a2-afd1-3596d9cfed4e">
+      <event id="916" guid="e82ff951-9420-54a2-afd1-3596d9cfed4e">
         <logo>/media/36c3/images/P3M9YV/fish_Kopie.jpg</logo>
         <date>2019-12-28T00:40:00+01:00</date>
         <start>00:40</start>
@@ -3500,105 +3500,6 @@ Wir möchten uns darüber austauschen, wie Wissenschaft unserer Meinung nach kom
           <person id="83">Anna Müllner</person>
           <person id="113">André Lampe</person>
           <person id="114">Nicolas</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="OIO Workshop Dome">
-      <event id="367" guid="81f5f0c4-3d35-522c-8f1c-c8825b92f00a">
-        <logo/>
-        <date>2019-12-27T16:10:00+01:00</date>
-        <start>16:10</start>
-        <duration>02:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>SRMX8W</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/SRMX8W/</url>
-        <title>Beginners Workshop: How to Hack your Web Application</title>
-        <subtitle/>
-        <track>Security</track>
-        <type>Workshop 2 hours</type>
-        <language>en</language>
-        <abstract>Did you ever want to know how hacking works? This beginners workshops gives an introduction into vulnerabilities, application pen testing and the security of web applications. Only if you know how hackers attack your application, you will be able to defend yourself. Nearly all companies use web applications nowadays. Any vulnerability in those applications may be an invitation for hackers to attack it. This workshop will give you insights on those things that you should never neglect when programming your application. From Techie to Techie!&#13;
-&#13;
-Requirements: programming experience &amp; laptop needed, security knowledge is not necessary</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="136">Janosch Maier</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="342" guid="d979082b-5377-513a-a84b-c3f0bb3f85e2">
-        <logo>/media/36c3-oio/images/NTFYAL/nachbar-und-meshnetz_DRZyVof.gif</logo>
-        <date>2019-12-27T18:35:00+01:00</date>
-        <start>18:35</start>
-        <duration>04:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>NTFYAL</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/NTFYAL/</url>
-        <title>Alpha Testing of qaul.net (Internet independent wifi mesh communication App)</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Workshop 4 hours</type>
-        <language>en</language>
-        <abstract>Test with us our new alpha version of the</abstract>
-        <description>qaul.net is an Internet independent wifi mesh communication app with fully decentralized messaging, file sharing and voice chat. At the moment we are rewriting the entire application in rust, implementing our experience of 8 years off the grid peer2peer mesh communication, with a mobile first approach and a network agnostic routing protocoll wich can do synchronous as well as delay tolerant messaging.&#13;
-&#13;
-In this workshop we will test the (pre-)alpha version together, install it, test the functionality and communicate off the grid. We will explore our new routing protocol and the wireless interconnection possibilities.&#13;
-&#13;
-* Homepage: https://qaul.net&#13;
-* Code Repository: https://git.open-communication.net/qaul/qaul.net</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="120">Mathias Jud</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="OIO Solder Area">
-      <event id="390" guid="4f5c1cc5-ad99-52dc-89cd-699eae66bcb8">
-        <logo/>
-        <date>2019-12-27T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>02:00</duration>
-        <room>OIO Solder Area</room>
-        <slug>3KNRHJ</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/3KNRHJ/</url>
-        <title>Löten für Einsteiger</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Solder Workshop 2h</type>
-        <language>de</language>
-        <abstract>Löten für Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem Lötkolben nach Huhn?</abstract>
-        <description>Wir wollen uns in den zwei Stunden die Grundlagen des Lötens erarbeiten. Also welcher Lötkolben oder Lötstation, welches Material, welches Zubehör ist notwendig und sinnvoll? &#13;
-&#13;
-Was tun wir? &#13;
-- Handhabung Pflege und des Lötwerkzeugs&#13;
-- einfache Lötübungen&#13;
-- Löten auf Leiterplatten&#13;
-- Löten mit Drähten und Bauteilen&#13;
-&#13;
-Während des Workshops können auch selbst mitgebrachte Bausätze zusammengelötet werden.&#13;
-&#13;
-Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="154">Stefan, DK6TM</person>
         </persons>
         <links/>
         <attachments/>
@@ -3905,6 +3806,105 @@ variations on an equation.  Which shall we choose?</description>
         </recording>
         <persons>
           <person id="67">Julia</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Workshop Dome">
+      <event id="367" guid="81f5f0c4-3d35-522c-8f1c-c8825b92f00a">
+        <logo/>
+        <date>2019-12-27T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>SRMX8W</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/SRMX8W/</url>
+        <title>Beginners Workshop: How to Hack your Web Application</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Workshop 2 hours</type>
+        <language>en</language>
+        <abstract>Did you ever want to know how hacking works? This beginners workshops gives an introduction into vulnerabilities, application pen testing and the security of web applications. Only if you know how hackers attack your application, you will be able to defend yourself. Nearly all companies use web applications nowadays. Any vulnerability in those applications may be an invitation for hackers to attack it. This workshop will give you insights on those things that you should never neglect when programming your application. From Techie to Techie!&#13;
+&#13;
+Requirements: programming experience &amp; laptop needed, security knowledge is not necessary</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="136">Janosch Maier</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="342" guid="d979082b-5377-513a-a84b-c3f0bb3f85e2">
+        <logo>/media/36c3-oio/images/NTFYAL/nachbar-und-meshnetz_DRZyVof.gif</logo>
+        <date>2019-12-27T18:35:00+01:00</date>
+        <start>18:35</start>
+        <duration>04:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>NTFYAL</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/NTFYAL/</url>
+        <title>Alpha Testing of qaul.net (Internet independent wifi mesh communication App)</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 4 hours</type>
+        <language>en</language>
+        <abstract>Test with us our new alpha version of the</abstract>
+        <description>qaul.net is an Internet independent wifi mesh communication app with fully decentralized messaging, file sharing and voice chat. At the moment we are rewriting the entire application in rust, implementing our experience of 8 years off the grid peer2peer mesh communication, with a mobile first approach and a network agnostic routing protocoll wich can do synchronous as well as delay tolerant messaging.&#13;
+&#13;
+In this workshop we will test the (pre-)alpha version together, install it, test the functionality and communicate off the grid. We will explore our new routing protocol and the wireless interconnection possibilities.&#13;
+&#13;
+* Homepage: https://qaul.net&#13;
+* Code Repository: https://git.open-communication.net/qaul/qaul.net</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="120">Mathias Jud</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Solder Area">
+      <event id="390" guid="4f5c1cc5-ad99-52dc-89cd-699eae66bcb8">
+        <logo/>
+        <date>2019-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+        <room>OIO Solder Area</room>
+        <slug>3KNRHJ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/3KNRHJ/</url>
+        <title>Löten für Einsteiger</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Solder Workshop 2h</type>
+        <language>de</language>
+        <abstract>Löten für Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem Lötkolben nach Huhn?</abstract>
+        <description>Wir wollen uns in den zwei Stunden die Grundlagen des Lötens erarbeiten. Also welcher Lötkolben oder Lötstation, welches Material, welches Zubehör ist notwendig und sinnvoll? &#13;
+&#13;
+Was tun wir? &#13;
+- Handhabung Pflege und des Lötwerkzeugs&#13;
+- einfache Lötübungen&#13;
+- Löten auf Leiterplatten&#13;
+- Löten mit Drähten und Bauteilen&#13;
+&#13;
+Während des Workshops können auch selbst mitgebrachte Bausätze zusammengelötet werden.&#13;
+&#13;
+Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="154">Stefan, DK6TM</person>
         </persons>
         <links/>
         <attachments/>
@@ -4667,7 +4667,7 @@ https://www.hkw.de/en/programm/projekte/veranstaltung/p_163517.php</abstract>
       </event>
     </room>
     <room name="Sendetisch">
-      <event id="985" guid="fa998bfb-5afc-58d8-8061-92d6ebbd6f94">
+      <event id="885" guid="fa998bfb-5afc-58d8-8061-92d6ebbd6f94">
         <logo>/media/36c3/images/BRYUP8/_q-RxbLK.jpg</logo>
         <date>2019-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -4693,7 +4693,7 @@ https://www.hkw.de/en/programm/projekte/veranstaltung/p_163517.php</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="1021" guid="119745c4-f259-59e0-b4a0-46667b1d3c1c">
+      <event id="921" guid="119745c4-f259-59e0-b4a0-46667b1d3c1c">
         <logo/>
         <date>2019-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -4719,7 +4719,7 @@ https://www.hkw.de/en/programm/projekte/veranstaltung/p_163517.php</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="1004" guid="785cbf4d-271a-53eb-8c98-07bba0481ec6">
+      <event id="904" guid="785cbf4d-271a-53eb-8c98-07bba0481ec6">
         <logo>/media/36c3/images/7FRE9C/nerdraummetaspace.png</logo>
         <date>2019-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -4749,7 +4749,7 @@ In Folge 0 spricht holm mit Vertretern der saarlaendischen Gruppen ueber seine I
         <attachments/>
         <answers/>
       </event>
-      <event id="1002" guid="29c02d5a-b820-592e-a014-262cf771302f">
+      <event id="902" guid="29c02d5a-b820-592e-a014-262cf771302f">
         <logo>/media/36c3/images/MEPEVB/akronymisierbar.jpg</logo>
         <date>2019-12-27T20:30:00+01:00</date>
         <start>20:30</start>
@@ -4776,7 +4776,7 @@ In Folge 0 spricht holm mit Vertretern der saarlaendischen Gruppen ueber seine I
         <attachments/>
         <answers/>
       </event>
-      <event id="983" guid="dbd73362-9959-5303-8466-8a3d5bde653c">
+      <event id="883" guid="dbd73362-9959-5303-8466-8a3d5bde653c">
         <logo>/media/36c3/images/EKFJUY/star_wars_crossover_podcast.png</logo>
         <date>2019-12-27T22:00:00+01:00</date>
         <start>22:00</start>
@@ -4806,7 +4806,7 @@ In Folge 0 spricht holm mit Vertretern der saarlaendischen Gruppen ueber seine I
         <attachments/>
         <answers/>
       </event>
-      <event id="990" guid="f614c0b7-ba66-574d-aa9b-c90596ee5fc3">
+      <event id="890" guid="f614c0b7-ba66-574d-aa9b-c90596ee5fc3">
         <logo>/media/36c3/images/DEBQLR/star_wars_crossover_podcast.png</logo>
         <date>2019-12-27T23:00:00+01:00</date>
         <start>23:00</start>
@@ -4838,7 +4838,7 @@ In Folge 0 spricht holm mit Vertretern der saarlaendischen Gruppen ueber seine I
       </event>
     </room>
     <room name="Bus">
-      <event id="1101" guid="3116cdf0-4719-5f50-b84b-4138e9955e63">
+      <event id="4101" guid="3116cdf0-4719-5f50-b84b-4138e9955e63">
         <logo/>
         <date>2019-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -4866,7 +4866,7 @@ With a mix of some unforgotten classics and beautiful modern pieces we hope to s
         <attachments/>
         <answers/>
       </event>
-      <event id="1102" guid="3cc14411-405f-546b-b953-d57e99e53f1d">
+      <event id="4102" guid="3cc14411-405f-546b-b953-d57e99e53f1d">
         <logo>/media/36c3/images/HUEK8V/himiko__web.jpg</logo>
         <date>2019-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -4892,7 +4892,7 @@ With a mix of some unforgotten classics and beautiful modern pieces we hope to s
         <attachments/>
         <answers/>
       </event>
-      <event id="1103" guid="3ed5569d-f340-57c3-84cf-3695ed8eb1c5">
+      <event id="4103" guid="3ed5569d-f340-57c3-84cf-3695ed8eb1c5">
         <logo>/media/36c3/images/MVMP79/team_intim__web.jpg</logo>
         <date>2019-12-27T22:00:00+01:00</date>
         <start>22:00</start>
@@ -4918,7 +4918,7 @@ With a mix of some unforgotten classics and beautiful modern pieces we hope to s
         <attachments/>
         <answers/>
       </event>
-      <event id="1104" guid="790d44c3-d492-56d4-941a-492822a28877">
+      <event id="4104" guid="790d44c3-d492-56d4-941a-492822a28877">
         <logo>/media/36c3/images/WECQ3C/Schaltkreis_Musik_gro%C3%9F__web.jpg</logo>
         <date>2019-12-27T23:30:00+01:00</date>
         <start>23:30</start>
@@ -10026,7 +10026,7 @@ Auch wenn's erstmal sinnlos erscheint: Und auch wenn den Absendenden Anonymität
       </event>
     </room>
     <room name="DLF- und Podcast-Bühne">
-      <event id="1023" guid="f79d565b-cd45-58ec-bfda-f9d30bc49a67">
+      <event id="923" guid="f79d565b-cd45-58ec-bfda-f9d30bc49a67">
         <logo/>
         <date>2019-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -10056,7 +10056,7 @@ Auch wenn's erstmal sinnlos erscheint: Und auch wenn den Absendenden Anonymität
         <attachments/>
         <answers/>
       </event>
-      <event id="984" guid="dd6a2fc4-e175-5f73-8387-8ebc3f85e603">
+      <event id="884" guid="dd6a2fc4-e175-5f73-8387-8ebc3f85e603">
         <logo>/media/36c3/images/UXVNEN/zk018.jpg</logo>
         <date>2019-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -10083,7 +10083,7 @@ Wir freuen uns vor allem über konkrete Fragen aus dem Publikum.</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="999" guid="21bfbba9-ccd3-5430-85fb-cc7226e5349a">
+      <event id="899" guid="21bfbba9-ccd3-5430-85fb-cc7226e5349a">
         <logo>/media/36c3/images/LZ8SR8/UA_Pod_Bild_mono.jpg</logo>
         <date>2019-12-28T19:15:00+01:00</date>
         <start>19:15</start>
@@ -10110,7 +10110,7 @@ Wird der Ausschuss wahrgenommen? Wie ist der Eindruck der Behörden? Wieviel Cou
         <attachments/>
         <answers/>
       </event>
-      <event id="1012" guid="7f29cf66-de8b-59c8-8df9-0fefa9a24364">
+      <event id="912" guid="7f29cf66-de8b-59c8-8df9-0fefa9a24364">
         <logo>/media/36c3/images/ZYJXVP/NPP186-OffTheRecord-mp3-image.jpg</logo>
         <date>2019-12-28T20:30:00+01:00</date>
         <start>20:30</start>
@@ -10136,7 +10136,7 @@ Wird der Ausschuss wahrgenommen? Wie ist der Eindruck der Behörden? Wieviel Cou
         <attachments/>
         <answers/>
       </event>
-      <event id="1010" guid="78f23d24-3e17-53a6-8cbc-5ffc5fd0226c">
+      <event id="910" guid="78f23d24-3e17-53a6-8cbc-5ffc5fd0226c">
         <logo>/media/36c3/images/78BJ3S/RR_Cover.jpeg</logo>
         <date>2019-12-28T21:45:00+01:00</date>
         <start>21:45</start>
@@ -10166,7 +10166,7 @@ Hi, ich bin Becci (@genderbeitrag) und veranstalte mittlerweile traditionell auf
         <attachments/>
         <answers/>
       </event>
-      <event id="1013" guid="415adc17-f5d6-5ad3-9989-ca0fcf723090">
+      <event id="913" guid="415adc17-f5d6-5ad3-9989-ca0fcf723090">
         <logo/>
         <date>2019-12-28T23:00:00+01:00</date>
         <start>23:00</start>
@@ -10187,146 +10187,6 @@ Hi, ich bin Becci (@genderbeitrag) und veranstalte mittlerweile traditionell auf
         </recording>
         <persons>
           <person id="84">Advi</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="OIO Workshop Dome">
-      <event id="347" guid="bf48fa55-92a1-5481-a14a-f77cc0d4fccb">
-        <logo/>
-        <date>2019-12-28T11:30:00+01:00</date>
-        <start>11:30</start>
-        <duration>01:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>FU3ZZE</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/FU3ZZE/</url>
-        <title>Nudeln hacken - Wettbewerb für Junghacker von 5 Jahren bis ∞</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Workshop 1 hour</type>
-        <language>de</language>
-        <abstract>Spaß am Gerät: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, können alleine oder als Team kommen. Es kann jeder mitmachen, der weiß, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene dürfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="74">Stefan Safari</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="348" guid="c4bd3614-30a5-5739-a7f6-6880be23709b">
-        <logo/>
-        <date>2019-12-28T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>01:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>RW3HCE</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/RW3HCE/</url>
-        <title>Trotz Schule die Zukunft meistern? - Mitmach-Workshop für Menschen von 10-100 Jahre</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Workshop 1 hour</type>
-        <language>en</language>
-        <abstract>In einem Workshop überlegen Schüler*innen gemeinsam mit anderen, wie man sich auf Berufe vorbereitet, die es heute noch gar nicht gibt. Und warum das eigene Smartphone- und Social-Media-Verhalten einem die Zukunft rettet statt sie zu vergeigen.</abstract>
-        <description>Die Schüler*innen von heute werden später Jobs machen, von denen es 65% heute noch gar nicht gibt - sagt eine Studie, der OECD. Die OECD hat auch Thesen aufgestellt worauf es in der Zukunft ankommt. Da werden Punkte wie "Problem lösen/kritisches Denken" oder "Kreativität" genannt und persönliche Eigentschaften wie "Neugierde", "Initiative" oder "Ausdauer/Entschlossenheit" aufgelistet. Bereitet einen die Schule wirklich auf so was vor, oder sind die Lernwelten nicht viel größer. Wie ist ein Besuch des 36C3 einzuordnen? Wie "wird man neugierig"?&#13;
-&#13;
-Der Workshop wird besonders lebendig, wenn verschiedene Altergruppen/ Generationen teilnehmen. Wenn es allerdings eng im Raum wird, werden Schüler*innen bevorzugt.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="74">Stefan Safari</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="347" guid="bf48fa55-92a1-5481-a14a-f77cc0d4fccb">
-        <logo/>
-        <date>2019-12-28T15:30:00+01:00</date>
-        <start>15:30</start>
-        <duration>01:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>FU3ZZE</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/FU3ZZE/</url>
-        <title>Nudeln hacken - Wettbewerb für Junghacker von 5 Jahren bis ∞</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Workshop 1 hour</type>
-        <language>de</language>
-        <abstract>Spaß am Gerät: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, können alleine oder als Team kommen. Es kann jeder mitmachen, der weiß, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene dürfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="74">Stefan Safari</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="375" guid="5634bc77-b6ad-52ae-88c5-c059cfcebb8e">
-        <logo/>
-        <date>2019-12-28T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>02:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>TZBSSE</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/TZBSSE/</url>
-        <title>SDR kennenlernen</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Workshop 2 hours</type>
-        <language>de</language>
-        <abstract>Software Defined Radios in Kombination mit open source tools erlauben es einfach anspruchsvolle aufgeben umzusetzen. Nach einer kurzen theoretischen Engführung kann sich jeder an verschieden Beispielen versuchen Signale zu empfangen und zu dekodiren.</abstract>
-        <description>Vom FM Radio bis hin zu z.B. Wlan frames wollen wir uns verscheide Dinge anschauen. Wer es kann bitte einen Laptop mitbringen um eigenständig arbeiten zu können. English speakers can also attend but may have to wait a bit for there instructions.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="135">Lars Rokita</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="353" guid="c05054ed-aca8-5d2f-814c-0d6e8851d96e">
-        <logo>/media/36c3-oio/images/CTQSQ8/meetup_1920_7FtptxA.png</logo>
-        <date>2019-12-28T20:30:00+01:00</date>
-        <start>20:30</start>
-        <duration>02:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>CTQSQ8</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/CTQSQ8/</url>
-        <title>Open Communication Meetup! - Decentralized Social Networks</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Workshop 2 hours</type>
-        <language>en</language>
-        <abstract>We will test, discuss and document decentralized and off the grid social networks, such as secure scuttlebutt SSCB.</abstract>
-        <description>The goal behind [open-communication.net](https://open-communication.net) is to build a knowledge base on open decentralized communication tools. This is done collectively and collaboratively in 'Open Communication Meetups'.&#13;
-&#13;
-In this meetup we will test, discuss and document existing decentralized and off-the-grid social networks, such as [secure scuttlebutt](https://scuttlebutt.nz/). &#13;
-&#13;
-Please bring your laptops and digital devices in order to collectively test the projects!&#13;
-&#13;
-https://open-communication.net</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="120">Mathias Jud</person>
         </persons>
         <links/>
         <attachments/>
@@ -10522,6 +10382,146 @@ Du kannst dich zum mitspielen bewerben oder mithelfen - auch als Erwachsene\*r. 
         </recording>
         <persons>
           <person id="64">nwng</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Workshop Dome">
+      <event id="347" guid="bf48fa55-92a1-5481-a14a-f77cc0d4fccb">
+        <logo/>
+        <date>2019-12-28T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>FU3ZZE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/FU3ZZE/</url>
+        <title>Nudeln hacken - Wettbewerb für Junghacker von 5 Jahren bis ∞</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 1 hour</type>
+        <language>de</language>
+        <abstract>Spaß am Gerät: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, können alleine oder als Team kommen. Es kann jeder mitmachen, der weiß, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene dürfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="74">Stefan Safari</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="348" guid="c4bd3614-30a5-5739-a7f6-6880be23709b">
+        <logo/>
+        <date>2019-12-28T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>RW3HCE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/RW3HCE/</url>
+        <title>Trotz Schule die Zukunft meistern? - Mitmach-Workshop für Menschen von 10-100 Jahre</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 1 hour</type>
+        <language>en</language>
+        <abstract>In einem Workshop überlegen Schüler*innen gemeinsam mit anderen, wie man sich auf Berufe vorbereitet, die es heute noch gar nicht gibt. Und warum das eigene Smartphone- und Social-Media-Verhalten einem die Zukunft rettet statt sie zu vergeigen.</abstract>
+        <description>Die Schüler*innen von heute werden später Jobs machen, von denen es 65% heute noch gar nicht gibt - sagt eine Studie, der OECD. Die OECD hat auch Thesen aufgestellt worauf es in der Zukunft ankommt. Da werden Punkte wie "Problem lösen/kritisches Denken" oder "Kreativität" genannt und persönliche Eigentschaften wie "Neugierde", "Initiative" oder "Ausdauer/Entschlossenheit" aufgelistet. Bereitet einen die Schule wirklich auf so was vor, oder sind die Lernwelten nicht viel größer. Wie ist ein Besuch des 36C3 einzuordnen? Wie "wird man neugierig"?&#13;
+&#13;
+Der Workshop wird besonders lebendig, wenn verschiedene Altergruppen/ Generationen teilnehmen. Wenn es allerdings eng im Raum wird, werden Schüler*innen bevorzugt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="74">Stefan Safari</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="347" guid="bf48fa55-92a1-5481-a14a-f77cc0d4fccb">
+        <logo/>
+        <date>2019-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>FU3ZZE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/FU3ZZE/</url>
+        <title>Nudeln hacken - Wettbewerb für Junghacker von 5 Jahren bis ∞</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 1 hour</type>
+        <language>de</language>
+        <abstract>Spaß am Gerät: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, können alleine oder als Team kommen. Es kann jeder mitmachen, der weiß, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene dürfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="74">Stefan Safari</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="375" guid="5634bc77-b6ad-52ae-88c5-c059cfcebb8e">
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>TZBSSE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/TZBSSE/</url>
+        <title>SDR kennenlernen</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 2 hours</type>
+        <language>de</language>
+        <abstract>Software Defined Radios in Kombination mit open source tools erlauben es einfach anspruchsvolle aufgeben umzusetzen. Nach einer kurzen theoretischen Engführung kann sich jeder an verschieden Beispielen versuchen Signale zu empfangen und zu dekodiren.</abstract>
+        <description>Vom FM Radio bis hin zu z.B. Wlan frames wollen wir uns verscheide Dinge anschauen. Wer es kann bitte einen Laptop mitbringen um eigenständig arbeiten zu können. English speakers can also attend but may have to wait a bit for there instructions.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="135">Lars Rokita</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="353" guid="c05054ed-aca8-5d2f-814c-0d6e8851d96e">
+        <logo>/media/36c3-oio/images/CTQSQ8/meetup_1920_7FtptxA.png</logo>
+        <date>2019-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>CTQSQ8</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/CTQSQ8/</url>
+        <title>Open Communication Meetup! - Decentralized Social Networks</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 2 hours</type>
+        <language>en</language>
+        <abstract>We will test, discuss and document decentralized and off the grid social networks, such as secure scuttlebutt SSCB.</abstract>
+        <description>The goal behind [open-communication.net](https://open-communication.net) is to build a knowledge base on open decentralized communication tools. This is done collectively and collaboratively in 'Open Communication Meetups'.&#13;
+&#13;
+In this meetup we will test, discuss and document existing decentralized and off-the-grid social networks, such as [secure scuttlebutt](https://scuttlebutt.nz/). &#13;
+&#13;
+Please bring your laptops and digital devices in order to collectively test the projects!&#13;
+&#13;
+https://open-communication.net</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="120">Mathias Jud</person>
         </persons>
         <links/>
         <attachments/>
@@ -11449,7 +11449,7 @@ https://submedia.tv</description>
       </event>
     </room>
     <room name="Sendetisch">
-      <event id="986" guid="8115abea-d1c8-59a6-8060-8f773de66a5d">
+      <event id="886" guid="8115abea-d1c8-59a6-8060-8f773de66a5d">
         <logo>/media/36c3/images/AHFVXQ/_q-RxbLK.jpg</logo>
         <date>2019-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -11476,7 +11476,7 @@ https://submedia.tv</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="1011" guid="3cbb9a0d-f52e-541d-80b0-f8436469a0c1">
+      <event id="911" guid="3cbb9a0d-f52e-541d-80b0-f8436469a0c1">
         <logo/>
         <date>2019-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -11502,7 +11502,7 @@ https://submedia.tv</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="991" guid="b3280604-91cd-5da6-817a-a1b08b760653">
+      <event id="891" guid="b3280604-91cd-5da6-817a-a1b08b760653">
         <logo/>
         <date>2019-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -11529,7 +11529,7 @@ https://submedia.tv</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="1018" guid="5b1bc8ca-0bdb-5fab-8542-f0ed1465fd00">
+      <event id="918" guid="5b1bc8ca-0bdb-5fab-8542-f0ed1465fd00">
         <logo/>
         <date>2019-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -11562,7 +11562,7 @@ Wir freuen uns auf euch!</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="1000" guid="81b7ea88-8957-505d-a8f1-aeb0ad15bf34">
+      <event id="900" guid="81b7ea88-8957-505d-a8f1-aeb0ad15bf34">
         <logo>/media/36c3/images/7UJAD9/DE6E3710-9D61-4A03-BC04-E419F568BBFE.jpeg</logo>
         <date>2019-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -11588,7 +11588,7 @@ Wir freuen uns auf euch!</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="995" guid="32d5cfbb-ec5c-5289-90a1-c79d758a205c">
+      <event id="895" guid="32d5cfbb-ec5c-5289-90a1-c79d758a205c">
         <logo>/media/36c3/images/8XFHT3/36c3_Edition.png</logo>
         <date>2019-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -11614,7 +11614,7 @@ Wir freuen uns auf euch!</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="1007" guid="9f9efb4b-36e8-58b1-abe7-f89834aed3ec">
+      <event id="907" guid="9f9efb4b-36e8-58b1-abe7-f89834aed3ec">
         <logo>/media/36c3/images/GWEZ9D/segfaultfm-logo.png</logo>
         <date>2019-12-28T20:30:00+01:00</date>
         <start>20:30</start>
@@ -11641,7 +11641,7 @@ Wir freuen uns auf euch!</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="987" guid="7dccf3f3-3c3b-5918-88da-fa4255fb26f5">
+      <event id="887" guid="7dccf3f3-3c3b-5918-88da-fa4255fb26f5">
         <logo/>
         <date>2019-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -11667,7 +11667,7 @@ Wir freuen uns auf euch!</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="992" guid="76456644-b7e6-5dc0-bd9e-3350a42a47b0">
+      <event id="892" guid="76456644-b7e6-5dc0-bd9e-3350a42a47b0">
         <logo/>
         <date>2019-12-28T23:00:00+01:00</date>
         <start>23:00</start>
@@ -11695,7 +11695,7 @@ Wir freuen uns auf euch!</description>
       </event>
     </room>
     <room name="Bus">
-      <event id="1107" guid="b08a2e8a-ad1d-51ab-ac5e-71456a5bdff1">
+      <event id="4107" guid="b08a2e8a-ad1d-51ab-ac5e-71456a5bdff1">
         <logo>/media/36c3/images/XCDDNN/himiko__web_MoLCHSo.jpg</logo>
         <date>2019-12-28T21:00:00+01:00</date>
         <start>21:00</start>
@@ -11721,7 +11721,7 @@ Wir freuen uns auf euch!</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="1105" guid="5fd02550-abcf-5e09-af82-cd4501139caf">
+      <event id="4105" guid="5fd02550-abcf-5e09-af82-cd4501139caf">
         <logo>/media/36c3/images/ZPKUFZ/Schmeck_mein_Blut__web.jpg</logo>
         <date>2019-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -11748,7 +11748,7 @@ But maybe it could also be an angry act of resistance!</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="1111" guid="b3521656-5553-5ae0-817a-42a24c648b97">
+      <event id="4111" guid="b3521656-5553-5ae0-817a-42a24c648b97">
         <logo>/media/36c3/images/QKXACA/FranzM_PLUS__web_AniBVAP.jpg</logo>
         <date>2019-12-28T23:00:00+01:00</date>
         <start>23:00</start>
@@ -11782,7 +11782,7 @@ http://www.michaelbreitenbach.de/franzm/</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="1112" guid="d01d65f8-cda6-5547-a0a1-3c477f9d615c">
+      <event id="4112" guid="d01d65f8-cda6-5547-a0a1-3c477f9d615c">
         <logo>/media/36c3/images/VE3ZFD/Pastor_Leumund__web_y2i5Xvu.jpg</logo>
         <date>2019-12-29T00:30:00+01:00</date>
         <start>00:30</start>
@@ -11817,7 +11817,7 @@ https://www.deutschlandfunkkultur.de/wurfsendungs-serie-druckwellensittiche.3687
       </event>
     </room>
     <room name="Installations">
-      <event id="1115" guid="68e97e7b-c701-5325-bc6b-291628a5dbca">
+      <event id="4115" guid="68e97e7b-c701-5325-bc6b-291628a5dbca">
         <logo/>
         <date>2019-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -16666,7 +16666,7 @@ Machbarkeit im Making wird vornehmlich von physikalischen Gesetzen bestimmt. Doc
       </event>
     </room>
     <room name="DLF- und Podcast-Bühne">
-      <event id="1022" guid="a66747f4-eb91-57ea-b05a-07f3162bc0c0">
+      <event id="922" guid="a66747f4-eb91-57ea-b05a-07f3162bc0c0">
         <logo/>
         <date>2019-12-29T11:00:00+01:00</date>
         <start>11:00</start>
@@ -16693,7 +16693,7 @@ Machbarkeit im Making wird vornehmlich von physikalischen Gesetzen bestimmt. Doc
         <attachments/>
         <answers/>
       </event>
-      <event id="994" guid="eaf59e9c-e60e-5a80-bd3b-b99ee146282e">
+      <event id="894" guid="eaf59e9c-e60e-5a80-bd3b-b99ee146282e">
         <logo>/media/36c3/images/YNP9VN/gbni_logo.jpg</logo>
         <date>2019-12-29T19:15:00+01:00</date>
         <start>19:15</start>
@@ -16721,7 +16721,7 @@ Für die ZuschauerInnen gibt es Spaß, für das Rate Team Alkohol.</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="1014" guid="7e748a07-89f3-51bb-927a-f8560617f180">
+      <event id="914" guid="7e748a07-89f3-51bb-927a-f8560617f180">
         <logo>/media/36c3/images/HSYE8L/NSU_Podcast_serif.png</logo>
         <date>2019-12-29T20:30:00+01:00</date>
         <start>20:30</start>
@@ -16752,7 +16752,7 @@ Im Jahresrückblick des Podcasts "NSU-Watch: Aufklären&amp;Einmischen" wollen w
         <attachments/>
         <answers/>
       </event>
-      <event id="1019" guid="f08d3915-e3e2-5ffe-a0a7-f8358c74aada">
+      <event id="919" guid="f08d3915-e3e2-5ffe-a0a7-f8358c74aada">
         <logo>/media/36c3/images/AAYM3Q/icon.jpg</logo>
         <date>2019-12-29T21:45:00+01:00</date>
         <start>21:45</start>
@@ -16780,7 +16780,7 @@ Eine unserer Moderator*innen, Katharin, wird direkt von ihren Recherchen für jo
         <attachments/>
         <answers/>
       </event>
-      <event id="1017" guid="6cc4edbc-3a34-50f6-b4eb-470226e10e5a">
+      <event id="917" guid="6cc4edbc-3a34-50f6-b4eb-470226e10e5a">
         <logo/>
         <date>2019-12-29T23:00:00+01:00</date>
         <start>23:00</start>
@@ -16802,196 +16802,6 @@ Eine unserer Moderator*innen, Katharin, wird direkt von ihren Recherchen für jo
         <persons>
           <person id="115">Daniel Molkentin</person>
           <person id="117">monoxyd</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="OIO Workshop Dome">
-      <event id="344" guid="312560c7-7ce7-5c81-97b4-7692b2d9a240">
-        <logo>/media/36c3-oio/images/HHZQAY/meetup_1920_ssHGXLa.png</logo>
-        <date>2019-12-29T13:50:00+01:00</date>
-        <start>13:50</start>
-        <duration>02:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>HHZQAY</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/HHZQAY/</url>
-        <title>Open Communication Meetup! - Adhoc mesh routing protocols</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Workshop 2 hours</type>
-        <language>en</language>
-        <abstract>We will discuss and document mobile ad-hoc mesh routing protocols.</abstract>
-        <description>The goal behind [open-communication.net](https://open-communication.net) is to build a knowledge base on open decentralized communication tools. This is done collectively and collaboratively in 'Open Communication Meetups'.&#13;
-&#13;
-In this meetup we will discuss and document existing open and decentralized mesh routing protocols. &#13;
-&#13;
-https://open-communication.net</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="120">Mathias Jud</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="349" guid="c8793eb8-53be-5a90-b549-f5789da4d174">
-        <logo>/media/36c3-oio/images/PATB9E/lynXified-amirouche-anonymous-v3_C4S2fqs.png</logo>
-        <date>2019-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>PATB9E</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/PATB9E/</url>
-        <title>GNUnet e.V. annual assembly</title>
-        <subtitle/>
-        <track>OIO</track>
-        <type>Workshop 1 hour</type>
-        <language>en</language>
-        <abstract>https://gnunet.org/ e.V. annually meets to discuss all things GNUnet e.V.-related (including finances, elections, and community update). The full agenda will be determined closer to the event.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="123">Christian Grothoff</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="355" guid="6d1b8adb-0f77-5693-a768-fabf2c252929">
-        <logo>/media/36c3-oio/images/VHZQKJ/LoRaWAN5_apfiK6P.png</logo>
-        <date>2019-12-29T17:10:00+01:00</date>
-        <start>17:10</start>
-        <duration>02:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>VHZQKJ</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/VHZQKJ/</url>
-        <title>Getting started connecting your Devices using LoRaWAN</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Workshop 2 hours</type>
-        <language>en</language>
-        <abstract>LoRaWAN is a **Lo**ng **Ra**nge **W**ide **A**rea **N**etwork that can connect devices over several kilometres while operating on very low power. It uses freely available frequencies, and with successful community project *The Things Network* there exists an open and free network. This makes LoRaWAN ideal for that small gadgets you want to deploy out in the field and also really interesting for a hacker community. Let's get working on it!</abstract>
-        <description>We will be going through the whole process of how to build, program, and setup a simple LoRaWAN connected device using an *Arduino* and *The Things Network*. The workshop will start with an introduction to how LoRaWAN works, but the session is planed to be a more interactive format where we get a bit of work done together.&#13;
-&#13;
-If you need an introduction, why LoRaWAN is interesting, you can watch our 20min talk from last year: &lt;br&gt;&#13;
-https://media.ccc.de/v/35c3chaoswest-27-long-range-radio-communication-for-everyone-using-lorawan-&#13;
-&#13;
-If you want to know how you can come prepared, go to: &lt;br&gt;&#13;
-https://www.deepcyber.de/36c3/lorawan</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="129">Peer Springstübe</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="393" guid="46c24f81-f788-52e6-bd61-9e2e68040ad5">
-        <logo/>
-        <date>2019-12-29T19:15:00+01:00</date>
-        <start>19:15</start>
-        <duration>01:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>LZMW9E</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/LZMW9E/</url>
-        <title>Wireless Security Meetup</title>
-        <subtitle/>
-        <track>Security</track>
-        <type>Workshop 1 hour</type>
-        <language>en</language>
-        <abstract>Open discussion about wireless security of current and upcoming chips and wireless technologies.</abstract>
-        <description>Anyone who wants to discuss wireless security is welcome! Topics will most likely include NFC, Bluetooth, Wi-Fi, LTE, LoRaWAN, TETRA and more. We will talk about implementation issues, as well as security testing, and problems with the specifications.&#13;
-&#13;
-This meetup is organized by Jiska, who presents the talk "All wireless communication stacks are equally broken" at the main conference.&#13;
-&#13;
-Please register in advance at https://forms.gle/Ph8HydTbMFrN398m6 with whatever pseudonym. This is required to keep the group and the discussion focused :)</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="157">jiska</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="385" guid="f3e731fa-1a62-5238-969a-7f28e5812334">
-        <logo/>
-        <date>2019-12-29T20:50:00+01:00</date>
-        <start>20:50</start>
-        <duration>01:00</duration>
-        <room>OIO Workshop Dome</room>
-        <slug>8PGUXK</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/8PGUXK/</url>
-        <title>Global Innovation Gathering meetup</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Workshop 1 hour</type>
-        <language>en</language>
-        <abstract>The Global Innovation Gathering (GIG) is a diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers.&#13;
-&#13;
-With strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members. We have a non-profit organisation registered in Germany.&#13;
-&#13;
-GIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators.&#13;
-&#13;
-What can we create together?</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="96">Sandra GIG</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="OIO Solder Area">
-      <event id="390" guid="4f5c1cc5-ad99-52dc-89cd-699eae66bcb8">
-        <logo/>
-        <date>2019-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>02:00</duration>
-        <room>OIO Solder Area</room>
-        <slug>3KNRHJ</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/3KNRHJ/</url>
-        <title>Löten für Einsteiger</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Solder Workshop 2h</type>
-        <language>de</language>
-        <abstract>Löten für Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem Lötkolben nach Huhn?</abstract>
-        <description>Wir wollen uns in den zwei Stunden die Grundlagen des Lötens erarbeiten. Also welcher Lötkolben oder Lötstation, welches Material, welches Zubehör ist notwendig und sinnvoll? &#13;
-&#13;
-Was tun wir? &#13;
-- Handhabung Pflege und des Lötwerkzeugs&#13;
-- einfache Lötübungen&#13;
-- Löten auf Leiterplatten&#13;
-- Löten mit Drähten und Bauteilen&#13;
-&#13;
-Während des Workshops können auch selbst mitgebrachte Bausätze zusammengelötet werden.&#13;
-&#13;
-Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="154">Stefan, DK6TM</person>
         </persons>
         <links/>
         <attachments/>
@@ -17222,6 +17032,196 @@ If you want to know how we do that, come to our talk. We will explain our system
         <persons>
           <person id="23">blinry</person>
           <person id="2">bleeptrack</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Workshop Dome">
+      <event id="344" guid="312560c7-7ce7-5c81-97b4-7692b2d9a240">
+        <logo>/media/36c3-oio/images/HHZQAY/meetup_1920_ssHGXLa.png</logo>
+        <date>2019-12-29T13:50:00+01:00</date>
+        <start>13:50</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>HHZQAY</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/HHZQAY/</url>
+        <title>Open Communication Meetup! - Adhoc mesh routing protocols</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 2 hours</type>
+        <language>en</language>
+        <abstract>We will discuss and document mobile ad-hoc mesh routing protocols.</abstract>
+        <description>The goal behind [open-communication.net](https://open-communication.net) is to build a knowledge base on open decentralized communication tools. This is done collectively and collaboratively in 'Open Communication Meetups'.&#13;
+&#13;
+In this meetup we will discuss and document existing open and decentralized mesh routing protocols. &#13;
+&#13;
+https://open-communication.net</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="120">Mathias Jud</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="349" guid="c8793eb8-53be-5a90-b549-f5789da4d174">
+        <logo>/media/36c3-oio/images/PATB9E/lynXified-amirouche-anonymous-v3_C4S2fqs.png</logo>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>PATB9E</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/PATB9E/</url>
+        <title>GNUnet e.V. annual assembly</title>
+        <subtitle/>
+        <track>OIO</track>
+        <type>Workshop 1 hour</type>
+        <language>en</language>
+        <abstract>https://gnunet.org/ e.V. annually meets to discuss all things GNUnet e.V.-related (including finances, elections, and community update). The full agenda will be determined closer to the event.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="123">Christian Grothoff</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="355" guid="6d1b8adb-0f77-5693-a768-fabf2c252929">
+        <logo>/media/36c3-oio/images/VHZQKJ/LoRaWAN5_apfiK6P.png</logo>
+        <date>2019-12-29T17:10:00+01:00</date>
+        <start>17:10</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>VHZQKJ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/VHZQKJ/</url>
+        <title>Getting started connecting your Devices using LoRaWAN</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 2 hours</type>
+        <language>en</language>
+        <abstract>LoRaWAN is a **Lo**ng **Ra**nge **W**ide **A**rea **N**etwork that can connect devices over several kilometres while operating on very low power. It uses freely available frequencies, and with successful community project *The Things Network* there exists an open and free network. This makes LoRaWAN ideal for that small gadgets you want to deploy out in the field and also really interesting for a hacker community. Let's get working on it!</abstract>
+        <description>We will be going through the whole process of how to build, program, and setup a simple LoRaWAN connected device using an *Arduino* and *The Things Network*. The workshop will start with an introduction to how LoRaWAN works, but the session is planed to be a more interactive format where we get a bit of work done together.&#13;
+&#13;
+If you need an introduction, why LoRaWAN is interesting, you can watch our 20min talk from last year: &lt;br&gt;&#13;
+https://media.ccc.de/v/35c3chaoswest-27-long-range-radio-communication-for-everyone-using-lorawan-&#13;
+&#13;
+If you want to know how you can come prepared, go to: &lt;br&gt;&#13;
+https://www.deepcyber.de/36c3/lorawan</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="129">Peer Springstübe</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="393" guid="46c24f81-f788-52e6-bd61-9e2e68040ad5">
+        <logo/>
+        <date>2019-12-29T19:15:00+01:00</date>
+        <start>19:15</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>LZMW9E</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/LZMW9E/</url>
+        <title>Wireless Security Meetup</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Workshop 1 hour</type>
+        <language>en</language>
+        <abstract>Open discussion about wireless security of current and upcoming chips and wireless technologies.</abstract>
+        <description>Anyone who wants to discuss wireless security is welcome! Topics will most likely include NFC, Bluetooth, Wi-Fi, LTE, LoRaWAN, TETRA and more. We will talk about implementation issues, as well as security testing, and problems with the specifications.&#13;
+&#13;
+This meetup is organized by Jiska, who presents the talk "All wireless communication stacks are equally broken" at the main conference.&#13;
+&#13;
+Please register in advance at https://forms.gle/Ph8HydTbMFrN398m6 with whatever pseudonym. This is required to keep the group and the discussion focused :)</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="157">jiska</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="385" guid="f3e731fa-1a62-5238-969a-7f28e5812334">
+        <logo/>
+        <date>2019-12-29T20:50:00+01:00</date>
+        <start>20:50</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>8PGUXK</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/8PGUXK/</url>
+        <title>Global Innovation Gathering meetup</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 1 hour</type>
+        <language>en</language>
+        <abstract>The Global Innovation Gathering (GIG) is a diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers.&#13;
+&#13;
+With strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members. We have a non-profit organisation registered in Germany.&#13;
+&#13;
+GIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators.&#13;
+&#13;
+What can we create together?</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="96">Sandra GIG</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Solder Area">
+      <event id="390" guid="4f5c1cc5-ad99-52dc-89cd-699eae66bcb8">
+        <logo/>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>OIO Solder Area</room>
+        <slug>3KNRHJ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/3KNRHJ/</url>
+        <title>Löten für Einsteiger</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Solder Workshop 2h</type>
+        <language>de</language>
+        <abstract>Löten für Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem Lötkolben nach Huhn?</abstract>
+        <description>Wir wollen uns in den zwei Stunden die Grundlagen des Lötens erarbeiten. Also welcher Lötkolben oder Lötstation, welches Material, welches Zubehör ist notwendig und sinnvoll? &#13;
+&#13;
+Was tun wir? &#13;
+- Handhabung Pflege und des Lötwerkzeugs&#13;
+- einfache Lötübungen&#13;
+- Löten auf Leiterplatten&#13;
+- Löten mit Drähten und Bauteilen&#13;
+&#13;
+Während des Workshops können auch selbst mitgebrachte Bausätze zusammengelötet werden.&#13;
+&#13;
+Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="154">Stefan, DK6TM</person>
         </persons>
         <links/>
         <attachments/>
@@ -17888,7 +17888,7 @@ Until then: Keep on dancing.</abstract>
       </event>
     </room>
     <room name="Sendetisch">
-      <event id="1005" guid="340a8cac-82e5-5f35-b63a-557efc63aaed">
+      <event id="905" guid="340a8cac-82e5-5f35-b63a-557efc63aaed">
         <logo>/media/36c3/images/P33HZD/SMC3-e1522857023464.png</logo>
         <date>2019-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -17916,7 +17916,7 @@ Viel Spaß mit dem SM-C4</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="1003" guid="c034d8a0-7d30-524d-91fa-ed4d7a90de3b">
+      <event id="903" guid="c034d8a0-7d30-524d-91fa-ed4d7a90de3b">
         <logo>/media/36c3/images/3WHYSD/Wasn-Krach-Logo.png</logo>
         <date>2019-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -17942,7 +17942,7 @@ Viel Spaß mit dem SM-C4</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="1001" guid="d035f03e-9886-53a2-ab30-adbdbd0a7258">
+      <event id="901" guid="d035f03e-9886-53a2-ab30-adbdbd0a7258">
         <logo>/media/36c3/images/LBCKVP/entbehrcast.jpeg</logo>
         <date>2019-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -17972,7 +17972,7 @@ Viel Spaß mit dem SM-C4</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="997" guid="483df369-d76f-53ce-b7af-f6a844ed7d10">
+      <event id="897" guid="483df369-d76f-53ce-b7af-f6a844ed7d10">
         <logo>/media/36c3/images/RQZDAR/7da3a38d-251b-418a-abea-9ad7b630e539_1.png</logo>
         <date>2019-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -18001,7 +18001,7 @@ Und wenn doch, dann liefern euch Christopher und Frank auf jeden Fall einen neue
         <attachments/>
         <answers/>
       </event>
-      <event id="1006" guid="8c85f0c4-0d8b-57b9-a74f-e382b8d0997f">
+      <event id="906" guid="8c85f0c4-0d8b-57b9-a74f-e382b8d0997f">
         <logo>/media/36c3/images/YTCNPM/stilles_kaemmerchen_wollkanal-1024x1024.png</logo>
         <date>2019-12-29T20:30:00+01:00</date>
         <start>20:30</start>
@@ -18030,7 +18030,7 @@ Wie schon nach dem Camp wollen wir gerne unserer HörerInnenschaft einen Blick i
         <attachments/>
         <answers/>
       </event>
-      <event id="996" guid="bac2dbc2-3346-59c0-8fbc-cdf2417cc51a">
+      <event id="896" guid="bac2dbc2-3346-59c0-8fbc-cdf2417cc51a">
         <logo/>
         <date>2019-12-29T22:00:00+01:00</date>
         <start>22:00</start>
@@ -18064,7 +18064,7 @@ Wie schon nach dem Camp wollen wir gerne unserer HörerInnenschaft einen Blick i
       </event>
     </room>
     <room name="Bus">
-      <event id="1108" guid="dc5ceba4-11e3-5abf-805a-d677ec705d3f">
+      <event id="4108" guid="dc5ceba4-11e3-5abf-805a-d677ec705d3f">
         <logo>/media/36c3/images/MJVFL7/team_intim__web_w7eeJru.jpg</logo>
         <date>2019-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -18090,7 +18090,7 @@ Wie schon nach dem Camp wollen wir gerne unserer HörerInnenschaft einen Blick i
         <attachments/>
         <answers/>
       </event>
-      <event id="1110" guid="9156e966-f9a4-5483-a744-53ee039ece25">
+      <event id="4110" guid="9156e966-f9a4-5483-a744-53ee039ece25">
         <logo>/media/36c3/images/97PKLH/Schmeck_mein_Blut__web_4a3stVK.jpg</logo>
         <date>2019-12-29T21:00:00+01:00</date>
         <start>21:00</start>
@@ -18117,7 +18117,7 @@ But maybe it could also be an angry act of resistance!</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="1113" guid="3c4bcf82-22a9-5503-9066-1e2f7986ba88">
+      <event id="4113" guid="3c4bcf82-22a9-5503-9066-1e2f7986ba88">
         <logo>/media/36c3/images/ZBXV33/Onyx_Ashanti__web_MViGQGv.jpg</logo>
         <date>2019-12-29T22:00:00+01:00</date>
         <start>22:00</start>
@@ -18167,7 +18167,7 @@ right now.&#13;
         <attachments/>
         <answers/>
       </event>
-      <event id="1114" guid="9ffb64b6-1d53-550f-8efc-d25bb869395b">
+      <event id="4114" guid="9ffb64b6-1d53-550f-8efc-d25bb869395b">
         <logo>/media/36c3/images/GGXZMX/Kuiperkuiper__web_zISSGFB.jpg</logo>
         <date>2019-12-29T23:30:00+01:00</date>
         <start>23:30</start>
@@ -20304,6 +20304,60 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
       </event>
     </room>
     <room name="DLF- und Podcast-Bühne"/>
+    <room name="WikiPaka WG: Esszimmer">
+      <event id="569" guid="c25397e4-6f44-5cdb-a39d-1a52562ac656">
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>XM97YV</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/XM97YV/</url>
+        <title>Modernizing Wikipedia</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>What does Wikimedia do to modernize WIkipedia's user experience, and why does it take so long?</abstract>
+        <description>Editing Wikipedia feels like a blast from the past, and even just reading articles feels a bit dusty. Why is that? And how can it be fixed? And how can you help?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="25">Daniel</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="596" guid="e7577e21-a725-5038-b3d6-f50cefe2c259">
+        <logo/>
+        <date>2019-12-30T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>01:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>RGCHT8</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/RGCHT8/</url>
+        <title>FragDenStaat User-Treffen</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</abstract>
+        <description>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">Arne</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="OIO Workshop Dome">
       <event id="378" guid="3d0efe4f-63da-5a8b-822a-b0ba99692ed3">
         <logo/>
@@ -20356,60 +20410,6 @@ Dieser Workshop richtet sich an Menschen, die mehr als 1-2 Jahren schon Freifunk
         </recording>
         <persons>
           <person id="121">Sumy</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="WikiPaka WG: Esszimmer">
-      <event id="569" guid="c25397e4-6f44-5cdb-a39d-1a52562ac656">
-        <logo/>
-        <date>2019-12-30T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>01:00</duration>
-        <room>WikiPaka WG: Esszimmer</room>
-        <slug>XM97YV</slug>
-        <url>https://cfp.verschwoerhaus.de/36c3/talk/XM97YV/</url>
-        <title>Modernizing Wikipedia</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>What does Wikimedia do to modernize WIkipedia's user experience, and why does it take so long?</abstract>
-        <description>Editing Wikipedia feels like a blast from the past, and even just reading articles feels a bit dusty. Why is that? And how can it be fixed? And how can you help?</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="25">Daniel</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="596" guid="e7577e21-a725-5038-b3d6-f50cefe2c259">
-        <logo/>
-        <date>2019-12-30T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>01:30</duration>
-        <room>WikiPaka WG: Esszimmer</room>
-        <slug>RGCHT8</slug>
-        <url>https://cfp.verschwoerhaus.de/36c3/talk/RGCHT8/</url>
-        <title>FragDenStaat User-Treffen</title>
-        <subtitle/>
-        <track>Community</track>
-        <type>Meetup</type>
-        <language>de</language>
-        <abstract>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</abstract>
-        <description>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="17">Arne</person>
         </persons>
         <links/>
         <attachments/>
@@ -20546,7 +20546,7 @@ Until then: Keep on dancing.</abstract>
       </event>
     </room>
     <room name="Sendetisch">
-      <event id="993" guid="4c1d5810-e052-539d-ac78-a4ea395b24cc">
+      <event id="893" guid="4c1d5810-e052-539d-ac78-a4ea395b24cc">
         <logo>/media/36c3/images/7HYJL7/theinsnider.jpg</logo>
         <date>2019-12-30T14:00:00+01:00</date>
         <start>14:00</start>

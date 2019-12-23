@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; art-play 0.15; lightning Neodymium",
+    "version": "dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.15",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -2470,7 +2470,7 @@
             ],
             "DLF- und Podcast-B\u00fchne": [
               {
-                "id": 1008,
+                "id": 908,
                 "guid": "90f17f11-0bd2-52ae-b2db-b3c4fa7ca298",
                 "logo": "",
                 "date": "2019-12-27T19:15:00+01:00",
@@ -2502,7 +2502,7 @@
                 "answers": []
               },
               {
-                "id": 1009,
+                "id": 909,
                 "guid": "27405d5b-3715-5b98-977a-6e9319f1c0a3",
                 "logo": "",
                 "date": "2019-12-27T20:30:00+01:00",
@@ -2541,7 +2541,7 @@
                 "answers": []
               },
               {
-                "id": 998,
+                "id": 898,
                 "guid": "75423a6d-f926-5ae9-b905-68c22c275d90",
                 "logo": "",
                 "date": "2019-12-27T21:45:00+01:00",
@@ -2573,7 +2573,7 @@
                 "answers": []
               },
               {
-                "id": 1015,
+                "id": 915,
                 "guid": "b7fa2545-0034-52d7-802b-fd756c97c5cb",
                 "logo": "",
                 "date": "2019-12-27T23:00:00+01:00",
@@ -2626,7 +2626,7 @@
                 "answers": []
               },
               {
-                "id": 1016,
+                "id": 916,
                 "guid": "e82ff951-9420-54a2-afd1-3596d9cfed4e",
                 "logo": "/media/36c3/images/P3M9YV/fish_Kopie.jpg",
                 "date": "2019-12-28T00:40:00+01:00",
@@ -2664,106 +2664,6 @@
                     "code": "JT9GCR",
                     "public_name": "Nicolas",
                     "biography": "Scienceprenerd",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              }
-            ],
-            "OIO Workshop Dome": [
-              {
-                "id": 367,
-                "guid": "81f5f0c4-3d35-522c-8f1c-c8825b92f00a",
-                "logo": "",
-                "date": "2019-12-27T16:10:00+01:00",
-                "start": "16:10",
-                "duration": "02:00",
-                "room": "OIO Workshop Dome",
-                "slug": "SRMX8W",
-                "url": "https://talks.oio.social/36c3-oio/talk/SRMX8W/",
-                "title": "Beginners Workshop: How to Hack your Web Application",
-                "subtitle": "",
-                "track": "Security",
-                "type": "Workshop 2 hours",
-                "language": "en",
-                "abstract": "Did you ever want to know how hacking works? This beginners workshops gives an introduction into vulnerabilities, application pen testing and the security of web applications. Only if you know how hackers attack your application, you will be able to defend yourself. Nearly all companies use web applications nowadays. Any vulnerability in those applications may be an invitation for hackers to attack it. This workshop will give you insights on those things that you should never neglect when programming your application. From Techie to Techie!\r\n\r\nRequirements: programming experience & laptop needed, security knowledge is not necessary",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 136,
-                    "code": "ZWHJ7T",
-                    "public_name": "Janosch Maier",
-                    "biography": "Janosch Maier holds a computer science master degree and a pedagogy bachelor degree. He worked in several start-ups and developed a cyber security dashboard for the Dutch ministry of justice. After his studies, he founded the Crashtest Security GmbH where he develops a vulnerability scanner for web application.  Janosch is giving regular talks and workshops to promote IT security in agile software development for SMEs and corporates.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 342,
-                "guid": "d979082b-5377-513a-a84b-c3f0bb3f85e2",
-                "logo": "/media/36c3-oio/images/NTFYAL/nachbar-und-meshnetz_DRZyVof.gif",
-                "date": "2019-12-27T18:35:00+01:00",
-                "start": "18:35",
-                "duration": "04:00",
-                "room": "OIO Workshop Dome",
-                "slug": "NTFYAL",
-                "url": "https://talks.oio.social/36c3-oio/talk/NTFYAL/",
-                "title": "Alpha Testing of qaul.net (Internet independent wifi mesh communication App)",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Workshop 4 hours",
-                "language": "en",
-                "abstract": "Test with us our new alpha version of the",
-                "description": "qaul.net is an Internet independent wifi mesh communication app with fully decentralized messaging, file sharing and voice chat. At the moment we are rewriting the entire application in rust, implementing our experience of 8 years off the grid peer2peer mesh communication, with a mobile first approach and a network agnostic routing protocoll wich can do synchronous as well as delay tolerant messaging.\r\n\r\nIn this workshop we will test the (pre-)alpha version together, install it, test the functionality and communicate off the grid. We will explore our new routing protocol and the wireless interconnection possibilities.\r\n\r\n* Homepage: https://qaul.net\r\n* Code Repository: https://git.open-communication.net/qaul/qaul.net",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 120,
-                    "code": "G78ZPE",
-                    "public_name": "Mathias Jud",
-                    "biography": "Mathias Jud is a berlin based artist. Since over twenty years, he works together with Christoph Wachter.\r\nTheir art works include open-source projects that uncover forms of censorship of the Internet, undermine the concentration of political power and even resolve the dependency on infrastructure.\r\n\r\nhttps://www.wachter-jud.net/",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              }
-            ],
-            "OIO Solder Area": [
-              {
-                "id": 390,
-                "guid": "4f5c1cc5-ad99-52dc-89cd-699eae66bcb8",
-                "logo": "",
-                "date": "2019-12-27T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "02:00",
-                "room": "OIO Solder Area",
-                "slug": "3KNRHJ",
-                "url": "https://talks.oio.social/36c3-oio/talk/3KNRHJ/",
-                "title": "L\u00f6ten f\u00fcr Einsteiger",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Solder Workshop 2h",
-                "language": "de",
-                "abstract": "L\u00f6ten f\u00fcr Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem L\u00f6tkolben nach Huhn?",
-                "description": "Wir wollen uns in den zwei Stunden die Grundlagen des L\u00f6tens erarbeiten. Also welcher L\u00f6tkolben oder L\u00f6tstation, welches Material, welches Zubeh\u00f6r ist notwendig und sinnvoll? \r\n\r\nWas tun wir? \r\n- Handhabung Pflege und des L\u00f6twerkzeugs\r\n- einfache L\u00f6t\u00fcbungen\r\n- L\u00f6ten auf Leiterplatten\r\n- L\u00f6ten mit Dr\u00e4hten und Bauteilen\r\n\r\nW\u00e4hrend des Workshops k\u00f6nnen auch selbst mitgebrachte Baus\u00e4tze zusammengel\u00f6tet werden.\r\n\r\nBei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 154,
-                    "code": "8M8VKT",
-                    "public_name": "Stefan, DK6TM",
-                    "biography": "Funkamateur seit 2007, Amateurfunk Ausbildung seit mehr als 10 Jahren. \r\nWeiterbildung im Bereich Elektronik, L\u00f6ten, Antennenbau. Spezialgebiet Seminare f\u00fcr grundlegende Fertigkeiten, Schaltungstechnik und HF-Hardware. \r\nAutoradio-Arch\u00e4ologe (Restauration von antiken Autoradios)",
                     "answers": []
                   }
                 ],
@@ -3054,6 +2954,106 @@
                     "code": "ZYZHQS",
                     "public_name": "Julia",
                     "biography": "Ich bin Julia und versuche seit 2018 bei Code for Osnabr\u00fcck zu programmieren, muss aber meistens allen m\u00f6glichen Menschen erstmal erkl\u00e4ren, warum offene Daten so unglaublich wichtig sind. Das mache ich aber sehr gerne. Au\u00dferdem bin ich seit Anfang 2019 im Community-Rat von Code for Germany.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "OIO Workshop Dome": [
+              {
+                "id": 367,
+                "guid": "81f5f0c4-3d35-522c-8f1c-c8825b92f00a",
+                "logo": "",
+                "date": "2019-12-27T16:10:00+01:00",
+                "start": "16:10",
+                "duration": "02:00",
+                "room": "OIO Workshop Dome",
+                "slug": "SRMX8W",
+                "url": "https://talks.oio.social/36c3-oio/talk/SRMX8W/",
+                "title": "Beginners Workshop: How to Hack your Web Application",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Workshop 2 hours",
+                "language": "en",
+                "abstract": "Did you ever want to know how hacking works? This beginners workshops gives an introduction into vulnerabilities, application pen testing and the security of web applications. Only if you know how hackers attack your application, you will be able to defend yourself. Nearly all companies use web applications nowadays. Any vulnerability in those applications may be an invitation for hackers to attack it. This workshop will give you insights on those things that you should never neglect when programming your application. From Techie to Techie!\r\n\r\nRequirements: programming experience & laptop needed, security knowledge is not necessary",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 136,
+                    "code": "ZWHJ7T",
+                    "public_name": "Janosch Maier",
+                    "biography": "Janosch Maier holds a computer science master degree and a pedagogy bachelor degree. He worked in several start-ups and developed a cyber security dashboard for the Dutch ministry of justice. After his studies, he founded the Crashtest Security GmbH where he develops a vulnerability scanner for web application.  Janosch is giving regular talks and workshops to promote IT security in agile software development for SMEs and corporates.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 342,
+                "guid": "d979082b-5377-513a-a84b-c3f0bb3f85e2",
+                "logo": "/media/36c3-oio/images/NTFYAL/nachbar-und-meshnetz_DRZyVof.gif",
+                "date": "2019-12-27T18:35:00+01:00",
+                "start": "18:35",
+                "duration": "04:00",
+                "room": "OIO Workshop Dome",
+                "slug": "NTFYAL",
+                "url": "https://talks.oio.social/36c3-oio/talk/NTFYAL/",
+                "title": "Alpha Testing of qaul.net (Internet independent wifi mesh communication App)",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 4 hours",
+                "language": "en",
+                "abstract": "Test with us our new alpha version of the",
+                "description": "qaul.net is an Internet independent wifi mesh communication app with fully decentralized messaging, file sharing and voice chat. At the moment we are rewriting the entire application in rust, implementing our experience of 8 years off the grid peer2peer mesh communication, with a mobile first approach and a network agnostic routing protocoll wich can do synchronous as well as delay tolerant messaging.\r\n\r\nIn this workshop we will test the (pre-)alpha version together, install it, test the functionality and communicate off the grid. We will explore our new routing protocol and the wireless interconnection possibilities.\r\n\r\n* Homepage: https://qaul.net\r\n* Code Repository: https://git.open-communication.net/qaul/qaul.net",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 120,
+                    "code": "G78ZPE",
+                    "public_name": "Mathias Jud",
+                    "biography": "Mathias Jud is a berlin based artist. Since over twenty years, he works together with Christoph Wachter.\r\nTheir art works include open-source projects that uncover forms of censorship of the Internet, undermine the concentration of political power and even resolve the dependency on infrastructure.\r\n\r\nhttps://www.wachter-jud.net/",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "OIO Solder Area": [
+              {
+                "id": 390,
+                "guid": "4f5c1cc5-ad99-52dc-89cd-699eae66bcb8",
+                "logo": "",
+                "date": "2019-12-27T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "02:00",
+                "room": "OIO Solder Area",
+                "slug": "3KNRHJ",
+                "url": "https://talks.oio.social/36c3-oio/talk/3KNRHJ/",
+                "title": "L\u00f6ten f\u00fcr Einsteiger",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Solder Workshop 2h",
+                "language": "de",
+                "abstract": "L\u00f6ten f\u00fcr Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem L\u00f6tkolben nach Huhn?",
+                "description": "Wir wollen uns in den zwei Stunden die Grundlagen des L\u00f6tens erarbeiten. Also welcher L\u00f6tkolben oder L\u00f6tstation, welches Material, welches Zubeh\u00f6r ist notwendig und sinnvoll? \r\n\r\nWas tun wir? \r\n- Handhabung Pflege und des L\u00f6twerkzeugs\r\n- einfache L\u00f6t\u00fcbungen\r\n- L\u00f6ten auf Leiterplatten\r\n- L\u00f6ten mit Dr\u00e4hten und Bauteilen\r\n\r\nW\u00e4hrend des Workshops k\u00f6nnen auch selbst mitgebrachte Baus\u00e4tze zusammengel\u00f6tet werden.\r\n\r\nBei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 154,
+                    "code": "8M8VKT",
+                    "public_name": "Stefan, DK6TM",
+                    "biography": "Funkamateur seit 2007, Amateurfunk Ausbildung seit mehr als 10 Jahren. \r\nWeiterbildung im Bereich Elektronik, L\u00f6ten, Antennenbau. Spezialgebiet Seminare f\u00fcr grundlegende Fertigkeiten, Schaltungstechnik und HF-Hardware. \r\nAutoradio-Arch\u00e4ologe (Restauration von antiken Autoradios)",
                     "answers": []
                   }
                 ],
@@ -3933,7 +3933,7 @@
             ],
             "Sendetisch": [
               {
-                "id": 985,
+                "id": 885,
                 "guid": "fa998bfb-5afc-58d8-8061-92d6ebbd6f94",
                 "logo": "/media/36c3/images/BRYUP8/_q-RxbLK.jpg",
                 "date": "2019-12-27T16:00:00+01:00",
@@ -3965,7 +3965,7 @@
                 "answers": []
               },
               {
-                "id": 1021,
+                "id": 921,
                 "guid": "119745c4-f259-59e0-b4a0-46667b1d3c1c",
                 "logo": "",
                 "date": "2019-12-27T17:00:00+01:00",
@@ -3997,7 +3997,7 @@
                 "answers": []
               },
               {
-                "id": 1004,
+                "id": 904,
                 "guid": "785cbf4d-271a-53eb-8c98-07bba0481ec6",
                 "logo": "/media/36c3/images/7FRE9C/nerdraummetaspace.png",
                 "date": "2019-12-27T19:00:00+01:00",
@@ -4029,7 +4029,7 @@
                 "answers": []
               },
               {
-                "id": 1002,
+                "id": 902,
                 "guid": "29c02d5a-b820-592e-a014-262cf771302f",
                 "logo": "/media/36c3/images/MEPEVB/akronymisierbar.jpg",
                 "date": "2019-12-27T20:30:00+01:00",
@@ -4068,7 +4068,7 @@
                 "answers": []
               },
               {
-                "id": 983,
+                "id": 883,
                 "guid": "dbd73362-9959-5303-8466-8a3d5bde653c",
                 "logo": "/media/36c3/images/EKFJUY/star_wars_crossover_podcast.png",
                 "date": "2019-12-27T22:00:00+01:00",
@@ -4128,7 +4128,7 @@
                 "answers": []
               },
               {
-                "id": 990,
+                "id": 890,
                 "guid": "f614c0b7-ba66-574d-aa9b-c90596ee5fc3",
                 "logo": "/media/36c3/images/DEBQLR/star_wars_crossover_podcast.png",
                 "date": "2019-12-27T23:00:00+01:00",
@@ -4190,7 +4190,7 @@
             ],
             "Bus": [
               {
-                "id": 1101,
+                "id": 4101,
                 "guid": "3116cdf0-4719-5f50-b84b-4138e9955e63",
                 "logo": "",
                 "date": "2019-12-27T20:00:00+01:00",
@@ -4222,7 +4222,7 @@
                 "answers": []
               },
               {
-                "id": 1102,
+                "id": 4102,
                 "guid": "3cc14411-405f-546b-b953-d57e99e53f1d",
                 "logo": "/media/36c3/images/HUEK8V/himiko__web.jpg",
                 "date": "2019-12-27T21:00:00+01:00",
@@ -4254,7 +4254,7 @@
                 "answers": []
               },
               {
-                "id": 1103,
+                "id": 4103,
                 "guid": "3ed5569d-f340-57c3-84cf-3695ed8eb1c5",
                 "logo": "/media/36c3/images/MVMP79/team_intim__web.jpg",
                 "date": "2019-12-27T22:00:00+01:00",
@@ -4286,7 +4286,7 @@
                 "answers": []
               },
               {
-                "id": 1104,
+                "id": 4104,
                 "guid": "790d44c3-d492-56d4-941a-492822a28877",
                 "logo": "/media/36c3/images/WECQ3C/Schaltkreis_Musik_gro%C3%9F__web.jpg",
                 "date": "2019-12-27T23:30:00+01:00",
@@ -7719,7 +7719,7 @@
             ],
             "DLF- und Podcast-B\u00fchne": [
               {
-                "id": 1023,
+                "id": 923,
                 "guid": "f79d565b-cd45-58ec-bfda-f9d30bc49a67",
                 "logo": "",
                 "date": "2019-12-28T11:00:00+01:00",
@@ -7779,7 +7779,7 @@
                 "answers": []
               },
               {
-                "id": 984,
+                "id": 884,
                 "guid": "dd6a2fc4-e175-5f73-8387-8ebc3f85e603",
                 "logo": "/media/36c3/images/UXVNEN/zk018.jpg",
                 "date": "2019-12-28T18:00:00+01:00",
@@ -7811,7 +7811,7 @@
                 "answers": []
               },
               {
-                "id": 999,
+                "id": 899,
                 "guid": "21bfbba9-ccd3-5430-85fb-cc7226e5349a",
                 "logo": "/media/36c3/images/LZ8SR8/UA_Pod_Bild_mono.jpg",
                 "date": "2019-12-28T19:15:00+01:00",
@@ -7843,7 +7843,7 @@
                 "answers": []
               },
               {
-                "id": 1012,
+                "id": 912,
                 "guid": "7f29cf66-de8b-59c8-8df9-0fefa9a24364",
                 "logo": "/media/36c3/images/ZYJXVP/NPP186-OffTheRecord-mp3-image.jpg",
                 "date": "2019-12-28T20:30:00+01:00",
@@ -7875,7 +7875,7 @@
                 "answers": []
               },
               {
-                "id": 1010,
+                "id": 910,
                 "guid": "78f23d24-3e17-53a6-8cbc-5ffc5fd0226c",
                 "logo": "/media/36c3/images/78BJ3S/RR_Cover.jpeg",
                 "date": "2019-12-28T21:45:00+01:00",
@@ -7907,7 +7907,7 @@
                 "answers": []
               },
               {
-                "id": 1013,
+                "id": 913,
                 "guid": "415adc17-f5d6-5ad3-9989-ca0fcf723090",
                 "logo": "",
                 "date": "2019-12-28T23:00:00+01:00",
@@ -7931,168 +7931,6 @@
                     "code": "JSWVWL",
                     "public_name": "Advi",
                     "biography": "Podcastet mit H\u00f6rchaos, Schulsprecher, soziologischem Kaffeekr\u00e4nzchen und als Experte f\u00fcr WRINT.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              }
-            ],
-            "OIO Workshop Dome": [
-              {
-                "id": 347,
-                "guid": "bf48fa55-92a1-5481-a14a-f77cc0d4fccb",
-                "logo": "",
-                "date": "2019-12-28T11:30:00+01:00",
-                "start": "11:30",
-                "duration": "01:00",
-                "room": "OIO Workshop Dome",
-                "slug": "FU3ZZE",
-                "url": "https://talks.oio.social/36c3-oio/talk/FU3ZZE/",
-                "title": "Nudeln hacken - Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Workshop 1 hour",
-                "language": "de",
-                "abstract": "Spa\u00df am Ger\u00e4t: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, k\u00f6nnen alleine oder als Team kommen. Es kann jeder mitmachen, der wei\u00df, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene d\u00fcrfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 74,
-                    "code": "73PEWU",
-                    "public_name": "Stefan Safari",
-                    "biography": "Ich arbeite sehr gerne mit Gruppen, mag den kreativen Umgang mit Dingen und liebe es, gutes Essen zu essen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 348,
-                "guid": "c4bd3614-30a5-5739-a7f6-6880be23709b",
-                "logo": "",
-                "date": "2019-12-28T13:30:00+01:00",
-                "start": "13:30",
-                "duration": "01:00",
-                "room": "OIO Workshop Dome",
-                "slug": "RW3HCE",
-                "url": "https://talks.oio.social/36c3-oio/talk/RW3HCE/",
-                "title": "Trotz Schule die Zukunft meistern? - Mitmach-Workshop f\u00fcr Menschen von 10-100 Jahre",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Workshop 1 hour",
-                "language": "en",
-                "abstract": "In einem Workshop \u00fcberlegen Sch\u00fcler*innen gemeinsam mit anderen, wie man sich auf Berufe vorbereitet, die es heute noch gar nicht gibt. Und warum das eigene Smartphone- und Social-Media-Verhalten einem die Zukunft rettet statt sie zu vergeigen.",
-                "description": "Die Sch\u00fcler*innen von heute werden sp\u00e4ter Jobs machen, von denen es 65% heute noch gar nicht gibt - sagt eine Studie, der OECD. Die OECD hat auch Thesen aufgestellt worauf es in der Zukunft ankommt. Da werden Punkte wie \"Problem l\u00f6sen/kritisches Denken\" oder \"Kreativit\u00e4t\" genannt und pers\u00f6nliche Eigentschaften wie \"Neugierde\", \"Initiative\" oder \"Ausdauer/Entschlossenheit\" aufgelistet. Bereitet einen die Schule wirklich auf so was vor, oder sind die Lernwelten nicht viel gr\u00f6\u00dfer. Wie ist ein Besuch des 36C3 einzuordnen? Wie \"wird man neugierig\"?\r\n\r\nDer Workshop wird besonders lebendig, wenn verschiedene Altergruppen/ Generationen teilnehmen. Wenn es allerdings eng im Raum wird, werden Sch\u00fcler*innen bevorzugt.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 74,
-                    "code": "73PEWU",
-                    "public_name": "Stefan Safari",
-                    "biography": "Ich arbeite sehr gerne mit Gruppen, mag den kreativen Umgang mit Dingen und liebe es, gutes Essen zu essen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 347,
-                "guid": "bf48fa55-92a1-5481-a14a-f77cc0d4fccb",
-                "logo": "",
-                "date": "2019-12-28T15:30:00+01:00",
-                "start": "15:30",
-                "duration": "01:00",
-                "room": "OIO Workshop Dome",
-                "slug": "FU3ZZE",
-                "url": "https://talks.oio.social/36c3-oio/talk/FU3ZZE/",
-                "title": "Nudeln hacken - Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Workshop 1 hour",
-                "language": "de",
-                "abstract": "Spa\u00df am Ger\u00e4t: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, k\u00f6nnen alleine oder als Team kommen. Es kann jeder mitmachen, der wei\u00df, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene d\u00fcrfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 74,
-                    "code": "73PEWU",
-                    "public_name": "Stefan Safari",
-                    "biography": "Ich arbeite sehr gerne mit Gruppen, mag den kreativen Umgang mit Dingen und liebe es, gutes Essen zu essen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 375,
-                "guid": "5634bc77-b6ad-52ae-88c5-c059cfcebb8e",
-                "logo": "",
-                "date": "2019-12-28T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "02:00",
-                "room": "OIO Workshop Dome",
-                "slug": "TZBSSE",
-                "url": "https://talks.oio.social/36c3-oio/talk/TZBSSE/",
-                "title": "SDR kennenlernen",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Workshop 2 hours",
-                "language": "de",
-                "abstract": "Software Defined Radios in Kombination mit open source tools erlauben es einfach anspruchsvolle aufgeben umzusetzen. Nach einer kurzen theoretischen Engf\u00fchrung kann sich jeder an verschieden Beispielen versuchen Signale zu empfangen und zu dekodiren.",
-                "description": "Vom FM Radio bis hin zu z.B. Wlan frames wollen wir uns verscheide Dinge anschauen. Wer es kann bitte einen Laptop mitbringen um eigenst\u00e4ndig arbeiten zu k\u00f6nnen. English speakers can also attend but may have to wait a bit for there instructions.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 135,
-                    "code": "YXFCTE",
-                    "public_name": "Lars Rokita",
-                    "biography": "Physics student who likes to tinker around with high frequency stuff. Call DL4APT",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 353,
-                "guid": "c05054ed-aca8-5d2f-814c-0d6e8851d96e",
-                "logo": "/media/36c3-oio/images/CTQSQ8/meetup_1920_7FtptxA.png",
-                "date": "2019-12-28T20:30:00+01:00",
-                "start": "20:30",
-                "duration": "02:00",
-                "room": "OIO Workshop Dome",
-                "slug": "CTQSQ8",
-                "url": "https://talks.oio.social/36c3-oio/talk/CTQSQ8/",
-                "title": "Open Communication Meetup! - Decentralized Social Networks",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Workshop 2 hours",
-                "language": "en",
-                "abstract": "We will test, discuss and document decentralized and off the grid social networks, such as secure scuttlebutt SSCB.",
-                "description": "The goal behind [open-communication.net](https://open-communication.net) is to build a knowledge base on open decentralized communication tools. This is done collectively and collaboratively in 'Open Communication Meetups'.\r\n\r\nIn this meetup we will test, discuss and document existing decentralized and off-the-grid social networks, such as [secure scuttlebutt](https://scuttlebutt.nz/). \r\n\r\nPlease bring your laptops and digital devices in order to collectively test the projects!\r\n\r\nhttps://open-communication.net",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 120,
-                    "code": "G78ZPE",
-                    "public_name": "Mathias Jud",
-                    "biography": "Mathias Jud is a berlin based artist. Since over twenty years, he works together with Christoph Wachter.\r\nTheir art works include open-source projects that uncover forms of censorship of the Internet, undermine the concentration of political power and even resolve the dependency on infrastructure.\r\n\r\nhttps://www.wachter-jud.net/",
                     "answers": []
                   }
                 ],
@@ -8333,6 +8171,168 @@
                     "code": "XC8AZ8",
                     "public_name": "nwng",
                     "biography": "Ich liebe Quizveranstaltungen und die Programmierung von coolen Dingen. Ansonsten besch\u00e4ftige ich mich mit der Barrierefreiheit von Software.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "OIO Workshop Dome": [
+              {
+                "id": 347,
+                "guid": "bf48fa55-92a1-5481-a14a-f77cc0d4fccb",
+                "logo": "",
+                "date": "2019-12-28T11:30:00+01:00",
+                "start": "11:30",
+                "duration": "01:00",
+                "room": "OIO Workshop Dome",
+                "slug": "FU3ZZE",
+                "url": "https://talks.oio.social/36c3-oio/talk/FU3ZZE/",
+                "title": "Nudeln hacken - Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 1 hour",
+                "language": "de",
+                "abstract": "Spa\u00df am Ger\u00e4t: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, k\u00f6nnen alleine oder als Team kommen. Es kann jeder mitmachen, der wei\u00df, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene d\u00fcrfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 74,
+                    "code": "73PEWU",
+                    "public_name": "Stefan Safari",
+                    "biography": "Ich arbeite sehr gerne mit Gruppen, mag den kreativen Umgang mit Dingen und liebe es, gutes Essen zu essen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 348,
+                "guid": "c4bd3614-30a5-5739-a7f6-6880be23709b",
+                "logo": "",
+                "date": "2019-12-28T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "01:00",
+                "room": "OIO Workshop Dome",
+                "slug": "RW3HCE",
+                "url": "https://talks.oio.social/36c3-oio/talk/RW3HCE/",
+                "title": "Trotz Schule die Zukunft meistern? - Mitmach-Workshop f\u00fcr Menschen von 10-100 Jahre",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 1 hour",
+                "language": "en",
+                "abstract": "In einem Workshop \u00fcberlegen Sch\u00fcler*innen gemeinsam mit anderen, wie man sich auf Berufe vorbereitet, die es heute noch gar nicht gibt. Und warum das eigene Smartphone- und Social-Media-Verhalten einem die Zukunft rettet statt sie zu vergeigen.",
+                "description": "Die Sch\u00fcler*innen von heute werden sp\u00e4ter Jobs machen, von denen es 65% heute noch gar nicht gibt - sagt eine Studie, der OECD. Die OECD hat auch Thesen aufgestellt worauf es in der Zukunft ankommt. Da werden Punkte wie \"Problem l\u00f6sen/kritisches Denken\" oder \"Kreativit\u00e4t\" genannt und pers\u00f6nliche Eigentschaften wie \"Neugierde\", \"Initiative\" oder \"Ausdauer/Entschlossenheit\" aufgelistet. Bereitet einen die Schule wirklich auf so was vor, oder sind die Lernwelten nicht viel gr\u00f6\u00dfer. Wie ist ein Besuch des 36C3 einzuordnen? Wie \"wird man neugierig\"?\r\n\r\nDer Workshop wird besonders lebendig, wenn verschiedene Altergruppen/ Generationen teilnehmen. Wenn es allerdings eng im Raum wird, werden Sch\u00fcler*innen bevorzugt.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 74,
+                    "code": "73PEWU",
+                    "public_name": "Stefan Safari",
+                    "biography": "Ich arbeite sehr gerne mit Gruppen, mag den kreativen Umgang mit Dingen und liebe es, gutes Essen zu essen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 347,
+                "guid": "bf48fa55-92a1-5481-a14a-f77cc0d4fccb",
+                "logo": "",
+                "date": "2019-12-28T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "01:00",
+                "room": "OIO Workshop Dome",
+                "slug": "FU3ZZE",
+                "url": "https://talks.oio.social/36c3-oio/talk/FU3ZZE/",
+                "title": "Nudeln hacken - Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 1 hour",
+                "language": "de",
+                "abstract": "Spa\u00df am Ger\u00e4t: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, k\u00f6nnen alleine oder als Team kommen. Es kann jeder mitmachen, der wei\u00df, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene d\u00fcrfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 74,
+                    "code": "73PEWU",
+                    "public_name": "Stefan Safari",
+                    "biography": "Ich arbeite sehr gerne mit Gruppen, mag den kreativen Umgang mit Dingen und liebe es, gutes Essen zu essen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 375,
+                "guid": "5634bc77-b6ad-52ae-88c5-c059cfcebb8e",
+                "logo": "",
+                "date": "2019-12-28T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "02:00",
+                "room": "OIO Workshop Dome",
+                "slug": "TZBSSE",
+                "url": "https://talks.oio.social/36c3-oio/talk/TZBSSE/",
+                "title": "SDR kennenlernen",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 2 hours",
+                "language": "de",
+                "abstract": "Software Defined Radios in Kombination mit open source tools erlauben es einfach anspruchsvolle aufgeben umzusetzen. Nach einer kurzen theoretischen Engf\u00fchrung kann sich jeder an verschieden Beispielen versuchen Signale zu empfangen und zu dekodiren.",
+                "description": "Vom FM Radio bis hin zu z.B. Wlan frames wollen wir uns verscheide Dinge anschauen. Wer es kann bitte einen Laptop mitbringen um eigenst\u00e4ndig arbeiten zu k\u00f6nnen. English speakers can also attend but may have to wait a bit for there instructions.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 135,
+                    "code": "YXFCTE",
+                    "public_name": "Lars Rokita",
+                    "biography": "Physics student who likes to tinker around with high frequency stuff. Call DL4APT",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 353,
+                "guid": "c05054ed-aca8-5d2f-814c-0d6e8851d96e",
+                "logo": "/media/36c3-oio/images/CTQSQ8/meetup_1920_7FtptxA.png",
+                "date": "2019-12-28T20:30:00+01:00",
+                "start": "20:30",
+                "duration": "02:00",
+                "room": "OIO Workshop Dome",
+                "slug": "CTQSQ8",
+                "url": "https://talks.oio.social/36c3-oio/talk/CTQSQ8/",
+                "title": "Open Communication Meetup! - Decentralized Social Networks",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 2 hours",
+                "language": "en",
+                "abstract": "We will test, discuss and document decentralized and off the grid social networks, such as secure scuttlebutt SSCB.",
+                "description": "The goal behind [open-communication.net](https://open-communication.net) is to build a knowledge base on open decentralized communication tools. This is done collectively and collaboratively in 'Open Communication Meetups'.\r\n\r\nIn this meetup we will test, discuss and document existing decentralized and off-the-grid social networks, such as [secure scuttlebutt](https://scuttlebutt.nz/). \r\n\r\nPlease bring your laptops and digital devices in order to collectively test the projects!\r\n\r\nhttps://open-communication.net",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 120,
+                    "code": "G78ZPE",
+                    "public_name": "Mathias Jud",
+                    "biography": "Mathias Jud is a berlin based artist. Since over twenty years, he works together with Christoph Wachter.\r\nTheir art works include open-source projects that uncover forms of censorship of the Internet, undermine the concentration of political power and even resolve the dependency on infrastructure.\r\n\r\nhttps://www.wachter-jud.net/",
                     "answers": []
                   }
                 ],
@@ -9340,7 +9340,7 @@
             ],
             "Sendetisch": [
               {
-                "id": 986,
+                "id": 886,
                 "guid": "8115abea-d1c8-59a6-8060-8f773de66a5d",
                 "logo": "/media/36c3/images/AHFVXQ/_q-RxbLK.jpg",
                 "date": "2019-12-28T13:00:00+01:00",
@@ -9379,7 +9379,7 @@
                 "answers": []
               },
               {
-                "id": 1011,
+                "id": 911,
                 "guid": "3cbb9a0d-f52e-541d-80b0-f8436469a0c1",
                 "logo": "",
                 "date": "2019-12-28T14:00:00+01:00",
@@ -9411,7 +9411,7 @@
                 "answers": []
               },
               {
-                "id": 991,
+                "id": 891,
                 "guid": "b3280604-91cd-5da6-817a-a1b08b760653",
                 "logo": "",
                 "date": "2019-12-28T15:00:00+01:00",
@@ -9450,7 +9450,7 @@
                 "answers": []
               },
               {
-                "id": 1018,
+                "id": 918,
                 "guid": "5b1bc8ca-0bdb-5fab-8542-f0ed1465fd00",
                 "logo": "",
                 "date": "2019-12-28T16:00:00+01:00",
@@ -9489,7 +9489,7 @@
                 "answers": []
               },
               {
-                "id": 1000,
+                "id": 900,
                 "guid": "81b7ea88-8957-505d-a8f1-aeb0ad15bf34",
                 "logo": "/media/36c3/images/7UJAD9/DE6E3710-9D61-4A03-BC04-E419F568BBFE.jpeg",
                 "date": "2019-12-28T17:00:00+01:00",
@@ -9521,7 +9521,7 @@
                 "answers": []
               },
               {
-                "id": 995,
+                "id": 895,
                 "guid": "32d5cfbb-ec5c-5289-90a1-c79d758a205c",
                 "logo": "/media/36c3/images/8XFHT3/36c3_Edition.png",
                 "date": "2019-12-28T19:00:00+01:00",
@@ -9553,7 +9553,7 @@
                 "answers": []
               },
               {
-                "id": 1007,
+                "id": 907,
                 "guid": "9f9efb4b-36e8-58b1-abe7-f89834aed3ec",
                 "logo": "/media/36c3/images/GWEZ9D/segfaultfm-logo.png",
                 "date": "2019-12-28T20:30:00+01:00",
@@ -9592,7 +9592,7 @@
                 "answers": []
               },
               {
-                "id": 987,
+                "id": 887,
                 "guid": "7dccf3f3-3c3b-5918-88da-fa4255fb26f5",
                 "logo": "",
                 "date": "2019-12-28T22:00:00+01:00",
@@ -9624,7 +9624,7 @@
                 "answers": []
               },
               {
-                "id": 992,
+                "id": 892,
                 "guid": "76456644-b7e6-5dc0-bd9e-3350a42a47b0",
                 "logo": "",
                 "date": "2019-12-28T23:00:00+01:00",
@@ -9658,7 +9658,7 @@
             ],
             "Bus": [
               {
-                "id": 1107,
+                "id": 4107,
                 "guid": "b08a2e8a-ad1d-51ab-ac5e-71456a5bdff1",
                 "logo": "/media/36c3/images/XCDDNN/himiko__web_MoLCHSo.jpg",
                 "date": "2019-12-28T21:00:00+01:00",
@@ -9690,7 +9690,7 @@
                 "answers": []
               },
               {
-                "id": 1105,
+                "id": 4105,
                 "guid": "5fd02550-abcf-5e09-af82-cd4501139caf",
                 "logo": "/media/36c3/images/ZPKUFZ/Schmeck_mein_Blut__web.jpg",
                 "date": "2019-12-28T22:00:00+01:00",
@@ -9722,7 +9722,7 @@
                 "answers": []
               },
               {
-                "id": 1111,
+                "id": 4111,
                 "guid": "b3521656-5553-5ae0-817a-42a24c648b97",
                 "logo": "/media/36c3/images/QKXACA/FranzM_PLUS__web_AniBVAP.jpg",
                 "date": "2019-12-28T23:00:00+01:00",
@@ -9754,7 +9754,7 @@
                 "answers": []
               },
               {
-                "id": 1112,
+                "id": 4112,
                 "guid": "d01d65f8-cda6-5547-a0a1-3c477f9d615c",
                 "logo": "/media/36c3/images/VE3ZFD/Pastor_Leumund__web_y2i5Xvu.jpg",
                 "date": "2019-12-29T00:30:00+01:00",
@@ -9788,7 +9788,7 @@
             ],
             "Installations": [
               {
-                "id": 1115,
+                "id": 4115,
                 "guid": "68e97e7b-c701-5325-bc6b-291628a5dbca",
                 "logo": "",
                 "date": "2019-12-28T15:00:00+01:00",
@@ -12900,7 +12900,7 @@
             ],
             "DLF- und Podcast-B\u00fchne": [
               {
-                "id": 1022,
+                "id": 922,
                 "guid": "a66747f4-eb91-57ea-b05a-07f3162bc0c0",
                 "logo": "",
                 "date": "2019-12-29T11:00:00+01:00",
@@ -12939,7 +12939,7 @@
                 "answers": []
               },
               {
-                "id": 994,
+                "id": 894,
                 "guid": "eaf59e9c-e60e-5a80-bd3b-b99ee146282e",
                 "logo": "/media/36c3/images/YNP9VN/gbni_logo.jpg",
                 "date": "2019-12-29T19:15:00+01:00",
@@ -12971,7 +12971,7 @@
                 "answers": []
               },
               {
-                "id": 1014,
+                "id": 914,
                 "guid": "7e748a07-89f3-51bb-927a-f8560617f180",
                 "logo": "/media/36c3/images/HSYE8L/NSU_Podcast_serif.png",
                 "date": "2019-12-29T20:30:00+01:00",
@@ -13003,7 +13003,7 @@
                 "answers": []
               },
               {
-                "id": 1019,
+                "id": 919,
                 "guid": "f08d3915-e3e2-5ffe-a0a7-f8358c74aada",
                 "logo": "/media/36c3/images/AAYM3Q/icon.jpg",
                 "date": "2019-12-29T21:45:00+01:00",
@@ -13035,7 +13035,7 @@
                 "answers": []
               },
               {
-                "id": 1017,
+                "id": 917,
                 "guid": "6cc4edbc-3a34-50f6-b4eb-470226e10e5a",
                 "logo": "",
                 "date": "2019-12-29T23:00:00+01:00",
@@ -13066,202 +13066,6 @@
                     "code": "97QTTG",
                     "public_name": "monoxyd",
                     "biography": "monoxyd spricht in Mikrofone. Im Radio, in Podcasts und auf B\u00fchnen. Und er mahnt seit Jahren im Chaosradio: \"Lasst euch nicht \u00fcberwachen und verschl\u00fcsselt immer sch\u00f6n eure Backups!\"",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              }
-            ],
-            "OIO Workshop Dome": [
-              {
-                "id": 344,
-                "guid": "312560c7-7ce7-5c81-97b4-7692b2d9a240",
-                "logo": "/media/36c3-oio/images/HHZQAY/meetup_1920_ssHGXLa.png",
-                "date": "2019-12-29T13:50:00+01:00",
-                "start": "13:50",
-                "duration": "02:00",
-                "room": "OIO Workshop Dome",
-                "slug": "HHZQAY",
-                "url": "https://talks.oio.social/36c3-oio/talk/HHZQAY/",
-                "title": "Open Communication Meetup! - Adhoc mesh routing protocols",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Workshop 2 hours",
-                "language": "en",
-                "abstract": "We will discuss and document mobile ad-hoc mesh routing protocols.",
-                "description": "The goal behind [open-communication.net](https://open-communication.net) is to build a knowledge base on open decentralized communication tools. This is done collectively and collaboratively in 'Open Communication Meetups'.\r\n\r\nIn this meetup we will discuss and document existing open and decentralized mesh routing protocols. \r\n\r\nhttps://open-communication.net",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 120,
-                    "code": "G78ZPE",
-                    "public_name": "Mathias Jud",
-                    "biography": "Mathias Jud is a berlin based artist. Since over twenty years, he works together with Christoph Wachter.\r\nTheir art works include open-source projects that uncover forms of censorship of the Internet, undermine the concentration of political power and even resolve the dependency on infrastructure.\r\n\r\nhttps://www.wachter-jud.net/",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 349,
-                "guid": "c8793eb8-53be-5a90-b549-f5789da4d174",
-                "logo": "/media/36c3-oio/images/PATB9E/lynXified-amirouche-anonymous-v3_C4S2fqs.png",
-                "date": "2019-12-29T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "01:00",
-                "room": "OIO Workshop Dome",
-                "slug": "PATB9E",
-                "url": "https://talks.oio.social/36c3-oio/talk/PATB9E/",
-                "title": "GNUnet e.V. annual assembly",
-                "subtitle": "",
-                "track": "OIO",
-                "type": "Workshop 1 hour",
-                "language": "en",
-                "abstract": "https://gnunet.org/ e.V. annually meets to discuss all things GNUnet e.V.-related (including finances, elections, and community update). The full agenda will be determined closer to the event.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 123,
-                    "code": "JXPKXS",
-                    "public_name": "Christian Grothoff",
-                    "biography": "https://grothoff.org/christian/",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 355,
-                "guid": "6d1b8adb-0f77-5693-a768-fabf2c252929",
-                "logo": "/media/36c3-oio/images/VHZQKJ/LoRaWAN5_apfiK6P.png",
-                "date": "2019-12-29T17:10:00+01:00",
-                "start": "17:10",
-                "duration": "02:00",
-                "room": "OIO Workshop Dome",
-                "slug": "VHZQKJ",
-                "url": "https://talks.oio.social/36c3-oio/talk/VHZQKJ/",
-                "title": "Getting started connecting your Devices using LoRaWAN",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Workshop 2 hours",
-                "language": "en",
-                "abstract": "LoRaWAN is a **Lo**ng **Ra**nge **W**ide **A**rea **N**etwork that can connect devices over several kilometres while operating on very low power. It uses freely available frequencies, and with successful community project *The Things Network* there exists an open and free network. This makes LoRaWAN ideal for that small gadgets you want to deploy out in the field and also really interesting for a hacker community. Let's get working on it!",
-                "description": "We will be going through the whole process of how to build, program, and setup a simple LoRaWAN connected device using an *Arduino* and *The Things Network*. The workshop will start with an introduction to how LoRaWAN works, but the session is planed to be a more interactive format where we get a bit of work done together.\r\n\r\nIf you need an introduction, why LoRaWAN is interesting, you can watch our 20min talk from last year: <br>\r\nhttps://media.ccc.de/v/35c3chaoswest-27-long-range-radio-communication-for-everyone-using-lorawan-\r\n\r\nIf you want to know how you can come prepared, go to: <br>\r\nhttps://www.deepcyber.de/36c3/lorawan",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 129,
-                    "code": "YRX8PJ",
-                    "public_name": "Peer Springst\u00fcbe",
-                    "biography": "Have done my Diploma in Informatik (that's *Computer Science* in Germany) and got a side order of Physics and Philosophy with it. Tried out robotics and deep learning while at university. I am now working with a company that does industrial IoT focused on NB-IoT and LoRaWAN. \r\n\r\nI am heavily involved with [deep cyber](https://www.deepcyber.de) &ndash; check out our assembly at 36c3!",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 393,
-                "guid": "46c24f81-f788-52e6-bd61-9e2e68040ad5",
-                "logo": "",
-                "date": "2019-12-29T19:15:00+01:00",
-                "start": "19:15",
-                "duration": "01:00",
-                "room": "OIO Workshop Dome",
-                "slug": "LZMW9E",
-                "url": "https://talks.oio.social/36c3-oio/talk/LZMW9E/",
-                "title": "Wireless Security Meetup",
-                "subtitle": "",
-                "track": "Security",
-                "type": "Workshop 1 hour",
-                "language": "en",
-                "abstract": "Open discussion about wireless security of current and upcoming chips and wireless technologies.",
-                "description": "Anyone who wants to discuss wireless security is welcome! Topics will most likely include NFC, Bluetooth, Wi-Fi, LTE, LoRaWAN, TETRA and more. We will talk about implementation issues, as well as security testing, and problems with the specifications.\r\n\r\nThis meetup is organized by Jiska, who presents the talk \"All wireless communication stacks are equally broken\" at the main conference.\r\n\r\nPlease register in advance at https://forms.gle/Ph8HydTbMFrN398m6 with whatever pseudonym. This is required to keep the group and the discussion focused :)",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 157,
-                    "code": "89SAST",
-                    "public_name": "jiska",
-                    "biography": "Working on wireless security with a focus on Bluetooth.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 385,
-                "guid": "f3e731fa-1a62-5238-969a-7f28e5812334",
-                "logo": "",
-                "date": "2019-12-29T20:50:00+01:00",
-                "start": "20:50",
-                "duration": "01:00",
-                "room": "OIO Workshop Dome",
-                "slug": "8PGUXK",
-                "url": "https://talks.oio.social/36c3-oio/talk/8PGUXK/",
-                "title": "Global Innovation Gathering meetup",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Workshop 1 hour",
-                "language": "en",
-                "abstract": "The Global Innovation Gathering (GIG) is a diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers.\r\n\r\nWith strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members. We have a non-profit organisation registered in Germany.\r\n\r\nGIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators.\r\n\r\nWhat can we create together?",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 96,
-                    "code": "P3GLDY",
-                    "public_name": "Sandra GIG",
-                    "biography": "Sandra Mamitzsch baut seit 2018 das Berliner B\u00fcro des Global Innovation Gathering e.V., einem globalen Netzwerk von Makern und Innovatoren, auf und besch\u00e4ftigt sich daher viel damit, wie dezentrale Zusammenarbeit und offene Organisationsformen funktionieren. Haupts\u00e4chlich ist sie im Verein f\u00fcr das Horizon2020-F\u00f6rderprojekt Careables.org verantwortlich, dass innerhalb von Makerspace-Communities dabei hilft, mit offenen Technologien und Co-Design in Gesundheit und Pflege das Leben von Menschen zu verbessern. Von 2012-2017 war sie Programmdirektorin der re:publica und arbeitet dort weiterhin als freie Beraterin und Kuratorin. Nebenbei ist sie Mitglied bei European Digital Rights (EDRi) und beim Digitale Gesellschaft e.V.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              }
-            ],
-            "OIO Solder Area": [
-              {
-                "id": 390,
-                "guid": "4f5c1cc5-ad99-52dc-89cd-699eae66bcb8",
-                "logo": "",
-                "date": "2019-12-29T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "02:00",
-                "room": "OIO Solder Area",
-                "slug": "3KNRHJ",
-                "url": "https://talks.oio.social/36c3-oio/talk/3KNRHJ/",
-                "title": "L\u00f6ten f\u00fcr Einsteiger",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Solder Workshop 2h",
-                "language": "de",
-                "abstract": "L\u00f6ten f\u00fcr Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem L\u00f6tkolben nach Huhn?",
-                "description": "Wir wollen uns in den zwei Stunden die Grundlagen des L\u00f6tens erarbeiten. Also welcher L\u00f6tkolben oder L\u00f6tstation, welches Material, welches Zubeh\u00f6r ist notwendig und sinnvoll? \r\n\r\nWas tun wir? \r\n- Handhabung Pflege und des L\u00f6twerkzeugs\r\n- einfache L\u00f6t\u00fcbungen\r\n- L\u00f6ten auf Leiterplatten\r\n- L\u00f6ten mit Dr\u00e4hten und Bauteilen\r\n\r\nW\u00e4hrend des Workshops k\u00f6nnen auch selbst mitgebrachte Baus\u00e4tze zusammengel\u00f6tet werden.\r\n\r\nBei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 154,
-                    "code": "8M8VKT",
-                    "public_name": "Stefan, DK6TM",
-                    "biography": "Funkamateur seit 2007, Amateurfunk Ausbildung seit mehr als 10 Jahren. \r\nWeiterbildung im Bereich Elektronik, L\u00f6ten, Antennenbau. Spezialgebiet Seminare f\u00fcr grundlegende Fertigkeiten, Schaltungstechnik und HF-Hardware. \r\nAutoradio-Arch\u00e4ologe (Restauration von antiken Autoradios)",
                     "answers": []
                   }
                 ],
@@ -13541,6 +13345,202 @@
                     "code": "RBEKZW",
                     "public_name": "bleeptrack",
                     "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "OIO Workshop Dome": [
+              {
+                "id": 344,
+                "guid": "312560c7-7ce7-5c81-97b4-7692b2d9a240",
+                "logo": "/media/36c3-oio/images/HHZQAY/meetup_1920_ssHGXLa.png",
+                "date": "2019-12-29T13:50:00+01:00",
+                "start": "13:50",
+                "duration": "02:00",
+                "room": "OIO Workshop Dome",
+                "slug": "HHZQAY",
+                "url": "https://talks.oio.social/36c3-oio/talk/HHZQAY/",
+                "title": "Open Communication Meetup! - Adhoc mesh routing protocols",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 2 hours",
+                "language": "en",
+                "abstract": "We will discuss and document mobile ad-hoc mesh routing protocols.",
+                "description": "The goal behind [open-communication.net](https://open-communication.net) is to build a knowledge base on open decentralized communication tools. This is done collectively and collaboratively in 'Open Communication Meetups'.\r\n\r\nIn this meetup we will discuss and document existing open and decentralized mesh routing protocols. \r\n\r\nhttps://open-communication.net",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 120,
+                    "code": "G78ZPE",
+                    "public_name": "Mathias Jud",
+                    "biography": "Mathias Jud is a berlin based artist. Since over twenty years, he works together with Christoph Wachter.\r\nTheir art works include open-source projects that uncover forms of censorship of the Internet, undermine the concentration of political power and even resolve the dependency on infrastructure.\r\n\r\nhttps://www.wachter-jud.net/",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 349,
+                "guid": "c8793eb8-53be-5a90-b549-f5789da4d174",
+                "logo": "/media/36c3-oio/images/PATB9E/lynXified-amirouche-anonymous-v3_C4S2fqs.png",
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:00",
+                "room": "OIO Workshop Dome",
+                "slug": "PATB9E",
+                "url": "https://talks.oio.social/36c3-oio/talk/PATB9E/",
+                "title": "GNUnet e.V. annual assembly",
+                "subtitle": "",
+                "track": "OIO",
+                "type": "Workshop 1 hour",
+                "language": "en",
+                "abstract": "https://gnunet.org/ e.V. annually meets to discuss all things GNUnet e.V.-related (including finances, elections, and community update). The full agenda will be determined closer to the event.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 123,
+                    "code": "JXPKXS",
+                    "public_name": "Christian Grothoff",
+                    "biography": "https://grothoff.org/christian/",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 355,
+                "guid": "6d1b8adb-0f77-5693-a768-fabf2c252929",
+                "logo": "/media/36c3-oio/images/VHZQKJ/LoRaWAN5_apfiK6P.png",
+                "date": "2019-12-29T17:10:00+01:00",
+                "start": "17:10",
+                "duration": "02:00",
+                "room": "OIO Workshop Dome",
+                "slug": "VHZQKJ",
+                "url": "https://talks.oio.social/36c3-oio/talk/VHZQKJ/",
+                "title": "Getting started connecting your Devices using LoRaWAN",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 2 hours",
+                "language": "en",
+                "abstract": "LoRaWAN is a **Lo**ng **Ra**nge **W**ide **A**rea **N**etwork that can connect devices over several kilometres while operating on very low power. It uses freely available frequencies, and with successful community project *The Things Network* there exists an open and free network. This makes LoRaWAN ideal for that small gadgets you want to deploy out in the field and also really interesting for a hacker community. Let's get working on it!",
+                "description": "We will be going through the whole process of how to build, program, and setup a simple LoRaWAN connected device using an *Arduino* and *The Things Network*. The workshop will start with an introduction to how LoRaWAN works, but the session is planed to be a more interactive format where we get a bit of work done together.\r\n\r\nIf you need an introduction, why LoRaWAN is interesting, you can watch our 20min talk from last year: <br>\r\nhttps://media.ccc.de/v/35c3chaoswest-27-long-range-radio-communication-for-everyone-using-lorawan-\r\n\r\nIf you want to know how you can come prepared, go to: <br>\r\nhttps://www.deepcyber.de/36c3/lorawan",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 129,
+                    "code": "YRX8PJ",
+                    "public_name": "Peer Springst\u00fcbe",
+                    "biography": "Have done my Diploma in Informatik (that's *Computer Science* in Germany) and got a side order of Physics and Philosophy with it. Tried out robotics and deep learning while at university. I am now working with a company that does industrial IoT focused on NB-IoT and LoRaWAN. \r\n\r\nI am heavily involved with [deep cyber](https://www.deepcyber.de) &ndash; check out our assembly at 36c3!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 393,
+                "guid": "46c24f81-f788-52e6-bd61-9e2e68040ad5",
+                "logo": "",
+                "date": "2019-12-29T19:15:00+01:00",
+                "start": "19:15",
+                "duration": "01:00",
+                "room": "OIO Workshop Dome",
+                "slug": "LZMW9E",
+                "url": "https://talks.oio.social/36c3-oio/talk/LZMW9E/",
+                "title": "Wireless Security Meetup",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Workshop 1 hour",
+                "language": "en",
+                "abstract": "Open discussion about wireless security of current and upcoming chips and wireless technologies.",
+                "description": "Anyone who wants to discuss wireless security is welcome! Topics will most likely include NFC, Bluetooth, Wi-Fi, LTE, LoRaWAN, TETRA and more. We will talk about implementation issues, as well as security testing, and problems with the specifications.\r\n\r\nThis meetup is organized by Jiska, who presents the talk \"All wireless communication stacks are equally broken\" at the main conference.\r\n\r\nPlease register in advance at https://forms.gle/Ph8HydTbMFrN398m6 with whatever pseudonym. This is required to keep the group and the discussion focused :)",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 157,
+                    "code": "89SAST",
+                    "public_name": "jiska",
+                    "biography": "Working on wireless security with a focus on Bluetooth.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 385,
+                "guid": "f3e731fa-1a62-5238-969a-7f28e5812334",
+                "logo": "",
+                "date": "2019-12-29T20:50:00+01:00",
+                "start": "20:50",
+                "duration": "01:00",
+                "room": "OIO Workshop Dome",
+                "slug": "8PGUXK",
+                "url": "https://talks.oio.social/36c3-oio/talk/8PGUXK/",
+                "title": "Global Innovation Gathering meetup",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 1 hour",
+                "language": "en",
+                "abstract": "The Global Innovation Gathering (GIG) is a diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers.\r\n\r\nWith strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members. We have a non-profit organisation registered in Germany.\r\n\r\nGIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators.\r\n\r\nWhat can we create together?",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 96,
+                    "code": "P3GLDY",
+                    "public_name": "Sandra GIG",
+                    "biography": "Sandra Mamitzsch baut seit 2018 das Berliner B\u00fcro des Global Innovation Gathering e.V., einem globalen Netzwerk von Makern und Innovatoren, auf und besch\u00e4ftigt sich daher viel damit, wie dezentrale Zusammenarbeit und offene Organisationsformen funktionieren. Haupts\u00e4chlich ist sie im Verein f\u00fcr das Horizon2020-F\u00f6rderprojekt Careables.org verantwortlich, dass innerhalb von Makerspace-Communities dabei hilft, mit offenen Technologien und Co-Design in Gesundheit und Pflege das Leben von Menschen zu verbessern. Von 2012-2017 war sie Programmdirektorin der re:publica und arbeitet dort weiterhin als freie Beraterin und Kuratorin. Nebenbei ist sie Mitglied bei European Digital Rights (EDRi) und beim Digitale Gesellschaft e.V.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "OIO Solder Area": [
+              {
+                "id": 390,
+                "guid": "4f5c1cc5-ad99-52dc-89cd-699eae66bcb8",
+                "logo": "",
+                "date": "2019-12-29T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "02:00",
+                "room": "OIO Solder Area",
+                "slug": "3KNRHJ",
+                "url": "https://talks.oio.social/36c3-oio/talk/3KNRHJ/",
+                "title": "L\u00f6ten f\u00fcr Einsteiger",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Solder Workshop 2h",
+                "language": "de",
+                "abstract": "L\u00f6ten f\u00fcr Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem L\u00f6tkolben nach Huhn?",
+                "description": "Wir wollen uns in den zwei Stunden die Grundlagen des L\u00f6tens erarbeiten. Also welcher L\u00f6tkolben oder L\u00f6tstation, welches Material, welches Zubeh\u00f6r ist notwendig und sinnvoll? \r\n\r\nWas tun wir? \r\n- Handhabung Pflege und des L\u00f6twerkzeugs\r\n- einfache L\u00f6t\u00fcbungen\r\n- L\u00f6ten auf Leiterplatten\r\n- L\u00f6ten mit Dr\u00e4hten und Bauteilen\r\n\r\nW\u00e4hrend des Workshops k\u00f6nnen auch selbst mitgebrachte Baus\u00e4tze zusammengel\u00f6tet werden.\r\n\r\nBei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 154,
+                    "code": "8M8VKT",
+                    "public_name": "Stefan, DK6TM",
+                    "biography": "Funkamateur seit 2007, Amateurfunk Ausbildung seit mehr als 10 Jahren. \r\nWeiterbildung im Bereich Elektronik, L\u00f6ten, Antennenbau. Spezialgebiet Seminare f\u00fcr grundlegende Fertigkeiten, Schaltungstechnik und HF-Hardware. \r\nAutoradio-Arch\u00e4ologe (Restauration von antiken Autoradios)",
                     "answers": []
                   }
                 ],
@@ -14283,7 +14283,7 @@
             ],
             "Sendetisch": [
               {
-                "id": 1005,
+                "id": 905,
                 "guid": "340a8cac-82e5-5f35-b63a-557efc63aaed",
                 "logo": "/media/36c3/images/P33HZD/SMC3-e1522857023464.png",
                 "date": "2019-12-29T14:00:00+01:00",
@@ -14315,7 +14315,7 @@
                 "answers": []
               },
               {
-                "id": 1003,
+                "id": 903,
                 "guid": "c034d8a0-7d30-524d-91fa-ed4d7a90de3b",
                 "logo": "/media/36c3/images/3WHYSD/Wasn-Krach-Logo.png",
                 "date": "2019-12-29T15:00:00+01:00",
@@ -14347,7 +14347,7 @@
                 "answers": []
               },
               {
-                "id": 1001,
+                "id": 901,
                 "guid": "d035f03e-9886-53a2-ab30-adbdbd0a7258",
                 "logo": "/media/36c3/images/LBCKVP/entbehrcast.jpeg",
                 "date": "2019-12-29T17:00:00+01:00",
@@ -14386,7 +14386,7 @@
                 "answers": []
               },
               {
-                "id": 997,
+                "id": 897,
                 "guid": "483df369-d76f-53ce-b7af-f6a844ed7d10",
                 "logo": "/media/36c3/images/RQZDAR/7da3a38d-251b-418a-abea-9ad7b630e539_1.png",
                 "date": "2019-12-29T19:00:00+01:00",
@@ -14418,7 +14418,7 @@
                 "answers": []
               },
               {
-                "id": 1006,
+                "id": 906,
                 "guid": "8c85f0c4-0d8b-57b9-a74f-e382b8d0997f",
                 "logo": "/media/36c3/images/YTCNPM/stilles_kaemmerchen_wollkanal-1024x1024.png",
                 "date": "2019-12-29T20:30:00+01:00",
@@ -14457,7 +14457,7 @@
                 "answers": []
               },
               {
-                "id": 996,
+                "id": 896,
                 "guid": "bac2dbc2-3346-59c0-8fbc-cdf2417cc51a",
                 "logo": "",
                 "date": "2019-12-29T22:00:00+01:00",
@@ -14498,7 +14498,7 @@
             ],
             "Bus": [
               {
-                "id": 1108,
+                "id": 4108,
                 "guid": "dc5ceba4-11e3-5abf-805a-d677ec705d3f",
                 "logo": "/media/36c3/images/MJVFL7/team_intim__web_w7eeJru.jpg",
                 "date": "2019-12-29T19:00:00+01:00",
@@ -14530,7 +14530,7 @@
                 "answers": []
               },
               {
-                "id": 1110,
+                "id": 4110,
                 "guid": "9156e966-f9a4-5483-a744-53ee039ece25",
                 "logo": "/media/36c3/images/97PKLH/Schmeck_mein_Blut__web_4a3stVK.jpg",
                 "date": "2019-12-29T21:00:00+01:00",
@@ -14562,7 +14562,7 @@
                 "answers": []
               },
               {
-                "id": 1113,
+                "id": 4113,
                 "guid": "3c4bcf82-22a9-5503-9066-1e2f7986ba88",
                 "logo": "/media/36c3/images/ZBXV33/Onyx_Ashanti__web_MViGQGv.jpg",
                 "date": "2019-12-29T22:00:00+01:00",
@@ -14594,7 +14594,7 @@
                 "answers": []
               },
               {
-                "id": 1114,
+                "id": 4114,
                 "guid": "9ffb64b6-1d53-550f-8efc-d25bb869395b",
                 "logo": "/media/36c3/images/GGXZMX/Kuiperkuiper__web_zISSGFB.jpg",
                 "date": "2019-12-29T23:30:00+01:00",
@@ -15865,72 +15865,6 @@
               }
             ],
             "DLF- und Podcast-B\u00fchne": [],
-            "OIO Workshop Dome": [
-              {
-                "id": 378,
-                "guid": "3d0efe4f-63da-5a8b-822a-b0ba99692ed3",
-                "logo": "",
-                "date": "2019-12-30T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "01:59",
-                "room": "OIO Workshop Dome",
-                "slug": "A93MNM",
-                "url": "https://talks.oio.social/36c3-oio/talk/A93MNM/",
-                "title": "Freifunk, was tun, damit 2020 kein weiteres 2019 wird?",
-                "subtitle": "",
-                "track": "Ethics, Society & Politics",
-                "type": "Workshop 2 hours",
-                "language": "de",
-                "abstract": "Wie soll es mit dem Freifunk weitergehen? \r\nAdmin-Mangel, zunehmende Finanzierungsprobleme, unerf\u00fcllte Erwartungen?",
-                "description": "Auch wenn die c't-Aktion das Schlimmste im Jahr 2019 abgewendet hat, so ist es doch nur ein Jahr der Fortsetzung von 2018 gewesen: Community-Sterben, kein Lichtblick bei der Gemeinn\u00fctzigkeit, immer weniger Bedarf/Verst\u00e4ndnis f\u00fcr das was Freifunkende unter \"freies Wlan\" verstehen, umgekehrt immer gr\u00f6\u00dfere Schere zwichen dem was Freifunk realistisch an Bandbreiten liefern und Verf\u00fcgbarkeiten garantieren kann und dem was inzwischen von vielen Nutzenden erwartet wird. In Summe immer weniger Spass am Ger\u00e4t f\u00fcr die verbliebenen Nutzenden. \r\nNeben der Bestandsaufnahme \"Was wir beobachten\" und \"warum das vermutlich so ist\": \r\nK\u00f6nnen wir es \u00e4ndern? Wollen wir es \u00e4ndern? Wie kann man sich neu orientieren, wenn alle bisherigen Rezepte versagt haben. Oder wie f\u00e4hrt man Communties herunter, damit zumindest die Au\u00dfendarstellung nicht v\u00f6llig desastr\u00f6s ist?\r\nDieser Workshop richtet sich an Menschen, die mehr als 1-2 Jahren schon Freifunk-Geschichte erlebt haben. Um L\u00f6sungsstrategien zu diskutieren. Ein \u00e4hnlich gelagerter Forenthread zur Einstimmung: https://forum.freifunk.net/t/rueckgang-von-communities-rettungsleine/21507/38",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 6,
-                    "code": "HFER8G",
-                    "public_name": "Adorfer",
-                    "biography": "In \"[Tier][1][netzen][2]\" aufgewachsen, vom \"[Knastfunk][3]\" sozialisiert, \r\nhat mal mit [waffle][4] und [KA9Q][5] angefangen und den Einstieg zu TCP/IP \u00fcber [AX.25][6] gefunden.\r\nErste Begegnung mit Mesh-Funknetzen: \"PublicDomain87\" (FoeBUDe.V./Bunker Ulmenwall/Bielefeld/1998): \"[DIRC -- kostenloses Telefonnetz\" mit Winrich Hoseit, K\u00f6ln][7])\r\n\r\n  [1]: http://de.wikipedia.org/wiki/FidoNet\r\n  [2]: http://de.wikipedia.org/wiki/Janus_%28Protokoll%29\r\n  [3]: http://de.wikipedia.org/wiki/CB-Funk\r\n  [4]: http://en.wikipedia.org/wiki/Waffle_%28BBS_software%29\r\n  [5]: http://en.wikipedia.org/wiki/KA9Q\r\n  [6]: http://en.wikipedia.org/wiki/AX.25\r\n  [7]: http://www.spiegel.de/spiegel/print/d-8778738.html",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 346,
-                "guid": "51138520-7dc9-5c59-997b-76c4d0ca9f24",
-                "logo": "",
-                "date": "2019-12-30T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "02:00",
-                "room": "OIO Workshop Dome",
-                "slug": "XJHFPM",
-                "url": "https://talks.oio.social/36c3-oio/talk/XJHFPM/",
-                "title": "Internet access and VoIP as Open/Commons Infrastructure",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Workshop 2 hours",
-                "language": "en",
-                "abstract": "We want to explore the perspectives and plan future action on internet access and VoIP dial-out in a user-owned (Commons Economy) or completely open infrastructure. See the related talk for an introduction to the state of affairs.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 121,
-                    "code": "MWCBCT",
-                    "public_name": "Sumy",
-                    "biography": "Active in Freifunk, TeleCommons, community networks",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              }
-            ],
             "WikiPaka WG: Esszimmer": [
               {
                 "id": 569,
@@ -15989,6 +15923,72 @@
                     "code": "K38FMT",
                     "public_name": "Arne",
                     "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "OIO Workshop Dome": [
+              {
+                "id": 378,
+                "guid": "3d0efe4f-63da-5a8b-822a-b0ba99692ed3",
+                "logo": "",
+                "date": "2019-12-30T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "01:59",
+                "room": "OIO Workshop Dome",
+                "slug": "A93MNM",
+                "url": "https://talks.oio.social/36c3-oio/talk/A93MNM/",
+                "title": "Freifunk, was tun, damit 2020 kein weiteres 2019 wird?",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Workshop 2 hours",
+                "language": "de",
+                "abstract": "Wie soll es mit dem Freifunk weitergehen? \r\nAdmin-Mangel, zunehmende Finanzierungsprobleme, unerf\u00fcllte Erwartungen?",
+                "description": "Auch wenn die c't-Aktion das Schlimmste im Jahr 2019 abgewendet hat, so ist es doch nur ein Jahr der Fortsetzung von 2018 gewesen: Community-Sterben, kein Lichtblick bei der Gemeinn\u00fctzigkeit, immer weniger Bedarf/Verst\u00e4ndnis f\u00fcr das was Freifunkende unter \"freies Wlan\" verstehen, umgekehrt immer gr\u00f6\u00dfere Schere zwichen dem was Freifunk realistisch an Bandbreiten liefern und Verf\u00fcgbarkeiten garantieren kann und dem was inzwischen von vielen Nutzenden erwartet wird. In Summe immer weniger Spass am Ger\u00e4t f\u00fcr die verbliebenen Nutzenden. \r\nNeben der Bestandsaufnahme \"Was wir beobachten\" und \"warum das vermutlich so ist\": \r\nK\u00f6nnen wir es \u00e4ndern? Wollen wir es \u00e4ndern? Wie kann man sich neu orientieren, wenn alle bisherigen Rezepte versagt haben. Oder wie f\u00e4hrt man Communties herunter, damit zumindest die Au\u00dfendarstellung nicht v\u00f6llig desastr\u00f6s ist?\r\nDieser Workshop richtet sich an Menschen, die mehr als 1-2 Jahren schon Freifunk-Geschichte erlebt haben. Um L\u00f6sungsstrategien zu diskutieren. Ein \u00e4hnlich gelagerter Forenthread zur Einstimmung: https://forum.freifunk.net/t/rueckgang-von-communities-rettungsleine/21507/38",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 6,
+                    "code": "HFER8G",
+                    "public_name": "Adorfer",
+                    "biography": "In \"[Tier][1][netzen][2]\" aufgewachsen, vom \"[Knastfunk][3]\" sozialisiert, \r\nhat mal mit [waffle][4] und [KA9Q][5] angefangen und den Einstieg zu TCP/IP \u00fcber [AX.25][6] gefunden.\r\nErste Begegnung mit Mesh-Funknetzen: \"PublicDomain87\" (FoeBUDe.V./Bunker Ulmenwall/Bielefeld/1998): \"[DIRC -- kostenloses Telefonnetz\" mit Winrich Hoseit, K\u00f6ln][7])\r\n\r\n  [1]: http://de.wikipedia.org/wiki/FidoNet\r\n  [2]: http://de.wikipedia.org/wiki/Janus_%28Protokoll%29\r\n  [3]: http://de.wikipedia.org/wiki/CB-Funk\r\n  [4]: http://en.wikipedia.org/wiki/Waffle_%28BBS_software%29\r\n  [5]: http://en.wikipedia.org/wiki/KA9Q\r\n  [6]: http://en.wikipedia.org/wiki/AX.25\r\n  [7]: http://www.spiegel.de/spiegel/print/d-8778738.html",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 346,
+                "guid": "51138520-7dc9-5c59-997b-76c4d0ca9f24",
+                "logo": "",
+                "date": "2019-12-30T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "02:00",
+                "room": "OIO Workshop Dome",
+                "slug": "XJHFPM",
+                "url": "https://talks.oio.social/36c3-oio/talk/XJHFPM/",
+                "title": "Internet access and VoIP as Open/Commons Infrastructure",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 2 hours",
+                "language": "en",
+                "abstract": "We want to explore the perspectives and plan future action on internet access and VoIP dial-out in a user-owned (Commons Economy) or completely open infrastructure. See the related talk for an introduction to the state of affairs.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 121,
+                    "code": "MWCBCT",
+                    "public_name": "Sumy",
+                    "biography": "Active in Freifunk, TeleCommons, community networks",
                     "answers": []
                   }
                 ],
@@ -16101,7 +16101,7 @@
             ],
             "Sendetisch": [
               {
-                "id": 993,
+                "id": 893,
                 "guid": "4c1d5810-e052-539d-ac78-a4ea395b24cc",
                 "logo": "/media/36c3/images/7HYJL7/theinsnider.jpg",
                 "date": "2019-12-30T14:00:00+01:00",

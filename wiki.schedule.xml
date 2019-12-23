@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-23 18:20</version>
+  <version>2019-12-23 19:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -5131,6 +5131,29 @@ tba (For now, see https://en.wikipedia.org/wiki/Deliberative_democracy)</descrip
         </persons>
         <links/>
       </event>
+      <event id="1286" guid="005da89f-34b5-4a13-9104-1b8826cb7bff">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Theory</url>
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1286-session_pentagame_theory</slug>
+        <title>Pentagame Theory</title>
+        <subtitle>State space size and shape, etc.</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Pentagame is a new abstract board game. We talk about some fundamental insights.
+Pentagame is a novel board game that gains popularity in nerd circles. We have gathered insights regarding the game and will talk about(1) the game as such: how we came to invent it, and how it is played(2) a possible antique ancestor(3) opening moves and theory(4) state space complexity(5) endings and end positionsThis is a hot topic, since Pentagame remains an unsolved game. Studying it is an exercise in the theory of abstract games. The talk should be interesting for Pentagame players, but also to anyone interested in the theory of games.We are looking forward for discussion, intellectual exchange, and collaboration.Note that Pentagame can be played at c-base assembly pretty much any time, and from 22:00 hrs per day in particular.There will be an open tournament on the young hacker day.</description>
+        <persons>
+          <person id="0">Penta</person>
+        </persons>
+        <links>
+          <link>https://pentagame.org</link>
+        </links>
+      </event>
       <event id="1198" guid="4aa7b5a5-2abd-4711-8029-67c9557a76f3">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
         <logo/>
@@ -5193,29 +5216,6 @@ Join us for a nice hour (or two) of open discussion around the topics of maritim
         <abstract/>
         <description>Just playing Pentagame
 Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages.</description>
-        <persons>
-          <person id="0">Penta</person>
-        </persons>
-        <links>
-          <link>https://pentagame.org</link>
-        </links>
-      </event>
-      <event id="1286" guid="005da89f-34b5-4a13-9104-1b8826cb7bff">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Theory</url>
-        <logo/>
-        <date>2019-12-29T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:C-base / CCC-B / xHain</room>
-        <slug>36c3-1286-session_pentagame_theory</slug>
-        <title>Pentagame Theory</title>
-        <subtitle>State space size and shape, etc.</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Pentagame is a new abstract board game. We talk about some fundamental insights.
-Pentagame is a novel board game that gains popularity in nerd circles. We have gathered insights regarding the game and will talk about(1) the game as such: how we came to invent it, and how it is played(2) a possible antique ancestor(3) opening moves and theory(4) state space complexity(5) endings and end positionsThis is a hot topic, since Pentagame remains an unsolved game. Studying it is an exercise in the theory of abstract games. The talk should be interesting for Pentagame players, but also to anyone interested in the theory of games.We are looking forward for discussion, intellectual exchange, and collaboration.Note that Pentagame can be played at c-base assembly pretty much any time, and from 22:00 hrs per day in particular.There will be an open tournament on the young hacker day.</description>
         <persons>
           <person id="0">Penta</person>
         </persons>
@@ -5339,6 +5339,27 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <links>
           <link>https://moodle.org/</link>
         </links>
+      </event>
+      <event id="1313" guid="e4579f02-d073-4857-9ea2-c3f6f7eeb381">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fairphone_Workshop_and_Meetup</url>
+        <logo/>
+        <date>2019-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1313-session_fairphone_workshop_and_meetup</slug>
+        <title>Fairphone Workshop and Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>A meetup for Fairphoners and an occasion to see the modular Fairphone models
+This is a slot for a Fairphoner meetup. Text will be added later.</description>
+        <persons>
+          <person id="0">Hnms</person>
+        </persons>
+        <links/>
       </event>
     </room>
     <room name="Lecture room M1">

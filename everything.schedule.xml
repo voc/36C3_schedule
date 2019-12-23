@@ -1,5 +1,5 @@
 <schedule>
-  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.15; wiki 2019-12-23 23:41</version>
+  <version>echo; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.15; wiki 2019-12-23 23:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -406,7 +406,7 @@ Die Quellenvielfalt birgt große Chancen für die Bewertung einer Lage und auch 
 &#13;
 Was bedeutet all das für humanitäre Helfende vor Ort, die Twitter &amp; co mittlerweile nicht nur zur Spendenwerbung sondern auch zur Lagebewertung nutzen: Wie kann man in der Praxis damit umgehen, dass sich auf Twitter gegebenenfalls ein ganz anderes Bild zeichnet als vor Ort und vor allem: Welches davon ist näher an der Realität?&#13;
 &#13;
-Darum geht es in diesem Talk am Beispiel des Türkischen Überfalls auf Rojava, von Sebastian Jünemann und Ruben Neugebauer von der Hilfsorganisation Cadus, die vor Ort mit mehreren, im wesentlichen medizinischen Projekten aktiv war. Außerdem werden wir klären wie man sich per Selfie bequem ins Jenseits befördern kann und was sonst noch so für die persönliche Sicherheit zu beachten ist, im Umgang mit modernen Medien in Kriegsgebieten.&#13;
+Darum geht es in diesem Talk am Beispiel des Türkischen Überfalls auf Rojava, von Sebastian Jünemann und Ruben Neugebauer von der Hilfsorganisation Cadus, die vor Ort mit mehreren, im wesentlichen medizinischen Projekten aktiv war, sowie Fee Baumann von der Organisation Heyvasor a Kurd, dem kurdischen roten Halbmond. Außerdem werden wir klären wie man sich per Selfie bequem ins Jenseits befördern kann und was sonst noch so für die persönliche Sicherheit zu beachten ist, im Umgang mit modernen Medien in Kriegsgebieten.&#13;
 &#13;
 &#13;
 </description>
@@ -886,7 +886,7 @@ Lea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft für Frei
       </event>
       <event id="11031" guid="d1d0c29a-a8c3-4c96-b98e-3823b3d27902">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11031.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/011/031/large/Logo.jpeg?1577136387</logo>
         <date>2019-12-27T22:10:00+01:00</date>
         <start>22:10</start>
         <duration>01:00</duration>
@@ -1285,36 +1285,6 @@ In our talk we also discuss the SQLite internals and our novel approach for abus
       </event>
     </room>
     <room name="Eliza">
-      <event id="11239" guid="0d0cb392-278b-4b74-abfc-58a87a38a074">
-        <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11239.html</url>
-        <logo>/system/events/logos/000/011/239/large/amz_2.png?1576581694</logo>
-        <date>2019-12-27T11:30:00+01:00</date>
-        <start>11:30</start>
-        <duration>01:00</duration>
-        <room>Eliza</room>
-        <slug>36c3-11239-environmental_impact_of_surveillance_adtech_and_legacy_code</slug>
-        <title>Environmental impact of Surveillance, Adtech and Legacy Code</title>
-        <subtitle>The hidden economic and environmental costs of user monetization processes</subtitle>
-        <track>Art &amp; Culture</track>
-        <type>lecture</type>
-        <language>en</language>
-        <abstract>During this talk, Joana will reveal the hidden economic and&#13;
-environmental costs of user monetization processes taking Amazon as a case study.</abstract>
-        <description>This talk will shed light on the often unacknowledged but aggressive exploitation of online users, embedded at the core of the so-called internet companies’ business strategies. Such strategies rely on apparently neutral, personalized user experiences afforded by attractive interfaces. These interfaces obfuscate sophisticated business models embedded in endless pages of indecipherable code, all of which are activated by user labor. In turn, these strategies have a significant energy cost, part of which is involuntarily assumed by the user. To put it bluntly, the user is not just exploited by means of their free labor but is also forced to assume the energy costs of such exploitation. </description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="6683">Joana Moll</person>
-        </persons>
-        <links>
-          <link href="http://www.janavirgin.com/index.html">Main website</link>
-        </links>
-        <attachments>
-          <attachment href="/system/event_attachments/attachments/000/004/031/original/microsoft-project-natick-2.png?1574520281">Picture for the lecture</attachment>
-        </attachments>
-      </event>
       <event id="11034" guid="5ef93193-8ad9-4cb3-8804-548bbd6faf24">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11034.html</url>
         <logo/>
@@ -3665,7 +3635,7 @@ Zeit für Fragen und Antworten ist eingeplant.</description>
         <answers/>
       </event>
       <event id="594" guid="3d0170ed-e233-545f-87f7-f50d126ddbe6">
-        <logo>/media/36c3/images/TNSGB8/handy-init.png</logo>
+        <logo>/media/36c3/images/TNSGB8/handy-unnormalized.png</logo>
         <date>2019-12-27T19:30:00+01:00</date>
         <start>19:30</start>
         <duration>00:20</duration>
@@ -3677,54 +3647,12 @@ Zeit für Fragen und Antworten ist eingeplant.</description>
         <track>Ethics, Society &amp; Politics</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Algorithms bear the image of their makers.  Three algorithmic systems are&#13;
-revealed to have embodied class interests.  First, a population ecology modeled&#13;
-by two predator-prey equations leads its reader to conclude that socialist&#13;
-revolution and compulsory leisure are the only routes to avoiding civilization&#13;
-collapse.  Second, a formula for labor supply reduces us to lazy drones, who&#13;
-work as little as possible to support our lifestyle.  Finally, advertising on&#13;
-Wikipedia could be a multi-billion-dollar revenue stream—shall we put it up for&#13;
-sale or learn to share?</abstract>
-        <description>(1) The [Human and Nature Dynamics](https://www.sciencedirect.com/science/article/pii/S0921800914000615)&#13;
-(HANDY) model is the first to pair environmental resource consumption with&#13;
-class conflict, as two predator-prey cycles.  In one cycle we overrun a fragile and&#13;
-defenseless Earth, and in the other elites outcompete commoners in consumption,&#13;
-even to the point of causing them famine.  One can say that socialist&#13;
-revolution is embedded in a statement like this.  Indeed, something must be&#13;
-done about the growth of over-consuming elites before they doom us all.  I will&#13;
-give a tour using this [interactive explorer](https://adamwight.github.io/handy-explorer/).&#13;
+        <abstract>Algorithms bear the image of their makers.  Three algorithmic systems are revealed to have embodied class interests.  First, a population ecology modeled by two predator-prey equations leads its reader to conclude that socialist revolution and compulsory leisure are the only routes to avoiding civilizational collapse.  Second, a formula for labor supply reduces us to lazy drones, who work as little as possible to support our lifestyle.  Finally, advertising on Wikipedia could be a multi-billion-dollar revenue stream—shall we put it up for sale or learn to share?</abstract>
+        <description>(1) The [Human and Nature Dynamics](https://www.sciencedirect.com/science/article/pii/S0921800914000615) (HANDY) model is the first to pair environmental resource consumption with class conflict, as two predator-prey cycles.  In one cycle we overrun a fragile and defenseless Earth, and in the other elites outcompete commoners in consumption, even to the point of causing them famine.  One can say that socialist revolution is embedded in a statement like this.  Indeed, something must be done about the growth of over-consuming elites before they doom us all.  I will give a tour using this [interactive explorer](https://adamwight.github.io/handy-explorer/).&#13;
 &#13;
-(2) A second example is the typical, capitalist formula for labor supply, or&#13;
-"whether you go to work in the morning", loosely `optimize(Consumption, hours&#13;
-worked)` for the constraint `Consumption ≤ wage x hours + entitlement`.  In&#13;
-other words, we're seen as lazy and greedy individual agents, each wanting the&#13;
-greatest comfort for the least labor.  The worker who internalizes this formula&#13;
-will fight for fewer hours of work and higher wages for themself, will find&#13;
-shortcuts to spend less money, and can be expected to vote in favor of social&#13;
-democratic minimum incomes.  A company following this formula, on the other&#13;
-hand, will fight against all of these worker gains, and will act to depress&#13;
-government welfare or minimum incomes until workers are on the edge of&#13;
-starvation in order to squeeze longer hours out of them.  What's missing from&#13;
-the formula are mutual aid to protect the most vulnerable individuals, pooling&#13;
-resources, and any other motivation to work besides mortal fear and hedonism.&#13;
-—One can easily imagine a radically different paradigm for work, in which labor&#13;
-is dignified and fulfilling.  To understand this world in formulas, labor &#13;
-supply is measured in education levels, self-direction, and other positive &#13;
-feedback loops which raise productivity.&#13;
+(2) A second example is the typical, capitalist formula for labor supply, or "whether you go to work in the morning", loosely `optimize(Consumption, hours worked)` for the constraint `Consumption ≤ wage x hours + entitlement`.  In other words, we're seen as lazy and greedy individual agents, each wanting the greatest comfort for the least labor.  The worker who internalizes this formula will fight for fewer hours of work and higher wages for themself, will find shortcuts to spend less money, and can be expected to vote in favor of social democratic minimum incomes.  A company following this formula, on the other hand, will fight against all of these worker gains, and will act to depress government welfare or minimum incomes until workers are on the edge of starvation in order to squeeze longer hours out of them.  What's missing from the formula are mutual aid to protect the most vulnerable individuals, pooling resources, and any other motivation to work besides mortal fear and hedonism.—One can easily imagine a radically different paradigm for work, in which labor is dignified and fulfilling.  To understand this world in formulas, labor supply is measured in education levels, self-direction, and other positive feedback loops which raise productivity.&#13;
 &#13;
-(3) Wikipedia and its sister projects have never worn the shackles of paid&#13;
-advertising, although they sit on a potential fountain of revenue in the tens&#13;
-of billions of dollars per year—not to mention the value of the influence over&#13;
-public opinion that such a propaganda machine might achieve.  `Revenue = Ads&#13;
-per visit x Visits`  Analyzed venally, Wikipedia becomes an appealing portfolio&#13;
-acquisition, which would jeopardize the entire free-open movement.  From a&#13;
-different perspective, that of an organizer in an editor’s association, slicing&#13;
-pageview and (non)-advertising data might allow for more effective&#13;
-resource-sharing among the many chapter organizations.  In a third analysis&#13;
-using a flow of labor, power, and funds, we can see the Wikimedia Foundation as&#13;
-engaged in illegitimate expropriation, turning editors into sharecroppers and&#13;
-suppressing decentralized growth.  These twists all come about through&#13;
-variations on an equation.  Which shall we choose?</description>
+(3) Wikipedia and its sister projects have never worn the shackles of paid advertising, although they sit on a potential fountain of revenue in the tens of billions of dollars per year—not to mention the value of the influence over public opinion that such a propaganda machine might achieve.  `Revenue = Ads per visit x Visits`  Analyzed venally, Wikipedia becomes an appealing portfolio acquisition, which would jeopardize the entire free-open movement.  From a different perspective, that of an organizer in an editor’s association, slicing pageview and (non)-advertising data might allow for more effective resource-sharing among the many chapter organizations.  In a third analysis using a flow of labor, power, and funds, we can see the Wikimedia Foundation as engaged in illegitimate expropriation, turning editors into sharecroppers and suppressing decentralized growth.  These twists all come about through variations on an equation.  Which shall we choose?</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -6166,8 +6094,10 @@ This talk is a primer in nuclear physics with focus on conversion of weapon grad
         <track>Security</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>Xbox 360 video game console had a number of widely known hacks for firmware of its optical disc drives. However, it was never the case with Blu-ray disc drives of Sony PlayStation video game consoles. In fact, up until recently there was no much information available on this subject publicly. In this presentation, I would like to share my journey of delving deep into internals and security of Sony PlayStation Blu-ray disc drives. As games are distributed within optical media, those embedded devices were intended to contain the best security possible. I will demonstrate a multiple hardware hacks and several software vulnerabilities that allowed to dump firmware and get code execution on multiple models of Sony PlayStation Blu-ray disc drives.</abstract>
-        <description>In this presentation, I will share the following:&#13;
+        <abstract>Xbox 360 video game console had a number of widely known hacks for firmware of its optical disc drives. However, it was never the case with Blu-ray disc drives of Sony PlayStation video game consoles. In fact, up until recently there was no much information available on this subject publicly.</abstract>
+        <description>In this presentation, I would like to share my journey of delving deep into internals and security of Sony PlayStation Blu-ray disc drives. As games are distributed within optical media, those embedded devices were intended to contain the best security possible. I will demonstrate a multiple hardware hacks and several software vulnerabilities that allowed to dump firmware and get code execution on multiple models of Sony PlayStation Blu-ray disc drives.&#13;
+&#13;
+In this presentation, I will share the following:&#13;
 1)	I will provide in-depth analysis of vulnerabilities and their exploitation to achieve code execution on multiple models of Sony PlayStation Blu-ray disc drives&#13;
 2)	I will discuss problems that I’ve encountered while reverse engineering the firmware and how I solved (some of) them&#13;
 3)	I will talk about security features of Sony PlayStation Blu-ray disc drives&#13;
@@ -7945,11 +7875,11 @@ While the people in charge do not manage to organize a proper search- and rescue
         <room>Eliza</room>
         <slug>36c3-10909-reusing_ict_equipment_why_how</slug>
         <title>Reusing ICT equipment, why &amp; how</title>
-        <subtitle>Practical experiences and software design for repurposing ICT equipment for secondary schools in Malawi</subtitle>
+        <subtitle>Practical experiences and processes for repurposing ICT equipment</subtitle>
         <track>Resilience &amp; Sustainability</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>Since 2011, FAIR (FAIR Allocation of Infotech Resources) have reused 3,000 computers from Denmark 11,000 computers from Norway. We'll go through how we're setup, and how youths in Malawi are maintaining and using these computers.</abstract>
+        <abstract>Since 2011, FAIR (FAIR Allocation of Infotech Resources) has reused 3,000 computers from Denmark 11,000 computers from Norway. We'll go through how we're setup to provide reuse, and how ultimately fellow communities are benefiting from this.</abstract>
         <description>As the wheels of economy turn, companies and public institutions are incentivized to replace their ICT equipment, leaving behind equipment that can be repurposed for the greatest possible human value and impact in the hands of those that need it the most.&#13;
 &#13;
 FAIR Denmark is a civic society that has worked to source and redistribute this equipment in an overall program to give ICT access to youths in Malawi: From the logistics and data sanitization to university-based collaborations for training and maintenance in Malawi and offline software platforms for access to quality education at secondary schools in Malawi.&#13;
@@ -7962,7 +7892,7 @@ Maybe you're interested in reuse? Maybe for the sake of the environment or maybe
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="9660">benjamin@fairdanmark.dk</person>
+          <person id="9660">Benjamin Balder Bach</person>
         </persons>
         <links>
           <link href="https://www.fairdanmark.dk/en/">FAIR website (English)</link>
@@ -13227,15 +13157,14 @@ Schauen wir mal, was wir so finden.</description>
         <description>Bei der Bits&amp;Bäume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und Lösungsansätze zu erklären, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste "Sporangium" hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. Für de C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?&#13;
 &#13;
 Speaker*innen:&#13;
-tba – Klimawandel?! Echt jetzt?!!!&#13;
-tba – technologische Fragen in der Entwicklungsarbeit&#13;
+Anja Höfner – Das Märchen von der Dematerialisierung durch Technik&#13;
 Carina Haupt: Nachhaltige Softwareentwicklung (für weniger explodierende Raketen)&#13;
 Elenos Manifesti: Wir fordern! Das Bits&amp;Bäume-Manifest&#13;
-Isabella Hermann: Ökos im Weltraum? Nachhaltigkeit in Science Fiction&#13;
+Isabella Hermann: Utopia Outer Space? Die Zukunft der Menschheit in Science-Fiction-Filmen&#13;
 joliyea – Raum für Wissen&#13;
+Kathrin Henneberger – Klimawandel?! Echt jetzt?!!!&#13;
 Lisa Passing: Ökostrom != Ökostrom. Down the green energy rabbit hole&#13;
 Viktor Schlüter: Datenschutz? Klimaschutz? Zukunft!&#13;
-&#13;
 &#13;
 Durchs Sporangium katapultieren wie immer julika &amp; Rainer</description>
         <recording>

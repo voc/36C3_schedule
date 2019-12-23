@@ -1,0 +1,32 @@
+{
+  "id": 3197,
+  "guid": "f3741a0c-9ed7-5f18-89ac-eedf8e22b322",
+  "logo": "",
+  "date": "2019-12-30T11:35:00+01:00",
+  "start": "11:35",
+  "duration": "00:05",
+  "room": "Borg",
+  "slug": "YMD9AH",
+  "url": "https://c3lt.de/36c3/talk/YMD9AH/",
+  "title": "Am I incognito",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "This talk focuses on how one could use a \"feature\" of google and trace the approximate location of a user even when his location services are blocked.",
+  "description": "Even when the location services are blocked, google allows any third party to query their API and locate end users. The API utilizes an end point IP address to identify the user's location and pass it to the Third Party (even when the location services are off). Here I will show how close Google allows people to access your location even.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 186,
+      "code": "UDJENH",
+      "public_name": "Tanoy Bose",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

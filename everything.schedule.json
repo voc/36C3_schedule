@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "dd; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2; lightning Praseodymium; wiki 2019-12-23 02:20",
+    "version": "dd; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2; lightning Praseodymium; wiki 2019-12-23 02:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -1950,34 +1950,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1161,
-                "guid": "14cc9cc9-7e1b-4f58-a9d9-2cfdb62f72fb",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Ultraschall_Betatest",
-                "logo": null,
-                "date": "2019-12-27T22:30:00+01:00",
-                "start": "22:30",
-                "duration": "1:29",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1161-session_ultraschall_betatest",
-                "title": "Ultraschall Betatest",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "Start des Betatests der neuen Ultraschall-Version\nMit Podlove und Auphonic wurden uns Produzierenden von Podcasts m\u00e4chtige Werkzeuge an die Hand gegeben. Was jedoch fehlte, war eine f\u00fcr Podcasts optimierte Umgebung f\u00fcr Aufnahme und Produktion der eigentlichen Podcasts.Die verschiedenen DAWs (Digital Audio Workstations) haben verschiedene Vor- und Nachteile, seien sie finanzieller Natur oder in Bezug auf Features. REAPER besetzt hier nach Meinung vieler einen Sweet Spot: f\u00fcr schlanke 65 \u20ac erh\u00e4lt man das Schweizer Offiziersmesser unter den DAWs, entwickelt von Audio-Nerds (das alte Winamp-Team).Das Problem: \u00c4sthetisch und in Teilen auf funktional ist REAPER- in der Windows-Welt verankert \u2013 eine mittlere Zumutung. Zudem sind dutzende Presets gut f\u00fcr Musikproduktionen eingestellt, out-of-the-box jedoch nahezu absurd falsch f\u00fcr uns PodcasterInnen \u2013 etwa die Orientierung an Takten statt an Zeiteinheiten.Ultraschall optimiert die Aufnahmesoftware REAPER soweit wie nur irgend m\u00f6glich f\u00fcr HighEnd- Podcasting. Eine DAW von PodcasterInnen f\u00fcr PodcasterInnen.In der Session zeigen wir die neue Version von Ultraschall und besprechen, wie man am Beta-Test teilnehmen kann.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Rstockm",
-                    "public_name": "Rstockm"
-                  }
-                ],
-                "links": [
-                  "http://ultraschall.fm"
-                ]
               }
             ],
             "Seminar room 13": [
@@ -8650,6 +8622,34 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1305,
+                "guid": "82f2a7b7-ed34-4ec2-bc32-5875b55e5bb4",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Ultraschall_Betatest",
+                "logo": null,
+                "date": "2019-12-28T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "1:30",
+                "room": "Lecture room 11",
+                "slug": "36c3-1305-session_ultraschall_betatest",
+                "title": "Ultraschall Betatest",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Start des Betatests der neuen Ultraschall-Version\nMit Podlove und Auphonic wurden uns Produzierenden von Podcasts m\u00e4chtige Werkzeuge an die Hand gegeben. Was jedoch fehlte, war eine f\u00fcr Podcasts optimierte Umgebung f\u00fcr Aufnahme und Produktion der eigentlichen Podcasts.Die verschiedenen DAWs (Digital Audio Workstations) haben verschiedene Vor- und Nachteile, seien sie finanzieller Natur oder in Bezug auf Features. REAPER besetzt hier nach Meinung vieler einen Sweet Spot: f\u00fcr schlanke 65 \u20ac erh\u00e4lt man das Schweizer Offiziersmesser unter den DAWs, entwickelt von Audio-Nerds (das alte Winamp-Team).Das Problem: \u00c4sthetisch und in Teilen auf funktional ist REAPER- in der Windows-Welt verankert \u2013 eine mittlere Zumutung. Zudem sind dutzende Presets gut f\u00fcr Musikproduktionen eingestellt, out-of-the-box jedoch nahezu absurd falsch f\u00fcr uns PodcasterInnen \u2013 etwa die Orientierung an Takten statt an Zeiteinheiten.Ultraschall optimiert die Aufnahmesoftware REAPER soweit wie nur irgend m\u00f6glich f\u00fcr HighEnd- Podcasting. Eine DAW von PodcasterInnen f\u00fcr PodcasterInnen.In der Session zeigen wir die neue Version von Ultraschall und besprechen, wie man am Beta-Test teilnehmen kann.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Rstockm",
+                    "public_name": "Rstockm"
+                  }
+                ],
+                "links": [
+                  "http://ultraschall.fm"
+                ]
               }
             ],
             "Seminar room 14-15": [

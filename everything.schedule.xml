@@ -1,5 +1,5 @@
 <schedule>
-  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Praseodymium; wiki 2019-12-23 15:50</version>
+  <version>dd; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Praseodymium; wiki 2019-12-23 16:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -8320,7 +8320,7 @@ A meetup for anyone interested in Hitchhiking and other forms of low-cost, spont
         <language>en</language>
         <abstract/>
         <description>An open discussion of microarchitectural attacks: Spectre, Meltdown, side channels, and so on. What can we do and what should we do about them?
-Let's meet and talk side channels (and not only)!Topics of the discussion:* Should I care?** Do we really need to defend *all* systems against microarchitectural attacks and pay the full (and often high) price of the protection?** If not, in which cases is the protection necessary and when is it superfluous?* Practical defenses** There are numerous proposed defense mechanisms: static analysis, HW extensions, alternative CPU architectures, OS-level isolation, and many many others.** Yet, very few of them are used in practice. Why? What can we do to change it? * Short-term vs mid-term vs long-term** Which of the mechanisms are temporary solutions and which could solve the problem in the long run?** Memory safety and speculative execution</description>
+Let's meet and talk side channels (and not only)!Topics of the discussion:* Should I care?** Do we really need to defend *all* systems against microarchitectural attacks and pay the full (and often high) price of the protection?** If not, in which cases is the protection necessary and when is it superfluous?* Practical defenses** There are numerous proposed defense mechanisms: static analysis, HW extensions, alternative CPU architectures, OS-level isolation, and many many others.** Yet, very few of them are used in practice. Why? What can we do to change it? * Short-term vs mid-term vs long-term** Which of the mechanisms are temporary solutions and which could solve the problem in the long run?** Memory safety and speculative executionIf you want to come, please, ping me @oleksii_o to help with planning.</description>
         <persons>
           <person id="0">TheAlex</person>
         </persons>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>dd; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Praseodymium; wiki 2019-12-23 11:00</version>
+  <version>dd; chaos-west 1.0; open-infra 10; wikipaka 0.5; chaoszone 0.5; komona 0.5; sendezentrum 2.1; lightning Praseodymium; wiki 2019-12-23 11:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -14962,6 +14962,27 @@ Das Netzwerktreffen der FNIT-Gruppen mit Interesse an Technik im deutschsprachig
         <description>This talk covers the primary mechanisms by which this is possible, offering a  completely new paradigm for funding free software...that could maybe one day be applied to make consumer services, government, and business more sustainable and more accountable.
 Bisq is free software with a revenue model integrated in the natural flow of using it—revenue is collected when people use Bisq to trade, and this revenue funds Bisq's development. But there are no investors, no companies, no bank accounts, no foundations, and no legal entities of any kind to make this happen. *Value transfer happens entirely through the software*. This talk covers the primary mechanisms by which this is possible, offering a  completely new paradigm for funding free software...that could maybe one day be applied to make consumer services, government, and business more sustainable and more accountable.</description>
         <persons/>
+        <links/>
+      </event>
+      <event id="1308" guid="e5c58221-0620-47b5-81f2-1bbbe3b9ef9a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:The_mysterious_simplicity_of_FORTH</url>
+        <logo/>
+        <date>2019-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1308-session_the_mysterious_simplicity_of_forth</slug>
+        <title>The mysterious simplicity of FORTH</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Introduction to FORTH – a very unusual, weird programming language.
+</description>
+        <persons>
+          <person id="0">MichaelStruwe</person>
+        </persons>
         <links/>
       </event>
     </room>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>echo; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-24 12:50</version>
+  <version>echo; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-24 13:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -12771,6 +12771,50 @@ Das schnelle Quiz für alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jah
         </links>
       </event>
     </room>
+    <room name="Vintage Computing Cluster">
+      <event id="1335" guid="6bfcef39-02a7-4f1f-a815-e01c43c1f2c5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Lebensdauer_von_Computern_und_warum_sie_so_kurz_ist</url>
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>36c3-1335-session_lebensdauer_von_computern_und_warum_sie_so_kurz_ist</slug>
+        <title>Lebensdauer von Computern und warum sie so kurz ist</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Ein Workshop darüber, warum unsere technischen Geräte häufig durch neue ersetzt werden und wie wir das ändern könnten.
+Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in der Schublade verschwinden.Das ist eine riesige Verschwendung von Ressourcen, die wir uns auf Dauer nicht leisten können.Dieser Workshop steckt die Teilnehmer·innen in die Schuhe von Produzent·innen, und versucht so zu erforschen, wie es zu diesem Phänomen kommt, und unter welchen Rahmenbedingungen wir es verhindern könnten. Spoiler: Mit der Verlängerung der Garantie ist es nicht getan.Wir werden mit einem kleinem Simulation-Tool herumspielen und versuchen, dessen Ergebnis zu verändern. So können wir gezielt einzelne Einflüsse herausarbeiten.Der Workshop entstand aus [https://dresden.bits-und-baeume.org/ Bits und Bäume Dresden] und greift den Abschnitt "Langlebigkeit von Software und Hardware" aus den [https://bits-und-baeume.org/forderungen/info/de Forderungen von Bits und Bäume] auf.Noch befindet sich der Workshop in der "Beta" und soll später auch all denen das Thema vermitteln, die sich sonst nur am Rande mit Digitalisierung befassen.Jede·r Teilnehmer·in sollte auf einen Web-Browser zugreifen können. Laptop/Tablet ist natürlich schöner als Smartphone. Am Fehlen davon soll's im Zweifel aber nicht scheitern.'''An beiden Terminen findet der selbe Inhalt statt.'''</description>
+        <persons>
+          <person id="0">Tropf</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1333" guid="b44be07c-0b5a-41ab-b398-122400d1e844">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pen%26Paper_RPG_-_T.E.A.R.S.</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>3:00</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>36c3-1333-session_pen_paper_rpg_t_e_a_r_s_</slug>
+        <title>Pen&amp;Paper RPG - T.E.A.R.S.</title>
+        <subtitle>Teil A</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>A Round of the P&amp;P T.E.A.R.S. "Quest of Chaos"
+</description>
+        <persons>
+          <person id="0">Dolonnen</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:Anarchist Village">
       <event id="1331" guid="b5dece8f-e2d8-4888-b279-b2e2230a90b0">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking</url>
@@ -12794,29 +12838,6 @@ Hacktivism from time to time leads to imprisonment and repressions. There are se
         <links>
           <link>https://abcdd.org</link>
         </links>
-      </event>
-    </room>
-    <room name="Vintage Computing Cluster">
-      <event id="1333" guid="b44be07c-0b5a-41ab-b398-122400d1e844">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pen%26Paper_RPG_-_T.E.A.R.S.</url>
-        <logo/>
-        <date>2019-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>3:00</duration>
-        <room>Vintage Computing Cluster</room>
-        <slug>36c3-1333-session_pen_paper_rpg_t_e_a_r_s_</slug>
-        <title>Pen&amp;Paper RPG - T.E.A.R.S.</title>
-        <subtitle>Teil A</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>A Round of the P&amp;P T.E.A.R.S. "Quest of Chaos"
-</description>
-        <persons>
-          <person id="0">Dolonnen</person>
-        </persons>
-        <links/>
       </event>
     </room>
     <room name="Assembly:Art-and-Play">
@@ -15413,7 +15434,7 @@ We want to meet and get to know each other - not only current members of LUKi e.
         <room>Seminar room 13</room>
         <slug>36c3-1251-session_lebensdauer_von_computern_und_warum_sie_so_kurz_ist</slug>
         <title>Lebensdauer von Computern und warum sie so kurz ist</title>
-        <subtitle/>
+        <subtitle>Wiederholung</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>

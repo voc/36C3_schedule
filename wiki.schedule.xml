@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-24 11:10</version>
+  <version>2019-12-24 11:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -2084,6 +2084,27 @@ A meetup for anyone interested in Hitchhiking and other forms of low-cost, spont
 Let's meet and talk side channels (and not only)!Topics of the discussion:* Should I care?** Do we really need to defend *all* systems against microarchitectural attacks and pay the full (and often high) price of the protection?** If not, in which cases is the protection necessary and when is it superfluous?* Practical defenses** There are numerous proposed defense mechanisms: static analysis, HW extensions, alternative CPU architectures, OS-level isolation, and many many others.** Yet, very few of them are used in practice. Why? What can we do to change it? * Short-term vs mid-term vs long-term** Which of the mechanisms are temporary solutions and which could solve the problem in the long run?** Memory safety and speculative executionIf you want to come, please, ping me @oleksii_o to help with planning.</description>
         <persons>
           <person id="0">TheAlex</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1320" guid="f3f5d155-1336-4f6f-a90e-5b60387d1aeb">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SSG_Meetup</url>
+        <logo/>
+        <date>2019-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1320-session_ssg_meetup</slug>
+        <title>SSG Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meetup of people working on SSG
+Meetup of humans and other lifeforms interested to work and hack on SSG</description>
+        <persons>
+          <person id="0">Krawuzikapuzi</person>
         </persons>
         <links/>
       </event>

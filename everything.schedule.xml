@@ -1,5 +1,5 @@
 <schedule>
-  <version>echo; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-24 11:50</version>
+  <version>echo; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-24 12:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -12255,14 +12255,37 @@ Hast du dich auch schonmal gefragt, wie es wäre, ein Smartphone zu nutzen, ohne
         </persons>
         <links/>
       </event>
-      <event id="1322" guid="f858e69c-5b50-405b-83b2-1aeeceaf54bc">
+      <event id="1327" guid="d5efc5a0-d5df-4cd5-ba1c-2044bf0eb9e8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Blind_Navigation_workshop</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:C3blind</room>
+        <slug>36c3-1327-session_blind_navigation_workshop</slug>
+        <title>Blind Navigation workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>
+Sai's #BlindNavigation workshop from 35c3 will also take place this year! If you're interested in learning to navigate blindly using guide canes, this is the session for you! As the workshop requires tremendous logistical effort, we will need to contact you in advance with exact details as to when the workshop will take place, but expect at least one timeslot provided on this page.To sign up, please fill in https://s.ai/ccc/ws.Fill in https://s.ai/ccc/fb after, For Science (&amp; my sanity)</description>
+        <persons>
+          <person id="0">Saizai</person>
+        </persons>
+        <links>
+          <link>https://s.ai/ccc/ws</link>
+        </links>
+      </event>
+      <event id="1328" guid="75865532-0291-4c48-9ed3-91175866c8e3">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Blind_Navigation_workshop</url>
         <logo/>
         <date>2019-12-28T22:00:00+01:00</date>
         <start>22:00</start>
         <duration>2:00</duration>
         <room>Assembly:C3blind</room>
-        <slug>36c3-1322-session_blind_navigation_workshop</slug>
+        <slug>36c3-1328-session_blind_navigation_workshop</slug>
         <title>Blind Navigation workshop</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -12286,29 +12309,6 @@ Sai's #BlindNavigation workshop from 35c3 will also take place this year! If you
         <duration>2:00</duration>
         <room>Assembly:C3blind</room>
         <slug>36c3-1323-session_blind_navigation_workshop</slug>
-        <title>Blind Navigation workshop</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>
-Sai's #BlindNavigation workshop from 35c3 will also take place this year! If you're interested in learning to navigate blindly using guide canes, this is the session for you! As the workshop requires tremendous logistical effort, we will need to contact you in advance with exact details as to when the workshop will take place, but expect at least one timeslot provided on this page.To sign up, please fill in https://s.ai/ccc/ws.Fill in https://s.ai/ccc/fb after, For Science (&amp; my sanity)</description>
-        <persons>
-          <person id="0">Saizai</person>
-        </persons>
-        <links>
-          <link>https://s.ai/ccc/ws</link>
-        </links>
-      </event>
-      <event id="1324" guid="f9728f67-f8f0-5e2c-8786-b316705b1ba8">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Blind_Navigation_workshop</url>
-        <logo/>
-        <date>2019-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:C3blind</room>
-        <slug>36c3-1324-session_blind_navigation_workshop</slug>
         <title>Blind Navigation workshop</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -12768,6 +12768,31 @@ Das schnelle Quiz für alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jah
         </persons>
         <links>
           <link>https://nwng.eu/36c3-gg</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Anarchist Village">
+      <event id="1331" guid="b5dece8f-e2d8-4888-b279-b2e2230a90b0">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking</url>
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Anarchist Village</room>
+        <slug>36c3-1331-session_letter_writing_to_prisoners_sitting_in_jail_for_hacking</slug>
+        <title>Letter writing to prisoners, sitting in jail for hacking</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Getting together and writing letters and postcards to hackers in prison
+Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters. You don't need any special skills for that. The postcards will be there for you.</description>
+        <persons>
+          <person id="0">Abcdd</person>
+        </persons>
+        <links>
+          <link>https://abcdd.org</link>
         </links>
       </event>
     </room>
@@ -18933,14 +18958,14 @@ Geigerzähler– Hardwarebasteln mit LoRaWAN &amp; WiFiWir sind die Ecocurious-I
       </event>
     </room>
     <room name="Assembly:C3blind">
-      <event id="1325" guid="eb240aa2-7139-5771-a798-07b9d9fb9307">
+      <event id="1322" guid="f858e69c-5b50-405b-83b2-1aeeceaf54bc">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Blind_Navigation_workshop</url>
         <logo/>
-        <date>2019-12-29T12:00:00+01:00</date>
-        <start>12:00</start>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
         <duration>2:00</duration>
         <room>Assembly:C3blind</room>
-        <slug>36c3-1325-session_blind_navigation_workshop</slug>
+        <slug>36c3-1322-session_blind_navigation_workshop</slug>
         <title>Blind Navigation workshop</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -18956,14 +18981,14 @@ Sai's #BlindNavigation workshop from 35c3 will also take place this year! If you
           <link>https://s.ai/ccc/ws</link>
         </links>
       </event>
-      <event id="1326" guid="71ef478c-9d9e-5493-8d66-0d028e33ab15">
+      <event id="1329" guid="1959840c-e042-4f3f-b6b0-967f8f2cdae2">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Blind_Navigation_workshop</url>
         <logo/>
-        <date>2019-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
+        <date>2019-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
         <duration>2:00</duration>
         <room>Assembly:C3blind</room>
-        <slug>36c3-1326-session_blind_navigation_workshop</slug>
+        <slug>36c3-1329-session_blind_navigation_workshop</slug>
         <title>Blind Navigation workshop</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -19115,6 +19140,56 @@ Join us for a nice hour (or two) of open discussion around the topics of maritim
         </persons>
         <links>
           <link>https://hackerfleet.eu</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Anarchist Village">
+      <event id="1330" guid="b8903724-9ef4-4f07-9885-c245d550c477">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking</url>
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Anarchist Village</room>
+        <slug>36c3-1330-session_letter_writing_to_prisoners_sitting_in_jail_for_hacking</slug>
+        <title>Letter writing to prisoners, sitting in jail for hacking</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Getting together and writing letters and postcards to hackers in prison
+Hacktivism from time to time leads to imprisonment and repressions. There are several people right now siting in jail that consider themselves anarchist or did actions that are supported by anarchist community. Not to let those people alone in prison we would like to have every day 1 hour around the table, where we get to know the stories of imprisoned activists and write them some words of support with postcards/letters. You don't need any special skills for that. The postcards will be there for you.</description>
+        <persons>
+          <person id="0">Abcdd</person>
+        </persons>
+        <links>
+          <link>https://abcdd.org</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Art-and-Play">
+      <event id="1332" guid="68a70d98-712e-465d-a51d-931ce0736f8b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Technological_Narratives:_Solarpunk,_Cyberpunk,_Popculture</url>
+        <logo/>
+        <date>2019-12-29T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>1:00</duration>
+        <room>Assembly:Art-and-Play</room>
+        <slug>36c3-1332-session_technological_narratives_solarpunk_cyberpunk_popculture</slug>
+        <title>Technological Narratives: Solarpunk, Cyberpunk, Popculture</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>The western culture offers a very distilled narrative on what technology is and who builds, owns and profits from it. Most non-technical audiences are unaware of how subjective this perspective is - and how strongly it favours well-marketed multinational corporations over local solutions.
+The more the technology advances and becomes interconnected and complex, the less the non-technical public understands the changes, their repercussions and the policies that come along with them.Most people end up relying on stories present in the popular culture to understand the tech world around them: the well-polished product ads hidden in their favourite films, the lone genius-inventor legends, cyberpunk visions of a world with no privacy, but so much convenience!With the constant changes around, it's hard not to be future shocked and give up on any attempts of understanding the technology yourself. The alternative narratives, especially within the hacker scene, are anything but accessible. They're shrouded with technical terms, full of cryptic references and lacking any clear introduction.Very few stories explain why values such as net neutrality are important without speaking code. People need stories with clear explanations appealing to their emotions and remaining in their memories much longer than a dry technical evaluation of pros and cons.</description>
+        <persons>
+          <person id="0">Alxd</person>
+        </persons>
+        <links>
+          <link>https://alxd.org/solarpunk-cyberpunk-popculture.html#solarpunk-cyberpunk-popculture</link>
         </links>
       </event>
     </room>

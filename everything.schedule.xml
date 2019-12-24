@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-24 23:40</version>
+  <version>find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-24 23:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -13043,6 +13043,29 @@ Pi Mapper is an open source projection mapping tool intended to be used on the R
         <links>
           <link>https://ofxpimapper.com</link>
         </links>
+      </event>
+    </room>
+    <room name="Assembly:Vintage Computing">
+      <event id="1342" guid="026448ea-1a8f-4fd6-9018-cca3109dadc5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Robotron_K8917</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:Vintage Computing</room>
+        <slug>36c3-1342-session_robotron_k8917</slug>
+        <title>Robotron K8917</title>
+        <subtitle>Linien, Punkte, Kreise</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>robotron K8917 GKS Graphics Terminal - How does it work?
+Der Vortrag beschreibt das grafische Terminal robotron K8917. Das Gerät wurde vom VEB robotron elektronik Zella-Mehlis hergestellt. Es basiert auf dem 8 bit Prozessor U880 (Z80) und wird über eine serielle Schnittstelle gesteuert. Die Gegenstelle ist normalerweise eine grafische Workstation, die an die PDP11/03 angelehnt ist (robotron K1620). Da solche Geräte selten und nicht erhältlich sind, wird es stattdessen über ein Notebook mit serieller Schnittstelle gesteuert. Es werden die grafischen Befehle gezeigt sowie einige Steuerbefehle, die erahnen lassen, wie das Terminal mit seiner Originalmaschine zusammengearbeitet hat. Es wird also ein Bild gezeichnet, das einen nicht existenten Rechner erahnen lässt.</description>
+        <persons>
+          <person id="0">Dkt</person>
+        </persons>
+        <links/>
       </event>
     </room>
   </day>

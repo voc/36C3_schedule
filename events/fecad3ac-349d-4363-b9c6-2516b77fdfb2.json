@@ -13,7 +13,7 @@
   "track": "Security",
   "type": "lecture",
   "language": "en",
-  "abstract": "Is the way we run services these days sustainable? The trusted computing base -- the lines of code where, if a flaw is discovered, jeopardizes the security and integrity of the entire service -- is enormous. Using orchestration systems that contain millions of lines of code, and that execute shell code, does not decrease this. This talk will present an alternative, minimalist approach to secure network services - relying on a programming language that guarantees memory safety - composing small libraries (open source, permissively licensed) to build so-called MirageOS unikernels -- special purpose services. Besides web services, other digital infrastructure such as VPN gateway, calendar server, DNS server and resolver, and a minimalistic orchestration system, will be presented. Each unikernel can either run as virtual machine (KVM, Xen, BHyve, virtio), as a sandboxed process (with seccomp filters allowing only 8 system calls), or in smaller containments (GenodeOS, muen separation kernel) -- even a prototypical ESP32 backend is available.",
+  "abstract": "Is the way we run services these days sustainable? The trusted computing base -- the lines of code where, if a flaw is discovered, jeopardizes the security and integrity of the entire service -- is enormous. Using orchestration systems that contain millions of lines of code, and that execute shell code, does not decrease this. This talk will present an alternative, minimalist approach to secure network services - relying on OCaml, a programming language that guarantees memory safety - composing small libraries (open source, permissively licensed) to build so-called MirageOS unikernels -- special purpose services. Besides web services, other digital infrastructure such as VPN gateway, calendar server, DNS server and resolver, and a minimalistic orchestration system, will be presented. Each unikernel can either run as virtual machine (KVM, Xen, BHyve, virtio), as a sandboxed process (seccomp which whitelists only 8 system calls), or in smaller containments (GenodeOS, muen separation kernel) -- even a prototypical ESP32 backend is available.",
   "description": "Starting with an operating system from scratch is tough, lots of engineering hours have been put into the omnipresent ones. Reducing the required effort by declaring certain subsystems being out of scope -- e.g. hardware drivers, preemptive multitasking, multicore -- decreases the required person-power.\r\n\r\nThe MirageOS project started as research project more than a decade ago at the University of Cambridge, as a minimal guest for Xen written in the functional programming language OCaml. Network protocols (TCP/IP, DHCP, TLS, DNS, ..), a branchable immutable store (similar and interoperable with git) are available. The trusted computing base is roughly two orders of magnitude smaller than contemporary operating systems. The performance is in the same ballpark as conventional systems. The boot time is measured in milliseconds instead of seconds.\r\n\r\nNot only the binary size of a unikernel image is much smaller, also the required resources are smaller: memory usage easily drops by a factor of 25, CPU usage drops by a factor of 10.\r\n\r\nMore recently we focused on deployment: integration of logging, metrics (influx, grafana), an orchestration system (remote deployment via a TLS handshake, offers console access and an event log) for multi-tenant systems (policies are encoded in the certificate chain).\r\n\r\nWe are developing, mostly thanks to public funding, various useful services: a CalDAV server storing its content in a remote git repository, an OpenVPN client and server, DNS resolver and server (storing zone files in a remote git repository) with let's encrypt integration, a firewall for QubesOS, image viewer mainly for QubesOS, ...\r\n\r\nThe experience while developing such a huge project is that lots of components can be developed and tested by separate groups - and even used in a variety of different applications. The integration of the components is achieved in a type-safe way with module types in OCaml. This means that lots of errors are caught by the compiler, instead of at runtime.",
   "recording_license": "",
   "do_not_record": false,
@@ -27,6 +27,18 @@
     {
       "url": "https://mirage.io",
       "title": "MirageOS website"
+    },
+    {
+      "url": "https://hannes.nqsb.io",
+      "title": "Blog with articles and tutorials"
+    },
+    {
+      "url": "https://robur.coop",
+      "title": "robur"
+    },
+    {
+      "url": "https://ocaml.org",
+      "title": "OCaml"
     }
   ],
   "attachments": []

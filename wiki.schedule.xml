@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-25 19:42</version>
+  <version>2019-12-25 20:03</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -4282,7 +4282,7 @@ For more information please refer to the foodhackingbase wiki page: https://food
         <language>en</language>
         <abstract/>
         <description>A meetup with lightning-talks for Bug Bounty hunters.
-'''Warning:''' The Art-and-Play Stage is not available anymore so the location &amp; date/time of the meetup is unsure until another room is found.'''For real time updates about the event, follow me on Twitter: [https://twitter.com/xdavidhu @xdavidhu]''''''Lightning Talks:'''* Sergey Belov - [https://twitter.com/sergeybelove @sergeybelove] - '''''Hints: How to hunt for bounties - Vendor side'''''* Nikhil Mittal - [https://twitter.com/c0d3G33k @c0d3G33k] - '''''[TBD]''''' (Browser research, XSS by scanning QR codes)* Anatoly - [https://twitter.com/c0rv4x @c0rv4x] - '''''Choosing target. Bending the rules. &amp; other tips''''''''No registration / RSVP is required to attend the meetup. If you are interested, feel free to visit.'''</description>
+'''Warning:''' The Art-and-Play Stage is not available anymore so the location &amp; date/time of the meetup is unsure until another room is found.'''For real time updates about the event, follow me on Twitter: [https://twitter.com/xdavidhu @xdavidhu]''''''Lightning Talks:'''* Sergey Belov - [https://twitter.com/sergeybelove @sergeybelove] - '''''Hints: How to hunt for bounties - Vendor side'''''* Nikhil Mittal - [https://twitter.com/c0d3G33k @c0d3G33k] - '''''Scan me and get pwned'''''* Anatoly - [https://twitter.com/c0rv4x @c0rv4x] - '''''Choosing target. Bending the rules. &amp; other tips''''''''The meetup on Eventbrite: [https://www.eventbrite.com/e/chaos-bug-bounty-meetup-2019-tickets-86922578773 Eventbrite event]''''''No registration / RSVP is required to attend the meetup. If you are interested, feel free to visit.'''</description>
         <persons>
           <person id="0">Xdavidhu</person>
         </persons>
@@ -4637,6 +4637,29 @@ Hacktivism from time to time leads to imprisonment and repressions. There are se
         <links>
           <link>https://abcdd.org</link>
         </links>
+      </event>
+    </room>
+    <room name="Assembly:HSBE">
+      <event id="1406" guid="577050b4-0ebf-44f1-8bc1-fac0a429ef93">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:OpenStreetMap_workshop_-_getting_started,_tools_and_route_engine_hacking</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:HSBE</room>
+        <slug>36c3-1406-session_openstreetmap_workshop_getting_started_tools_and_route_engine_hacking</slug>
+        <title>OpenStreetMap workshop - getting started, tools and route engine hacking</title>
+        <subtitle>OpenStreetMap for beginners</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Introduction to the OpenStreetMap ecosystem + OsmAnd route engine hacking
+This talk gives an overview of OpenStreetMap and will cover the following topics:- What is it and why is it awesome?- How is the data stored and how can it be edited- An overview of some useful tools, including how to query for specific featuresAfterwards, I'll explain how the OsmAnd route engine can be tweaked, in order to customize routeplanning just for you. (For example, one of my previous projects was adding ski routing into OsmAnd). (To tweak OsmAnd, you'll need an android device - bring yours. I have two spare ones though. It might work on jailbroken iPhones too)Note: feel free to come towards the end of the session if you only want to join the OsmAnd route engine hacking.</description>
+        <persons>
+          <person id="0">Pietervdvn</person>
+        </persons>
+        <links/>
       </event>
     </room>
     <room name="Assembly:Art-and-Play">

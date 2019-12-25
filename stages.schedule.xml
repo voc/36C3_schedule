@@ -75,10 +75,10 @@
         <track>Security</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>It is easier to chat online securely today than it ever has been. Widespread adoption of signal, wire, and the private mode of WhatsApp have led a broader recognition of the importance of end-to-end encryption. There's still plenty of work to be done in finding new designs that balance privacy and usability in online communication.&#13;
+        <abstract>It is easier to chat online securely today than it ever has been. Widespread adoption of signal, wire, and the private mode of WhatsApp have led a broader recognition of the importance of end-to-end encryption. There's still plenty of work to be done in finding new designs that balance privacy and usability in online communication.</abstract>
+        <description>This introduction to secure messaging will lay out the different risks that are present in communications, and talk about the projects and techniques under development to do better.&#13;
 &#13;
-This introduction to secure messaging will lay out the different risks that are present in communications, and talk about the projects and techniques under development to do better.</abstract>
-        <description>The talk will begin with a threat modeling exercise to be able to concretely talk about the different actors and potential risks that a secure messaging system can attempt to address. From there, we'll dive into end-to-end encryption, OTR and deniability, and then the axolotl construction used by Signal (and now the noise framework).&#13;
+The talk will begin with a threat modeling exercise to be able to concretely talk about the different actors and potential risks that a secure messaging system can attempt to address. From there, we'll dive into end-to-end encryption, OTR and deniability, and then the axolotl construction used by Signal (and now the noise framework).&#13;
 &#13;
 The bulk of the talk will focus on the rest of the problem which is more in-progress, and in particular consider the various metadata risks around communication. We'll survey the problems that can arise around contact discovery, network surveillance, and server compromise. In doing so, we'll look at the forays into communication systems that attempt to address these issues. Pond offered a novel design point for discovery and a global network adversary. Katzenpost adapts mixnets to limit the power of network adversaries and server compromise in a different way. Private Information Retrieval (PIR) trades off high server costs for a scheme that could more realistically work with mobile clients. Others, for instance Secure Scuttlebutt attempt to remove the need for infrastructural servers entirely with gossip and partial views of the network, a whole other set of tradeoffs.</description>
         <recording>
@@ -9375,8 +9375,8 @@ Eine Stunde geballte Kommunikationsguerilla, lustige Medienaktionen, aber auch e
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>de</language>
-        <abstract>Die GFF hat gemeinsam mit Reporter ohne Grenzen (ROG), dem European Center for Constitutional and Human Rights (ECCHR) und netzpolitik.org Strafanzeige gegen Geschäftsführer der Unternehmen FinFisher GmbH, FinFisher Labs GmbH und Elaman GmbH erstattet. Es liegen dringende Anhaltspunkte dafür vor, dass das Münchener Firmenkonglomerat die Spionagesoftware FinSpy ohne Genehmigung der Bundesregierung an die türkische Regierung verkauft und so zur Überwachung von Oppositionellen und Journalist*innen in der Türkei beigetragen hat.</abstract>
-        <description>tbd</description>
+        <abstract>Die GFF hat gemeinsam mit Reporter ohne Grenzen (ROG), dem European Center for Constitutional and Human Rights (ECCHR) und netzpolitik.org Strafanzeige gegen die Geschäftsführer der Unternehmen FinFisher GmbH, FinFisher Labs GmbH und Elaman GmbH erstattet.</abstract>
+        <description>Es liegen dringende Anhaltspunkte dafür vor, dass das Münchener Firmenkonglomerat die Spionagesoftware FinSpy ohne Genehmigung der Bundesregierung an die türkische Regierung verkauft und so zur Überwachung von Oppositionellen und Journalist*innen in der Türkei beigetragen hat.</description>
         <recording>
           <license/>
           <optout>false</optout>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; wiki 2019-12-25 23:50",
+    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; wiki 2019-12-26 00:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -4076,12 +4076,12 @@
                 "room": "WikiPaka WG: Esszimmer",
                 "slug": "TNSGB8",
                 "url": "https://cfp.verschwoerhaus.de/36c3/talk/TNSGB8/",
-                "title": "Reading Politics in the Algorithm",
+                "title": "Reading the politics of the supposedly neutral",
                 "subtitle": "",
                 "track": "Ethics, Society & Politics",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Algorithms bear the image of their makers.  Three algorithmic systems are revealed to have embodied class interests.  First, a population ecology modeled by two predator-prey equations leads its reader to conclude that socialist revolution and compulsory leisure are the only routes to avoiding civilizational collapse.  Second, a formula for labor supply reduces us to lazy drones, who work as little as possible to support our lifestyle.  Finally, advertising on Wikipedia could be a multi-billion-dollar revenue stream\u2014shall we put it up for sale or learn to share?",
+                "abstract": "Algorithms bear the image of their makers, and toil like their servants.  Technology of any sort cannot be neutral, as it is embedded in a social matrix of why it was created and what work it performs.  An algorithm, its context, and what it lacks should be understood as a political statement carrying great consequences, and as a society we should respond to each as needed, engaging the purveyors of these algorithms on a political level as well as legal and economic.\r\n\r\nThree algorithmic systems are revealed to embody various class interests.  First, a population ecology modeled simply by a pair of predator-prey equations leads one to conclude that socialist revolution and compulsory leisure are the only routes to avoiding civilizational collapse.  Second, a formula for labor supply reduces us to lazy drones who work as little as possible to support our choice of lifestyle.  Finally, advertising on Wikipedia could yield a multi-billion-dollar fortune\u2014shall we put it up for sale or double-down on radical equality among all people?",
                 "description": "(1) The [Human and Nature Dynamics](https://www.sciencedirect.com/science/article/pii/S0921800914000615) (HANDY) model is the first to pair environmental resource consumption with class conflict, as two predator-prey cycles.  In one cycle we overrun a fragile and defenseless Earth, and in the other elites outcompete commoners in consumption, even to the point of causing them famine.  One can say that socialist revolution is embedded in a statement like this.  Indeed, something must be done about the growth of over-consuming elites before they doom us all.  I will give a tour using this [interactive explorer](https://adamwight.github.io/handy-explorer/).\r\n\r\n(2) A second example is the typical, capitalist formula for labor supply, or \"whether you go to work in the morning\", loosely `optimize(Consumption, hours worked)` for the constraint `Consumption \u2264 wage x hours + entitlement`.  In other words, we're seen as lazy and greedy individual agents, each wanting the greatest comfort for the least labor.  The worker who internalizes this formula will fight for fewer hours of work and higher wages for themself, will find shortcuts to spend less money, and can be expected to vote in favor of social democratic minimum incomes.  A company following this formula, on the other hand, will fight against all of these worker gains, and will act to depress government welfare or minimum incomes until workers are on the edge of starvation in order to squeeze longer hours out of them.  What's missing from the formula are mutual aid to protect the most vulnerable individuals, pooling resources, and any other motivation to work besides mortal fear and hedonism.\u2014One can easily imagine a radically different paradigm for work, in which labor is dignified and fulfilling.  To understand this world in formulas, labor supply is measured in education levels, self-direction, and other positive feedback loops which raise productivity.\r\n\r\n(3) Wikipedia and its sister projects have never worn the shackles of paid advertising, although they sit on a potential fountain of revenue in the tens of billions of dollars per year\u2014not to mention the value of the influence over public opinion that such a propaganda machine might achieve.  `Revenue = Ads per visit x Visits`  Analyzed venally, Wikipedia becomes an appealing portfolio acquisition, which would jeopardize the entire free-open movement.  From a different perspective, that of an organizer in an editor\u2019s association, slicing pageview and (non)-advertising data might allow for more effective resource-sharing among the many chapter organizations.  In a third analysis using a flow of labor, power, and funds, we can see the Wikimedia Foundation as engaged in illegitimate expropriation, turning editors into sharecroppers and suppressing decentralized growth.  These twists all come about through variations on an equation.  Which shall we choose?",
                 "recording_license": "",
                 "do_not_record": false,
@@ -6640,6 +6640,90 @@
                 "links": []
               }
             ],
+            "Studio Datscha": [
+              {
+                "id": 1409,
+                "guid": "eaef5961-3c87-40f0-9ebb-824052a405da",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:DIYBio_Meetup",
+                "logo": null,
+                "date": "2019-12-27T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "1:00",
+                "room": "Studio Datscha",
+                "slug": "36c3-1409-session_diybio_meetup",
+                "title": "DIYBio Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "DIYBio Meetup\nThe\u00a0DIYBio community\u00a0is a network of\u00a0Do-It-Yourself and Do-It-Together biologists. They come together at meetups and spaces to support other people and to learn and work with plants, microbiology and bio-technology.\u00a0But in contrast to open workshops like Fablabs, Hacker- and Makerspaces, which are rapidly growing, such bio-laboratories are still rare to find and/or not easily accessible. I personally want to establish such a space in my city, and I am interested to hear what you think about DIYBio and what you might have already learned or achieved.So let us come together,\u00a0connect\u00a0and talk about DIYBio:\u00a0the intentions, responsibilities,\u00a0chances, risks and problems. What is required to build such a space, how to grow partnerships? Let's share ideas for workshops, projects and collaborations! I would love to hear your input so we can come up with a good plan that goes into the right direction!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Crs.tl.clear",
+                    "public_name": "Crs.tl.clear"
+                  }
+                ],
+                "links": [
+                  "http://diybio.org/"
+                ]
+              },
+              {
+                "id": 1407,
+                "guid": "c41673f7-fa3c-4eac-ba52-56774914b587",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:From_growing_Mushrooms_to_a_open_Microbiology_Labotory",
+                "logo": null,
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "1:00",
+                "room": "Studio Datscha",
+                "slug": "36c3-1407-session_from_growing_mushrooms_to_a_open_microbiology_labotory",
+                "title": "From growing Mushrooms to a open Microbiology Labotory",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "A story on how I build a mushroom lab from zero to the first flush.\nFor some years now i've been very fascinated of mushrooms - their diversity, features and importance. And with the release of\u00a0Star Trek Discovery my interest has shifted from \u201dWorld Wide Web\u201d to \u201cWood Wide Web\u201d, so I started to build a small laboratory to further explore these amazing creatures.This talk will be a story on how I build that lab from zero to the first flush. What I needed,\u00a0which tools i used, build and\u00a0bought. What I learned, how i failed and why I do that at all. How everything ended and how I met other people who inspired me to open up the idea and form a vision for a open DIYBio Laboratory in Hamburg.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Crs.tl.clear",
+                    "public_name": "Crs.tl.clear"
+                  }
+                ],
+                "links": [
+                  "https://zentrallabor.org"
+                ]
+              },
+              {
+                "id": 1405,
+                "guid": "cdd3d689-729f-4d46-a1ce-f53e84179f2d",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Performance_tentacular_mapping",
+                "logo": null,
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Studio Datscha",
+                "slug": "36c3-1405-session_performance_tentacular_mapping",
+                "title": "Performance tentacular mapping",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Deine_datsche",
+                    "public_name": "Deine datsche"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Assembly:Milliways": [
               {
                 "id": 1082,
@@ -6834,62 +6918,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kliment",
                     "public_name": "Kliment"
-                  }
-                ],
-                "links": []
-              }
-            ],
-            "Studio Datscha": [
-              {
-                "id": 1407,
-                "guid": "c41673f7-fa3c-4eac-ba52-56774914b587",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:From_growing_Mushrooms_to_a_open_Microbiology_Labotory",
-                "logo": null,
-                "date": "2019-12-27T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "Studio Datscha",
-                "slug": "36c3-1407-session_from_growing_mushrooms_to_a_open_microbiology_labotory",
-                "title": "From growing Mushrooms to a open Microbiology Labotory",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "A story on how I build a mushroom lab from zero to the first flush.\nFor some years now i've been very fascinated of mushrooms - their diversity, features and importance. And with the release of\u00a0Star Trek Discovery my interest has shifted from \u201dWorld Wide Web\u201d to \u201cWood Wide Web\u201d, so I started to build a small laboratory to further explore these amazing creatures.This talk will be a story on how I build that lab from zero to the first flush. What I needed,\u00a0which tools i used, build and\u00a0bought. What I learned, how i failed and why I do that at all. How everything ended and how I met other people who inspired me to open up the idea and form a vision for a open DIYBio Laboratory in Hamburg.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Crs.tl.clear",
-                    "public_name": "Crs.tl.clear"
-                  }
-                ],
-                "links": [
-                  "https://zentrallabor.org"
-                ]
-              },
-              {
-                "id": 1405,
-                "guid": "cdd3d689-729f-4d46-a1ce-f53e84179f2d",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Performance_tentacular_mapping",
-                "logo": null,
-                "date": "2019-12-27T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "1:00",
-                "room": "Studio Datscha",
-                "slug": "36c3-1405-session_performance_tentacular_mapping",
-                "title": "Performance tentacular mapping",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "other",
-                "language": "de",
-                "abstract": "",
-                "description": "\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Deine_datsche",
-                    "public_name": "Deine datsche"
                   }
                 ],
                 "links": []
@@ -19571,7 +19599,7 @@
                 "type": "talk",
                 "language": "en",
                 "abstract": "",
-                "description": "A collection of art projects inspired by Julian Assange and Wikileaks\nArt deliberately creates a chaos, a distortion, an exception by returning to the source (of freedom of information, free flow, of free expression, of a free tech, a mathematic/scientific formula) from which we redistribute the codes/ signs/ symbols and their meanings consciously to the consumer, thus a chaos with acceptance as an emergent autonomous power to create the new norm.",
+                "description": "A collection of art projects inspired by Julian Assange and Wikileaks\nArt deliberately creates a chaos, a distortion, an exception by returning to the source (of freedom of information, free flow, of free expression, of a free tech, a mathematic/scientific formula) from which we redistribute the codes/ signs/ symbols and their meanings consciously to the audience, thus a chaos with acceptance as an emergent autonomous power to create the new norm.",
                 "persons": [
                   {
                     "id": 0,

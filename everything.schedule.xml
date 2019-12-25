@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-25 17:50</version>
+  <version>find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-25 18:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -2409,7 +2409,7 @@ Update on the status of various open source silicon projects;* System Verilog su
         <language>de</language>
         <abstract/>
         <description>Du wolltest schon immer einen Passwortsafe nutzen? In diesem Workshop richten wir uns einen Passwortsafe ein!
-Du benutzt die drei gleichen Passwörter für alle deine Online-Accounts? Du weißt, dass das nicht sicher ist, hast bislang aber noch keine bessere Lösung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen lässt. Zunächst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschließend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. '''Vorkenntnisse''': Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht überwinden konnten.'''Mitbringen''': Wer sich während des Workshops einen Passwortsafe einrichten möchte, der sollte Laptop und Smartphone (oder Tablet) mitbringen.  Ebenso wäre es hilfreich, die für den Passwortsafe erforderlichen Apps und Plugins schon vorab zu installieren, sodass wir während des Workshops uns auf die Einrichtung konzentrieren können:* '''2-Faktor-Authentifizierungs-App''' ([https://www.golem.de/news/google-apple-und-mailaccounts-zwei-faktor-authentifizierung-richtig-nutzen-1612-124868.html Was ist das?]) für das Smartphone ** Für iPhone/iPad: [https://apps.apple.com/de/app/authenticator/id766157276 Authenticator] oder ** Für Android: [https://f-droid.org/en/packages/net.bierbaumer.otp_authenticator/ Authenticator (im FDroid-Store)]* '''Webbrowser-Plugin''' für Autotype (damit werden deine Logindaten automatisch vom Passwordsafe ins Loginfeld des Browsers eingefügt): [https://bitwarden.com/#download siehe Links auf bitwarden.com]* '''Bitwarden-Smartphone-App''' um mobil auf Passwörter zugreifen zu können** Für [https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744?mt=8 iPhone/iPad]** Für [https://play.google.com/store/apps/details?id=com.x8bit.bitwarden Android]'''Warum Bitwarden?''' Bitwarden bietet sich an, da er Open-Source ist, als sicher eingeschätzt wird, für fast alle Geräte und Betriebssysteme verfügbar und für Einsteiger einfach zu nutzen.Bei Fragen: Tjal [https://twitter.com/tuikc @tuikc auf Twitter] oder DECT 8524 oder Mail: edwg6g6rtwf@temp.mailbox.org</description>
+Du benutzt die drei gleichen Passwörter für alle deine Online-Accounts? Du weißt, dass das nicht sicher ist, hast bislang aber noch keine bessere Lösung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen lässt. Zunächst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschließend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. '''Vorkenntnisse''': Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht überwinden konnten.'''Mitbringen''': Wer sich während des Workshops einen Passwortsafe einrichten möchte, der sollte Laptop und Smartphone (oder Tablet) mitbringen.  Ebenso wäre es hilfreich, die für den Passwortsafe erforderlichen Apps und Plugins schon vorab zu installieren, sodass wir während des Workshops uns auf die Einrichtung konzentrieren können:* '''2-Faktor-Authentifizierungs-App''' ([https://www.golem.de/news/google-apple-und-mailaccounts-zwei-faktor-authentifizierung-richtig-nutzen-1612-124868.html Was ist das?]) für das Smartphone ** Für iPhone/iPad: [https://apps.apple.com/de/app/authenticator/id766157276 Authenticator] oder ** Für Android: [https://f-droid.org/en/packages/net.bierbaumer.otp_authenticator/ Authenticator (im FDroid-Store)]* '''Webbrowser-Plugin''' fürs Autotype,  so werden deine Logindaten automatisch vom Passwordsafe ins Loginfeld des Browsers eingefügt. Installiere dir das Plugin für deine/n Lieblingsbrowser: [https://bitwarden.com/#download siehe Plugins auf bitwarden.com]* '''Bitwarden-Smartphone-App''' um mobil auf Passwörter zugreifen zu können** Für [https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744?mt=8 iPhone/iPad]** Für [https://play.google.com/store/apps/details?id=com.x8bit.bitwarden Android]'''Warum Bitwarden?''' Bitwarden bietet sich an, da er Open-Source ist, als sicher eingeschätzt wird, für fast alle Geräte und Betriebssysteme verfügbar und für Einsteiger einfach zu nutzen.Bei Fragen: Tjal [https://twitter.com/tuikc @tuikc auf Twitter] oder DECT 8524 oder Mail: edwg6g6rtwf@temp.mailbox.org</description>
         <persons>
           <person id="0">Tjal</person>
         </persons>
@@ -5206,6 +5206,113 @@ Uprising in $hile without leaders and parties.Conversation about what's going on
         </links>
       </event>
     </room>
+    <room name="Hackers Beauty Palace">
+      <event id="1394" guid="5e519c4e-3e90-4863-be57-19bc6d78ea01">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:BEAM_LIKE_THE_MAYA_DID:_With_cacao_to_inner_and_outer_beauty</url>
+        <logo/>
+        <date>2019-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1394-session_beam_like_the_maya_did_with_cacao_to_inner_and_outer_beauty</slug>
+        <title>BEAM LIKE THE MAYA DID: With cacao to inner and outer beauty</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1397" guid="812ece46-217e-4a01-81d4-ff370ac5074f">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:CV_DAZZLE:_Facial_Treatment_against_Facial_Recognition</url>
+        <logo/>
+        <date>2019-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1397-session_cv_dazzle_facial_treatment_against_facial_recognition</slug>
+        <title>CV DAZZLE: Facial Treatment against Facial Recognition</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Try out a CV Dazzle to hack your face to recognition tech. Break up the lines of your face and get a make-up of extremes. Never hide! Always dazzle!
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1382" guid="08ba63d1-03ce-4159-bdac-9140a5896def">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITAL_RELAXATION:_Acupressure</url>
+        <logo/>
+        <date>2019-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1382-session_postdigital_relaxation_acupressure</slug>
+        <title>POSTDIGITAL RELAXATION: Acupressure</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Find out, where your body still has active resources. Experienced therapists help you how to stimulate them via acupressure.
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1386" guid="82ef18a4-5143-4ec2-91ac-949c5b3abc4b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITALE_RELAXATION:_Massage</url>
+        <logo/>
+        <date>2019-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1386-session_postdigitale_relaxation_massage</slug>
+        <title>POSTDIGITALE RELAXATION: Massage</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Get a massage by professional therapists. In 20-Minutes-Slots you can reboot your head, shoulders and back.
+Contact: Marko Mijokovic (01636934204)</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1389" guid="6bdddf66-a785-4f08-b1df-2f8711554dc5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT_THAI_STYLE:_Learn_how_to_thai_massage_your_nerdy_cramps_away</url>
+        <logo/>
+        <date>2019-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1389-session_reboot_thai_style_learn_how_to_thai_massage_your_nerdy_cramps_away</slug>
+        <title>REBOOT THAI STYLE: Learn how to thai massage your nerdy cramps away</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>In our reactor you will learn how to reprogram a body with Thai massage.
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:Backspace">
       <event id="1267" guid="a0578173-14c3-44eb-b522-68515b908e2d">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Beer_Tasting</url>
@@ -5854,71 +5961,6 @@ Since ex-Teppich, interest of having a Hacker- and Makerspace in Erlangen has sp
 Limited spots, first come first served.</description>
         <persons>
           <person id="0">Qwaxys</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="Hackers Beauty Palace">
-      <event id="1382" guid="08ba63d1-03ce-4159-bdac-9140a5896def">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITAL_RELAXATION:_Acupressure</url>
-        <logo/>
-        <date>2019-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Hackers Beauty Palace</room>
-        <slug>36c3-1382-session_postdigital_relaxation_acupressure</slug>
-        <title>POSTDIGITAL RELAXATION: Acupressure</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Find out, where your body still has active resources. Experienced therapists help you how to stimulate them via acupressure.
-</description>
-        <persons>
-          <person id="0">Alibi</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1386" guid="82ef18a4-5143-4ec2-91ac-949c5b3abc4b">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITALE_RELAXATION:_Massage</url>
-        <logo/>
-        <date>2019-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>2:00</duration>
-        <room>Hackers Beauty Palace</room>
-        <slug>36c3-1386-session_postdigitale_relaxation_massage</slug>
-        <title>POSTDIGITALE RELAXATION: Massage</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Get a massage by professional therapists. In 20-Minutes-Slots you can reboot your head, shoulders and back.
-Contact: Marko Mijokovic (01636934204)</description>
-        <persons>
-          <person id="0">Alibi</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1389" guid="6bdddf66-a785-4f08-b1df-2f8711554dc5">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT_THAI_STYLE:_Learn_how_to_thai_massage_your_nerdy_cramps_away</url>
-        <logo/>
-        <date>2019-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>2:00</duration>
-        <room>Hackers Beauty Palace</room>
-        <slug>36c3-1389-session_reboot_thai_style_learn_how_to_thai_massage_your_nerdy_cramps_away</slug>
-        <title>REBOOT THAI STYLE: Learn how to thai massage your nerdy cramps away</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>In our reactor you will learn how to reprogram a body with Thai massage.
-</description>
-        <persons>
-          <person id="0">Alibi</person>
         </persons>
         <links/>
       </event>
@@ -12896,6 +12938,27 @@ Sai's #BlindNavigation workshop from 35c3 will also take place this year! If you
       </event>
     </room>
     <room name="Hackers Beauty Palace">
+      <event id="1395" guid="12aa9113-b141-4c31-8c14-3f053e42a81e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:BEAM_LIKE_THE_MAYA_DID:_With_cacao_to_inner_and_outer_beauty</url>
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1395-session_beam_like_the_maya_did_with_cacao_to_inner_and_outer_beauty</slug>
+        <title>BEAM LIKE THE MAYA DID: With cacao to inner and outer beauty</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1379" guid="ad8ee869-6487-472b-b82e-647ce20a0c70">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:BODILY_CHATROOM:_Contact_Improvisation_Dance_Workshop</url>
         <logo/>
@@ -12911,6 +12974,27 @@ Sai's #BlindNavigation workshop from 35c3 will also take place this year! If you
         <language>en</language>
         <abstract/>
         <description>Get in Reallife Touch! A very special dancing lesson that aims to get you closer: with yourself and with others.
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1396" guid="03797269-7bac-49ea-8c2f-f5234ba7408a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:CV_DAZZLE:_Facial_Treatment_against_Facial_Recognition</url>
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1396-session_cv_dazzle_facial_treatment_against_facial_recognition</slug>
+        <title>CV DAZZLE: Facial Treatment against Facial Recognition</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Try out a CV Dazzle to hack your face to recognition tech. Break up the lines of your face and get a make-up of extremes. Never hide! Always dazzle!
 </description>
         <persons>
           <person id="0">Alibi</person>

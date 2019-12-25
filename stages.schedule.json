@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23",
+    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -217,7 +217,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "Der Europ\u00e4ische Menschenrechtsgerichtshof besch\u00e4ftigt sich nun schon seit Jahren mit der Frage, ob die durch Edward Snowden \u00f6ffentlich bekanntgewordene geheimdienstliche Massen\u00fcberwachung mit der Europ\u00e4ischen Menschenrechtskonvention kompatibel ist. Wie ist der Stand der Dinge?",
-                "description": "Dieses Jahr gab es zwei neuerliche Anh\u00f6rungen in Stra\u00dfburg, die sich mit der britischen und schwedischen Massen\u00fcberwachung durch die Geheimdienste auseinandersetzten. Im Vortrag werden die bisher gef\u00e4llten Urteile und die neuen vorgetragenen Argumente beleuchtet.\r\n\r\nInsbesondere der britische Fall ist das erste Mal, dass der Gerichtshof nicht nur die Massen\u00fcberwachung an der Menschenrechtskonvention misst, sondern auch das Datenkarussell zwischen den Geheimdiensten, namentlich dem GCHQ und der NSA.\r\n\r\nOffenlegung: Ich bin eine der Beschwerdef\u00fchrerinnen in dem britischen Fall.",
+                "description": "Dieses Jahr gab es zwei neuerliche Anh\u00f6rungen in Stra\u00dfburg, die sich mit der britischen und schwedischen Massen\u00fcberwachung durch die Geheimdienste auseinandersetzten. Im Vortrag werden die bisher gef\u00e4llten Urteile und die neuen vorgetragenen Argumente beleuchtet.\r\n\r\nInsbesondere der britische Fall ist das erste Mal, dass der Gerichtshof nicht nur die Massen\u00fcberwachung an der Menschenrechtskonvention misst, sondern auch das Datenkarussell zwischen den Geheimdiensten, namentlich dem GCHQ und der NSA.\r\n\r\nWegen der schon Mitte Januar vom Bundesverfassungsgericht anberaumten m\u00fcndlichen Anh\u00f6rung zum BND-Gesetz wird sich ein Teil des Vortrags auch mit der deutschen geheimdienstlichen Massen\u00fcberwachung besch\u00e4ftigen. Der CCC hat eine Stellungnahme zur Ausland-Ausland-Fernmeldeaufkl\u00e4rung abgegeben, deren Inhalt kurz zusammengefasst wird.\r\n\r\nOffenlegung: Ich bin eine der Beschwerdef\u00fchrerinnen in dem britischen Fall.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -1042,7 +1042,12 @@
                     "title": "OCaml"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/040/original/talk.pdf?1577310794",
+                    "title": "slides.2.pdf"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10703.html",
@@ -1360,7 +1365,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11034.html",
                 "id": 11034,
                 "guid": "5ef93193-8ad9-4cb3-8804-548bbd6faf24",
-                "logo": null,
+                "logo": "/system/events/logos/000/011/034/large/icon_cropped.png?1577305720",
                 "date": "2019-12-27T12:50:00+01:00",
                 "start": "12:50",
                 "duration": "01:00",
@@ -6173,7 +6178,7 @@
                   },
                   {
                     "id": 9752,
-                    "public_name": "naomi@auerfeld.com"
+                    "public_name": " Naomi Colvin"
                   },
                   {
                     "id": 9873,
@@ -6384,7 +6389,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "F\u00fcr Sinti*zze und Roma*nja geh\u00f6ren Anfeindungen zum Alltag. Auch bei Ermittlungsbeh\u00f6rden stehen sie unter Generalverdacht: Es steht zu bef\u00fcrchten, dass die Polizei in unterschiedlichen Bundesl\u00e4ndern rechtswidrig Daten zu ethnischer Herkunft erhebt und ver\u00f6ffentlicht.\r\n\r\nWarum ist es so gef\u00e4hrlich, ethnische Herkunft in Polizeidatenbanken zu erfassen? Und was f\u00fcr Konsequenzen hat es, sie in Berichterstattung zu erw\u00e4hnen? Wann darf die Polizei \u00fcberhaupt Daten zu ethnischer Herkunft erheben? Und wann und mit welchen Methoden tut sie es vielleicht trotz Verbots? ",
-                "description": "F\u00fcr Sinti*zze und Roma*nja geh\u00f6ren auch in Deutschland Anfeindungen in allen Lebenslagen zum Alltag. Auch bei Ermittlungsbeh\u00f6rden stehen sie unter Generalverdacht: Es steht zu bef\u00fcrchten, dass die Polizei in unterschiedlichen Bundesl\u00e4ndern rechtswidrig Daten zu ethnischer Herkunft erhebt und ver\u00f6ffentlicht. In Pressemitteilungen der Polizei tauchen immer wieder Hinweise auf die ethnische Herkunft auf, vor allem bei Tatverd\u00e4chtigen, seltener bei Opfern oder Zeug*innen. Die Berliner Polizei hat in der Kriminalstatistik 2017 den Hinweis ver\u00f6ffentlicht, dass die Mehrheit der Tatverd\u00e4chtigen von \u201eTrickdiebstahl in Wohnungen\u201c Angeh\u00f6rige der Volksgruppe Sinti und Roma seien: Dass es rechtswidrig ist, wenn die Polizei die zugrunde liegenden Daten tats\u00e4chlich erhebt, ist unstreitig. \r\n\r\nIn Kooperation mit dem Zentralrat hat die Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) im Fall der Berliner Polizeikriminalstatistik bei der Berliner Landesdatenschutzbeauftragten ein Beschwerdeverfahren wegen des Verdachts auf Diskriminierung von Sinti*zze und Roma*nja lanciert. Beide Organisationen pr\u00fcfen gemeinsam weitere rechtliche M\u00f6glichkeiten.\r\n\r\nWarum ist es so gef\u00e4hrlich, ethnische Herkunft in Polizeidatenbanken zu erfassen? Und was f\u00fcr Konsequenzen hat es, sie in Berichterstattung zu erw\u00e4hnen? Wann darf die Polizei \u00fcberhaupt Daten zu ethnischer Herkunft erheben? Und wann tut sie es vielleicht trotz Verbots? Und mit welchen Methoden erhebt die Polizei \u00fcberhaupt die ethnische Herkunft? \r\n\r\nDie Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) und der Zentralrat Deutscher Sinti und Roma wollen diese Fragen gemeinsam mit dem Publikum diskutieren. \r\n\r\nAnja Reuss ist Politische Referentin des Zentralrats Deutscher Sinti und Roma, der politischen Interessenvertretung der deutschen Sinti und Roma mit Sitz in Heidelberg. Als Dachverband setzt sich der Zentralrat auf nationaler und internationaler Ebene f\u00fcr eine gleichberechtigte Teilhabe von Sinti und Roma in Politik und Gesellschaft sowie f\u00fcr die Auseinandersetzung mit und Bek\u00e4mpfung von Antiziganismus ein.\r\n\r\nLea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF). Die GFF ist eine NGO, die durch strategische Prozesse Grund- und Menschenrechte st\u00e4rkt und zivilgesellschaftlichen Partnerorganisationen rechtlich unterst\u00fctzt. In ihren Verfahren setzt sich die GFF dabei immer wieder kritisch mit polizeilichen Ermittlungsbefugnissen auseinander, sei dies im Zusammenhang mit dem Einsatz von Sp\u00e4h-Software oder bei der Datenerhebung. ",
+                "description": "F\u00fcr Sinti*zze und Roma*nja geh\u00f6ren auch in Deutschland Anfeindungen in allen Lebenslagen zum Alltag. Auch bei Ermittlungsbeh\u00f6rden stehen sie unter Generalverdacht: Es steht zu bef\u00fcrchten, dass die Polizei in unterschiedlichen Bundesl\u00e4ndern rechtswidrig Daten zu ethnischer Herkunft erhebt und ver\u00f6ffentlicht. In Pressemitteilungen der Polizei tauchen immer wieder Hinweise auf die ethnische Herkunft auf, vor allem bei Tatverd\u00e4chtigen, seltener bei Opfern oder Zeug*innen. Die Berliner Polizei hat in der Kriminalstatistik 2017 den Hinweis ver\u00f6ffentlicht, dass die Mehrheit der Tatverd\u00e4chtigen von \u201eTrickdiebstahl in Wohnungen\u201c Angeh\u00f6rige der Volksgruppe Sinti und Roma seien: Dass es rechtswidrig ist, wenn die Polizei die zugrunde liegenden Daten tats\u00e4chlich erhebt, ist unstreitig. \r\n\r\nIn Kooperation mit dem Zentralrat hat die Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) im Fall der Berliner Polizeikriminalstatistik bei der Berliner Landesdatenschutzbeauftragten ein Beschwerdeverfahren wegen des Verdachts auf Diskriminierung von Sinti*zze und Roma*nja lanciert. Beide Organisationen pr\u00fcfen gemeinsam weitere rechtliche M\u00f6glichkeiten.\r\n\r\nWarum ist es so gef\u00e4hrlich, ethnische Herkunft in Polizeidatenbanken zu erfassen? Und was f\u00fcr Konsequenzen hat es, sie in Berichterstattung zu erw\u00e4hnen? Wann darf die Polizei \u00fcberhaupt Daten zu ethnischer Herkunft erheben? Und wann tut sie es vielleicht trotz Verbots? Und mit welchen Methoden erhebt die Polizei \u00fcberhaupt die ethnische Herkunft? \r\n\r\nDie Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) und der Zentralrat Deutscher Sinti und Roma wollen diese Fragen gemeinsam mit dem Publikum diskutieren. \r\n\r\nAnja Reuss ist Politische Referentin des Zentralrats Deutscher Sinti und Roma, der politischen Interessenvertretung der deutschen Sinti und Roma mit Sitz in Heidelberg. Als Dachverband setzt sich der Zentralrat auf nationaler und internationaler Ebene f\u00fcr eine gleichberechtigte Teilhabe von Sinti und Roma in Politik und Gesellschaft sowie f\u00fcr die Auseinandersetzung mit und Bek\u00e4mpfung von Antiziganismus ein.\r\n\r\nLea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF). Die GFF ist eine NGO, die durch strategische Prozesse Grund- und Menschenrechte st\u00e4rkt und zivilgesellschaftlichen Partnerorganisationen rechtlich unterst\u00fctzt. In ihren Verfahren setzt sich die GFF dabei immer wieder kritisch mit polizeilichen Ermittlungsbefugnissen auseinander, sei dies im Zusammenhang mit dem Einsatz von Sp\u00e4h-Software oder bei der Datenerhebung. \r\n\r\nZentralrat Deutscher Sinti und Roma, Informationen zum Thema:\r\nhttps://zentralrat.sintiundroma.de/themenseite-dna/\r\n\r\nhttps://zentralrat.sintiundroma.de/diskriminierung-von-sinti-und-roma-ein-senator-seine-polizisten-und-86-trickdiebe/\r\n \r\nMarkus End (2019): Antiziganismus und Polizei, https://zentralrat.sintiundroma.de/download/9262\r\n\r\n",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -6409,6 +6414,18 @@
                   {
                     "url": "https://taz.de/Polizei-unter-Diskrimierungsverdacht/!5626822/",
                     "title": "TAZ-Artikel: Polizei unter Diskriminierungsverdacht"
+                  },
+                  {
+                    "url": "https://zentralrat.sintiundroma.de/themenseite-dna/",
+                    "title": "Antiziganistismus und erweiterte DNA-Analysen"
+                  },
+                  {
+                    "url": "https://zentralrat.sintiundroma.de/diskriminierung-von-sinti-und-roma-ein-senator-seine-polizisten-und-86-trickdiebe/",
+                    "title": "Zentralrat zur PKS 2017 Berlin "
+                  },
+                  {
+                    "url": "https://zentralrat.sintiundroma.de/download/9262",
+                    "title": "Markus End (2019): Antiziganismus und Polizei"
                   }
                 ],
                 "attachments": []
@@ -6817,47 +6834,6 @@
                   {
                     "url": "http://jasmineguffond.com/",
                     "title": "jasmineguffond.com"
-                  }
-                ],
-                "attachments": []
-              },
-              {
-                "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10909.html",
-                "id": 10909,
-                "guid": "60017c5f-e30d-493c-afd7-9a44f6b0e8f2",
-                "logo": null,
-                "date": "2019-12-28T20:50:00+01:00",
-                "start": "20:50",
-                "duration": "01:00",
-                "room": "Eliza",
-                "slug": "36c3-10909-reusing_ict_equipment_why_how",
-                "title": "Reusing ICT equipment, why & how",
-                "subtitle": "Practical experiences and processes for repurposing ICT equipment",
-                "track": "Resilience & Sustainability",
-                "type": "lecture",
-                "language": "en",
-                "abstract": "Since 2011, FAIR (FAIR Allocation of Infotech Resources) has reused 3,000 computers from Denmark 11,000 computers from Norway. We'll go through how we're setup to provide reuse, and how ultimately fellow communities are benefiting from this.",
-                "description": "As the wheels of economy turn, companies and public institutions are incentivized to replace their ICT equipment, leaving behind equipment that can be repurposed for the greatest possible human value and impact in the hands of those that need it the most.\r\n\r\nFAIR Denmark is a civic society that has worked to source and redistribute this equipment in an overall program to give ICT access to youths in Malawi: From the logistics and data sanitization to university-based collaborations for training and maintenance in Malawi and offline software platforms for access to quality education at secondary schools in Malawi.\r\n\r\nAll the software and contents that we work with are Open Source / Open Access.\r\n\r\nMaybe you're interested in reuse? Maybe for the sake of the environment or maybe in the interest of helping others? We're going to have to be working together in bigger alliances to avoid the pitfalls of our wasteful culture, planned obsolescence and physical shredding of computer equipment. The the extend of my knowledge and awareness, the talk will try to introduce other actors with similar objectives.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 9660,
-                    "public_name": "Benjamin Balder Bach"
-                  }
-                ],
-                "links": [
-                  {
-                    "url": "https://www.fairdanmark.dk/en/",
-                    "title": "FAIR website (English)"
-                  },
-                  {
-                    "url": "https://twitter.com/FairDanmark/",
-                    "title": "Twitter: @fairdanmark"
-                  },
-                  {
-                    "url": "https://lcrs.fairdanmark.dk/",
-                    "title": "Large-scale Computer Reuse Suite (LCRS)"
                   }
                 ],
                 "attachments": []
@@ -10642,7 +10618,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "Der Vortrag gibt auf der Basis umfangreicher korpuslinguistischer Analysen einen \u00dcberblick \u00fcber den Fundus herabw\u00fcrdigender und ausgrenzender Ausdr\u00fccke, die in rechten und rechtsextremen Onlinediskursen gepr\u00e4gt wurden. In den tiefensemantischen Strukturen des invektiven Wortschatzes der neuen Rechten wird ein stark schematisiertes Weltbild sichtbar, das von der grundlegenden Verachtung nicht nur des Fremden, sondern auch des eigenen Landes, seiner Institutionen, seiner Werte und seiner Bev\u00f6lkerung gepr\u00e4gt ist. ",
-                "description": "Das gesteigerte Ma\u00df an Ausgrenzung und gesellschaftlicher Polarisierung, das seit dem Wiedererstarken rechter Parteien und Denkweisen in Deutschland zu verzeichnen ist, ist nicht die einzige Errungenschaft, die wir den neuen Rechten zu verdanken haben. Sie haben auch den Wortschatz um ein schier unersch\u00f6pfliches Repertoire an Schimpfw\u00f6rtern bereichert. Deren Spektrum reicht von un\u00fcblichen Verkn\u00fcpfungen von Wortbestandteilen wie bei \"Journhalunke\" oder \"GEZStapo\", \u00fcber die produktive Verfremdung von Eigennamen wie im Fall von \"K(r)amp(f)-K(n)arrenbauer\" oder \"Merkill\", Hyperbolisierungen wie \"Super\u00fcbergutbestmenschen\" oder Satzkomposita wie \"IchseheauswieeinkonservativerCSUKatholikundwerdedeshalbvondenganzenDeppengew\u00e4hltweildasjanichtsoeinGr\u00fcnerist\" (Winfried Kretschmann) bis hin zu Gleichsetzungen zur Denunziation von Kritik wie in \"Waffen=Rassismus=r\u00e4chtz=Nazi=Gefahr=Erderw\u00e4rmung\". \r\n\r\nIm Vortrag sollen zun\u00e4chst die wichtigsten sprachlichen Strategien zur Bildung herabw\u00fcrdigender Ausdr\u00fccke vorgestellt werden, ehe in einem zweiten Schritt der invektive Wortschatz zu einzelnen Politik- und Gesellschaftsbereichen in Auswahl pr\u00e4sentiert wird. Basis der Untersuchung bildet eine umfangreiche korpuslinguistische Analyse einschl\u00e4giger rechter und rechtsextremer \"Nachrichten\"-Seiten, Blogs, Kommentarspalten und Foren aus den Jahren von 2012 bis 2019, die mehr als 25.000 Schimpfw\u00f6rter zutage f\u00e4rderte.\r\n\r\nDer Vortrag will nicht nur das Offensichtliche zeigen: Dass f\u00fcr die neuen Rechten herabw\u00fcrdigendes und ausgrenzenden Sprechen zentrales Medium der politischen Auseinandersetzung ist. Vielmehr wird in den vielf\u00e4ltigen Formen herabw\u00fcrdigenden Sprechens ein Weltbild sichtbar, das von radikaler Vereinfachung und simplen Grundunterscheidungen gepr\u00e4gt ist. Auch wird sich zeigen, dass die vermeintlichen Patrioten sich als eine Schm\u00e4hgemeinschaft konstituieren und das Land, in dem sie leben, und seine B\u00fcrger_innen und Institutionen zutiefst verachten. \r\n",
+                "description": "Das gesteigerte Ma\u00df an Ausgrenzung und gesellschaftlicher Polarisierung, das seit dem Wiedererstarken rechter Parteien und Denkweisen in Deutschland zu verzeichnen ist, ist nicht die einzige Errungenschaft, die wir den neuen Rechten zu verdanken haben. Sie haben auch den Wortschatz um ein schier unersch\u00f6pfliches Repertoire an Schimpfw\u00f6rtern bereichert. Deren Spektrum reicht von un\u00fcblichen Verkn\u00fcpfungen von Wortbestandteilen wie bei \"Journhalunke\" oder \"GEZStapo\", \u00fcber die produktive Verfremdung von Eigennamen wie im Fall von \"K(r)amp(f)-K(n)arrenbauer\" oder \"Merkill\", Hyperbolisierungen wie \"Super\u00fcbergutbestmenschen\" oder Satzkomposita wie \"IchseheauswieeinkonservativerCSUKatholikundwerdedeshalbvondenganzenDeppengew\u00e4hltweildasjanichtsoeinGr\u00fcnerist\" (Winfried Kretschmann) bis hin zu Gleichsetzungen zur Denunziation von Kritik wie in \"Waffen=Rassismus=r\u00e4chtz=Nazi=Gefahr=Erderw\u00e4rmung\". \r\n\r\nIm Vortrag sollen zun\u00e4chst die wichtigsten sprachlichen Strategien zur Bildung herabw\u00fcrdigender Ausdr\u00fccke vorgestellt werden, ehe in einem zweiten Schritt der invektive Wortschatz zu einzelnen Politik- und Gesellschaftsbereichen in Auswahl pr\u00e4sentiert wird. Basis der Untersuchung bildet eine umfangreiche korpuslinguistische Analyse einschl\u00e4giger rechter und rechtsextremer \"Nachrichten\"-Seiten, Blogs, Kommentarspalten und Foren aus den Jahren von 2012 bis 2019, die mehr als 25.000 Schimpfw\u00f6rter zutage f\u00e4rderte.\r\n\r\nDer Vortrag will nicht nur das Offensichtliche zeigen: Dass f\u00fcr die neuen Rechten herabw\u00fcrdigendes und ausgrenzenden Sprechen zentrales Medium der politischen Auseinandersetzung ist. Vielmehr wird in den vielf\u00e4ltigen Formen herabw\u00fcrdigenden Sprechens ein Weltbild sichtbar, das von wenigen Grundunterscheidungen gepr\u00e4gt ist. Auch wird sich zeigen, dass die neuen Rechten sich als eine Schm\u00e4hgemeinschaft konstituieren und das Land, in dem sie leben, seine B\u00fcrger_innen und seine Institutionen nachhaltig verachten. \r\n",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -11342,13 +11318,13 @@
                 "room": "Borg",
                 "slug": "3DGFCV",
                 "url": "https://c3lt.de/36c3/talk/3DGFCV/",
-                "title": "The Human-Value-Evaluation Token *can* save the world",
+                "title": "The Humans-Evaluate-Values Token *can* save the world",
                 "subtitle": "",
                 "track": "Hardware & Making",
                 "type": "Lightning Talk",
                 "language": "en",
                 "abstract": "The Internet of Values, a power-structure that gives newcomers the most power and strengthens anonymity with crowd-sourced entertaining group-dynamics",
-                "description": "Paradoxe Untersuchungen des vorgeschlagenen Wertsystems. Humorvoll und provokativ gedacht, mit ernsthafter Philosophie \u00fcber ein technologisch-realisierbares Projekt. Wir machen Schw\u00e4chen zu St\u00e4rken, indem wir die J\u00fcngeren in der Offenheit unserer Letzteren: die Werte.",
+                "description": "Paradoxe Untersuchungen des vorgeschlagenen Wertsystems. Humorvoll und provokativ gedacht, mit ernsthafter Philosophie \u00fcber ein technologisch-realisierbares Projekt. Wir machen Schw\u00e4chen zu St\u00e4rken, indem wir die J\u00fcngeren in der Offenheit unserer Letzteren erm\u00e4chtigen: die Werte.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -13615,6 +13591,38 @@
                     "code": "AT7TJC",
                     "public_name": "Steini",
                     "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 394,
+                "guid": "f1c9fa52-2bad-5841-ac57-4efad8263c6c",
+                "logo": "/media/36c3-oio/images/BE9QSA/photo_2019-12-22_16-02-21_AxFKkbZ.jpg",
+                "date": "2019-12-29T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "01:00",
+                "room": "OIO Stage",
+                "slug": "BE9QSA",
+                "url": "https://talks.oio.social/36c3-oio/talk/BE9QSA/",
+                "title": "Crackhouse -die KochRadioShow-",
+                "subtitle": "",
+                "track": "Entertainment",
+                "type": "Talk 45 minutes + 10 minutes Q&A",
+                "language": "de",
+                "abstract": "Crackhouse , die RadioKochShow auf FSK83.0 in Hamburg mit Fabse und Felix. 60 Minuten pure Leidenschaft f\u00fcrs Kochen.\r\nGeht mit unser Einkaufsliste los, ladet euch Freunde ein und kocht gemeinsam mit uns.",
+                "description": "Hoffentlich ihr seid bereit euch der Herausforderung einer neuen Kocherfahrung zu stellen, f\u00fcr die unter Euch die Alkoholtrinken empfehlen wir einen Riesling...,\r\n \r\nwir h\u00e4tten uns sehr \u00fcber unsere hochprominente G\u00e4stin Christine Ebeling, Kulturschafferin, Kuratorin und K\u00fcnstlerin gefreut, die leider nicht kommen kann :-(\r\nstattdessen wird es einen Gast geben, der uns alle \u00fcberaschen wird!\r\n\r\nDas sollte ihr einkaufen wenn ihr Zuhause sitzt und mit uns Kochen wollt:\r\n \r\nalle vegetarischen Zutaten der Einkaufsliste lassen sich selbstverst\u00e4ndlich durch vegane Alternativen ersetzen!\r\n \r\n400 g Mehl (wichtig 550er mehl) info siehe unten\r\n250 ml Warmes Wasser\r\n1 E\u00dfl\u00f6ffel Salz\r\n4 El \u00d6l\r\n250 g Ziegenfrischk\u00e4serolle\r\n200g w\u00fcrzigen Bergk\u00e4se\r\n3-4 zweige frischen Rosmarin\r\n400g Creme Fraiche oder Schmand oder halb und halb\r\n4-6 Essl\u00f6ffel fl\u00fcssigen Honig\r\n4-6 rote Zwiebeln je nach Gr\u00f6\u00dfe\r\n1 Bund Fr\u00fchlingszwiebeln ( kommen nach dem backen frisch dr\u00fcber)\r\n \r\nvon Rita Rosenzweig wird es auch endlich die Aufl\u00f6sung Ihrer Abwesenheit geben und \u00fcber die sozialen Medien ein veganes SauerRahm-Rezept,\r\nwer soziale Medien verweigert kann uns gerne eine Mail schreiben (kochradio@gmx.de) und wir senden Euch das Rezept von Rita Rosenzweig  :-)\r\nJeden 2. Sonntag im Monat von 19Uhr - 20Uhr auf FSK Radio 93,0 MHz im Kabel 101,4 MHz. oder\r\nim Livestream unter www.Fsk-hh.org/livestream.\r\nFacebook: https://www.facebook.com/Crackhaus/\r\nInsta: https://www.instagram.com/crackhouse_kochradio/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 158,
+                    "code": "UVGP98",
+                    "public_name": "Felix & Fabse",
+                    "biography": "Crackhouse, die Radiokochshow mit Fabse und Felix. 60 Minuten pure Leidenschaft, f\u00fcrs Kochen.\r\nGeht mit unser Einkaufsliste los, ladet euch Freunde ein und kocht gemeinsam mit uns.\r\nJeden 2. Sonntag im Monat von 19Uhr - 20Uhr auf FSK Radio 93,0 MHz im Kabel 101,4 MHz. oder\r\nim Livestream unter www.Fsk-hh.org/livestream.\r\nFacebook: https://www.facebook.com/Crackhaus/\r\nInsta: https://www.instagram.com/crackhouse_kochradio/",
                     "answers": []
                   }
                 ],
@@ -16054,8 +16062,8 @@
                 "track": "Science",
                 "type": "lecture",
                 "language": "de",
-                "abstract": "Weltweit verlaufen die Entwicklungstrends des Markthochlaufs der Elektromobilit\u00e4t und die Weiterentwicklung relevanter Batteriefertigungs- und Recyclingtechnologien hoch dynamisch. Ma\u00dfgebliche Faktoren f\u00fcr die Entstehung eines industriellen Batterierecycling-Marktes nehmen dabei erst langsam Gestalt an, der regulatorische Rahmen ist noch modellierbar. Zugleich ist der Technologiepfad Elektromobilit\u00e4t als eingeschlagen zu begreifen: Die Vorgaben des Klimaschutzplans der Bundes-regierung zur CO2-Reduktion begr\u00fcnden Umbr\u00fcche in der Automobilbranche, die mittelfristig zu steigenden Verkehrs-anteilen von Fahrzeugen mit rein elektrischem oder hybridem Antrieb an den PKW-Neuzulassungen f\u00fchren werden. \r\n\r\nDamit steigt der Bedarf an geeigneten Traktionsbatterien und die Nachfrage nach den zu ihrer Herstellung erforderlichen, endlichen Rohstoffen. Daraus erw\u00e4chst mit einem der Batterielebensdauer entsprechenden zeitlichen Versatz bis 2030 ein relevantes Altbatterie-Aufkommen. Da die Batterien zudem zahlreiche Gift- und Gefahrstoffe enthalten, kommt dem Aufbau einer industriellen Recyclingstrecke f\u00fcr Traktionsbatterien nicht nur \u00f6konomisch, sondern auch \u00f6kologisch eine strategische Schl\u00fcsselrolle zu. Die daf\u00fcr zuk\u00fcnftig industriell notwendigen Recyclingkapazit\u00e4ten sind derzeit weder vorhanden noch im Aufbau befindlich. \r\n\r\nMit der Zielstellung, die Lausitz als Energieregion zu erhalten und die Gleichwertigkeit der Lebensverh\u00e4ltnisse auch f\u00fcr strukturschwache Regionen herzustellen, gehen wir der Frage nach, ob durch die Errichtung einer Recyclingstrecke f\u00fcr Traktionsbatterien der Elektro-Mobilit\u00e4t ein Beitrag zur Gestaltung des Strukturwandels geleistet werden kann, der in der Region mit dem Ausstieg aus der Braunkohle in eine neue Runde geht.\r\n\r\nDies einerseits im Hinblick auf die Schaffung von Besch\u00e4ftigung, um die im Kontext des Braunkohleausstiegs drohenden Verluste von Industriearbeitspl\u00e4tzen zu kompensieren. Andererseits unter Ma\u00dfgabe der Transformation in eine nachhaltige \u201eEnergieregion der Zukunft\u201c. Um Entwicklungschancen im Zuge des Aufschwungs der Elektro-Mobilit\u00e4t aufzuzeigen, werden die endogenen Potentiale der Lausitz analysiert, der technologsche Entwicklungsstand des Batterierecycling aufgezeigt und weitere Umsetzungsvoraussetzungen gepr\u00fcft.\r\n\r\nSchlie\u00dflich werden Gestaltungsfelder aufgef\u00e4chert, worin Handlungsempfehlungen f\u00fcr ein integriertes Entwicklungskonzept formuliert sind, die u.a. auf die Etablierung einer Kreislaufwirtschaft und Bottom-up Partizipation der Bev\u00f6lkerung abstellen. Sie vermitteln Ideen, wie sich die Ansiedlung der Zukunftstechnologie industrielles Batterierecycling in der Lausitz unterst\u00fctzen lie\u00dfe und bieten Hilfestellung f\u00fcr die Gestaltung des Strukturwandels unter der Pr\u00e4misse einer \u201eJust Transition\u201c - damit \u00f6kologische nicht gegen \u00f6konomische Interessen ausgespielt und  die Menschen nicht zu den Verlierern des Strukturwandels werden. ",
-                "description": "Die Ma\u00dfnahmenpl\u00e4ne der Bundesregierung f\u00fcr die Energie- und Mobilit\u00e4tswende zur Erreichung der UN-Klimaziele f\u00fchren gegenw\u00e4rtig zu einer  Zuspitzung der Debatten \u00fcber den Gestaltungsrahmen, der politischen Entscheidungstr\u00e4ger*innen in unserer repr\u00e4sentativen Demokratie zugebilligt werden sollte. Das Spektrum reicht dabei von der haupts\u00e4chlich von jungen Menschen getragenen internationalen Protestbewegung \u201eFridays for Future\u201c, die sich f\u00fcr die umgehende Herstellung von CO2-Neutralit\u00e4t ausspricht, \u00fcber die Ablehnung einer staatlichen Umweltpolitik mit wirtschaftlicher Lenkungswirkung bis hin zur Leugnung des Klimawandels. Differenzen bestehen zwischen den Interessengruppen auch im Hinblick auf die Wahrnehmung der (eigenen) wirtschaftlichen Lage, der Wirtschaftsweise und bez\u00fcglich des Demokratieverst\u00e4ndnisses. Neben den  Gr\u00fcnen (in den Ballungsr\u00e4umen) hat die AfD zuletzt kr\u00e4ftige Zuw\u00e4chse verbuchen und sich in vielen l\u00e4ndlichen R\u00e4umen als starke (und mitunter st\u00e4rkste) politische Kraft etablieren k\u00f6nnen.\r\n\r\nDeutlich wird, dass der gesellschaftliche Kitt eines geteilten Wertekanons in Deutschland zu br\u00f6ckeln scheint und die ins Haus stehenden Umbr\u00fcche zahlreiche Zukunfts\u00e4ngste in der Bev\u00f6lkerung gesch\u00fcrt haben, die sich zuletzt in den Wahlkabinen Bahn brachen und die politische Entwicklung unzweifelhaft beeinflussen. Wir betrachten es deshalb als von besonders hoher Relevanz, uns exemplarisch mit einer \u201einnerdeutschen\u201c Fragestellung zu besch\u00e4ftigen. Die Analyse der sozialen und wirtschaftlichen Entwicklung vor allem Ostdeutschlands ist nicht allein deshalb wichtig, weil die Herstellung bundesweit einheitlicher Lebensbedingungen bis heute nicht gelingen konnte - auch mit Blick auf wirtschaftliche Vergleichsdaten, soziale Errungenschaften, kulturelle Vielfalt und Teilhabe besteht hier Nachholbedarf. \r\nIn der Lausitz, einer Region mit einem \u00fcberdurchschnittlich hohen Anteil einer hoch qualifizierten Facharbeiterschaft, liegen die L\u00f6hne nach wie vor weit hinter dem Bundesschnitt zur\u00fcck. Zwar ist die Arbeitslosigkeit auch in der Lausitz gegenw\u00e4rtig gering und die mit der massiven De-Industrialisierung nach der Wende einsetzende Abwanderungsdynamik hat sich deutlich abgeschw\u00e4cht, aber das Geburtendefizit dauert an und die \u00dcberalterung der Gesellschaft nimmt weiter zu. Bis 2030 wird von einer weiteren Bev\u00f6lkerungsabnahme um bis zu zehn Prozent ausgegangen wird. Zugleich wurde der Bildungssektor in den vergangenen Jahren vergleichsweise stark geschr\u00f6pft - eine Entwicklung, die dem Diktum lebenslangen Lernens widerspricht. Gleichzeitig steht in der Lausitz mit der Braunkohle ein Identit\u00e4tsfaktor und gro\u00dfer, auch indirekt besch\u00e4ftigungsbedeutsamer Industriezweig zur Disposition. Diesen Entwicklungen muss jetzt mit der Schaffung nachhaltiger Perspektiven etwas entgegengesetzt werden. \r\nDie vorliegende Studie geht der Frage nach, ob die Region den Markthochlauf der Elektromobilit\u00e4t mit der Errichtung eines Recyclingwerkes f\u00fcr Traktionsbatterien als Baustein zur Gestaltung einer \u201eEnergieregion der Zukunft\u201c nutzen kann: Durch die Aufbereitung von Hintergr\u00fcnden und die Entwicklung von Zukunftsperspektiven wird relevantes Handlungswissen f\u00fcr die Etablierung eines Batterierecyclingwerkes in der Lausitz erschlossen, um dem dort seit drei Jahrzehnten andauernden Strukturwandel weiter aktiv zu begegnen, der mit dem vorgesehenen Braunkohleausstieg in eine neue Runde geht.\r\nAusgehend davon, dass es die Menschen vor Ort sind, die beteiligt werden m\u00fcssen, um verloren gegangene Glaubw\u00fcrdigkeit wieder herzustellen, verweist das Autorenteam darauf, dass neben  der Besch\u00e4ftigungssicherung die Herstellung gleichwertiger Lebensverh\u00e4ltnisse, basierend auf einer funktionierenden Daseinsvorsorge, von ebenso gro\u00dfer Relevanz ist wie eine zuk\u00fcnftig Ressourcen schonende Wirtschaftsweise, um weitere \u00f6kologische Sch\u00e4den zu vermeiden. Herausgestellt wird, dass die Lausitz \u00fcber zahlreiche endogene Potentiale verf\u00fcgt, die als Standortvorteile begriffen und st\u00e4rker genutzt werden k\u00f6nnten. Neben der gut ausgebildeten Facharbeiterschaft, vor allem im Bereich der metallbe- und \u2013verarbeitenden Vorleistungsg\u00fcter- und Zulieferindustrie, sind dies eine hoch leistungsf\u00e4hige (Energie-)Netzinfrastruktur und eine bereits rund um die regenerative Energieerzeugung und \u2013speicherung entstandene innovative Unternehmenslandschaft.  \r\nMit der diesj\u00e4hrigen Verleihung des Nobelpreises f\u00fcr Chemie an die drei Entwickler von Lithium-Ionen-Batterien Goodenough, Whittingham und Yoshino unterstreicht die schwedische Akademie die bahnbrechende Bedeutung dieser Technologie, die den Grundstein gelegt habe f\u00fcr drahtlose Kommunikation und f\u00fcr eine von fossilen Brennstoffen freie Zukunft. Seit ihrer Markteinf\u00fchrung 1991 kommen diese leichten, hunderte Male wieder aufladbaren Batterien in Gebrauchsgegenst\u00e4nden von Mobiltelefonen \u00fcber Laptops bis hin zu  elektrisch betriebenen Fahrzeugen zum Einsatz. \r\nDie Studie verdeutlicht neben dem aktuellen technologischen Entwicklungsstand das Innovationspotential der Li-Io-Batterien f\u00fcr regionale M\u00e4rkte, was mit dem erwarteten gro\u00dfindustriellen Einsatz der Technologie im Zuge des Aufschwungs der Elektromobilit\u00e4t einhergeht. Dar\u00fcber hinausgehend nimmt sich das Autorenteam auch der offenen Flanken dieser Batterierevolution an, indem sie ihre Chancen und Risiken diskutiert. Demnach stellt sich das Recycling von Lithium-Ionen-Batterien zuk\u00fcnftig als dringliche Notwendigkeit dar, denn  \r\n    \u2022 die zu ihrer Herstellung erforderlichen Rohstoffe sind endlich, \r\n    \u2022 sie werden zum Teil unter Menschen unw\u00fcrdigen Arbeitsbedingungen und mit erheblichen \u00f6kologischen Folgesch\u00e4den in z.T. politisch instabilen L\u00e4ndern abgebaut, \r\n    \u2022 die globalen Rohstoffm\u00e4rkte sind (aufgrund dessen und aufgrund der Marktdominanz einzelner Staaten) sehr volatil, \r\n    \u2022 es ist ein Beitrag dazu, die automobile Wertsch\u00f6pfungskette vollst\u00e4ndig innereurop\u00e4isch und in Deutschland abzubilden und\r\n    \u2022 eine sichere und verantwortungsvolle Entsorgung bzw. Wiederverwertung der Batterien, die hochgiftige Substanzen enthalten, zu gew\u00e4hrleisten.\r\nDie Recycling von Li-Io-Batterien kann, so das Autorenteam, eingebettet in eine integrierte Strategie nachhaltigen Wirtschaftens das Prinzip der Kreislaufwirtschaft st\u00e4rken. Dazu werden exemplarisch die notwendigen Voraussetzungen in der vom Braunkohleausstieg betroffenen Lausitz analysiert, um exemplarisch aufzuzeigen, wie sich Zukunftstechnologien so verankern lassen, dass \r\n    \u2022 \u00f6kologische nicht gegen soziale Interessen ausgespielt werden,\r\n    \u2022 der Wegfall hochwertiger Industriearbeitspl\u00e4tze unter den Bedingungen Guter Arbeit kompensiert werden k\u00f6nnte,\r\n    \u2022 eine Energieregion der Zukunft mit Modellcharakter entsteht, in der auch kommende Generationen ein Auskommen in lebenswerter Umwelt finden und\r\n    \u2022 durch Partizipation der Bev\u00f6lkerung die im Zuge der Nachwende-Transformationserfahrungen verloren gegangene Glaubw\u00fcrdigkeit (wieder-)hergestellt werden kann. \r\nDer Technologiepfad der Elektromobilit\u00e4t gilt als eingeschlagen, der Erfolg ihres Markthochlaufs bleibt ebenso wie die Durchsetzungsf\u00e4higkeit der Politik zur Erreichung Klimaschutzziele und eine nachhaltige Verwendung der angek\u00fcndigten Strukturhilfen abzuwarten. Zeitlich korrelierend mit dem f\u00fcr sp\u00e4testens 2038 vorgesehenen Ausstieg aus der fossilen Energiewirtschaft spannen das Wachstum der Elektromobilit\u00e4t und das daraus anfallende Recyclingvolumen an Traktionsbatterien den in der Studie betrachteten Planungshorizont von rund 20 Jahren auf. Die Nachwendeerfahrung zeigt, dass ein Zeitfenster von 20 oder 30 Jahren nicht besonders gro\u00df ist, weshalb umgehend damit begonnen werden sollte, die Lausitz durch die Verankerung ressourcenschonender Wertsch\u00f6pfungssysteme, durch Investitionen in Zukunftstechnologien und die St\u00e4rkung von Aus- und Weiterbildungsm\u00f6glichkeiten als \u201eIndustrie- und Energieregion der Zukunft\u201c zu entwickeln. ",
+                "abstract": "Weltweit verlaufen die Entwicklungstrends des Markthochlaufs der Elektromobilit\u00e4t und die Weiterentwicklung relevanter Batteriefertigungs- und Recyclingtechnologien hoch dynamisch. Ma\u00dfgebliche Faktoren f\u00fcr die Entstehung eines industriellen Batterierecycling-Marktes nehmen dabei erst langsam Gestalt an, der regulatorische Rahmen ist noch modellierbar. Zugleich ist der Technologiepfad Elektromobilit\u00e4t als eingeschlagen zu begreifen - die Notwendigkeit einer Verkehrswende zur Reduzierung des CO2-Aussto\u00dfes begr\u00fcndet Umbr\u00fcche in der Automobilbranche, die mittelfristig zu steigenden Verkehrsanteilen von Fahrzeugen mit rein elektrischem oder hybridem Antrieb an den PKW-Neuzulassungen f\u00fchren werden. Damit steigt der Bedarf an geeigneten Traktionsbatterien und die Nachfrage nach den zu ihrer Herstellung erforderlichen, endlichen Rohstoffen.\r\n\r\nIm Energiesektor stellt der Beschluss zum Kohleausstieg 2038 eine Z\u00e4sur dar:  Mit der Zielstellung, die Lausitz \u2013 bislang Braunkohlerevier -  als Energieregion zu erhalten und die Angleichung der Lebensverh\u00e4ltnisse in der strukturschwachen Region zu schaffen, gehen wir der Frage nach, ob durch die Errichtung einer Recyclingstrecke f\u00fcr Traktionsbatterien der Elektro-Mobilit\u00e4t ein Beitrag zur Gestaltung einer \u201eEnergieregion der Zukunft\u201c geleistet werden kann. Dies einerseits im Hinblick auf die Schaffung von Besch\u00e4ftigung, um die im Kontext des Braunkohleausstiegs drohenden Verluste von Industriearbeitspl\u00e4tzen zu kompensieren. Andererseits unter Ma\u00dfgabe der Etablierung einer nachhaltigen, regional verankerten Kreislaufwirtschaft.\r\n",
+                "description": "Um nachhaltige Entwicklungschancen f\u00fcr die Lausitz im Zuge des Aufschwungs der Elektro-Mobilit\u00e4t abzuleiten, werden \r\n\u2022\tdie endogenen Potentiale der Region analysiert, \r\n\u2022\tdas zuk\u00fcnftige Altbatterie-Aufkommen und der technologische Entwicklungsstand des Li-Io-Batterierecycling aufgezeigt sowie\r\n\u2022\tdie regulatorischen Rahmenbedingungen auf den Pr\u00fcfstand gestellt.\r\nWir zeigen die offenen Flanken der Lithium-Ionen-\u201eBatterierevolution\u201c auf, indem wir auch ihre Risiken diskutieren: Das Recycling der Lithium-Ionen-Batterien stellt sich demnach zuk\u00fcnftig als dringliche Notwendigkeit dar, denn  \r\n\r\n\u2022\tdie zu ihrer Herstellung erforderlichen Rohstoffe sind endlich, \r\n\u2022\tsie werden zum Teil unter Menschen unw\u00fcrdigen Arbeitsbedingungen und mit erheblichen \u00f6kologischen Folgesch\u00e4den abgebaut,    \r\n\u2022\tes ist eine sichere und verantwortungsvolle Entsorgung bzw. Wiederverwertung der Batterien, die hochgiftige Substanzen enthalten, zu gew\u00e4hrleisten.\r\n\r\nSchlie\u00dflich werden Handlungsempfehlungen f\u00fcr ein integriertes Entwicklungskonzept formuliert, die auf die Etablierung einer Kreislaufwirtschaft und Bottom-up Partizipation der Bev\u00f6lkerung abstellen. Sie vermitteln Ideen, wie sich die Ansiedlung einer Zukunftstechnologie \u2013 wie des industriellen Batterierecycling - in \u201eRegionen mit hohen Zukunftsrisiken\u201c unterst\u00fctzen l\u00e4sst und wie sich Strukturwandel so gestalten l\u00e4sst, dass \u00f6kologische und soziale nicht gegen \u00f6konomische Interessen ausgespielt werden.\r\n",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -16070,12 +16078,7 @@
                     "title": "2018/12 | Studie \"Batterie-Recycling als Besch\u00e4ftigungsperspektive f\u00fcr die Lausitz\""
                   }
                 ],
-                "attachments": [
-                  {
-                    "url": "/system/event_attachments/attachments/000/004/035/original/Batt_Rec_Lau_Leipzig_123019.pptx?1577031864",
-                    "title": "Batt_Rec_Lau_PPP_Folien"
-                  }
-                ]
+                "attachments": []
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11235.html",
@@ -16211,7 +16214,7 @@
                 "room": "Borg",
                 "slug": "ZY7JB9",
                 "url": "https://c3lt.de/36c3/talk/ZY7JB9/",
-                "title": "The Life-Quantum as a Lowerarchichal Self-Organizing Structure (Das Lebens-quantum als niederarchichalische Selbstorganizationsstruktur)",
+                "title": "The Healing-Work-Quanta as a Lowerarchichal Self-Organizing Structure (Das Lebens-quantum als niederarchichalische Selbstorganizationsstruktur)",
                 "subtitle": "",
                 "track": "Resilience & Sustainability",
                 "type": "Lightning Talk",
@@ -16367,7 +16370,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10592.html",
                 "id": 10592,
                 "guid": "95eba607-f3bd-4ee6-b822-57a0efb3cf2f",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/592/large/Stempel-8.6.png?1577273820",
                 "date": "2019-12-30T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "00:40",

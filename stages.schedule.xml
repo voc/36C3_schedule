@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23</version>
+  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -212,6 +212,8 @@ We have responsibly disclosed our findings to Intel on June 7, 2019. Intel assig
         <description>Dieses Jahr gab es zwei neuerliche Anhörungen in Straßburg, die sich mit der britischen und schwedischen Massenüberwachung durch die Geheimdienste auseinandersetzten. Im Vortrag werden die bisher gefällten Urteile und die neuen vorgetragenen Argumente beleuchtet.&#13;
 &#13;
 Insbesondere der britische Fall ist das erste Mal, dass der Gerichtshof nicht nur die Massenüberwachung an der Menschenrechtskonvention misst, sondern auch das Datenkarussell zwischen den Geheimdiensten, namentlich dem GCHQ und der NSA.&#13;
+&#13;
+Wegen der schon Mitte Januar vom Bundesverfassungsgericht anberaumten mündlichen Anhörung zum BND-Gesetz wird sich ein Teil des Vortrags auch mit der deutschen geheimdienstlichen Massenüberwachung beschäftigen. Der CCC hat eine Stellungnahme zur Ausland-Ausland-Fernmeldeaufklärung abgegeben, deren Inhalt kurz zusammengefasst wird.&#13;
 &#13;
 Offenlegung: Ich bin eine der Beschwerdeführerinnen in dem britischen Fall.</description>
         <recording>
@@ -994,7 +996,9 @@ The experience while developing such a huge project is that lots of components c
           <link href="https://robur.coop">robur</link>
           <link href="https://ocaml.org">OCaml</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/040/original/talk.pdf?1577310794">slides.2.pdf</attachment>
+        </attachments>
       </event>
       <event id="10703" guid="ffe32913-e2ff-4331-b3e6-7f8f180cbd72">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10703.html</url>
@@ -1322,7 +1326,7 @@ The talk will contain material both documenting the surveillance measures instal
       </event>
       <event id="11034" guid="5ef93193-8ad9-4cb3-8804-548bbd6faf24">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11034.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/011/034/large/icon_cropped.png?1577305720</logo>
         <date>2019-12-27T12:50:00+01:00</date>
         <start>12:50</start>
         <duration>01:00</duration>
@@ -5707,7 +5711,7 @@ We hope we could make users and developers aware of the potential security risks
         </recording>
         <persons>
           <person id="3560">renataavila</person>
-          <person id="9752">naomi@auerfeld.com</person>
+          <person id="9752"> Naomi Colvin</person>
           <person id="9873">Angela Richter</person>
         </persons>
         <links>
@@ -5933,7 +5937,16 @@ Die Gesellschaft für Freiheitsrechte e.V. (GFF) und der Zentralrat Deutscher Si
 &#13;
 Anja Reuss ist Politische Referentin des Zentralrats Deutscher Sinti und Roma, der politischen Interessenvertretung der deutschen Sinti und Roma mit Sitz in Heidelberg. Als Dachverband setzt sich der Zentralrat auf nationaler und internationaler Ebene für eine gleichberechtigte Teilhabe von Sinti und Roma in Politik und Gesellschaft sowie für die Auseinandersetzung mit und Bekämpfung von Antiziganismus ein.&#13;
 &#13;
-Lea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft für Freiheitsrechte e.V. (GFF). Die GFF ist eine NGO, die durch strategische Prozesse Grund- und Menschenrechte stärkt und zivilgesellschaftlichen Partnerorganisationen rechtlich unterstützt. In ihren Verfahren setzt sich die GFF dabei immer wieder kritisch mit polizeilichen Ermittlungsbefugnissen auseinander, sei dies im Zusammenhang mit dem Einsatz von Späh-Software oder bei der Datenerhebung. </description>
+Lea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft für Freiheitsrechte e.V. (GFF). Die GFF ist eine NGO, die durch strategische Prozesse Grund- und Menschenrechte stärkt und zivilgesellschaftlichen Partnerorganisationen rechtlich unterstützt. In ihren Verfahren setzt sich die GFF dabei immer wieder kritisch mit polizeilichen Ermittlungsbefugnissen auseinander, sei dies im Zusammenhang mit dem Einsatz von Späh-Software oder bei der Datenerhebung. &#13;
+&#13;
+Zentralrat Deutscher Sinti und Roma, Informationen zum Thema:&#13;
+https://zentralrat.sintiundroma.de/themenseite-dna/&#13;
+&#13;
+https://zentralrat.sintiundroma.de/diskriminierung-von-sinti-und-roma-ein-senator-seine-polizisten-und-86-trickdiebe/&#13;
+ &#13;
+Markus End (2019): Antiziganismus und Polizei, https://zentralrat.sintiundroma.de/download/9262&#13;
+&#13;
+</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -5946,6 +5959,9 @@ Lea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft für Frei
           <link href="https://freiheitsrechte.org/kriminalstatistik-berlin/">GFF-Homepage: Datenerhebung bei der Berliner Polizei</link>
           <link href="https://freiheitsrechte.org/pm-kriminalstatistik/">GFF-Pressemitteilung: Datenerhebung bei der Berliner Polizei</link>
           <link href="https://taz.de/Polizei-unter-Diskrimierungsverdacht/!5626822/">TAZ-Artikel: Polizei unter Diskriminierungsverdacht</link>
+          <link href="https://zentralrat.sintiundroma.de/themenseite-dna/">Antiziganistismus und erweiterte DNA-Analysen</link>
+          <link href="https://zentralrat.sintiundroma.de/diskriminierung-von-sinti-und-roma-ein-senator-seine-polizisten-und-86-trickdiebe/">Zentralrat zur PKS 2017 Berlin </link>
+          <link href="https://zentralrat.sintiundroma.de/download/9262">Markus End (2019): Antiziganismus und Polizei</link>
         </links>
         <attachments/>
       </event>
@@ -6481,41 +6497,6 @@ While the people in charge do not manage to organize a proper search- and rescue
           <link href="https://chrome.google.com/webstore/detail/listening-back/gdkmphlncmoloepkpifnhneogcliiiah">Listening Back Chrome Browser Add-On</link>
           <link href="https://addons.mozilla.org/en-GB/firefox/addon/listening-back/">Listening Back Firefox Browser Add-On</link>
           <link href="http://jasmineguffond.com/">jasmineguffond.com</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10909" guid="60017c5f-e30d-493c-afd7-9a44f6b0e8f2">
-        <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10909.html</url>
-        <logo/>
-        <date>2019-12-28T20:50:00+01:00</date>
-        <start>20:50</start>
-        <duration>01:00</duration>
-        <room>Eliza</room>
-        <slug>36c3-10909-reusing_ict_equipment_why_how</slug>
-        <title>Reusing ICT equipment, why &amp; how</title>
-        <subtitle>Practical experiences and processes for repurposing ICT equipment</subtitle>
-        <track>Resilience &amp; Sustainability</track>
-        <type>lecture</type>
-        <language>en</language>
-        <abstract>Since 2011, FAIR (FAIR Allocation of Infotech Resources) has reused 3,000 computers from Denmark 11,000 computers from Norway. We'll go through how we're setup to provide reuse, and how ultimately fellow communities are benefiting from this.</abstract>
-        <description>As the wheels of economy turn, companies and public institutions are incentivized to replace their ICT equipment, leaving behind equipment that can be repurposed for the greatest possible human value and impact in the hands of those that need it the most.&#13;
-&#13;
-FAIR Denmark is a civic society that has worked to source and redistribute this equipment in an overall program to give ICT access to youths in Malawi: From the logistics and data sanitization to university-based collaborations for training and maintenance in Malawi and offline software platforms for access to quality education at secondary schools in Malawi.&#13;
-&#13;
-All the software and contents that we work with are Open Source / Open Access.&#13;
-&#13;
-Maybe you're interested in reuse? Maybe for the sake of the environment or maybe in the interest of helping others? We're going to have to be working together in bigger alliances to avoid the pitfalls of our wasteful culture, planned obsolescence and physical shredding of computer equipment. The the extend of my knowledge and awareness, the talk will try to introduce other actors with similar objectives.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="9660">Benjamin Balder Bach</person>
-        </persons>
-        <links>
-          <link href="https://www.fairdanmark.dk/en/">FAIR website (English)</link>
-          <link href="https://twitter.com/FairDanmark/">Twitter: @fairdanmark</link>
-          <link href="https://lcrs.fairdanmark.dk/">Large-scale Computer Reuse Suite (LCRS)</link>
         </links>
         <attachments/>
       </event>
@@ -9910,7 +9891,7 @@ Dazu ist das Projekt ein sogenanntes Running Target mit regelmäßigen Updates d
 &#13;
 Im Vortrag sollen zunächst die wichtigsten sprachlichen Strategien zur Bildung herabwürdigender Ausdrücke vorgestellt werden, ehe in einem zweiten Schritt der invektive Wortschatz zu einzelnen Politik- und Gesellschaftsbereichen in Auswahl präsentiert wird. Basis der Untersuchung bildet eine umfangreiche korpuslinguistische Analyse einschlägiger rechter und rechtsextremer "Nachrichten"-Seiten, Blogs, Kommentarspalten und Foren aus den Jahren von 2012 bis 2019, die mehr als 25.000 Schimpfwörter zutage färderte.&#13;
 &#13;
-Der Vortrag will nicht nur das Offensichtliche zeigen: Dass für die neuen Rechten herabwürdigendes und ausgrenzenden Sprechen zentrales Medium der politischen Auseinandersetzung ist. Vielmehr wird in den vielfältigen Formen herabwürdigenden Sprechens ein Weltbild sichtbar, das von radikaler Vereinfachung und simplen Grundunterscheidungen geprägt ist. Auch wird sich zeigen, dass die vermeintlichen Patrioten sich als eine Schmähgemeinschaft konstituieren und das Land, in dem sie leben, und seine Bürger_innen und Institutionen zutiefst verachten. &#13;
+Der Vortrag will nicht nur das Offensichtliche zeigen: Dass für die neuen Rechten herabwürdigendes und ausgrenzenden Sprechen zentrales Medium der politischen Auseinandersetzung ist. Vielmehr wird in den vielfältigen Formen herabwürdigenden Sprechens ein Weltbild sichtbar, das von wenigen Grundunterscheidungen geprägt ist. Auch wird sich zeigen, dass die neuen Rechten sich als eine Schmähgemeinschaft konstituieren und das Land, in dem sie leben, seine Bürger_innen und seine Institutionen nachhaltig verachten. &#13;
 </description>
         <recording>
           <license/>
@@ -10520,13 +10501,13 @@ When lack of control of unrevokable CVE(s) on your project have long term unwant
         <room>Borg</room>
         <slug>3DGFCV</slug>
         <url>https://c3lt.de/36c3/talk/3DGFCV/</url>
-        <title>The Human-Value-Evaluation Token *can* save the world</title>
+        <title>The Humans-Evaluate-Values Token *can* save the world</title>
         <subtitle/>
         <track>Hardware &amp; Making</track>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>The Internet of Values, a power-structure that gives newcomers the most power and strengthens anonymity with crowd-sourced entertaining group-dynamics</abstract>
-        <description>Paradoxe Untersuchungen des vorgeschlagenen Wertsystems. Humorvoll und provokativ gedacht, mit ernsthafter Philosophie über ein technologisch-realisierbares Projekt. Wir machen Schwächen zu Stärken, indem wir die Jüngeren in der Offenheit unserer Letzteren: die Werte.</description>
+        <description>Paradoxe Untersuchungen des vorgeschlagenen Wertsystems. Humorvoll und provokativ gedacht, mit ernsthafter Philosophie über ein technologisch-realisierbares Projekt. Wir machen Schwächen zu Stärken, indem wir die Jüngeren in der Offenheit unserer Letzteren ermächtigen: die Werte.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -12717,6 +12698,59 @@ Machbarkeit im Making wird vornehmlich von physikalischen Gesetzen bestimmt. Doc
         <persons>
           <person id="133">Sebastian Jünemann</person>
           <person id="149">Steini</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="394" guid="f1c9fa52-2bad-5841-ac57-4efad8263c6c">
+        <logo>/media/36c3-oio/images/BE9QSA/photo_2019-12-22_16-02-21_AxFKkbZ.jpg</logo>
+        <date>2019-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>01:00</duration>
+        <room>OIO Stage</room>
+        <slug>BE9QSA</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/BE9QSA/</url>
+        <title>Crackhouse -die KochRadioShow-</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Crackhouse , die RadioKochShow auf FSK83.0 in Hamburg mit Fabse und Felix. 60 Minuten pure Leidenschaft fürs Kochen.&#13;
+Geht mit unser Einkaufsliste los, ladet euch Freunde ein und kocht gemeinsam mit uns.</abstract>
+        <description>Hoffentlich ihr seid bereit euch der Herausforderung einer neuen Kocherfahrung zu stellen, für die unter Euch die Alkoholtrinken empfehlen wir einen Riesling...,&#13;
+ &#13;
+wir hätten uns sehr über unsere hochprominente Gästin Christine Ebeling, Kulturschafferin, Kuratorin und Künstlerin gefreut, die leider nicht kommen kann :-(&#13;
+stattdessen wird es einen Gast geben, der uns alle überaschen wird!&#13;
+&#13;
+Das sollte ihr einkaufen wenn ihr Zuhause sitzt und mit uns Kochen wollt:&#13;
+ &#13;
+alle vegetarischen Zutaten der Einkaufsliste lassen sich selbstverständlich durch vegane Alternativen ersetzen!&#13;
+ &#13;
+400 g Mehl (wichtig 550er mehl) info siehe unten&#13;
+250 ml Warmes Wasser&#13;
+1 Eßlöffel Salz&#13;
+4 El Öl&#13;
+250 g Ziegenfrischkäserolle&#13;
+200g würzigen Bergkäse&#13;
+3-4 zweige frischen Rosmarin&#13;
+400g Creme Fraiche oder Schmand oder halb und halb&#13;
+4-6 Esslöffel flüssigen Honig&#13;
+4-6 rote Zwiebeln je nach Größe&#13;
+1 Bund Frühlingszwiebeln ( kommen nach dem backen frisch drüber)&#13;
+ &#13;
+von Rita Rosenzweig wird es auch endlich die Auflösung Ihrer Abwesenheit geben und über die sozialen Medien ein veganes SauerRahm-Rezept,&#13;
+wer soziale Medien verweigert kann uns gerne eine Mail schreiben (kochradio@gmx.de) und wir senden Euch das Rezept von Rita Rosenzweig  :-)&#13;
+Jeden 2. Sonntag im Monat von 19Uhr - 20Uhr auf FSK Radio 93,0 MHz im Kabel 101,4 MHz. oder&#13;
+im Livestream unter www.Fsk-hh.org/livestream.&#13;
+Facebook: https://www.facebook.com/Crackhaus/&#13;
+Insta: https://www.instagram.com/crackhouse_kochradio/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="158">Felix &amp; Fabse</person>
         </persons>
         <links/>
         <attachments/>
@@ -14962,34 +14996,22 @@ Daher bauen wir ein Open Source Bikesharingsystem: nicht profitorientiert und of
         <track>Science</track>
         <type>lecture</type>
         <language>de</language>
-        <abstract>Weltweit verlaufen die Entwicklungstrends des Markthochlaufs der Elektromobilität und die Weiterentwicklung relevanter Batteriefertigungs- und Recyclingtechnologien hoch dynamisch. Maßgebliche Faktoren für die Entstehung eines industriellen Batterierecycling-Marktes nehmen dabei erst langsam Gestalt an, der regulatorische Rahmen ist noch modellierbar. Zugleich ist der Technologiepfad Elektromobilität als eingeschlagen zu begreifen: Die Vorgaben des Klimaschutzplans der Bundes-regierung zur CO2-Reduktion begründen Umbrüche in der Automobilbranche, die mittelfristig zu steigenden Verkehrs-anteilen von Fahrzeugen mit rein elektrischem oder hybridem Antrieb an den PKW-Neuzulassungen führen werden. &#13;
+        <abstract>Weltweit verlaufen die Entwicklungstrends des Markthochlaufs der Elektromobilität und die Weiterentwicklung relevanter Batteriefertigungs- und Recyclingtechnologien hoch dynamisch. Maßgebliche Faktoren für die Entstehung eines industriellen Batterierecycling-Marktes nehmen dabei erst langsam Gestalt an, der regulatorische Rahmen ist noch modellierbar. Zugleich ist der Technologiepfad Elektromobilität als eingeschlagen zu begreifen - die Notwendigkeit einer Verkehrswende zur Reduzierung des CO2-Ausstoßes begründet Umbrüche in der Automobilbranche, die mittelfristig zu steigenden Verkehrsanteilen von Fahrzeugen mit rein elektrischem oder hybridem Antrieb an den PKW-Neuzulassungen führen werden. Damit steigt der Bedarf an geeigneten Traktionsbatterien und die Nachfrage nach den zu ihrer Herstellung erforderlichen, endlichen Rohstoffen.&#13;
 &#13;
-Damit steigt der Bedarf an geeigneten Traktionsbatterien und die Nachfrage nach den zu ihrer Herstellung erforderlichen, endlichen Rohstoffen. Daraus erwächst mit einem der Batterielebensdauer entsprechenden zeitlichen Versatz bis 2030 ein relevantes Altbatterie-Aufkommen. Da die Batterien zudem zahlreiche Gift- und Gefahrstoffe enthalten, kommt dem Aufbau einer industriellen Recyclingstrecke für Traktionsbatterien nicht nur ökonomisch, sondern auch ökologisch eine strategische Schlüsselrolle zu. Die dafür zukünftig industriell notwendigen Recyclingkapazitäten sind derzeit weder vorhanden noch im Aufbau befindlich. &#13;
+Im Energiesektor stellt der Beschluss zum Kohleausstieg 2038 eine Zäsur dar:  Mit der Zielstellung, die Lausitz – bislang Braunkohlerevier -  als Energieregion zu erhalten und die Angleichung der Lebensverhältnisse in der strukturschwachen Region zu schaffen, gehen wir der Frage nach, ob durch die Errichtung einer Recyclingstrecke für Traktionsbatterien der Elektro-Mobilität ein Beitrag zur Gestaltung einer „Energieregion der Zukunft“ geleistet werden kann. Dies einerseits im Hinblick auf die Schaffung von Beschäftigung, um die im Kontext des Braunkohleausstiegs drohenden Verluste von Industriearbeitsplätzen zu kompensieren. Andererseits unter Maßgabe der Etablierung einer nachhaltigen, regional verankerten Kreislaufwirtschaft.&#13;
+</abstract>
+        <description>Um nachhaltige Entwicklungschancen für die Lausitz im Zuge des Aufschwungs der Elektro-Mobilität abzuleiten, werden &#13;
+•	die endogenen Potentiale der Region analysiert, &#13;
+•	das zukünftige Altbatterie-Aufkommen und der technologische Entwicklungsstand des Li-Io-Batterierecycling aufgezeigt sowie&#13;
+•	die regulatorischen Rahmenbedingungen auf den Prüfstand gestellt.&#13;
+Wir zeigen die offenen Flanken der Lithium-Ionen-„Batterierevolution“ auf, indem wir auch ihre Risiken diskutieren: Das Recycling der Lithium-Ionen-Batterien stellt sich demnach zukünftig als dringliche Notwendigkeit dar, denn  &#13;
 &#13;
-Mit der Zielstellung, die Lausitz als Energieregion zu erhalten und die Gleichwertigkeit der Lebensverhältnisse auch für strukturschwache Regionen herzustellen, gehen wir der Frage nach, ob durch die Errichtung einer Recyclingstrecke für Traktionsbatterien der Elektro-Mobilität ein Beitrag zur Gestaltung des Strukturwandels geleistet werden kann, der in der Region mit dem Ausstieg aus der Braunkohle in eine neue Runde geht.&#13;
+•	die zu ihrer Herstellung erforderlichen Rohstoffe sind endlich, &#13;
+•	sie werden zum Teil unter Menschen unwürdigen Arbeitsbedingungen und mit erheblichen ökologischen Folgeschäden abgebaut,    &#13;
+•	es ist eine sichere und verantwortungsvolle Entsorgung bzw. Wiederverwertung der Batterien, die hochgiftige Substanzen enthalten, zu gewährleisten.&#13;
 &#13;
-Dies einerseits im Hinblick auf die Schaffung von Beschäftigung, um die im Kontext des Braunkohleausstiegs drohenden Verluste von Industriearbeitsplätzen zu kompensieren. Andererseits unter Maßgabe der Transformation in eine nachhaltige „Energieregion der Zukunft“. Um Entwicklungschancen im Zuge des Aufschwungs der Elektro-Mobilität aufzuzeigen, werden die endogenen Potentiale der Lausitz analysiert, der technologsche Entwicklungsstand des Batterierecycling aufgezeigt und weitere Umsetzungsvoraussetzungen geprüft.&#13;
-&#13;
-Schließlich werden Gestaltungsfelder aufgefächert, worin Handlungsempfehlungen für ein integriertes Entwicklungskonzept formuliert sind, die u.a. auf die Etablierung einer Kreislaufwirtschaft und Bottom-up Partizipation der Bevölkerung abstellen. Sie vermitteln Ideen, wie sich die Ansiedlung der Zukunftstechnologie industrielles Batterierecycling in der Lausitz unterstützen ließe und bieten Hilfestellung für die Gestaltung des Strukturwandels unter der Prämisse einer „Just Transition“ - damit ökologische nicht gegen ökonomische Interessen ausgespielt und  die Menschen nicht zu den Verlierern des Strukturwandels werden. </abstract>
-        <description>Die Maßnahmenpläne der Bundesregierung für die Energie- und Mobilitätswende zur Erreichung der UN-Klimaziele führen gegenwärtig zu einer  Zuspitzung der Debatten über den Gestaltungsrahmen, der politischen Entscheidungsträger*innen in unserer repräsentativen Demokratie zugebilligt werden sollte. Das Spektrum reicht dabei von der hauptsächlich von jungen Menschen getragenen internationalen Protestbewegung „Fridays for Future“, die sich für die umgehende Herstellung von CO2-Neutralität ausspricht, über die Ablehnung einer staatlichen Umweltpolitik mit wirtschaftlicher Lenkungswirkung bis hin zur Leugnung des Klimawandels. Differenzen bestehen zwischen den Interessengruppen auch im Hinblick auf die Wahrnehmung der (eigenen) wirtschaftlichen Lage, der Wirtschaftsweise und bezüglich des Demokratieverständnisses. Neben den  Grünen (in den Ballungsräumen) hat die AfD zuletzt kräftige Zuwächse verbuchen und sich in vielen ländlichen Räumen als starke (und mitunter stärkste) politische Kraft etablieren können.&#13;
-&#13;
-Deutlich wird, dass der gesellschaftliche Kitt eines geteilten Wertekanons in Deutschland zu bröckeln scheint und die ins Haus stehenden Umbrüche zahlreiche Zukunftsängste in der Bevölkerung geschürt haben, die sich zuletzt in den Wahlkabinen Bahn brachen und die politische Entwicklung unzweifelhaft beeinflussen. Wir betrachten es deshalb als von besonders hoher Relevanz, uns exemplarisch mit einer „innerdeutschen“ Fragestellung zu beschäftigen. Die Analyse der sozialen und wirtschaftlichen Entwicklung vor allem Ostdeutschlands ist nicht allein deshalb wichtig, weil die Herstellung bundesweit einheitlicher Lebensbedingungen bis heute nicht gelingen konnte - auch mit Blick auf wirtschaftliche Vergleichsdaten, soziale Errungenschaften, kulturelle Vielfalt und Teilhabe besteht hier Nachholbedarf. &#13;
-In der Lausitz, einer Region mit einem überdurchschnittlich hohen Anteil einer hoch qualifizierten Facharbeiterschaft, liegen die Löhne nach wie vor weit hinter dem Bundesschnitt zurück. Zwar ist die Arbeitslosigkeit auch in der Lausitz gegenwärtig gering und die mit der massiven De-Industrialisierung nach der Wende einsetzende Abwanderungsdynamik hat sich deutlich abgeschwächt, aber das Geburtendefizit dauert an und die Überalterung der Gesellschaft nimmt weiter zu. Bis 2030 wird von einer weiteren Bevölkerungsabnahme um bis zu zehn Prozent ausgegangen wird. Zugleich wurde der Bildungssektor in den vergangenen Jahren vergleichsweise stark geschröpft - eine Entwicklung, die dem Diktum lebenslangen Lernens widerspricht. Gleichzeitig steht in der Lausitz mit der Braunkohle ein Identitätsfaktor und großer, auch indirekt beschäftigungsbedeutsamer Industriezweig zur Disposition. Diesen Entwicklungen muss jetzt mit der Schaffung nachhaltiger Perspektiven etwas entgegengesetzt werden. &#13;
-Die vorliegende Studie geht der Frage nach, ob die Region den Markthochlauf der Elektromobilität mit der Errichtung eines Recyclingwerkes für Traktionsbatterien als Baustein zur Gestaltung einer „Energieregion der Zukunft“ nutzen kann: Durch die Aufbereitung von Hintergründen und die Entwicklung von Zukunftsperspektiven wird relevantes Handlungswissen für die Etablierung eines Batterierecyclingwerkes in der Lausitz erschlossen, um dem dort seit drei Jahrzehnten andauernden Strukturwandel weiter aktiv zu begegnen, der mit dem vorgesehenen Braunkohleausstieg in eine neue Runde geht.&#13;
-Ausgehend davon, dass es die Menschen vor Ort sind, die beteiligt werden müssen, um verloren gegangene Glaubwürdigkeit wieder herzustellen, verweist das Autorenteam darauf, dass neben  der Beschäftigungssicherung die Herstellung gleichwertiger Lebensverhältnisse, basierend auf einer funktionierenden Daseinsvorsorge, von ebenso großer Relevanz ist wie eine zukünftig Ressourcen schonende Wirtschaftsweise, um weitere ökologische Schäden zu vermeiden. Herausgestellt wird, dass die Lausitz über zahlreiche endogene Potentiale verfügt, die als Standortvorteile begriffen und stärker genutzt werden könnten. Neben der gut ausgebildeten Facharbeiterschaft, vor allem im Bereich der metallbe- und –verarbeitenden Vorleistungsgüter- und Zulieferindustrie, sind dies eine hoch leistungsfähige (Energie-)Netzinfrastruktur und eine bereits rund um die regenerative Energieerzeugung und –speicherung entstandene innovative Unternehmenslandschaft.  &#13;
-Mit der diesjährigen Verleihung des Nobelpreises für Chemie an die drei Entwickler von Lithium-Ionen-Batterien Goodenough, Whittingham und Yoshino unterstreicht die schwedische Akademie die bahnbrechende Bedeutung dieser Technologie, die den Grundstein gelegt habe für drahtlose Kommunikation und für eine von fossilen Brennstoffen freie Zukunft. Seit ihrer Markteinführung 1991 kommen diese leichten, hunderte Male wieder aufladbaren Batterien in Gebrauchsgegenständen von Mobiltelefonen über Laptops bis hin zu  elektrisch betriebenen Fahrzeugen zum Einsatz. &#13;
-Die Studie verdeutlicht neben dem aktuellen technologischen Entwicklungsstand das Innovationspotential der Li-Io-Batterien für regionale Märkte, was mit dem erwarteten großindustriellen Einsatz der Technologie im Zuge des Aufschwungs der Elektromobilität einhergeht. Darüber hinausgehend nimmt sich das Autorenteam auch der offenen Flanken dieser Batterierevolution an, indem sie ihre Chancen und Risiken diskutiert. Demnach stellt sich das Recycling von Lithium-Ionen-Batterien zukünftig als dringliche Notwendigkeit dar, denn  &#13;
-    • die zu ihrer Herstellung erforderlichen Rohstoffe sind endlich, &#13;
-    • sie werden zum Teil unter Menschen unwürdigen Arbeitsbedingungen und mit erheblichen ökologischen Folgeschäden in z.T. politisch instabilen Ländern abgebaut, &#13;
-    • die globalen Rohstoffmärkte sind (aufgrund dessen und aufgrund der Marktdominanz einzelner Staaten) sehr volatil, &#13;
-    • es ist ein Beitrag dazu, die automobile Wertschöpfungskette vollständig innereuropäisch und in Deutschland abzubilden und&#13;
-    • eine sichere und verantwortungsvolle Entsorgung bzw. Wiederverwertung der Batterien, die hochgiftige Substanzen enthalten, zu gewährleisten.&#13;
-Die Recycling von Li-Io-Batterien kann, so das Autorenteam, eingebettet in eine integrierte Strategie nachhaltigen Wirtschaftens das Prinzip der Kreislaufwirtschaft stärken. Dazu werden exemplarisch die notwendigen Voraussetzungen in der vom Braunkohleausstieg betroffenen Lausitz analysiert, um exemplarisch aufzuzeigen, wie sich Zukunftstechnologien so verankern lassen, dass &#13;
-    • ökologische nicht gegen soziale Interessen ausgespielt werden,&#13;
-    • der Wegfall hochwertiger Industriearbeitsplätze unter den Bedingungen Guter Arbeit kompensiert werden könnte,&#13;
-    • eine Energieregion der Zukunft mit Modellcharakter entsteht, in der auch kommende Generationen ein Auskommen in lebenswerter Umwelt finden und&#13;
-    • durch Partizipation der Bevölkerung die im Zuge der Nachwende-Transformationserfahrungen verloren gegangene Glaubwürdigkeit (wieder-)hergestellt werden kann. &#13;
-Der Technologiepfad der Elektromobilität gilt als eingeschlagen, der Erfolg ihres Markthochlaufs bleibt ebenso wie die Durchsetzungsfähigkeit der Politik zur Erreichung Klimaschutzziele und eine nachhaltige Verwendung der angekündigten Strukturhilfen abzuwarten. Zeitlich korrelierend mit dem für spätestens 2038 vorgesehenen Ausstieg aus der fossilen Energiewirtschaft spannen das Wachstum der Elektromobilität und das daraus anfallende Recyclingvolumen an Traktionsbatterien den in der Studie betrachteten Planungshorizont von rund 20 Jahren auf. Die Nachwendeerfahrung zeigt, dass ein Zeitfenster von 20 oder 30 Jahren nicht besonders groß ist, weshalb umgehend damit begonnen werden sollte, die Lausitz durch die Verankerung ressourcenschonender Wertschöpfungssysteme, durch Investitionen in Zukunftstechnologien und die Stärkung von Aus- und Weiterbildungsmöglichkeiten als „Industrie- und Energieregion der Zukunft“ zu entwickeln. </description>
+Schließlich werden Handlungsempfehlungen für ein integriertes Entwicklungskonzept formuliert, die auf die Etablierung einer Kreislaufwirtschaft und Bottom-up Partizipation der Bevölkerung abstellen. Sie vermitteln Ideen, wie sich die Ansiedlung einer Zukunftstechnologie – wie des industriellen Batterierecycling - in „Regionen mit hohen Zukunftsrisiken“ unterstützen lässt und wie sich Strukturwandel so gestalten lässt, dass ökologische und soziale nicht gegen ökonomische Interessen ausgespielt werden.&#13;
+</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -15000,9 +15022,7 @@ Der Technologiepfad der Elektromobilität gilt als eingeschlagen, der Erfolg ihr
         <links>
           <link href="https://www.otto-brenner-stiftung.de/stiftung-neue-laender-snl/projektergebnisse-der-snl/petitel/studie-batterie-recycling-als-beschaeftigungs-perspektive-fuer-die-lausitz/peaktion/show/pecon/Projectresults/">2018/12 | Studie "Batterie-Recycling als Beschäftigungsperspektive für die Lausitz"</link>
         </links>
-        <attachments>
-          <attachment href="/system/event_attachments/attachments/000/004/035/original/Batt_Rec_Lau_Leipzig_123019.pptx?1577031864">Batt_Rec_Lau_PPP_Folien</attachment>
-        </attachments>
+        <attachments/>
       </event>
       <event id="11235" guid="37638658-f5e8-4eb2-8248-b601d0c6b35b">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11235.html</url>
@@ -15115,7 +15135,7 @@ Der Technologiepfad der Elektromobilität gilt als eingeschlagen, der Erfolg ihr
         <room>Borg</room>
         <slug>ZY7JB9</slug>
         <url>https://c3lt.de/36c3/talk/ZY7JB9/</url>
-        <title>The Life-Quantum as a Lowerarchichal Self-Organizing Structure (Das Lebens-quantum als niederarchichalische Selbstorganizationsstruktur)</title>
+        <title>The Healing-Work-Quanta as a Lowerarchichal Self-Organizing Structure (Das Lebens-quantum als niederarchichalische Selbstorganizationsstruktur)</title>
         <subtitle/>
         <track>Resilience &amp; Sustainability</track>
         <type>Lightning Talk</type>
@@ -15244,7 +15264,7 @@ work-quantum WQ&#13;
     <room name="Clarke">
       <event id="10592" guid="95eba607-f3bd-4ee6-b822-57a0efb3cf2f">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10592.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/592/large/Stempel-8.6.png?1577273820</logo>
         <date>2019-12-30T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>00:40</duration>

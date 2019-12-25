@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; wiki 2019-12-26 00:40",
+    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; wiki 2019-12-26 00:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -1853,6 +1853,34 @@
               }
             ],
             "Seminar room 14-15": [
+              {
+                "id": 1411,
+                "guid": "88fb30e0-59f2-4034-92b6-f35e11c24d65",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices",
+                "logo": null,
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "1:30",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1411-session_creating_z_wave_controllers_and_devices",
+                "title": "Creating Z-Wave controllers and devices",
+                "subtitle": "room might change - check before joining us!!!",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:PoltoS",
+                    "public_name": "PoltoS"
+                  }
+                ],
+                "links": [
+                  "http://z-uno.z-wave.me"
+                ]
+              },
               {
                 "id": 1072,
                 "guid": "c6a9ec39-ea7c-497b-befd-c2f86b7dc44f",
@@ -5971,34 +5999,6 @@
                 "links": []
               },
               {
-                "id": 1411,
-                "guid": "88fb30e0-59f2-4034-92b6-f35e11c24d65",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices",
-                "logo": null,
-                "date": "2019-12-27T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:30",
-                "room": "Hackers Beauty Palace",
-                "slug": "36c3-1411-session_creating_z_wave_controllers_and_devices",
-                "title": "Creating Z-Wave controllers and devices",
-                "subtitle": "room might change - check before joining us!!!",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:PoltoS",
-                    "public_name": "PoltoS"
-                  }
-                ],
-                "links": [
-                  "http://z-uno.z-wave.me"
-                ]
-              },
-              {
                 "id": 1382,
                 "guid": "08ba63d1-03ce-4159-bdac-9140a5896def",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITAL_RELAXATION:_Acupressure",
@@ -6949,6 +6949,34 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1414,
+                "guid": "ce04ba7e-ff63-49f2-a1e6-dbad9d3b21b0",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:TacTacLights_Nano_Colour_Reflow_Soldering",
+                "logo": null,
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "6:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1414-session_tactaclights_nano_colour_reflow_soldering",
+                "title": "TacTacLights Nano Colour Reflow Soldering",
+                "subtitle": "Day 1",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Reflow soldering of the TicTacLights Nano Colour kit\nPlease come to BlinkenArea (Hall 3) and buy the TicTacLights Nano Colour kit at any time *before* the workshop. The number of participants is limited by the number of available kits, and to approx. 10 persons per day.For more information about the kit, see https://wiki.blinkenarea.org/index.php/TicTacLightsNanoColourEnglish",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Arne",
+                    "public_name": "Arne"
+                  }
+                ],
+                "links": [
+                  "https://wiki.blinkenarea.org/index.php/TicTacLightsNanoColourEnglish"
+                ]
               }
             ],
             "Assembly:ICMP": [
@@ -9712,6 +9740,34 @@
                 "description": "This talk is about a set of (mainly european) conceptions of sustainability which I came across during my research. As more and more parts in an economy seem to become quantified and qualified, a new monitoring system for sustainable development will be installed. But how do people thought to measure sustainability?\nThis talk is about a set of (mainly european) conceptions of sustainability which I came across during my research. As more and more parts in an economy seem to become quantified and qualified, a new monitoring system for sustainable development will be installed. But how do people thought to measure sustainability?Starting in the 19th century with forest-management, we will talk about a systems perspective on sustainability, as well as the triple and quadruble bottom lines. While it is certain that we need to develop more sustainable computer systems, this is the time to talk about how we conceive sustainability and to reflect on what this will mean for future free software systems.Malte Rei\u00dfig is currently research associate at the Institute for Advanced Sustainability Studies e.V. and since 2008 free software developer with the dmx-platform \"for collaboration and knowledge management\".",
                 "persons": [],
                 "links": []
+              },
+              {
+                "id": 1412,
+                "guid": "efd241bf-219f-4595-a54a-4a424531b944",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices",
+                "logo": null,
+                "date": "2019-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "1:30",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1412-session_creating_z_wave_controllers_and_devices",
+                "title": "Creating Z-Wave controllers and devices",
+                "subtitle": "room might change - check before joining us!!!",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:PoltoS",
+                    "public_name": "PoltoS"
+                  }
+                ],
+                "links": [
+                  "http://z-uno.z-wave.me"
+                ]
               },
               {
                 "id": 1089,
@@ -13493,7 +13549,7 @@
                 "type": "Session",
                 "language": "en",
                 "abstract": "We will watch the first 3 episodes of the most recent anime adaption of the first part of THE BEST MANGA IN THE WORLD: JoJo's Bizarre Adventure (JJBA) by Hirohiko Araki and talk a bit.",
-                "description": "While the JJBA comics are ongoing for more than 30 years now currently in part 9, the part 1 animation itself consists of 9 episodes that in itself tell a tightly packed thriller story of 19th century English gentlemen and the invasion of a devil in disguise.\r\nEccentric poses, fresh and innovative ideas, fast-paced story telling and overall unparalleled aesthetics in manga and anime adaptation made it an all-time masterpiece as well as a source for memes and references in modern media, even inspiring Billie Eilish's outfits.\r\nEpisodes are in Japanese with English subtitles. We'll have some time to look at memes, references, the troubled history of JJBA in the west and current development as well :)",
+                "description": "While the JJBA comics are ongoing for more than 30 years now currently in part 9, the part 1 animation itself consists of 9 episodes that in itself tell a tightly packed thriller story of 19th century English gentlemen and the invasion of a devil in disguise.\r\nEccentric poses, fresh and innovative ideas, fast-paced story telling and overall unparalleled aesthetics in manga and anime adaptation made it an all-time masterpiece as well as a source for memes and references in modern media, even inspiring Billie Eilish's outfits.\r\nEpisodes are in Japanese with English subtitles. We'll have some time to look at a few memes, the troubled history of JJBA in the west and current development as well :)",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -14874,6 +14930,34 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1415,
+                "guid": "46cd4aae-6a71-43be-b625-e39d2ec82ac2",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:TacTacLights_Nano_Colour_Reflow_Soldering",
+                "logo": null,
+                "date": "2019-12-28T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "6:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1415-session_tactaclights_nano_colour_reflow_soldering",
+                "title": "TacTacLights Nano Colour Reflow Soldering",
+                "subtitle": "Day 2",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Reflow soldering of the TicTacLights Nano Colour kit\nPlease come to BlinkenArea (Hall 3) and buy the TicTacLights Nano Colour kit at any time *before* the workshop. The number of participants is limited by the number of available kits, and to approx. 10 persons per day.For more information about the kit, see https://wiki.blinkenarea.org/index.php/TicTacLightsNanoColourEnglish",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Arne",
+                    "public_name": "Arne"
+                  }
+                ],
+                "links": [
+                  "https://wiki.blinkenarea.org/index.php/TicTacLightsNanoColourEnglish"
+                ]
               }
             ],
             "Assembly:C3blind": [
@@ -15066,34 +15150,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1412,
-                "guid": "efd241bf-219f-4595-a54a-4a424531b944",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices",
-                "logo": null,
-                "date": "2019-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:30",
-                "room": "Hackers Beauty Palace",
-                "slug": "36c3-1412-session_creating_z_wave_controllers_and_devices",
-                "title": "Creating Z-Wave controllers and devices",
-                "subtitle": "room might change - check before joining us!!!",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:PoltoS",
-                    "public_name": "PoltoS"
-                  }
-                ],
-                "links": [
-                  "http://z-uno.z-wave.me"
-                ]
               },
               {
                 "id": 1398,
@@ -25648,6 +25704,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:TW",
                     "public_name": "TW"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1416,
+                "guid": "88e18a5f-524f-46f0-877d-df82516e22b2",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_mathematics:_How_does_artificial_intelligence_accomplish_the_feat_of_learning%3F",
+                "logo": null,
+                "date": "2019-12-30T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "1:00",
+                "room": "Lecture room M2",
+                "slug": "36c3-1416-session_wondrous_mathematics_how_does_artificial_intelligence_accomplish_the_feat_of_learning_",
+                "title": "Wondrous mathematics: How does artificial intelligence accomplish the feat of learning?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "How a mathematical breakthrough made at the end of the 17th century is the workhorse of the artificial neural networks of today\nConventional computer algorithms are superior to the human intellect in many regards: for instance at multiplying large numbers or winning at chess by analyzing huge numbers of moves. But there are also many tasks which come naturally to us yet exceed the capabilities of algorithms by vast amounts: Rigid algorithms can't decipher human handwriting or drive cars.The recent breakthroughs in artificial intelligence circumvent these barriers by employing quite a different approach: They use artificial neural networks, which are inspired by the partially-understood way the human brain works.The unique feature of artificial neural nets is that they aren't rigid, but can <em>learn</em>. Human programmers specify their rough structure and supply training data, but don't write a single line of code governing their behavior.<strong>In the spirit of a good Unix command-line tool, this talk aspires to explain one thing and explain it well: How do artificial neural nets accomplish the feat of learning?</strong>We'll see that the answer is related to a mathematical breakthrough made at the end of the 17th century and discuss why deep learning only surged in the last few years, even though the basics of artificial neural nets were already understood in the 1980s. We'll also touch upon some of the biggest problems of neural nets, which emerge directly from the way neural nets learn.The talk doesn't require any advanced knowledge of mathematics. If you're already familiar with [http://neuralnetworksanddeeplearning.com/ Michael Neelson's book], then don't expect to learn anything new and come to this talk only if you want to contribute interesting remarks.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+                    "public_name": "Iblech"
                   }
                 ],
                 "links": []

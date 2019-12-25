@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-25 15:40</version>
+  <version>find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-25 15:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -19573,6 +19573,31 @@ The more the technology advances and becomes interconnected and complex, the les
         </persons>
         <links>
           <link>https://alxd.org/solarpunk-cyberpunk-popculture.html#solarpunk-cyberpunk-popculture</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:WikipakaWG">
+      <event id="1349" guid="0eea7848-e032-4b22-be26-59813546703a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Treffen_chaos.jetzt</url>
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:WikipakaWG</room>
+        <slug>36c3-1349-session_treffen_chaos_jetzt</slug>
+        <title>Treffen chaos.jetzt</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir wollen junge Leute im Chaos-Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces stärken. Komm vorbei, trink eine Mate und lass die Welt verändern.
+Für mehr information schau bitte auf die Pretalxseite der WikiPaka WG: https://cfp.verschwoerhaus.de/36c3/talk/CRH3HY/</description>
+        <persons>
+          <person id="0">Scammo</person>
+        </persons>
+        <links>
+          <link>https://cfp.verschwoerhaus.de/36c3/talk/CRH3HY/</link>
         </links>
       </event>
     </room>

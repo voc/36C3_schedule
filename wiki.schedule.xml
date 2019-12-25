@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-25 17:10</version>
+  <version>2019-12-25 17:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -856,7 +856,7 @@ Update on the status of various open source silicon projects;* System Verilog su
         <language>de</language>
         <abstract/>
         <description>Du wolltest schon immer einen Passwortsafe nutzen? In diesem Workshop richten wir uns einen Passwortsafe ein!
-Du benutzt die drei gleichen Passwörter für alle deine Online-Accounts? Du weißt, dass das nicht sicher ist, hast bislang aber noch keine bessere Lösung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen lässt. Zunächst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschließend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. '''Vorkenntnisse''': Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht überwinden konnten.'''Mitbringen''': Wer sich während des Workshops einen Passwortsafe einrichten möchte, der sollte Laptop und Smartphone (oder Tablet) mitbringen. Disclaimer: Warum Bitwarden? Bitwarden bietet sich an, da er Opensource ist, leicht bedienbar, für fast alle Geräte und Betriebssysteme verfügbar und für Einsteiger einfacher zu nutzen als ein Passwortsafe wie KeePass.Bei Fragen: Tjal [https://twitter.com/tuikc @tuikc auf Twitter] oder DECT 8524 oder Mail: edwg6g6rtwf@temp.mailbox.org</description>
+Du benutzt die drei gleichen Passwörter für alle deine Online-Accounts? Du weißt, dass das nicht sicher ist, hast bislang aber noch keine bessere Lösung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen lässt. Zunächst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschließend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. '''Vorkenntnisse''': Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht überwinden konnten.'''Mitbringen''': Wer sich während des Workshops einen Passwortsafe einrichten möchte, der sollte Laptop und Smartphone (oder Tablet) mitbringen.  Ebenso wäre es hilfreich, die für den Passwortsafe erforderlichen Apps und Plugins schon vorab zu installieren, sodass wir während des Workshops uns auf die Einrichtung konzentrieren können:* '''2-Faktor-Authentifizierungs-App''' ([https://www.golem.de/news/google-apple-und-mailaccounts-zwei-faktor-authentifizierung-richtig-nutzen-1612-124868.html Was ist das?]) für das Smartphone ** Für iPhone/iPad: [https://apps.apple.com/de/app/authenticator/id766157276 Authenticator] oder ** Für Android: [https://f-droid.org/en/packages/net.bierbaumer.otp_authenticator/ Authenticator (im FDroid-Store)]* '''Webbrowser-Plugin''' für Autotype (damit werden deine Logindaten automatisch vom Passwordsafe ins Loginfeld des Browsers eingefügt): [https://bitwarden.com/#download siehe Links auf bitwarden.com]* '''Bitwarden-Smartphone-App''' um mobil auf Passwörter zugreifen zu können** Für [https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744?mt=8 iPhone/iPad]** Für [https://play.google.com/store/apps/details?id=com.x8bit.bitwarden Android]'''Warum Bitwarden?''' Bitwarden bietet sich an, da er Open-Source ist, als sicher eingeschätzt wird, für fast alle Geräte und Betriebssysteme verfügbar und für Einsteiger einfach zu nutzen.Bei Fragen: Tjal [https://twitter.com/tuikc @tuikc auf Twitter] oder DECT 8524 oder Mail: edwg6g6rtwf@temp.mailbox.org</description>
         <persons>
           <person id="0">Tjal</person>
         </persons>
@@ -3564,6 +3564,29 @@ Sai's #BlindNavigation workshop from 35c3 will also take place this year! If you
         </links>
       </event>
     </room>
+    <room name="Hackers Beauty Palace">
+      <event id="1379" guid="ad8ee869-6487-472b-b82e-647ce20a0c70">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:BODILY_CHATROOM:_Contact_Improvisation_Dance_Workshop</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1379-session_bodily_chatroom_contact_improvisation_dance_workshop</slug>
+        <title>BODILY CHATROOM: Contact Improvisation Dance Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Get in Reallife Touch! A very special dancing lesson that aims to get you closer: with yourself and with others.
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:Backspace">
       <event id="1265" guid="fa63f66c-b550-4f38-bf66-994d4e7be4cc">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Beer_Tasting</url>
@@ -6114,6 +6137,29 @@ Geigerzähler– Hardwarebasteln mit LoRaWAN &amp; WiFiWir sind die Ecocurious-I
 [[File:Catsplash.png|800px]]Takes about two hours. Basic workshop. No prior knowledge needed. Materials cost 20€ per kit.We are going to build an electronic kitten using tiny SMD parts. It will purr when you touch it right and hiss when you touch it wrong. It's going to work.For people afraid of surface mount assembly/rework. You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how!Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Avoid caffeine immediately before the workshop, because shaky hands are a disadvantage.The workshop kit costs 20€. Please SIGN UP ON THE PAPER LIST at the Hardware Hacking Area. PLEASE BE ON TIME!</description>
         <persons>
           <person id="0">Kliment</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Hackers Beauty Palace">
+      <event id="1378" guid="fc3d22b8-3dfd-48bf-b90d-bb660e5c0dac">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:BODILY_CHATROOM:_Contact_Improvisation_Dance_Workshop</url>
+        <logo/>
+        <date>2019-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1378-session_bodily_chatroom_contact_improvisation_dance_workshop</slug>
+        <title>BODILY CHATROOM: Contact Improvisation Dance Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Get in Reallife Touch! A very special dancing lesson that aims to get you closer: with yourself and with others.
+</description>
+        <persons>
+          <person id="0">Alibi</person>
         </persons>
         <links/>
       </event>

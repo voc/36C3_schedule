@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-25 23:10</version>
+  <version>2019-12-25 23:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1954,6 +1954,52 @@ We created a multiplayer, team based game so anyone with a working Bill Badge ca
         <links/>
       </event>
     </room>
+    <room name="Studio Datscha">
+      <event id="1407" guid="c41673f7-fa3c-4eac-ba52-56774914b587">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:From_growing_Mushrooms_to_a_open_Microbiology_Labotory</url>
+        <logo/>
+        <date>2019-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Studio Datscha</room>
+        <slug>36c3-1407-session_from_growing_mushrooms_to_a_open_microbiology_labotory</slug>
+        <title>From growing Mushrooms to a open Microbiology Labotory</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>A story on how I build a mushroom lab from zero to the first flush.
+For some years now i've been very fascinated of mushrooms - their diversity, features and importance. And with the release of Star Trek Discovery my interest has shifted from ”World Wide Web” to “Wood Wide Web”, so I started to build a small laboratory to further explore these amazing creatures.This talk will be a story on how I build that lab from zero to the first flush. What I needed, which tools i used, build and bought. What I learned, how i failed and why I do that at all. How everything ended and how I met other people who inspired me to open up the idea and form a vision for a open DIYBio Laboratory in Hamburg.</description>
+        <persons>
+          <person id="0">Crs.tl.clear</person>
+        </persons>
+        <links>
+          <link>https://zentrallabor.org</link>
+        </links>
+      </event>
+      <event id="1405" guid="cdd3d689-729f-4d46-a1ce-f53e84179f2d">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Performance_tentacular_mapping</url>
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Studio Datscha</room>
+        <slug>36c3-1405-session_performance_tentacular_mapping</slug>
+        <title>Performance tentacular mapping</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>
+</description>
+        <persons>
+          <person id="0">Deine datsche</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:ICMP">
       <event id="1202" guid="f56f634b-cfab-426b-a7a5-45b7e9440e4c">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerspace_Erlangen</url>
@@ -1998,29 +2044,6 @@ Since ex-Teppich, interest of having a Hacker- and Makerspace in Erlangen has sp
 Limited spots, first come first served.</description>
         <persons>
           <person id="0">Qwaxys</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="Studio Datscha">
-      <event id="1405" guid="cdd3d689-729f-4d46-a1ce-f53e84179f2d">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Performance_tentacular_mapping</url>
-        <logo/>
-        <date>2019-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room>Studio Datscha</room>
-        <slug>36c3-1405-session_performance_tentacular_mapping</slug>
-        <title>Performance tentacular mapping</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>
-</description>
-        <persons>
-          <person id="0">Deine datsche</person>
         </persons>
         <links/>
       </event>

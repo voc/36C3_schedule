@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-25 18:30",
+    "version": "find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.17; wiki 2019-12-25 18:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -5882,10 +5882,10 @@
                 "title": "POSTDIGITAL RELAXATION: Acupressure",
                 "subtitle": "",
                 "track": "self organized sessions",
-                "type": "workshop",
+                "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "Find out, where your body still has active resources. Experienced therapists help you how to stimulate them via acupressure.\n",
+                "description": "It's a combination of acupressure and breathing techniques. How much pain do you carry? Can you imagine to make yourself perceptible? Can you imagine potential behind pain?\n",
                 "persons": [
                   {
                     "id": 0,
@@ -5963,7 +5963,7 @@
                 "type": "",
                 "language": "en",
                 "abstract": "",
-                "description": "\n",
+                "description": "When is your time to breathe? Inhale. What makes you breathless? Exhale. Stop. Inhale. More. And more. What do you feel? Let go. Overcome your limits. Breathe.\n",
                 "persons": [
                   {
                     "id": 0,
@@ -6487,6 +6487,32 @@
                 ]
               },
               {
+                "id": 1393,
+                "guid": "de2e1302-8688-48bc-95b9-7c6cb37150bb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Vektorgrafiken_mit_Inkscape",
+                "logo": null,
+                "date": "2019-12-27T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1393-session_vektorgrafiken_mit_inkscape",
+                "title": "Vektorgrafiken mit Inkscape",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Grundlegendes\u00a0zu\u00a0Pixel\u00a0vs\u00a0Vektoren \u00fcr den Plotter\nDies wird ein Workshop zum Erstellen von Vektorgrafiken (.svg) um den Schneidplotter c_neidi zu F\u00fcttern (workshop an Tag 2)Gerne\u00a0Laptop\u00a0mit\u00a0installiertem\u00a0Inkscape\u00a0mitbringen (externe Maus macht die Sache einfacher als Touchpad)https://inkscape.org/de/release/inkscape-0.92.4/Gerne auch simple Motive mitbringen, die dann plott-fertig gemacht werden k\u00f6nnen.(am\u00a0besten\u00a0ein-zweifarbig\u00a0bzw\u00a0schwarz-weiss)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:E-punc",
+                    "public_name": "E-punc"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1192,
                 "guid": "fe333059-81f6-482a-93bb-f55a54f2176b",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
@@ -6789,34 +6815,6 @@
                 "abstract": "",
                 "description": "Vaporizer Enthusiasts Meetup\nVaporizer User meetup at CCL Terrace. After talking a bit we can head out to get some pizza or some other food.",
                 "persons": [],
-                "links": []
-              }
-            ],
-            "Assembly:C-base / CCC-B / xHain": [
-              {
-                "id": 1393,
-                "guid": "de2e1302-8688-48bc-95b9-7c6cb37150bb",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Vektorgrafiken_mit_Inkscape",
-                "logo": null,
-                "date": "2019-12-27T18:30:00+01:00",
-                "start": "18:30",
-                "duration": "1:30",
-                "room": "Assembly:C-base / CCC-B / xHain",
-                "slug": "36c3-1393-session_vektorgrafiken_mit_inkscape",
-                "title": "Vektorgrafiken mit Inkscape",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Grundlegendes\u00a0zu\u00a0Pixel\u00a0vs\u00a0Vektoren \u00fcr den Plotter\nDies wird ein Workshop zum Erstellen von Vektorgrafiken (.svg) um den Schneidplotter c_neidi zu F\u00fcttern (workshop an Tag 2)Gerne\u00a0Laptop\u00a0mit\u00a0installiertem\u00a0Inkscape\u00a0mitbringen (externe Maus macht die Sache einfacher als Touchpad)https://inkscape.org/de/release/inkscape-0.92.4/Gerne auch simple Motive mitbringen, die dann plott-fertig gemacht werden k\u00f6nnen.(am\u00a0besten\u00a0ein-zweifarbig\u00a0bzw\u00a0schwarz-weiss)",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:E-punc",
-                    "public_name": "E-punc"
-                  }
-                ],
                 "links": []
               }
             ]
@@ -14558,10 +14556,10 @@
                 "title": "POSTDIGITAL RELAXATION: Acupressure",
                 "subtitle": "",
                 "track": "self organized sessions",
-                "type": "workshop",
+                "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "Find out, where your body still has active resources. Experienced therapists help you how to stimulate them via acupressure.\n",
+                "description": "It's a combination of acupressure and breathing techniques. How much pain do you carry? Can you imagine to make yourself perceptible? Can you imagine potential behind pain?\n",
                 "persons": [
                   {
                     "id": 0,
@@ -15153,6 +15151,32 @@
                 ]
               },
               {
+                "id": 1380,
+                "guid": "f7380699-f8ad-47a5-9cce-ec0dc3037bc0",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Einf%C3%BChrung_Schneidplotter",
+                "logo": null,
+                "date": "2019-12-28T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1380-session_einfuehrung_schneidplotter",
+                "title": "Einf\u00fchrung Schneidplotter",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Plottern der Ergebnisse von Tag 1\nWir\u00a0pl0tt0rn\u00a0die\u00a0Ergebnisse\u00a0vom\u00a0Vortag\u00a0bzw\u00a0c-base/36C3/Whatever-LogosWir haben ein paar Aufkleber- und ein paar Textil-Folien dabei, bitte\u00a0bringt\u00a0Textilien\u00a0selbst\u00a0mit\u00a0(am\u00a0besten\u00a0100%\u00a0Baumwolle)!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:E-punc",
+                    "public_name": "E-punc"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1110,
                 "guid": "90cac72d-ab11-4d28-8409-e392c3b92049",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacker_Boardgames",
@@ -15289,60 +15313,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
                     "public_name": "Haurane"
-                  }
-                ],
-                "links": []
-              }
-            ],
-            "Assembly:C-base / CCC-B / xHain": [
-              {
-                "id": 1380,
-                "guid": "f7380699-f8ad-47a5-9cce-ec0dc3037bc0",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Einf%C3%BChrung_Schneidplotter",
-                "logo": null,
-                "date": "2019-12-28T18:30:00+01:00",
-                "start": "18:30",
-                "duration": "1:30",
-                "room": "Assembly:C-base / CCC-B / xHain",
-                "slug": "36c3-1380-session_einfuehrung_schneidplotter",
-                "title": "Einf\u00fchrung Schneidplotter",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Plottern der Ergebnisse von Tag 1\nWir\u00a0pl0tt0rn\u00a0die\u00a0Ergebnisse\u00a0vom\u00a0Vortag\u00a0bzw\u00a0c-base/36C3/Whatever-LogosWir haben ein paar Aufkleber- und ein paar Textil-Folien dabei, bitte\u00a0bringt\u00a0Textilien\u00a0selbst\u00a0mit\u00a0(am\u00a0besten\u00a0100%\u00a0Baumwolle)!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:E-punc",
-                    "public_name": "E-punc"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1343,
-                "guid": "e4fcda8b-2708-46ca-a831-99381bf843eb",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Was_kann_ich_tun,_um_umweltbewusster_und_klimaneutraler_zu_leben%3F",
-                "logo": null,
-                "date": "2019-12-28T15:30:00+01:00",
-                "start": "15:30",
-                "duration": "1:00",
-                "room": "Assembly:C-base / CCC-B / xHain",
-                "slug": "36c3-1343-session_was_kann_ich_tun_um_umweltbewusster_und_klimaneutraler_zu_leben_",
-                "title": "Was kann ich tun, um umweltbewusster und klimaneutraler zu leben?",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Wie kann ich meine Welt verbessern?! \u2013 Niederschwellige Handlungsanweisungen\nEs gibt viele kompetente \u00c4u\u00dferungen zum Thema \"Handeln gegen den Klimawandel\", doch mir ist aufgefallen, dass es kaum kompakt zusammengefasste, einfach umzusetzende Beispiele aus der Praxis gibt. Internetportale bieten selbstverst\u00e4ndlich viele Informationen, die mit Zeitaufwand und Ausprobieren sehr hilfreich sein k\u00f6nnen. Doch mensch kann sich leicht verzetteln oder auf Grund der F\u00fclle und dem vorausgesetzten Wissen, schnell die Motivation verlieren. Deswegen m\u00f6chte ich M\u00f6glichkeiten aufzeigen, die einfach umzusetzen sind.Diese Praxisbeispiele sind aus fast allen Lebensbereichen, so nimmt z.B. unsere Nutzung von elektronischen Ger\u00e4ten gro\u00dfen Raum ein. Hier f\u00e4llt uns der Verzicht und die Ver\u00e4nderung des Verhaltens schwer \u2013 verst\u00e4ndlicherweise. Unser Konsumverhalten ist nicht nur an dieser Stelle der Knackpunkt. Ern\u00e4hrung, Reisen, K\u00f6rperpflege etc. k\u00f6nnen ressourcenschonender gelebt werden. Das l\u00e4sst sich allerdings nicht ohne einen teilweisen Verzicht auf unsere bisherige Bequemlichkeit umsetzen. Dabei stellt sich die Frage nach der Reflexion unserer bisherigen Gewohnheiten, des Willens zur Ver\u00e4nderung und eines wirklichen Anfangs. Hier m\u00f6chte ich mit der Vorstellung niederschwelliger Beispiele aus der Praxis Einstiege bieten.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Atoll",
-                    "public_name": "Atoll"
                   }
                 ],
                 "links": []
@@ -15608,6 +15578,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dkt",
                     "public_name": "Dkt"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:C-base / CCC-B / xHain": [
+              {
+                "id": 1343,
+                "guid": "e4fcda8b-2708-46ca-a831-99381bf843eb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Was_kann_ich_tun,_um_umweltbewusster_und_klimaneutraler_zu_leben%3F",
+                "logo": null,
+                "date": "2019-12-28T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "1:00",
+                "room": "Assembly:C-base / CCC-B / xHain",
+                "slug": "36c3-1343-session_was_kann_ich_tun_um_umweltbewusster_und_klimaneutraler_zu_leben_",
+                "title": "Was kann ich tun, um umweltbewusster und klimaneutraler zu leben?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Wie kann ich meine Welt verbessern?! \u2013 Niederschwellige Handlungsanweisungen\nEs gibt viele kompetente \u00c4u\u00dferungen zum Thema \"Handeln gegen den Klimawandel\", doch mir ist aufgefallen, dass es kaum kompakt zusammengefasste, einfach umzusetzende Beispiele aus der Praxis gibt. Internetportale bieten selbstverst\u00e4ndlich viele Informationen, die mit Zeitaufwand und Ausprobieren sehr hilfreich sein k\u00f6nnen. Doch mensch kann sich leicht verzetteln oder auf Grund der F\u00fclle und dem vorausgesetzten Wissen, schnell die Motivation verlieren. Deswegen m\u00f6chte ich M\u00f6glichkeiten aufzeigen, die einfach umzusetzen sind.Diese Praxisbeispiele sind aus fast allen Lebensbereichen, so nimmt z.B. unsere Nutzung von elektronischen Ger\u00e4ten gro\u00dfen Raum ein. Hier f\u00e4llt uns der Verzicht und die Ver\u00e4nderung des Verhaltens schwer \u2013 verst\u00e4ndlicherweise. Unser Konsumverhalten ist nicht nur an dieser Stelle der Knackpunkt. Ern\u00e4hrung, Reisen, K\u00f6rperpflege etc. k\u00f6nnen ressourcenschonender gelebt werden. Das l\u00e4sst sich allerdings nicht ohne einen teilweisen Verzicht auf unsere bisherige Bequemlichkeit umsetzen. Dabei stellt sich die Frage nach der Reflexion unserer bisherigen Gewohnheiten, des Willens zur Ver\u00e4nderung und eines wirklichen Anfangs. Hier m\u00f6chte ich mit der Vorstellung niederschwelliger Beispiele aus der Praxis Einstiege bieten.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Atoll",
+                    "public_name": "Atoll"
                   }
                 ],
                 "links": []
@@ -22667,10 +22665,10 @@
                 "title": "POSTDIGITAL RELAXATION: Acupressure",
                 "subtitle": "",
                 "track": "self organized sessions",
-                "type": "workshop",
+                "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "Find out, where your body still has active resources. Experienced therapists help you how to stimulate them via acupressure.\n",
+                "description": "It's a combination of acupressure and breathing techniques. How much pain do you carry? Can you imagine to make yourself perceptible? Can you imagine potential behind pain?\n",
                 "persons": [
                   {
                     "id": 0,
@@ -22722,7 +22720,7 @@
                 "type": "",
                 "language": "en",
                 "abstract": "",
-                "description": "\n",
+                "description": "When is your time to breathe? Inhale. What makes you breathless? Exhale. Stop. Inhale. More. And more. What do you feel? Let go. Overcome your limits. Breathe.\n",
                 "persons": [
                   {
                     "id": 0,
@@ -25206,10 +25204,10 @@
                 "title": "POSTDIGITAL RELAXATION: Acupressure",
                 "subtitle": "",
                 "track": "self organized sessions",
-                "type": "workshop",
+                "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "Find out, where your body still has active resources. Experienced therapists help you how to stimulate them via acupressure.\n",
+                "description": "It's a combination of acupressure and breathing techniques. How much pain do you carry? Can you imagine to make yourself perceptible? Can you imagine potential behind pain?\n",
                 "persons": [
                   {
                     "id": 0,

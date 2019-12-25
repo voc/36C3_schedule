@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.6; sendezentrum 2.2; lightning Neodymium; art-play 0.18; wiki 2019-12-25 20:30</version>
+  <version>find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Neodymium; art-play 0.18; wiki 2019-12-25 20:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -4291,8 +4291,8 @@ so, lets use day 1 to have a session about how2use and admin komona-pretalx @c36
       </event>
       <event id="814" guid="c8b27e16-7671-5fdb-9dca-c09b6dc8ce05">
         <logo/>
-        <date>2019-12-27T16:00:00+00:00</date>
-        <start>16:00</start>
+        <date>2019-12-27T15:30:00+00:00</date>
+        <start>15:30</start>
         <duration>01:30</duration>
         <room>headnut</room>
         <slug>78GZP7</slug>
@@ -4348,29 +4348,32 @@ Starting with the collection of work that was done to establish a shared knowled
         <attachments/>
         <answers/>
       </event>
-      <event id="846" guid="b33e6c43-354b-5c7d-b5b5-772f8f4cc5d7">
+      <event id="827" guid="39b6444e-c388-52dc-a8fa-7f61ec2834c1">
         <logo/>
         <date>2019-12-27T21:00:00+00:00</date>
         <start>21:00</start>
-        <duration>01:00</duration>
+        <duration>00:45</duration>
         <room>headnut</room>
-        <slug>EDWGTD</slug>
-        <url>https://talks.komona.org/36c3/talk/EDWGTD/</url>
-        <title>NEIN NEIN NEIN - Widerstand als künstlerisch-kollektivistische Praxis.</title>
+        <slug>37KLEL</slug>
+        <url>https://talks.komona.org/36c3/talk/37KLEL/</url>
+        <title>Extinction Rebellion vs. a diversity of tactics</title>
         <subtitle/>
         <track/>
         <type>Talk</type>
-        <language>de</language>
-        <abstract>In einem Impulsvortrag mit anschließender Diskussion berichten Vertreter*innen der Polizeiklasse aus den Höhen und Tiefen ihrer aktivistischen Handlungspraxis, diskutieren unterschiedliche künstlerische Aktionsformen und ordnen ihr Handeln in den aktuellen politischen Kontext ein.</abstract>
-        <description>Die Polizeiklasse versteht sich als aktivistisches Kollektiv, welches sich mit künstlerisch-performativen Mitteln gegen die zunehmend autoritären Tendenzen in demokratischen Gesellschaften wendet. Gegründet 2018 als widerständige Reaktion gegen die Verschärfung des bayerischen Polizeigesetzes in München, gewinnt der Themenkomplex „autoritäre Wende/Kritik der Polizei“ zunehmend an öffentlicher Relevanz.&#13;
+        <language>en</language>
+        <abstract>Extinction Rebellion (XR) has an extreme stand on actions organised under its name: non-violent mass civil disobedience to disrupt - but also cooperation with the police.   While many think that XRs action are about climate change, XR’s goal is also to change governance - but at the same time claiming to be "beyond politics" and without analysing existing power structures.&#13;
+We will first present about the study and where this claim for non-violence comes from, and then discuss about where to go from here.</abstract>
+        <description>Extinction Rebellion (XR) has an extreme stand on actions organised under its name: non-violent mass civil disobedience to disrupt - but also cooperation with the police. Being arrested is a goal in itself. Depending on the country, participants are explicitly asked to talk to the police. While many think that XRs action are about climate change, XR’s goal is also to change governance - but at the same time claiming to be "beyond politics" and without analysing existing power structures.&#13;
 &#13;
-Die Diskussion um die Polizeipräsenz auf der Fusion, die Offenlegung rechtsextremer Netzwerke innerhalb der Polizei, die bundesländerübergreifende Verschärfung der Polizeigesetze oder die Möglichkeit einer Regierungsbeteiligung der AfD sind nur die prominentesten Gründe.</description>
+Much of this is based on the interpretation of a single study: a study that is very restricted in its scope and deeply flawed in its understanding of how diverse actions over a long period of time influence the outcome of future actions. XR also calls up images from other protests - some of which were in fact violent - to claim that their way of doing actions is the one that will succeed in a short time span.&#13;
+&#13;
+However, we now see XR getting more diverse and at least locally engaging with other groups and types of actions. We will first present about the study and where this claim for non-violence comes from, and then discuss about where to go from here.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="33">Polizeiklasse</person>
+          <person id="29">clara</person>
         </persons>
         <links/>
         <attachments/>
@@ -4484,32 +4487,29 @@ In this session we want to share general information about tech-coops, why we th
         <attachments/>
         <answers/>
       </event>
-      <event id="827" guid="39b6444e-c388-52dc-a8fa-7f61ec2834c1">
+      <event id="846" guid="b33e6c43-354b-5c7d-b5b5-772f8f4cc5d7">
         <logo/>
-        <date>2019-12-27T20:45:00+00:00</date>
-        <start>20:45</start>
-        <duration>00:45</duration>
+        <date>2019-12-27T20:30:00+00:00</date>
+        <start>20:30</start>
+        <duration>01:00</duration>
         <room>nokingdome</room>
-        <slug>37KLEL</slug>
-        <url>https://talks.komona.org/36c3/talk/37KLEL/</url>
-        <title>Extinction Rebellion vs. a diversity of tactics</title>
+        <slug>EDWGTD</slug>
+        <url>https://talks.komona.org/36c3/talk/EDWGTD/</url>
+        <title>NEIN NEIN NEIN - Widerstand als künstlerisch-kollektivistische Praxis.</title>
         <subtitle/>
         <track/>
         <type>Talk</type>
-        <language>en</language>
-        <abstract>Extinction Rebellion (XR) has an extreme stand on actions organised under its name: non-violent mass civil disobedience to disrupt - but also cooperation with the police.   While many think that XRs action are about climate change, XR’s goal is also to change governance - but at the same time claiming to be "beyond politics" and without analysing existing power structures.&#13;
-We will first present about the study and where this claim for non-violence comes from, and then discuss about where to go from here.</abstract>
-        <description>Extinction Rebellion (XR) has an extreme stand on actions organised under its name: non-violent mass civil disobedience to disrupt - but also cooperation with the police. Being arrested is a goal in itself. Depending on the country, participants are explicitly asked to talk to the police. While many think that XRs action are about climate change, XR’s goal is also to change governance - but at the same time claiming to be "beyond politics" and without analysing existing power structures.&#13;
+        <language>de</language>
+        <abstract>In einem Impulsvortrag mit anschließender Diskussion berichten Vertreter*innen der Polizeiklasse aus den Höhen und Tiefen ihrer aktivistischen Handlungspraxis, diskutieren unterschiedliche künstlerische Aktionsformen und ordnen ihr Handeln in den aktuellen politischen Kontext ein.</abstract>
+        <description>Die Polizeiklasse versteht sich als aktivistisches Kollektiv, welches sich mit künstlerisch-performativen Mitteln gegen die zunehmend autoritären Tendenzen in demokratischen Gesellschaften wendet. Gegründet 2018 als widerständige Reaktion gegen die Verschärfung des bayerischen Polizeigesetzes in München, gewinnt der Themenkomplex „autoritäre Wende/Kritik der Polizei“ zunehmend an öffentlicher Relevanz.&#13;
 &#13;
-Much of this is based on the interpretation of a single study: a study that is very restricted in its scope and deeply flawed in its understanding of how diverse actions over a long period of time influence the outcome of future actions. XR also calls up images from other protests - some of which were in fact violent - to claim that their way of doing actions is the one that will succeed in a short time span.&#13;
-&#13;
-However, we now see XR getting more diverse and at least locally engaging with other groups and types of actions. We will first present about the study and where this claim for non-violence comes from, and then discuss about where to go from here.</description>
+Die Diskussion um die Polizeipräsenz auf der Fusion, die Offenlegung rechtsextremer Netzwerke innerhalb der Polizei, die bundesländerübergreifende Verschärfung der Polizeigesetze oder die Möglichkeit einer Regierungsbeteiligung der AfD sind nur die prominentesten Gründe.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="29">clara</person>
+          <person id="33">Polizeiklasse</person>
         </persons>
         <links/>
         <attachments/>
@@ -4646,8 +4646,8 @@ Until then: Keep on dancing.</abstract>
     <room name="cinopolis">
       <event id="836" guid="bbb85436-a57a-504e-8f90-6a45188e0fa3">
         <logo>/media/36c3/images/3PCCCZ/chaos_ballett_promo_imgsize_M.jpg</logo>
-        <date>2019-12-27T21:00:00+00:00</date>
-        <start>21:00</start>
+        <date>2019-12-27T22:00:00+00:00</date>
+        <start>22:00</start>
         <duration>01:00</duration>
         <room>cinopolis</room>
         <slug>3PCCCZ</slug>
@@ -11470,34 +11470,6 @@ we will make four main arguments.&#13;
         <attachments/>
         <answers/>
       </event>
-      <event id="806" guid="8022ffa1-6335-5486-ba9e-9b9cfd2d3b81">
-        <logo>/media/36c3/images/J7EKHB/jojopb_hLSNP67.jpeg</logo>
-        <date>2019-12-29T00:00:00+00:00</date>
-        <start>00:00</start>
-        <duration>01:30</duration>
-        <room>headnut</room>
-        <slug>J7EKHB</slug>
-        <url>https://talks.komona.org/36c3/talk/J7EKHB/</url>
-        <title>Let's Watch JoJo's Bizarre Adventure - Phantom Blood</title>
-        <subtitle/>
-        <track/>
-        <type>Session</type>
-        <language>en</language>
-        <abstract>We will watch the first 3 episodes of the most recent anime adaption of the first part of THE BEST MANGA IN THE WORLD: JoJo's Bizarre Adventure (JJBA) by Hirohiko Araki and talk a bit.</abstract>
-        <description>While the JJBA comics are ongoing for more than 30 years now currently in part 9, the part 1 animation itself consists of 9 episodes that in itself tell a tightly packed thriller story of 19th century English gentlemen and the invasion of a devil in disguise.&#13;
-Eccentric poses, fresh and innovative ideas, fast-paced story telling and overall unparalleled aesthetics in manga and anime adaptation made it an all-time masterpiece as well as a source for memes and references in modern media, even inspiring Billie Eilish's outfits.&#13;
-Episodes are in Japanese with English subtitles. We'll have some time to look at memes, references, the troubled history of JJBA in the west and current development as well :)</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="21">Taulex</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
     </room>
     <room name="nokingdome">
       <event id="837" guid="84186fc0-d3d0-5c30-92c3-cede6a4c9a5c">
@@ -11805,7 +11777,7 @@ In this session we'll show OpenAppStack's design, installation procedure and cha
         <logo/>
         <date>2019-12-28T15:15:00+00:00</date>
         <start>15:15</start>
-        <duration>03:00</duration>
+        <duration>01:30</duration>
         <room>soupworx</room>
         <slug>NMU3FZ</slug>
         <url>https://talks.komona.org/36c3/talk/NMU3FZ/</url>
@@ -11842,11 +11814,39 @@ Die Diskussion um die Polizeipräsenz auf der Fusion, die Offenlegung rechtsextr
         <attachments/>
         <answers/>
       </event>
+      <event id="849" guid="5f331961-ab6b-5390-ad1b-4d26dffb8596">
+        <logo/>
+        <date>2019-12-28T17:00:00+00:00</date>
+        <start>17:00</start>
+        <duration>01:30</duration>
+        <room>soupworx</room>
+        <slug>SYJJQT</slug>
+        <url>https://talks.komona.org/36c3/talk/SYJJQT/</url>
+        <title>Relationship Anarchy Meetup</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>A Meetup for those interested in Relationship Anarchy</abstract>
+        <description>This is a session for anyone who is interested in relationship anarchy, from those who are completely new to the topic to those who have been living it for years.&#13;
+&#13;
+Relationship anarchy is a form of non-monogamy that tries to avoid hierarchies in the structures of the interpersonal relationships around you. We will start with a short introduction to the topic and then, depending on our group size, split into discussion groups about specific sub-topics.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="45">liz</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="845" guid="baa89cb3-6622-5cdf-aaea-d2479a133d90">
         <logo/>
         <date>2019-12-28T18:30:00+00:00</date>
         <start>18:30</start>
-        <duration>03:00</duration>
+        <duration>01:30</duration>
         <room>soupworx</room>
         <slug>VBBE7U</slug>
         <url>https://talks.komona.org/36c3/talk/VBBE7U/</url>
@@ -11951,6 +11951,34 @@ https://submedia.tv</description>
         </recording>
         <persons>
           <person id="41">rek2</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="806" guid="8022ffa1-6335-5486-ba9e-9b9cfd2d3b81">
+        <logo>/media/36c3/images/J7EKHB/jojopb_hLSNP67.jpeg</logo>
+        <date>2019-12-29T00:00:00+00:00</date>
+        <start>00:00</start>
+        <duration>01:30</duration>
+        <room>cinopolis</room>
+        <slug>J7EKHB</slug>
+        <url>https://talks.komona.org/36c3/talk/J7EKHB/</url>
+        <title>Let's Watch JoJo's Bizarre Adventure - Phantom Blood</title>
+        <subtitle/>
+        <track/>
+        <type>Session</type>
+        <language>en</language>
+        <abstract>We will watch the first 3 episodes of the most recent anime adaption of the first part of THE BEST MANGA IN THE WORLD: JoJo's Bizarre Adventure (JJBA) by Hirohiko Araki and talk a bit.</abstract>
+        <description>While the JJBA comics are ongoing for more than 30 years now currently in part 9, the part 1 animation itself consists of 9 episodes that in itself tell a tightly packed thriller story of 19th century English gentlemen and the invasion of a devil in disguise.&#13;
+Eccentric poses, fresh and innovative ideas, fast-paced story telling and overall unparalleled aesthetics in manga and anime adaptation made it an all-time masterpiece as well as a source for memes and references in modern media, even inspiring Billie Eilish's outfits.&#13;
+Episodes are in Japanese with English subtitles. We'll have some time to look at memes, references, the troubled history of JJBA in the west and current development as well :)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="21">Taulex</person>
         </persons>
         <links/>
         <attachments/>
@@ -18993,10 +19021,38 @@ Wer davon Ahnung und dazu ein oder zwei Meinungen hat, kann uns auch Hinweise ge
       </event>
     </room>
     <room name="headnut">
+      <event id="847" guid="045ed2e9-9875-5894-8b72-959794800329">
+        <logo>/media/36c3/images/HRBUXE/ds_headline.gif</logo>
+        <date>2019-12-29T13:00:00+00:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
+        <room>headnut</room>
+        <slug>HRBUXE</slug>
+        <url>https://talks.komona.org/36c3/talk/HRBUXE/</url>
+        <title>Datenschleuder Redaktionstreffen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Die Redaktion der Datenschleuder trifft sich. Die Datenschleuder ist das Fachblatt für Datenreisende, das grob halbjährlich erscheinende Magazin des CCCs.</abstract>
+        <description>Dies wird ein Treffen der Redaktion sein. Neben ein paar organisatorischen Themen feiern wir ein bisschen, dass wir die Ausgabe 101 rausbekommen haben und fantasieren ein wenig für die Zukunft. Wer in die Redaktionsarbeit einsteigen möchte hat hier eine ideale Gelegenheit für ein gemeinsames Kennenlernen.&#13;
+&#13;
+**Achtung:** Teilnahme führt üblicherweise zu Verantwortungsübernahme mit einhergehendem Freizeitverlust.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="44">vollkorn</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="813" guid="b3f969ea-bb00-5b35-b36f-8f79e10bdd3b">
         <logo/>
-        <date>2019-12-29T14:00:00+00:00</date>
-        <start>14:00</start>
+        <date>2019-12-29T15:00:00+00:00</date>
+        <start>15:00</start>
         <duration>01:30</duration>
         <room>headnut</room>
         <slug>WVXCWH</slug>
@@ -19049,6 +19105,35 @@ Join if you are interested in the topic of producing, hosting and adminstrating 
       </event>
     </room>
     <room name="nokingdome">
+      <event id="833" guid="4f065cd2-ea3b-53d6-b3b8-ecd35718dc5a">
+        <logo/>
+        <date>2019-12-29T12:00:00+00:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>nokingdome</room>
+        <slug>3ZAXKV</slug>
+        <url>https://talks.komona.org/36c3/talk/3ZAXKV/</url>
+        <title>Openappstack hands-on session</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>After you hopefully made it to the OpenAppStack introduction session the day before, this session is focussed on installing your OpenAppStack cluster. We'll guide you through the installation, help out with issues and if time allows we will show how to integrate more applications into OpenAppStack.</abstract>
+        <description>Prerequistes:&#13;
+&#13;
+* Bring your own machine ! See the machine requirements (https://docs.openappstack.net/en/latest/installation_instructions.html#prerequisites) about OS, minimal disk size and RAM requirements.&#13;
+* If you want to install and test Openappstack but don't have a VM for that please reach out to us, we might be able to provide temporary test VMs.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="36">Varac</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="812" guid="3871608e-0ccf-5409-ba8c-fc918c485646">
         <logo/>
         <date>2019-12-29T15:00:00+00:00</date>
@@ -19075,28 +19160,27 @@ Join if you are interested in the topic of producing, hosting and adminstrating 
         <attachments/>
         <answers/>
       </event>
-      <event id="821" guid="f0c4f740-ddbb-5480-8537-9c6fdcd02762">
-        <logo>/media/36c3/images/W98ZZM/kunstomona.jpg</logo>
-        <date>2019-12-29T18:00:00+00:00</date>
-        <start>18:00</start>
-        <duration>02:00</duration>
+      <event id="843" guid="6f42e4f2-e582-5f49-8513-3904d5c790eb">
+        <logo>/media/36c3/images/PGXPCQ/P1160628.JPG</logo>
+        <date>2019-12-29T16:30:00+00:00</date>
+        <start>16:30</start>
+        <duration>01:30</duration>
         <room>nokingdome</room>
-        <slug>W98ZZM</slug>
-        <url>https://talks.komona.org/36c3/talk/W98ZZM/</url>
-        <title>1komona now and then: What is it, even?</title>
+        <slug>PGXPCQ</slug>
+        <url>https://talks.komona.org/36c3/talk/PGXPCQ/</url>
+        <title>postapokalyptischer schmuck / postapocalyptic jewellery</title>
         <subtitle/>
         <track/>
         <type>Workshop</type>
-        <language>en</language>
-        <abstract>1komona is now happening for the forth time, so it could be the right time to talk about a common ground - what does it mean to whom and why? pls join!</abstract>
-        <description>1komona is now happening for the forth time and has grown together over the last couple of years. in this session, we want to come together with nice methods (have some more? bring them along) to talk about common goals, values, ideas of 1komona. about what it could mean and what not.&#13;
-*everybody who feels affiliated with 1komona, be it for the first or fourth time, feel invited!*</description>
+        <language>de</language>
+        <abstract>postapokalyptisches schrottbasteln aus überresten der menschlichen zivilisation. making postapocalyptic art things from (electronic) scrap and other leftovers from human civilisation. upcycling workshop</abstract>
+        <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="22">several people of 1komona I guess</person>
+          <person id="43">paulaner</person>
         </persons>
         <links/>
         <attachments/>
@@ -19104,30 +19188,27 @@ Join if you are interested in the topic of producing, hosting and adminstrating 
       </event>
     </room>
     <room name="soupworx">
-      <event id="833" guid="4f065cd2-ea3b-53d6-b3b8-ecd35718dc5a">
+      <event id="848" guid="de5bbe0f-9443-5a2a-96a1-252f2bc2685e">
         <logo/>
-        <date>2019-12-29T12:00:00+00:00</date>
-        <start>12:00</start>
-        <duration>01:30</duration>
+        <date>2019-12-29T13:00:00+00:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
         <room>soupworx</room>
-        <slug>3ZAXKV</slug>
-        <url>https://talks.komona.org/36c3/talk/3ZAXKV/</url>
-        <title>Openappstack hands-on session</title>
+        <slug>DM3HNV</slug>
+        <url>https://talks.komona.org/36c3/talk/DM3HNV/</url>
+        <title>Kritische Männlichkeit: Männlichkeitsbilder und Patriarchat</title>
         <subtitle/>
         <track/>
-        <type>Workshop</type>
-        <language>en</language>
-        <abstract>After you hopefully made it to the OpenAppStack introduction session the day before, this session is focussed on installing your OpenAppStack cluster. We'll guide you through the installation, help out with issues and if time allows we will show how to integrate more applications into OpenAppStack.</abstract>
-        <description>Prerequistes:&#13;
-&#13;
-* Bring your own machine ! See the machine requirements (https://docs.openappstack.net/en/latest/installation_instructions.html#prerequisites) about OS, minimal disk size and RAM requirements.&#13;
-* If you want to install and test Openappstack but don't have a VM for that please reach out to us, we might be able to provide temporary test VMs.</description>
+        <type>Session</type>
+        <language>de</language>
+        <abstract>Eine kurze Einführung in kritische Männlichkeit und warum das Patriarchat auch für männlich Sozialisierte schädlich ist.</abstract>
+        <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="36">Varac</person>
+          <person id="4">fap</person>
         </persons>
         <links/>
         <attachments/>
@@ -19135,8 +19216,8 @@ Join if you are interested in the topic of producing, hosting and adminstrating 
       </event>
       <event id="835" guid="b4e13072-d8a7-5c44-baa8-4196a457f5dc">
         <logo/>
-        <date>2019-12-29T14:00:00+00:00</date>
-        <start>14:00</start>
+        <date>2019-12-29T14:30:00+00:00</date>
+        <start>14:30</start>
         <duration>01:00</duration>
         <room>soupworx</room>
         <slug>8BYT87</slug>
@@ -19159,27 +19240,54 @@ Join if you are interested in the topic of producing, hosting and adminstrating 
         <attachments/>
         <answers/>
       </event>
-      <event id="843" guid="6f42e4f2-e582-5f49-8513-3904d5c790eb">
-        <logo>/media/36c3/images/PGXPCQ/P1160628.JPG</logo>
+      <event id="834" guid="c593a4e7-836c-511f-be69-d8f99059af7d">
+        <logo/>
         <date>2019-12-29T16:00:00+00:00</date>
         <start>16:00</start>
         <duration>01:30</duration>
         <room>soupworx</room>
-        <slug>PGXPCQ</slug>
-        <url>https://talks.komona.org/36c3/talk/PGXPCQ/</url>
-        <title>postapokalyptischer schmuck / postapocalyptic jewellery</title>
+        <slug>YW8SDC</slug>
+        <url>https://talks.komona.org/36c3/talk/YW8SDC/</url>
+        <title>Capitalists Anonymous / Selbsthilfe für anonyme Kapitalisten</title>
         <subtitle/>
         <track/>
         <type>Workshop</type>
-        <language>de</language>
-        <abstract>postapokalyptisches schrottbasteln aus überresten der menschlichen zivilisation. making postapocalyptic art things from (electronic) scrap and other leftovers from human civilisation. upcycling workshop</abstract>
+        <language>en</language>
+        <abstract>Je nach Nachfrage kann ich einen englischsprachigen oder einen deutschsprachigen Workshop anbieten.</abstract>
         <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="43">paulaner</person>
+          <person id="37">Jonas</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="821" guid="f0c4f740-ddbb-5480-8537-9c6fdcd02762">
+        <logo>/media/36c3/images/W98ZZM/kunstomona.jpg</logo>
+        <date>2019-12-29T18:00:00+00:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>soupworx</room>
+        <slug>W98ZZM</slug>
+        <url>https://talks.komona.org/36c3/talk/W98ZZM/</url>
+        <title>1komona now and then: What is it, even?</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>1komona is now happening for the forth time, so it could be the right time to talk about a common ground - what does it mean to whom and why? pls join!</abstract>
+        <description>1komona is now happening for the forth time and has grown together over the last couple of years. in this session, we want to come together with nice methods (have some more? bring them along) to talk about common goals, values, ideas of 1komona. about what it could mean and what not.&#13;
+*everybody who feels affiliated with 1komona, be it for the first or fourth time, feel invited!*</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="22">several people of 1komona I guess</person>
         </persons>
         <links/>
         <attachments/>

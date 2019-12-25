@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-25 15:50</version>
+  <version>2019-12-25 16:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -473,6 +473,27 @@ Are you a digital nomad or an itinerant hacker? Come and meet others who are as 
         </persons>
         <links/>
       </event>
+      <event id="1351" guid="3f7abf8b-ee05-46ad-bd66-b5a77c915f97">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:ESAeScooter</url>
+        <logo/>
+        <date>2019-12-27T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1351-session_esaescooter</slug>
+        <title>ESAeScooter</title>
+        <subtitle>ESA eScooter owner meetup</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meetup for owners of DocGreen ESA 5000, 1919 or 1950 eScooters
+Just a bunch of people who own an Doc Green ESA 5000, 1919 or 1950. A (in germany legal) eScooter recently sold by Lidl.There is also a wiki: https://esa-5000.fandom.com/de/wiki/ESA_5000_Wikiand a Telegram group: http://t.me/esa_5000We will probably talk about bus internals, attaching external batteries, dashboard replacements and other scooter modifications.</description>
+        <persons>
+          <person id="0">M4GNV5</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1201" guid="8ec1a778-aa0b-4bc3-b4d0-d1fc9b097ef4">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Telekommunikations%C3%BCberwachung_in_Deutschland</url>
         <logo/>
@@ -835,7 +856,7 @@ Update on the status of various open source silicon projects;* System Verilog su
         <language>de</language>
         <abstract/>
         <description>Du wolltest schon immer einen Passwortsafe nutzen? In diesem Workshop richten wir uns einen Passwortsafe ein!
-Du benutzt die drei gleichen Passwörter für alle deine Online-Accounts? Du weißt, dass das nicht sicher ist, hast bislang aber noch keine bessere Lösung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen lässt. Zunächst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschließend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht überwinden konnten.Disclaimer: Warum Bitwarden? Bitwarden bietet sich an, der er Opensource ist, leicht bedienbar, für fast alle Geräte und Betriebssysteme verfügbar und für Einsteiger einfacher zu nutzen als ein Passwortsafe wie KeePass.Bei Fragen: Tjal [https://twitter.com/tuikc @tuikc] oder DECT 8524</description>
+Du benutzt die drei gleichen Passwörter für alle deine Online-Accounts? Du weißt, dass das nicht sicher ist, hast bislang aber noch keine bessere Lösung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen lässt. Zunächst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschließend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. '''Vorkenntnisse''': Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht überwinden konnten.'''Mitbringen''': Wer sich während des Workshops einen Passwortsafe einrichten möchte, der sollte Laptop und Smartphone (oder Tablet) mitbringen. Disclaimer: Warum Bitwarden? Bitwarden bietet sich an, da er Opensource ist, leicht bedienbar, für fast alle Geräte und Betriebssysteme verfügbar und für Einsteiger einfacher zu nutzen als ein Passwortsafe wie KeePass.Bei Fragen: Tjal [https://twitter.com/tuikc @tuikc auf Twitter] oder DECT 8524 oder Mail: edwg6g6rtwf@temp.mailbox.org</description>
         <persons>
           <person id="0">Tjal</person>
         </persons>
@@ -1268,6 +1289,29 @@ For more information please refer to the foodhackingbase wiki page: https://food
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Tempeh_making_36c3</link>
+        </links>
+      </event>
+      <event id="1352" guid="bba15072-2204-4da3-b35f-12e4b0bbde11">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Mate_Making</url>
+        <logo/>
+        <date>2019-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>36c3-1352-session_mate_making</slug>
+        <title>Mate Making</title>
+        <subtitle>Introduction - Mate Tasting - the basics</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Morning Mate to wake you up and keep you Alert for the Day!!!
+We all drink lots of Mate at the Congress.  Pur your bottle aside and let's try the real thing!Besides the mind awakening and muscle relaxing effects, mate drinking fosters communication and we want to combine these aspects in this hands on workshop where participants will be guided through some simple exercises to envigourMATE their daily routine.WE WILL BE DRINKING IN TRADITIONAL STYLE SHARING OUR STRAWS!!!!The Mate Making Sessions are divided up into 3 parts DAY 1 - We will try a range of standard different mates, pure and learn about how to make, drink and share as well as talk about the health benefits of Mate.  DAY 2 - This is not for the purists, we will mix our Mates with different herbs and go through the Rainbow Mate Range, so that you can learn how to play with your Mate. DAY 3 -  And now it is time to make your own Mate, learn how to prepare and serve.  We're going to get you on your feet to take a deep breath of fresh air, teach you how to take a huge slurp of wild mate and how to communiMATE-</description>
+        <persons>
+          <person id="0">Meta Mate</person>
+        </persons>
+        <links>
+          <link>https://metamate.cc/the-meta-difference/</link>
         </links>
       </event>
       <event id="1233" guid="84407a88-6b34-4ee4-935c-e37dd5ccab5d">
@@ -3468,6 +3512,29 @@ For more information please refer to the foodhackingbase wiki page: https://food
           <link>https://foodhackingbase.org/wiki/Kefir_making_36c3</link>
         </links>
       </event>
+      <event id="1353" guid="612c6bfa-8083-509b-80ac-e2215e87187f">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Mate_Making</url>
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>36c3-1353-session_mate_making</slug>
+        <title>Mate Making</title>
+        <subtitle>Mate Mixing - Flavour up your Mate with Herbs</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Morning Mate to wake you up and keep you Alert for the Day!!!
+We all drink lots of Mate at the Congress.  Pur your bottle aside and let's try the real thing!Besides the mind awakening and muscle relaxing effects, mate drinking fosters communication and we want to combine these aspects in this hands on workshop where participants will be guided through some simple exercises to envigourMATE their daily routine.WE WILL BE DRINKING IN TRADITIONAL STYLE SHARING OUR STRAWS!!!!The Mate Making Sessions are divided up into 3 parts DAY 1 - We will try a range of standard different mates, pure and learn about how to make, drink and share as well as talk about the health benefits of Mate.  DAY 2 - This is not for the purists, we will mix our Mates with different herbs and go through the Rainbow Mate Range, so that you can learn how to play with your Mate. DAY 3 -  And now it is time to make your own Mate, learn how to prepare and serve.  We're going to get you on your feet to take a deep breath of fresh air, teach you how to take a huge slurp of wild mate and how to communiMATE-</description>
+        <persons>
+          <person id="0">Meta Mate</person>
+        </persons>
+        <links>
+          <link>https://metamate.cc/the-meta-difference/</link>
+        </links>
+      </event>
       <event id="1235" guid="3e19fc1b-25ae-4700-bea9-a223c214ba36">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Mead_making_presentation</url>
         <logo/>
@@ -4333,6 +4400,27 @@ Hast du dich auch schonmal gefragt, wie es wäre, ein Smartphone zu nutzen, ohne
       </event>
     </room>
     <room name="Seminar room 13">
+      <event id="1350" guid="5a4d6500-f96f-4e73-bab7-251c5d2f2b6f">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Behavioural_change_and_changing_habits</url>
+        <logo/>
+        <date>2019-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1350-session_behavioural_change_and_changing_habits</slug>
+        <title>Behavioural change and changing habits</title>
+        <subtitle>Exchange of concepts and discussion, prevention of chronic diseases like diabetes type 2</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Let’s discuss the power of habits and what it takes to change behaviour.
+A free discussion about behavioural change and its methods (Cognitive behavioral therapy, motivational interviewing etc.), the power of habits and how to change them.I'd also like to discuss how healthy lifestyle changes can prevent diabetes type 2 and other chronic diseases.</description>
+        <persons>
+          <person id="0">Andru</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1262" guid="7793d88f-e59b-47a4-a62f-a71f3b4de59a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Google-sensei_und_Leiharbeit_-_IT_in_Japan</url>
         <logo/>
@@ -5289,6 +5377,29 @@ For more information please refer to the foodhackingbase wiki page: https://food
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Cidre_flows_36c3</link>
+        </links>
+      </event>
+      <event id="1354" guid="6b351b8a-64d2-4bc9-8d31-0274c91819b9">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Mate_Making</url>
+        <logo/>
+        <date>2019-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>36c3-1354-session_mate_making</slug>
+        <title>Mate Making</title>
+        <subtitle>Mate Making - DIY</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Morning Mate to wake you up and keep you Alert for the Day!!!
+We all drink lots of Mate at the Congress.  Pur your bottle aside and let's try the real thing!Besides the mind awakening and muscle relaxing effects, mate drinking fosters communication and we want to combine these aspects in this hands on workshop where participants will be guided through some simple exercises to envigourMATE their daily routine.WE WILL BE DRINKING IN TRADITIONAL STYLE SHARING OUR STRAWS!!!!The Mate Making Sessions are divided up into 3 parts DAY 1 - We will try a range of standard different mates, pure and learn about how to make, drink and share as well as talk about the health benefits of Mate.  DAY 2 - This is not for the purists, we will mix our Mates with different herbs and go through the Rainbow Mate Range, so that you can learn how to play with your Mate. DAY 3 -  And now it is time to make your own Mate, learn how to prepare and serve.  We're going to get you on your feet to take a deep breath of fresh air, teach you how to take a huge slurp of wild mate and how to communiMATE-</description>
+        <persons>
+          <person id="0">Meta Mate</person>
+        </persons>
+        <links>
+          <link>https://metamate.cc/the-meta-difference/</link>
         </links>
       </event>
       <event id="1246" guid="0bc48e34-9536-43d4-b5db-ddd8ae290602">

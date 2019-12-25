@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Neodymium; art-play 0.21; wiki 2019-12-25 22:30",
+    "version": "find; chaos-west 1.0; open-infra 11; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.22; wiki 2019-12-25 22:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -5418,6 +5418,70 @@
                 "answers": []
               },
               {
+                "id": 4138,
+                "guid": "b8cba61c-f23a-5bd2-91b4-98775a4ec5cb",
+                "logo": "",
+                "date": "2019-12-27T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "00:20",
+                "room": "Art-and-Play Stage",
+                "slug": "7QKHLA",
+                "url": "https://stage.artesmobiles.art/36c3/talk/7QKHLA/",
+                "title": "TRANSFORMATION SCENARIO",
+                "subtitle": "",
+                "track": "Screening",
+                "type": "Screening",
+                "language": "en",
+                "abstract": "video installation, 20 min, 2018, nonverbal",
+                "description": "Originally used in computer games and for special effects in blockbuster movies, \u2018simulated life\u2019, driven by algorithmic predictions, is increasingly influencing many facets of the real world. From urban planning to disaster evacuation plans, market forecasts and crowd control, algorithmically simulated scenarios produce real world policies and events. Using a variety of images including filmed footage as well as simulations of crowd control software, Transformation Scenario is a meditation on \u2018simulated life\u2019 and the increasingly blurred distinctions between real and virtual experiences. This video is part of a larger body of work by von Wedemeyer that engages with the psychology and aesthetics of the crowd.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 30,
+                    "code": "SWXRQZ",
+                    "public_name": "Clemens von Wedemeyer",
+                    "biography": "Clemens von Wedemeyer is Professor of media art at the Academy of Fine Arts Leipzig, Germany. Exhibitions include the 1st Moscow Biennale (2005), the 4th Berlin Biennale (2006), Skulptur Projekte M\u00fcnster (2007), the 16th Biennale of Sydney (2008) and dOCUMENTA (13) (2012). He had solo shows at MoMA PS1, New York, ARGOS Centre for Art and Media, Brussels, the Barbican Art Centre, London, Frankfurter Kunstverein, Museum of Contemporary Art, Chicago, and Hamburger Kunsthalle.\r\n\r\nhttp://antifilm.de",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 4137,
+                "guid": "c905bda5-6b3c-5a07-84b1-c81982f812c6",
+                "logo": "/media/36c3/images/SBPQMP/Hackitat___web_77nF2fz.jpg",
+                "date": "2019-12-27T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:10",
+                "room": "Art-and-Play Stage",
+                "slug": "SBPQMP",
+                "url": "https://stage.artesmobiles.art/36c3/talk/SBPQMP/",
+                "title": "Hackitat \u2013 9 layers of political hacking",
+                "subtitle": "",
+                "track": "Screening",
+                "type": "Screening",
+                "language": "en",
+                "abstract": "documentary, 70 min + Q&A, 2019, english language",
+                "description": "The documentary takes a look at hacking beyond the computer screens. In the place where technology and activists meet. Where the need to circumvent state surveillance and surveillance capitalism is grave. Where people see an unfair system in society and find a way to hack it. This is the true hacker habitat.\r\n\r\nIn direct opposition to banks, corporations and entrepreneurs using the words 'hack/hackathon', the film aims to fill the words with the subversive and anarchist tradition they have. In a chapter form, this film shows hacker projects and system hacking from Japan, Cuba, occupied Western Sahara, Belgium and Sweden. The chapters are mixed with parts where hackers talk about the ethics behind what they do and the film mirrors the ideas with texts based on Emma Goldman's writings. Filmed in the 2010s it gives an incite to a global political hacker movement.\r\n\r\nAfter the preview screening we would love to hear your comments! We are still in the face where we will edit the final version. People from the film and the production group will talk more about the process and answer questions. The final version of the documentary will be released during the spring of 2020.\r\n\r\nhttp://www.hackitat.com/\r\nhttp://rafilm.se/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 29,
+                    "code": "V7RNVV",
+                    "public_name": "R\u00e5FILM filmmakers collective",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 4101,
                 "guid": "3116cdf0-4719-5f50-b84b-4138e9955e63",
                 "logo": "",
@@ -8284,6 +8348,38 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              },
+              {
+                "id": 3211,
+                "guid": "0e34a987-3753-5c04-b67b-0bf6d54d2763",
+                "logo": "",
+                "date": "2019-12-28T13:45:00+01:00",
+                "start": "13:45",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "7WTWVD",
+                "url": "https://c3lt.de/36c3/talk/7WTWVD/",
+                "title": "Free Binary Analysis Course",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Do you want to analyse malware, but are you unsure how? Do you want to learn more, but do you not know where? Follow this course to get a head start!",
+                "description": "Analysing malware may seem hard, but some parts are easier than it may seem! In my course, I describe the complete analysis process with background information in a detailed manner. The course starts from scratch and ends when the attendee is able to analyse malware without the help of the course.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 191,
+                    "code": "YAWDCW",
+                    "public_name": "Max 'Libra' Kersten",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "Clarke": [
@@ -10236,14 +10332,14 @@
               {
                 "id": 1154,
                 "guid": "74a87210-81e0-4cb3-8fb4-8cf652546e82",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Solidarity_By_Design:_Technology_For_Organising_The_Gressroots",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Solidarity_By_Design:_Technology_for_organising_the_Grassroots",
                 "logo": null,
                 "date": "2019-12-28T22:00:00+01:00",
                 "start": "22:00",
                 "duration": "1:00",
                 "room": "Lecture room M1",
-                "slug": "36c3-1154-session_solidarity_by_design_technology_for_organising_the_gressroots",
-                "title": "Solidarity By Design: Technology For Organising The Gressroots",
+                "slug": "36c3-1154-session_solidarity_by_design_technology_for_organising_the_grassroots",
+                "title": "Solidarity By Design: Technology for organising the Grassroots",
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "discussion",
@@ -13898,6 +13994,38 @@
                 "answers": []
               },
               {
+                "id": 4139,
+                "guid": "96c6b847-69a9-5d58-9773-438a9100b64b",
+                "logo": "",
+                "date": "2019-12-28T20:30:00+01:00",
+                "start": "20:30",
+                "duration": "00:20",
+                "room": "Art-and-Play Stage",
+                "slug": "AKQJNJ",
+                "url": "https://stage.artesmobiles.art/36c3/talk/AKQJNJ/",
+                "title": "TRANSFORMATION SCENARIO",
+                "subtitle": "",
+                "track": "Screening",
+                "type": "Screening",
+                "language": "en",
+                "abstract": "video installation, 20 min, 2018, nonverbal",
+                "description": "Originally used in computer games and for special effects in blockbuster movies, \u2018simulated life\u2019, driven by algorithmic predictions, is increasingly influencing many facets of the real world. From urban planning to disaster evacuation plans, market forecasts and crowd control, algorithmically simulated scenarios produce real world policies and events. Using a variety of images including filmed footage as well as simulations of crowd control software, Transformation Scenario is a meditation on \u2018simulated life\u2019 and the increasingly blurred distinctions between real and virtual experiences. This video is part of a larger body of work by von Wedemeyer that engages with the psychology and aesthetics of the crowd.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 30,
+                    "code": "SWXRQZ",
+                    "public_name": "Clemens von Wedemeyer",
+                    "biography": "Clemens von Wedemeyer is Professor of media art at the Academy of Fine Arts Leipzig, Germany. Exhibitions include the 1st Moscow Biennale (2005), the 4th Berlin Biennale (2006), Skulptur Projekte M\u00fcnster (2007), the 16th Biennale of Sydney (2008) and dOCUMENTA (13) (2012). He had solo shows at MoMA PS1, New York, ARGOS Centre for Art and Media, Brussels, the Barbican Art Centre, London, Frankfurter Kunstverein, Museum of Contemporary Art, Chicago, and Hamburger Kunsthalle.\r\n\r\nhttp://antifilm.de",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 4107,
                 "guid": "b08a2e8a-ad1d-51ab-ac5e-71456a5bdff1",
                 "logo": "/media/36c3/images/XCDDNN/himiko__web_MoLCHSo.jpg",
@@ -15899,8 +16027,8 @@
                 "guid": "026448ea-1a8f-4fd6-9018-cca3109dadc5",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Robotron_K8917",
                 "logo": null,
-                "date": "2019-12-28T15:00:00+01:00",
-                "start": "15:00",
+                "date": "2019-12-28T13:00:00+01:00",
+                "start": "13:00",
                 "duration": "0:45",
                 "room": "Assembly:Vintage Computing",
                 "slug": "36c3-1342-session_robotron_k8917",
@@ -16897,6 +17025,102 @@
                 "answers": []
               },
               {
+                "id": 3201,
+                "guid": "3c63ab47-b7b8-5be9-b79e-b06d6df5670b",
+                "logo": "",
+                "date": "2019-12-29T12:15:00+01:00",
+                "start": "12:15",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "3HUF7T",
+                "url": "https://c3lt.de/36c3/talk/3HUF7T/",
+                "title": "Opencast",
+                "subtitle": "",
+                "track": "Science",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "The free and open source solution for automated video capture, management, and distribution at scale.",
+                "description": "Opencast is a flexible, scalable and reliable video capture, management, and distribution system for academic institutions. Opencast is built by a growing community of developers from leading universities and organizations worldwide.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 170,
+                    "code": "R99MLH",
+                    "public_name": "Lars Kiesow",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3218,
+                "guid": "5258ed32-70bb-5983-be1d-6077e9ac2f8c",
+                "logo": "",
+                "date": "2019-12-29T12:20:00+01:00",
+                "start": "12:20",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "9LWXWS",
+                "url": "https://c3lt.de/36c3/talk/9LWXWS/",
+                "title": "Cidre&FHB",
+                "subtitle": "",
+                "track": "Art & Culture",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Few words about cidre making, it's presence at 36c3 and Food Hacking Base involvement.",
+                "description": "I'll talk about the basics of cidre making, rather traditional way with few hints to the modern technology and what we do at fhb this year on the subject - cidre making workshop, tasting etc.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 45,
+                    "code": "FBYA7X",
+                    "public_name": "Franti\u0161ek Algoldor Apfelbeck",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3206,
+                "guid": "7d6c1abe-8508-5e51-8ee7-b2de3621376d",
+                "logo": "",
+                "date": "2019-12-29T12:25:00+01:00",
+                "start": "12:25",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "3DGFCV",
+                "url": "https://c3lt.de/36c3/talk/3DGFCV/",
+                "title": "The Human-Value-Evaluation Token *can* save the world",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "The Internet of Values, a power-structure that gives newcomers the most power and strengthens anonymity with crowd-sourced entertaining group-dynamics",
+                "description": "Paradoxe Untersuchungen des vorgeschlagenen Wertsystems. Humorvoll und provokativ gedacht, mit ernsthafter Philosophie \u00fcber ein technologisch-realisierbares Projekt. Wir machen Schw\u00e4chen zu St\u00e4rken, indem wir die J\u00fcngeren in der Offenheit unserer Letzteren: die Werte.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 184,
+                    "code": "L8GZCL",
+                    "public_name": "ahimsa",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3174,
                 "guid": "a6911eea-3983-5314-8686-c9b4b244c91b",
                 "logo": "",
@@ -17121,6 +17345,102 @@
                 "answers": []
               },
               {
+                "id": 3210,
+                "guid": "6f4af050-e638-59c6-81ec-e5831563072c",
+                "logo": "",
+                "date": "2019-12-29T13:15:00+01:00",
+                "start": "13:15",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "GCHEJW",
+                "url": "https://c3lt.de/36c3/talk/GCHEJW/",
+                "title": "Malware Research Telegram group",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "The Malware Research group on Telegram consists of thousands of individuals that help each other out when analysing malware, and you can join!",
+                "description": "Malware research requires a lot of time, and it can be hard to find a place where one can ask questions. The Malware Research group on Telegram is such a place, and it is open to join for anybody. This lightning talk provides some information on the group's activity, as well as how to join!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 191,
+                    "code": "YAWDCW",
+                    "public_name": "Max 'Libra' Kersten",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3215,
+                "guid": "a39acbf9-244c-57de-9beb-8e71addf96c6",
+                "logo": "",
+                "date": "2019-12-29T13:20:00+01:00",
+                "start": "13:20",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "HMPPKT",
+                "url": "https://c3lt.de/36c3/talk/HMPPKT/",
+                "title": "PrivacyMail: Analyzing Email Tracking",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "I will be presenting [privacymail.info](https://privacymail.info), an open source eMail tracking transparency project.",
+                "description": "Online tracking is not exclusive to websites, but also widespread in eMails. We built an open platform to detect eMail tracking, and I'd like to give you a quick primer and invite your participation and feedback.\r\n\r\n- [The platform](https://privacymail.info)\r\n- [The code](https://github.com/privacymail/privacymail)\r\n- [Talk @ GPN19 with more information](https://media.ccc.de/v/gpn19-59-analyzing-the-email-tracking-ecosystem)",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 195,
+                    "code": "TNFEV8",
+                    "public_name": "malexmave",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3196,
+                "guid": "b62182af-f3d1-5f9c-8574-26d0827cd9c4",
+                "logo": "",
+                "date": "2019-12-29T13:25:00+01:00",
+                "start": "13:25",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "RB3JZX",
+                "url": "https://c3lt.de/36c3/talk/RB3JZX/",
+                "title": "openage status report 2019",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "openage is a free Age of Empires II engine. We'll present the project's progress of the last year and future plans.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 40,
+                    "code": "C3VQ37",
+                    "public_name": "JJ",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3202,
                 "guid": "cc4304ad-19eb-5852-948d-cd8935606d9e",
                 "logo": "",
@@ -17176,6 +17496,38 @@
                     "id": 181,
                     "code": "SYDJQV",
                     "public_name": "pudo",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3212,
+                "guid": "c942936c-2707-5add-9f12-8c0c354515ea",
+                "logo": "",
+                "date": "2019-12-29T13:45:00+01:00",
+                "start": "13:45",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "XDXYYW",
+                "url": "https://c3lt.de/36c3/talk/XDXYYW/",
+                "title": "The 1*1 of passwords in 5 Minutes",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "I will show you in 5 minutes how you calculate if you password is random and long enough.",
+                "description": "This is the part where I calculate password length out of my 45 min talk about the small 1*1 of passwords.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 63,
+                    "code": "7AGC9M",
+                    "public_name": "zem",
                     "biography": null,
                     "answers": []
                   }
@@ -22265,6 +22617,38 @@
                 "answers": []
               },
               {
+                "id": 4140,
+                "guid": "44352d40-48d2-59e3-a4af-b2e131931642",
+                "logo": "",
+                "date": "2019-12-29T20:30:00+01:00",
+                "start": "20:30",
+                "duration": "00:20",
+                "room": "Art-and-Play Stage",
+                "slug": "WJE8NU",
+                "url": "https://stage.artesmobiles.art/36c3/talk/WJE8NU/",
+                "title": "TRANSFORMATION SCENARIO",
+                "subtitle": "",
+                "track": "Screening",
+                "type": "Screening",
+                "language": "en",
+                "abstract": "video installation, 20 min, 2018, nonverbal",
+                "description": "Originally used in computer games and for special effects in blockbuster movies, \u2018simulated life\u2019, driven by algorithmic predictions, is increasingly influencing many facets of the real world. From urban planning to disaster evacuation plans, market forecasts and crowd control, algorithmically simulated scenarios produce real world policies and events. Using a variety of images including filmed footage as well as simulations of crowd control software, Transformation Scenario is a meditation on \u2018simulated life\u2019 and the increasingly blurred distinctions between real and virtual experiences. This video is part of a larger body of work by von Wedemeyer that engages with the psychology and aesthetics of the crowd.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 30,
+                    "code": "SWXRQZ",
+                    "public_name": "Clemens von Wedemeyer",
+                    "biography": "Clemens von Wedemeyer is Professor of media art at the Academy of Fine Arts Leipzig, Germany. Exhibitions include the 1st Moscow Biennale (2005), the 4th Berlin Biennale (2006), Skulptur Projekte M\u00fcnster (2007), the 16th Biennale of Sydney (2008) and dOCUMENTA (13) (2012). He had solo shows at MoMA PS1, New York, ARGOS Centre for Art and Media, Brussels, the Barbican Art Centre, London, Frankfurter Kunstverein, Museum of Contemporary Art, Chicago, and Hamburger Kunsthalle.\r\n\r\nhttp://antifilm.de",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 4110,
                 "guid": "9156e966-f9a4-5483-a744-53ee039ece25",
                 "logo": "/media/36c3/images/97PKLH/Schmeck_mein_Blut__web_4a3stVK.jpg",
@@ -24132,6 +24516,70 @@
                 "answers": []
               },
               {
+                "id": 3213,
+                "guid": "6730abcf-21ba-5b49-86ce-12739d03c795",
+                "logo": "",
+                "date": "2019-12-30T11:45:00+01:00",
+                "start": "11:45",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "MWBHMS",
+                "url": "https://c3lt.de/36c3/talk/MWBHMS/",
+                "title": "sms4you",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Presenting a simple gateway for using SMS with other means of communication.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 193,
+                    "code": "8DPKLE",
+                    "public_name": "Felix D.",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3205,
+                "guid": "1ba815ed-41eb-58aa-a1c6-588a090c66cf",
+                "logo": "",
+                "date": "2019-12-30T12:15:00+01:00",
+                "start": "12:15",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "ZY7JB9",
+                "url": "https://c3lt.de/36c3/talk/ZY7JB9/",
+                "title": "The Life-Quantum as a Lowerarchichal Self-Organizing Structure (Das Lebens-quantum als niederarchichalische Selbstorganizationsstruktur)",
+                "subtitle": "",
+                "track": "Resilience & Sustainability",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "1.4 Work Resolution Formula R\r\nunit-of-work = UOW\r\nwork-quantum WQ\r\n0 <= UW - WQ = 0",
+                "description": "To make our ecological and technological work effective and unique, many work-quanta should be developed in advance of any public offering. The unit-of-work is the minimum weekly shared computational processing required to sustain the network. A completed unit-of-work represents a proof-of-human-collaboration, the consensus algorithm for access to the action network.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 184,
+                    "code": "L8GZCL",
+                    "public_name": "ahimsa",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3153,
                 "guid": "f33dd7b7-99d6-574b-9282-26986b5a0ea0",
                 "logo": "",
@@ -24187,6 +24635,38 @@
                     "id": 190,
                     "code": "BGZMSQ",
                     "public_name": "Juli Laczko",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3195,
+                "guid": "e6fb2d22-87c0-5a37-8a2f-a980137b9add",
+                "logo": "",
+                "date": "2019-12-30T12:35:00+01:00",
+                "start": "12:35",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "3SJ9PV",
+                "url": "https://c3lt.de/36c3/talk/3SJ9PV/",
+                "title": "Blockchain! Ethereum! Cringe but cool.",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Although tarnished, blockchain stuff should still interest hackers. This talk provides a positive if irreverent look at the space and its promises.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 179,
+                    "code": "KJQZMN",
+                    "public_name": "Thomas Barker",
                     "biography": null,
                     "answers": []
                   }

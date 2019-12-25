@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; wiki 2019-12-26 00:30</version>
+  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; wiki 2019-12-26 00:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -5349,6 +5349,29 @@ Uprising in $hile without leaders and parties.Conversation about what's going on
           <person id="0">Alibi</person>
         </persons>
         <links/>
+      </event>
+      <event id="1411" guid="88fb30e0-59f2-4034-92b6-f35e11c24d65">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1411-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle>room might change - check before joining us!!!</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol
+Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
+        <persons>
+          <person id="0">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+        </links>
       </event>
       <event id="1382" guid="08ba63d1-03ce-4159-bdac-9140a5896def">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITAL_RELAXATION:_Acupressure</url>
@@ -13455,6 +13478,29 @@ Sai's #BlindNavigation workshop from 35c3 will also take place this year! If you
         </persons>
         <links/>
       </event>
+      <event id="1412" guid="efd241bf-219f-4595-a54a-4a424531b944">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1412-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle>room might change - check before joining us!!!</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol
+Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
+        <persons>
+          <person id="0">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+        </links>
+      </event>
       <event id="1398" guid="ebf7d9c9-6bdb-4bbd-a761-6067a249a0ef">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITAL_RELAXATION:_Acupressure</url>
         <logo/>
@@ -21544,6 +21590,29 @@ Pentagame is a novel board game that gains popularity in nerd circles. We have g
 We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
         <persons>
           <person id="0">Haurane</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Assembly:City center">
+      <event id="1413" guid="7590b13e-fed5-43d9-8e90-375aeedb0771">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:FFF-Demo</url>
+        <logo/>
+        <date>2019-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:City center</room>
+        <slug>36c3-1413-session_fff_demo</slug>
+        <title>FFF-Demo</title>
+        <subtitle>$password=saveForFuture</subtitle>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language/>
+        <abstract/>
+        <description>„$password=saveForFuture“: Peaceful “Fridays for Future” protest for climate justice (better climate politics) in the city. Officially registered at the relevant government agency, legal to attend for citizens of any country. Angemeldete Demonstration im Rahmen von Fridays for Future in der Stadt; Termin am Vormittag, damit 36c3-Besuchende direkt morgens von der Schlafgelegenheit zur Demo können und nach der Demo weiter zum Messegelände.
+Demonstration im Rahmen von Fridays for Future in der Stadt; Termin am Vormittag, damit 36c3-Besuchende direkt morgens von der Schlafgelegenheit zur Demo können und nach der Demo weiter zum Messegelände. Details folgen.</description>
+        <persons>
+          <person id="0">E1mo</person>
         </persons>
         <links/>
       </event>

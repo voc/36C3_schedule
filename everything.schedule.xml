@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 18:30</version>
+  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 18:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -997,7 +997,7 @@ The experience while developing such a huge project is that lots of components c
           <link href="https://ocaml.org">OCaml</link>
         </links>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/004/040/original/talk.pdf?1577310794">slides.2.pdf</attachment>
+          <attachment href="/system/event_attachments/attachments/000/004/042/original/talk.pdf?1577351660">slides.3.pdf</attachment>
         </attachments>
       </event>
       <event id="10703" guid="ffe32913-e2ff-4331-b3e6-7f8f180cbd72">
@@ -6835,21 +6835,21 @@ Wir setzen uns im Detail mit drei Fragestellungen auseinander:&#13;
       </event>
       <event id="11086" guid="3e0a51f5-f60a-4a90-a78a-3a311c6ffe41">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11086.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/011/086/large/Signal_Blue_Icon.png?1577362494</logo>
         <date>2019-12-28T16:10:00+01:00</date>
         <start>16:10</start>
         <duration>00:40</duration>
         <room>Ada</room>
         <slug>36c3-11086-the_ecosystem_is_moving</slug>
         <title>The ecosystem is moving</title>
-        <subtitle>Challenges for distributed and decentralized technology</subtitle>
+        <subtitle>Challenges for distributed and decentralized technology from the perspective of Signal development</subtitle>
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>en</language>
         <abstract>Considerations for distributed and decentralized technologies from the perspective of a product that many would like to see decentralize.</abstract>
         <description>Amongst an environment of enthusiasm for blockchain-based technologies, efforts to decentralize the internet, and tremendous investment in distributed systems, there has been relatively little product movement in this area from the mobile and consumer internet spaces.&#13;
 &#13;
-This is an exploration of challenges for distributed technologies, as well as some considerations for what they do and don't provide, from the perspective of someone working on user-focused mobile communication.</description>
+This is an exploration of challenges for distributed technologies, as well as some considerations for what they do and don't provide, from the perspective of someone working on user-focused mobile communication. This also includes a look at how Signal addresses some of the same problems that decentralized and distributed technologies hope to solve.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -7199,7 +7199,7 @@ Und wie gehen die Strafverfolgungsbehörden bei Ermittlungen wegen des Verdachts
         <logo/>
         <date>2019-12-28T18:10:00+01:00</date>
         <start>18:10</start>
-        <duration>01:40</duration>
+        <duration>02:20</duration>
         <room>Borg</room>
         <slug>36c3-11225-der_dezentrale_jahresruckblick_des_ccc</slug>
         <title>Der dezentrale Jahresrückblick des CCC</title>
@@ -8276,14 +8276,14 @@ We hope we could make users and developers aware of the potential security risks
       </event>
       <event id="10800" guid="05930be8-d978-4499-ad35-6068d0575666">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10800.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/800/large/megaphone.jpg?1577341577</logo>
         <date>2019-12-28T22:10:00+01:00</date>
         <start>22:10</start>
         <duration>01:00</duration>
         <room>Clarke</room>
         <slug>36c3-10800-creating_resilient_and_sustainable_mobile_phones</slug>
         <title>Creating Resilient and Sustainable Mobile Phones</title>
-        <subtitle/>
+        <subtitle>Be prepared for the coming Digital Winter. And play Impossible Mission.</subtitle>
         <track>Resilience &amp; Sustainability</track>
         <type>lecture</type>
         <language>en</language>
@@ -8311,7 +8311,11 @@ In this lecture I will explore these issues, as well as describe how we are putt
         <persons>
           <person id="8890">Paul Gardner-Stephen</person>
         </persons>
-        <links/>
+        <links>
+          <link href="mega65.org">MEGA65 Home Page</link>
+          <link href="c65blogspot.com.au">MEGA65 Blog</link>
+          <link href="github.com/mega65/mega65-core">MEGA65 Source Repository</link>
+        </links>
         <attachments/>
       </event>
       <event id="10983" guid="7bdf7688-8620-4170-93bf-3c2adfd30030">
@@ -8487,14 +8491,6 @@ Die Gesellschaft für Freiheitsrechte e.V. (GFF) und der Zentralrat Deutscher Si
 Anja Reuss ist Politische Referentin des Zentralrats Deutscher Sinti und Roma, der politischen Interessenvertretung der deutschen Sinti und Roma mit Sitz in Heidelberg. Als Dachverband setzt sich der Zentralrat auf nationaler und internationaler Ebene für eine gleichberechtigte Teilhabe von Sinti und Roma in Politik und Gesellschaft sowie für die Auseinandersetzung mit und Bekämpfung von Antiziganismus ein.&#13;
 &#13;
 Lea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft für Freiheitsrechte e.V. (GFF). Die GFF ist eine NGO, die durch strategische Prozesse Grund- und Menschenrechte stärkt und zivilgesellschaftlichen Partnerorganisationen rechtlich unterstützt. In ihren Verfahren setzt sich die GFF dabei immer wieder kritisch mit polizeilichen Ermittlungsbefugnissen auseinander, sei dies im Zusammenhang mit dem Einsatz von Späh-Software oder bei der Datenerhebung. &#13;
-&#13;
-Zentralrat Deutscher Sinti und Roma, Informationen zum Thema:&#13;
-https://zentralrat.sintiundroma.de/themenseite-dna/&#13;
-&#13;
-https://zentralrat.sintiundroma.de/diskriminierung-von-sinti-und-roma-ein-senator-seine-polizisten-und-86-trickdiebe/&#13;
- &#13;
-Markus End (2019): Antiziganismus und Polizei, https://zentralrat.sintiundroma.de/download/9262&#13;
-&#13;
 </description>
         <recording>
           <license/>
@@ -15917,8 +15913,8 @@ Daniel Schulz, Leiter des Ressorts Reportage &amp; Recherche der taz</descriptio
         <start>14:10</start>
         <duration>01:00</duration>
         <room>Ada</room>
-        <slug>36c3-10541-gefluchtete_schmuggeln_kohlelobby_unterwandern_passe_falschen</slug>
-        <title>Geflüchtete schmuggeln, Kohlelobby unterwandern, Pässe fälschen</title>
+        <slug>36c3-10541-hacking_the_media_gefluchtete_schmuggeln_nazis_torten_passe_falschen</slug>
+        <title>Hacking the Media: Geflüchtete schmuggeln, Nazis torten, Pässe fälschen</title>
         <subtitle>Warum wir zivilen Ungehorsam und Subversion mehr brauchen denn je</subtitle>
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
@@ -15934,7 +15930,7 @@ Eine Stunde geballte Kommunikationsguerilla, lustige Medienaktionen, aber auch e
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="9216">Jean Peters</person>
+          <person id="9216">Conny Runner</person>
           <person id="9889">Ronny Sommer</person>
         </persons>
         <links>
@@ -16109,15 +16105,13 @@ Neumann, Linus (2019): „Wenn Hacker Menschen hacken“ in: Report Psychologie 
         <abstract>Seit spätestens 2005 wird in Deutschland an der Einführung der Telematik Infrastruktur, kurz die TI, gearbeitet. Diese soll nicht weniger als die komplette Digitalisierung der deutschen Medizinbranche bedeuten. Vom Arzt, Krankenhaus, Psychotherapeut bis hin zum Apotheker sollen alle Heilberufler miteinander vernetzt werden. Der Patient soll dabei die Datenhoheit behalten, und seine Daten mittels elektronischer Gesundheitskarte, sowie alternativ per mobiler Smartphone App steuern.</abstract>
         <description>Mit Gründung der Gematik GmbH am 11. Januar 2005 begann die offizielle Entwicklung der Telematik-Infrastruktur (TI). Ziel war die Einführung einer elektronischen Gesundheitskarte mitsamt einer Infrastruktur, die langfristig alle Teilnehmer der Medizinischen Versorgung miteinander vernetzen sollte.&#13;
 Der Arzt speichert alle Befunde samt Röntgen Bilder in der elektronischen Patientenakte (ePA) ab, kommuniziert verschlüsselt mit anderen Ärzten über die „Sichere Kommunikation zwischen Leistungserbringer“ (KOM-LE), der Medikationsplan ist digital verfügbar (eMP), das Rezept wird beim Apotheker digital eingelöst (E-Rezept) und im Notfall sind relevante Gesundheitsdaten (NFDM) auf der elektronischen Gesundheitskarte (eGK) des Patienten abgespeichert. So soll der digitale Arztbesuch der Zukunft aussehen.&#13;
-Allerdings ist nach 15 Jahren Entwicklung und 1,5 Milliarden Euro Investitionen nur ein Dienst der TI online, das Versichertenstammdatenmanagement (VSDM). Damit können die Stammdaten des Patienten, bspw. Adresse und Krankenkasse online beim Arzt aktualisiert werden, ohne Austausch der elektronischen Gesundheitskarte.&#13;
+Allerdings ist nach 15 Jahren Entwicklung und 2 Milliarden Euro Investitionen nur ein Dienst der TI online, das Versichertenstammdatenmanagement (VSDM). Damit können die Stammdaten des Patienten, bspw. Adresse und Krankenkasse online beim Arzt aktualisiert werden, ohne Austausch der elektronischen Gesundheitskarte.&#13;
 Nachdem dieser Dienst nun eingeführt wurde sollen zeitnah die nächsten oben aufgeführten Dienste online gehen. Die Spezifikationen, Zulassungsunterlagen sowie Feldtestkonzepte für diese Dienste sind dafür weitestgehend fertig.&#13;
-Parallel zu der von der Politik und Gematik getriebenen Entwicklung setzten sich technik-affine Personen wie bspw. Thomas Maus [1] mit der Technik auseinander und zeigten viele Probleme und ungelöste Fragestellungen. Nachdem die TI nun größtenteils online ist und die ersten Dienste in der Praxis genutzt werden ist es an der Zeit sich die konkrete Umsetzung anzuschauen, zu evaluieren und bei Bedarf entsprechend zu verbessern.&#13;
+Parallel zu der von der Politik und Gematik getriebenen Entwicklung setzten sich technik-affine Personen wie bspw. Thomas Maus mit der Technik auseinander und zeigten viele Probleme und ungelöste Fragestellungen. Nachdem die TI nun größtenteils online ist und die ersten Dienste in der Praxis genutzt werden ist es an der Zeit sich die konkrete Umsetzung anzuschauen, zu evaluieren und bei Bedarf entsprechend zu verbessern.&#13;
 &#13;
 Dieser Vortrag soll einen aktuellen Überblick auf die Telematikinfrastruktur geben. Es werden die bestehenden Dienste (VSDSM) sowie die schon spezifizierten Dienste wie KOM-LE oder ePA vorgestellt. Insbesondere wird auf die Sicherheit der verschiedenen Systeme eingegangen. Die Schutzziele sowie die spezifizierten Methoden um diese Ziele zu erreichen werden dargestellt und grob analysiert. &#13;
 Dabei zeigt sich dass die TI vor allem ein sehr komplexes System mit aktuell über 7500 Seiten Spezifikationen und mehr als 1000 Seiten sogenannter Konzepten ist.&#13;
-Dazu ist das Projekt ein sogenanntes Running Target mit regelmäßigen Updates der Spezifikationen. Diese werden entweder durch Änderungen der Stand der Technik, oder durch Wünsche von Seiten der Politik, meist durch Gesetzte, in das Projekt hereingetragen.&#13;
-&#13;
-[1] https://events.ccc.de/congress/2005/fahrplan/attachments/640-Gesundheitstelematik22C3v1.0.pdf</description>
+Dazu ist das Projekt ein sogenanntes Running Target mit regelmäßigen Updates der Spezifikationen. Diese werden entweder durch Änderungen der Stand der Technik, oder durch Wünsche von Seiten der Politik, meist durch Gesetzte, in das Projekt hereingetragen.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -16419,19 +16413,19 @@ Schauen wir mal, was wir so finden.</description>
         <type>lecture</type>
         <language>de</language>
         <abstract>So wie Farnpflanzen ihre Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren, auf dass sie dort auf fruchtbaren Boden fallen, werden unsere 8 Expert*innen ihr Nerd- und Fach-Wissen weitergeben – spektakulär, wirkungsvoll und unterhaltsam. So bunt wie die besten Slams, so dicht wie die besten Lightning Talks: 8 Antworten auf die Frage, warum Techies und Ökos zusammengehören.</abstract>
-        <description>Bei der Bits&amp;Bäume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und Lösungsansätze zu erklären, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste "Sporangium" hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. Für de C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?&#13;
+        <description>Bei der Bits&amp;Bäume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und Lösungsansätze zu erklären, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste „Sporangium“ hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. Für den C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?&#13;
 &#13;
 Speaker*innen:&#13;
-Anja Höfner – Das Märchen von der Dematerialisierung durch Technik&#13;
-Carina Haupt: Nachhaltige Softwareentwicklung (für weniger explodierende Raketen)&#13;
-B.B. Manifesti &amp; der Chor der Vermummten: Wir fordern! Das Bits&amp;Bäume-Manifest&#13;
-Isabella Hermann: Utopia Outer Space? Die Zukunft der Menschheit in Science-Fiction-Filmen&#13;
-joliyea – Raum für Wissen&#13;
-Kathrin Henneberger – Klimawandel?! Echt jetzt?!!!&#13;
-Lisa Passing: Ökostrom != Ökostrom. Down the green energy rabbit hole&#13;
-Viktor Schlüter: Datenschutz? Klimaschutz? Zukunft!&#13;
+* Anja Höfner – Das Märchen von der Dematerialisierung durch Technik &#13;
+* B.B. Manifesti &amp; der Chor der Vermummten: Wir fordern! Das Bits&amp;Bäume-Manifest &#13;
+* Carina Haupt: Nachhaltige Softwareentwicklung (für weniger explodierende Raketen) &#13;
+* Isabella Hermann: Utopia Outer Space? Die Zukunft der Menschheit in Science-Fiction-Filmen &#13;
+* joliyea – Raum für Wissen. Wo wir uns treffen, um die Welt zu retten &#13;
+* Kathrin Henneberger – Klimawandel?! Echt jetzt?!!! &#13;
+* Lisa Passing: Ökostrom != Ökostrom. Down the green energy rabbit hole &#13;
+* Viktor Schlüter: Datenschutz? Klimaschutz? Zukunft! &#13;
 &#13;
-Durchs Sporangium katapultieren wie immer julika &amp; Rainer</description>
+* Durchs Sporangium katapultieren wie immer julika &amp; Rainer</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -17172,14 +17166,10 @@ Proposal Agenda &#13;
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="9145">yann@NextGenQ.com</person>
+          <person id="9145">Yann ALLAIN</person>
         </persons>
-        <links>
-          <link href="https://cyberweek.ae/materials/D3%20TRACK%202%20-%20Build%20a%20Computer%20at%20Home%20-%20Hacker%20Style%20-%20Yann%20Allain.pdf">Link to my last talk on this subject in HITB abu dabi : Build a quantum computer @ home - Hacker style </link>
-        </links>
-        <attachments>
-          <attachment href="/system/event_attachments/attachments/000/003/906/original/D3_TRACK_2_-_Build_a_Computer_at_Home_-_Hacker_Style_-_Yann_Allain%281%29.pdf?1571984756">Build a quantum computer @ home - Hacker style </attachment>
-        </attachments>
+        <links/>
+        <attachments/>
       </event>
       <event id="10730" guid="d16de585-1439-4939-a309-7913c7d840a2">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10730.html</url>
@@ -17627,8 +17617,10 @@ Florina Speth (Zukunftsforscherin, Multiinstrumentalistin, Cellistin, Komponisti
         <track>Hardware &amp; Making</track>
         <type>lecture</type>
         <language>de</language>
-        <abstract>Seit 2018 betreibt Eventphone ein neues Telefonsystem auf den chaosnahen Events. Natürlich wird neue Soft- und Hardware sofort zum Forschungsgegenstand. Schnell gab es die üblichen Fragen: Wie funktioniert das genau? Ist das alles an Features? Kann man das updaten? Kann man nicht kompatible Geräte vielleicht kompatibel machen? Was kann man noch verbessern? Ist das Sicher? Und natürlich haben wir Antworten und möchten unser Wissen mit euch teilen. Es gibt einen Überblick über DECT, kaputte Crypto™ und was man mit Kreativität daraus machen kann. Unser Anspruch ist, dass wir es so erklären, dass alle Zuschauerinnen und Zuschauer ein bisschen mehr über DECT wissen und mindestens einmal gelacht haben.</abstract>
-        <description>Seit dem Easterhegg 2018 betreibt Eventphone das PoC (Phone Operation Center) mit neuer Hard- und Software. Wer ist Eventphone bzw. das PoC und was machen die? Neben vielen selbst entwickelten Komponenten nutzen wir eine DECT over IP Lösung des kanadischen Telekommunikationsunternehmens Mitel. Wir geben euch eine Architekturübersicht der neuen Anlage und sprechen über Antennen, Software sowie Lizenzierung. Nachdem wir die größten Probleme, die wir mit dem alten System hatten, vollständig gelöst haben schauten wir etwas genauer unter die Haube. Bei den ersten Analysen entdeckten wir einen unkritischen aber witzigen Fehler, den wir euch zeigen wollen. Unser primäres Ziel war es die Kompatibilität zu erhöhen, denn es gab einige Geräte die trotz DECT Standard nicht mit der Anlage funktionierten oder sich sehr sonderlich verhielten. Warum eigentlich? Wir fingen an die Kommunikation der Geräte zu analysieren und fanden heraus: Wer ein Byte verliert, hat acht Bit zu wenig. Es folgt: Eine DECT Anmeldung als Theaterstück. Aber halt! Ist das nicht alles verschlüsselt? Woher wisst ihr das? Es folgt: die Geschichte der Mitel Crypto und was daraus entstand: rfpproxy. Es folgt: Eine DECT Anmeldung mit rfpproxy als Theaterstück. Dann sammelten wir Metadaten und löschten sie wieder, mit Unterstützung der Feuerwehr. Und dann? Dann haben wir viel gespielt, analysiert und entwickelt. Weil die Zeit knapp ist zeigen wir euch 3 kleine Beispiele. Musik während des Telefonats über Vanity Number, die Akte AVM und Telefonbuchfunktionen. Am Ende geben wir euch Informationen zum Weitermachen sowie einen Ausblick. Außerdem wollen euch motivieren uns zu helfen. Wir hätten gern einen Wireshark Dissector. Stay connected!</description>
+        <abstract>Seit 2018 betreibt Eventphone ein neues Telefonsystem auf den chaosnahen Events. Natürlich wird neue Soft- und Hardware sofort zum Forschungsgegenstand. Schnell gab es die üblichen Fragen: Wie funktioniert das genau? Ist das alles an Features? Kann man das updaten? Kann man nicht kompatible Geräte vielleicht kompatibel machen? Was kann man noch verbessern? Ist das sicher?</abstract>
+        <description>Natürlich haben wir Antworten und möchten unser Wissen mit euch teilen. Es gibt einen Überblick über DECT, kaputte Crypto™ und was man mit Kreativität daraus machen kann. Unser Anspruch ist, dass wir es so erklären, dass alle Zuschauerinnen und Zuschauer ein bisschen mehr über DECT wissen und mindestens einmal gelacht haben.&#13;
+&#13;
+Seit dem Easterhegg 2018 betreibt Eventphone das PoC (Phone Operation Center) mit neuer Hard- und Software. Wer ist Eventphone bzw. das PoC und was machen die? Neben vielen selbst entwickelten Komponenten nutzen wir eine DECT-over-IP-Lösung des kanadischen Telekommunikationsunternehmens Mitel. Wir geben euch eine Architekturübersicht der neuen Anlage und sprechen über Antennen, Software sowie Lizenzierung. Nachdem wir die größten Probleme, die wir mit dem alten System hatten, vollständig gelöst haben, schauten wir etwas genauer unter die Haube. Bei den ersten Analysen entdeckten wir einen unkritischen, aber witzigen Fehler, den wir euch zeigen wollen. Unser primäres Ziel war es, die Kompatibilität zu erhöhen, denn es gab einige Geräte, die trotz DECT-Standard nicht mit der Anlage funktionierten oder sich sehr sonderlich verhielten. Warum eigentlich? Wir fingen an, die Kommunikation der Geräte zu analysieren, und fanden heraus: Wer ein Byte verliert, hat acht Bit zu wenig. Es folgt: eine DECT-Anmeldung als Theaterstück. Aber halt! Ist das nicht alles verschlüsselt? Woher wisst ihr das? Es folgt: die Geschichte der Mitel Crypto und was daraus entstand: rfpproxy. Es folgt: eine DECT-Anmeldung mit rfpproxy als Theaterstück. Dann sammelten wir Metadaten und löschten sie wieder, mit Unterstützung der Feuerwehr. Und dann? Dann haben wir viel gespielt, analysiert und entwickelt. Weil die Zeit knapp ist zeigen wir euch 3 kleine Beispiele. Musik während des Telefonats über Vanity Number, die Akte AVM und Telefonbuchfunktionen. Am Ende geben wir euch Informationen zum Weitermachen sowie einen Ausblick. Außerdem wollen euch motivieren uns zu helfen. Wir hätten gern einen Wireshark Dissector. Stay connected!</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -17641,8 +17633,8 @@ Florina Speth (Zukunftsforscherin, Multiinstrumentalistin, Cellistin, Komponisti
         <links>
           <link href="https://eventphone.de/blog/2018/12/30/eventphone-fruher-heute-morgen-vortrag-auf-dem-35c3/">Eventphone: früher, heute, morgen – Vortrag auf dem 35C3</link>
           <link href="https://media.ccc.de/v/eh19-179-das-neue-eventphone-poc-telefonsystem">Das neue Eventphone (PoC) Telefonsystem (Easterhegg 2019)</link>
-          <link href="https://eventphone.de/blog/2018/03/30/dect-anmeldung/">Die neue DECT Anmeldung</link>
-          <link href="https://eventphone.de/blog/2018/04/01/dect-deregistrierung-easterhegg-2018/">DECT Deregistrierung (Easterhegg 2018)</link>
+          <link href="https://eventphone.de/blog/2018/03/30/dect-anmeldung/">Die neue DECT-Anmeldung</link>
+          <link href="https://eventphone.de/blog/2018/04/01/dect-deregistrierung-easterhegg-2018/">DECT-Deregistrierung (Easterhegg 2018)</link>
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/867/original/Mitel-DECT.jpg?1571665830">Mitel DECT</attachment>
@@ -17901,8 +17893,8 @@ Did you ever wonder why programmers use hash functions without keys while crypto
         <persons>
           <person id="8644">Julian mikroBIOMIK.org</person>
           <person id="9735">Moritz Chollet</person>
-          <person id="9736">Hellmut von Koerber</person>
           <person id="9877">Malte Larsen</person>
+          <person id="7615">Maya Minder</person>
         </persons>
         <links>
           <link href="https://mikrobiomik.org/en/">mikroBIOMIK Society</link>
@@ -18046,51 +18038,6 @@ Wir versuchen auf der einen Seite offen für neue Mitstreiter*nnen zu sein, müs
           <link href="https://www.haecksen.org/">Haecksen</link>
           <link href="https://chaos-siegen.de/">Chaos Siegen</link>
         </links>
-        <attachments/>
-      </event>
-      <event id="10720" guid="24c6b9ca-d6f8-4e82-934d-4ea5dab47682">
-        <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10720.html</url>
-        <logo/>
-        <date>2019-12-29T21:50:00+01:00</date>
-        <start>21:50</start>
-        <duration>00:40</duration>
-        <room>Eliza</room>
-        <slug>36c3-10720-how_data-driven_technology_helps_the_expansion_of_solar_and_wind_energy_in_south_korea</slug>
-        <title>How Data-driven Technology Helps the Expansion of Solar and Wind Energy in South Korea</title>
-        <subtitle/>
-        <track>Resilience &amp; Sustainability</track>
-        <type>lecture</type>
-        <language>en</language>
-        <abstract>Different from conventional fossil fuel power of total predictability, the power generation of volatile renewable energy (e.g., wind and solar) is intermittent and largely dependent on the weather. Because a reliable electric supply is more essential to increase the mix of volatile renewable energy, the precise prediction of its generation a key to bring forward the energy transition.&#13;
-&#13;
-This talk will present experimental results of South Korean solar and wind power plants as a promising example of applying solar and wind power forecasting. These results will address the influence of rising environmental problems, such as micro-dusts and typhoons. A micro-dust (or fine dust, Asian dust) has been arisen as a disastrous issue in Asia due to the recent severe air pollution problems. Also the climate change has led to more frequent and stronger occurrences of typhoons in East Asia.&#13;
-</abstract>
-        <description>In order to push forward the energy transition to renewable energy, while ensuring the reliable supply of the electricity and the proper management of distributed energy resources, we must resolve the following problem: accurate forecasting of solar and wind power generation.&#13;
-&#13;
-Nevertheless this is a quite challenging task involving the prediction of meteorological variables (irradiance, cloud index, wind speed, pressure, temperature and more) and the simulation of power plants with taking shadows for solar, turbulence for wind, and the directions and land types of installments into account. The appropriate strategies for predicting those meteorological variables and conditions of power plants vary up to forecasting horizon also in&#13;
-terms of whether to use surface observation data, numerical weather prediction, or satellite data.&#13;
-&#13;
-In this talk, we will present cases of&#13;
-&#13;
-(1) developing a solar map in Korea;&#13;
-&#13;
-(2) applying solar power forecasting on Korean solar power plants;&#13;
-&#13;
-(3) applying wind power forecasting on wind power plants in Jeju, an island in Korea; and&#13;
-&#13;
-(4) analyzing the influence of micro-dusts and typhoons to solar energy generation in Korea.&#13;
-&#13;
-Both micro-dusts and typhoons have recently arisen as crucial issues due to the recent severe air pollution problem in Asia and the more frequent and stronger occurrences of typhoons as a result of the climate change. &#13;
-&#13;
-Along with the talk we would like to emphasize that the advancement of the current forecasting technology is the result of interdisciplinary research of many fascinating fields: from data assimilation based on meteorology and historical physical simulation to image analysis for satellite data based on the recent AI technology. This is only possible because a large part of those data is publicly available as open data. Open data and open source projects are playing a vital role in accelerating the further development of interdisciplinary collaboration, now that more data for surface observatories, meteorological predictions, satellites and power plants have become publicly available as well as related libraries for accessing satellite data and simulating power plants.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="9535">Heuna Kim</person>
-        </persons>
-        <links/>
         <attachments/>
       </event>
       <event id="11234" guid="06928e7a-4459-4b07-8752-6f9a7697cd8b">

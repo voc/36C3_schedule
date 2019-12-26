@@ -2,14 +2,14 @@
   "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10800.html",
   "id": 10800,
   "guid": "05930be8-d978-4499-ad35-6068d0575666",
-  "logo": null,
+  "logo": "/system/events/logos/000/010/800/large/megaphone.jpg?1577341577",
   "date": "2019-12-28T22:10:00+01:00",
   "start": "22:10",
   "duration": "01:00",
   "room": "Clarke",
   "slug": "36c3-10800-creating_resilient_and_sustainable_mobile_phones",
   "title": "Creating Resilient and Sustainable Mobile Phones",
-  "subtitle": "",
+  "subtitle": "Be prepared for the coming Digital Winter. And play Impossible Mission.",
   "track": "Resilience & Sustainability",
   "type": "lecture",
   "language": "en",
@@ -23,6 +23,19 @@
       "public_name": "Paul Gardner-Stephen"
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "url": "mega65.org",
+      "title": "MEGA65 Home Page"
+    },
+    {
+      "url": "c65blogspot.com.au",
+      "title": "MEGA65 Blog"
+    },
+    {
+      "url": "github.com/mega65/mega65-core",
+      "title": "MEGA65 Source Repository"
+    }
+  ],
   "attachments": []
 }

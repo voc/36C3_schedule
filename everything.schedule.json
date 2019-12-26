@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 18:30",
+    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 18:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -1043,8 +1043,8 @@
                 ],
                 "attachments": [
                   {
-                    "url": "/system/event_attachments/attachments/000/004/040/original/talk.pdf?1577310794",
-                    "title": "slides.2.pdf"
+                    "url": "/system/event_attachments/attachments/000/004/042/original/talk.pdf?1577351660",
+                    "title": "slides.3.pdf"
                   }
                 ]
               },
@@ -7669,19 +7669,19 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11086.html",
                 "id": 11086,
                 "guid": "3e0a51f5-f60a-4a90-a78a-3a311c6ffe41",
-                "logo": null,
+                "logo": "/system/events/logos/000/011/086/large/Signal_Blue_Icon.png?1577362494",
                 "date": "2019-12-28T16:10:00+01:00",
                 "start": "16:10",
                 "duration": "00:40",
                 "room": "Ada",
                 "slug": "36c3-11086-the_ecosystem_is_moving",
                 "title": "The ecosystem is moving",
-                "subtitle": "Challenges for distributed and decentralized technology",
+                "subtitle": "Challenges for distributed and decentralized technology from the perspective of Signal development",
                 "track": "Ethics, Society & Politics",
                 "type": "lecture",
                 "language": "en",
                 "abstract": "Considerations for distributed and decentralized technologies from the perspective of a product that many would like to see decentralize.",
-                "description": "Amongst an environment of enthusiasm for blockchain-based technologies, efforts to decentralize the internet, and tremendous investment in distributed systems, there has been relatively little product movement in this area from the mobile and consumer internet spaces.\r\n\r\nThis is an exploration of challenges for distributed technologies, as well as some considerations for what they do and don't provide, from the perspective of someone working on user-focused mobile communication.",
+                "description": "Amongst an environment of enthusiasm for blockchain-based technologies, efforts to decentralize the internet, and tremendous investment in distributed systems, there has been relatively little product movement in this area from the mobile and consumer internet spaces.\r\n\r\nThis is an exploration of challenges for distributed technologies, as well as some considerations for what they do and don't provide, from the perspective of someone working on user-focused mobile communication. This also includes a look at how Signal addresses some of the same problems that decentralized and distributed technologies hope to solve.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -8050,7 +8050,7 @@
                 "logo": null,
                 "date": "2019-12-28T18:10:00+01:00",
                 "start": "18:10",
-                "duration": "01:40",
+                "duration": "02:20",
                 "room": "Borg",
                 "slug": "36c3-11225-der_dezentrale_jahresruckblick_des_ccc",
                 "title": "Der dezentrale Jahresr\u00fcckblick des CCC",
@@ -9269,14 +9269,14 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10800.html",
                 "id": 10800,
                 "guid": "05930be8-d978-4499-ad35-6068d0575666",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/800/large/megaphone.jpg?1577341577",
                 "date": "2019-12-28T22:10:00+01:00",
                 "start": "22:10",
                 "duration": "01:00",
                 "room": "Clarke",
                 "slug": "36c3-10800-creating_resilient_and_sustainable_mobile_phones",
                 "title": "Creating Resilient and Sustainable Mobile Phones",
-                "subtitle": "",
+                "subtitle": "Be prepared for the coming Digital Winter. And play Impossible Mission.",
                 "track": "Resilience & Sustainability",
                 "type": "lecture",
                 "language": "en",
@@ -9290,7 +9290,20 @@
                     "public_name": "Paul Gardner-Stephen"
                   }
                 ],
-                "links": [],
+                "links": [
+                  {
+                    "url": "mega65.org",
+                    "title": "MEGA65 Home Page"
+                  },
+                  {
+                    "url": "c65blogspot.com.au",
+                    "title": "MEGA65 Blog"
+                  },
+                  {
+                    "url": "github.com/mega65/mega65-core",
+                    "title": "MEGA65 Source Repository"
+                  }
+                ],
                 "attachments": []
               },
               {
@@ -9440,7 +9453,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "F\u00fcr Sinti*zze und Roma*nja geh\u00f6ren Anfeindungen zum Alltag. Auch bei Ermittlungsbeh\u00f6rden stehen sie unter Generalverdacht: Es steht zu bef\u00fcrchten, dass die Polizei in unterschiedlichen Bundesl\u00e4ndern rechtswidrig Daten zu ethnischer Herkunft erhebt und ver\u00f6ffentlicht.\r\n\r\nWarum ist es so gef\u00e4hrlich, ethnische Herkunft in Polizeidatenbanken zu erfassen? Und was f\u00fcr Konsequenzen hat es, sie in Berichterstattung zu erw\u00e4hnen? Wann darf die Polizei \u00fcberhaupt Daten zu ethnischer Herkunft erheben? Und wann und mit welchen Methoden tut sie es vielleicht trotz Verbots? ",
-                "description": "F\u00fcr Sinti*zze und Roma*nja geh\u00f6ren auch in Deutschland Anfeindungen in allen Lebenslagen zum Alltag. Auch bei Ermittlungsbeh\u00f6rden stehen sie unter Generalverdacht: Es steht zu bef\u00fcrchten, dass die Polizei in unterschiedlichen Bundesl\u00e4ndern rechtswidrig Daten zu ethnischer Herkunft erhebt und ver\u00f6ffentlicht. In Pressemitteilungen der Polizei tauchen immer wieder Hinweise auf die ethnische Herkunft auf, vor allem bei Tatverd\u00e4chtigen, seltener bei Opfern oder Zeug*innen. Die Berliner Polizei hat in der Kriminalstatistik 2017 den Hinweis ver\u00f6ffentlicht, dass die Mehrheit der Tatverd\u00e4chtigen von \u201eTrickdiebstahl in Wohnungen\u201c Angeh\u00f6rige der Volksgruppe Sinti und Roma seien: Dass es rechtswidrig ist, wenn die Polizei die zugrunde liegenden Daten tats\u00e4chlich erhebt, ist unstreitig. \r\n\r\nIn Kooperation mit dem Zentralrat hat die Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) im Fall der Berliner Polizeikriminalstatistik bei der Berliner Landesdatenschutzbeauftragten ein Beschwerdeverfahren wegen des Verdachts auf Diskriminierung von Sinti*zze und Roma*nja lanciert. Beide Organisationen pr\u00fcfen gemeinsam weitere rechtliche M\u00f6glichkeiten.\r\n\r\nWarum ist es so gef\u00e4hrlich, ethnische Herkunft in Polizeidatenbanken zu erfassen? Und was f\u00fcr Konsequenzen hat es, sie in Berichterstattung zu erw\u00e4hnen? Wann darf die Polizei \u00fcberhaupt Daten zu ethnischer Herkunft erheben? Und wann tut sie es vielleicht trotz Verbots? Und mit welchen Methoden erhebt die Polizei \u00fcberhaupt die ethnische Herkunft? \r\n\r\nDie Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) und der Zentralrat Deutscher Sinti und Roma wollen diese Fragen gemeinsam mit dem Publikum diskutieren. \r\n\r\nAnja Reuss ist Politische Referentin des Zentralrats Deutscher Sinti und Roma, der politischen Interessenvertretung der deutschen Sinti und Roma mit Sitz in Heidelberg. Als Dachverband setzt sich der Zentralrat auf nationaler und internationaler Ebene f\u00fcr eine gleichberechtigte Teilhabe von Sinti und Roma in Politik und Gesellschaft sowie f\u00fcr die Auseinandersetzung mit und Bek\u00e4mpfung von Antiziganismus ein.\r\n\r\nLea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF). Die GFF ist eine NGO, die durch strategische Prozesse Grund- und Menschenrechte st\u00e4rkt und zivilgesellschaftlichen Partnerorganisationen rechtlich unterst\u00fctzt. In ihren Verfahren setzt sich die GFF dabei immer wieder kritisch mit polizeilichen Ermittlungsbefugnissen auseinander, sei dies im Zusammenhang mit dem Einsatz von Sp\u00e4h-Software oder bei der Datenerhebung. \r\n\r\nZentralrat Deutscher Sinti und Roma, Informationen zum Thema:\r\nhttps://zentralrat.sintiundroma.de/themenseite-dna/\r\n\r\nhttps://zentralrat.sintiundroma.de/diskriminierung-von-sinti-und-roma-ein-senator-seine-polizisten-und-86-trickdiebe/\r\n \r\nMarkus End (2019): Antiziganismus und Polizei, https://zentralrat.sintiundroma.de/download/9262\r\n\r\n",
+                "description": "F\u00fcr Sinti*zze und Roma*nja geh\u00f6ren auch in Deutschland Anfeindungen in allen Lebenslagen zum Alltag. Auch bei Ermittlungsbeh\u00f6rden stehen sie unter Generalverdacht: Es steht zu bef\u00fcrchten, dass die Polizei in unterschiedlichen Bundesl\u00e4ndern rechtswidrig Daten zu ethnischer Herkunft erhebt und ver\u00f6ffentlicht. In Pressemitteilungen der Polizei tauchen immer wieder Hinweise auf die ethnische Herkunft auf, vor allem bei Tatverd\u00e4chtigen, seltener bei Opfern oder Zeug*innen. Die Berliner Polizei hat in der Kriminalstatistik 2017 den Hinweis ver\u00f6ffentlicht, dass die Mehrheit der Tatverd\u00e4chtigen von \u201eTrickdiebstahl in Wohnungen\u201c Angeh\u00f6rige der Volksgruppe Sinti und Roma seien: Dass es rechtswidrig ist, wenn die Polizei die zugrunde liegenden Daten tats\u00e4chlich erhebt, ist unstreitig. \r\n\r\nIn Kooperation mit dem Zentralrat hat die Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) im Fall der Berliner Polizeikriminalstatistik bei der Berliner Landesdatenschutzbeauftragten ein Beschwerdeverfahren wegen des Verdachts auf Diskriminierung von Sinti*zze und Roma*nja lanciert. Beide Organisationen pr\u00fcfen gemeinsam weitere rechtliche M\u00f6glichkeiten.\r\n\r\nWarum ist es so gef\u00e4hrlich, ethnische Herkunft in Polizeidatenbanken zu erfassen? Und was f\u00fcr Konsequenzen hat es, sie in Berichterstattung zu erw\u00e4hnen? Wann darf die Polizei \u00fcberhaupt Daten zu ethnischer Herkunft erheben? Und wann tut sie es vielleicht trotz Verbots? Und mit welchen Methoden erhebt die Polizei \u00fcberhaupt die ethnische Herkunft? \r\n\r\nDie Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF) und der Zentralrat Deutscher Sinti und Roma wollen diese Fragen gemeinsam mit dem Publikum diskutieren. \r\n\r\nAnja Reuss ist Politische Referentin des Zentralrats Deutscher Sinti und Roma, der politischen Interessenvertretung der deutschen Sinti und Roma mit Sitz in Heidelberg. Als Dachverband setzt sich der Zentralrat auf nationaler und internationaler Ebene f\u00fcr eine gleichberechtigte Teilhabe von Sinti und Roma in Politik und Gesellschaft sowie f\u00fcr die Auseinandersetzung mit und Bek\u00e4mpfung von Antiziganismus ein.\r\n\r\nLea Beckmann ist Juristin und Verfahrenskoordinatorin der Gesellschaft f\u00fcr Freiheitsrechte e.V. (GFF). Die GFF ist eine NGO, die durch strategische Prozesse Grund- und Menschenrechte st\u00e4rkt und zivilgesellschaftlichen Partnerorganisationen rechtlich unterst\u00fctzt. In ihren Verfahren setzt sich die GFF dabei immer wieder kritisch mit polizeilichen Ermittlungsbefugnissen auseinander, sei dies im Zusammenhang mit dem Einsatz von Sp\u00e4h-Software oder bei der Datenerhebung. \r\n",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -17903,8 +17916,8 @@
                 "start": "14:10",
                 "duration": "01:00",
                 "room": "Ada",
-                "slug": "36c3-10541-gefluchtete_schmuggeln_kohlelobby_unterwandern_passe_falschen",
-                "title": "Gefl\u00fcchtete schmuggeln, Kohlelobby unterwandern, P\u00e4sse f\u00e4lschen",
+                "slug": "36c3-10541-hacking_the_media_gefluchtete_schmuggeln_nazis_torten_passe_falschen",
+                "title": "Hacking the Media: Gefl\u00fcchtete schmuggeln, Nazis torten, P\u00e4sse f\u00e4lschen",
                 "subtitle": "Warum wir zivilen Ungehorsam und Subversion mehr brauchen denn je",
                 "track": "Ethics, Society & Politics",
                 "type": "lecture",
@@ -17916,7 +17929,7 @@
                 "persons": [
                   {
                     "id": 9216,
-                    "public_name": "Jean Peters"
+                    "public_name": "Conny Runner"
                   },
                   {
                     "id": 9889,
@@ -18104,7 +18117,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "Seit sp\u00e4testens 2005 wird in Deutschland an der Einf\u00fchrung der Telematik Infrastruktur, kurz die TI, gearbeitet. Diese soll nicht weniger als die komplette Digitalisierung der deutschen Medizinbranche bedeuten. Vom Arzt, Krankenhaus, Psychotherapeut bis hin zum Apotheker sollen alle Heilberufler miteinander vernetzt werden. Der Patient soll dabei die Datenhoheit behalten, und seine Daten mittels elektronischer Gesundheitskarte, sowie alternativ per mobiler Smartphone App steuern.",
-                "description": "Mit Gr\u00fcndung der Gematik GmbH am 11. Januar 2005 begann die offizielle Entwicklung der Telematik-Infrastruktur (TI). Ziel war die Einf\u00fchrung einer elektronischen Gesundheitskarte mitsamt einer Infrastruktur, die langfristig alle Teilnehmer der Medizinischen Versorgung miteinander vernetzen sollte.\r\nDer Arzt speichert alle Befunde samt R\u00f6ntgen Bilder in der elektronischen Patientenakte (ePA) ab, kommuniziert verschl\u00fcsselt mit anderen \u00c4rzten \u00fcber die \u201eSichere Kommunikation zwischen Leistungserbringer\u201c (KOM-LE), der Medikationsplan ist digital verf\u00fcgbar (eMP), das Rezept wird beim Apotheker digital eingel\u00f6st (E-Rezept) und im Notfall sind relevante Gesundheitsdaten (NFDM) auf der elektronischen Gesundheitskarte (eGK) des Patienten abgespeichert. So soll der digitale Arztbesuch der Zukunft aussehen.\r\nAllerdings ist nach 15 Jahren Entwicklung und 1,5 Milliarden Euro Investitionen nur ein Dienst der TI online, das Versichertenstammdatenmanagement (VSDM). Damit k\u00f6nnen die Stammdaten des Patienten, bspw. Adresse und Krankenkasse online beim Arzt aktualisiert werden, ohne Austausch der elektronischen Gesundheitskarte.\r\nNachdem dieser Dienst nun eingef\u00fchrt wurde sollen zeitnah die n\u00e4chsten oben aufgef\u00fchrten Dienste online gehen. Die Spezifikationen, Zulassungsunterlagen sowie Feldtestkonzepte f\u00fcr diese Dienste sind daf\u00fcr weitestgehend fertig.\r\nParallel zu der von der Politik und Gematik getriebenen Entwicklung setzten sich technik-affine Personen wie bspw. Thomas Maus [1] mit der Technik auseinander und zeigten viele Probleme und ungel\u00f6ste Fragestellungen. Nachdem die TI nun gr\u00f6\u00dftenteils online ist und die ersten Dienste in der Praxis genutzt werden ist es an der Zeit sich die konkrete Umsetzung anzuschauen, zu evaluieren und bei Bedarf entsprechend zu verbessern.\r\n\r\nDieser Vortrag soll einen aktuellen \u00dcberblick auf die Telematikinfrastruktur geben. Es werden die bestehenden Dienste (VSDSM) sowie die schon spezifizierten Dienste wie KOM-LE oder ePA vorgestellt. Insbesondere wird auf die Sicherheit der verschiedenen Systeme eingegangen. Die Schutzziele sowie die spezifizierten Methoden um diese Ziele zu erreichen werden dargestellt und grob analysiert. \r\nDabei zeigt sich dass die TI vor allem ein sehr komplexes System mit aktuell \u00fcber 7500 Seiten Spezifikationen und mehr als 1000 Seiten sogenannter Konzepten ist.\r\nDazu ist das Projekt ein sogenanntes Running Target mit regelm\u00e4\u00dfigen Updates der Spezifikationen. Diese werden entweder durch \u00c4nderungen der Stand der Technik, oder durch W\u00fcnsche von Seiten der Politik, meist durch Gesetzte, in das Projekt hereingetragen.\r\n\r\n[1] https://events.ccc.de/congress/2005/fahrplan/attachments/640-Gesundheitstelematik22C3v1.0.pdf",
+                "description": "Mit Gr\u00fcndung der Gematik GmbH am 11. Januar 2005 begann die offizielle Entwicklung der Telematik-Infrastruktur (TI). Ziel war die Einf\u00fchrung einer elektronischen Gesundheitskarte mitsamt einer Infrastruktur, die langfristig alle Teilnehmer der Medizinischen Versorgung miteinander vernetzen sollte.\r\nDer Arzt speichert alle Befunde samt R\u00f6ntgen Bilder in der elektronischen Patientenakte (ePA) ab, kommuniziert verschl\u00fcsselt mit anderen \u00c4rzten \u00fcber die \u201eSichere Kommunikation zwischen Leistungserbringer\u201c (KOM-LE), der Medikationsplan ist digital verf\u00fcgbar (eMP), das Rezept wird beim Apotheker digital eingel\u00f6st (E-Rezept) und im Notfall sind relevante Gesundheitsdaten (NFDM) auf der elektronischen Gesundheitskarte (eGK) des Patienten abgespeichert. So soll der digitale Arztbesuch der Zukunft aussehen.\r\nAllerdings ist nach 15 Jahren Entwicklung und 2 Milliarden Euro Investitionen nur ein Dienst der TI online, das Versichertenstammdatenmanagement (VSDM). Damit k\u00f6nnen die Stammdaten des Patienten, bspw. Adresse und Krankenkasse online beim Arzt aktualisiert werden, ohne Austausch der elektronischen Gesundheitskarte.\r\nNachdem dieser Dienst nun eingef\u00fchrt wurde sollen zeitnah die n\u00e4chsten oben aufgef\u00fchrten Dienste online gehen. Die Spezifikationen, Zulassungsunterlagen sowie Feldtestkonzepte f\u00fcr diese Dienste sind daf\u00fcr weitestgehend fertig.\r\nParallel zu der von der Politik und Gematik getriebenen Entwicklung setzten sich technik-affine Personen wie bspw. Thomas Maus mit der Technik auseinander und zeigten viele Probleme und ungel\u00f6ste Fragestellungen. Nachdem die TI nun gr\u00f6\u00dftenteils online ist und die ersten Dienste in der Praxis genutzt werden ist es an der Zeit sich die konkrete Umsetzung anzuschauen, zu evaluieren und bei Bedarf entsprechend zu verbessern.\r\n\r\nDieser Vortrag soll einen aktuellen \u00dcberblick auf die Telematikinfrastruktur geben. Es werden die bestehenden Dienste (VSDSM) sowie die schon spezifizierten Dienste wie KOM-LE oder ePA vorgestellt. Insbesondere wird auf die Sicherheit der verschiedenen Systeme eingegangen. Die Schutzziele sowie die spezifizierten Methoden um diese Ziele zu erreichen werden dargestellt und grob analysiert. \r\nDabei zeigt sich dass die TI vor allem ein sehr komplexes System mit aktuell \u00fcber 7500 Seiten Spezifikationen und mehr als 1000 Seiten sogenannter Konzepten ist.\r\nDazu ist das Projekt ein sogenanntes Running Target mit regelm\u00e4\u00dfigen Updates der Spezifikationen. Diese werden entweder durch \u00c4nderungen der Stand der Technik, oder durch W\u00fcnsche von Seiten der Politik, meist durch Gesetzte, in das Projekt hereingetragen.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -18434,7 +18447,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "So wie Farnpflanzen ihre Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren, auf dass sie dort auf fruchtbaren Boden fallen, werden unsere 8 Expert*innen ihr Nerd- und Fach-Wissen weitergeben \u2013 spektakul\u00e4r, wirkungsvoll und unterhaltsam. So bunt wie die besten Slams, so dicht wie die besten Lightning Talks: 8 Antworten auf die Frage, warum Techies und \u00d6kos zusammengeh\u00f6ren.",
-                "description": "Bei der Bits&B\u00e4ume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und L\u00f6sungsans\u00e4tze zu erkl\u00e4ren, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste \"Sporangium\" hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. F\u00fcr de C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?\r\n\r\nSpeaker*innen:\r\nAnja H\u00f6fner \u2013 Das M\u00e4rchen von der Dematerialisierung durch Technik\r\nCarina Haupt: Nachhaltige Softwareentwicklung (f\u00fcr weniger explodierende Raketen)\r\nB.B. Manifesti & der Chor der Vermummten: Wir fordern! Das Bits&B\u00e4ume-Manifest\r\nIsabella Hermann: Utopia Outer Space? Die Zukunft der Menschheit in Science-Fiction-Filmen\r\njoliyea \u2013 Raum f\u00fcr Wissen\r\nKathrin Henneberger \u2013 Klimawandel?! Echt jetzt?!!!\r\nLisa Passing: \u00d6kostrom != \u00d6kostrom. Down the green energy rabbit hole\r\nViktor Schl\u00fcter: Datenschutz? Klimaschutz? Zukunft!\r\n\r\nDurchs Sporangium katapultieren wie immer julika & Rainer",
+                "description": "Bei der Bits&B\u00e4ume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und L\u00f6sungsans\u00e4tze zu erkl\u00e4ren, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste \u201eSporangium\u201c hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. F\u00fcr den C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?\r\n\r\nSpeaker*innen:\r\n* Anja H\u00f6fner \u2013 Das M\u00e4rchen von der Dematerialisierung durch Technik \r\n* B.B. Manifesti & der Chor der Vermummten: Wir fordern! Das Bits&B\u00e4ume-Manifest \r\n* Carina Haupt: Nachhaltige Softwareentwicklung (f\u00fcr weniger explodierende Raketen) \r\n* Isabella Hermann: Utopia Outer Space? Die Zukunft der Menschheit in Science-Fiction-Filmen \r\n* joliyea \u2013 Raum f\u00fcr Wissen. Wo wir uns treffen, um die Welt zu retten \r\n* Kathrin Henneberger \u2013 Klimawandel?! Echt jetzt?!!! \r\n* Lisa Passing: \u00d6kostrom != \u00d6kostrom. Down the green energy rabbit hole \r\n* Viktor Schl\u00fcter: Datenschutz? Klimaschutz? Zukunft! \r\n\r\n* Durchs Sporangium katapultieren wie immer julika & Rainer",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -19304,21 +19317,11 @@
                 "persons": [
                   {
                     "id": 9145,
-                    "public_name": "yann@NextGenQ.com"
+                    "public_name": "Yann ALLAIN"
                   }
                 ],
-                "links": [
-                  {
-                    "url": "https://cyberweek.ae/materials/D3%20TRACK%202%20-%20Build%20a%20Computer%20at%20Home%20-%20Hacker%20Style%20-%20Yann%20Allain.pdf",
-                    "title": "Link to my last talk on this subject in HITB abu dabi : Build a quantum computer @ home - Hacker style "
-                  }
-                ],
-                "attachments": [
-                  {
-                    "url": "/system/event_attachments/attachments/000/003/906/original/D3_TRACK_2_-_Build_a_Computer_at_Home_-_Hacker_Style_-_Yann_Allain%281%29.pdf?1571984756",
-                    "title": "Build a quantum computer @ home - Hacker style "
-                  }
-                ]
+                "links": [],
+                "attachments": []
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10730.html",
@@ -19768,8 +19771,8 @@
                 "track": "Hardware & Making",
                 "type": "lecture",
                 "language": "de",
-                "abstract": "Seit 2018 betreibt Eventphone ein\u00a0neues Telefonsystem auf den chaosnahen Events. Nat\u00fcrlich wird neue Soft- und Hardware sofort zum Forschungsgegenstand. Schnell gab es die \u00fcblichen Fragen: Wie funktioniert das genau? Ist das alles an Features? Kann man das updaten? Kann man nicht kompatible Ger\u00e4te vielleicht kompatibel machen? Was kann man noch verbessern? Ist das Sicher? Und nat\u00fcrlich haben wir Antworten und m\u00f6chten unser Wissen mit euch teilen. Es gibt einen \u00dcberblick \u00fcber DECT, kaputte Crypto\u2122 und was man mit Kreativit\u00e4t daraus machen kann. Unser Anspruch ist, dass wir es so erkl\u00e4ren, dass alle Zuschauerinnen und Zuschauer ein bisschen mehr \u00fcber DECT wissen und mindestens einmal gelacht haben.",
-                "description": "Seit dem Easterhegg 2018 betreibt Eventphone das PoC (Phone Operation Center) mit neuer Hard- und Software. Wer ist Eventphone bzw. das PoC und was machen die? Neben vielen selbst entwickelten Komponenten nutzen wir eine DECT over IP L\u00f6sung des\u00a0kanadischen Telekommunikationsunternehmens Mitel. Wir geben euch eine Architektur\u00fcbersicht der neuen Anlage und sprechen \u00fcber Antennen, Software sowie Lizenzierung. Nachdem wir die\u00a0gr\u00f6\u00dften Probleme, die wir mit dem alten System hatten, vollst\u00e4ndig gel\u00f6st haben schauten wir etwas genauer unter die Haube. Bei den ersten Analysen entdeckten wir einen unkritischen aber witzigen Fehler, den wir euch zeigen wollen. Unser prim\u00e4res Ziel war es die Kompatibilit\u00e4t zu erh\u00f6hen, denn es gab einige Ger\u00e4te die trotz DECT Standard nicht mit der Anlage funktionierten oder sich sehr sonderlich verhielten. Warum eigentlich? Wir fingen an die Kommunikation der Ger\u00e4te zu analysieren und fanden heraus:\u00a0Wer ein Byte verliert, hat acht Bit zu wenig. Es folgt: Eine DECT Anmeldung als Theaterst\u00fcck. Aber halt! Ist das nicht alles verschl\u00fcsselt? Woher wisst ihr das? Es folgt: die\u00a0Geschichte der Mitel Crypto und was daraus entstand:\u00a0rfpproxy. Es folgt: Eine DECT Anmeldung mit rfpproxy als Theaterst\u00fcck. Dann sammelten wir\u00a0Metadaten und l\u00f6schten sie wieder, mit Unterst\u00fctzung der Feuerwehr. Und dann? Dann haben wir viel gespielt, analysiert und entwickelt. Weil die Zeit knapp ist zeigen wir euch 3 kleine Beispiele. Musik w\u00e4hrend des Telefonats \u00fcber Vanity Number, die Akte AVM und\u00a0Telefonbuchfunktionen. Am Ende geben wir euch Informationen zum Weitermachen sowie einen Ausblick. Au\u00dferdem\u00a0wollen euch motivieren uns zu helfen. Wir h\u00e4tten gern einen Wireshark Dissector.\u00a0Stay connected!",
+                "abstract": "Seit 2018 betreibt Eventphone ein\u00a0neues Telefonsystem auf den chaosnahen Events. Nat\u00fcrlich wird neue Soft- und Hardware sofort zum Forschungsgegenstand. Schnell gab es die \u00fcblichen Fragen: Wie funktioniert das genau? Ist das alles an Features? Kann man das updaten? Kann man nicht kompatible Ger\u00e4te vielleicht kompatibel machen? Was kann man noch verbessern? Ist das sicher?",
+                "description": "Nat\u00fcrlich haben wir Antworten und m\u00f6chten unser Wissen mit euch teilen. Es gibt einen \u00dcberblick \u00fcber DECT, kaputte Crypto\u2122 und was man mit Kreativit\u00e4t daraus machen kann. Unser Anspruch ist, dass wir es so erkl\u00e4ren, dass alle Zuschauerinnen und Zuschauer ein bisschen mehr \u00fcber DECT wissen und mindestens einmal gelacht haben.\r\n\r\nSeit dem Easterhegg 2018 betreibt Eventphone das PoC (Phone Operation Center) mit neuer Hard- und Software. Wer ist Eventphone bzw. das PoC und was machen die? Neben vielen selbst entwickelten Komponenten nutzen wir eine DECT-over-IP-L\u00f6sung des\u00a0kanadischen Telekommunikationsunternehmens Mitel. Wir geben euch eine Architektur\u00fcbersicht der neuen Anlage und sprechen \u00fcber Antennen, Software sowie Lizenzierung. Nachdem wir die\u00a0gr\u00f6\u00dften Probleme, die wir mit dem alten System hatten, vollst\u00e4ndig gel\u00f6st haben, schauten wir etwas genauer unter die Haube. Bei den ersten Analysen entdeckten wir einen unkritischen, aber witzigen Fehler, den wir euch zeigen wollen. Unser prim\u00e4res Ziel war es, die Kompatibilit\u00e4t zu erh\u00f6hen, denn es gab einige Ger\u00e4te, die trotz DECT-Standard nicht mit der Anlage funktionierten oder sich sehr sonderlich verhielten. Warum eigentlich? Wir fingen an, die Kommunikation der Ger\u00e4te zu analysieren, und fanden heraus:\u00a0Wer ein Byte verliert, hat acht Bit zu wenig. Es folgt: eine DECT-Anmeldung als Theaterst\u00fcck. Aber halt! Ist das nicht alles verschl\u00fcsselt? Woher wisst ihr das? Es folgt: die\u00a0Geschichte der Mitel Crypto und was daraus entstand:\u00a0rfpproxy. Es folgt: eine DECT-Anmeldung mit rfpproxy als Theaterst\u00fcck. Dann sammelten wir\u00a0Metadaten und l\u00f6schten sie wieder, mit Unterst\u00fctzung der Feuerwehr. Und dann? Dann haben wir viel gespielt, analysiert und entwickelt. Weil die Zeit knapp ist zeigen wir euch 3 kleine Beispiele. Musik w\u00e4hrend des Telefonats \u00fcber Vanity Number, die Akte AVM und\u00a0Telefonbuchfunktionen. Am Ende geben wir euch Informationen zum Weitermachen sowie einen Ausblick. Au\u00dferdem\u00a0wollen euch motivieren uns zu helfen. Wir h\u00e4tten gern einen Wireshark Dissector.\u00a0Stay connected!",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -19797,11 +19800,11 @@
                   },
                   {
                     "url": "https://eventphone.de/blog/2018/03/30/dect-anmeldung/",
-                    "title": "Die neue DECT Anmeldung"
+                    "title": "Die neue DECT-Anmeldung"
                   },
                   {
                     "url": "https://eventphone.de/blog/2018/04/01/dect-deregistrierung-easterhegg-2018/",
-                    "title": "DECT Deregistrierung (Easterhegg 2018)"
+                    "title": "DECT-Deregistrierung (Easterhegg 2018)"
                   }
                 ],
                 "attachments": [
@@ -20091,12 +20094,12 @@
                     "public_name": "Moritz Chollet"
                   },
                   {
-                    "id": 9736,
-                    "public_name": "Hellmut von Koerber"
-                  },
-                  {
                     "id": 9877,
                     "public_name": "Malte Larsen"
+                  },
+                  {
+                    "id": 7615,
+                    "public_name": "Maya Minder"
                   }
                 ],
                 "links": [
@@ -20276,34 +20279,6 @@
                     "title": "Chaos Siegen"
                   }
                 ],
-                "attachments": []
-              },
-              {
-                "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10720.html",
-                "id": 10720,
-                "guid": "24c6b9ca-d6f8-4e82-934d-4ea5dab47682",
-                "logo": null,
-                "date": "2019-12-29T21:50:00+01:00",
-                "start": "21:50",
-                "duration": "00:40",
-                "room": "Eliza",
-                "slug": "36c3-10720-how_data-driven_technology_helps_the_expansion_of_solar_and_wind_energy_in_south_korea",
-                "title": "How Data-driven Technology Helps the Expansion of Solar and Wind Energy in South Korea",
-                "subtitle": "",
-                "track": "Resilience & Sustainability",
-                "type": "lecture",
-                "language": "en",
-                "abstract": "Different from conventional fossil fuel power of total predictability, the power generation of volatile renewable energy (e.g., wind and solar) is intermittent and largely dependent on the weather. Because a reliable electric supply is more essential to increase the mix of volatile renewable energy, the precise prediction of its generation a key to bring forward the energy transition.\r\n\r\nThis talk will present experimental results of South Korean solar and wind power plants as a promising example of applying solar and wind power forecasting. These results will address the influence of rising environmental problems, such as micro-dusts and typhoons. A micro-dust (or fine dust, Asian dust) has been arisen as a disastrous issue in Asia due to the recent severe air pollution problems. Also the climate change has led to more frequent and stronger occurrences of typhoons in East Asia.\r\n",
-                "description": "In order to push forward the energy transition to renewable energy, while ensuring the reliable supply of the electricity and the proper management of distributed energy resources, we must resolve the following problem: accurate forecasting of solar and wind power generation.\r\n\r\nNevertheless this is a quite challenging task involving the prediction of meteorological variables (irradiance, cloud index, wind speed, pressure, temperature and more) and the simulation of power plants with taking shadows for solar, turbulence for wind, and the directions and land types of installments into account. The appropriate strategies for predicting those meteorological variables and conditions of power plants vary up to forecasting horizon also in\r\nterms of whether to use surface observation data, numerical weather prediction, or satellite data.\r\n\r\nIn this talk, we will present cases of\r\n\r\n(1) developing a solar map in Korea;\r\n\r\n(2) applying solar power forecasting on Korean solar power plants;\r\n\r\n(3) applying wind power forecasting on wind power plants in Jeju, an island in Korea; and\r\n\r\n(4) analyzing the influence of micro-dusts and typhoons to solar energy generation in Korea.\r\n\r\nBoth micro-dusts and typhoons have recently arisen as crucial issues due to the recent severe air pollution problem in Asia and the more frequent and stronger occurrences of typhoons as a result of the climate change. \r\n\r\nAlong with the talk we would like to emphasize that the advancement of the current forecasting technology is the result of interdisciplinary research of many fascinating fields: from data assimilation based on meteorology and historical physical simulation to image analysis for satellite data based on the recent AI technology. This is only possible because a large part of those data is publicly available as open data. Open data and open source projects are playing a vital role in accelerating the further development of interdisciplinary collaboration, now that more data for surface observatories, meteorological predictions, satellites and power plants have become publicly available as well as related libraries for accessing satellite data and simulating power plants.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 9535,
-                    "public_name": "Heuna Kim"
-                  }
-                ],
-                "links": [],
                 "attachments": []
               },
               {

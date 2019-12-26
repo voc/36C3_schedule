@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-26 14:20</version>
+  <version>2019-12-26 14:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1002,6 +1002,29 @@ If you are interested in learning the first steps towards bondage / techniques f
         </persons>
         <links>
           <link>https://kinkygeeks.de</link>
+        </links>
+      </event>
+      <event id="1441" guid="4f942379-c1a1-4f64-8e49-8d48d1c5645b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Queeres-Nerd-Treffen</url>
+        <logo/>
+        <date>2019-12-27T12:45:00+01:00</date>
+        <start>12:45</start>
+        <duration>1:00</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1441-session_queeres_nerd_treffen</slug>
+        <title>Queeres-Nerd-Treffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meetup für Queere Menschen
+Kennenlern-Speed-Dating und gemütliches Zusammensein für Queere und Queer-Freundliche Menschen. Offen für alle.</description>
+        <persons>
+          <person id="0">Firstdorsal</person>
+        </persons>
+        <links>
+          <link>https://queer-augsburg.de</link>
         </links>
       </event>
     </room>
@@ -2561,7 +2584,7 @@ In this session we will share a method for generating insight using network anal
         <room>Seminar room 14-15</room>
         <slug>36c3-1278-session_wissen_vs_macht</slug>
         <title>Wissen vs. Macht</title>
-        <subtitle/>
+        <subtitle>Talk + Discussion</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>de</language>
@@ -4672,6 +4695,31 @@ We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, 
           <person id="0">Haurane</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Headnut">
+      <event id="1348" guid="d8f55bbc-15b6-4af9-9039-abdad0b1bd10">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fahrr%C3%A4der_zeichnen_und_analysieren</url>
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>0:25</duration>
+        <room>Headnut</room>
+        <slug>36c3-1348-session_fahrraeder_zeichnen_und_analysieren</slug>
+        <title>Fahrräder zeichnen und analysieren</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Fahrräder zeichnen und analysieren
+Hier kannst du ein Fahrrad zeichnen, das wir danach gemeinsam analysieren.Für diese Session brauchst du weder zeichenen können, noch lernst du hier wie man zeichnet!Fahrräder zeichnen ist einfach, deswegen kannst du hier eins zeichnen.</description>
+        <persons>
+          <person id="0">Ruru4143</person>
+        </persons>
+        <links>
+          <link>https://talks.komona.org/36c3/talk/XBRFTV/</link>
+        </links>
       </event>
     </room>
     <room name="Assembly:Nibble Area">

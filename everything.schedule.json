@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; wiki 2019-12-26 03:40",
+    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; wiki 2019-12-26 03:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -4580,6 +4580,319 @@
                     "code": "RE9MSE",
                     "public_name": "Lucas Werkmeister",
                     "biography": "Software developer at Wikimedia Germany and all-time Wikidata enthusiast.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "ChaosZone B\u00fchne": [
+              {
+                "id": 748,
+                "guid": "c5e0ea5b-5b6d-5874-8884-56d653b3dfe1",
+                "logo": "",
+                "date": "2019-12-27T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "00:30",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "UCNA7W",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/UCNA7W/",
+                "title": "Chaoszone Opening Event",
+                "subtitle": "",
+                "track": "CCC",
+                "type": "Vortrag 30 min (incl. Q&A)",
+                "language": "de",
+                "abstract": "Opening celebration of the 3rd Chaoszone@c3 incuding important organizational hints, tips and rules for our assemly.",
+                "description": "Please take care that at least one person of your group is attending the opening event, as we have some really important information for you.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 1,
+                    "code": "KKKGUV",
+                    "public_name": "nilo",
+                    "biography": "",
+                    "answers": []
+                  },
+                  {
+                    "id": 4,
+                    "code": "MENZ9J",
+                    "public_name": "bigalex",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 736,
+                "guid": "791fd76f-3515-59e5-b342-dc3dafabb694",
+                "logo": "/media/36c3/images/V83NXN/Thumbnail-light.png",
+                "date": "2019-12-27T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:30",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "V83NXN",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/V83NXN/",
+                "title": "Kodi media player - Insights into a large non-profit open source project",
+                "subtitle": "",
+                "track": null,
+                "type": "Vortrag 30 min (incl. Q&A)",
+                "language": "en",
+                "abstract": "Kodi (formerly XBMC) is a free and open source media player application, with a user base stretched across a plethora of platforms. This talk focuses on some of the challenges of the project.",
+                "description": "With a consumer/enthusiast facing software, multiple challenges arise. The scope of expertise needed by Kodi is broad. \r\n\r\nMaintaining the forum and social media accounts is a huge task because of the sheer number of users. Servers have to be capable to handle the requests, caused by downloads, forum access and the add-on system of Kodi. Software developers have to cover a wide spectrum of tasks are needed to maintain and improve the media player.\r\n\r\nA part of the talk will be dedicated to writing Python add-ons (extensions) for Kodi, to enhance the functionality of the software.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 47,
+                    "code": "ARG387",
+                    "public_name": "sarbes",
+                    "biography": "Team Kodi member\r\nPython developer",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 730,
+                "guid": "8c9ec0e8-0e23-555d-92f3-1896d4612b6a",
+                "logo": "",
+                "date": "2019-12-27T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "00:30",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "8QBQZP",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/8QBQZP/",
+                "title": "Numerisches Python in der Physik",
+                "subtitle": "",
+                "track": null,
+                "type": "Vortrag 30 min (incl. Q&A)",
+                "language": "de",
+                "abstract": "Eine kleine Einf\u00fchrung in numerisches Python mit NumPy und SciPy.",
+                "description": "F\u00fcr alle die noch nicht wissen, dass sie es brauchen oder es schon immer mal benutzen wollten:  \r\nEin kurzer \u00dcberblick der M\u00f6glichkeiten und Funktion von NumPy und SciPy (ohne Anspruch auf Vollst\u00e4ndigkeit).  \r\nDazu beispielhafte Anwendungsgebiete in der Forschung, anschaulich anhand eigener Beispielanwendungen im Kontext numerischer Physik.   \r\nDie kleine Einf\u00fchrung f\u00fcr Neulinge zum Anfangen und Interesse wecken! :)",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 41,
+                    "code": "YKKULV",
+                    "public_name": "Isabell",
+                    "biography": "Informatik-Studentin in Jena.\r\nHat ein freiwilliges wissenschaftliches Jahr in Hannover gemacht und dabei ein paar F\u00e4higkeiten aufgeschnappt :)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 739,
+                "guid": "360997de-53b2-5309-8119-d29513517851",
+                "logo": "",
+                "date": "2019-12-27T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "00:30",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "SGETQU",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/SGETQU/",
+                "title": "Hebocon - Introduction Talk",
+                "subtitle": "",
+                "track": "Entertainment",
+                "type": "Vortrag 30 min (incl. Q&A)",
+                "language": "de",
+                "abstract": "The sumo robot fight for the technically ungifted\r\n\r\nShort presentation about the History and Rules for all that have not yet participated",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 21,
+                    "code": "ECA8M3",
+                    "public_name": "honky",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 752,
+                "guid": "78b3c768-391a-5ac5-b9f3-1efd7014a70f",
+                "logo": "/media/36c3/images/38KMGV/image002.jpg",
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "38KMGV",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/38KMGV/",
+                "title": "Bridging equality to the Middle East through volunteer-driven technology education: lessons learned from a revolutionary Beirut",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "en",
+                "abstract": "Lebanon is experiencing a revolution, a system shift, from which the Western media remains largely silent. Entrepreneurs, particularly women are playing a critical role now when the society will be rebuilt. To support the much-needed creation of solutions to tackle corruption, inequality and the lack of democracy, a team of rebel academics and culture hackers, both men and women, have established a cross-country knowledge-sharing platform called WTSUP!. We will share experiences of doing culture hacking in Lebanon and hear what is the current entrepreneurial reality for women in Beirut via live stream.",
+                "description": "The talk is about stories from Beirut, related to WTSUP! platform, which is a volunteer-powered initiative that focuses on the education of women entrepreneurs via events and in the future via cross-country programs. How exactly? We will present, both live on stage and with a connection from Beirut with Priscilla Sharuk, issues related to building a community around equality, volunteerism, and transparency.\u00a0 The talk also covers the pilot event 2019, where the education consistent specific tech lectures, but also aspects such as sexual harassment and corruption.\u00a0The initiative is research-driven, where the research aim is to study how empowering women through tech-driven entrepreneurship and leverage the societal status might affect on peacebuilding in the region.\u00a0\r\n\r\nFinally, the presentation looks positively towards the future changes and to the forthcoming non-commercial event in Beirut, March 2020 that has a core focus on sustainability and content is aligned with UNs Sustainable Development Goals. In addition to giving training on entrepreneurship and resilience, there are also sidetracks on governance innovations. Content is participatory, the 2020 event is open for volunteers from Europe and Lebanon to suggest workshops or mentoring for local female talents. The long term aim is to bridge technology-driven communities between the Nordics, Germany and Lebanon, and in the future scale the initiative wider to the MENA region.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 61,
+                    "code": "KPHEXT",
+                    "public_name": "Jukka-Pekka Heikkil\u00e4",
+                    "biography": "A scholar, co-creator, culture hacker and entrepreneurship educator specialized in extreme settings.\r\n\r\nJukka-Pekka has taught entrepreneurship courses and organized startup and science diplomacy events in Pyongyang between 2012 - 2017. He is a co-founder of WTSUP! Beirut that aims to foster equality and volunteerism culture in the Middle East and a founder of Burning Stories research project that aims to study the transformation of Burning Man participants and its impact on the society. From academic stamps, Jukka-Pekka is a Newton Fellow of the Royal Society (UK) and British Academy, an Academy of Finland post-doctoral Fellow based in Aalto University, Finland, and a visiting scholar at Stanford University. In Finland, he works as a board member with The Shortcut, a sister organisation of Slush and an initiative that aims to integrate immigrants to the Finnish society via tech entrepreneurship education.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 755,
+                "guid": "c94b2649-3b09-5288-b831-5d1a0f9612b9",
+                "logo": "",
+                "date": "2019-12-27T19:25:00+01:00",
+                "start": "19:25",
+                "duration": "00:30",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "RMLDZA",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/RMLDZA/",
+                "title": "Orientalism...what? How seemingly harmless narratives perpetuate inequalities",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Vortrag 30 min (incl. Q&A)",
+                "language": "en",
+                "abstract": "Orientalism is a concept that reveals how people categorize and discriminate against others by using seemingly positive or harmless attributions and images. In an interactive presentation, we will introduce Edward Said\u2019s concept to the audience by examining selected Twitter and Instagram posts.\r\n#Orientalism #Postcolonialism #Othering #Racism #Sexism",
+                "description": "NGOs are doing it, the new film about PJ Harvey is doing it, most of us are doing it: using Orientalist narratives to describe the world around us. This happens consciously and more often unconsciously and perpetuates imperialistic perceptions about the (flexible) \u201cOther\u201d. \r\nWhenever we order an \u201cexotic Asian salad\u201d, bring back \u201cthose beautiful indigenous souvenirs\u201d or by having an Orientalist gaze when travelling and taking picture only of the things that seem \u201cexciting and characteristic\u201d, we create an unequal image of \u201cus\u201d and \u201cthem\u201d. \r\nAs we can see from these examples, the concept of Orientalism is not limited geographically but uncovers seemingly positive and harmless but deeply discriminating narratives everywhere - one famous example being the discourses about East Germany from a West German perspective. \r\nIn this presentation, we will explain the concept of Orientalism (Edward Said, 1978) by discussing written examples from Twitter and visual examples from Instagram to uncover the traps and temptations of Orientalism. \r\n#Orientalism #Postcolonialism #Othering #Racism #Sexism",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 66,
+                    "code": "BGST7D",
+                    "public_name": "Nina Szogs",
+                    "biography": "Nina Szogs is a gender, migration and sustainability researcher and works in the field of science communication with universities, museums, NGOs and artists. @ninaszogs",
+                    "answers": []
+                  },
+                  {
+                    "id": 67,
+                    "code": "T9ZTMY",
+                    "public_name": "Barbara Kurz",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 747,
+                "guid": "f4c71fc1-0569-5924-b2e8-2e539aa26186",
+                "logo": "/media/36c3/images/CUVNKQ/Gartensia_logo.png",
+                "date": "2019-12-27T20:50:00+01:00",
+                "start": "20:50",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "CUVNKQ",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/CUVNKQ/",
+                "title": "Den Wohnungsmarkt hacken: Wie geht das?",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "de",
+                "abstract": "Ein Haus das zwanzig Jahre lang leer steht, eine gravierende Wohnungsnot und ein paar Aktivisti reichen um Leerstand zu beenden. \r\nIm Juli wurde die Gartenstra\u00dfe 7 in T\u00fcbingen Leerstand besetzt und ist es bis heute. Der Talk soll davon handeln, warum es zu einer solchen Besetzung kommt, wie so etwas im Alltag aussieht, wie die Besetzung sich von anderen unterscheidet und wie die Zukunft aussehen wird.",
+                "description": "In T\u00fcbingen herrscht wie in vielen anderen St\u00e4dten Wohnungsnot. Das Problem wird insbesondere durch Leerstand und einen eklatanten Mangel an sozialem Wohungsbau versch\u00e4rft. Es gibt verschiedene Gesetzte, Verordnungen und Handlunkgsm\u00f6glichkeiten die der Kommune helfen dem Problem zu begegnen. Trotz aller Bem\u00fchungen der Stadt stehen Geb\u00e4ude wie die Gartenstra\u00dfe 7 *20 Jahre* lang leer.\r\n\r\nDie Besetzung durch Aktivisti im Juli hat diesen Leerstand beendet. Seitdem leben in diesem Haus Menschen, es ist ein t\u00e4glich ge\u00f6ffnetes Caf\u00e8 eingerichtet, es finden Konzerte, Lesungen und Workshops statt. Ich w\u00fcrde gerne zeigen wie es zur Schaffung dieses Freiraums kam, wie der Alltag und aber auch die Zukunft des Projekts aussieht. Gro\u00dfe Rolle wird dabei die \"T\u00fcbinger Linie\" spielen - eine Position der Stadt die Verhandlungen einer R\u00e4umung vorzieht.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 57,
+                    "code": "TZBDGG",
+                    "public_name": "Moanos",
+                    "biography": "I studied Medical Engineering and are currently working in a research lab in neuroscience. We there \"hack\" the brain with electric and magnetic stimulation. For me this means a lot of programming, mostly in Python and C.\r\nI also created an online platform for home training of stroke patients.\r\n\r\nMy biggest Open-Source Project so far is ILMO, a tool for the management of a library.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "ChaosZone Workshop": [
+              {
+                "id": 741,
+                "guid": "4f3f031f-762e-5ec0-b67b-adfed088d7e7",
+                "logo": "",
+                "date": "2019-12-27T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "06:00",
+                "room": "ChaosZone Workshop",
+                "slug": "UG8LHG",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/UG8LHG/",
+                "title": "Junghacker CTF",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop 6h",
+                "language": "de",
+                "abstract": "Wir bieten Euch ein Einsteiger CTF an.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 38,
+                    "code": "RPAJNK",
+                    "public_name": "kl0bs",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 742,
+                "guid": "f8937e87-9a83-50cb-9d74-3dc9ae94334c",
+                "logo": "/media/36c3/images/LGJXVT/logogelb1.png",
+                "date": "2019-12-27T19:30:00+01:00",
+                "start": "19:30",
+                "duration": "02:00",
+                "room": "ChaosZone Workshop",
+                "slug": "LGJXVT",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/LGJXVT/",
+                "title": "Hacker eG - meetup",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop 2h",
+                "language": "de",
+                "abstract": "Das Treffen der \"Hacker eG\" (info:  vebit.xyz) auf dem Congress. Willkommen!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 10,
+                    "code": "PVFWAU",
+                    "public_name": "ajuvo",
+                    "biography": "Hacker eG, c-base, CCCP, c3d2, hybr.de, damals(tm)-Podcast, uvam.",
+                    "answers": []
+                  },
+                  {
+                    "id": 51,
+                    "code": "XEN8XR",
+                    "public_name": "vv01f",
+                    "biography": "",
                     "answers": []
                   }
                 ],
@@ -12407,6 +12720,255 @@
                     "code": "ZGGQTG",
                     "public_name": "Saskia Ostendorff",
                     "biography": "[Saskia Ostendorff](https://ostendorff.legal) is a lawyer from Berlin specializing in personality rights, new technologies and the legal challenges of digital transformation in law. She is a keynote speaker for digital change with lectures on 3D printing, open data, artificial intelligence, and personal rights. From 2015 to 2019 she did her Ph.D. at the Humboldt University of Berlin in the field of law and 3D-printing. In 2018, Saskia co-founded the platform and initiative Open Legal Data and is the chairwoman of the board of the Open Justice e.V. . She works as an expert on personal rights/hate comments on the internet.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "ChaosZone B\u00fchne": [
+              {
+                "id": 732,
+                "guid": "c3028f4c-8db7-59ae-9fc0-25405b792212",
+                "logo": "/media/36c3/images/GFXWGZ/VoteUPLove.jpg",
+                "date": "2019-12-28T14:30:00+01:00",
+                "start": "14:30",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "GFXWGZ",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/GFXWGZ/",
+                "title": "Die VoteUP.Love or: How I Learned to Stop Discussing and Love Groundhog Day",
+                "subtitle": "",
+                "track": null,
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "de",
+                "abstract": "Die Geschichte der Online-Wahlen oder des regelm\u00e4\u00dfigen Versuchs ihrer Einf\u00fchrung an der Universit\u00e4t Potsdam.",
+                "description": "Universit\u00e4ten sind demokratische Organisationen. Sie veranstalten Wahlen. Warum nicht die Wahl elektronisch abhalten? Oder zumindest das W\u00e4hlerverzeichnis mit der Mensakarte kombinieren? \r\n\r\nIn diesem Vortrag geht es um die dunklen Abgr\u00fcnde beratungsresistenter Gremien, (Social-)Reverse-Engineering, klaffende Sicherheitsl\u00fccken, die eine Wahl unbrauchbar machen und die Heilsversprechen von Firmen wie POLYAS, die ihre Produkte gern der \u00f6ffentlichen Hand reichen wollen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 43,
+                    "code": "V8BWZB",
+                    "public_name": "tzwenn",
+                    "biography": "Potsdam. Research, Teaching and CCC.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 733,
+                "guid": "0478d650-881c-5a03-8148-c6d42a0c5756",
+                "logo": "",
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "8YPR78",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/8YPR78/",
+                "title": "LASER \u2013 Hacking light",
+                "subtitle": "",
+                "track": null,
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "de",
+                "abstract": "You know what a laser is all about. Do you? \r\nAs scientists, lasers are our daily business. We will talk about the past,\r\npresent and future of what is typically referred to as a laser. Let\u2019s start\r\nour journey at the birth of laser light and illustrate its way through to\r\nwhat lasers are capable of today apart from pointing at presentation slides.\r\nIt will become evident that lasers are present in our daily life, at work,\r\nthe internet and science all around the world.\r\nBut let\u2019s not stop with what we already understand, where the laser takes us\r\ntoday; let's have a short glimpse of what to expect in the future as well.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 11,
+                    "code": "ZC79AY",
+                    "public_name": "Benjamin Ewers, Raoul-Amadeus Lorbeer",
+                    "biography": "",
+                    "answers": []
+                  },
+                  {
+                    "id": 44,
+                    "code": "DLR3CJ",
+                    "public_name": "Raoul-Amadeus Lorbeer",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 728,
+                "guid": "d0cb4478-5a5b-52b6-aeb4-42f72f77a750",
+                "logo": "",
+                "date": "2019-12-28T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "00:30",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "XFQTKT",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/XFQTKT/",
+                "title": "Junghackertag",
+                "subtitle": "",
+                "track": null,
+                "type": "Vortrag 30 min (incl. Q&A)",
+                "language": "de",
+                "abstract": "Highligths des Tages, kids zeigen ihre Ergebnisse",
+                "description": "evtl. gemeinsam mit Hebocon (C3d2) planen",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 35,
+                    "code": "LTF3B7",
+                    "public_name": "r2d2data",
+                    "biography": "Bin in Verein dezentrale",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 757,
+                "guid": "cbc76701-297d-53b0-b7a9-97e714f87cc1",
+                "logo": "",
+                "date": "2019-12-28T19:45:00+01:00",
+                "start": "19:45",
+                "duration": "00:30",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "VPJPZR",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/VPJPZR/",
+                "title": "Browsers on Phosphor - Wie man mit JavaScript etwas auf ein Oszilloskop zeichnet",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Vortrag 30 min (incl. Q&A)",
+                "language": "de",
+                "abstract": "Wie ich Bleepstrack's 36C3 Designgenerator auf ein Oszilloskop gebracht habe.\r\n\r\nEine kurze Reise von Vektorgrafiken in JS, \u00fcber die Web Audio API bis zum XY-Modus eines Oszilloskops.",
+                "description": "Mit Oscilloscope-Music gibt es schon einige Zeit lang eine coole Anwendung f\u00fcr alte analoge Oszilloskope. Jedoch war der Entstehungsprozess f\u00fcr mich immer ein wenig magisch. Die eigentliche Idee dahinter ist relativ simpel, aber wie genau macht man es und wie kann man die Signale einfach erzeugen?\r\n\r\nAntworten auf diese Fragen habe ich gefunden, als ich angefangen habe, den 36C3 Designgenerator von Bleeptrack um eine Oszilliskop-Darstellung zu erweitern.\r\n\r\nMit einem Browser, ein bisschen JavaScript und einen Kopfh\u00f6rerausgang hat man n\u00e4mlich alles was man braucht um dem gr\u00fcnen Phosphor neues Leben einzuhauchen.\r\n\r\nhttps://github.com/quantenProjects/36c3-generator",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 69,
+                    "code": "RJXBY9",
+                    "public_name": "quanten",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 734,
+                "guid": "bff0e477-5a80-52d6-8793-0893ee62aad6",
+                "logo": "",
+                "date": "2019-12-28T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "XNFBGR",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/XNFBGR/",
+                "title": "Kontrolle von unten - IFG und DSGVO beim Verfassungsschutz",
+                "subtitle": "",
+                "track": null,
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "de",
+                "abstract": "Der deutsche Inlandsgeheimdienst arbeitet intransparent. Wir zeigen auf, wie jeder Einzelne dennoch Informationen aus dem \"Verfassungsschutz\" erhalten kann - v\u00f6llig legal.",
+                "description": "Die unz\u00e4hligen Skandale des \"Verfassungsschutz\" (VS) zeigen: Mehr Transparenz ist dringen n\u00f6tig. Wir pr\u00e4sentieren euch Wege, abseits von zahnlosen parlamentarischen Kommissionen, um Informationen aus den deutschen Geheimdiensten zu bekommen. \r\nDies umfasst, Auskunftsersuchen zu von euch gespeicherten pers\u00f6nlichen Daten. Aber auch Anfragen nach den Informationsfreiheitsgesetzen zu allgemeinen Dingen wie dem Wasserverbrauch. Zudem erlaubt die Analyse des PR-Materials des VS einen kuriosen Einblick in das Innenleben der Beh\u00f6rden. Unser Vortrag ist praxisorientiert: Praktische Beispiele und erfolgreiche Anfragen stehen im Fokus.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 46,
+                    "code": "LDCSFB",
+                    "public_name": "Johannes Filter",
+                    "biography": "Johannes Filter ist freiberuflicher Software-Entwickler und Aktivist f\u00fcr Informationsfreiheit. Er hat \u00fcber 400 IFG-Anfragen auf https://fragdenstaat.de gestellt, seit November 2019 sammelt er Verfassungsschutzberichte auf https://vsberichte.de. [@fil_ter](https://twitter.com/fil_ter) [@vsberichte](https://twitter.com/vsberichte)",
+                    "answers": []
+                  },
+                  {
+                    "id": 73,
+                    "code": "EM78QC",
+                    "public_name": "Marko Makel",
+                    "biography": "Lange Zeit Aktiv bei AktE - Arbeitskreis f\u00fcr die totale Einsicht zum Thema Selbstausk\u00fcnfte bei Geheimdiensten",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "ChaosZone Workshop": [
+              {
+                "id": 735,
+                "guid": "4041ab59-5add-5f84-9a37-d716c468a136",
+                "logo": "",
+                "date": "2019-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "08:00",
+                "room": "ChaosZone Workshop",
+                "slug": "PU7RSW",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/PU7RSW/",
+                "title": "Junghackertag",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop 8h",
+                "language": "de",
+                "abstract": "Der Junghackertag der Chaoszone ist Teil des 36C3-Junghackertages am 28.12.  (link zum 36C3 Junghackertag, wenn verf\u00fcgbar)",
+                "description": "Es gibt verschiedene Stationen, bei denen Du Dich ausprobieren kannst: \r\n- Du kannst L\u00f6tkits l\u00f6ten, einfache Buttons bis komplexe Laufschrift-Namensschilder, Du suchst es Dir aus.\r\n- Es gibt mBot Roboterautos, die Du steuern kannst.\r\n- Du kannst auch vorher mit einem Programm arbeiten und dabei ausprobieren, wie so eine Steuerung funktioniert.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 35,
+                    "code": "LTF3B7",
+                    "public_name": "r2d2data",
+                    "biography": "Bin in Verein dezentrale",
+                    "answers": []
+                  },
+                  {
+                    "id": 49,
+                    "code": "PGSUMT",
+                    "public_name": "rezzisto",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 764,
+                "guid": "b405b856-ea32-5c4b-b2be-4790380b821a",
+                "logo": "",
+                "date": "2019-12-28T19:30:00+01:00",
+                "start": "19:30",
+                "duration": "02:00",
+                "room": "ChaosZone Workshop",
+                "slug": "NCTE7Q",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/NCTE7Q/",
+                "title": "Liberating Strictures for Engineers: How to Make Everyone's Voice Heard",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop 2h",
+                "language": "en",
+                "abstract": "In this workshop, we experiment with concrete techniques created for making every person in a working group feel valued. We will try out tools to promote an inclusive&healthy working culture on the micro-level, called \"Libereating Structures\". Afterwards, you can try and apply these techniques in meetings, retrospectives, kick-offs for a sprint - wherever a group of people is gathering to discuss things and work together.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 76,
+                    "code": "Z3BGN7",
+                    "public_name": "Katya",
+                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -21020,6 +21582,408 @@
                 "answers": []
               }
             ],
+            "ChaosZone B\u00fchne": [
+              {
+                "id": 759,
+                "guid": "c8a7c2e7-a24f-5b47-a60e-0dadb819804d",
+                "logo": "/media/36c3/images/Q83NB8/classes.jpg",
+                "date": "2019-12-29T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "Q83NB8",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/Q83NB8/",
+                "title": "Solidarity with Academics on Exile: Off-University",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "en",
+                "abstract": "Off-University (Organization F\u00fcr den Frieden-University), a research collaboration which was established for and by persecuted academics from Turkey. It is a space for collaborative research projects. We have an online platform which connects former colleagues, or students and their former supervisors to start projects together. The idea is to establish a concrete solidarity channel with academics all over the world, specifically, the ones who have been purged from their institutions, forced to resign, who are legally and politically persecuted and even imprisoned because of their opinion and research. We offer researchers, lecturers and students the chance to teach, share and produce knowledge away from government surveillance and repression via our safe online platform. Through such civic disobedience, it combines the good old ideal of academic freedom with state of the art digital communication and collaboration opportunities. Off-University\u2019s mission is based on its commitment to peace in the world and to living together in diversity. It therefore seeks to develop emancipatory education-research activities that are less hierarchical and more democratic!",
+                "description": "We want to build a worldwide online/offline community that is horizontal and inclusive by using new online teaching methodologies and interactive learning settings. We engage ourselves in online/offline group work activities by developing knowledge on online teaching methods with our lecturers and so on. We also want to create an autonomous community of lecturers and students online and offline as a university thrives on exchange and interaction outside of formal teaching hours. The idea is to establish a digital social place through online discussions and lecture series, and by increasing the visibility and legitimacy of our initiative, encouraging co-learning, student to student feedback and critical thinking.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 71,
+                    "code": "YTYWWK",
+                    "public_name": "Havle Guney",
+                    "biography": "Hi! I'm applying on behalf of Off-University where I'm working as a course assistant and a volunteer. \r\n\r\nMore about us: https://off-university.com/ \r\nOur online platform: https://coworkingsquares.de//de-DE/Login\r\n\r\nCheers!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 758,
+                "guid": "ed99a7b8-2ef8-56ee-8292-782864150f58",
+                "logo": "/media/36c3/images/J839PV/Google_Women_Cloud_293_neu.jpg",
+                "date": "2019-12-29T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "J839PV",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/J839PV/",
+                "title": "Google\u2019s \u2018quantum supremacy\u2019 - is Google about to break cryptocurrency?",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "en",
+                "abstract": "This talk will teach you what Google\u2019s official claim of supremacy means and how quantum computing will practical change the world of cryptocurrency. You will understand why Google any other quantum computer could be about to beak blockchain-based cryptocurrency, see what new ways are in place to save blockchain from quantum, and learn why crypto is a potential application for \u2018quantum supremacy\u2019.",
+                "description": "Google announced that it has built and tested a 54-qubit quantum processor. \u2018Quantum supremacy\u2019 means that Google has been able to perform a calculation that is impossible to perform on traditional supercomputers. But what does \u2018quantum supremacy\u2019 mean for cryptocurrency and crypto mining, where having a highly efficient machine gives you an edge over everyone else?\r\nIn this talk, I will explain quantum computing, \u2018quantum supremacy\u2019, and cryptocurrencies like Bitcoin and Ethereum in an understandable and entertaining way. I will also introduce the biggest danger to blockchain from \u2018quantum supremacy\u2019. With this milestone, a long-anticipated step toward useful quantum computers, understanding what new ways are in place to save crypto from \u2018quantum supremacy\u2019 and how crypto should prepare for \u2018quantum supremacy\u2019 is key to evaluate the facts.\r\nA surprising potential application for Google\u2019s \u2018quantum supremacy\u2019 is cryptocurrency. Applying \u2018quantum supremacy\u2019 to generate certifiable random numbers for blockchain helps to understand the advantages and disadvantages of quantum computing. As a cryptocurrency expert, I will give you insights into these as well as further real-world applications.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 70,
+                    "code": "H9TDUP",
+                    "public_name": "Victoria Riess",
+                    "biography": "6+years of experience in strategy consulting and corporate strategy. Delivered strategy consulting projects across EMEA in 2+ industries (e.g., information technology & (financial) services, transportation & logistics). Twinned with experience in IoT, AI, machine learning, cloud computing, big data, predictive analytics and a passion for cybersecurity.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 754,
+                "guid": "a9cf70ca-195b-53d9-9569-185dba2722e3",
+                "logo": "",
+                "date": "2019-12-29T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "CNFEXX",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/CNFEXX/",
+                "title": "SNAC - The only way to beat Facebook",
+                "subtitle": "",
+                "track": "Resilience & Sustainability",
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "en",
+                "abstract": "The current social media situation is catastrophic. A single megacorporation controls the entire digital life of large parts of the world's population. Together with the rapidly improving methods for processing this data, a power that not only concerns experts is being bundled here. And Facebook's monopoly secures itself. On the one hand, users cannot leave Facebook(/ Instagram/WhatsApp) without being cut off from the social life of their friends. On the other hand, alternatives fail because they can't reach a critical mass. It seems impossible that a single application will ever replace Facebook. The freedom of the Internet is fundamentally threatened. Breaking the power of Facebook is probably one of the greatest challenges of our time. And in order to solve this task, we did come up with a detailed concept that we want to present to the public for the first time at 36c3.\r\nSNAC - Social Network Application Cluster - is the name of the protocol used to standardise data exchange between different social media applications. Just as email protocols enable users to choose their provider freely, this protocol should also enable greater diversity in this area. It is easy to see that a single application isn't able to satisfy the needs of every single user. With SNAC we enable a decentralized structure, where each user can choose his server, but also his client application, from a broad spectrum. By developing our pilot application Open Source, we make it easy for other developers to integrate their own applications into the network.\r\nBut the decentralized Open Source dream alone is not enough to revolutionize the social media world. In order for the new applications emerging in SNAC to be able to run, an appropriate economic environment is needed to cover the operating costs. If the user accesses many different servers while surfing through the decentralized network, the question arises who is responsible for the access costs caused. There is a lack of a corresponding micropayment service with which it is possible to pay very small amounts easy and securely. At first glance, this seems like a project of its own, but it is closely linked to the operation of a decentralised social network. And there are several  advantages emerging by linking social networks with a micropayment system. For example, users can donate a few cents to the creators of content they value, which then adds up to a fair reward for the creators. And this is done directly, independently and without forced ads for the users. But the mental alarm bell of data security rightly rings here when one tries to link financial and private communication data. Therefore, it is all the more important to hand over data sovereignty to the user when planning the protocols and to leave the server operators only the task for which they are fairly paid - the operation of the servers.\r\nWe are currently putting this concept into protocols that enable secure transactions and protect the user's data. The aim is to create an environment where everyone has the chance to honestly and transparently pay the costs they incur instead of filling the pockets of corporations with their data. \r\nOur project is quite daring, that is clear to us. And yet we are sure that this is exactly what we want to do in the coming years. Because there is a chance that we will find 15 crazy people who want to develop this utopia together with us. There's a chance we'll find 50,000 people supporting us with an average of 1\u20ac a month to feed our 15 crazy developers. There's a chance that we can create an environment where many small subnets with cool innovative applications can trigger a movement that's going to be so big it will overcome Facebook's monopoly. And above all, we can create an environment where technology benefits people again, rather than the other way around. \r\nIf 36c3 isn't the right place for a project like this, what else is? We will give a talk in which we will discuss a better world and the difficulties that lie on the path there. We want to encourage listeners to think and participate, but above all we are also there to initiate a discussion. We want to hear all the concerns and mistakes that we overlook and we need the expertise from all the different angles that only the CCC brings together. We will subject our protocols and a first instance of a microbank to the endurance test, the hackers of Leipzig.",
+                "description": "Hi! We're offeringa bit of a different talk, where we want to present a project that might bring a renaissance to the independence and freedom of the internet. We want to dream together of a better world, but then also talk about the concrete steps that need to be done to get there.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 64,
+                    "code": "BX9MJV",
+                    "public_name": "Steffen",
+                    "biography": "Computer Scientist from T\u00fcbingen, adventurer travelling the world with his VW-Bus, part of the family since 33c3. Passionate about restoring the integrity of the internet in the social media sector.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 729,
+                "guid": "2c6537c9-1a83-53ab-a8b4-755d641d5cfd",
+                "logo": "",
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "ZT7BJG",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/ZT7BJG/",
+                "title": "Hebocon Prefinal",
+                "subtitle": "",
+                "track": null,
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "en",
+                "abstract": "If there are to many participants, we need to sort them out. \r\nIf there are no participants at all, we'll watch funny videos about Hebocon and explain the rules.\r\nIf there is no hebocon on main stage, this will be mainstage :)",
+                "description": "SEE ABOVE",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 21,
+                    "code": "ECA8M3",
+                    "public_name": "honky",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 745,
+                "guid": "bebb56ed-98ad-5e3c-8d6c-1c7496b8dfe2",
+                "logo": "/media/36c3/images/VDMSJN/lonely_chimera_cross_big2.png",
+                "date": "2019-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "00:30",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "VDMSJN",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/VDMSJN/",
+                "title": "Quantum computing @ school?  L\u00e4uft!",
+                "subtitle": "",
+                "track": "Science",
+                "type": "Vortrag 30 min (incl. Q&A)",
+                "language": "de",
+                "abstract": "Man muss ein Genie sein und jahrelang Quantenphysik studiert haben um einen Quantum-Annealer programmieren zu k\u00f6nnen? Falsch gedacht! Drei Sch\u00fcler (15, 16 und 17) zeigen in ihrem Vortrag, wie sie ein kniffliges Schachproblem auf einem adiabatischen Quantencomputer (dem D-Wave 2000Q) gel\u00f6st und damit bei Jugend forscht den Preis der Bundesforschungsministerin f\u00fcr zukunftsorientierte Technologien abger\u00e4umt haben.",
+                "description": "In unserem Vortrag werden wir zun\u00e4chst auf die Funktionsweise adiabatischer Quantum-Annealer eingehen und anschlie\u00dfend die Herangehensweise an die L\u00f6sung eines Optimierungsproblems auf dem Quantencomputer erl\u00e4utern.\r\n\r\nEs zeigt sich, dass f\u00fcr das Programmieren eines Quanten-Annealers, wie ihn die Firma D-Wave schon heute kommerziell vertreibt, keine vertieften Kenntnisse zum Thema Quantenmechanik vonn\u00f6ten sind. Man muss lediglich ein gegebenes Problem in die mathematische Form bringen, die der Quanten-Annealer versteht. Wie genau das funktioniert, wollen wir an einem konkreten Beispiel zeigen. \r\n\r\nWir (Jakov, Paul und Jonathan) werden dabei unser Jugend-forscht-Projekt \"L\u00f6sung des n-Damenproblems auf einem adiabatischen Quantencomputer\" vorstellen, das uns eine Bundesplatzierung im Fachbereich Mathematik/Informatik eingebracht hat. \r\n\r\nUnser Projekt durften wir bereits bei der Firma Krones, dem Max-Planck-Institut f\u00fcr Quantenoptik und auf dem ISC (International Supercomputing Conference) 2019 in Frankfurt vorstellen.\r\n\r\nUnsere Projekt-Homepage: https://www.domspatzen-quantum.de/  \r\nVortrag beim ISC in Frankfurt: https://www.youtube.com/watch?v=aM_pAA9FdYY",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 54,
+                    "code": "NMYTRC",
+                    "public_name": "Jakov David Wallbrecher",
+                    "biography": "*Jakov ist ein Informatik- und Mathematik-interessierter Sch\u00fcler am Musikgymnasium der Regensburger Domspatzen.*\r\n\r\nIch bin 15 Jahre alt, aktuell in der zehnten Klasse und ich programmiere seit mittlerweile 3 Jahren. In erster Linie schreibe ich meine Programme, die meist Teil eines mehr oder weniger wissenschaftlichen (Forschungs-)Projekts sind, in Processing, einer Java-basierten Sprache. Im letzten Jahr habe ich mich im Rahmen einer Jugend-forscht-Arbeit viel mit dem L\u00f6sen von Optimierungsproblemen auf adiabatischen Quantencomputern besch\u00e4ftigt. Wenn ich nicht gerade mit Programmieren besch\u00e4ftigt bin, fotografiere ich gerne und spiele Trompete oder Klavier.",
+                    "answers": []
+                  },
+                  {
+                    "id": 55,
+                    "code": "B3CXGW",
+                    "public_name": "Jonathan Treffler",
+                    "biography": "Ich bin 17 Jahre alt, in der 11. Klasse und ich interessiere mich sehr f\u00fcr Softwareentwicklung und Hardware.\r\nAm meisten besch\u00e4ftige ich mich zur Zeit mit Webdevelopment und Quantencomputern.\r\nIch habe mehrmals bei Jugend Forscht teilgenommen und dabei dieses Jahr zusammen mit 2 Freunden den 4. Platz beim Bundesfinale Jugend Forscht erreicht.\r\nMeine Lieblingsprogrammiersprachen sind: JavaScript, Progressing (= Java Wrapper) und PHP.",
+                    "answers": []
+                  },
+                  {
+                    "id": 65,
+                    "code": "9RPFBP",
+                    "public_name": "Paul Schappert",
+                    "biography": "*Paul ist ein motivierter und neugieriger Sch\u00fcler, der sich vor allem f\u00fcr Informatik, Mathematik, Rhetorik und Management interessiert. Er besucht derzeit die Qualifikationsstufe des Musikgymnasiums der Regensburger Domspatzen.*\r\n\r\nMein Name ist Paul Schappert und ich bin 16 Jahre alt. Neben meinen zahlreichen musikalischen Interessen faszinieren mich aber vor allem naturwissenschaftliche Themen. Ich programmiere seit mehreren Jahren und habe mich im letzten Jahr im Rahmen einer Jugend-forscht-Arbeit vor allem mit Quantencomputern- bzw. -annealern besch\u00e4ftigt. Des Weiteren bin ich ein gro\u00dfer Fan von Algorithmik und Rhetorik, Badminton und Chopin sowie Pizza und Fotografie.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 746,
+                "guid": "7f0e8a2e-34f0-5e5e-a29d-91557e14256e",
+                "logo": "/media/36c3/images/GNW8F9/Devops_girl.png",
+                "date": "2019-12-29T20:15:00+01:00",
+                "start": "20:15",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "GNW8F9",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/GNW8F9/",
+                "title": "DevOps Disasters 2.0",
+                "subtitle": "",
+                "track": "Entertainment",
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "de",
+                "abstract": "Abgr\u00fcnde und Gruseligkeiten aus der Operations-Welt - neues Jahr, neue Runde",
+                "description": "Ein weiteres Jahr Kampf aus der Operations-Abteilung gegen schlechten Code, krude Architektur-Ideen und absurde Software-Konzepte. Facepalms und Stirnschwielen aus 2019 und was wir daraus lernen k\u00f6nnen.\r\n\r\nSiehe auch https://cfp.chaoszone.cz/35c3/talk/GYDDDD/\r\n\r\nCall for disasters, submit your story! http://www.devopsdisasters.net/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 5,
+                    "code": "CPEMXC",
+                    "public_name": "Stefan",
+                    "biography": "Hacktivism, DevOpse, Guerilla-IT, freies Radio & Co.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 762,
+                "guid": "7f33c3e5-d41d-5282-ad11-6216c47051c4",
+                "logo": "",
+                "date": "2019-12-29T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "01:40",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "MCBFLZ",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/MCBFLZ/",
+                "title": "Hebocon Preheating",
+                "subtitle": "",
+                "track": "Entertainment",
+                "type": "Auff\u00fchrung / Kunst",
+                "language": "de",
+                "abstract": "Warm up for Hebocon - bring some drinks and lets prepare for Hebocon. Listen to some music, then either watch the Livestream with us or go to the hall.\r\n\r\nLineup:\r\n\r\n23:00 Soundcheck, Warmup\r\n23:40 Egon Rock (house, deep house, tech house)",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 74,
+                    "code": "MYXPVP",
+                    "public_name": "chaoszone",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 761,
+                "guid": "db8daeb8-20a1-54c1-a85d-4014fe6ae679",
+                "logo": "",
+                "date": "2019-12-30T00:40:00+01:00",
+                "start": "00:40",
+                "duration": "01:00",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "RCUERS",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/RCUERS/",
+                "title": "Hebocon Livestream",
+                "subtitle": "",
+                "track": "Entertainment",
+                "type": "Vortrag 60min  (inkl. Q&A)",
+                "language": "de",
+                "abstract": "Livestream: Hebocon (Saal Ada)",
+                "description": "Let's build funny robots and let them fight each other as long as we are superior to them :) Please let's dishonor high tech and celebrate everything made out of stuff we usually throw away (and blinks).",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 21,
+                    "code": "ECA8M3",
+                    "public_name": "honky",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 763,
+                "guid": "a1fd7f85-8680-5d6e-bdd2-9b26b03d19d7",
+                "logo": "",
+                "date": "2019-12-30T01:40:00+01:00",
+                "start": "01:40",
+                "duration": "04:20",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "D7QHBU",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/D7QHBU/",
+                "title": "Hebocon Afterglow",
+                "subtitle": "",
+                "track": "Entertainment",
+                "type": "Auff\u00fchrung / Kunst",
+                "language": "en",
+                "abstract": "Chaoszone Hebocon afterglow party. Expect bass music. BYOB.\r\n\r\nLineup:\r\n1:40 - der Warst (live - [website](http://der-warst.de))\r\n2:30 - Pat Styx (Jungle)\r\n4:00 - Ed Ruskin (dnb)\r\n5:30 - tba.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 74,
+                    "code": "MYXPVP",
+                    "public_name": "chaoszone",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "ChaosZone Workshop": [
+              {
+                "id": 738,
+                "guid": "524cdf92-0360-56b7-9d5f-5a47d759ff83",
+                "logo": "",
+                "date": "2019-12-29T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "06:00",
+                "room": "ChaosZone Workshop",
+                "slug": "9FBHLC",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/9FBHLC/",
+                "title": "Hebocon Bastel Workshop Part I",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop 6h",
+                "language": "de",
+                "abstract": "Betreutes Hebocon Basteln",
+                "description": "Let's build funny robots and let them fight each other as long as we are superior to them :) Please let's dishonor high tech and celebrate everything made out of stuff we usually throw away (and blinks).\r\n\r\nJoin with your derpy bot to fight your nemesis! Push it off the table or knock the enemy over. No weapons. No advanced controllers. No tears. Don't take it serious. \r\n\r\nEveryone is invited to compete with a self-made robot, especially if you've never done that before. High-tech is penalized, creativity encouraged. \r\n\r\nIf you are interested, please send me a quick \"sounds cool, maybe i'll build one\" mail to honky@defendtheplanet.net or contact @honky in RocketChat.\r\n\r\nWe need at least 8 Robots to participate, if we have more, we'll bring this to the battlefield.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 21,
+                    "code": "ECA8M3",
+                    "public_name": "honky",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 750,
+                "guid": "6bb6632b-2f89-51eb-a4de-206d04523631",
+                "logo": "",
+                "date": "2019-12-29T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "02:00",
+                "room": "ChaosZone Workshop",
+                "slug": "EGQPVY",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/EGQPVY/",
+                "title": "Mit Antikorruptionsgesetzen und Data Science wirtschaftliche Interessen Visualisieren",
+                "subtitle": "",
+                "track": "Science",
+                "type": "Workshop 2h",
+                "language": "de",
+                "abstract": "Versuchen Einfluss auf die Wissenschaft zu nehmen? Ist die Freiheit von Forschung und Lehre in Gefahr?",
+                "description": "Im Selbstverst\u00e4ndnis vieler Forschenden, unabh\u00e4ngig vom Forschungsbereich, besteht das Ziel ihrer Arbeit im Fortschritt und in der Weiterentwicklung der Gesellschaft. Es liegt im Interesse der Wissenschaftler*innen, durch folgenverantwortliches Handeln die Herbeif\u00fchrung und Sicherung des Friedens nachhaltig zu unterst\u00fctzen. \r\n\r\n\r\n**\u00d6ffentliche Daten Nutzen, Private Daten Sch\u00fctzen:** Nach dem Vorbild von [Hochschulewatch.de](https://netaction.github.io/hochschulwatch/) habe ich Graphen erstellt, um die Verquickung von Wissenschaft und Wirtschaft aufzuzeigen.\r\n\r\nIm Workshop m\u00f6chte ich euch zeigen wie Ihr mit einem bisschen Wissen \u00fcber Python und matplotlib interaktive und aussagekr\u00e4ftige Graphen zu Wirtschaftlichen und Machtpolitischen Interessen erstellen k\u00f6nnt. Daf\u00fcr werden wir Daten vom Finanzamt und co. nutzen. Werkzeug: **Jupyternotebooks, Matplotlib oder Plotly**",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 60,
+                    "code": "C8VK3Z",
+                    "public_name": "Sw0rdDoom",
+                    "biography": "Studies Life, especially Computer Science in Bremen at Day, Makes Computers do things at Night.\r\n\r\nI am currently doing my bachelor in Computer Science at the University Bremen. I work there as a student research assistant at the Cyber-Physical Systems Institute of German Research Centre for Artificial Intelligence.   https://www-cps.hb.dfki.de/ where my Research Focus is Software Verification",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 749,
+                "guid": "ddd22bf0-f0a3-5580-ac14-2c009dce6661",
+                "logo": "",
+                "date": "2019-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "02:00",
+                "room": "ChaosZone Workshop",
+                "slug": "XGZRUG",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/XGZRUG/",
+                "title": "Meta-Projekt FabLab-Infrastruktur (Projekt ELFI)",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 2h",
+                "language": "de",
+                "abstract": "Wir wollen viele einzelne Projekte zu Zugangssystemen und Infrastruktur in FabLabs zu einem gemeinsamen Meta-Projekt zusammenfassen.",
+                "description": "Die Zusammenfassung ist in Gange, was fehlt sind UseCases.\r\nAlso .. wenn ihr in irgendeiner Weise mit FabLabs / Offenen Werkst\u00e4tten / MakerSpaces / WhatEver zu tun habt, kommt zahlreich und werft eure UseCases, Anwendungen und Wynsche in den Hut, auf dass am Ende ein gro\u00dfes, ganzes (oder auch viele Einzelteile) entstehen.\r\n\r\nWer davon Ahnung und dazu ein oder zwei Meinungen hat, kann uns auch Hinweise geben ob er/sie Monolithen oder Modulpakete toll (und sinnvoll) findet und was man an der Stelle gut oder schlecht machen kann / sollte.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 56,
+                    "code": "7LNHYC",
+                    "public_name": "Tasso",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
             "1Komona headnut": [
               {
                 "id": 847,
@@ -24957,6 +25921,74 @@
                     "code": "MWCBCT",
                     "public_name": "Sumy",
                     "biography": "Active in Freifunk, TeleCommons, community networks",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "ChaosZone B\u00fchne": [
+              {
+                "id": 731,
+                "guid": "c959c52f-5414-5105-bb36-8a6fc4d30fb9",
+                "logo": "",
+                "date": "2019-12-30T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "00:30",
+                "room": "ChaosZone B\u00fchne",
+                "slug": "RUWJGT",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/RUWJGT/",
+                "title": "fli4l \u2013 the flexible internet router for linux",
+                "subtitle": "",
+                "track": null,
+                "type": "Vortrag 30 min (incl. Q&A)",
+                "language": "de",
+                "abstract": "Internet-Router mit Linux, aktueller Software, aber kein OpenWRT oder IPFire? **fli4l** ist eine freie Router-Distribution f\u00fcr diverse Einsatzszenarios, jetzt auch ohne Disketten.",
+                "description": "Vergesst Disketten und ISDN! Das fast 20 Jahre alte Linux-Router-Projekt [fli4l](http://www.fli4l.de/) l\u00e4uft auf modernem Unterbau mit aktuellen Treibern auf (fast) beliebiger x86 Hardware. Ein fli4-Router routet IPv6, baut OpenVPN-Tunnel, kann mit multiplen Uplinks arbeiten, unterst\u00fctzt Bridges, VLAN und Bonding. Er agiert als DNS- und DHCP-Server und nat\u00fcrlich auch als Paketfilter und Firewall, auch f\u00fcr mehr als ein Netz. Auch Funk mit UMTS, LTE und WLAN ist an Bord. Sogar ISDN wird noch unterst\u00fctzt.\r\n\r\nIm Vortrag geht es nur am Rande um die Geschichte von fli4l als Diskettenrouter. Gezeigt werden aktuelle M\u00f6glichkeiten und Einsatzszenarien, das moderne Buildroot, das flexible Circuit-System, aber auch die Ecken und Kanten an denen man die Geschichte der Distribution ablesen kann und wo sich interessierte Hacker bei der Modernisierung austoben k\u00f6nnen.\r\n\r\nGut dokumentiert und auf Basis von Linux und Freier Software ist fli4l eine M\u00f6glichkeit seine Routerfreiheit zu genie\u00dfen. Keep it running!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 42,
+                    "code": "TBQ7TA",
+                    "public_name": "Alexander Dahl",
+                    "biography": "Embedded Linux Developer. 2001 in den Linux-Topf gefallen. Seit 2011 auf Chaos-Events. Mitgr\u00fcnder des Hackerspace Netz39 in Magdeburg. Akzeptiert Cookies.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "ChaosZone Workshop": [
+              {
+                "id": 751,
+                "guid": "b87c698c-3bb6-5da2-9978-2999bf74e450",
+                "logo": "",
+                "date": "2019-12-30T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "04:00",
+                "room": "ChaosZone Workshop",
+                "slug": "N7AUBH",
+                "url": "https://cfp.chaoszone.cz/36c3/talk/N7AUBH/",
+                "title": "Technologien f\u00fcr freie Kommunikation",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop 4h",
+                "language": "de",
+                "abstract": "Whatsapp, Instagram, Amazon, ... . Die meistgenutzten Plattformen genie\u00dfen Monopolstatus - es f\u00fchrt kaum ein weg an ihnen vorbei. Dabei sammeln sie unsere Daten und bestimmen den Rahmen in dem wir kommunizieren.\r\n\r\nDas muss nicht sein.\r\nGemeinsam k\u00f6nnen wir L\u00f6sungen und Technologien erarbeiten, die den Weg weg bereiten von Plattformen, dessen Existenzgrund deine Abh\u00e4ngigkeit zu ihnen ist.\r\n\r\nKomm und diskutiere, konzipiere, kreiere!",
+                "description": "Digitale Kommunikation und Social Media \u2013 ein Herzst\u00fcck unserer allt\u00e4glichen Kommunikation im Netz \u2013 zentrieren sich heute auf wenige Plattformen. Dies spielt den Plattformbetreibern gro\u00dfe Macht zu.\r\n\r\nTechnisch sind wir auf diese Plattformen nicht angewiesen, praktisch schon.\r\n\r\nWenn ich heute einer Freundin schreiben will, die nur Whatsapp nutzt, ich aber nicht, dann muss ich ihr entweder eine SMS (unverschl\u00fcsselt, kostenpflichtig) oder eine Email (unverschl\u00fcsselt) schicken. Whatsapp m\u00f6chte ich nicht benutzen, da ich nicht will, das Facebook meine Daten sammelt. Warum kann ich mir nicht aussuchen nicht bei Facebook zu sein und trotzdem Menschen dort zu schreiben? Ich kann ja auch Mails and xyz@gmail.com verschicken ohne bei Google Nutzer zu sein. Oder jemanden, der bei der Telekom Kunde ist anrufen.\r\nGenauso gut w\u00e4ren offene Protokolle denkbar. Mit denen k\u00f6nnte sich jede\\*r aussuchen \u00fcber welchen Kanal/Server er\\*sie kommuniziert (fast so wie bei Emails).\r\n\r\nUnd \u00fcberhaupt - warum bin ich so beschr\u00e4nkt in dem was ich mit Whatsapp tun kann? Keine Umfragen? Kein voting? Keine Untergruppen? Keine Live-Standorte? Warum l\u00e4sst sich das nicht integrieren?\r\nKein Problem - beispielsweise mit einer Webanwendung problemlos realisierbar.\r\n\r\nUnter anderem scheitern solche Versuche an den geschlossenen Schnittstellen der Plattformbetreiber. F\u00fcr die untergraben solche Ans\u00e4tze ihr Plattform-Monopol.\r\n\r\nNichtsdestotrotz f\u00fchrt kein Weg daran vorbei \u2013 wenn wir den Rahmen unserer Kommunkikation selber gestalten wollen, brauchen wir Technologien, die vielseitig nutzbar sind und Plattformunabh\u00e4ngigkeit bieten \u2013 also dezentraler funktionieren. Sie m\u00fcssen so gut wie m\u00f6glich zu vorhandenen Plattformen Schnittstellen bieten und den Weg von dort weg so einfach wie m\u00f6glich gestalten. Wenn solche Technologien einmal vorhanden sind, erschweren sie neuen klassischen Plattformen das entstehen von Monopolen.\r\n\r\nSolche Technologien m\u00fcssen f\u00fcr Nutzer aller Kenntnislevel ohne H\u00fcrden (intuitiv) nutzbar sein, um Popularit\u00e4t zu erreichen.\r\n\r\nEbenso m\u00fcssen sie flexibel genug sein um eine Vielzahl an Kommunikationsrahmen abdecken zu k\u00f6nnen.\r\n\r\nIch w\u00fcrde die (technischen) Anforderungen in vier Kategorien teilen:\r\n- Flexibilit\u00e4t: Gestaltbarkeit der Kommunikationsstruktur (Forendiskussionen, Anzeigen, ...), soziale Strukturen und Diskurse abbilden (in Sicherheits-& Kompatibilit\u00e4tstechnisch saubere Bahnen leitend)\r\n- Sicherheit: Flexibilit\u00e4t darf Nutzerdaten/Sicherheit nicht kompromittieren; dezentral gespeicherte Daten, Kontrolle \u00fcber diese\r\n- Kompatibilit\u00e4t: open Interfaces, barrierefreie Interoperabilit\u00e4t mit anderen Diensten\r\n- Nutzerfreundlichkeit: \u00dcbersichtlichkeit, Navigierbarkeit, (technisch) transparent, sauber gestaltbar\r\n\r\nDiese m\u00fcssen alle Hand in Hand miteinander funktionieren, damit sie auch gew\u00e4hrleistet sind. Wenn zum Beispiel die Flexibilit\u00e4t aus dem Ruder l\u00e4uft, k\u00f6nnten inkompatibele Schnittstellen entstehen. Das w\u00fcrde wiederum die Nutzbarkeit und Sicherheitspr\u00fcfungen erschweren.\r\n\r\nIch stelle mir vor so etwas mithilfe von Plugins zu realisieren. Diese werden im Web gehostet (zum beispiel als JavaScript) und greifen auf die in der \u00fcbertragenen Nachricht gespeicherten (Meta-)Daten zu. Implementierbar w\u00e4re so etwas mithilfe von [Solid](https://solidproject.org/).\r\n\r\nIch freue mich auf Anregungen und Diskussionen jeder Art!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 58,
+                    "code": "YRULU8",
+                    "public_name": "Laurin Weger",
+                    "biography": "",
                     "answers": []
                   }
                 ],

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-26 22:50</version>
+  <version>2019-12-26 23:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -5720,27 +5720,6 @@ This is the introduction meetings for subtitles angels.If you want to become a s
         </persons>
         <links/>
       </event>
-      <event id="1057" guid="5f61260e-8576-452d-a876-fd8c3c0b9e35">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:The_Secret_Truecrypt_Audit_from_the_BSI</url>
-        <logo/>
-        <date>2019-12-29T18:30:00+01:00</date>
-        <start>18:30</start>
-        <duration>0:50</duration>
-        <room>Lecture room 11</room>
-        <slug>36c3-1057-session_the_secret_truecrypt_audit_from_the_bsi</slug>
-        <title>The Secret Truecrypt Audit from the BSI</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>en</language>
-        <abstract/>
-        <description>In 2010 the German Federal Office for Information Security (BSI) created a security audit of the encryption software Truecrypt - and didn't publish it. The talk will present some of these findings and discuss the questionable role of the BSI.
-In 2010 the German Federal Office for Information Security (BSI) created a security audit of the encryption software Truecrypt - and didn't publish it.Truecrypt has an interesting and sometimes mysterious history. The anonymous creators suddenly stopped development in 2014 and warned about unfixed security issues, without further explanation. At the same time a donation-funded security audit was organized by cryptographer Matthew Green, which didn't find any serious issues. A fork of Truecrypt called Veracrypt is still developed today.The audit by the BSI was only recently revealed with a request according to the German freedom of information law. It contains information about bugs in the code that are present until today.The talk will present some of these findings and discuss the questionable role of the BSI.</description>
-        <persons>
-          <person id="0">Dreirik</person>
-        </persons>
-        <links/>
-      </event>
       <event id="1033" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d7">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
         <logo/>
@@ -6128,27 +6107,6 @@ This meeting is used for the distribution of shifts for the Translation team.</d
       </event>
     </room>
     <room name="Lecture room M1">
-      <event id="1066" guid="48801aee-64d2-4e30-8b92-8d360566bbac">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:3.8_Billion_users%27_future:_Email_3.0</url>
-        <logo/>
-        <date>2019-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>0:30</duration>
-        <room>Lecture room M1</room>
-        <slug>36c3-1066-session_3_8_billion_users_future_email_3_0</slug>
-        <title>3.8 Billion users' future: Email 3.0</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?
-Hundreds of messaging platforms have launched and failed over the last 50 years. One has grown voraciously, netting 3.8 billion users, and handling 103 trillion messages each year. Like the Internet itself, email is decentralised and censorship resistant by design. It is technically extensible, powered by Free Software, and Open Standards agreed independently by consensus.LinkedIn, Facebook, Google and others are racing to own the future of this space, with Gmail alone accounting for 28% of email opens in 2018, in Western countries. Email's freedom, privacy, and security are taken for granted and under threat. What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?</description>
-        <persons>
-          <person id="0">Dreirik</person>
-        </persons>
-        <links/>
-      </event>
       <event id="1218" guid="9ef2a13a-61f1-4b47-a4f5-2bdd2c1b66de">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Alternatives_to_Google_Apps_on_Android</url>
         <logo/>

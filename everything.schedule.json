@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; lounges; chaos-west 1.0; open-infra 12; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 22:50",
+    "version": "find; lounges; chaos-west 1.0; open-infra 12; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 23:00",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -15274,6 +15274,34 @@
                 "attachments": []
               },
               {
+                "url": "https://frab.riat.at/en/36C3/public/schedule/events/145.html",
+                "id": 4345,
+                "guid": "10322946-e7c8-47dd-909e-579d5c315948",
+                "logo": null,
+                "date": "2019-12-28T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "00:15",
+                "room": "CDC - Stage",
+                "slug": "36C3-145-kyc_crypto-aml_tools",
+                "title": "KYC & Crypto-AML tools",
+                "subtitle": "privacy preserving KYC & crypto-AML tools",
+                "track": "Stage",
+                "type": "lecture",
+                "language": "en",
+                "abstract": "What's wrong with the current Crypto-AML mainstream approach and why it's dangerous for our economies and our societies. \r\n\r\nWhat is really demanded by the law and how do we see cryptography can provide answers.\r\n\r\nKickstarting the workshop on Crypto-AML tools. ",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 117,
+                    "public_name": "polto"
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/98.html",
                 "id": 4298,
                 "guid": "11c68405-3312-4734-938d-2057ab9cc771",
@@ -15663,6 +15691,42 @@
                     "title": "DAppNode Docs"
                   }
                 ],
+                "attachments": []
+              },
+              {
+                "url": "https://frab.riat.at/en/36C3/public/schedule/events/116.html",
+                "id": 4316,
+                "guid": "1c332a7f-4f50-49ba-a1e5-492e7b4b4a4f",
+                "logo": "/system/events/logos/000/000/116/large/blockchain_%281%29.png?1577204165",
+                "date": "2019-12-28T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "01:00",
+                "room": "CDC - Workshop area",
+                "slug": "36C3-116-the_incentive_is_bullshit",
+                "title": "The incentive is bullshit",
+                "subtitle": "A satirical discussion on value, incentives, and motivations in blockchain-space",
+                "track": "Workshop",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "In this lecture we will present the story of the satirical BSH token (http://bullshit.money/) and use it to initiate a criticism on the value proposition of many blockchain projects. At the same time, we will reflect on what brings value to different currencies and how they are used to incentivize certain behaviors. At the end of the lecture, we will open the stage for a panel session.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 106,
+                    "public_name": "bonfire.link"
+                  },
+                  {
+                    "id": 52,
+                    "public_name": "Ome"
+                  },
+                  {
+                    "id": 117,
+                    "public_name": "polto"
+                  }
+                ],
+                "links": [],
                 "attachments": []
               },
               {
@@ -22102,32 +22166,6 @@
                 "links": []
               },
               {
-                "id": 1057,
-                "guid": "5f61260e-8576-452d-a876-fd8c3c0b9e35",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:The_Secret_Truecrypt_Audit_from_the_BSI",
-                "logo": null,
-                "date": "2019-12-29T18:30:00+01:00",
-                "start": "18:30",
-                "duration": "0:50",
-                "room": "Lecture room 11",
-                "slug": "36c3-1057-session_the_secret_truecrypt_audit_from_the_bsi",
-                "title": "The Secret Truecrypt Audit from the BSI",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "en",
-                "abstract": "",
-                "description": "In 2010 the German Federal Office for Information Security (BSI) created a security audit of the encryption software Truecrypt - and didn't publish it. The talk will present some of these findings and discuss the questionable role of the BSI.\nIn 2010 the German Federal Office for Information Security (BSI) created a security audit of the encryption software Truecrypt - and didn't publish it.Truecrypt has an interesting and sometimes mysterious history. The anonymous creators suddenly stopped development in 2014 and warned about unfixed security issues, without further explanation. At the same time a donation-funded security audit was organized by cryptographer Matthew Green, which didn't find any serious issues. A fork of Truecrypt called Veracrypt is still developed today.The audit by the BSI was only recently revealed with a request according to the German freedom of information law. It contains information about bugs in the code that are present until today.The talk will present some of these findings and discuss the questionable role of the BSI.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
-                    "public_name": "Dreirik"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1033,
                 "guid": "219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d7",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting",
@@ -22600,32 +22638,6 @@
               }
             ],
             "Lecture room M1": [
-              {
-                "id": 1066,
-                "guid": "48801aee-64d2-4e30-8b92-8d360566bbac",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:3.8_Billion_users%27_future:_Email_3.0",
-                "logo": null,
-                "date": "2019-12-29T21:00:00+01:00",
-                "start": "21:00",
-                "duration": "0:30",
-                "room": "Lecture room M1",
-                "slug": "36c3-1066-session_3_8_billion_users_future_email_3_0",
-                "title": "3.8 Billion users' future: Email 3.0",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?\nHundreds of messaging platforms have launched and failed over the last 50 years. One has grown voraciously, netting 3.8 billion users, and handling 103 trillion messages each year. Like the Internet itself, email is decentralised and censorship resistant by design. It is technically extensible, powered by Free Software, and Open Standards agreed independently by consensus.LinkedIn, Facebook, Google and others are racing to own the future of this space, with Gmail alone accounting for 28% of email opens in 2018, in Western countries. Email's freedom, privacy, and security are taken for granted and under threat. What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale?",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
-                    "public_name": "Dreirik"
-                  }
-                ],
-                "links": []
-              },
               {
                 "id": 1218,
                 "guid": "9ef2a13a-61f1-4b47-a4f5-2bdd2c1b66de",

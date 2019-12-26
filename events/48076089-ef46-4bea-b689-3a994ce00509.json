@@ -14,7 +14,7 @@
   "type": "discussion",
   "language": "en",
   "abstract": "",
-  "description": "Proposals on how to get a fully free WebView build or replace it by something completely new\n",
+  "description": "WebView is one of the core components of the Android system, used and abused by apps to render web content (HTML, CSS, JS). WebView is nowadays built out of the Chromium source tree which has been plagued by privacy and freedom issues. As a fully free-software Android distribution, Replicant is exploring different paths to create a WebView build that respects user's privacy and freedom. Our tentative approaches go all the way from further cleaning the Chromium source after projects like ungoogled-chromium, to fully replacing WebView by a shim built around GeckoView. We will present our approaches on this lightning talk, on the hopes of getting feedback from the community and engaging other projects to collaborate with us.\n",
   "persons": [
     {
       "id": 0,

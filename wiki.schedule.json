@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-26 18:00",
+    "version": "2019-12-26 18:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -2868,6 +2868,34 @@
                 "links": []
               },
               {
+                "id": 1310,
+                "guid": "e59e2c7c-0522-4698-af53-81dccebd3e85",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:NO_Unitary_Software_Patents",
+                "logo": null,
+                "date": "2019-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Lecture room 11",
+                "slug": "36c3-1310-session_no_unitary_software_patents",
+                "title": "NO Unitary Software Patents",
+                "subtitle": "NO Unitary Software Patents",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "EU Software Patents v3.0\nThe Unitary Patent is the third attempt to impose software patents in Europe. Software patents are a threat to small- and medium-sized software companies that cannot defend themselves. The UPC (Unified Patent Court) is an international court made outside of the European Union (EU), which would have the last word over the question of software patenting. The Court would favour \u201cpatent trolls\u201d which steal our jobs and extort money.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zoobab",
+                    "public_name": "Zoobab"
+                  }
+                ],
+                "links": [
+                  "https://www.ffii.org"
+                ]
+              },
+              {
                 "id": 1197,
                 "guid": "decdeb96-9c3c-44e4-93eb-7a76d40172e8",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Subtitles_Angelmeeting",
@@ -3567,6 +3595,11 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:RicardoGrimCabrita",
                     "public_name": "RicardoGrimCabrita"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:GNUtoo",
+                    "public_name": "GNUtoo"
                   }
                 ],
                 "links": [
@@ -3946,34 +3979,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1310,
-                "guid": "e59e2c7c-0522-4698-af53-81dccebd3e85",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:NO_Unitary_Software_Patents",
-                "logo": null,
-                "date": "2019-12-28T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1310-session_no_unitary_software_patents",
-                "title": "NO Unitary Software Patents",
-                "subtitle": "NO Unitary Software Patents",
-                "track": "self organized sessions",
-                "type": "discussion",
-                "language": "en",
-                "abstract": "",
-                "description": "EU Software Patents v3.0\nThe Unitary Patent is the third attempt to impose software patents in Europe. Software patents are a threat to small- and medium-sized software companies that cannot defend themselves. The UPC (Unified Patent Court) is an international court made outside of the European Union (EU), which would have the last word over the question of software patenting. The Court would favour \u201cpatent trolls\u201d which steal our jobs and extort money.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zoobab",
-                    "public_name": "Zoobab"
-                  }
-                ],
-                "links": [
-                  "https://www.ffii.org"
-                ]
               },
               {
                 "id": 1095,
@@ -5598,15 +5603,15 @@
             ],
             "Kidspace": [
               {
-                "id": 1449,
-                "guid": "d95a9c9e-bb86-40f4-959a-3fccf221ceb1",
+                "id": 1454,
+                "guid": "4f6263d4-fbba-44e4-b105-ee10a0a9beba",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Calliope",
                 "logo": null,
                 "date": "2019-12-28T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "2:00",
                 "room": "Kidspace",
-                "slug": "36c3-1449-session_calliope",
+                "slug": "36c3-1454-session_calliope",
                 "title": "Calliope",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -5626,15 +5631,15 @@
                 ]
               },
               {
-                "id": 1452,
-                "guid": "7b94c69c-181f-5656-b4ab-4a2db69a572e",
+                "id": 1456,
+                "guid": "a7f528e5-db2b-4614-be69-5ec7658561b8",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:T-Shirt_Druck",
                 "logo": null,
                 "date": "2019-12-28T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "2:00",
                 "room": "Kidspace",
-                "slug": "36c3-1452-session_t_shirt_druck",
+                "slug": "36c3-1456-session_t_shirt_druck",
                 "title": "T-Shirt Druck",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -7414,7 +7419,7 @@
                 "type": "discussion",
                 "language": "en",
                 "abstract": "",
-                "description": "Proposals on how to get a fully free WebView build or replace it by something completely new\n",
+                "description": "WebView is one of the core components of the Android system, used and abused by apps to render web content (HTML, CSS, JS). WebView is nowadays built out of the Chromium source tree which has been plagued by privacy and freedom issues. As a fully free-software Android distribution, Replicant is exploring different paths to create a WebView build that respects user's privacy and freedom. Our tentative approaches go all the way from further cleaning the Chromium source after projects like ungoogled-chromium, to fully replacing WebView by a shim built around GeckoView. We will present our approaches on this lightning talk, on the hopes of getting feedback from the community and engaging other projects to collaborate with us.\n",
                 "persons": [
                   {
                     "id": 0,
@@ -9073,15 +9078,15 @@
                 "links": []
               },
               {
-                "id": 1451,
-                "guid": "03891a83-3a65-4526-830b-2035136c78ce",
+                "id": 1455,
+                "guid": "c3ceaa97-2a3b-404f-8dc2-6c149f551484",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:T-Shirt_Druck",
                 "logo": null,
                 "date": "2019-12-29T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "2:00",
                 "room": "Kidspace",
-                "slug": "36c3-1451-session_t_shirt_druck",
+                "slug": "36c3-1455-session_t_shirt_druck",
                 "title": "T-Shirt Druck",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -10230,15 +10235,15 @@
             ],
             "Kidspace": [
               {
-                "id": 1453,
-                "guid": "89769e40-a835-5fef-89dc-3e391b75490c",
+                "id": 1451,
+                "guid": "03891a83-3a65-4526-830b-2035136c78ce",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:T-Shirt_Druck",
                 "logo": null,
                 "date": "2019-12-30T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "2:00",
                 "room": "Kidspace",
-                "slug": "36c3-1453-session_t_shirt_druck",
+                "slug": "36c3-1451-session_t_shirt_druck",
                 "title": "T-Shirt Druck",
                 "subtitle": "",
                 "track": "self organized sessions",

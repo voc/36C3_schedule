@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; lounges; chaos-west 1.0; open-infra 12; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 23:30</version>
+  <version>find; lounges; chaos-west 1.0; open-infra 12; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 23:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -13871,6 +13871,33 @@ world. We will look at the challenges they face and what need ideas come with th
         <links>
           <link href="https://www.youtube.com/watch?v=KR4s6t9D9Jo">example talk</link>
         </links>
+        <attachments/>
+      </event>
+      <event id="4363" guid="f48ec0e8-a590-41ab-a5d7-9fe072b742b6">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/163.html</url>
+        <logo/>
+        <date>2019-12-28T21:05:00+01:00</date>
+        <start>21:05</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-163-building_an_actual_alternative</slug>
+        <title>Building an (Actual) Alternative</title>
+        <subtitle>A counter-narrative to the digital surveillance machine.</subtitle>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract>Privacy and freedom within the context of cryptocurrencies, zero-knowledge-proof systems, decentralised protocols and other privacy protection layers is about co-creating and co-shaping alternatives to empower individuals to control their own data. What is the role of Monero in building an actual alternative and preventing the public ledger from becoming another behaviour extraction and surveillance tool? As a community, what type of counter-narratives do we need to create to support this movement? </abstract>
+        <description>Digital surveillance threatens human rights – including privacy and freedom of expression and association, inhibiting the free functioning of a vibrant civil society. While the origins of cryptocurrency may have sought to build an alternative, transparent blockchains and the requirement for KYC/AML checks has proven to blur the lines between private data collection and state tracking once again. This compromises our fundamental human right to financial privacy in the digital era and is positioning the public ledger as a new behaviour extraction and censorship tool. We are at risk of perpetuating, rather than challenging, the system.&#13;
+&#13;
+Monero, arguably the last bastion of cypher-punk resistance in the crypto space, is contributing to an _actual_ alternative through the conscious engineering of privacy-by-default technology that enables fungible, private, censorship-resistant financial transactions. This lightning talk will examine the current status-quo, the role that the Monero community and pro-privacy developers have in co-creating and co-shaping an alternative vision and what it will take to build the counter-narrative against the real politick of surveillance capitalism and the surveillance state.</description>
+        <recording>
+          <license>The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at</license>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="91">Deanna MacDonald</person>
+        </persons>
+        <links/>
         <attachments/>
       </event>
     </room>

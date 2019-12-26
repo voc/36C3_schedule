@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.24; cdc 2</version>
+  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -4311,7 +4311,7 @@ With: Dana Sinaida Ersing</description>
         <slug>36C3-176-intro_to_namecoin</slug>
         <title>Intro to Namecoin</title>
         <subtitle/>
-        <track/>
+        <track>Stage</track>
         <type>lightning_talk</type>
         <language>en</language>
         <abstract>Namecoin is a blockchain (first project forked from Bitcoin) that implements a decentralized DNS and public key infrastructure, which is resistant to censorship, hijacking, and other tampering.  This talk will explain the basics of how Namecoin works and what it can be used for.</abstract>
@@ -11592,11 +11592,11 @@ When lack of control of unrevokable CVE(s) on your project have long term unwant
         <room>Borg</room>
         <slug>3DGFCV</slug>
         <url>https://c3lt.de/36c3/talk/3DGFCV/</url>
-        <title>The Humans-Evaluate-Values Token *can* save the world</title>
+        <title>Menschen Beurteilen Werte Zeichen (aus dem Englischen Humans-Evaluate-Values-Token)</title>
         <subtitle/>
         <track>Hardware &amp; Making</track>
         <type>Lightning Talk</type>
-        <language>en</language>
+        <language>de</language>
         <abstract>The Internet of Values, a power-structure that gives newcomers the most power and strengthens anonymity with crowd-sourced entertaining group-dynamics</abstract>
         <description>Paradoxe Untersuchungen des vorgeschlagenen Wertsystems. Humorvoll und provokativ gedacht, mit ernsthafter Philosophie über ein technologisch-realisierbares Projekt. Wir machen Schwächen zu Stärken, indem wir die Jüngeren in der Offenheit unserer Letzteren ermächtigen: die Werte.</description>
         <recording>
@@ -16717,6 +16717,66 @@ Schließlich werden Handlungsempfehlungen für ein integriertes Entwicklungskonz
         <attachments/>
         <answers/>
       </event>
+      <event id="3217" guid="a613b3ce-4c50-57e0-a79d-f01890da395d">
+        <logo/>
+        <date>2019-12-30T11:50:00+01:00</date>
+        <start>11:50</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>3A3ZJL</slug>
+        <url>https://c3lt.de/36c3/talk/3A3ZJL/</url>
+        <title>Verifpal: cryptographic protocol analysis for students and engineers</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Verifpal is new software for verifying the security of cryptographic protocols that is easy to use.</abstract>
+        <description>Verifpal is new software for verifying the security of cryptographic protocols. Building upon contemporary research in symbolic formal verification, Verifpal’s main aim is to appeal more to real-world practitioners, students and engineers without sacrificing comprehensive formal verification features.&#13;
+&#13;
+In order to achieve this, Verifpal introduces a new, intuitive language for modeling protocols that is much easier to write and understand than the languages employed by existing tools.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="197">Nadim Kobeissi</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3216" guid="fde6b315-cd0c-5c95-bcef-404b087e3e48">
+        <logo/>
+        <date>2019-12-30T11:55:00+01:00</date>
+        <start>11:55</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>UZHUFU</slug>
+        <url>https://c3lt.de/36c3/talk/UZHUFU/</url>
+        <title>Crazy Sequential Representations - The 10958 Problem</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>CSR give integers in terms of 1 to 9 by using addition, subtraction, multiplication, division, exponentiation, parenthesis and/or digit concatenation.</abstract>
+        <description>Inder Taneja attempted to write the integers from 1 up to 11111 in terms of 1 to 9 by using addition, subtraction, multiplication, division, exponentiation, parenthesis and/or digit concatenation. For example:&#13;
+&#13;
+    9617 = 1+2^3*(45+(6+7)*89) &#13;
+    9618 = 1*(2+3+4+5)*(678+9)&#13;
+    9619 = 1+(2+3+4+5)*(678+9)&#13;
+	&#13;
+These are generally referred to as crazy sequential representations (CSR). Interestingly, within the 1 up to 11111 range, only one CSR remains to be identified, namely the CSR for 10958.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="196">Anne Bras</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3205" guid="1ba815ed-41eb-58aa-a1c6-588a090c66cf">
         <logo/>
         <date>2019-12-30T12:15:00+01:00</date>
@@ -16824,6 +16884,32 @@ work-quantum WQ&#13;
         <attachments/>
         <answers/>
       </event>
+      <event id="3220" guid="eaffcddf-0c9f-5705-80c0-d4c686537658">
+        <logo/>
+        <date>2019-12-30T13:05:00+01:00</date>
+        <start>13:05</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>BNTGQH</slug>
+        <url>https://c3lt.de/36c3/talk/BNTGQH/</url>
+        <title>Listling, an open-source web app to make and edit lists collaboratively</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Short introduction of Listling, a free and open-source web app to make and edit lists collaboratively</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="200">Sven</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3162" guid="854de65f-f649-5168-b6c7-1734534bac14">
         <logo/>
         <date>2019-12-30T13:10:00+01:00</date>
@@ -16845,6 +16931,34 @@ work-quantum WQ&#13;
         </recording>
         <persons>
           <person id="152">Ingo Kleiber</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3219" guid="fe6e34b3-9c70-52dc-bc59-64be3c115d1a">
+        <logo/>
+        <date>2019-12-30T13:15:00+01:00</date>
+        <start>13:15</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>RFR3TE</slug>
+        <url>https://c3lt.de/36c3/talk/RFR3TE/</url>
+        <title>Rebuild: Hack a better programming language!</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Let's build a system programming language for hackers! More control and possibly faster than C. No legacy - Just fun!</abstract>
+        <description>Let's build a system programming language for hackers! More control and possibly faster than C. No legacy - Just fun!&#13;
+&#13;
+Link: https://github.com/rebuild-lang</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="199">arBmind</person>
         </persons>
         <links/>
         <attachments/>

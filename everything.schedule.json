@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.24; cdc 2; wiki 2019-12-26 18:20",
+    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 18:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -5842,7 +5842,7 @@
                 "slug": "36C3-176-intro_to_namecoin",
                 "title": "Intro to Namecoin",
                 "subtitle": "",
-                "track": null,
+                "track": "Stage",
                 "type": "lightning_talk",
                 "language": "en",
                 "abstract": "Namecoin is a blockchain (first project forked from Bitcoin) that implements a decentralized DNS and public key infrastructure, which is resistant to censorship, hijacking, and other tampering.  This talk will explain the basics of how Namecoin works and what it can be used for.",
@@ -6686,6 +6686,32 @@
                 "links": [
                   "http://calliope.cc"
                 ]
+              },
+              {
+                "id": 1457,
+                "guid": "9d2a99c4-5e30-4b1b-b19a-b38dcedfe277",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Factorio",
+                "logo": null,
+                "date": "2019-12-27T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "6:00",
+                "room": "Kidspace",
+                "slug": "36c3-1457-session_factorio",
+                "title": "Factorio",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "10 Rechner zum Factorio spielen, Leute die das Spiel erkl\u00e4ren\n10 Rechner zum Factorio spielen, Leute die das Spiel erkl\u00e4renAnzahl Teilnehmer*innen: ca 10-20 gleichzeitig (inkl. Zuschauer)Alter: 7-m JahreDauer bis zu ca.1.5hAnmeldung erforderlich? nein (wenn was frei ist)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aram",
+                    "public_name": "Aram"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1450,
@@ -16934,6 +16960,58 @@
                 ]
               },
               {
+                "id": 1458,
+                "guid": "43e69308-e49b-4765-9d4c-311fdffffbc5",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Factorio",
+                "logo": null,
+                "date": "2019-12-29T00:00:00+01:00",
+                "start": "00:00",
+                "duration": "6:00",
+                "room": "Kidspace",
+                "slug": "36c3-1458-session_factorio",
+                "title": "Factorio",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "10 Rechner zum Factorio spielen, Leute die das Spiel erkl\u00e4ren\n10 Rechner zum Factorio spielen, Leute die das Spiel erkl\u00e4renAnzahl Teilnehmer*innen: ca 10-20 gleichzeitig (inkl. Zuschauer)Alter: 7-m JahreDauer bis zu ca.1.5hAnmeldung erforderlich? nein (wenn was frei ist)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aram",
+                    "public_name": "Aram"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1459,
+                "guid": "186ce40d-60c0-5566-8da4-b9a741a2713b",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Factorio",
+                "logo": null,
+                "date": "2019-12-28T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "6:00",
+                "room": "Kidspace",
+                "slug": "36c3-1459-session_factorio",
+                "title": "Factorio",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "10 Rechner zum Factorio spielen, Leute die das Spiel erkl\u00e4ren\n10 Rechner zum Factorio spielen, Leute die das Spiel erkl\u00e4renAnzahl Teilnehmer*innen: ca 10-20 gleichzeitig (inkl. Zuschauer)Alter: 7-m JahreDauer bis zu ca.1.5hAnmeldung erforderlich? nein (wenn was frei ist)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aram",
+                    "public_name": "Aram"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1456,
                 "guid": "a7f528e5-db2b-4614-be69-5ec7658561b8",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:T-Shirt_Druck",
@@ -18763,11 +18841,11 @@
                 "room": "Borg",
                 "slug": "3DGFCV",
                 "url": "https://c3lt.de/36c3/talk/3DGFCV/",
-                "title": "The Humans-Evaluate-Values Token *can* save the world",
+                "title": "Menschen Beurteilen Werte Zeichen (aus dem Englischen Humans-Evaluate-Values-Token)",
                 "subtitle": "",
                 "track": "Hardware & Making",
                 "type": "Lightning Talk",
-                "language": "en",
+                "language": "de",
                 "abstract": "The Internet of Values, a power-structure that gives newcomers the most power and strengthens anonymity with crowd-sourced entertaining group-dynamics",
                 "description": "Paradoxe Untersuchungen des vorgeschlagenen Wertsystems. Humorvoll und provokativ gedacht, mit ernsthafter Philosophie \u00fcber ein technologisch-realisierbares Projekt. Wir machen Schw\u00e4chen zu St\u00e4rken, indem wir die J\u00fcngeren in der Offenheit unserer Letzteren erm\u00e4chtigen: die Werte.",
                 "recording_license": "",
@@ -22397,7 +22475,7 @@
                 "room": "Lecture room M1",
                 "slug": "36c3-1445-session_the_chromium_mess_meets_android",
                 "title": "The chromium mess meets Android",
-                "subtitle": "Proposals on how to get a fully free WebView build or replace it by something completely new",
+                "subtitle": "Proposals on how to get a fully free WebView build or replace it with something completely new",
                 "track": "self organized sessions",
                 "type": "discussion",
                 "language": "en",
@@ -27047,6 +27125,70 @@
                 "answers": []
               },
               {
+                "id": 3217,
+                "guid": "a613b3ce-4c50-57e0-a79d-f01890da395d",
+                "logo": "",
+                "date": "2019-12-30T11:50:00+01:00",
+                "start": "11:50",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "3A3ZJL",
+                "url": "https://c3lt.de/36c3/talk/3A3ZJL/",
+                "title": "Verifpal: cryptographic protocol analysis for students and engineers",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Verifpal is new software for verifying the security of cryptographic protocols that is easy to use.",
+                "description": "Verifpal is new software for verifying the security of cryptographic protocols. Building upon contemporary research in symbolic formal verification, Verifpal\u2019s main aim is to appeal more to real-world practitioners, students and engineers without sacrificing comprehensive formal verification features.\r\n\r\nIn order to achieve this, Verifpal introduces a new, intuitive language for modeling protocols that is much easier to write and understand than the languages employed by existing tools.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 197,
+                    "code": "CAE78D",
+                    "public_name": "Nadim Kobeissi",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3216,
+                "guid": "fde6b315-cd0c-5c95-bcef-404b087e3e48",
+                "logo": "",
+                "date": "2019-12-30T11:55:00+01:00",
+                "start": "11:55",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "UZHUFU",
+                "url": "https://c3lt.de/36c3/talk/UZHUFU/",
+                "title": "Crazy Sequential Representations - The 10958 Problem",
+                "subtitle": "",
+                "track": "Science",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "CSR give integers in terms of 1 to 9 by using addition, subtraction, multiplication, division, exponentiation, parenthesis and/or digit concatenation.",
+                "description": "Inder Taneja attempted to write the integers from 1 up to 11111 in terms of 1 to 9 by using addition, subtraction, multiplication, division, exponentiation, parenthesis and/or digit concatenation. For example:\r\n\r\n    9617 = 1+2^3*(45+(6+7)*89) \r\n    9618 = 1*(2+3+4+5)*(678+9)\r\n    9619 = 1+(2+3+4+5)*(678+9)\r\n\t\r\nThese are generally referred to as crazy sequential representations (CSR). Interestingly, within the 1 up to 11111 range, only one CSR remains to be identified, namely the CSR for 10958.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 196,
+                    "code": "UGFALZ",
+                    "public_name": "Anne Bras",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3205,
                 "guid": "1ba815ed-41eb-58aa-a1c6-588a090c66cf",
                 "logo": "",
@@ -27143,6 +27285,38 @@
                 "answers": []
               },
               {
+                "id": 3220,
+                "guid": "eaffcddf-0c9f-5705-80c0-d4c686537658",
+                "logo": "",
+                "date": "2019-12-30T13:05:00+01:00",
+                "start": "13:05",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "BNTGQH",
+                "url": "https://c3lt.de/36c3/talk/BNTGQH/",
+                "title": "Listling, an open-source web app to make and edit lists collaboratively",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Short introduction of Listling, a free and open-source web app to make and edit lists collaboratively",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 200,
+                    "code": "N8HXQ8",
+                    "public_name": "Sven",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3162,
                 "guid": "854de65f-f649-5168-b6c7-1734534bac14",
                 "logo": "",
@@ -27166,6 +27340,38 @@
                     "id": 152,
                     "code": "HPYWBU",
                     "public_name": "Ingo Kleiber",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3219,
+                "guid": "fe6e34b3-9c70-52dc-bc59-64be3c115d1a",
+                "logo": "",
+                "date": "2019-12-30T13:15:00+01:00",
+                "start": "13:15",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "RFR3TE",
+                "url": "https://c3lt.de/36c3/talk/RFR3TE/",
+                "title": "Rebuild: Hack a better programming language!",
+                "subtitle": "",
+                "track": "Science",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Let's build a system programming language for hackers! More control and possibly faster than C. No legacy - Just fun!",
+                "description": "Let's build a system programming language for hackers! More control and possibly faster than C. No legacy - Just fun!\r\n\r\nLink: https://github.com/rebuild-lang",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 199,
+                    "code": "XZRZZP",
+                    "public_name": "arBmind",
                     "biography": null,
                     "answers": []
                   }
@@ -29065,6 +29271,65 @@
                 "links": []
               }
             ],
+            "Kidspace": [
+              {
+                "id": 1460,
+                "guid": "c3f0fdb7-319f-5109-a447-d355524294bc",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Factorio",
+                "logo": null,
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "4:00",
+                "room": "Kidspace",
+                "slug": "36c3-1460-session_factorio",
+                "title": "Factorio",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "10 Rechner zum Factorio spielen, Leute die das Spiel erkl\u00e4ren\n10 Rechner zum Factorio spielen, Leute die das Spiel erkl\u00e4renAnzahl Teilnehmer*innen: ca 10-20 gleichzeitig (inkl. Zuschauer)Alter: 7-m JahreDauer bis zu ca.1.5hAnmeldung erforderlich? nein (wenn was frei ist)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aram",
+                    "public_name": "Aram"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1451,
+                "guid": "03891a83-3a65-4526-830b-2035136c78ce",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:T-Shirt_Druck",
+                "logo": null,
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "2:00",
+                "room": "Kidspace",
+                "slug": "36c3-1451-session_t_shirt_druck",
+                "title": "T-Shirt Druck",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "print your own t-shirt, Bedruckt eure T-Shirts\nPrint your own t-shirt with screen printing.Bedruckt eure eigenen T-Shirts mit siebdruck.Anzahl Teilnehmer*innen: 4 / StundeAlter: > 6 JahreDauer 15 ~ 30 MinutenAnmeldung erforderlich? Wir werden Wartemarken ausgebenUnkostenbeitrag: freiwillig, 8~10\u20ac je nach Verbrauch",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ploenne",
+                    "public_name": "Ploenne"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Manou",
+                    "public_name": "Manou"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Assembly:Haecksen": [
               {
                 "id": 1300,
@@ -29282,39 +29547,6 @@
                 "abstract": "",
                 "description": "\n",
                 "persons": [],
-                "links": []
-              }
-            ],
-            "Kidspace": [
-              {
-                "id": 1451,
-                "guid": "03891a83-3a65-4526-830b-2035136c78ce",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:T-Shirt_Druck",
-                "logo": null,
-                "date": "2019-12-30T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "2:00",
-                "room": "Kidspace",
-                "slug": "36c3-1451-session_t_shirt_druck",
-                "title": "T-Shirt Druck",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "",
-                "abstract": "",
-                "description": "print your own t-shirt, Bedruckt eure T-Shirts\nPrint your own t-shirt with screen printing.Bedruckt eure eigenen T-Shirts mit siebdruck.Anzahl Teilnehmer*innen: 4 / StundeAlter: > 6 JahreDauer 15 ~ 30 MinutenAnmeldung erforderlich? Wir werden Wartemarken ausgebenUnkostenbeitrag: freiwillig, 8~10\u20ac je nach Verbrauch",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ploenne",
-                    "public_name": "Ploenne"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Manou",
-                    "public_name": "Manou"
-                  }
-                ],
                 "links": []
               }
             ]

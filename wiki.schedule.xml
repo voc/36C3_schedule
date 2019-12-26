@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-26 13:08</version>
+  <version>2019-12-26 13:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -7515,6 +7515,29 @@ In this introductory workshop you are invited to get a first look at the program
           <person id="0">Mfh</person>
         </persons>
         <links/>
+      </event>
+      <event id="1438" guid="a534f61a-c170-4d7b-ba2d-a66807332251">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Kritical_-_Kubernetes_in_Critigal_Infrastructure</url>
+        <logo/>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1438-session_kritical_kubernetes_in_critigal_infrastructure</slug>
+        <title>Kritical - Kubernetes in Critigal Infrastructure</title>
+        <subtitle>Upcoming challenges to move from cloud native to a security aware mindset</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>The meeting is to exchange ideas and opinions about the upcoming use of K8S in critical infrastructure
+The organizer has audited and consulted on several projects of Kubernetes in critical infrastructure. Areas audited are traffic control, power grids and several health care projects. Some show very strict awareness of security, others have approached the topic totally naive.Let us exchange ideas about the bare necessities and no gos for microservices going critical.</description>
+        <persons>
+          <person id="0">Thomas</person>
+        </persons>
+        <links>
+          <link>https://www.meetup.com/Kubernetes-Security-Berlin/</link>
+        </links>
       </event>
       <event id="1024" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d9">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>

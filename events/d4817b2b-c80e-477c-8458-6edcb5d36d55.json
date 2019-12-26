@@ -1,0 +1,33 @@
+{
+  "url": "https://frab.riat.at/en/36C3/public/schedule/events/120.html",
+  "id": 4320,
+  "guid": "d4817b2b-c80e-477c-8458-6edcb5d36d55",
+  "logo": "/system/events/logos/000/000/120/large/namecoin-coin_1000px.png?1576362175",
+  "date": "2019-12-28T19:25:00+01:00",
+  "start": "19:25",
+  "duration": "00:30",
+  "room": "CDC - Stage",
+  "slug": "36C3-120-adventures_and_experiments_adding_namecoin_to_tor_browser",
+  "title": "Adventures and Experiments Adding Namecoin to Tor Browser",
+  "subtitle": "",
+  "track": "Stage",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "The Namecoin and Tor developers are running a new experiment: the GNU/Linux Nightly Builds of Tor Browser now have optional support for resolving Namecoin's .bit domains.  This experiment aims to provide a fix for the long-standing UX problem with .onion domains: the lack of human-meaningful names.  With Namecoin, you can access onion services via nice, memorable addresses like http://federalistpapers.bit/ instead of http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/ .  In this talk, I'll cover the goals of the experiment, the work that went into getting here, and the work that remains to be done.",
+  "description": "Disclaimer: Although the work covered in this talk is a collaboration between Namecoin and Tor, this talk is solely from Namecoin's perspective.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 101,
+      "public_name": "Jeremy Rand"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.namecoin.org/",
+      "title": "Namecoin"
+    }
+  ],
+  "attachments": []
+}

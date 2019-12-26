@@ -1,0 +1,33 @@
+{
+  "url": "https://frab.riat.at/en/36C3/public/schedule/events/122.html",
+  "id": 4322,
+  "guid": "643f7f8e-ad91-41f5-9e58-b95debfc4ae9",
+  "logo": "/system/events/logos/000/000/122/large/selfie.jpeg?1575906039",
+  "date": "2019-12-30T14:05:00+01:00",
+  "start": "14:05",
+  "duration": "00:15",
+  "room": "CDC - Stage",
+  "slug": "36C3-122-proof_of_less_work",
+  "title": "Proof of Less Work",
+  "subtitle": "A new algorithm to reduce the energy consumption of PoW",
+  "track": "Stage",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "I would like to share my work on reducing the energy consumption of PoW without sacrificing security. My new type of algorithm is called PoLW, inspired by the recent work of Itay, Alexander, and Ittay. For a practical system where mining is profitable, PoLW might actually improve network security.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 107,
+      "public_name": "Cheng Wang"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://github.com/alephium/research/raw/master/polw.pdf",
+      "title": "Paper"
+    }
+  ],
+  "attachments": []
+}

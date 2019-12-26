@@ -1,0 +1,28 @@
+{
+  "url": "https://frab.riat.at/en/36C3/public/schedule/events/87.html",
+  "id": 4287,
+  "guid": "225fc316-0270-4006-958e-fcb832aba453",
+  "logo": null,
+  "date": "2019-12-29T20:45:00+01:00",
+  "start": "20:45",
+  "duration": "00:45",
+  "room": "CDC - Stage",
+  "slug": "36C3-87-bitcoin_to_the_post-quantum_era",
+  "title": "Bitcoin to the Post-Quantum Era",
+  "subtitle": "",
+  "track": "Stage",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Given the amount of funding and research that recently goes into quantum computers, it seems inevitable that at some point in the (near) future these machines will become a reality. With my physicist's hat on, this is exciting and amazing news, but as a cryptographer this is a nightmare. Most of our most efficient and widely used signature schemes would just go away in the blink of an eye.\r\nIs this the case for Bitcoin? Can we do anything to move Bitcoin to the Post-Quantum Era?\r\nIn this talk, I present the basic principles Quantum Computers rely on to perform certain calculations much faster than classical computers. We give a beginner\u2019s explanation to some quantum algorithms that can undermine Bitcoin\u2019s security and show how they can be used to hijack transactions. Finally, I present a protocol upgrade for Bitcoin that allows users to securely transition their funds to quantum resistant wallets even in the presence of a quantum computer!",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 97,
+      "public_name": "Dragos Ilie"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

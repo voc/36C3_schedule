@@ -1,0 +1,28 @@
+{
+  "url": "https://frab.riat.at/en/36C3/public/schedule/events/124.html",
+  "id": 4324,
+  "guid": "aad01d49-388c-468d-8c4c-966edf5f8b56",
+  "logo": "/system/events/logos/000/000/124/large/bisq_mark_3x.png?1577294066",
+  "date": "2019-12-28T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:30",
+  "room": "CDC - Stage",
+  "slug": "36C3-124-p2p_trading_in_cryptoanarchy",
+  "title": "P2P Trading in Cryptoanarchy",
+  "subtitle": "Removing Third Parties from Bisq's Dispute Resolution System",
+  "track": "Stage",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "How can we trade directly with another party on the internet, without involving a trusted third party or legal system? Is there a way to trust the other party to be honest? \r\n\r\nBisq recently implemented a dispute resolution system that keeps control of escrowed funds between the 2 traders only (2-of-2 multisig, instead of 2-of-3 multisig with trusted arbitrator). \r\n\r\nSee how it combines game-theoretic, financial, and cryptographic tools to accomplish sovereign (and anonymous) peer-to-peer trading.",
+  "description": "Centralized exchanges rely on company policies and legal systems to ensure smooth operations. Decentralized exchanges mostly rely on trusted third parties to resolve disputes. \r\n\r\nBut what if we wanted to avoid trusting third parties and expensive and unpredictable legal systems? \r\n\r\nHow can we resolve disputes in a system of cryptoanarchy, where no one has absolute power?\r\n\r\nBisq's new dispute resolution system offers 1 approach, implemented recently in its move to 2-of-2 multisignature trade wallets where only the 2 traders have control over their funds (previously 2-of-3, where a trusted arbitrator held a third key). The new solution enabled Bisq to decentralize the trust formerly placed in arbitrators across 3 mechanisms that encourage both traders to follow the rules...and to punish them if they don't.\r\n\r\nThis talk covers the combination of game-theoretic, financial, and cryptographic tools to accomplish sovereign (and anonymous) peer-to-peer trading.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 93,
+      "public_name": "m52go"
+    }
+  ],
+  "links": [],
+  "attachments": []
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://frab.riat.at/en/36C3/public/schedule/events/103.html",
+  "id": 4303,
+  "guid": "7928f3a1-8ef7-4f33-9713-a379ccafa25b",
+  "logo": null,
+  "date": "2019-12-29T18:35:00+01:00",
+  "start": "18:35",
+  "duration": "00:30",
+  "room": "CDC - Stage",
+  "slug": "36C3-103-on_bitcoin-monero_atomic_swaps",
+  "title": "On bitcoin-monero atomic swaps",
+  "subtitle": "",
+  "track": null,
+  "type": "lecture",
+  "language": "en",
+  "abstract": "In this talk we propose an approach on bitcoin-monero atomic swap, its development state and open problems.",
+  "description": "Cross-chain atomic swaps have been discussed for a very long time and are very useful tools. In blockchains where hashed timelock contracts are doable atomic swaps are already deployed, but when one blockchain doesn't have this capability it becomes a challenge. This protocol describes how to achieve atomic swaps between Bitcoin and Monero with two transactions per chain without trusting any central authority, servers, nor the other swap participant. We propose a swap between two participants, one holding bitcoin and the other monero, in which when both follow the protocol their funds are not at risk at any moment. The protocol does not require timelocks on Monero side nor script capabilities, but requires two zero-knowledge proofs to secure the setup phase.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 106,
+      "public_name": "bonfire.link"
+    },
+    {
+      "id": 115,
+      "public_name": "Joel \u201ch4sh3d\u201d Gugger"
+    },
+    {
+      "id": 116,
+      "public_name": "p"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://github.com/h4sh3d/xmr-btc-atomic-swap",
+      "title": "Official GitHub"
+    }
+  ],
+  "attachments": []
+}

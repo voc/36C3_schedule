@@ -1,0 +1,37 @@
+{
+  "url": "https://frab.riat.at/en/36C3/public/schedule/events/128.html",
+  "id": 4328,
+  "guid": "3c56e9b7-4b0c-4d5b-9b5e-6e4bd71fbadd",
+  "logo": "/system/events/logos/000/000/128/large/namecoin-coin_1000px.png?1576362282",
+  "date": "2019-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "CDC - Workshop area",
+  "slug": "36C3-128-demo_and_discussion_namecoin_in_tor_browser",
+  "title": "Demo and Discussion: Namecoin in Tor Browser",
+  "subtitle": "",
+  "track": "Workshop",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "The Namecoin and Tor developers are running a new experiment: the GNU/Linux Nightly Builds of Tor Browser now have optional support for resolving Namecoin's .bit domains.  This experiment aims to provide a fix for the long-standing UX problem with .onion domains: the lack of human-meaningful names.  With Namecoin, you can access onion services via nice, memorable addresses like http://federalistpapers.bit/ instead of http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/ .  In this workshop, you'll be able to try it out yourself.  Bring a GNU/Linux machine (bare-metal or VM are both fine).  After the demo, I'd love your feedback on what our next steps should be in this area.",
+  "description": "I highly recommend attending my talk \"Adventures and Experiments Adding Namecoin to Tor Browser\" prior to this workshop, but this is not a hard requirement; attendees who didn't attend that talk are still welcome.\r\n\r\nDisclaimer: Although the work covered in this workshop is a collaboration between Namecoin and Tor, this workshop is solely from Namecoin's perspective.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 101,
+      "public_name": "Jeremy Rand"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.namecoin.org/",
+      "title": "Namecoin"
+    },
+    {
+      "url": "https://www.namecoin.org/36c3-workshop/",
+      "title": "Workshop Notes"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://frab.riat.at/en/36C3/public/schedule/events/108.html",
+  "id": 4308,
+  "guid": "1342b1f2-cf1b-4ff6-8c4b-44d9271c205f",
+  "logo": "/system/events/logos/000/000/108/large/nym-logo-cut.png?1576879288",
+  "date": "2019-12-28T15:55:00+01:00",
+  "start": "15:55",
+  "duration": "00:30",
+  "room": "CDC - Stage",
+  "slug": "36C3-108-nym",
+  "title": "Nym",
+  "subtitle": "Launch of an Incentized Mixnet test-net",
+  "track": "Stage",
+  "type": "lecture",
+  "language": "en",
+  "abstract": "Nym is a decentralized and incentived mix-network that can defeat even global passive adversaries. This event will launch the \"alpha\" Rust mix-net of Nym, and demonstrate the use of validators to create anonymous authentication credentials to access the mix-net. ",
+  "description": "\r\nNym builds a modern anonymous communication mix-net that is incentized, rewarding mix-nodes using \"proof of mixing.\"  Coming from the<a href=\"https://panoramix-project.eu/\">PANORAMIX</a> project, the startup <a href=\"https://nymtech.net\">Nym Technologies</a> from Neuchatel in Switzerland, has recently built the core mix-net infrastructure in Rust, and will do the first demonstration of the live \"alpha\" test-net at Chaos Computer Congress. \r\n\r\nA mix-net is superior to Tor insofar as it uses delays and cover traffic to break patterns in metadata. Nodes that join get rewarded in tokens for successfully mixing traffic, using commitments to a VRF to generate fair sampling of the underlying network. \r\n\r\nIn order to prevent denial of service and sybil attacks, Nym uses anonymous authentication credentials, currently based on the Coconut signature scheme, famously acquired by Facebook and described at the last Chaos Computer Camp in this <a href=\"https://media.ccc.de/v/Camp2019-10317-fighting_back_against_libra_-_decentralizing_facebook_connect\">lecture</a>. We'll demonstrate how the test-net works with these credentials and can validate them in a decentralized manner.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 122,
+      "public_name": "Harry Halpin"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://github.com/nymtech",
+      "title": "Nym Codebase"
+    },
+    {
+      "url": "https://nymtech.net/",
+      "title": "Nym's website"
+    },
+    {
+      "url": "https://nymtech.net/nym-litepaper.pdf",
+      "title": "Nym litepaper"
+    }
+  ],
+  "attachments": []
+}

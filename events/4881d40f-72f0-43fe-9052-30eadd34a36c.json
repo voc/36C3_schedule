@@ -1,0 +1,37 @@
+{
+  "url": "https://frab.riat.at/en/36C3/public/schedule/events/130.html",
+  "id": 4330,
+  "guid": "4881d40f-72f0-43fe-9052-30eadd34a36c",
+  "logo": "/system/events/logos/000/000/130/large/replicant.png?1576606286",
+  "date": "2019-12-27T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "00:15",
+  "room": "CDC - Stage",
+  "slug": "36C3-130-introduction_to_replicant",
+  "title": "Introduction to Replicant",
+  "subtitle": "Why and how to make a fully free software Android distribution",
+  "track": "Stage",
+  "type": "lightning_talk",
+  "language": "en",
+  "abstract": "Replicant is a fully free Android distribution that is approved by the FSF. This short talk will briefly explain: why Replicant came into being; the freedom, privacy and security issues it has found in devices aimed to run Android; and the approaches that it follows to liberate such Android devices.",
+  "description": "Replicant is a fully free software Android distribution that puts emphasis on freedom, privacy and security. It is based on LineageOS and replaces or avoids every proprietary component of the system. Replicant is so far the only distribution for smartphones that is endorsed by the Free Software Foundation as meeting the Free System Distribution Guidelines.\r\n\r\nStarting out as a project that aimed to make the HTC Dream smartphone usable with only free software, it proved that running Android on these devices was much simpler and effective than porting GNU/Linux to them. The main reason behind that lies in the Android architecture: while in GNU/Linux the hardware abstraction is done in the Linux kernel, in Android it is done in hardware abstraction libraries. This enabled hardware manufacturers to break the kernel API, making it very difficult to run GNU/Linux properly on such devices.\r\n\r\nAs the work progressed, the team took the opportunity to learn more about the hardware architecture of the smartphones they were supporting, as it has a big impact on freedom as well.\r\n\r\nIn most early Android Android devices, the modem was in control of everything, with full access to RAM, sound card and GPS. Because of that, Replicant shifted focus to devices where the modem is isolated, and started documenting hardware freedom issues across different devices as well.\r\n\r\nMost of the heavy work to get new devices ported to Replicant revolved around creating free software replacements for nonfree userspace protocol implementations, such as the Radio Interface Layer (RIL) that communicates with the modem, or the NMEA protocol to talk with the GPS. With that work, one backdoor was found in the proprietary Samsung RIL implementation, which allowed the modem to read the contents of the filesystem.\r\n\r\nAlthough the project had fixed some of the freedom issues affecting smartphones and tablets, there was still one critical component missing to be able to run fully free software on the main CPU: the bootloader. Focus was then redirected to devices such as the GTA04 and the Optimus Black, that have an unlocked bootloader and were made to work with u-boot. Unfortunately these devices required a lot of work: the GTA04 had a kernel closely based on upstream Linux, but at the time it required too much time to convert it to use the Android power management models. For the Optimus black, the u-boot port took a huge amount of work as well, leaving no time to finish upstreaming the Linux support.\r\n\r\nReplicant, as well as it's upstream (LineageOS), inherit the Linux kernel that device manufacturers release thanks to the requirements of the GPL license. Unfortunately it is usually based on versions that are several years old and no longer maintained, riddled with bugs and security concerns. Also, such kernels usually come with dozens to hundreds of out-of-tree patches, required for essential peripherals such as modem, cameras or display. Maintaining and adapting such a kernel to new Android versions ourselves requires too much work. Because of that, we had to drop devices for versions where LineageOS decided to drop them.\r\n\r\nTaking this into consideration, and having learnt the lessons on how lack of proper kernel support can ditch a device, Replicant is now shifting focus to prepare devices to run a mainline kernel with full support for their peripherals. Replicant is also adopting mainline userspace such as Mesa. Furthermore it is also looking to support community oriented devices such as the Pinephone, that offer a better hardware platform for free software.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 87,
+      "public_name": "dllud"
+    },
+    {
+      "id": 111,
+      "public_name": "Denis 'GNUtoo' Carikli"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://git.replicant.us/contrib/GNUtoo/presentations/tree/36c3/Replicant_introduction",
+      "title": "Git repo for slides"
+    }
+  ],
+  "attachments": []
+}

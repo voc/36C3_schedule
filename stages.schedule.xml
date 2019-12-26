@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23</version>
+  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; cdc 2</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -4124,6 +4124,345 @@ https://schaltkreismusik.bandcamp.com</description>
         <links/>
         <attachments/>
         <answers/>
+      </event>
+    </room>
+    <room name="CDC - Stage">
+      <event id="4373" guid="9e4674be-f2b9-465d-8753-21941ce4ef63">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/173.html</url>
+        <logo/>
+        <date>2019-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-173-introduction_to_decentral_community</slug>
+        <title>Introduction to decentral.community</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4375" guid="b231c6ce-1717-47b7-aa0c-bba9320a510d">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/175.html</url>
+        <logo/>
+        <date>2019-12-27T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-175-introduction_to_monero_at_36c3</slug>
+        <title>Introduction to Monero at 36C3</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4374" guid="df20222c-db22-4ca4-ad8c-3f4c2fb77460">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/174.html</url>
+        <logo/>
+        <date>2019-12-27T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-174-introduction_to_riat</slug>
+        <title>Introduction to RIAT</title>
+        <subtitle/>
+        <track/>
+        <type>lightning_talk</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4378" guid="24cde94d-67a9-47a1-8dcf-aebfdd321a23">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/178.html</url>
+        <logo/>
+        <date>2019-12-27T17:45:00+01:00</date>
+        <start>17:45</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-178-the_history_of_decentral_community_the_cdc</slug>
+        <title>The history of decentral.community (the CDC)</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="86">nevvton</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4364" guid="0fc0938d-880b-4d17-b9a3-f0e925bfc207">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/164.html</url>
+        <logo>/system/events/logos/000/000/164/large/Swiss.jpg?1577289497</logo>
+        <date>2019-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-164-intro_to_the_swiss_cryptoeconomics_assembly</slug>
+        <title>Intro to the Swiss Cryptoeconomics assembly</title>
+        <subtitle/>
+        <track/>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Presentation of the members and working goups of the Swiss Cryptoeconomics assembly.</abstract>
+        <description>Presentation of the Swiss Cryptoeconomics assemby.</description>
+        <recording>
+          <license>The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at</license>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="117">polto</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4376" guid="37de2e6d-eaaf-4476-9c08-d22bac65b779">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/176.html</url>
+        <logo/>
+        <date>2019-12-27T18:15:00+01:00</date>
+        <start>18:15</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-176-namecoin</slug>
+        <title>Namecoin</title>
+        <subtitle/>
+        <track/>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4338" guid="462901df-e51c-437a-a0bc-add9bed3bb88">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/138.html</url>
+        <logo>/system/events/logos/000/000/138/large/fossasia-300dpi.png?1577181680</logo>
+        <date>2019-12-27T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-138-open_hardware_developed_at_fossasia</slug>
+        <title>Open Hardware Developed at FOSSASIA</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>In this interactive session we will introduce Open Hardware projects at FOSSASIA and share experience developing a project from the idea stage to market. Projects discussed include Pocket Science Lab, Neurolab, Badge Magic and more.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">Mario Behling</person>
+        </persons>
+        <links>
+          <link href="https://fossasia.org">FOSSASIA Website</link>
+          <link href="https://pslab.io">PSLab</link>
+          <link href="https://github.com/fossasia">neurolab</link>
+          <link href="https://github.com/fossasia?q=badge+magic">Badge Magic</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4377" guid="1f4701fd-d07a-4d6d-ae04-8578b937a0c2">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/177.html</url>
+        <logo/>
+        <date>2019-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-177-paralelni_polis</slug>
+        <title>Paralelni Polis</title>
+        <subtitle/>
+        <track/>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4330" guid="4881d40f-72f0-43fe-9052-30eadd34a36c">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/130.html</url>
+        <logo>/system/events/logos/000/000/130/large/replicant.png?1576606286</logo>
+        <date>2019-12-27T19:15:00+01:00</date>
+        <start>19:15</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-130-introduction_to_replicant</slug>
+        <title>Introduction to Replicant</title>
+        <subtitle>Why and how to make a fully free software Android distribution</subtitle>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract>Replicant is a fully free Android distribution that is approved by the FSF. This short talk will briefly explain: why Replicant came into being; the freedom, privacy and security issues it has found in devices aimed to run Android; and the approaches that it follows to liberate such Android devices.</abstract>
+        <description>Replicant is a fully free software Android distribution that puts emphasis on freedom, privacy and security. It is based on LineageOS and replaces or avoids every proprietary component of the system. Replicant is so far the only distribution for smartphones that is endorsed by the Free Software Foundation as meeting the Free System Distribution Guidelines.&#13;
+&#13;
+Starting out as a project that aimed to make the HTC Dream smartphone usable with only free software, it proved that running Android on these devices was much simpler and effective than porting GNU/Linux to them. The main reason behind that lies in the Android architecture: while in GNU/Linux the hardware abstraction is done in the Linux kernel, in Android it is done in hardware abstraction libraries. This enabled hardware manufacturers to break the kernel API, making it very difficult to run GNU/Linux properly on such devices.&#13;
+&#13;
+As the work progressed, the team took the opportunity to learn more about the hardware architecture of the smartphones they were supporting, as it has a big impact on freedom as well.&#13;
+&#13;
+In most early Android Android devices, the modem was in control of everything, with full access to RAM, sound card and GPS. Because of that, Replicant shifted focus to devices where the modem is isolated, and started documenting hardware freedom issues across different devices as well.&#13;
+&#13;
+Most of the heavy work to get new devices ported to Replicant revolved around creating free software replacements for nonfree userspace protocol implementations, such as the Radio Interface Layer (RIL) that communicates with the modem, or the NMEA protocol to talk with the GPS. With that work, one backdoor was found in the proprietary Samsung RIL implementation, which allowed the modem to read the contents of the filesystem.&#13;
+&#13;
+Although the project had fixed some of the freedom issues affecting smartphones and tablets, there was still one critical component missing to be able to run fully free software on the main CPU: the bootloader. Focus was then redirected to devices such as the GTA04 and the Optimus Black, that have an unlocked bootloader and were made to work with u-boot. Unfortunately these devices required a lot of work: the GTA04 had a kernel closely based on upstream Linux, but at the time it required too much time to convert it to use the Android power management models. For the Optimus black, the u-boot port took a huge amount of work as well, leaving no time to finish upstreaming the Linux support.&#13;
+&#13;
+Replicant, as well as it's upstream (LineageOS), inherit the Linux kernel that device manufacturers release thanks to the requirements of the GPL license. Unfortunately it is usually based on versions that are several years old and no longer maintained, riddled with bugs and security concerns. Also, such kernels usually come with dozens to hundreds of out-of-tree patches, required for essential peripherals such as modem, cameras or display. Maintaining and adapting such a kernel to new Android versions ourselves requires too much work. Because of that, we had to drop devices for versions where LineageOS decided to drop them.&#13;
+&#13;
+Taking this into consideration, and having learnt the lessons on how lack of proper kernel support can ditch a device, Replicant is now shifting focus to prepare devices to run a mainline kernel with full support for their peripherals. Replicant is also adopting mainline userspace such as Mesa. Furthermore it is also looking to support community oriented devices such as the Pinephone, that offer a better hardware platform for free software.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="87">dllud</person>
+          <person id="111">Denis 'GNUtoo' Carikli</person>
+        </persons>
+        <links>
+          <link href="https://git.replicant.us/contrib/GNUtoo/presentations/tree/36c3/Replicant_introduction">Git repo for slides</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4380" guid="0deec7dd-ff6d-44d3-ac26-6b7c821c895e">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/180.html</url>
+        <logo/>
+        <date>2019-12-27T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-180-implicitcad</slug>
+        <title>ImplicitCAD</title>
+        <subtitle/>
+        <track/>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4379" guid="f0ed92a3-f9b5-439a-a2b7-1fad65349f2d">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/179.html</url>
+        <logo/>
+        <date>2019-12-27T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-179-oshwa</slug>
+        <title>OSHWA</title>
+        <subtitle/>
+        <track/>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4381" guid="25ea7cc6-04f8-4cc3-8fe7-2dbff036d96e">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/181.html</url>
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-181-decentral_community_36c3_-_the_program_in_detail</slug>
+        <title>decentral.community 36C3 - the program in detail</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="FOSSASIA Workshops - CDC">
+      <event id="4333" guid="7a11057e-a0b8-47ac-9dc5-5cbcf768d82c">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/133.html</url>
+        <logo>/system/events/logos/000/000/133/large/PSLab-Kit.jpg?1577181472</logo>
+        <date>2019-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:40</duration>
+        <room>FOSSASIA Workshops - CDC</room>
+        <slug>36C3-133-pocket_science_lab</slug>
+        <title>Pocket Science Lab</title>
+        <subtitle>Experiments for Physics, Chemistry, Biology and more with Open Science Hardware</subtitle>
+        <track>FOSSASIA Workshops</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>In this workshop we will introduce participants to Pocket Science Lab and collaborate with participants to conduct experiments with the project.  Participants can use a mobile Android phone or a Linux desktop PC to connect to the device.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">Mario Behling</person>
+          <person id="112">François Cartegnie</person>
+          <person id="35">hpdang</person>
+        </persons>
+        <links>
+          <link href="https://pslab.io">Pocket Science Lab</link>
+        </links>
+        <attachments/>
       </event>
     </room>
   </day>
@@ -9578,6 +9917,670 @@ With: Dana Sinaida Ersing</description>
         <answers/>
       </event>
     </room>
+    <room name="CDC - Stage">
+      <event id="4370" guid="00ffaf88-5602-414c-ab35-98fa1c02903b">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/170.html</url>
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-170-introduction_to_day_2</slug>
+        <title>Introduction to day 2</title>
+        <subtitle/>
+        <track/>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4343" guid="54ace740-aed5-4990-ae1e-9d1a8d274d2f">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/143.html</url>
+        <logo/>
+        <date>2019-12-28T13:15:00+01:00</date>
+        <start>13:15</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-143-funding_models_of_foss</slug>
+        <title>Funding models of FOSS</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract>Diego talks about various FOSS funding models, which are the most successful, and how to make FOSS sustainable for the upcoming years.</abstract>
+        <description>FOSS is in a very strange place where the entire internet runs off of its infrastructure, but it generates little money for the people responsible for maintenance and upkeep.&#13;
+&#13;
+This talk looks at FOSS projects, big and small, as well as the unique challenges they face to keep their developers working on them, the consequences if they fall into disrepair, and sustainable, profitable funding models for them.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="66">Diego "rehrar" Salazar</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4313" guid="ecfd7dc7-5ccf-4c2d-87f5-ce72e55ea198">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/113.html</url>
+        <logo>/system/events/logos/000/000/113/large/fork.jpg?1577204084</logo>
+        <date>2019-12-28T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-113-the_sharp_forks_we_follow</slug>
+        <title>The sharp forks we follow</title>
+        <subtitle>A social take on protocol forks, their benefits, and perils</subtitle>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>In this talk, we will discuss forks as human consensus failure modes, why they happen and their consequences. We will look at examples of forks in different social structures: from hunter-gatherer tribes and religious factions, to open source projects and, particularly, the cryptoeconomic protocols that enable decentralized infrastructure. We will cover the dynamics at play in forks from multiples angles: technical, economical, political, and theological.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="52">Ome</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4321" guid="e33ea9c5-24bc-4294-a20a-b36d24bfe91e">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/121.html</url>
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:45</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-121-the_secret_truecrypt_audit_from_the_bsi</slug>
+        <title>The Secret Truecrypt Audit from the BSI</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language/>
+        <abstract/>
+        <description>In 2010 the German Federal Office for Information Security (BSI) created a security audit of the encryption software Truecrypt - and didn't publish it.&#13;
+&#13;
+Truecrypt has an interesting and sometimes mysterious history. The anonymous creators suddenly stopped development in 2014 and warned about unfixed security issues, without further explanation. At the same time a donation-funded security audit was organized by cryptographer Matthew Green, which didn't find any serious issues. A fork of Truecrypt called Veracrypt is still developed today.&#13;
+&#13;
+The audit by the BSI was only recently revealed with a request according to the German freedom of information law. It contains information about bugs in the code that are present until today.&#13;
+&#13;
+The talk will present some of these findings and discuss the questionable role of the BSI.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="126">Hanno Böck</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4324" guid="aad01d49-388c-468d-8c4c-966edf5f8b56">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/124.html</url>
+        <logo>/system/events/logos/000/000/124/large/bisq_mark_3x.png?1577294066</logo>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-124-p2p_trading_in_cryptoanarchy</slug>
+        <title>P2P Trading in Cryptoanarchy</title>
+        <subtitle>Removing Third Parties from Bisq's Dispute Resolution System</subtitle>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>How can we trade directly with another party on the internet, without involving a trusted third party or legal system? Is there a way to trust the other party to be honest? &#13;
+&#13;
+Bisq recently implemented a dispute resolution system that keeps control of escrowed funds between the 2 traders only (2-of-2 multisig, instead of 2-of-3 multisig with trusted arbitrator). &#13;
+&#13;
+See how it combines game-theoretic, financial, and cryptographic tools to accomplish sovereign (and anonymous) peer-to-peer trading.</abstract>
+        <description>Centralized exchanges rely on company policies and legal systems to ensure smooth operations. Decentralized exchanges mostly rely on trusted third parties to resolve disputes. &#13;
+&#13;
+But what if we wanted to avoid trusting third parties and expensive and unpredictable legal systems? &#13;
+&#13;
+How can we resolve disputes in a system of cryptoanarchy, where no one has absolute power?&#13;
+&#13;
+Bisq's new dispute resolution system offers 1 approach, implemented recently in its move to 2-of-2 multisignature trade wallets where only the 2 traders have control over their funds (previously 2-of-3, where a trusted arbitrator held a third key). The new solution enabled Bisq to decentralize the trust formerly placed in arbitrators across 3 mechanisms that encourage both traders to follow the rules...and to punish them if they don't.&#13;
+&#13;
+This talk covers the combination of game-theoretic, financial, and cryptographic tools to accomplish sovereign (and anonymous) peer-to-peer trading.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="93">m52go</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4325" guid="667a977b-b7ca-4115-a9cc-c914003c4a53">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/125.html</url>
+        <logo/>
+        <date>2019-12-28T15:35:00+01:00</date>
+        <start>15:35</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-125-an_overview_of_monero_s_adaptive_blockweight_approach_to_scaling</slug>
+        <title>An Overview of Monero’s Adaptive Blockweight Approach to Scaling </title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract>Monero has a unique among the major crypto currencies approach to scaling, that relies on a penalty driven adaptive blockweight (blocksize) and  a minimum or tail block reward. This is fundamentally different from the fixed blockweight and falling bock rewards that are prevalent in Bitcoin and Bitcoin clones. We will provide an overview of Monero’s adaptive blockweight, fee market and how blockweight differs from blocksize together with the dual median changes and transaction changes that were introduced in the 2019 spring and fall network updates.  We will compare adaptive vs fixed blockweights, and the impact of minimum block rewards (Monero) vs falling block rewards (Bitcoin and Bitcoin clones) on long term network security.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="92">Francisco "ArticMine" Cabañas</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4308" guid="1342b1f2-cf1b-4ff6-8c4b-44d9271c205f">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/108.html</url>
+        <logo>/system/events/logos/000/000/108/large/nym-logo-cut.png?1576879288</logo>
+        <date>2019-12-28T15:55:00+01:00</date>
+        <start>15:55</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-108-nym</slug>
+        <title>Nym</title>
+        <subtitle>Launch of an Incentized Mixnet test-net</subtitle>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Nym is a decentralized and incentived mix-network that can defeat even global passive adversaries. This event will launch the "alpha" Rust mix-net of Nym, and demonstrate the use of validators to create anonymous authentication credentials to access the mix-net. </abstract>
+        <description>&#13;
+Nym builds a modern anonymous communication mix-net that is incentized, rewarding mix-nodes using "proof of mixing."  Coming from the&lt;a href="https://panoramix-project.eu/"&gt;PANORAMIX&lt;/a&gt; project, the startup &lt;a href="https://nymtech.net"&gt;Nym Technologies&lt;/a&gt; from Neuchatel in Switzerland, has recently built the core mix-net infrastructure in Rust, and will do the first demonstration of the live "alpha" test-net at Chaos Computer Congress. &#13;
+&#13;
+A mix-net is superior to Tor insofar as it uses delays and cover traffic to break patterns in metadata. Nodes that join get rewarded in tokens for successfully mixing traffic, using commitments to a VRF to generate fair sampling of the underlying network. &#13;
+&#13;
+In order to prevent denial of service and sybil attacks, Nym uses anonymous authentication credentials, currently based on the Coconut signature scheme, famously acquired by Facebook and described at the last Chaos Computer Camp in this &lt;a href="https://media.ccc.de/v/Camp2019-10317-fighting_back_against_libra_-_decentralizing_facebook_connect"&gt;lecture&lt;/a&gt;. We'll demonstrate how the test-net works with these credentials and can validate them in a decentralized manner.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="122">Harry Halpin</person>
+        </persons>
+        <links>
+          <link href="https://github.com/nymtech">Nym Codebase</link>
+          <link href="https://nymtech.net/">Nym's website</link>
+          <link href="https://nymtech.net/nym-litepaper.pdf">Nym litepaper</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4302" guid="a10b52bd-55f4-4673-83f8-a3b92dd7cf9e">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/102.html</url>
+        <logo/>
+        <date>2019-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-102-digital_integrity_of_the_human_person</slug>
+        <title>Digital integrity of the human person</title>
+        <subtitle>proposal for a new fundamental right.</subtitle>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Description/Abstract: Every human evolves today in multi-dimensional physical and digital environment. If each individual is to keep its individuality and autonomy in its daily choices, it must be protected and given effective tools to defend its own autonomy.&#13;
+Recognizing that human life has been digitally extended must question ourselves on what makes us human today. Should personal data be considered as component of the person, rather than objects that can be owned by whoever collects that data? Should our digital integrity be protected?&#13;
+If each human person already has a right to physical and mental integrity (Swiss Constitution article 10 al.2), shouldn't it have a right to digital integrity?&#13;
+This talk will introduce this new legal concept, its possible implications for data protection and how this concept could be introduced in the current legal framework.&#13;
+</abstract>
+        <description>Additional Talk Information: The addition of this new right will be discussed by the Walliser Verfassungsrat in charge of writing the new Cantonal Constitution. &#13;
+&#13;
+The association of French speaking Data Protection Authorities, including the Swiss authority, has issued a comment that "personal data are components of the human person"</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="118">Alexis</person>
+        </persons>
+        <links>
+          <link href="https://www.vs.ch/documents/3914032/5755154/20191011_Rapport%20de%20s%C3%A9ance%20de%20commission%202%20-%20Bericht%20Sitzung%20Kommission%202">New Cantonal Constitution</link>
+          <link href="https://www.afapdp.org/wp-content/uploads/2018/11/AG2018_4_Resolution-sur-la-propriete-sur-les-donnees-ADOPTE-LE-19-OCT-2018.pdf">"personal data are components of the human person"</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4284" guid="b3125b62-eb1f-4533-81ee-5c07019aa4de">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/84.html</url>
+        <logo>/system/events/logos/000/000/084/large/header_%281%29.png?1574089487</logo>
+        <date>2019-12-28T17:05:00+01:00</date>
+        <start>17:05</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-84-cyber_congress</slug>
+        <title>cyber~Congress</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Our mission is to fuckGoogle and other megacorps. We are geeks that build open-source things. Code first. Everything else later. </abstract>
+        <description>My idea was to give a talk about the open source protocol we have created. Its main idea is to change the way we search for things by using sybil resistant mechanism for indexation and ranking, knowledge graphs and computational resources that are required for this. &#13;
+&#13;
+The protocol is built with the help of ipfs and tendernint. The cool thing is that with changing Semantics we create along much more use cases that web 3 browsers (which are in fact personal applications), we can create unified linguistics, autonomous robots, solve some basic income issues, program complex matrices, create language convergence, proof of location, etc&#13;
+&#13;
+Our main goal is to fuckgoogle, which is basically our motto. So the idea was to talk about the issues we underestimate that derive from centralized search, ranking, indexation, etc. Why search is important and why web 2 is broken</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="89">cyber~Congress</person>
+        </persons>
+        <links>
+          <link href="https://github.com/cybercongress">github</link>
+          <link href="https://docs.google.com/presentation/d/1ICLIog4BDC-PaWLv6fpbbEtTv57SHI9xA-n1P27e4Bc/edit?usp=sharing">CDC presentation </link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4288" guid="ba2297c5-c75f-43c0-8601-997628608235">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/88.html</url>
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-88-fiat_bitcoin_monero_2008-present</slug>
+        <title>Fiat, Bitcoin, Monero:  2008-present</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>A deep-dive summary of the technical, economic, and social aspects of fiat, Bitcoin, and Monero from 2008 to the present day.  In keeping with 36C3 CDC's theme of "Respect My Privacy," this talk will emphasize features of cryptocurrencies and asset protection structures that are important to those early adopters who value their privacy.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="90">Dr. Daniel Kim</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4296" guid="2479cb2b-42b1-47fd-a92e-4df68804f19d">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/96.html</url>
+        <logo>/system/events/logos/000/000/096/large/Screenshot_2019-12-25_at_16.40.25.png?1577288545</logo>
+        <date>2019-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-96-swarm</slug>
+        <title>Swarm</title>
+        <subtitle>Decentralised Storage and Communication for a Sovereign Digital Society</subtitle>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract>The talk will give a short untroduction to Swarm and will also provide latest updates and road ahead. </abstract>
+        <description>Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralised database services and scalable state-channel infrastructure for decentralised service economies.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="48">Gregor</person>
+        </persons>
+        <links>
+          <link href="swarm.ethereum.org">Swarm</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4320" guid="d4817b2b-c80e-477c-8458-6edcb5d36d55">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/120.html</url>
+        <logo>/system/events/logos/000/000/120/large/namecoin-coin_1000px.png?1576362175</logo>
+        <date>2019-12-28T19:25:00+01:00</date>
+        <start>19:25</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-120-adventures_and_experiments_adding_namecoin_to_tor_browser</slug>
+        <title>Adventures and Experiments Adding Namecoin to Tor Browser</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>The Namecoin and Tor developers are running a new experiment: the GNU/Linux Nightly Builds of Tor Browser now have optional support for resolving Namecoin's .bit domains.  This experiment aims to provide a fix for the long-standing UX problem with .onion domains: the lack of human-meaningful names.  With Namecoin, you can access onion services via nice, memorable addresses like http://federalistpapers.bit/ instead of http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/ .  In this talk, I'll cover the goals of the experiment, the work that went into getting here, and the work that remains to be done.</abstract>
+        <description>Disclaimer: Although the work covered in this talk is a collaboration between Namecoin and Tor, this talk is solely from Namecoin's perspective.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="101">Jeremy Rand</person>
+        </persons>
+        <links>
+          <link href="https://www.namecoin.org/">Namecoin</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4297" guid="86992656-bc5e-4774-8549-b1eb70b0df5c">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/97.html</url>
+        <logo>/system/events/logos/000/000/097/large/fds_green.jpg?1577287969</logo>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-97-fair_data_society</slug>
+        <title>Fair data society</title>
+        <subtitle>Decentralised data commons</subtitle>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract>Fair data society is a non-profit initiative working towards decentralised data commons that will provide an alternative to surveillance capitalism, the alternative being, a fair data society.</abstract>
+        <description>Fair data society is a non-profit project that is focused on reimagining the current data economy and provide an alternative viable solution. In the talk the concept of fair data and decentralised data commons will be presented. along with a proposal for fair data society principles and a demo of a secure file transfer dapp that is designed in the way to walk the talk.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="48">Gregor</person>
+        </persons>
+        <links>
+          <link href="http://fairdatasociety.org">Fair data society www</link>
+          <link href="https://beta.giveth.io/dacs/5c34b2e746d9c67925654070">Fair data society DAC</link>
+          <link href="https://fairdrop.xyz">Fairdrop - secure serverless file transfer</link>
+          <link href="https://github.com/fairDataSociety">Fair data society Github</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4323" guid="182f1ebe-6590-469d-b117-541df66f59fc">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/123.html</url>
+        <logo/>
+        <date>2019-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-123-the_state_of_secure_messaging_the_case_of_otr</slug>
+        <title>The state of secure messaging: the case of OTR</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract/>
+        <description>On this talk, we will talk about the state of different secure messaging applications: from MLS, Signal, Wire to OTR. We will talk around what impact they have as a technology used to resist mass surveillance and why they are needed in the current ever oppressive&#13;
+world. We will look at the challenges they face and what need ideas come with the 4th version of OTR.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="134">Sofía Celi</person>
+        </persons>
+        <links>
+          <link href="https://www.youtube.com/watch?v=KR4s6t9D9Jo">example talk</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4363" guid="f48ec0e8-a590-41ab-a5d7-9fe072b742b6">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/163.html</url>
+        <logo/>
+        <date>2019-12-28T21:05:00+01:00</date>
+        <start>21:05</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-163-building_an_actual_alternative</slug>
+        <title>Building an (Actual) Alternative</title>
+        <subtitle>A counter-narrative to the digital surveillance machine.</subtitle>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract>Privacy and freedom within the context of cryptocurrencies, zero-knowledge-proof systems, decentralised protocols and other privacy protection layers is about co-creating and co-shaping alternatives to empower individuals to control their own data. What is the role of Monero in building an actual alternative and preventing the public ledger from becoming another behaviour extraction and surveillance tool? As a community, what type of counter-narratives do we need to create to support this movement? </abstract>
+        <description>Digital surveillance threatens human rights – including privacy and freedom of expression and association, inhibiting the free functioning of a vibrant civil society. While the origins of cryptocurrency may have sought to build an alternative, transparent blockchains and the requirement for KYC/AML checks has proven to blur the lines between private data collection and state tracking once again. This compromises our fundamental human right to financial privacy in the digital era and is positioning the public ledger as a new behaviour extraction and censorship tool. We are at risk of perpetuating, rather than challenging, the system.&#13;
+&#13;
+Monero, arguably the last bastion of cypher-punk resistance in the crypto space, is contributing to an _actual_ alternative through the conscious engineering of privacy-by-default technology that enables fungible, private, censorship-resistant financial transactions. This lightning talk will examine the current status-quo, the role that the Monero community and pro-privacy developers have in co-creating and co-shaping an alternative vision and what it will take to build the counter-narrative against the real politick of surveillance capitalism and the surveillance state.</description>
+        <recording>
+          <license>The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at</license>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="91">Deanna MacDonald</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="CDC - Workshop area">
+      <event id="4311" guid="b25d617d-2e47-4f75-b7aa-6187b520ea98">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/111.html</url>
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>CDC - Workshop area</room>
+        <slug>36C3-111-from_high_school_math_to_zksnarks</slug>
+        <title>From high school Math to zkSnarks</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>I will explain how zkSnarks works. I will start from High school math and go all the way until the zkSnarks construction.&#13;
+The roadmap will be:&#13;
+* Groups&#13;
+* Fields&#13;
+* Polynomials on Fields&#13;
+* Lagrange&#13;
+* Shamir Secret Sharing&#13;
+* Elliptic Curves&#13;
+* Diffie-Helman&#13;
+* Schnorr Signatures (Sigma Protocols and Fiat Shamir)&#13;
+* Pairings&#13;
+* BLS Signatures&#13;
+* Aritmetics Circuits&#13;
+* R1CS&#13;
+* QAP&#13;
+* zkSnark Construction&#13;
+Laptop is not required, but recomended.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="106">bonfire.link</person>
+          <person id="59">jordi@masterasp.com</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4359" guid="c01cafa7-3c90-4621-8779-eb98a8c2dde0">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/159.html</url>
+        <logo>/system/events/logos/000/000/159/large/__image.png?1577186078</logo>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:40</duration>
+        <room>CDC - Workshop area</room>
+        <slug>36C3-159-open_hardware_dialogues_black_crystal_2</slug>
+        <title>Open Hardware Dialogues: Black Crystal #2</title>
+        <subtitle>Applications of Trezor Crypto Lib</subtitle>
+        <track>Workshop</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>In the fourth iteration of the workshop "Black Crystal", which has been held previously at RIAT in Vienna, RIAT Cyprus and during HCPP19 in Prague - we are again focusing on Trezor Crypto Lib and on creating small applications based on the ESP32 MCU and the Arduino IDE. &#13;
+&#13;
+A core focus of this workshop is to understand the constraints and limitations of cryptographic key generation, especially on slow devices. In the context of the workshop, participants will pragmatically explore different workflows, such as key generation, BIP39, entropy sources, shamir secret sharing. Workshop outcomes are shared in the code-repository of the workshop. </abstract>
+        <description>In the fourth iteration of the workshop "Black Crystal", which has been held previously at RIAT in Vienna, RIAT Cyprus and during HCPP19 in Prague - we are again focusing on Trezor Crypto Lib and on creating small applications based on the ESP32 MCU and the Arduino IDE. &#13;
+&#13;
+A core focus of this workshop is to understand the constraints and limitations of cryptographic key generation, especially on slow devices. In the context of the workshop, participants will pragmatically explore different workflows, such as key generation, BIP39, entropy sources, shamir secret sharing. Workshop outcomes are shared in the code-repository of the workshop. &#13;
+&#13;
+RIAT is an independent R+D institute focussing on Open Hardware, Blockchain and Privacy-Enabling technologies. The institute is active in Austria, Cyprus and the US and exists since 2012. The institute is one of the world’s earliest blockchain institutes. The cryptography and hardware division of RIAT exists since 2017 and works on communicating (open) hardware related topics to developers, enthusiasts and the general public.</description>
+        <recording>
+          <license>The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at</license>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="27">parasew</person>
+        </persons>
+        <links>
+          <link href="https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/">Open Hardware Dialogues: Black Crystal</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4315" guid="f67c0e03-00d3-4df0-a897-0a9f656d67af">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/115.html</url>
+        <logo/>
+        <date>2019-12-28T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>00:30</duration>
+        <room>CDC - Workshop area</room>
+        <slug>36C3-115-worshop_on_crypto-aml</slug>
+        <title>Worshop on crypto-AML</title>
+        <subtitle>privacy preserving crypto-AML tools</subtitle>
+        <track>Workshop</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>I plan to organise a workshop on privacy preserving Crypto AML tools.&#13;
+&#13;
+Open Source Blockchain explorers are the most common basic tool.&#13;
+&#13;
+I would like to give some examples of AML use-cases and see what can be studied using local full nodes without leaking any data to external service providers. &#13;
+&#13;
+Such software and knowledge is not only needed to financial intermediaries, but is absolutely crucial to have for our society. </abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="106">bonfire.link</person>
+          <person id="117">polto</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4347" guid="b7d3c6e2-da90-49dd-a329-608720723f58">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/147.html</url>
+        <logo>/system/events/logos/000/000/147/large/logo.png?1577199292</logo>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>CDC - Workshop area</room>
+        <slug>36C3-147-dappnode_sdk_workshop</slug>
+        <title>DAppNode SDK workshop</title>
+        <subtitle>Deploy a tor relay in your DAppNode</subtitle>
+        <track>Workshop</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>How to make use of the DAppNode's SDK tool to build a tor relay package in a few easy steps, and deploy it on a DAppNode, an open source solution for personal servers focused on cryptocurrency and decentralization.&#13;
+</abstract>
+        <description>In this session we will cover how to will build a tor relay package as a example, to help the network, serving IPFS content as a hidden service, and to be used by other DAppNode apps like full nodes, etc.&#13;
+&#13;
+A laptop and basic skills with Linux and Docker are required.&#13;
+We recommend having NodeJS and docker pre-installed.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="119">Abel Boldú</person>
+        </persons>
+        <links>
+          <link href="https://dappnode.github.io/DAppNodeDocs/">DAppNode Docs</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4328" guid="3c56e9b7-4b0c-4d5b-9b5e-6e4bd71fbadd">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/128.html</url>
+        <logo>/system/events/logos/000/000/128/large/namecoin-coin_1000px.png?1576362282</logo>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>CDC - Workshop area</room>
+        <slug>36C3-128-demo_and_discussion_namecoin_in_tor_browser</slug>
+        <title>Demo and Discussion: Namecoin in Tor Browser</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>The Namecoin and Tor developers are running a new experiment: the GNU/Linux Nightly Builds of Tor Browser now have optional support for resolving Namecoin's .bit domains.  This experiment aims to provide a fix for the long-standing UX problem with .onion domains: the lack of human-meaningful names.  With Namecoin, you can access onion services via nice, memorable addresses like http://federalistpapers.bit/ instead of http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/ .  In this workshop, you'll be able to try it out yourself.  Bring a GNU/Linux machine (bare-metal or VM are both fine).  After the demo, I'd love your feedback on what our next steps should be in this area.</abstract>
+        <description>I highly recommend attending my talk "Adventures and Experiments Adding Namecoin to Tor Browser" prior to this workshop, but this is not a hard requirement; attendees who didn't attend that talk are still welcome.&#13;
+&#13;
+Disclaimer: Although the work covered in this workshop is a collaboration between Namecoin and Tor, this workshop is solely from Namecoin's perspective.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="101">Jeremy Rand</person>
+        </persons>
+        <links>
+          <link href="https://www.namecoin.org/">Namecoin</link>
+          <link href="https://www.namecoin.org/36c3-workshop/">Workshop Notes</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
+    <room name="FOSSASIA Workshops - CDC">
+      <event id="4339" guid="1e2f0a1b-d777-4b4e-9b25-0838a6d46529">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/139.html</url>
+        <logo>/system/events/logos/000/000/139/large/Logo_OTS-OpenTecSummit_q_o_v1-1.svg.png?1577181610</logo>
+        <date>2019-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>01:15</duration>
+        <room>FOSSASIA Workshops - CDC</room>
+        <slug>36C3-139-meet_the_community_-_connecting_to_amazing_software_and_hardware_developers_in_asia_and_europe</slug>
+        <title>Meet the Community - Connecting to Amazing Software and Hardware Developers in Asia and Europe</title>
+        <subtitle/>
+        <track>FOSSASIA Workshops</track>
+        <type>podium</type>
+        <language>en</language>
+        <abstract>In this panel we will share our experience connecting to amazing developers in Europe and Asia. We will talk about running events for 10 years, creating coding programs and contests and getting the funding necessary to move things forward.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">Mario Behling</person>
+        </persons>
+        <links>
+          <link href="https://summit.fossasia.org">FOSSASIA Summit</link>
+          <link href="https://thai.opentechsummit.asia">OpenTechSummit Thailand</link>
+          <link href="https://vn.opentechsummit.asia">OpenTechSummit Vietnam</link>
+          <link href="https://opentechsummit.eu">OpenTechSummit Europe</link>
+          <link href="https://opentechsummit.cn">OpenTechSummit China</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4341" guid="aedcd9ca-ab7a-4e39-8790-549d781ee701">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/141.html</url>
+        <logo>/system/events/logos/000/000/141/large/SUSI.AI_logo.png?1577181650</logo>
+        <date>2019-12-28T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>01:30</duration>
+        <room>FOSSASIA Workshops - CDC</room>
+        <slug>36C3-141-susi_ai_-_your_really_private_personal_assistants_at_home</slug>
+        <title>SUSI.AI - Your Really Private Personal Assistants at Home</title>
+        <subtitle/>
+        <track>FOSSASIA Workshops</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>In this final workshop we bring it all together. Participants learned how to make skills and how to run SUSI.AI on the desktop and smart device. Let's bring this all together and build a cloud that you could run at home. </abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">Mario Behling</person>
+        </persons>
+        <links>
+          <link href="https://susi.ai">SUSI.AI</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
   </day>
   <day index="3" date="2019-12-29" start="2019-12-29T11:00:00+01:00" end="2019-12-30T04:00:00+01:00">
     <room name="Ada">
@@ -14728,6 +15731,501 @@ With: Dana Sinaida Ersing</description>
         <answers/>
       </event>
     </room>
+    <room name="CDC - Stage">
+      <event id="4371" guid="45a47495-a94e-454f-9f97-eeb3fe80cb14">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/171.html</url>
+        <logo/>
+        <date>2019-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-171-introduction_to_day_3</slug>
+        <title>Introduction to day 3</title>
+        <subtitle/>
+        <track/>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4294" guid="f4faef07-d73e-4dbe-9a26-56a9b0ba5ac6">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/94.html</url>
+        <logo/>
+        <date>2019-12-29T13:20:00+01:00</date>
+        <start>13:20</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-94-almonit_project_decentralized_websites</slug>
+        <title>Almonit project: Decentralized Websites</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Almonit is a project for decentralized websites and web services.&#13;
+&#13;
+Decentralized websites and web services are an alternative to the way the web functions today. They combine decentralized storage (like IPFS), decentralized name services (like ENS) and P2P networks in order to replace the server-based model of the web.&#13;
+&#13;
+This lecture describes the Almonit project, its architecture, the technical details of the technology and the ecosphere in which it is created. &#13;
+&#13;
+Come discover the state-of-the-art of this up-and-coming area!</abstract>
+        <description>How does the web function? Generally speaking, it uses servers to provide content or services, and DNS to provide access to those servers.&#13;
+&#13;
+The Almonit project provides an alternative to the traditional server-DNS model. Instead of a server, we use decentralized storage (like IPFS), and instead of DNS, we use a decentralized name service (like ENS). We provide tools, methods and a portal for creating and accessing the decentralized web.&#13;
+&#13;
+The decentralized websites and web services scene is very new. In its current form, it was developed mostly in 2019. So far, it contains around a 100 websites experimenting with the technology, but its potential is promising. We envision it being used to create community-driven websites which would be made, moderated and maintained by a community instead of a central entity.&#13;
+&#13;
+This lecture describes the Almonit project, its architecture and technical details. We also present the ecosphere of decentralized websites and web services in which the project is created, and survey the past, present and also possible future use-cases of this technology, including its limitations.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="98">neiman</person>
+        </persons>
+        <links>
+          <link href="https://almonit.eth.link/">Almonit</link>
+          <link href="https://twitter.com/GoAlmonit/status/1179633247745171456">Almonit browser extension</link>
+          <link href="https://twitter.com/GoAlmonit">Almonit Twitter</link>
+          <link href="https://medium.com/the-ethereum-name-service/almonit-a-directory-of-the-new-decentralized-web-ens-spotlight-8f40f35e5350">Article about Almonit</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4342" guid="5f2b8719-3f3b-4b24-9c6b-56f9d30f85fb">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/142.html</url>
+        <logo/>
+        <date>2019-12-29T13:50:00+01:00</date>
+        <start>13:50</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-142-why_your_project_should_support_passwordless_login_fido2_webauthn</slug>
+        <title>Why your project should support passwordless login, FIDO2, WebAuthn</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>A login form with user name and password is implemented quickly. But passwords don't scale from the user perspective and the new WebAuthentication standard is there to replace them. This presentation gives an introduction to WebAuthn and FIDO2, why to implement it, how to use it etc.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="113">jans</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4295" guid="dbbd262a-1039-4a58-a185-dcbbfec8c816">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/95.html</url>
+        <logo>/system/events/logos/000/000/095/large/Cover.jpg?1575477342</logo>
+        <date>2019-12-29T14:25:00+01:00</date>
+        <start>14:25</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-95-crypto_ux_design</slug>
+        <title>Crypto UX Design</title>
+        <subtitle>On designing wallets and explorers</subtitle>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Thoughts and insights on working as a UX designer in open-source and crypto, specifically contributing to Monero.</abstract>
+        <description>This presentation will go over my experience contributing design to the &lt;a href="https://www.figma.com/c/file/775423808468574409"&gt;Monero GUI&lt;/a&gt; wallet, the &lt;a href="https://www.exploremonero.com"&gt;Explore Monero&lt;/a&gt; explorer, as well as the &lt;a href="https://www.cryptouxhandbook.com"&gt;Crypto UX Handbook&lt;/a&gt;. I'll cover topics around designing for crypto and design in open-source.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="95">Christoph Ono</person>
+        </persons>
+        <links>
+          <link href="https://www.germanysbestkeptsecret.com">Personal website</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4283" guid="70b67b7d-d191-4352-970d-14167c2a626a">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/83.html</url>
+        <logo>/system/events/logos/000/000/083/large/monerosquare.png?1573839961</logo>
+        <date>2019-12-29T14:45:00+01:00</date>
+        <start>14:45</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-83-developments_at_monero_hardware</slug>
+        <title>Developments at Monero Hardware</title>
+        <subtitle>The state of research, design, and production of devices at Monero Hardware</subtitle>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>In this half hour overview, we report progress made on projects at Monero Hardware. Physical, electromagnetic, and electronic hardware devices protect funds, secrets, and privacy by design. We consider concepts, learn how devices are made, and review a features roadmap. Wallets are distributed for hands on inspection, and a demonstration teaches the basics of embedded firmware development.</abstract>
+        <description>In this half hour overview, we report progress made on projects at Monero Hardware. Physical, electromagnetic, and electronic hardware devices protect funds, secrets, and privacy by design. We consider concepts, learn how devices are made, and review a features roadmap. Wallets are distributed for hands on inspection, and a demonstration teaches the basics of embedded firmware development.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="88">MSvB</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4366" guid="c7a48892-4c77-4472-b0fd-5f89d194d473">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/166.html</url>
+        <logo/>
+        <date>2019-12-29T15:25:00+01:00</date>
+        <start>15:25</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-166-linux_on_open_source_hardware_and_libre_silicon</slug>
+        <title>Linux on Open Source Hardware and Libre Silicon</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>This talk will explore Open Source Hardware projects relevant to Linux, including boards like BeagleBone, Olimex OLinuXino, Giant board and more. Looking at the benefits and challenges of designing Open Source Hardware for a Linux system, along with BeagleBoard.org’s experience of working with community, manufacturers, and distributors to create an Open Source Hardware platform. In closing also looking at the future, Libre Silicon like RISC-V designs, and where this might take Linux.</abstract>
+        <description>This talk will explore Open Source Hardware projects relevant to Linux, including boards like BeagleBone, Olimex OLinuXino, Giant board and more. Looking at the benefits and challenges of designing Open Source Hardware for a Linux system, along with BeagleBoard.org’s experience of working with community, manufacturers, and distributors to create an Open Source Hardware platform. In closing also looking at the future, Libre Silicon like RISC-V designs, and where this might take Linux.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://embedded-recipes.org/2019/linux-on-open-source-hardware-and-libre-silicon/">Linux on Open Source Hardware and Libre Silicon</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4346" guid="a8fd2c86-34b9-4974-aeb7-3463d8ee298a">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/146.html</url>
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-146-privacy_coins_and_resource_constrained_hardware_wallets</slug>
+        <title>Privacy coins and resource constrained Hardware Wallets</title>
+        <subtitle>A gentle introduction &amp; pitfalls (Monero &amp; Liquid)</subtitle>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>This presentation will provide details of the implementation of privacy coins (Monero and Liquid) from a signer/checker perspective on a resource constrained (10 kb RAM, 28 MHz Cortex M0+) hardware wallet, and show typical mistakes than can be made along the way.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="106">bonfire.link</person>
+          <person id="120">btchip</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4301" guid="bf8c4f62-746b-4330-8541-8327909fce5a">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/101.html</url>
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-101-rmx_hardware_wallet</slug>
+        <title>RMX hardware wallet</title>
+        <subtitle/>
+        <track/>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract>We are building a hw device for privacy extremists and we want to talk a bit about it.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="105">Pavel Polach</person>
+        </persons>
+        <links>
+          <link href="rmxwallet.io">webpage</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4367" guid="82f64fda-8740-4081-87f3-3eebd8a35bcc">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/167.html</url>
+        <logo/>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-167-tari_and_the_monero_ecosystem</slug>
+        <title>Tari and the Monero Ecosystem</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4303" guid="7928f3a1-8ef7-4f33-9713-a379ccafa25b">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/103.html</url>
+        <logo/>
+        <date>2019-12-29T18:35:00+01:00</date>
+        <start>18:35</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-103-on_bitcoin-monero_atomic_swaps</slug>
+        <title>On bitcoin-monero atomic swaps</title>
+        <subtitle/>
+        <track/>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>In this talk we propose an approach on bitcoin-monero atomic swap, its development state and open problems.</abstract>
+        <description>Cross-chain atomic swaps have been discussed for a very long time and are very useful tools. In blockchains where hashed timelock contracts are doable atomic swaps are already deployed, but when one blockchain doesn't have this capability it becomes a challenge. This protocol describes how to achieve atomic swaps between Bitcoin and Monero with two transactions per chain without trusting any central authority, servers, nor the other swap participant. We propose a swap between two participants, one holding bitcoin and the other monero, in which when both follow the protocol their funds are not at risk at any moment. The protocol does not require timelocks on Monero side nor script capabilities, but requires two zero-knowledge proofs to secure the setup phase.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="106">bonfire.link</person>
+          <person id="115">Joel “h4sh3d” Gugger</person>
+          <person id="116">p</person>
+        </persons>
+        <links>
+          <link href="https://github.com/h4sh3d/xmr-btc-atomic-swap">Official GitHub</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4362" guid="66119a8a-3a3f-40f9-94c6-248ed1030d13">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/162.html</url>
+        <logo>/system/events/logos/000/000/162/large/selfie.jpeg?1577215379</logo>
+        <date>2019-12-29T19:10:00+01:00</date>
+        <start>19:10</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-162-blockchain_sharding</slug>
+        <title>Blockchain Sharding</title>
+        <subtitle>A short overview and Alephium's new approach</subtitle>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>In this talk, I am gonna first give a short review of the current popular sharding methods, with a focus on the open problems. Then I am gonna talk about Alephium's innovative sharding solution, and why it could the promising approach.</abstract>
+        <description/>
+        <recording>
+          <license>The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at</license>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="107">Cheng Wang</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4286" guid="d5a43bd2-8fb3-45b7-879f-6cabf7acbf34">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/86.html</url>
+        <logo/>
+        <date>2019-12-29T19:40:00+01:00</date>
+        <start>19:40</start>
+        <duration>01:00</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-86-blockchain_interoperability</slug>
+        <title>Blockchain Interoperability</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>We will talk about various means of communication between proof-of-work blockchains such as superblock NIPoPoWs and how to use them to build one-way and two-way transfer of information between chains without a trusted third party.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="96">gtklocker</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4287" guid="225fc316-0270-4006-958e-fcb832aba453">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/87.html</url>
+        <logo/>
+        <date>2019-12-29T20:45:00+01:00</date>
+        <start>20:45</start>
+        <duration>00:45</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-87-bitcoin_to_the_post-quantum_era</slug>
+        <title>Bitcoin to the Post-Quantum Era</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Given the amount of funding and research that recently goes into quantum computers, it seems inevitable that at some point in the (near) future these machines will become a reality. With my physicist's hat on, this is exciting and amazing news, but as a cryptographer this is a nightmare. Most of our most efficient and widely used signature schemes would just go away in the blink of an eye.&#13;
+Is this the case for Bitcoin? Can we do anything to move Bitcoin to the Post-Quantum Era?&#13;
+In this talk, I present the basic principles Quantum Computers rely on to perform certain calculations much faster than classical computers. We give a beginner’s explanation to some quantum algorithms that can undermine Bitcoin’s security and show how they can be used to hijack transactions. Finally, I present a protocol upgrade for Bitcoin that allows users to securely transition their funds to quantum resistant wallets even in the presence of a quantum computer!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="97">Dragos Ilie</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4360" guid="58532b02-e6b2-4c31-b342-32c17a92e2c9">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/160.html</url>
+        <logo>/system/events/logos/000/000/160/large/Screenshot_from_2019-12-24_14-52-04.png?1577196822</logo>
+        <date>2019-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-160-3_8_billion_users_future_email_3_0</slug>
+        <title>3.8 Billion users' future: Email 3.0</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Hundreds of messaging platforms have launched and failed over the last 50 years, while one Open Standards, and mostly Open Source powered decentralised platform has conquered the world. What is the magic formula that has powered email to adoption by 3.8bn users, and what is the future of decentralised messaging as firms like Google and Facebook try desperately to replace it?</abstract>
+        <description>Hundreds of messaging platforms have launched and failed over the last 50 years. One has grown voraciously, netting 3.8 billion users, and handling 103 trillion messages each year. &#13;
+&#13;
+Like the Internet itself, email is decentralised and censorship resistant by design. It is technically extensible, powered by Free Software, and Open Standards agreed independently by consensus.&#13;
+&#13;
+LinkedIn, Facebook, Google and others are racing to own the future of this space, with Gmail alone accounting for 28% of email opens in 2018, in Western countries. Email's freedom, privacy, and security are taken for granted and under threat. &#13;
+&#13;
+What formula made email outlive it's contenders until now? What recent innovations are making it hip again? And what economic model could bring a renaissance of decentralised, Free Software messaging on the multi-billion user scale? </description>
+        <recording>
+          <license>The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at</license>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="128">Sam Tuke</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="CDC - Workshop area">
+      <event id="4300" guid="42121f2b-f405-43aa-961c-69e920a98d90">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/100.html</url>
+        <logo/>
+        <date>2019-12-29T13:10:00+01:00</date>
+        <start>13:10</start>
+        <duration>01:00</duration>
+        <room>CDC - Workshop area</room>
+        <slug>36C3-100-outreach_strategies_for_the_privacy_movement</slug>
+        <title>Outreach Strategies for the Privacy Movement</title>
+        <subtitle>A workshop hosted by Scott Beibin of eviltwinbooking.org and positron.agency</subtitle>
+        <track>Workshop</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>Learn ways of doing outreach in order to build communities around projects.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="103">Scott Beibin</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4349" guid="0e3f72c6-766d-4a9b-9c73-7404a9944011">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/149.html</url>
+        <logo>/system/events/logos/000/000/149/large/nym-logo-cut.png?1576879852</logo>
+        <date>2019-12-29T14:10:00+01:00</date>
+        <start>14:10</start>
+        <duration>01:40</duration>
+        <room>CDC - Workshop area</room>
+        <slug>36C3-149-hands-on_nym_workshop</slug>
+        <title>Hands-On Nym Workshop</title>
+        <subtitle>Setting up your own validator and mixnode</subtitle>
+        <track>Workshop</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>This workshop complements the talk on the Nym network by offering a hands-on step-by-step guide for programmers to setup mix-node and validators on the alpha mix-network. </abstract>
+        <description>This workshop will let programmers set-up validators and walk through the instructions of setting up a Nym valdiator, and if time allows, a Nym mix-node. Members of the Nym team will be available on hand, and demonstrate how apps like wallets and chat applications can be build on the top of the node. </description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="122">Harry Halpin</person>
+        </persons>
+        <links>
+          <link href="https://github.com/nymtech">Nym codebase</link>
+          <link href="https://nymtech.net/docs/">Nym Docs</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
+    <room name="FOSSASIA Workshops - CDC">
+      <event id="4336" guid="95d88bbc-96d2-4602-a4c7-870b45282d93">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/136.html</url>
+        <logo>/system/events/logos/000/000/136/large/SUSI.AI_logo.png?1577181563</logo>
+        <date>2019-12-29T14:20:00+01:00</date>
+        <start>14:20</start>
+        <duration>01:30</duration>
+        <room>FOSSASIA Workshops - CDC</room>
+        <slug>36C3-136-create_personal_bots_for_web_and_smart_devices_with_susi_ai_-_part_1</slug>
+        <title>Create Personal Bots for Web and Smart Devices with SUSI.AI - Part 1</title>
+        <subtitle/>
+        <track>FOSSASIA Workshops</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>In this on stage workshop we run participants through a tutorial to create basic SUSI.AI skills and bots, that they can embed on their website or run on a smart speaker.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">Mario Behling</person>
+        </persons>
+        <links>
+          <link href="https://susi.ai">SUSI.AI</link>
+          <link href="https://github.com/fossasia/susi.ai/blob/master/docs/Skill_Tutorial.md">SUSI.AI Tutorial</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4337" guid="576cece6-fc4f-41ad-a660-4bc838cfe735">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/137.html</url>
+        <logo>/system/events/logos/000/000/137/large/SUSI.AI_logo.png?1577181572</logo>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>FOSSASIA Workshops - CDC</room>
+        <slug>36C3-137-create_personal_bots_for_web_and_smart_devices_with_susi_ai_-_part_2</slug>
+        <title>Create Personal Bots for Web and Smart Devices with SUSI.AI - Part 2</title>
+        <subtitle/>
+        <track>FOSSASIA Workshops</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>In this on stage workshop we run participants through a tutorial to create advanced SUSI.AI skills and bots, that they can embed on their website or run on a smart speaker.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">Mario Behling</person>
+        </persons>
+        <links>
+          <link href="https://susi.ai">SUSI.AI</link>
+          <link href="https://github.com/fossasia/susi.ai/blob/master/docs/Skill_Tutorial.md">SUSI.AI Tutorial</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
   </day>
   <day index="4" date="2019-12-30" start="2019-12-30T11:00:00+01:00" end="2019-12-30T19:00:00+01:00">
     <room name="Ada">
@@ -16293,6 +17791,277 @@ With: Dana Sinaida Ersing</description>
         <links/>
         <attachments/>
         <answers/>
+      </event>
+    </room>
+    <room name="CDC - Stage">
+      <event id="4372" guid="ae791d36-94bd-4f0b-8ba0-e06613d400b3">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/172.html</url>
+        <logo/>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-172-introduction_to_day_4_last_day</slug>
+        <title>Introduction to day 4 (last day)</title>
+        <subtitle/>
+        <track/>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4344" guid="9b7e8164-8c3d-4dde-9b79-f15cc64f02f0">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/144.html</url>
+        <logo/>
+        <date>2019-12-30T13:15:00+01:00</date>
+        <start>13:15</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-144-monero_for_scrubs</slug>
+        <title>Monero for Scrubs</title>
+        <subtitle>The basics Boi!</subtitle>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Diego walks noobs and scrubs alike through Monero, what it is, what problems it solves, and what sets it apart from the rest of the blockchain space. Along the way, he'll teach the basics of blockchain as well, so super noobs are encouraged to attend.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="66">Diego "rehrar" Salazar</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4329" guid="e5fdf8d5-d906-4939-a4ab-ab6856a98dc9">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/129.html</url>
+        <logo/>
+        <date>2019-12-30T13:45:00+01:00</date>
+        <start>13:45</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-129-fake_decentralization</slug>
+        <title>Fake Decentralization</title>
+        <subtitle>Talking about what really matters. And whatnot.</subtitle>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Placeholder, TBD</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="100">Afr</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4322" guid="643f7f8e-ad91-41f5-9e58-b95debfc4ae9">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/122.html</url>
+        <logo>/system/events/logos/000/000/122/large/selfie.jpeg?1575906039</logo>
+        <date>2019-12-30T14:05:00+01:00</date>
+        <start>14:05</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-122-proof_of_less_work</slug>
+        <title>Proof of Less Work</title>
+        <subtitle>A new algorithm to reduce the energy consumption of PoW</subtitle>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>I would like to share my work on reducing the energy consumption of PoW without sacrificing security. My new type of algorithm is called PoLW, inspired by the recent work of Itay, Alexander, and Ittay. For a practical system where mining is profitable, PoLW might actually improve network security.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="107">Cheng Wang</person>
+        </persons>
+        <links>
+          <link href="https://github.com/alephium/research/raw/master/polw.pdf">Paper</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4340" guid="d1b340c9-aaa3-4df9-8f5c-019395d92b9b">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/140.html</url>
+        <logo>/system/events/logos/000/000/140/large/Logo_OTS-OpenTecSummit_q_o_v1-1.svg.png?1577181625</logo>
+        <date>2019-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-140-open_next_-_learning_from_open_hardware_devops_and_continuous_integration_for_the_production_of_big_machines</slug>
+        <title>Open Next - Learning from Open Hardware: DevOps and Continuous Integration for the Production of Big Machines</title>
+        <subtitle>What is Missing to Prototype and Make Big Machines, Cars, Trucks, Spaceships Really Fast?</subtitle>
+        <track>FOSSASIA Workshops</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>Continuous Integration was a big buzzword with software projects already years ago and it is standard today. In projects such as Pocket Science Lab we took the idea of Development Operations a step further and apply these concepts to hardware. The increased speed of development and the possibility to produce different prototypes with a click almost feels as if we deploy software automatically. What would happen if the industry would be able to change in the same way? How could we shorten the time from prototype to production and market? What is missing to build complex and really big machines? How can standardization and machine readable requirements documents help us to create sustainable hardware and solve the problems of our time? These are some of the questions we will explore in this session based on our research within the EU Horizon 2020 project on collaborative product creation.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">Mario Behling</person>
+        </persons>
+        <links>
+          <link href="https://opennext.eu">Open Next</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4299" guid="a1239394-3f0a-46cd-9dd8-485d8062bb0f">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/99.html</url>
+        <logo>/system/events/logos/000/000/099/large/Screen_Shot_2019-12-23_at_4.36.41_PM.png?1577137027</logo>
+        <date>2019-12-30T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-99-designing_a_communal_computing_interface</slug>
+        <title>Designing a communal computing interface</title>
+        <subtitle>The top of the peer-to-peer stack</subtitle>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract>How does a full peer-to-peer stack change how we organise and present user interfaces? If the PC was a 1970s desk for single-player computing, what's the right way to think of the way we actually use networks: communally? Matilde Park presents some findings from working on Urbit, an open source project tackling a peer-to-peer internet from scratch.</abstract>
+        <description>When we talk about decentralisation as a movement, we often focus on the principles of cypherpunks and hackers; we describe it as a movement away from central command structures with imbalanced power dynamics; freely and totally owning your hardware, sharing what you know with others, constructing the world in a direct and transparent way.&#13;
+&#13;
+However, I think it has even more power than that. I think it can completely change how we use computers and where we fit them into our lives. I’d like to posit that decentralisation necessitates rethinking a lot of the ways people interact with computers -- and that the interfaces we use everyday are themselves relics of a creeping, inevitable centralisation in place since the 1970s.&#13;
+&#13;
+As I work on Urbit as a userspace developer, I've found that we've come to some conclusions about how to discuss peer-to-peer operating systems — in ways that are agnostic to any stack that designs itself for seamless transitions between participating in peer swarms, and everyday, individual computing.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="104">Matilde Park</person>
+        </persons>
+        <links/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/000/025/original/communal_computing.pdf?1577140598">communal_computing.pdf</attachment>
+        </attachments>
+      </event>
+      <event id="4285" guid="d13561ff-3ce8-4dca-a0de-5b9c9353c365">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/85.html</url>
+        <logo>/system/events/logos/000/000/085/large/Screenshot_2019-12-24_at_12.48.57.jpg?1577188202</logo>
+        <date>2019-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:15</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-85-hackatoshi_s_flying_circuit</slug>
+        <title>Hackatoshi's Flying Circuit</title>
+        <subtitle>Invitation to a hack-a-ton </subtitle>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract>Paralelní Polis' mission is to bring alternatives and tools for preventing authoritarian tendencies in society. Hackatoshi’s Flying Circuit is an intervention of cypherpunks into both virtual and physical public space to concentrate inspiration and knowledge to address sick parts of the system and fix them with solutions resulting from privacy and decentralized principles.</abstract>
+        <description>Weekend-long hacking competition focused on privacy, individual freedom, decentralization and viable system exploits. Each track will have three winning teams awarded with prize money (cryptocurrency) &amp; sw from the sponsors. Code submissions have to be open sourced.&#13;
+&#13;
+Hackers Congress Paralelni Polis (HCPP) has been successful in gathering great minds and thinkers from the Cypherpunk and Cryptoanarchist space. Yet all of the topics and ideas discussed during the congress are only as good as they can be applied, performed or achieved. Hackatoshis's Flying Circuit should motivate hackers, makers and developers to take their tools and skills into practice. The key goal of the hackathon is to prototype new concepts that will help people to protect their digital identity or exploit existing systems that were built to constrain personal freedom.&#13;
+</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="94">JosefJ</person>
+        </persons>
+        <links>
+          <link href="https://flyingcircuit.com">Website</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4369" guid="3d1529e0-0848-4b2d-8b1b-78523444aca1">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/169.html</url>
+        <logo/>
+        <date>2019-12-30T16:20:00+01:00</date>
+        <start>16:20</start>
+        <duration>00:25</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-169-final_remarks_of_36c3_and_decentral_community</slug>
+        <title>Final remarks of 36C3 and decentral.community</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="FOSSASIA Workshops - CDC">
+      <event id="4334" guid="727e2449-13a9-4c57-bd2f-fce11f9056c2">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/134.html</url>
+        <logo>/system/events/logos/000/000/134/large/SUSI.AI_logo.png?1577181523</logo>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
+        <room>FOSSASIA Workshops - CDC</room>
+        <slug>36C3-134-susi_ai_personal_assitant_on_your_linux_desktop_-_part_1</slug>
+        <title>SUSI.AI Personal Assitant on Your Linux Desktop - Part 1</title>
+        <subtitle/>
+        <track>FOSSASIA Workshops</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>In this on stage workshop we will install the SUSI.AI personal smart assistant on a Linux Desktop Computer and support participants to set it up on their distribution, e.g. Debian, Ubuntu, Linux Mint, Fedora, CentOS or others.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">Mario Behling</person>
+        </persons>
+        <links>
+          <link href="https://susi.ai">SUSI.AI</link>
+          <link href="https://github.com/fossasia/susi_installer">SUSI.AI Installer</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="4335" guid="8baf3621-6050-44f8-85d9-fa1713607a99">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/135.html</url>
+        <logo>/system/events/logos/000/000/135/large/SUSI.AI_logo.png?1577181546</logo>
+        <date>2019-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:30</duration>
+        <room>FOSSASIA Workshops - CDC</room>
+        <slug>36C3-135-susi_ai_personal_assistant_on_your_linux_desktop_-_part_2</slug>
+        <title>SUSI.AI Personal Assistant on Your Linux Desktop - Part 2</title>
+        <subtitle/>
+        <track>FOSSASIA Workshops</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>In this on stage workshop we will install the SUSI.AI personal smart assistant on a Linux Desktop Computer and support participants to set it up on their distribution, e.g. Debian, Ubuntu, Linux Mint, Fedora, CentOS or others.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">Mario Behling</person>
+        </persons>
+        <links>
+          <link href="https://susi.ai">SUSI.AI</link>
+          <link href="https://github.com/fossasia/susi_installer">SUSI.AI Installer</link>
+        </links>
+        <attachments/>
       </event>
     </room>
   </day>

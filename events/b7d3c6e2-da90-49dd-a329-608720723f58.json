@@ -1,0 +1,33 @@
+{
+  "url": "https://frab.riat.at/en/36C3/public/schedule/events/147.html",
+  "id": 4347,
+  "guid": "b7d3c6e2-da90-49dd-a329-608720723f58",
+  "logo": "/system/events/logos/000/000/147/large/logo.png?1577199292",
+  "date": "2019-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:00",
+  "room": "CDC - Workshop area",
+  "slug": "36C3-147-dappnode_sdk_workshop",
+  "title": "DAppNode SDK workshop",
+  "subtitle": "Deploy a tor relay in your DAppNode",
+  "track": "Workshop",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "How to make use of the DAppNode's SDK tool to build a tor relay package in a few easy steps, and deploy it on a DAppNode, an open source solution for personal servers focused on cryptocurrency and decentralization.\r\n",
+  "description": "In this session we will cover how to will build a tor relay package as a example, to help the network, serving IPFS content as a hidden service, and to be used by other DAppNode apps like full nodes, etc.\r\n\r\nA laptop and basic skills with Linux and Docker are required.\r\nWe recommend having NodeJS and docker pre-installed.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 119,
+      "public_name": "Abel Bold\u00fa"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://dappnode.github.io/DAppNodeDocs/",
+      "title": "DAppNode Docs"
+    }
+  ],
+  "attachments": []
+}

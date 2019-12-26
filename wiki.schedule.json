@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-26 17:30",
+    "version": "2019-12-26 17:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -1831,6 +1831,36 @@
                 ]
               }
             ],
+            "Kidspace": [
+              {
+                "id": 1448,
+                "guid": "98f7b63b-8855-4d3d-8bbf-cb137017a8c5",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Calliope",
+                "logo": null,
+                "date": "2019-12-27T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Kidspace",
+                "slug": "36c3-1448-session_calliope",
+                "title": "Calliope",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "spielerisch und kreativ die Welt der Computer kennenlernen\nMit dem Calliope mini kannst du spielerisch und kreativ die Welt der Computer kennenlernen. calliope.ccAnzahl Teilnehmer*innen: 5-10Alter: 6+ JahreDauer: 30-60minAnmeldung erforderlich?: Nein",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bate",
+                    "public_name": "Bate"
+                  }
+                ],
+                "links": [
+                  "http://calliope.cc"
+                ]
+              }
+            ],
             "Assembly:ChaosZone": [
               {
                 "id": 1257,
@@ -3500,17 +3530,17 @@
                 "type": "",
                 "language": "en",
                 "abstract": "",
-                "description": "Android Open Source Project (AOSP)'s build system differs greatly from other GNU/Linux based distribution: software components are built and bundled together into a single image without using any package manager during the build process; external software components are also tasked with maintaining support for AOSP build system themselves. Theses differences creates some extremely serious issues that also affect Replicant, a fully free software Android distribution. To solve that, we aim to foster a discussion with other projects and the community on sustainable ways to achieve an AOSP build that properly incorporates GNU/Linux projects such as Linux and Mesa. This talk might also be interesting to people packaging Android utilities like adb in GNU/Linux distributions, as they also have to deal with some of the issues created by the Android build system.\n# Android's build system is messier than your distro'sThe first step in the development of an Android distribution is coming to termswith the Android Open Source Project (AOSP) peculiar build system. Despitemodular, AOSP's build system is quite complex and unlike those used in mostother distributions. For instance, it lacks the concept of packages and expectssub-projects to be explicitly made compatible with it.## AOSP build system internalsUntil version 7 AOSP used a Makefile based system which, in contrast to otherMake based build systems, didn't rely on recursive Makefiles that find andinvoke other Makefiles contained in subdirectories. Rather, it used a customscript that explores all subdirectories in the source directory in search ofAndroid.mk files, which describe how a local module is built and handled. Theconfiguration of this system also differed from others such as GNU autotools orkernel-style menuconfig, relying instead on variables that are set either aspart of the shell environment or statically and ahead of time on product anddevice Makefiles.As AOSP got larger this system became slow, error prone and hard to scale andtest. To fix this, the Makefile-based system is getting replaced by Soong. Soongreplaces Makefiles with Blueprint files, simpler declarative JSON-likedescriptions of modules, that get translated into a Ninja manifest describingthe commands that need to be run. This approach takes advantage of Ninja'soutstanding performance while sparing developers from it's complex buildlanguage. During the transition period the remaining Makefiles are translatedto Ninja by Kati instead of being executed directly.The transition to Soong solved the performance issue of AOSP's builds but gotshort of taking it closer to the modularity and flexibility found in mostGNU/Linux distributions.## Building AOSP vs building GNU/Linux distrosVirtually all GNU/Linux distributions use package managers when building theirsoftware. They wrap around the build system being used by the software(Makefiles, autools, cmake, etc) and bundle the output in a reusable package.While such packages can usually be installed by the user, and are typicallydelivered and updated via software repositories, it is not always the case.For instance, it is possible to create OpenWRT images lacking a package manager.In the AOSP build system, no package manager is used to build thesystem components. Instead, most software components are built from gitrepositories and bundled into a single image that includes the majority of thedistribution. The output of the build ends up in a directory, which is thencompressed into a distribution image and later installed on a device.Besides the core components of AOSP, community distributions tend to use severalexternal projects like Mesa. These must usually be integrated into the buildtree as they depend on AOSP's libc. In such cases, Google expects the projectmaintainers to make and keep their project compatible with AOSP's build system,i.e. nowadays they expect the project to have its own Blueprint files.This contrasts with GNU/Linux distributions, which provide ways to build eachproject in its own native build system and then incorporate it into the distroimage as an independent package.## Replicant's stakeReplicant, a fully free-software AOSP distribution, is now undergoing intensework to make it as sustainable as possible by sharing code with GNU/Linuxdistributions. For instance, Replicant's next release (Replicant 9) is beingdeveloped on top of mainline Linux and Mesa.This comes with the disadvantage of having to deal with the unsuitability of AOSPbuild system to handle external projects. Long hours of development time arelost due to the incapability of AOSP to detect changes in projects that haven'tbeen converted to Blueprint, such as Linux, Mesa or SwiftShader.Adding and maintaining Blueprint support in all external software components,for multiple Android versions, can be incredibly time consuming and could evenbe unsustainable.More importantly, the future of all Android distributions are very seriouslythreatened by the lack of package manager in the build system. Packagesdefinitions typically have a license field. Instead, as Android doesn't usepackages during the build process, and as all its git repositories are checkedout under a single directory, there is no easy way to keep track of the list oflicenses that are used.Replicant is thus seeking to discuss and ultimately decide on a sustainable wayto deal with external software components.To really fix these issues, it would be crucial to make Android support someform of packages during the build.",
+                "description": "Android Open Source Project (AOSP)'s build system differs greatly from other GNU/Linux based distribution: software components are built and bundled together into a single image without using any package manager during the build process; external software components are also tasked with maintaining support for AOSP build system themselves. Theses differences creates some extremely serious issues that also affect Replicant, a fully free software Android distribution. To solve that, we aim to foster a discussion with other projects and the community on sustainable ways to achieve an AOSP build that properly incorporates GNU/Linux projects such as Linux and Mesa. This talk might also be interesting to people packaging Android utilities like adb in GNU/Linux distributions, as they also have to deal with some of the issues created by the Android build system.\n",
                 "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Parasew",
-                    "public_name": "Parasew"
-                  },
                   {
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dllud",
                     "public_name": "Dllud"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:RicardoGrimCabrita",
+                    "public_name": "RicardoGrimCabrita"
                   }
                 ],
                 "links": []
@@ -5536,6 +5566,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Kidspace": [
+              {
+                "id": 1449,
+                "guid": "d95a9c9e-bb86-40f4-959a-3fccf221ceb1",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Calliope",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Kidspace",
+                "slug": "36c3-1449-session_calliope",
+                "title": "Calliope",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "spielerisch und kreativ die Welt der Computer kennenlernen\nMit dem Calliope mini kannst du spielerisch und kreativ die Welt der Computer kennenlernen. calliope.ccAnzahl Teilnehmer*innen: 5-10Alter: 6+ JahreDauer: 30-60minAnmeldung erforderlich?: Nein",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bate",
+                    "public_name": "Bate"
+                  }
+                ],
+                "links": [
+                  "http://calliope.cc"
+                ]
               }
             ],
             "Assembly:ChaosZone": [

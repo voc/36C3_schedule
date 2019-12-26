@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-27 00:40</version>
+  <version>2019-12-27 00:58</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1096,6 +1096,29 @@ Kennenlern-Speed-Dating und gemütliches Zusammensein für Queere und Queer-Freu
 </description>
         <persons>
           <person id="0">Dreirik</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Assembly:C3RE">
+      <event id="1494" guid="71f6ce78-645a-5aa1-bd18-be6748e5997d">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:36c3-Plotterei</url>
+        <logo/>
+        <date>2019-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:C3RE</room>
+        <slug>36c3-1494-session_36c3_plotterei</slug>
+        <title>36c3-Plotterei</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Taschen mit eigenen Logos bedrucken.
+Wir möchten gemeinsam Baumwolltaschen und Turnbeutel gestalten. Dazu zeigen wir, wie Logos geplottet und zu Stoff gebracht werden. Es ist möglich eigene oder das 36c3-Logo zu plotten und auf Jute- oder Turnbeutel zu Drucken. Einfache Sticker für Laptops, o. ä. sind ebenfalls möglich. Für die Materialien wird um einen Unkostenbeitrag gebeten, wobei eigene Baumwollstoffe mitgebracht werden können.</description>
+        <persons>
+          <person id="0">Goldwaage</person>
         </persons>
         <links/>
       </event>
@@ -3175,7 +3198,7 @@ coming out communist can be daunting, one risks social stigma, rejection from fr
         <language>en</language>
         <abstract/>
         <description>Is it worth to be constructive in a flawed policy debate?
-I will explain why I am creating my own independent debrief on 2019 government work group on e-voting in Estonia which I was member of as well as why I intend to move toward phrasing a common list of constitutional, technical, organizational, democratic and social requirements for electronic voting (systems) around Europe.I will give a short intro into history failures to make Estonian e-voting minimally satisfy the requirements and emerging standards on electronic voting:* Failure to take into account the two white papers by academic researchers from 2001 suggesting verifiability standards, independent counting, open source code (and decision to build the cheapest and bluntest system possible in 2005)* Failure to take into account OSCE/ODIHR recommendation from 2011 to implement end-to-end verifiability for the system (and non-decision to introduce flawed individual verifiability in 2013, which leaks digitally signed cryptograms of votes with respective decryption keys)* Failure to take into account the critique by independent researchers lead by J Alex Halderman in 2014 who again suggested end-to-end verifiability as a necessary requirement for such systems (and another non-decision to introduce, but not specify the process or purpose of universal verifiability using mixnets in 2017)* Failure to solve the problems of relying on trust of the operator of electronic voting as well as to fix the problems of verifiability in improvements reluctantly introduced during past years by 2019 government work group on e-voting (which I was member of).I will be arguing for setting up common requirements for electronic voting besides trying to convince governments that it is fundamentally wrong to even think of electronic voting as a channel of conducting nation-wide elections.</description>
+I will explain why I am creating my own independent debrief on 2019 government work group on e-voting in Estonia which I was member of as well as why I intend to move toward phrasing a common list of constitutional, technical, organizational, democratic and social requirements for electronic voting (systems) around Europe.I will give a short intro into [https://en.wikipedia.org/wiki/Electronic_voting_in_Estonia#Criticism history of failures] to make Estonian e-voting minimally satisfy the requirements and emerging standards on electronic voting:* Failure to take into account the two white papers by academic researchers from 2001 suggesting verifiability standards, independent counting, open source code (and decision to build the cheapest and bluntest system possible in 2005)* Failure to take into account OSCE/ODIHR recommendation from 2011 to implement end-to-end verifiability for the system (and non-decision to introduce flawed individual verifiability in 2013, which leaks digitally signed cryptograms of votes with respective decryption keys)* Failure to take into account the [https://estoniaevoting.org/ critique by independent researchers] lead by J Alex Halderman in 2014 who again suggested end-to-end verifiability as a necessary requirement for such systems (and another non-decision to introduce, but not specify the process or purpose of universal verifiability using mixnets in 2017)* Failure to solve the problems of relying on trust of the operator of electronic voting as well as to fix the problems of verifiability in improvements reluctantly introduced during past years by 2019 government work group on e-voting (which I was member of).I will be arguing for setting up common requirements for electronic voting besides trying to convince governments that it is fundamentally wrong to even think of electronic voting as a channel of conducting nation-wide elections.</description>
         <persons>
           <person id="0">Tramm</person>
         </persons>

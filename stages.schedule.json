@@ -4648,7 +4648,12 @@
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 101,
+                    "public_name": "Jeremy Rand"
+                  }
+                ],
                 "links": [],
                 "attachments": []
               },

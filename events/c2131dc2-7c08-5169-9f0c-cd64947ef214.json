@@ -14,7 +14,7 @@
   "type": "Lightning Talk",
   "language": "en",
   "abstract": "We are building a open source laser tag system. https://github.com/open-laser-tag/",
-  "description": "",
+  "description": "The open laser tag system is built on a ESP32 and a Android app. Laser Tag works with infrared, so the ESP32 is connected to a Infrared LED and a receiver. The infrared light is focused by a lens. The Android app is connected to the ESP32 via the onboard Bluetooth of the ESP32. The system is nearly playable. Currently we are working on a better case of the tagger. When you want to develop with us or want to have fun in the future with our system you are very welcome to contact us!",
   "recording_license": "",
   "do_not_record": false,
   "persons": [

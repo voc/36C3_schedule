@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 22:00",
+    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 22:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -3431,13 +3431,44 @@
             ],
             "Seminar room 13": [
               {
+                "id": 1479,
+                "guid": "c4f244bb-17d9-4bdd-a85b-adaaaa7021e5",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Hacker%E2%80%99s_Digest",
+                "logo": null,
+                "date": "2019-12-27T13:15:00+01:00",
+                "start": "13:15",
+                "duration": "0:45",
+                "room": "Seminar room 13",
+                "slug": "36c3-1479-session_42birds_hacker_s_digest",
+                "title": "42birds: Hacker\u2019s Digest",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "We'll talk about fiction and non-fiction books.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Birdy1976",
+                    "public_name": "Birdy1976"
+                  }
+                ],
+                "links": [
+                  "https://b76.ch/9843",
+                  "https://b76.ch/9728",
+                  "https://b76.ch/9607",
+                  "https://b76.ch/9339"
+                ]
+              },
+              {
                 "id": 1271,
                 "guid": "1a6bff4c-4d79-45e2-b6de-c07e1ff4f980",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Tipp_des_Tages_%E2%80%93_Calibre",
                 "logo": null,
                 "date": "2019-12-27T12:45:00+01:00",
                 "start": "12:45",
-                "duration": "0:45",
+                "duration": "0:30",
                 "room": "Seminar room 13",
                 "slug": "36c3-1271-session_42birds_tipp_des_tages_calibre",
                 "title": "42birds: Tipp des Tages \u2013 Calibre",
@@ -7264,6 +7295,32 @@
                 "language": "de",
                 "abstract": "",
                 "description": "\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Deine_datsche",
+                    "public_name": "Deine datsche"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1480,
+                "guid": "b0d8f5d8-d0ea-4f6c-83a7-3a0c8066adcb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tentacular_Mapping:",
+                "logo": null,
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Studio Datscha",
+                "slug": "36c3-1480-session_tentacular_mapping_",
+                "title": "Tentacular Mapping:",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "en",
+                "abstract": "",
+                "description": "Mikroben. Mikroorganismen. Pilze die im Mensch leben. Mensch der in Pilzen lebt. Ineinander leben. Eins werden, mehrere sein. Bewusstsein im K\u00f6rper. Materie als Bewusstsein. Unsichtbar. Verloren in unseren Begrenzungen. Einander auffressen. In Bruchst\u00fccke spalten. Sich gegenseitig zersetzen. Verbindungen rei\u00dfen um gleich darauf neu zu zerflie\u00dfen. Vermehren, sich verdichten, verschmelzen um sich dann explosionsartig zu entfalten und die Grenzen zerbersten, die H\u00fcllen zerplatzen.\nMikroben. Mikroorganismen. Pilze die im Mensch leben. Mensch der in Pilzen lebt. Ineinander leben. Eins werden, mehrere sein. Bewusstsein im K\u00f6rper. Materie als Bewusstsein. Unsichtbar. Verloren in unseren Begrenzungen. Einander auffressen. In Bruchst\u00fccke spalten. Sich gegenseitig zersetzen. Verbindungen rei\u00dfen um gleich darauf neu zu zerflie\u00dfen. Vermehren, sich verdichten, verschmelzen um sich dann explosionsartig zu entfalten und die Grenzen zerbersten, die H\u00fcllen zerplatzen.",
                 "persons": [
                   {
                     "id": 0,
@@ -28792,7 +28849,7 @@
                 "type": "meeting",
                 "language": "de",
                 "abstract": "",
-                "description": "Austausch zu alternativen Home Assistants\nHome Assistants sind hilfreich - doch wer m\u00f6chte sich schon ein Abh\u00f6rger\u00e4t ins Haus stellen. Alternativen zu Google Home und Amazon Alexa sind schwer zu finden. Wo, wenn nicht auf dem Congress k\u00f6nnte man sich mit Anderen austauschen die Alternativen kennen, dabei sind sich selbst etwas zu bauen oder einfach nur Interesse an einem Austausch zu dem Thema haben.- offene Diskussion, keine Agenda -",
+                "description": "Austausch zu alternativen Home Assistants\nHome Assistants sind hilfreich - doch wer m\u00f6chte sich schon ein Abh\u00f6rger\u00e4t ins Haus stellen. Alternativen zu Google Home und Amazon Alexa sind schwer zu finden. Ziel der Session: Austausch mit Anderen die Alternativen kennen, dabei sind sich selbst etwas zu bauen oder einfach nur Interesse am Thema haben. - offene Diskussion -",
                 "persons": [
                   {
                     "id": 0,

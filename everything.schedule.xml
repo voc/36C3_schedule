@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 19:30</version>
+  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 19:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -6721,6 +6721,29 @@ More sessions will be announced for Day 2, Day 3 and Day 4.</description>
         <description>Vaporizer Enthusiasts Meetup
 Vaporizer User meetup at CCL Terrace (https://36c3.c3nav.de/l/c:0:293.25:346.71/). After talking a bit we can head out to get some pizza or some other food.</description>
         <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Assembly:WikipakaWG">
+      <event id="1475" guid="3aaaf2f8-471b-4516-8a4c-314f39c16c01">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wikipaka/Jugend_hackt_Translation_Info_Meeting</url>
+        <logo/>
+        <date>2019-12-27T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>0:30</duration>
+        <room>Assembly:WikipakaWG</room>
+        <slug>36c3-1475-session_wikipaka_jugend_hackt_translation_info_meeting</slug>
+        <title>Wikipaka/Jugend hackt Translation Info Meeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Young and good at English and German? Try live translation!
+This year, we want to translate all talks at WikipakaWG between German and English, and we need your help!If you’re young, speak German and English, and think live translation sounds like fun, why don’t you join us at our information meeting? We’ll tell you how live translation works and you can decide if you want to give it a try at a talk of your choice. Don’t panic, there will always be one experienced translator with you in the booth.Dieses Jahr wollen wir alle Vorträge in der WikipakaWG zwischen Deutsch und Englisch übersetzen. Dafür brauchen wir deine Hilfe!Wenn du jung bist, Deutsch und Englisch sprichst, und Simultandolmetschen sich nach Spaß anhört, dann komm doch zu unserem Info-Treffen! Wir erklären, wie Simultandolmetschen funktioniert, und du entscheidest, ob du es mit einem Vortrag deiner Wahl ausprobieren möchtest. Keine Panik: bei jedem Vortrag ist immer eine erfahrene Person mit dir in der Kabine.</description>
+        <persons>
+          <person id="0">Waffle</person>
+        </persons>
         <links/>
       </event>
     </room>

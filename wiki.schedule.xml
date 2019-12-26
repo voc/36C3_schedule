@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-26 08:40</version>
+  <version>2019-12-26 08:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -3289,14 +3289,14 @@ mountainfolds and valleyfolds and diagrams and how to read them.Folding simple o
         <links/>
       </event>
       <event id="1092" guid="729d330b-b0a8-4b77-afec-158982b9d2b4">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Python_Programming_for_Absolute_Beginner</url>
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Python_Programming_for_Absolute_Beginners</url>
         <logo/>
         <date>2019-12-28T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>1:30</duration>
         <room>Lecture room M2</room>
-        <slug>36c3-1092-session_python_programming_for_absolute_beginner</slug>
-        <title>Python Programming for Absolute Beginner</title>
+        <slug>36c3-1092-session_python_programming_for_absolute_beginners</slug>
+        <title>Python Programming for Absolute Beginners</title>
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
@@ -4866,6 +4866,31 @@ Der Vortrag beschreibt das grafische Terminal robotron K8917. Das Gerät wurde v
           <person id="0">Dkt</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Assembly:Chaos West">
+      <event id="1417" guid="89cb9f79-001a-4636-8f23-3433a0ed7949">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Soldering_Workshop_(Chaos_macht_Schule)</url>
+        <logo/>
+        <date>2019-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>6:00</duration>
+        <room>Assembly:Chaos West</room>
+        <slug>36c3-1417-session_soldering_workshop_chaos_macht_schule_</slug>
+        <title>Soldering Workshop (Chaos macht Schule)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description>Learn how to solder. For beginners and moderately experienced kids (age &lt; 18)
+</description>
+        <persons>
+          <person id="0">Hbr</person>
+        </persons>
+        <links>
+          <link>https://junghack.de</link>
+        </links>
       </event>
     </room>
     <room name="Assembly:C-base / CCC-B / xHain">

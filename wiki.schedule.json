@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-26 08:40",
+    "version": "2019-12-26 08:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -4038,14 +4038,14 @@
               {
                 "id": 1092,
                 "guid": "729d330b-b0a8-4b77-afec-158982b9d2b4",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Python_Programming_for_Absolute_Beginner",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Python_Programming_for_Absolute_Beginners",
                 "logo": null,
                 "date": "2019-12-28T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "1:30",
                 "room": "Lecture room M2",
-                "slug": "36c3-1092-session_python_programming_for_absolute_beginner",
-                "title": "Python Programming for Absolute Beginner",
+                "slug": "36c3-1092-session_python_programming_for_absolute_beginners",
+                "title": "Python Programming for Absolute Beginners",
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "workshop",
@@ -5967,6 +5967,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:Chaos West": [
+              {
+                "id": 1417,
+                "guid": "89cb9f79-001a-4636-8f23-3433a0ed7949",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Soldering_Workshop_(Chaos_macht_Schule)",
+                "logo": null,
+                "date": "2019-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "6:00",
+                "room": "Assembly:Chaos West",
+                "slug": "36c3-1417-session_soldering_workshop_chaos_macht_schule_",
+                "title": "Soldering Workshop (Chaos macht Schule)",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "",
+                "abstract": "",
+                "description": "Learn how to solder. For beginners and moderately experienced kids (age < 18)\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hbr",
+                    "public_name": "Hbr"
+                  }
+                ],
+                "links": [
+                  "https://junghack.de"
+                ]
               }
             ],
             "Assembly:C-base / CCC-B / xHain": [

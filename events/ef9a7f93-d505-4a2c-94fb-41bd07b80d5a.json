@@ -11,21 +11,18 @@
   "title": "Android's build system is messier than your distro's",
   "subtitle": "",
   "track": "self organized sessions",
-  "type": "",
+  "type": "discussion",
   "language": "en",
   "abstract": "",
   "description": "Android Open Source Project (AOSP)'s build system differs greatly from other GNU/Linux based distribution: software components are built and bundled together into a single image without using any package manager during the build process; external software components are also tasked with maintaining support for AOSP build system themselves. Theses differences creates some extremely serious issues that also affect Replicant, a fully free software Android distribution. To solve that, we aim to foster a discussion with other projects and the community on sustainable ways to achieve an AOSP build that properly incorporates GNU/Linux projects such as Linux and Mesa. This talk might also be interesting to people packaging Android utilities like adb in GNU/Linux distributions, as they also have to deal with some of the issues created by the Android build system.\n",
   "persons": [
     {
       "id": 0,
-      "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dllud",
-      "public_name": "Dllud"
-    },
-    {
-      "id": 0,
       "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:RicardoGrimCabrita",
       "public_name": "RicardoGrimCabrita"
     }
   ],
-  "links": []
+  "links": [
+    "https://git.replicant.us/contrib/hominoid/buildsystem-presentation/"
+  ]
 }

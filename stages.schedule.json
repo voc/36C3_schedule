@@ -4633,18 +4633,18 @@
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/176.html",
                 "id": 4376,
                 "guid": "37de2e6d-eaaf-4476-9c08-d22bac65b779",
-                "logo": null,
+                "logo": "/system/events/logos/000/000/176/large/namecoin-coin_1000px.png?1577380576",
                 "date": "2019-12-27T18:15:00+01:00",
                 "start": "18:15",
                 "duration": "00:15",
                 "room": "CDC - Stage",
-                "slug": "36C3-176-namecoin",
-                "title": "Namecoin",
+                "slug": "36C3-176-intro_to_namecoin",
+                "title": "Intro to Namecoin",
                 "subtitle": "",
                 "track": null,
                 "type": "lightning_talk",
                 "language": "en",
-                "abstract": "",
+                "abstract": "Namecoin is a blockchain (first project forked from Bitcoin) that implements a decentralized DNS and public key infrastructure, which is resistant to censorship, hijacking, and other tampering.  This talk will explain the basics of how Namecoin works and what it can be used for.",
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
@@ -4654,7 +4654,12 @@
                     "public_name": "Jeremy Rand"
                   }
                 ],
-                "links": [],
+                "links": [
+                  {
+                    "url": "https://www.namecoin.org/",
+                    "title": "Namecoin"
+                  }
+                ],
                 "attachments": []
               },
               {

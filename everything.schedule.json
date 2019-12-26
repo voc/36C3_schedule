@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 19:40",
+    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 20:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -6322,36 +6322,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "Assembly:Anarchist Village": [
-              {
-                "id": 1321,
-                "guid": "4a98e37e-4238-48e6-abef-e42d5595227f",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Anti-governmental_protests_in_Chile",
-                "logo": null,
-                "date": "2019-12-27T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "1:00",
-                "room": "Assembly:Anarchist Village",
-                "slug": "36c3-1321-session_anti_governmental_protests_in_chile",
-                "title": "Anti-governmental protests in Chile",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Presentation on the recent protests in Chile from the anarchist perspective\nUprising in $hile without leaders and parties.Conversation about what's going on in the Chilean region. Some keys to understand the present situation and how is the protest organise.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Abcdd",
-                    "public_name": "Abcdd"
-                  }
-                ],
-                "links": [
-                  "https://and.notraces.net"
-                ]
               }
             ],
             "Hackers Beauty Palace": [
@@ -17761,6 +17731,36 @@
                 ]
               }
             ],
+            "Assembly:NixOS": [
+              {
+                "id": 1477,
+                "guid": "1a0a63ef-e073-45ee-b140-3905eb067a98",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:NixOS_Install_Party",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Assembly:NixOS",
+                "slug": "36c3-1477-session_nixos_install_party",
+                "title": "NixOS Install Party",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Let\u2019s install NixOS!\nBring your own device :)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Lassulus",
+                    "public_name": "Lassulus"
+                  }
+                ],
+                "links": [
+                  "http://nixos.org"
+                ]
+              }
+            ],
             "Assembly:Open Infrastructure Orbit": [
               {
                 "id": 1418,
@@ -28589,6 +28589,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hnms",
                     "public_name": "Hnms"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1476,
+                "guid": "dc1e455b-2e30-481f-b477-f07b1476d6b2",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Home_Assistant_Alternativen",
+                "logo": null,
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "0:45",
+                "room": "Seminar room 13",
+                "slug": "36c3-1476-session_home_assistant_alternativen",
+                "title": "Home Assistant Alternativen",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Austausch zu alternativen Home Assistants\nHome Assistants sind hilfreich - doch wer m\u00f6chte sich schon ein Abh\u00f6rger\u00e4t ins Haus stellen. Alternativen zu Google Home und Amazon Alexa sind schwer zu finden. Wo, wenn nicht auf dem Congress k\u00f6nnte man sich mit Anderen austauschen die Alternativen kennen, dabei sind sich selbst etwas zu bauen oder einfach nur Interesse an einem Austausch zu dem Thema haben.- offene Diskussion, keine Agenda -",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Geiddlyne",
+                    "public_name": "Geiddlyne"
                   }
                 ],
                 "links": []

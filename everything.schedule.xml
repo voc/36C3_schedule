@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 19:40</version>
+  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 20:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -5691,31 +5691,6 @@ Taking this into consideration, and having learnt the lessons on how lack of pro
           <person id="0">Dj-spock</person>
         </persons>
         <links/>
-      </event>
-    </room>
-    <room name="Assembly:Anarchist Village">
-      <event id="1321" guid="4a98e37e-4238-48e6-abef-e42d5595227f">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Anti-governmental_protests_in_Chile</url>
-        <logo/>
-        <date>2019-12-27T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Anarchist Village</room>
-        <slug>36c3-1321-session_anti_governmental_protests_in_chile</slug>
-        <title>Anti-governmental protests in Chile</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>Presentation on the recent protests in Chile from the anarchist perspective
-Uprising in $hile without leaders and parties.Conversation about what's going on in the Chilean region. Some keys to understand the present situation and how is the protest organise.</description>
-        <persons>
-          <person id="0">Abcdd</person>
-        </persons>
-        <links>
-          <link>https://and.notraces.net</link>
-        </links>
       </event>
     </room>
     <room name="Hackers Beauty Palace">
@@ -15745,6 +15720,31 @@ Hacktivism from time to time leads to imprisonment and repressions. There are se
         </links>
       </event>
     </room>
+    <room name="Assembly:NixOS">
+      <event id="1477" guid="1a0a63ef-e073-45ee-b140-3905eb067a98">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:NixOS_Install_Party</url>
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:NixOS</room>
+        <slug>36c3-1477-session_nixos_install_party</slug>
+        <title>NixOS Install Party</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let’s install NixOS!
+Bring your own device :)</description>
+        <persons>
+          <person id="0">Lassulus</person>
+        </persons>
+        <links>
+          <link>http://nixos.org</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Open Infrastructure Orbit">
       <event id="1418" guid="12f80390-7337-458f-88a7-ecadc78430a7">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Nudeln_hacken_-_Wettbewerb_f%C3%BCr_Junghacker_von_5_Jahren_bis_%E2%88%9E_(Session_A)</url>
@@ -25475,6 +25475,27 @@ This meeting is used for the distribution of shifts for the Translation team.</d
 [[File:Fairphone.svg|thumb]]This is a meeting slot for all Fairphoners and for those who would like to know more about it.What's a Fairphone? It's a smartphone that does things a little differently than the rest of the industry. Yours to open, yours to keep.Check out [https://www.fairphone.com/en/story/?ref=header Fairphone's philosophy here!]We are going to look at the Fairphones 1 (2013), Fairphone 2 (2015) and Fairphone 3 (2019), disassemble and reassemble them, discuss pros and cons and much more.</description>
         <persons>
           <person id="0">Hnms</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1476" guid="dc1e455b-2e30-481f-b477-f07b1476d6b2">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Home_Assistant_Alternativen</url>
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1476-session_home_assistant_alternativen</slug>
+        <title>Home Assistant Alternativen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Austausch zu alternativen Home Assistants
+Home Assistants sind hilfreich - doch wer möchte sich schon ein Abhörgerät ins Haus stellen. Alternativen zu Google Home und Amazon Alexa sind schwer zu finden. Wo, wenn nicht auf dem Congress könnte man sich mit Anderen austauschen die Alternativen kennen, dabei sind sich selbst etwas zu bauen oder einfach nur Interesse an einem Austausch zu dem Thema haben.- offene Diskussion, keine Agenda -</description>
+        <persons>
+          <person id="0">Geiddlyne</person>
         </persons>
         <links/>
       </event>

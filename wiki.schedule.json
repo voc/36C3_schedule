@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-26 19:40",
+    "version": "2019-12-26 20:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -1497,7 +1497,7 @@
                 "links": []
               }
             ],
-            "Assembly:Anarchist Village": [
+            "Assembly:ChaosZone": [
               {
                 "id": 1321,
                 "guid": "4a98e37e-4238-48e6-abef-e42d5595227f",
@@ -1506,7 +1506,7 @@
                 "date": "2019-12-27T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "1:00",
-                "room": "Assembly:Anarchist Village",
+                "room": "Assembly:ChaosZone",
                 "slug": "36c3-1321-session_anti_governmental_protests_in_chile",
                 "title": "Anti-governmental protests in Chile",
                 "subtitle": "",
@@ -1525,6 +1525,32 @@
                 "links": [
                   "https://and.notraces.net"
                 ]
+              },
+              {
+                "id": 1257,
+                "guid": "f00d245e-0efa-4d16-8cd4-d2e6cca970b9",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Chaoszone_Junghacker_CTF",
+                "logo": null,
+                "date": "2019-12-27T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "6:00",
+                "room": "Assembly:ChaosZone",
+                "slug": "36c3-1257-session_chaoszone_junghacker_ctf",
+                "title": "Chaoszone Junghacker CTF",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Einfaches CTF\nWir haben ein einfaches CTF (boot2root), welches sich besonders f\u00fcr Einsteiger eignet. Die zum CTF geh\u00f6renden R\u00e4tsel (auf Englisch) leiten die Spieler in die richtige Richtung, im zweiten Schritt k\u00f6nnen dann jeweils Exploits angewendet werden.Am Ende seid Ihr Admin auf der Maschine.Ich w\u00fcrde mich besonders \u00fcber junge Teilnehmer freuen; allerdings sollten die Teilnehmer \u00fcber grundlegende Computerkenntnisse (Linux) verf\u00fcgen und z.B. schonmal ein ssh benutzt haben, oder wissen wie eine Web-App konzeptionell funktioniert. Wir sch\u00e4tzen motivierte Jugendliche ab der 9. Klasse haben eine Chance, vielleicht aber auch erst etwas sp\u00e4ter. Wir werden auf jeden Fall auch junge erwachsene Teilnehmer zulassen.'''Teilnehmer m\u00fcssen eigene Laptops (mit Kabel-LAN) mitbringen. Wenn Ihr darauf Kali-Linux per USB-Stick (auch selbst mitbringen) bootet, seid Ihr bestens vorbereitet.'''Wir sind auf 20 Teilnehmer beschr\u00e4nkt.Tragt Euch bitte hier in der Wikipage ein, wenn Ihr teilnehmen wollt und auch tats\u00e4chlich kommt. Zu 2. spielt es sich leichter, deswegen werden wir zu Anfang des Spiels Teams bilden.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:KlObs",
+                    "public_name": "KlObs"
+                  }
+                ],
+                "links": []
               }
             ],
             "Hackers Beauty Palace": [
@@ -1946,34 +1972,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Manou",
                     "public_name": "Manou"
-                  }
-                ],
-                "links": []
-              }
-            ],
-            "Assembly:ChaosZone": [
-              {
-                "id": 1257,
-                "guid": "f00d245e-0efa-4d16-8cd4-d2e6cca970b9",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Chaoszone_Junghacker_CTF",
-                "logo": null,
-                "date": "2019-12-27T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "6:00",
-                "room": "Assembly:ChaosZone",
-                "slug": "36c3-1257-session_chaoszone_junghacker_ctf",
-                "title": "Chaoszone Junghacker CTF",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "Einfaches CTF\nWir haben ein einfaches CTF (boot2root), welches sich besonders f\u00fcr Einsteiger eignet. Die zum CTF geh\u00f6renden R\u00e4tsel (auf Englisch) leiten die Spieler in die richtige Richtung, im zweiten Schritt k\u00f6nnen dann jeweils Exploits angewendet werden.Am Ende seid Ihr Admin auf der Maschine.Ich w\u00fcrde mich besonders \u00fcber junge Teilnehmer freuen; allerdings sollten die Teilnehmer \u00fcber grundlegende Computerkenntnisse (Linux) verf\u00fcgen und z.B. schonmal ein ssh benutzt haben, oder wissen wie eine Web-App konzeptionell funktioniert. Wir sch\u00e4tzen motivierte Jugendliche ab der 9. Klasse haben eine Chance, vielleicht aber auch erst etwas sp\u00e4ter. Wir werden auf jeden Fall auch junge erwachsene Teilnehmer zulassen.'''Teilnehmer m\u00fcssen eigene Laptops (mit Kabel-LAN) mitbringen. Wenn Ihr darauf Kali-Linux per USB-Stick (auch selbst mitbringen) bootet, seid Ihr bestens vorbereitet.'''Wir sind auf 20 Teilnehmer beschr\u00e4nkt.Tragt Euch bitte hier in der Wikipage ein, wenn Ihr teilnehmen wollt und auch tats\u00e4chlich kommt. Zu 2. spielt es sich leichter, deswegen werden wir zu Anfang des Spiels Teams bilden.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:KlObs",
-                    "public_name": "KlObs"
                   }
                 ],
                 "links": []
@@ -6473,6 +6471,36 @@
                 ]
               }
             ],
+            "Assembly:NixOS": [
+              {
+                "id": 1477,
+                "guid": "1a0a63ef-e073-45ee-b140-3905eb067a98",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:NixOS_Install_Party",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Assembly:NixOS",
+                "slug": "36c3-1477-session_nixos_install_party",
+                "title": "NixOS Install Party",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Let\u2019s install NixOS!\nBring your own device :)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Lassulus",
+                    "public_name": "Lassulus"
+                  }
+                ],
+                "links": [
+                  "http://nixos.org"
+                ]
+              }
+            ],
             "Assembly:Open Infrastructure Orbit": [
               {
                 "id": 1418,
@@ -9949,6 +9977,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hnms",
                     "public_name": "Hnms"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1476,
+                "guid": "dc1e455b-2e30-481f-b477-f07b1476d6b2",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Home_Assistant_Alternativen",
+                "logo": null,
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "0:45",
+                "room": "Seminar room 13",
+                "slug": "36c3-1476-session_home_assistant_alternativen",
+                "title": "Home Assistant Alternativen",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Austausch zu alternativen Home Assistants\nHome Assistants sind hilfreich - doch wer m\u00f6chte sich schon ein Abh\u00f6rger\u00e4t ins Haus stellen. Alternativen zu Google Home und Amazon Alexa sind schwer zu finden. Wo, wenn nicht auf dem Congress k\u00f6nnte man sich mit Anderen austauschen die Alternativen kennen, dabei sind sich selbst etwas zu bauen oder einfach nur Interesse an einem Austausch zu dem Thema haben.- offene Diskussion, keine Agenda -",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Geiddlyne",
+                    "public_name": "Geiddlyne"
                   }
                 ],
                 "links": []

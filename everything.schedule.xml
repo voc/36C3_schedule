@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 20:40</version>
+  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 20:51</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -19835,27 +19835,6 @@ A free discussion about behavioural change and its methods (Cognitive behavioral
         </persons>
         <links/>
       </event>
-      <event id="1478" guid="0fc737a9-5e83-40fe-bb99-bc90534a5a9d">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Demystifying_Deepfakes</url>
-        <logo/>
-        <date>2019-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1478-session_demystifying_deepfakes</slug>
-        <title>Demystifying Deepfakes</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>I wanted to know what the fuzz is all about in the newspapers and tried to understand some details in deepfake video generation. This talk aims to be slightly more technical than a youtube introduction on deepfakes and slightly less useful for creating your own deepfake video.
-Newspaper articles on deepfakes are usually titled something like "The very serious dangers of deepfakes", "How the internet will be destroyed in 5 seconds" or, at best, "Deepfakes - should we be concerned? Spoiler: yes". This is the talk of a concerned citizen with not enough computing power wanting to find out what we are actually talking about when we are talking deepfakes. I will go through the steps involved when creating a deepfake including some technical details and some common sense. Deep learning knowledge is not required, but some deep learning may appear.</description>
-        <persons>
-          <person id="0">A0b1</person>
-        </persons>
-        <links/>
-      </event>
       <event id="1262" guid="7793d88f-e59b-47a4-a62f-a71f3b4de59a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Google-sensei_und_Leiharbeit_-_IT_in_Japan</url>
         <logo/>
@@ -22474,9 +22453,9 @@ This lecture describes the Almonit project, its architecture and technical detai
         <start>19:40</start>
         <duration>01:00</duration>
         <room>CDC - Stage</room>
-        <slug>36C3-86-blockchain_interoperability</slug>
-        <title>Blockchain Interoperability</title>
-        <subtitle/>
+        <slug>36C3-86-blockchain_interoperability_nipopows_sidechains</slug>
+        <title>Blockchain Interoperability: NIPoPoWs &amp; Sidechains</title>
+        <subtitle>Moving value between chains</subtitle>
         <track>Stage</track>
         <type>lecture</type>
         <language>en</language>

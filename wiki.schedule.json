@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-27 00:30",
+    "version": "2019-12-27 00:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -3912,7 +3912,7 @@
                 "type": "talk",
                 "language": "en",
                 "abstract": "",
-                "description": "Is it worth to be constructive in a flawed policy debate?\nI will explain why I am creating my own independent debrief on 2019 government work group on e-voting in Estonia which I was member of as well as why I intend to move toward phrasing a common list of constitutional, technical, organizational, democratic and social requirements for electronic voting (systems) around Europe.I will give a short intro into history failures to make Estonian e-voting minimally satisfy the requirements and emerging standards on electronic voting:* Failure to take into account the two white papers by academic researchers from 2001 suggesting verifiability standards, independent counting, open source code (and decision to build the cheapest and bluntest system possible in 2005)* Failure to take into account OSCE/ODIHR recommendation from 2011 to implement end-to-end verifiability for the system (and non-decision to introduce flawed individual verifiability in 2013, which leaks digitally signed cryptograms of voters)* Failure to take into account the critique by independent researchers lead by J Alex Halderman in 2014 who again suggested end-to-end verifiability as a necessary requirement for such systems (and another non-decision to introduce, but not specify the process or purpose of universal verifiability using mixnets in 2017)* Failure to solve the problems of relying on trust of the operator of electronic voting as well as to fix the problems of verifiability in improvements reluctantly introduced during past years by 2019 government work group on e-voting (which I was member of).I will be arguing for setting up common requirements for electronic voting besides trying to convince governments that it is fundamentally wrong to even think of electronic voting as a channel of conducting nation-wide elections.",
+                "description": "Is it worth to be constructive in a flawed policy debate?\nI will explain why I am creating my own independent debrief on 2019 government work group on e-voting in Estonia which I was member of as well as why I intend to move toward phrasing a common list of constitutional, technical, organizational, democratic and social requirements for electronic voting (systems) around Europe.I will give a short intro into history failures to make Estonian e-voting minimally satisfy the requirements and emerging standards on electronic voting:* Failure to take into account the two white papers by academic researchers from 2001 suggesting verifiability standards, independent counting, open source code (and decision to build the cheapest and bluntest system possible in 2005)* Failure to take into account OSCE/ODIHR recommendation from 2011 to implement end-to-end verifiability for the system (and non-decision to introduce flawed individual verifiability in 2013, which leaks digitally signed cryptograms of votes with respective decryption keys)* Failure to take into account the critique by independent researchers lead by J Alex Halderman in 2014 who again suggested end-to-end verifiability as a necessary requirement for such systems (and another non-decision to introduce, but not specify the process or purpose of universal verifiability using mixnets in 2017)* Failure to solve the problems of relying on trust of the operator of electronic voting as well as to fix the problems of verifiability in improvements reluctantly introduced during past years by 2019 government work group on e-voting (which I was member of).I will be arguing for setting up common requirements for electronic voting besides trying to convince governments that it is fundamentally wrong to even think of electronic voting as a channel of conducting nation-wide elections.",
                 "persons": [
                   {
                     "id": 0,
@@ -5198,9 +5198,9 @@
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "discussion",
-                "language": "de",
+                "language": "en",
                 "abstract": "",
-                "description": "In Lightning Talk \u26a1 \"Can you sustain IT?\" on day 2, I propose to refuse exponentially increasing resource consumption.\nIn [https://c3lt.de/36c3/talk/W3YJT7/ Lightning Talk \u26a1 \"Can you sustain IT?\"] on day 2, I propose to refuse exponentially increasing resource consumption.This means e.g. to ensure that your software project (contributor or fan) also is a pleasure to use on systems 5 years or older.This 45min session is an open disussion about* is that a sensible plea?* is that feasible for your project?* where can this already be seen in the wild?",
+                "description": "Discussion: In Lightning Talk \u26a1 \"Can you sustain IT?\" on day 2, I propose to refuse exponentially increasing resource consumption.\nIn [https://c3lt.de/36c3/talk/W3YJT7/ Lightning Talk \u26a1 \"Can you sustain IT?\"] on day 2, I propose to refuse exponentially increasing resource consumption.This means e.g. to ensure that your software project (contributor or fan) also is a pleasure to use on systems 5 years or older.This 45min session is an open disussion about* is that a sensible plea?* is that feasible for your project?* where can this already be seen in the wild?",
                 "persons": [
                   {
                     "id": 0,
@@ -5703,6 +5703,34 @@
                 "links": [
                   "https://foodhackingbase.org/wiki/Gimbab_making_36c3"
                 ]
+              }
+            ],
+            "Assembly:ZSH": [
+              {
+                "id": 1493,
+                "guid": "9e4f45aa-9665-46cc-8ebc-0d097d91e2c8",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Beewax_Sheets",
+                "logo": null,
+                "date": "2019-12-28T16:20:00+01:00",
+                "start": "16:20",
+                "duration": "1:00",
+                "room": "Assembly:ZSH",
+                "slug": "36c3-1493-session_beewax_sheets",
+                "title": "Beewax Sheets",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Bienenwachst\u00fccher DIY\nT\u00fccher mit Bienenwachs herstellenZiel ist es Lebensmittel alternativ zu verpacken ohne Plastik.Baumwollt\u00fccher, Wachs, Harz und Jojoba\u00f6l habe ich f\u00fcr euch dabei. F\u00fcr die Materialien wird um einen Unkostenbeitrag geben.Wer mag kann gerne eigene T\u00fccher oder Baumwollbeutel mitbringen.Ich freue mich auf euer kommenRaum wird noch bekannt gegeben.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Laugenschneiderin",
+                    "public_name": "Laugenschneiderin"
+                  }
+                ],
+                "links": []
               }
             ],
             "Monipilami": [

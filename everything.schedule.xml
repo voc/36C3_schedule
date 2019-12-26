@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; cdc 2; wiki 2019-12-26 13:50</version>
+  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; cdc 2; wiki 2019-12-26 14:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -6477,6 +6477,29 @@ Since ex-Teppich, interest of having a Hacker- and Makerspace in Erlangen has sp
 Limited spots, first come first served.</description>
         <persons>
           <person id="0">Qwaxys</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Assembly:Space in front of M1">
+      <event id="1440" guid="776ad6d2-51aa-40c3-af5a-63aa069ae2f4">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</url>
+        <logo/>
+        <date>2019-12-27T21:35:00+01:00</date>
+        <start>21:35</start>
+        <duration>0:10</duration>
+        <room>Assembly:Space in front of M1</room>
+        <slug>36c3-1440-session_memorizing_pi_for_fun_not_for_profit_</slug>
+        <title>Memorizing pi for fun (not for profit)</title>
+        <subtitle>Day 1 (all sessions are independent from each other)</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)
+More sessions will be announced for Day 2, Day 3 and Day 4.</description>
+        <persons>
+          <person id="0">Iblech</person>
         </persons>
         <links/>
       </event>
@@ -15177,6 +15200,29 @@ Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in d
         <links/>
       </event>
     </room>
+    <room name="Assembly:Placeholder for Komona Cinopolis">
+      <event id="1439" guid="9476ee20-6247-44bc-a2e9-71e9ca4f8c7e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Let%27s_Watch_JoJo%27s_Bizarre_Adventure_-_Phantom_Blood</url>
+        <logo/>
+        <date>2019-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Placeholder for Komona Cinopolis</room>
+        <slug>36c3-1439-session_let_s_watch_jojo_s_bizarre_adventure_phantom_blood</slug>
+        <title>Let's Watch JoJo's Bizarre Adventure - Phantom Blood</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>We will watch the first 3 episodes of the most recent anime adaption of the first part of THE BEST MANGA IN THE WORLD: JoJo's Bizarre Adventure (JJBA) by Hirohiko Araki and talk a bit.
+While the JJBA comics are ongoing for more than 30 years now currently in part 9, the part 1 animation itself consists of 9 episodes that in itself tell a tightly packed thriller story of 19th century English gentlemen and the invasion of a devil in disguise.   Eccentric poses, fresh and innovative ideas, fast-paced story telling and overall unparalleled aesthetics in manga and anime adaptation made it an all-time masterpiece as well as a source for memes and references in modern media, even inspiring Billie Eilish's outfits.   Episodes are in Japanese with English subtitles. We'll have some time to look at a few memes, the troubled history of JJBA in the west and current development as well :)</description>
+        <persons>
+          <person id="0">Taulex</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:Anarchist Village">
       <event id="1331" guid="b5dece8f-e2d8-4888-b279-b2e2230a90b0">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking</url>
@@ -21812,7 +21858,9 @@ This lecture describes the Almonit project, its architecture and technical detai
           <license/>
           <optout>false</optout>
         </recording>
-        <persons/>
+        <persons>
+          <person id="109">Drew</person>
+        </persons>
         <links>
           <link href="https://embedded-recipes.org/2019/linux-on-open-source-hardware-and-libre-silicon/">Linux on Open Source Hardware and Libre Silicon</link>
         </links>

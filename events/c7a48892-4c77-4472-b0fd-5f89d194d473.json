@@ -17,7 +17,12 @@
   "description": "This talk will explore Open Source Hardware projects relevant to Linux, including boards like BeagleBone, Olimex OLinuXino, Giant board and more. Looking at the benefits and challenges of designing Open Source Hardware for a Linux system, along with BeagleBoard.org\u2019s experience of working with community, manufacturers, and distributors to create an Open Source Hardware platform. In closing also looking at the future, Libre Silicon like RISC-V designs, and where this might take Linux.",
   "recording_license": "",
   "do_not_record": false,
-  "persons": [],
+  "persons": [
+    {
+      "id": 109,
+      "public_name": "Drew"
+    }
+  ],
   "links": [
     {
       "url": "https://embedded-recipes.org/2019/linux-on-open-source-hardware-and-libre-silicon/",

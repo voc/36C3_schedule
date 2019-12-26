@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; cdc 2; wiki 2019-12-26 13:50",
+    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; cdc 2; wiki 2019-12-26 14:00",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -7313,6 +7313,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Qwaxys",
                     "public_name": "Qwaxys"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:Space in front of M1": [
+              {
+                "id": 1440,
+                "guid": "776ad6d2-51aa-40c3-af5a-63aa069ae2f4",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)",
+                "logo": null,
+                "date": "2019-12-27T21:35:00+01:00",
+                "start": "21:35",
+                "duration": "0:10",
+                "room": "Assembly:Space in front of M1",
+                "slug": "36c3-1440-session_memorizing_pi_for_fun_not_for_profit_",
+                "title": "Memorizing pi for fun (not for profit)",
+                "subtitle": "Day 1 (all sessions are independent from each other)",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)\nMore sessions will be announced for Day 2, Day 3 and Day 4.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+                    "public_name": "Iblech"
                   }
                 ],
                 "links": []
@@ -17055,6 +17083,34 @@
                 "links": []
               }
             ],
+            "Assembly:Placeholder for Komona Cinopolis": [
+              {
+                "id": 1439,
+                "guid": "9476ee20-6247-44bc-a2e9-71e9ca4f8c7e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Let%27s_Watch_JoJo%27s_Bizarre_Adventure_-_Phantom_Blood",
+                "logo": null,
+                "date": "2019-12-29T00:00:00+01:00",
+                "start": "00:00",
+                "duration": "1:30",
+                "room": "Assembly:Placeholder for Komona Cinopolis",
+                "slug": "36c3-1439-session_let_s_watch_jojo_s_bizarre_adventure_phantom_blood",
+                "title": "Let's Watch JoJo's Bizarre Adventure - Phantom Blood",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "en",
+                "abstract": "",
+                "description": "We will watch the first 3 episodes of the most recent anime adaption of the first part of THE BEST MANGA IN THE WORLD: JoJo's Bizarre Adventure (JJBA) by Hirohiko Araki and talk a bit.\nWhile the JJBA comics are ongoing for more than 30 years now currently in part 9, the part 1 animation itself consists of 9 episodes that in itself tell a tightly packed thriller story of 19th century English gentlemen and the invasion of a devil in disguise.   Eccentric poses, fresh and innovative ideas, fast-paced story telling and overall unparalleled aesthetics in manga and anime adaptation made it an all-time masterpiece as well as a source for memes and references in modern media, even inspiring Billie Eilish's outfits.   Episodes are in Japanese with English subtitles. We'll have some time to look at a few memes, the troubled history of JJBA in the west and current development as well :)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Taulex",
+                    "public_name": "Taulex"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Assembly:Anarchist Village": [
               {
                 "id": 1331,
@@ -24310,7 +24366,12 @@
                 "description": "This talk will explore Open Source Hardware projects relevant to Linux, including boards like BeagleBone, Olimex OLinuXino, Giant board and more. Looking at the benefits and challenges of designing Open Source Hardware for a Linux system, along with BeagleBoard.org\u2019s experience of working with community, manufacturers, and distributors to create an Open Source Hardware platform. In closing also looking at the future, Libre Silicon like RISC-V designs, and where this might take Linux.",
                 "recording_license": "",
                 "do_not_record": false,
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 109,
+                    "public_name": "Drew"
+                  }
+                ],
                 "links": [
                   {
                     "url": "https://embedded-recipes.org/2019/linux-on-open-source-hardware-and-libre-silicon/",

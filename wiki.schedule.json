@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-27 00:00",
+    "version": "2019-12-27 00:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -2437,8 +2437,8 @@
                 "guid": "eaef5961-3c87-40f0-9ebb-824052a405da",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:DIYBio_Meetup",
                 "logo": null,
-                "date": "2019-12-27T13:00:00+01:00",
-                "start": "13:00",
+                "date": "2019-12-27T14:00:00+01:00",
+                "start": "14:00",
                 "duration": "1:00",
                 "room": "Studio Datsche",
                 "slug": "36c3-1409-session_diybio_meetup",
@@ -2487,6 +2487,32 @@
                 "links": [
                   "https://zentrallabor.org"
                 ]
+              },
+              {
+                "id": 1487,
+                "guid": "6a13aed7-9c36-4603-8bad-79cb8eb73dac",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:I_am_a_feminist_cyborg_mushrOOm_shaman_and_that_is_ok-",
+                "logo": null,
+                "date": "2019-12-27T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "1:00",
+                "room": "Studio Datsche",
+                "slug": "36c3-1487-session_i_am_a_feminist_cyborg_mushroom_shaman_and_that_is_ok_",
+                "title": "I am a feminist cyborg mushrOOm shaman and that is ok-",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "lecture by S. Poxy\nlecture by S. Poxy:\u00a0Die cyborg mushr00m shaman ist ein fiktionaler Charakter die zwischen dem Hier und der Zukunft gleitet. Sie sucht und kartiert das Wissen \u00fcber die psychoaktiven Gew\u00e4chse aus der Vergangenheit und braut die Tr\u00e4nke f\u00fcr die Bewohner*innen einer Landschaft nach dem Kapitalismus. Sie ist der Mediator zwischen organischem und artifiziellen. Die Lecture versucht die Diskurse um Psychoaktive Pflanzen und Gew\u00e4chse / natureculture / Postkolonialer Theory und intersektionalem Feminismus zusammen zu erz\u00e4hlen und zu diskutieren",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Deine_datsche",
+                    "public_name": "Deine datsche"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1405,
@@ -3177,6 +3203,34 @@
               }
             ],
             "Seminar room 14-15": [
+              {
+                "id": 1486,
+                "guid": "d54e7d6f-4f5e-450d-bc36-fbb719f5c694",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:B%C3%A4ume_pflanzen_mit_QGIS_und_R",
+                "logo": null,
+                "date": "2019-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "0:30",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1486-session_baeume_pflanzen_mit_qgis_und_r",
+                "title": "B\u00e4ume pflanzen mit QGIS und R",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "B\u00e4ume pflanzen kann sehr lange dauern. Mit interaktiven Karten k\u00f6nnen wir strategische Punkte in der Landschaft erkunden, diese aufforsten und die Natur macht den Rest. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele an und k\u00f6nnen bei Interesse ein kleines K\u00e4rtchen programmieren.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bengoshi",
+                    "public_name": "Bengoshi"
+                  }
+                ],
+                "links": [
+                  "http://www.booksfortrees.at/badilisha-permaculture-center/"
+                ]
+              },
               {
                 "id": 1058,
                 "guid": "03d2f5b2-858f-4bab-b216-c95540f79fcb",
@@ -6707,6 +6761,34 @@
                 ],
                 "links": []
               }
+            ],
+            "Studio Datsche": [
+              {
+                "id": 1489,
+                "guid": "cb6c6733-c122-43e6-9b41-9aa83c8a960b",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Warm-up_und_Brei",
+                "logo": null,
+                "date": "2019-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "2:00",
+                "room": "Studio Datsche",
+                "slug": "36c3-1489-session_warm_up_und_brei",
+                "title": "Warm-up und Brei",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "Sport and Porridge\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Deine_datsche",
+                    "public_name": "Deine datsche"
+                  }
+                ],
+                "links": []
+              }
             ]
           }
         },
@@ -9124,7 +9206,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "About the idea of deliberative democracy, how the concepts can be instantiated within our current political systems, what has happened and will happen in the near future. How this could help us to find civilisational ways to handle the disruptions ahead.\nCurrent environmental, social, and economic crises may be rooted to an institutional crisis of representative democracy. Consistent further development has always been an important constant in the history of democracy. Present climate and ecological crisis threaten our own existence and requires a radical transformation. Current democratic institutions will not suffice to reintegrate into our planet\u2019s boundaries. But how to address this fundamental challenge as a democratic society?A promising option for a sustainable just transition towards global climate justice is a further development of democracy! Extinction Rebellion demands a national \u2018citizens assembly\u2019 on climate and ecological justice. Citizens\u2019 Assemblies are innovative processes that can empower people, communities and entire countries to make important decisions in a way that is fair and deeply democratic. The Citizens\u2019 Assembly on Climate and Ecological Justice will bring together ordinary people to investigate, discuss and make recommendations on how to respond to the climate emergency. Similar to jury service, members will be randomly selected from across the country. The process will be designed to ensure that the Assembly reflects the whole country in terms of characteristics such as gender, age, ethnicity, education level and geography. Assembly members will hear balanced information from experts and those most affected by the emergency. Members will speak openly and honestly in small groups with the aid of professional facilitators. Together they will work through their differences and draft and vote on recommendations.The Citizens\u2019 Assembly will be run by non-governmental organizations under independent oversight. This is the fairest and most powerful way to cut through party politics. It will empower citizens to actually work together and take responsibility for our climate and ecological emergency. This isn\u2019t pie in the sky \u2013 it\u2019s proven practice. Citizens\u2019 Assemblies around the world have shown that ordinary people can understand complex information, weigh the options, and make informed choices. Examples include Ireland, Canada, Australia, Belgium and Poland.",
+                "description": "Do not miss this co-creative workshop on citizens\u2019 assemblies and why deliberative democracy may pave the way for a just and sustainable transition in a green future. Come and experience a deliberative session by yourself which will follow an introduction into the concept by activists of Extinction Rebellion Germany.\nCurrent environmental, social, and economic crises may be rooted to an institutional crisis of representative democracy. Consistent further development has always been an important constant in the history of democracy. Present climate and ecological crisis threaten our own existence and requires a radical transformation. Current democratic institutions will not suffice to reintegrate into our planet\u2019s boundaries. But how to address this fundamental challenge as a democratic society?A promising option for a sustainable just transition towards global climate justice is a further development of democracy! Extinction Rebellion demands a national \u2018citizens assembly\u2019 on climate and ecological justice. Citizens\u2019 Assemblies are innovative processes that can empower people, communities and entire countries to make important decisions in a way that is fair and deeply democratic. The Citizens\u2019 Assembly on Climate and Ecological Justice will bring together ordinary people to investigate, discuss and make recommendations on how to respond to the climate emergency. Similar to jury service, members will be randomly selected from across the country. The process will be designed to ensure that the Assembly reflects the whole country in terms of characteristics such as gender, age, ethnicity, education level and geography. Assembly members will hear balanced information from experts and those most affected by the emergency. Members will speak openly and honestly in small groups with the aid of professional facilitators. Together they will work through their differences and draft and vote on recommendations.The Citizens\u2019 Assembly will be run by non-governmental organizations under independent oversight. This is the fairest and most powerful way to cut through party politics. It will empower citizens to actually work together and take responsibility for our climate and ecological emergency. This isn\u2019t pie in the sky \u2013 it\u2019s proven practice. Citizens\u2019 Assemblies around the world have shown that ordinary people can understand complex information, weigh the options, and make informed choices. Examples include Ireland, Canada, Australia, Belgium and Poland.",
                 "persons": [
                   {
                     "id": 0,
@@ -9132,7 +9214,9 @@
                     "public_name": "Andre"
                   }
                 ],
-                "links": []
+                "links": [
+                  "https://extinctionrebellion.de/wer-wir-sind/unsere-forderungen/bv/"
+                ]
               },
               {
                 "id": 1314,
@@ -9188,6 +9272,34 @@
                 ],
                 "links": [
                   "https://pentagame.org"
+                ]
+              },
+              {
+                "id": 1488,
+                "guid": "8c62a567-0190-4020-9767-01f66003194c",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Refugee-datathon-munich",
+                "logo": null,
+                "date": "2019-12-29T14:30:00+01:00",
+                "start": "14:30",
+                "duration": "2:30",
+                "room": "C-base",
+                "slug": "36c3-1488-session_refugee_datathon_munich",
+                "title": "Refugee-datathon-munich",
+                "subtitle": "collecting information for refugee supporters",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "We collect open data to inform better about asylum and migration\nSince 2016, the Refugee Datathon Munich meet to find and collect open data to inform about the refugee situation world wide. The original target audience are refugee supporters. They often aren't technical, but need information on acceptance quotas and similar data. The public is another audience. And then there is us: While discussing, researching and working with this data, we learn a lot about migration on this planet, the legal situation in Germany, and Open Data.Let us work on some issues. It can be getting data from the OECD API, or eurostat, or from PDFs in documents. Or bringing this data in a more presentable form (visualizations), or explaining it in an online article.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ynux",
+                    "public_name": "Ynux"
+                  }
+                ],
+                "links": [
+                  "https://refugee-datathon-muc.org/"
                 ]
               },
               {
@@ -9487,15 +9599,15 @@
             ],
             "Studio Datsche": [
               {
-                "id": 1484,
-                "guid": "467c80a8-4f41-4cd2-84a8-67edf74d60ff",
+                "id": 1490,
+                "guid": "1d4f158a-2f11-481d-82a0-63c6ac2ed2c3",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Warm-up_und_Brei",
                 "logo": null,
                 "date": "2019-12-29T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "2:00",
                 "room": "Studio Datsche",
-                "slug": "36c3-1484-session_warm_up_und_brei",
+                "slug": "36c3-1490-session_warm_up_und_brei",
                 "title": "Warm-up und Brei",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -10383,15 +10495,15 @@
             ],
             "Studio Datsche": [
               {
-                "id": 1485,
-                "guid": "8c6220b9-2fdf-56b7-a8f3-c105c87f1912",
+                "id": 1484,
+                "guid": "467c80a8-4f41-4cd2-84a8-67edf74d60ff",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Warm-up_und_Brei",
                 "logo": null,
                 "date": "2019-12-30T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "2:00",
                 "room": "Studio Datsche",
-                "slug": "36c3-1485-session_warm_up_und_brei",
+                "slug": "36c3-1484-session_warm_up_und_brei",
                 "title": "Warm-up und Brei",
                 "subtitle": "",
                 "track": "self organized sessions",

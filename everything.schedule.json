@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 22:40",
+    "version": "find; lounges; chaos-west 1.0; open-infra 12; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 22:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress",
@@ -2842,6 +2842,38 @@
                     "code": "WR3T9D",
                     "public_name": "Volker Krause",
                     "biography": "Volker started contributing to KDE in 2002, primarily working on KDE PIM and Akonadi, the KDE Frameworks syntax highlighting engine, ELF Dissector, the telemetry and survey framework KUserFeedback and KDE Itinerary. Volker is also a Qt approver and the author of the Qt runtime introspection tool GammaRay.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 578,
+                "guid": "d2a0ae34-e178-52ba-bb5b-64aa255ffdd9",
+                "logo": "",
+                "date": "2019-12-27T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "00:30",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "WHCLNE",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/WHCLNE/",
+                "title": "Free Software for Qualitative Social Research",
+                "subtitle": "",
+                "track": "Science",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "I would like to introduce Free Software that I have used and exchange information about alternative software for academic use.",
+                "description": "During my sociology master thesis I tried a lot of free software and developed a profound workflow from literature research, interview preparation and processing to analysis, note taking and the final writing process. Because I have made the experience that especially in the social sciences and humanities there is hardly any technical interest, there is also little information about free software among fellow students. I would like to introduce the tools I have used and exchange information about alternative software for academic use.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 67,
+                    "code": "ZYZHQS",
+                    "public_name": "Julia",
+                    "biography": "Ich bin Julia und versuche seit 2018 bei Code for Osnabr\u00fcck zu programmieren, muss aber meistens allen m\u00f6glichen Menschen erstmal erkl\u00e4ren, warum offene Daten so unglaublich wichtig sind. Das mache ich aber sehr gerne. Au\u00dferdem bin ich seit Anfang 2019 im Community-Rat von Code for Germany.",
                     "answers": []
                   }
                 ],
@@ -12553,34 +12585,6 @@
                 ]
               },
               {
-                "id": 1071,
-                "guid": "84be99ea-3bf4-4cf8-bc82-390358547989",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:The_state_of_secure_messaging:_the_case_of_OTR",
-                "logo": null,
-                "date": "2019-12-28T20:30:00+01:00",
-                "start": "20:30",
-                "duration": "0:30",
-                "room": "Lecture room M1",
-                "slug": "36c3-1071-session_the_state_of_secure_messaging_the_case_of_otr",
-                "title": "The state of secure messaging: the case of OTR",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "On this talk, we will talk about the state of different secure messaging applications: from MLS, Signal, Wire to OTR. We will talk around what impact they have as a technology used to resist mass surveillance and why they are needed in the current ever oppressive world. We will look at the challenges they face and what need ideas come with the 4th version of OTR.\nOn this talk, we will talk about the state of differentsecure messaging applications: from MLS, Signal, Wire to OTR. We willtalk around what impact they have as a technology used to resist masssurveillance and why they are needed in the current ever oppressiveworld. We will look at the challenges they face and what need ideas comewith the 4th version of OTR.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
-                    "public_name": "Dreirik"
-                  }
-                ],
-                "links": [
-                  "https://www.youtube.com/watch?v=KR4s6t9D9Jo"
-                ]
-              },
-              {
                 "id": 1199,
                 "guid": "816f77ca-d7bf-4869-b5cf-529a89501e85",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Yubikey_101",
@@ -21603,30 +21607,30 @@
                 "answers": []
               },
               {
-                "id": 579,
-                "guid": "ec7f954e-db31-560e-ab47-0c2e57bd18ed",
+                "id": 568,
+                "guid": "099b9161-902b-50ca-a308-d86e2825ce27",
                 "logo": "",
-                "date": "2019-12-29T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "00:30",
+                "date": "2019-12-29T12:45:00+01:00",
+                "start": "12:45",
+                "duration": "01:00",
                 "room": "WikiPaka WG: Esszimmer",
-                "slug": "PMD8TF",
-                "url": "https://cfp.verschwoerhaus.de/36c3/talk/PMD8TF/",
-                "title": "Free access to substitution plans \u2013 Deobfuscation adventures",
+                "slug": "3CHBWG",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/3CHBWG/",
+                "title": "Free Software for Open Science",
                 "subtitle": "",
-                "track": "Ethics, Society & Politics",
+                "track": "Science",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Many schools in Germany choose to distribute their substitute plans via a proprietary platform. The provided client software is not very pleasurable to use and inconveniences users with its dependency on Google Play Services. That's why I develop a free client for Android called DSBDirect, which is able to display plans in a nice, filtered way.",
-                "description": "Many schools in Germany choose to distribute their substitute plans via the proprietary [[DSB platform]](https://heinekingmedia.de/education/digitales-schwarzes-brett). The provided client software is not very pleasurable to use and inconveniences users with its dependency on Google Play Services. That's why I develop a free client for Android called DSBDirect, which is able to display plans in a nice, filtered way. Since they noticed my app, the company operating DSB has been obfuscating their various endpoints more and more in an attempt to prevent my app from working, while on the other hand not being very competent at security. It's a cat-and-mouse game.",
+                "abstract": "This talk provides an overview of the state of Free and Open Source Software (FOSS) within the various European \r\nscientific communities. Based on this we will try to identify stakeholders, common goals and potential policy proposals.",
+                "description": "The principles of Free and Open Source Software (FOSS) are\r\nwell aligned with the core tenets of science, i.e., the sharing of knowledge \r\nand the demand for reproducibility of results. Nevertheless, FOSS is still \r\nrather the exception than the rule for the majority of scientific domains.\r\nIn this session we will discuss the state of FOSS within the various European \r\nscientific communities. Based on this we will try to identify stakeholders, \r\ncommon goals and potential policy proposals.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 77,
-                    "code": "SRCBZY",
-                    "public_name": "Fynn",
-                    "biography": "I'm a student in the eleventh grade of a Gymnasium in Schweinfurt, Germany. I'm enthusiastic about free software and sometimes develop this Android app, even though I stopped using Android in day-to-day life.",
+                    "id": 95,
+                    "code": "9ADERA",
+                    "public_name": "purine:bitter",
+                    "biography": "Mastodon: [`@purine_bitter@mastodon.social`](https://mastodon.social/@purine_bitter)",
                     "answers": []
                   }
                 ],
@@ -21699,11 +21703,43 @@
                 "answers": []
               },
               {
-                "id": 581,
-                "guid": "8557f87b-a449-5b48-8be5-8130b2c21a63",
+                "id": 579,
+                "guid": "ec7f954e-db31-560e-ab47-0c2e57bd18ed",
                 "logo": "",
                 "date": "2019-12-29T17:00:00+01:00",
                 "start": "17:00",
+                "duration": "00:30",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "PMD8TF",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/PMD8TF/",
+                "title": "Free access to substitution plans \u2013 Deobfuscation adventures",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Many schools in Germany choose to distribute their substitute plans via a proprietary platform. The provided client software is not very pleasurable to use and inconveniences users with its dependency on Google Play Services. That's why I develop a free client for Android called DSBDirect, which is able to display plans in a nice, filtered way.",
+                "description": "Many schools in Germany choose to distribute their substitute plans via the proprietary [[DSB platform]](https://heinekingmedia.de/education/digitales-schwarzes-brett). The provided client software is not very pleasurable to use and inconveniences users with its dependency on Google Play Services. That's why I develop a free client for Android called DSBDirect, which is able to display plans in a nice, filtered way. Since they noticed my app, the company operating DSB has been obfuscating their various endpoints more and more in an attempt to prevent my app from working, while on the other hand not being very competent at security. It's a cat-and-mouse game.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 77,
+                    "code": "SRCBZY",
+                    "public_name": "Fynn",
+                    "biography": "I'm a student in the eleventh grade of a Gymnasium in Schweinfurt, Germany. I'm enthusiastic about free software and sometimes develop this Android app, even though I stopped using Android in day-to-day life.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 581,
+                "guid": "8557f87b-a449-5b48-8be5-8130b2c21a63",
+                "logo": "",
+                "date": "2019-12-29T17:30:00+01:00",
+                "start": "17:30",
                 "duration": "02:00",
                 "room": "WikiPaka WG: Esszimmer",
                 "slug": "CRH3HY",
@@ -21981,6 +22017,34 @@
                 ],
                 "links": [
                   "http://haecksen.org"
+                ]
+              },
+              {
+                "id": 1481,
+                "guid": "11caf02b-2b53-477e-84cd-ddb548126367",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Open_data",
+                "logo": null,
+                "date": "2019-12-29T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "0:50",
+                "room": "Lecture room 11",
+                "slug": "36c3-1481-session_open_data",
+                "title": "Open data",
+                "subtitle": "public sector information",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "open data\nopen data - public sector information",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Vavoida",
+                    "public_name": "Vavoida"
+                  }
+                ],
+                "links": [
+                  "http://okfn.de"
                 ]
               },
               {

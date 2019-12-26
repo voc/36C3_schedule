@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; cdc 2; wiki 2019-12-26 13:40</version>
+  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.7; sendezentrum 2.2; lightning Promethium; art-play 0.23; cdc 2; wiki 2019-12-26 13:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3681,7 +3681,7 @@ Stammtisch für Menschen aus dem Bildungsbereich</description>
         <language>de</language>
         <abstract/>
         <description>Part I: Intro to CTFs with the example of picoCTF.  Can be used as guided preparation for junior (and/or main) C3 CTF. Part II: Binary exploitation with Stack Based Buffer Overflows. Workshop VM provided (please download before)
-This is a workshop primarily put together for haecksen, but if there are free seats, and you want to join, that works.However, it's very important to me that every haeckse that wants to join at any given time has the opportunity. Please be kind enough to respect that and help to make that happen. '''Part I: '''Intro to CTFs with the example of picoCTF.  Short example showcases for each of the main categories (very basic examples for: web, crypto, reversing, forensic); binary exploitation covered in part II). &lt;br /&gt;'''Part II: '''Binary exploitation with Stack Based Buffer Overflows and Return Oriented Programming. Workshop VM (containing slides, exercises etc) for the whole Workshop provided (please download before, Link will follow).&lt;br /&gt;=&gt; To get most of the workshop, and especially Part II, its best when you follow along! :)So what you need is:* some sort of Hypervisor (Virtualbox, VMware) installed* ca. 10 Gb free diskspace for the VM (ping me via email if you really can't afford the space- we will find a solution)* import the VM and you're ready to go, excited to see you there :)</description>
+This is a workshop primarily put together for haecksen, but if there are free seats, and you want to join, that works.However, it's very important to me that every haeckse that wants to join at any given time has the opportunity. Please be kind enough to respect that and help to make that happen. '''Part I: '''Intro to CTFs with the example of picoCTF.  Short example showcases for each of the main categories (very basic examples for: web, crypto, reversing, forensic); binary exploitation covered in part II). &lt;br /&gt;'''Part II: '''Binary exploitation with Stack Based Buffer Overflows and Return Oriented Programming. Workshop VM (containing slides, exercises etc) for the whole Workshop provided (please download before, Link will follow).&lt;br /&gt;=&gt; To get most of the workshop, and especially Part II, its best when you follow along! :)So what you need is:* some sort of Hypervisor (Virtualbox, VMware) installed* ca. 10 Gb free diskspace for the VM (ping me via email if you really can't afford the space- we will find a solution)* import the VM and you're ready to go, excited to see you there :)Instructions to prepare and set up the VM: &lt;br /&gt;https://beginnersctf2019.pads.ccc.de/1 &lt;br /&gt;pw: LetsPlay!</description>
         <persons>
           <person id="0">Chiliz</person>
         </persons>
@@ -5357,7 +5357,9 @@ Taking this into consideration, and having learnt the lessons on how lack of pro
           <license/>
           <optout>false</optout>
         </recording>
-        <persons/>
+        <persons>
+          <person id="109">Drew</person>
+        </persons>
         <links/>
         <attachments/>
       </event>
@@ -14155,7 +14157,7 @@ We'll be sitting at the water basin/palm tree at the bottom of the CCL building 
         <type>workshop</type>
         <language>de</language>
         <abstract/>
-        <description>Bau deine eigene Spielekonsole!
+        <description>Bau deine eigene Spielekonsole! (ausgebucht)
 [[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) participating in the Junghackertag. We'll have 10 seats available.Please note that this is not a kit for absolute beginners and that you should have at least some basic experience in soldering.We'll have 10 seats available at HamsterSpace in the Hardware Hacking Area.More information [[MAKERbuino|can be found here]].</description>
         <persons>
           <person id="0">Micha</person>
@@ -15121,7 +15123,7 @@ The Binary Kitchen soldering workshop goes 36C3. We are providing a soldering wo
         <language>de</language>
         <abstract/>
         <description>Rasante Quiz-Show für Jugendliche
-Das schnelle Quiz für alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jahren. Lasst ihr euch von den Erwachsenen jagen oder entkommt ihr eurem Jäger?Gefragt - Gejagt ist ein bekanntes Quizformat aus der ARD. Wir stellen eine Junghacker*innen-Version auf die Beine und lassen zwei clevere Teams bestehend aus Jugendlichen zwischen 12 und 18 Jahren gegeneinander, aber auch gegen die erwachsenen und erfahrenen Jäger*innen antreten. Können sie gewinnen? Wir werden es herausfinden! Euch erwarten schnelle Fragerunden, abwechslungsreiche Themengebiete und an erster Stelle ganz viel gute Laune und Cyber!Du kannst dich zum mitspielen bewerben oder mithelfen - auch als Erwachsene*r. Alle Informationen, die du dazu brauchst, findest du unter nwng.eu/36c3-gg! Wir freuen uns auf dich! &lt;3</description>
+Das schnelle Quiz für alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jahren. Lasst ihr euch von den Erwachsenen jagen oder entkommt ihr eurem Jäger?Gefragt - Gejagt ist ein bekanntes Quizformat aus der ARD. Wir stellen eine Junghacker*innen-Version auf die Beine und lassen zwei clevere Teams bestehend aus Jugendlichen zwischen 12 und 18 Jahren gegeneinander, aber auch gegen die erwachsenen und erfahrenen Jäger*innen antreten. Können sie gewinnen? Wir werden es herausfinden! Euch erwarten schnelle Fragerunden, abwechslungsreiche Themengebiete und an erster Stelle ganz viel gute Laune und Cyber!Du kannst dich zum mitspielen bewerben oder mithelfen - auch als Erwachsene*r. Alle Informationen, die du dazu brauchst, findest du unter [https://nwng.eu/36c3-gg/ nwng.eu/36c3-gg]! Wir freuen uns auf dich! &lt;3</description>
         <persons>
           <person id="0">Nwng</person>
           <person id="0">N0emis</person>

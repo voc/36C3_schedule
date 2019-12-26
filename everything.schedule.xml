@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 21:50</version>
+  <version>find; chaos-west 1.0; open-infra 12; wikipaka 0.5; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 2; wiki 2019-12-26 22:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -5440,6 +5440,29 @@ Taking this into consideration, and having learnt the lessons on how lack of pro
         <persons>
           <person id="109">Drew Fustini</person>
         </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4384" guid="bbff1fd5-af73-4b68-8a5a-071df2ef0791">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/184.html</url>
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>00:10</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-184-about_freedom</slug>
+        <title>about:freedom</title>
+        <subtitle/>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
         <links/>
         <attachments/>
       </event>
@@ -20016,7 +20039,7 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <title>XMPP Operator Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
-        <type/>
+        <type>discussion</type>
         <language/>
         <abstract/>
         <description>A meetup for server admins of public XMPP providers

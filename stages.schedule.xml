@@ -5470,7 +5470,9 @@ https://cfp.chaoszone.cz/36c3/talk/VPJPZR/</description>
         <type>Lightning Talk</type>
         <language>en</language>
         <abstract>This talk will provide a short overview of Free Pascal, an open source, cross platform, Object Pascal compiler.</abstract>
-        <description>Free Pascal is a &gt; 25 year old Object Pascal compiler that is available as Open Source, supports a variety of platforms as well as many features that make it useable as an daily development tool.</description>
+        <description>Free Pascal is a &gt; 25 year old Object Pascal compiler that is available as Open Source, supports a variety of platforms as well as many features that make it useable as a daily development tool.&#13;
+&#13;
+You can check it out here: https://www.freepascal.org/</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -10480,77 +10482,8 @@ world. We will look at the challenges they face and what need ideas come with th
         </links>
         <attachments/>
       </event>
-      <event id="4363" guid="f48ec0e8-a590-41ab-a5d7-9fe072b742b6">
-        <url>https://frab.riat.at/en/36C3/public/schedule/events/163.html</url>
-        <logo/>
-        <date>2019-12-28T21:05:00+01:00</date>
-        <start>21:05</start>
-        <duration>00:15</duration>
-        <room>CDC - Stage</room>
-        <slug>36C3-163-building_an_actual_alternative</slug>
-        <title>Building an (Actual) Alternative</title>
-        <subtitle>A counter-narrative to the digital surveillance machine.</subtitle>
-        <track>Stage</track>
-        <type>lightning_talk</type>
-        <language>en</language>
-        <abstract>Privacy and freedom within the context of cryptocurrencies, zero-knowledge-proof systems, decentralised protocols and other privacy protection layers is about co-creating and co-shaping alternatives to empower individuals to control their own data. What is the role of Monero in building an actual alternative and preventing the public ledger from becoming another behaviour extraction and surveillance tool? As a community, what type of counter-narratives do we need to create to support this movement? </abstract>
-        <description>Digital surveillance threatens human rights – including privacy and freedom of expression and association, inhibiting the free functioning of a vibrant civil society. While the origins of cryptocurrency may have sought to build an alternative, transparent blockchains and the requirement for KYC/AML checks has proven to blur the lines between private data collection and state tracking once again. This compromises our fundamental human right to financial privacy in the digital era and is positioning the public ledger as a new behaviour extraction and censorship tool. We are at risk of perpetuating, rather than challenging, the system.&#13;
-&#13;
-Monero, arguably the last bastion of cypher-punk resistance in the crypto space, is contributing to an _actual_ alternative through the conscious engineering of privacy-by-default technology that enables fungible, private, censorship-resistant financial transactions. This lightning talk will examine the current status-quo, the role that the Monero community and pro-privacy developers have in co-creating and co-shaping an alternative vision and what it will take to build the counter-narrative against the real politick of surveillance capitalism and the surveillance state.</description>
-        <recording>
-          <license>The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at</license>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="91">Deanna MacDonald</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
     </room>
     <room name="CDC - Workshop area">
-      <event id="4311" guid="b25d617d-2e47-4f75-b7aa-6187b520ea98">
-        <url>https://frab.riat.at/en/36C3/public/schedule/events/111.html</url>
-        <logo/>
-        <date>2019-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>CDC - Workshop area</room>
-        <slug>36C3-111-from_high_school_math_to_zksnarks</slug>
-        <title>From high school Math to zkSnarks</title>
-        <subtitle/>
-        <track>Workshop</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract>I will explain how zkSnarks works. I will start from High school math and go all the way until the zkSnarks construction.&#13;
-The roadmap will be:&#13;
-* Groups&#13;
-* Fields&#13;
-* Polynomials on Fields&#13;
-* Lagrange&#13;
-* Shamir Secret Sharing&#13;
-* Elliptic Curves&#13;
-* Diffie-Helman&#13;
-* Schnorr Signatures (Sigma Protocols and Fiat Shamir)&#13;
-* Pairings&#13;
-* BLS Signatures&#13;
-* Aritmetics Circuits&#13;
-* R1CS&#13;
-* QAP&#13;
-* zkSnark Construction&#13;
-Laptop is not required, but recomended.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="106">bonfire.link</person>
-          <person id="59">jordi@masterasp.com</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="4359" guid="c01cafa7-3c90-4621-8779-eb98a8c2dde0">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/159.html</url>
         <logo>/system/events/logos/000/000/159/large/__image.png?1577186078</logo>
@@ -16472,6 +16405,48 @@ What formula made email outlive it's contenders until now? What recent innovatio
           <link href="https://github.com/nymtech">Nym codebase</link>
           <link href="https://nymtech.net/docs/">Nym Docs</link>
         </links>
+        <attachments/>
+      </event>
+      <event id="4311" guid="b25d617d-2e47-4f75-b7aa-6187b520ea98">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/111.html</url>
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>06:00</duration>
+        <room>CDC - Workshop area</room>
+        <slug>36C3-111-from_high_school_math_to_zksnarks</slug>
+        <title>From high school Math to zkSnarks</title>
+        <subtitle/>
+        <track>Workshop</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract>I will explain how zkSnarks works. I will start from High school math and go all the way until the zkSnarks construction.&#13;
+The roadmap will be:&#13;
+* Groups&#13;
+* Fields&#13;
+* Polynomials on Fields&#13;
+* Lagrange&#13;
+* Shamir Secret Sharing&#13;
+* Elliptic Curves&#13;
+* Diffie-Helman&#13;
+* Schnorr Signatures (Sigma Protocols and Fiat Shamir)&#13;
+* Pairings&#13;
+* BLS Signatures&#13;
+* Aritmetics Circuits&#13;
+* R1CS&#13;
+* QAP&#13;
+* zkSnark Construction&#13;
+Laptop is not required, but recomended.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="106">bonfire.link</person>
+          <person id="59">jordi@masterasp.com</person>
+        </persons>
+        <links/>
         <attachments/>
       </event>
     </room>

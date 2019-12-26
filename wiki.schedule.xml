@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-27 00:10</version>
+  <version>2019-12-27 00:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -3160,6 +3160,29 @@ coming out communist can be daunting, one risks social stigma, rejection from fr
           <link>http://telekommunisten.net</link>
         </links>
       </event>
+      <event id="1492" guid="25f93b53-d7d4-4eec-9794-4dbb54cc8958">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Debrief_on_e-voting_in_Estonia</url>
+        <logo/>
+        <date>2019-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>0:30</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1492-session_debrief_on_e_voting_in_estonia</slug>
+        <title>Debrief on e-voting in Estonia</title>
+        <subtitle>Towards common requirements for e-voting (systems)</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Is it worth to be constructive in a flawed policy debate?
+I will explain why I am creating my own independent debrief on 2019 government work group on e-voting in Estonia which I was member of as well as why I intend to move toward phrasing a common list of constitutional, technical, organizational, democratic and social requirements for electronic voting (systems) around Europe.I will give a short intro into history failures to make Estonian e-voting minimally satisfy the requirements and emerging standards on electronic voting:* Failure to take into account the two white papers by academic researchers from 2001 suggesting verifiability standards, independent counting, open source code (and decision to build the cheapest and bluntest system possible in 2005)* Failure to take into account OSCE/ODIHR recommendation from 2011 to implement end-to-end verifiability for the system (and non-decision to introduce flawed individual verifiability in 2013, which leaks digitally signed cryptograms of voters)* Failure to take into account the critique by independent researchers lead by J Alex Halderman in 2014 who again suggested end-to-end verifiability as a necessary requirement for such systems (and another non-decision to introduce, but not specify the process or purpose of universal verifiability using mixnets in 2017)* Failure to solve the problems of relying on trust of the operator of electronic voting as well as to fix the problems of verifiability in improvements reluctantly introduced during past years by 2019 government work group on e-voting (which I was member of).I will be arguing for setting up common requirements for electronic voting besides trying to convince governments that it is fundamentally wrong to even think of electronic voting as a channel of conducting nation-wide elections.</description>
+        <persons>
+          <person id="0">Tramm</person>
+        </persons>
+        <links>
+          <link>https://debriif.infoaed.ee</link>
+        </links>
+      </event>
       <event id="1067" guid="d8d6aa0c-a83a-4849-8a95-be32d82f5273">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Decentralized_and_centralized_control:_global_trends_in_network_censorship</url>
         <logo/>
@@ -4192,6 +4215,73 @@ Sai's #BlindNavigation workshop from 35c3 will also take place this year! If you
         </links>
       </event>
     </room>
+    <room name="Vintage Computing Cluster">
+      <event id="1491" guid="b0023571-61b4-49f6-aa57-bd8307fac199">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Are_You_ready_to_sustain_IT%3F</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>36c3-1491-session_are_you_ready_to_sustain_it_</slug>
+        <title>Are You ready to sustain IT?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>In Lightning Talk ⚡ "Can you sustain IT?" on day 2, I propose to refuse exponentially increasing resource consumption.
+In [https://c3lt.de/36c3/talk/W3YJT7/ Lightning Talk ⚡ "Can you sustain IT?"] on day 2, I propose to refuse exponentially increasing resource consumption.This means e.g. to ensure that your software project (contributor or fan) also is a pleasure to use on systems 5 years or older.This 45min session is an open disussion about* is that a sensible plea?* is that feasible for your project?* where can this already be seen in the wild?</description>
+        <persons>
+          <person id="0">0x4c.de</person>
+        </persons>
+        <links>
+          <link>https://c3lt.de/36c3/talk/W3YJT7/</link>
+        </links>
+      </event>
+      <event id="1335" guid="6bfcef39-02a7-4f1f-a815-e01c43c1f2c5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Lebensdauer_von_Computern_und_warum_sie_so_kurz_ist</url>
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>36c3-1335-session_lebensdauer_von_computern_und_warum_sie_so_kurz_ist</slug>
+        <title>Lebensdauer von Computern und warum sie so kurz ist</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Ein Workshop darüber, warum unsere technischen Geräte häufig durch neue ersetzt werden und wie wir das ändern könnten.
+Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in der Schublade verschwinden.Das ist eine riesige Verschwendung von Ressourcen, die wir uns auf Dauer nicht leisten können.Dieser Workshop steckt die Teilnehmer·innen in die Schuhe von Produzent·innen, und versucht so zu erforschen, wie es zu diesem Phänomen kommt, und unter welchen Rahmenbedingungen wir es verhindern könnten. Spoiler: Mit der Verlängerung der Garantie ist es nicht getan.Wir werden mit einem kleinem Simulation-Tool herumspielen und versuchen, dessen Ergebnis zu verändern. So können wir gezielt einzelne Einflüsse herausarbeiten.Der Workshop entstand aus [https://dresden.bits-und-baeume.org/ Bits und Bäume Dresden] und greift den Abschnitt "Langlebigkeit von Software und Hardware" aus den [https://bits-und-baeume.org/forderungen/info/de Forderungen von Bits und Bäume] auf.Noch befindet sich der Workshop in der "Beta" und soll später auch all denen das Thema vermitteln, die sich sonst nur am Rande mit Digitalisierung befassen.Jede·r Teilnehmer·in sollte auf einen Web-Browser zugreifen können. Laptop/Tablet ist natürlich schöner als Smartphone. Am Fehlen davon soll's im Zweifel aber nicht scheitern.'''An beiden Terminen findet der selbe Inhalt statt.'''</description>
+        <persons>
+          <person id="0">Tropf</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1333" guid="b44be07c-0b5a-41ab-b398-122400d1e844">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pen%26Paper_RPG_-_T.E.A.R.S.</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>3:00</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>36c3-1333-session_pen_paper_rpg_t_e_a_r_s_</slug>
+        <title>Pen&amp;Paper RPG - T.E.A.R.S.</title>
+        <subtitle>Teil A</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>A Round of the P&amp;P T.E.A.R.S. "Quest of Chaos"
+</description>
+        <persons>
+          <person id="0">Dolonnen</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Hackers Beauty Palace">
       <event id="1395" guid="12aa9113-b141-4c31-8c14-3f053e42a81e">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:BEAM_LIKE_THE_MAYA_DID:_With_cacao_to_inner_and_outer_beauty</url>
@@ -5185,50 +5275,6 @@ Das schnelle Quiz für alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jah
         <links>
           <link>https://nwng.eu/36c3-gg</link>
         </links>
-      </event>
-    </room>
-    <room name="Vintage Computing Cluster">
-      <event id="1335" guid="6bfcef39-02a7-4f1f-a815-e01c43c1f2c5">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Lebensdauer_von_Computern_und_warum_sie_so_kurz_ist</url>
-        <logo/>
-        <date>2019-12-28T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>1:30</duration>
-        <room>Vintage Computing Cluster</room>
-        <slug>36c3-1335-session_lebensdauer_von_computern_und_warum_sie_so_kurz_ist</slug>
-        <title>Lebensdauer von Computern und warum sie so kurz ist</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Ein Workshop darüber, warum unsere technischen Geräte häufig durch neue ersetzt werden und wie wir das ändern könnten.
-Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in der Schublade verschwinden.Das ist eine riesige Verschwendung von Ressourcen, die wir uns auf Dauer nicht leisten können.Dieser Workshop steckt die Teilnehmer·innen in die Schuhe von Produzent·innen, und versucht so zu erforschen, wie es zu diesem Phänomen kommt, und unter welchen Rahmenbedingungen wir es verhindern könnten. Spoiler: Mit der Verlängerung der Garantie ist es nicht getan.Wir werden mit einem kleinem Simulation-Tool herumspielen und versuchen, dessen Ergebnis zu verändern. So können wir gezielt einzelne Einflüsse herausarbeiten.Der Workshop entstand aus [https://dresden.bits-und-baeume.org/ Bits und Bäume Dresden] und greift den Abschnitt "Langlebigkeit von Software und Hardware" aus den [https://bits-und-baeume.org/forderungen/info/de Forderungen von Bits und Bäume] auf.Noch befindet sich der Workshop in der "Beta" und soll später auch all denen das Thema vermitteln, die sich sonst nur am Rande mit Digitalisierung befassen.Jede·r Teilnehmer·in sollte auf einen Web-Browser zugreifen können. Laptop/Tablet ist natürlich schöner als Smartphone. Am Fehlen davon soll's im Zweifel aber nicht scheitern.'''An beiden Terminen findet der selbe Inhalt statt.'''</description>
-        <persons>
-          <person id="0">Tropf</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1333" guid="b44be07c-0b5a-41ab-b398-122400d1e844">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pen%26Paper_RPG_-_T.E.A.R.S.</url>
-        <logo/>
-        <date>2019-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>3:00</duration>
-        <room>Vintage Computing Cluster</room>
-        <slug>36c3-1333-session_pen_paper_rpg_t_e_a_r_s_</slug>
-        <title>Pen&amp;Paper RPG - T.E.A.R.S.</title>
-        <subtitle>Teil A</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>A Round of the P&amp;P T.E.A.R.S. "Quest of Chaos"
-</description>
-        <persons>
-          <person id="0">Dolonnen</person>
-        </persons>
-        <links/>
       </event>
     </room>
     <room name="Assembly:Placeholder for Komona Cinopolis">

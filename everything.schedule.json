@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 22:30",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3; wiki 2019-12-27 22:40",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -9252,6 +9252,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
                     "public_name": "Iblech"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:Vintage Computing": [
+              {
+                "id": 1584,
+                "guid": "c178c9bd-fa4e-4cc0-8205-fa49b8243aa1",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pen%26Paper_RPG_-_T.E.A.R.S.",
+                "logo": null,
+                "date": "2019-12-27T14:15:00+01:00",
+                "start": "14:15",
+                "duration": "0:45",
+                "room": "Assembly:Vintage Computing",
+                "slug": "36c3-1584-session_pen_paper_rpg_t_e_a_r_s_",
+                "title": "Pen&Paper RPG - T.E.A.R.S.",
+                "subtitle": "Optionale Charakterbau-Session",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "A Round of the P&P T.E.A.R.S. \"Quest of Chaos\"\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dolonnen",
+                    "public_name": "Dolonnen"
                   }
                 ],
                 "links": []
@@ -19224,6 +19252,34 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1583,
+                "guid": "a0915715-c4b7-4fb1-833c-705d9775c6af",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Captain_Sonar",
+                "logo": null,
+                "date": "2019-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "Assembly:Pseudoroom",
+                "slug": "36c3-1583-session_captain_sonar",
+                "title": "Captain Sonar",
+                "subtitle": "Lets Play",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Captain Sonar\nWir spielen das Spiel Captain Sonar.Bitte \u00fcber https://www.schokoladensouffle.eu/captainsonar/ anmelden, maximal acht Teilnehmer, FCFSWir spielen bei der Gaderobe im Pseudoroom (CCL Geb\u00e4ude ganz unten)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ankylotech",
+                    "public_name": "Ankylotech"
+                  }
+                ],
+                "links": [
+                  "https://www.schokoladensouffle.eu/captainsonar/"
+                ]
               },
               {
                 "id": 1336,
@@ -32496,6 +32552,38 @@
                 "answers": []
               },
               {
+                "id": 3225,
+                "guid": "d010e9bb-4b16-5b5b-9da8-9c287bf6f9ca",
+                "logo": "",
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "GLLMLV",
+                "url": "https://c3lt.de/36c3/talk/GLLMLV/",
+                "title": "How to become an Estonian E-Resident",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "A short introduction about E-Residency and how to become an Estonian E-Resident.",
+                "description": "Estonias is the most advanced country for E-Government, 99% can be done online. E-Residency allows digital access also for other international citizens. \r\nI will show some facts and my personal experience becoming a digital E-Resident.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 204,
+                    "code": "BRHJWD",
+                    "public_name": "Markus G\u00f6rres",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3214,
                 "guid": "c2bb875f-babe-5bb7-b2d2-89999d6a515d",
                 "logo": "",
@@ -32711,6 +32799,38 @@
                     "id": 201,
                     "code": "YDUC3Z",
                     "public_name": "P\u00e9ter H\u00e9ja",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3226,
+                "guid": "78487856-8680-5efe-ae0a-18ae909e281f",
+                "logo": "",
+                "date": "2019-12-30T12:50:00+01:00",
+                "start": "12:50",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "DGXJ3L",
+                "url": "https://c3lt.de/36c3/talk/DGXJ3L/",
+                "title": "Writing Drivers in High-Level Languages",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "Drivers are usually written in boring and unsafe languages such as C. Did you know that you can actually use cool languages as well?",
+                "description": "We've got drivers in Rust, Go, Java, C#, Haskell, OCaml, Swift, Javascript, Python. Checkout out [our GitHub page](https://github.com/ixy-langauges/ixy-languages) for all implementations.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 205,
+                    "code": "WHJRPL",
+                    "public_name": "Paul",
                     "biography": null,
                     "answers": []
                   }

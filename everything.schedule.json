@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.13; chaoszone 0.7; komona 0.15; sendezentrum 2.7; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 21:10",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.13; chaoszone 0.7; komona 0.16; sendezentrum 2.7; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 21:20",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -3000,7 +3000,7 @@
                 "type": "Lightning Talk",
                 "language": "de",
                 "abstract": "Find out what kind of free services Wikimedia provides for you.",
-                "description": "Wikimedia Cloud Services is a collection of services that the Wikimedia Foundation offers, free of charge, to anyone who can use them for furthering the goals of the Wikimedia movement. This includes Toolforge, a hosting service for tools written in various languages; Cloud VPS, full virtual private servers for advanced development beyond the capabilities of Toolforge; convenient access to Wikimedia project data; and more!",
+                "description": "Wikimedia Cloud Services is a collection of services that the Wikimedia Foundation offers, free of charge, to anyone who can use them for furthering the goals of the Wikimedia movement. This includes Toolforge, a hosting service for tools written in various languages; Cloud VPS, full virtual private servers for advanced development beyond the capabilities of Toolforge; convenient access to Wikimedia project data; and more!\r\n\r\nLink and other useful information: https://www.wikidata.org/wiki/User:Lucas_Werkmeister/36c3-wmcs-intro",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -16943,6 +16943,70 @@
             ],
             "1Komona Boredome": [
               {
+                "id": 873,
+                "guid": "c52b91fc-dda3-5ca7-9295-3e2c9056a2e4",
+                "logo": "",
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "02:00",
+                "room": "Boredome",
+                "slug": "C97UPH",
+                "url": "https://talks.komona.org/36c3/talk/C97UPH/",
+                "title": "Massagekreis",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "Danke",
+                "description": "Massagekreis",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 67,
+                    "code": "DRUL9J",
+                    "public_name": "Roman Steinmetz",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 874,
+                "guid": "2d25f64c-e805-51a4-a314-d3d80fe13a2b",
+                "logo": "",
+                "date": "2019-12-28T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "01:10",
+                "room": "Boredome",
+                "slug": "RJJXCA",
+                "url": "https://talks.komona.org/36c3/talk/RJJXCA/",
+                "title": "Hackers against Climate Change",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "Hackers Climate Change crew invites for others to join they Project60",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 67,
+                    "code": "DRUL9J",
+                    "public_name": "Roman Steinmetz",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 870,
                 "guid": "37b34e9d-54a9-585a-b369-34de7b5c8a2b",
                 "logo": "/media/36c3/images/YKCKWY/DF24A449-59B6-4412-8AE2-4E7341FE003A.jpeg",
@@ -16966,7 +17030,7 @@
                     "id": 67,
                     "code": "DRUL9J",
                     "public_name": "Roman Steinmetz",
-                    "biography": null,
+                    "biography": "",
                     "answers": []
                   }
                 ],
@@ -28440,6 +28504,40 @@
                     "code": "ADDBYZ",
                     "public_name": "Polizeiklasse",
                     "biography": "Die POLIZEIKLASSE ist ein interdisziplin\u00e4res klassen- und gesellschafts\u00fcbergreifendes kollektivistisches akademisches Experimental-Projekt der sozialplastisch bildenden K\u00fcnste. Ein Themenschwerpunkt ist die kritische Auseinandersetzung mit realpolitischen Fragestellungen und deren Folgen f\u00fcr Kunst- und Kulturbetrieb. Ein Versuchslabor f\u00fcr individuelle Autonomie in kollektiver Aktion.\r\n\r\nKurz: NEIN.\r\n\r\nkollektiv@polizeiklasse.org",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "1Komona Boredome": [
+              {
+                "id": 871,
+                "guid": "0f463c88-197b-51cf-9cca-3931c3374cd6",
+                "logo": "/media/36c3/images/CH7UVA/11B5F420-5135-406E-8541-710F6E1A8E47.jpeg",
+                "date": "2019-12-29T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "05:00",
+                "room": "Boredome",
+                "slug": "CH7UVA",
+                "url": "https://talks.komona.org/36c3/talk/CH7UVA/",
+                "title": "Zine Workshop",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "en",
+                "abstract": "Make you own magazine guided by some bookbinding experts Xoxox",
+                "description": "Everything is prepared - you only have to join and have fun creating your individual art zine from illustrations fotos typographical stuff and so on",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 67,
+                    "code": "DRUL9J",
+                    "public_name": "Roman Steinmetz",
+                    "biography": "",
                     "answers": []
                   }
                 ],

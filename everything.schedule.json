@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 15:40",
+    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 15:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -2491,6 +2491,134 @@
               }
             ],
             "DLF- und Podcast-B\u00fchne": [
+              {
+                "id": 925,
+                "guid": "ebbee1bc-883c-5413-a9ba-f9c09bfd1292",
+                "logo": "",
+                "date": "2019-12-27T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "TAZX9D",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/TAZX9D/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "en",
+                "abstract": "36c3-Spezial mit Interviews",
+                "description": "Wie klimafreundlich ist Software? Zu Gast: Maria K\u00f6hn und Eva Kern, UBA",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 926,
+                "guid": "9ac0027c-05d0-5a20-8dc7-da7ac195a20c",
+                "logo": "",
+                "date": "2019-12-27T16:35:00+01:00",
+                "start": "16:35",
+                "duration": "00:25",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "W3AZEP",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/W3AZEP/",
+                "title": "DLF: Forschung aktuell",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Live-Sendung vom 36c3",
+                "description": "Live-Sendung vom 36c3",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 927,
+                "guid": "3b82e385-127d-5c16-b3ae-e1df86b93664",
+                "logo": "",
+                "date": "2019-12-27T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "LECPDG",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/LECPDG/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "36c3-Spezial mit Interviews vom Congress",
+                "description": "phyphox. Using smartphone sensors for experiments. Zu Gast: Dr. Sebastian Staacks, RWTH Aachen",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 928,
+                "guid": "11651ce6-d8eb-50e1-9b0d-b2f439f3d58f",
+                "logo": "",
+                "date": "2019-12-27T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:00",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "8G7QZH",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/8G7QZH/",
+                "title": "DLF-Studiogerspr\u00e4ch",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Manfred, Jan und Peter interviewen G\u00e4ste",
+                "description": "Ein 36c3-Spezial unseres bekannten Studiogespr\u00e4chs.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
               {
                 "id": 908,
                 "guid": "90f17f11-0bd2-52ae-b2db-b3c4fa7ca298",
@@ -6976,6 +7104,41 @@
                   }
                 ],
                 "links": [],
+                "attachments": []
+              }
+            ],
+            "CDC - Workshop area": [
+              {
+                "url": "https://frab.riat.at/en/36C3/public/schedule/events/188.html",
+                "id": 4388,
+                "guid": "a366155e-3623-47eb-ae6b-5f4815fcd009",
+                "logo": null,
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:30",
+                "room": "CDC - Workshop area",
+                "slug": "36C3-188-hacking_around_z-wave_smart_home_protocol",
+                "title": "Hacking around Z-Wave smart home protocol",
+                "subtitle": "",
+                "track": "Workshop",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.\r\n\r\nPlease take with you\r\n* Your laptop with\r\n** Access to the internet\r\n** Arduino IDE installed\r\n** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)\r\n* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)\r\n* Arduino compatible sensors to build your own Z-Wave sensor (optional)\r\n* Your Z-Wave stuff if any (optional)",
+                "description": "=== Workshop sections ===\r\n* What is Z-Wave and where should you use it\r\n* Z-Way controller and RaZberry/UZB hardware\r\n** Controlling switches \r\n** Reading sensor/switch values\r\n** Making rules\r\n** Using JS API\r\n* Z-Uno prototyping board\r\n** Making Simple Switch\r\n** Adding more stuff\r\n* Z-Uno Shield and Z-Uno Configurator\r\n* Z-Uno Modules\r\n\r\n-----\r\n\r\n=== Usefull links for the workshop ===\r\n\r\n==== Z-Way controllers on the workshop ====\r\n* Controller 1 (EU, 868 MHz)\r\n** Smart Home UI http://192.168.88.22:8083\r\n** Expert UI http://192.168.88.22:8083/expert\r\n* Controller 2 (RU, 869 MHz)\r\n** Smart Home UI http://192.168.88.254:8083\r\n** Expert UI http://192.168.88.254:8083/expert\r\n* WiFi SSID\r\n** Z-Wave-RPi-xxxx / PSK: ccc-2019\r\n* Smart Home User: admin / Password: ccc\r\n\r\n==== Z-Way documentation ====\r\n* Installing Z-Way https://z-wave.me/z-way/download-z-way/\r\n* Z-Way doc https://z-wave.me/essentials\r\n* Z-Way JS engine GitHub https://github.com/Z-Wave-Me/home-automation/\r\n\r\n==== Z-Way workshop materials ====\r\n* Making rules: Settings -> Apps -> Local -> IfThen -> Add\r\n* Turning on/off a device /ZWaveAPI/Run/devices[NNN].SwitchBinary.Set(0 or 1)\r\n* Reading switch value /ZWaveAPI/Run/devices[NNN].SwitchBinary.data.level.value\r\n* Reading sensor value /ZWaveAPI/Run/devices[NNN].SensorBinary.data[12].level.value\r\n* Using JS API /JS/Run/var v = 1; setInterval(function() { zway.devices[NNN].SwitchBinary.Set(v); v = 1-v;}, 2000);\r\n\r\n-----\r\n\r\n==== Z-Uno documentation ====\r\n* Quick Intro https://z-uno.z-wave.me/getting-started/quick-introduction-in-z-uno/\r\n* Installation howto https://z-uno.z-wave.me/install\r\n* Language Reference https://z-uno.z-wave.me/reference/\r\n* Examples https://z-uno.z-wave.me/examples/\r\n* Z-Uno Shield https://z-uno.z-wave.me/shield/\r\n* Z-Uno Shield Configurator https://z-uno.z-wave.me/shield/configurator/\r\n* Z-Uno GitHub https://github.com/Z-Wave-Me/Z-Uno-Core/\r\n\r\n==== Z-Uno settings ====\r\nMake sure to configure in Arduino IDE:\r\n* File -> Preferences -> Add package source URL http://z-uno.z-wave.me/files/z-uno/package_z-wave.me_index.json\r\n* Tools -> Board -> Board Manager -> Z-Uno 2.1.5\r\n* Tools -> Board -> Z-Uno\r\n* Tools -> Programmer -> Z-Uno\r\n* Tools -> Port -> /dev/ttyACM0 or /dev/ttyACM1\r\n* Tools -> Frequency EU/RU (depending on your controller)\r\n* Tools -> Security none or S0 or S2 - up to you\r\n\r\nYou might also need to add your user to *dialout* group to have permissions for /dev/ttyACM*\r\n\r\n==== Z-Uno workshop materials ====\r\nSketch for Simple Switch:\r\n\r\n ZUNO_SETUP_CHANNELS(ZUNO_SWITCH_BINARY(state, 0));\r\n \r\n byte state = 0;\r\n \r\n void setup() {\r\n   pinMode(13, OUTPUT);\r\n }\r\n \r\n void loop() {\r\n   digitalWrite(13, state ? HIGH : LOW);\r\n }\r\n\r\nSketch in getter/setter style:\r\n ZUNO_SETUP_CHANNELS(\r\n   ZUNO_SWITCH_BINARY(getter, setter),\r\n   ZUNO_SENSOR_BINARY_DOOR_WINDOW(doorGetter)\r\n );\r\n \r\n byte state = 0;\r\n byte door = 0, lastDoor = 0xff;\r\n \r\n void setup() {\r\n   pinMode(13, OUTPUT);\r\n   pinMode(18, INPUT);\r\n }\r\n \r\n void loop() {\r\n   digitalWrite(13, state ? HIGH : LOW);\r\n   \r\n   door = digitalRead(18) == LOW ? 0xff : 0;\r\n   if (door != lastDoor) zunoSendReport(2); // push update of channel 2\r\n   lastDoor = door;\r\n }\r\n \r\n void setter(byte val) {\r\n   state = val;\r\n }\r\n \r\n byte getter() {\r\n   return state;\r\n }\r\n \r\n byte doorGetter() {\r\n   return door;\r\n }",
+                "recording_license": "The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 142,
+                    "public_name": "PoltoS"
+                  }
+                ],
+                "links": [
+                  {
+                    "url": "z-uno.z-wave.me",
+                    "title": "website"
+                  }
+                ],
                 "attachments": []
               }
             ],
@@ -13540,7 +13703,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "Hacking everyday communication practices to change the world\nWorkshop Description: <br>The aim of this workshop is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fixing it. Hacker culture is meant for curious people to experience and experiment with new things: technologies, cultures, and sometimes their different selves. But openness doesn't automatically lead to accessibility and inclusion \u2013 we have to make it happen ourselves! This session is similar to the one we did at CCCamp earlier in 2019. <br>About the Project: <br>\"Accessibility sounds great, but where do I start?\" \u2013Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too! <br>This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in changing the world in small steps \u2013 starting with ourselves and the needs of members in our communities.",
+                "description": "Hacking everyday communication practices to change the world\nWorkshop Description: <br>\"Accessibility sounds great, but where do I start?\" \u2013Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too! <br>The aim of this workshop is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fixing it. Hacker culture is meant for curious people to experience and experiment with new things: technologies, cultures, and sometimes their different selves. But openness doesn't automatically lead to accessibility and inclusion \u2013 we have to make it happen ourselves! This session is similar to the one we did at CCCamp earlier in 2019. <br>This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in changing the world in small steps \u2013 starting with ourselves and the needs of members in our communities. <br>If you can't join this session or would like to give feedback afterwards, you can find infos here: https://www.angela.is/36C3/About the SocialTech project: <br>The goal of the SocialTech project is to show that small changes in everyday communication and interpersonal interactions improve inclusion dramatically. Our current project is to create a resource pool to help inspire people as they endeavour to make their projects more inclusive. Using concepts from academia, design, activism and community organization we developed a set of questions to start a conversation about accessibility that you can use and adapt to your unique situation.",
                 "persons": [
                   {
                     "id": 0,
@@ -13558,7 +13721,9 @@
                     "public_name": "Hirnsalat"
                   }
                 ],
-                "links": []
+                "links": [
+                  "https://www.angela.is/SocialTech/"
+                ]
               },
               {
                 "id": 1447,
@@ -32338,6 +32503,38 @@
             ],
             "1Komona dezentrale*": [],
             "Sendetisch": [
+              {
+                "id": 924,
+                "guid": "503f66b6-d59f-5757-be13-7d6f3d6ebb50",
+                "logo": "",
+                "date": "2019-12-30T12:55:00+01:00",
+                "start": "12:55",
+                "duration": "01:00",
+                "room": "Sendetisch",
+                "slug": "CTZ7FZ",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/CTZ7FZ/",
+                "title": "Honigdachs",
+                "subtitle": "",
+                "track": "Sendetisch",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Honigdachs ist der Bitcoinpodcast aus Leipzig",
+                "description": "Wir wollen einen kleinen Jahresr\u00fcckblick, eine 36c3-Zusammenfassung und einen Ausblick auf das kommende Bitcoinjahr machen. sei dabei oder sie ein Ei",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 140,
+                    "code": "VRZBE8",
+                    "public_name": "Stefan",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
               {
                 "id": 893,
                 "guid": "4c1d5810-e052-539d-ac78-a4ea395b24cc",

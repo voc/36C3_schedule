@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3",
+    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -2491,6 +2491,134 @@
               }
             ],
             "DLF- und Podcast-B\u00fchne": [
+              {
+                "id": 925,
+                "guid": "ebbee1bc-883c-5413-a9ba-f9c09bfd1292",
+                "logo": "",
+                "date": "2019-12-27T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "TAZX9D",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/TAZX9D/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "en",
+                "abstract": "36c3-Spezial mit Interviews",
+                "description": "Wie klimafreundlich ist Software? Zu Gast: Maria K\u00f6hn und Eva Kern, UBA",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 926,
+                "guid": "9ac0027c-05d0-5a20-8dc7-da7ac195a20c",
+                "logo": "",
+                "date": "2019-12-27T16:35:00+01:00",
+                "start": "16:35",
+                "duration": "00:25",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "W3AZEP",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/W3AZEP/",
+                "title": "DLF: Forschung aktuell",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Live-Sendung vom 36c3",
+                "description": "Live-Sendung vom 36c3",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 927,
+                "guid": "3b82e385-127d-5c16-b3ae-e1df86b93664",
+                "logo": "",
+                "date": "2019-12-27T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "LECPDG",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/LECPDG/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "36c3-Spezial mit Interviews vom Congress",
+                "description": "phyphox. Using smartphone sensors for experiments. Zu Gast: Dr. Sebastian Staacks, RWTH Aachen",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 928,
+                "guid": "11651ce6-d8eb-50e1-9b0d-b2f439f3d58f",
+                "logo": "",
+                "date": "2019-12-27T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:00",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "8G7QZH",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/8G7QZH/",
+                "title": "DLF-Studiogerspr\u00e4ch",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Manfred, Jan und Peter interviewen G\u00e4ste",
+                "description": "Ein 36c3-Spezial unseres bekannten Studiogespr\u00e4chs.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
               {
                 "id": 908,
                 "guid": "90f17f11-0bd2-52ae-b2db-b3c4fa7ca298",

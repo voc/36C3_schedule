@@ -1,0 +1,33 @@
+{
+  "url": "https://frab.riat.at/en/36C3/public/schedule/events/188.html",
+  "id": 4388,
+  "guid": "a366155e-3623-47eb-ae6b-5f4815fcd009",
+  "logo": null,
+  "date": "2019-12-27T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:30",
+  "room": "CDC - Workshop area",
+  "slug": "36C3-188-hacking_around_z-wave_smart_home_protocol",
+  "title": "Hacking around Z-Wave smart home protocol",
+  "subtitle": "",
+  "track": "Workshop",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.\r\n\r\nPlease take with you\r\n* Your laptop with\r\n** Access to the internet\r\n** Arduino IDE installed\r\n** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)\r\n* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)\r\n* Arduino compatible sensors to build your own Z-Wave sensor (optional)\r\n* Your Z-Wave stuff if any (optional)",
+  "description": "=== Workshop sections ===\r\n* What is Z-Wave and where should you use it\r\n* Z-Way controller and RaZberry/UZB hardware\r\n** Controlling switches \r\n** Reading sensor/switch values\r\n** Making rules\r\n** Using JS API\r\n* Z-Uno prototyping board\r\n** Making Simple Switch\r\n** Adding more stuff\r\n* Z-Uno Shield and Z-Uno Configurator\r\n* Z-Uno Modules\r\n\r\n-----\r\n\r\n=== Usefull links for the workshop ===\r\n\r\n==== Z-Way controllers on the workshop ====\r\n* Controller 1 (EU, 868 MHz)\r\n** Smart Home UI http://192.168.88.22:8083\r\n** Expert UI http://192.168.88.22:8083/expert\r\n* Controller 2 (RU, 869 MHz)\r\n** Smart Home UI http://192.168.88.254:8083\r\n** Expert UI http://192.168.88.254:8083/expert\r\n* WiFi SSID\r\n** Z-Wave-RPi-xxxx / PSK: ccc-2019\r\n* Smart Home User: admin / Password: ccc\r\n\r\n==== Z-Way documentation ====\r\n* Installing Z-Way https://z-wave.me/z-way/download-z-way/\r\n* Z-Way doc https://z-wave.me/essentials\r\n* Z-Way JS engine GitHub https://github.com/Z-Wave-Me/home-automation/\r\n\r\n==== Z-Way workshop materials ====\r\n* Making rules: Settings -> Apps -> Local -> IfThen -> Add\r\n* Turning on/off a device /ZWaveAPI/Run/devices[NNN].SwitchBinary.Set(0 or 1)\r\n* Reading switch value /ZWaveAPI/Run/devices[NNN].SwitchBinary.data.level.value\r\n* Reading sensor value /ZWaveAPI/Run/devices[NNN].SensorBinary.data[12].level.value\r\n* Using JS API /JS/Run/var v = 1; setInterval(function() { zway.devices[NNN].SwitchBinary.Set(v); v = 1-v;}, 2000);\r\n\r\n-----\r\n\r\n==== Z-Uno documentation ====\r\n* Quick Intro https://z-uno.z-wave.me/getting-started/quick-introduction-in-z-uno/\r\n* Installation howto https://z-uno.z-wave.me/install\r\n* Language Reference https://z-uno.z-wave.me/reference/\r\n* Examples https://z-uno.z-wave.me/examples/\r\n* Z-Uno Shield https://z-uno.z-wave.me/shield/\r\n* Z-Uno Shield Configurator https://z-uno.z-wave.me/shield/configurator/\r\n* Z-Uno GitHub https://github.com/Z-Wave-Me/Z-Uno-Core/\r\n\r\n==== Z-Uno settings ====\r\nMake sure to configure in Arduino IDE:\r\n* File -> Preferences -> Add package source URL http://z-uno.z-wave.me/files/z-uno/package_z-wave.me_index.json\r\n* Tools -> Board -> Board Manager -> Z-Uno 2.1.5\r\n* Tools -> Board -> Z-Uno\r\n* Tools -> Programmer -> Z-Uno\r\n* Tools -> Port -> /dev/ttyACM0 or /dev/ttyACM1\r\n* Tools -> Frequency EU/RU (depending on your controller)\r\n* Tools -> Security none or S0 or S2 - up to you\r\n\r\nYou might also need to add your user to *dialout* group to have permissions for /dev/ttyACM*\r\n\r\n==== Z-Uno workshop materials ====\r\nSketch for Simple Switch:\r\n\r\n ZUNO_SETUP_CHANNELS(ZUNO_SWITCH_BINARY(state, 0));\r\n \r\n byte state = 0;\r\n \r\n void setup() {\r\n   pinMode(13, OUTPUT);\r\n }\r\n \r\n void loop() {\r\n   digitalWrite(13, state ? HIGH : LOW);\r\n }\r\n\r\nSketch in getter/setter style:\r\n ZUNO_SETUP_CHANNELS(\r\n   ZUNO_SWITCH_BINARY(getter, setter),\r\n   ZUNO_SENSOR_BINARY_DOOR_WINDOW(doorGetter)\r\n );\r\n \r\n byte state = 0;\r\n byte door = 0, lastDoor = 0xff;\r\n \r\n void setup() {\r\n   pinMode(13, OUTPUT);\r\n   pinMode(18, INPUT);\r\n }\r\n \r\n void loop() {\r\n   digitalWrite(13, state ? HIGH : LOW);\r\n   \r\n   door = digitalRead(18) == LOW ? 0xff : 0;\r\n   if (door != lastDoor) zunoSendReport(2); // push update of channel 2\r\n   lastDoor = door;\r\n }\r\n \r\n void setter(byte val) {\r\n   state = val;\r\n }\r\n \r\n byte getter() {\r\n   return state;\r\n }\r\n \r\n byte doorGetter() {\r\n   return door;\r\n }",
+  "recording_license": "The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 142,
+      "public_name": "PoltoS"
+    }
+  ],
+  "links": [
+    {
+      "url": "z-uno.z-wave.me",
+      "title": "website"
+    }
+  ],
+  "attachments": []
+}

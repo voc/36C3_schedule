@@ -1,5 +1,5 @@
 <schedule>
-  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3</version>
+  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Stages</title>
@@ -2444,6 +2444,110 @@ Bern University of Applied Sciences.</abstract>
       </event>
     </room>
     <room name="DLF- und Podcast-Bühne">
+      <event id="925" guid="ebbee1bc-883c-5413-a9ba-f9c09bfd1292">
+        <logo/>
+        <date>2019-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>DLF- und Podcast-Bühne</room>
+        <slug>TAZX9D</slug>
+        <url>https://fahrplan.das-sendezentrum.de/36c3/talk/TAZX9D/</url>
+        <title>DLF-Podcast: Computer und Kommunikation</title>
+        <subtitle/>
+        <track>DLF- und Podcast-Bühne</track>
+        <type>Normale Länge</type>
+        <language>en</language>
+        <abstract>36c3-Spezial mit Interviews</abstract>
+        <description>Wie klimafreundlich ist Software? Zu Gast: Maria Köhn und Eva Kern, UBA</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="141">DLF-Team</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="926" guid="9ac0027c-05d0-5a20-8dc7-da7ac195a20c">
+        <logo/>
+        <date>2019-12-27T16:35:00+01:00</date>
+        <start>16:35</start>
+        <duration>00:25</duration>
+        <room>DLF- und Podcast-Bühne</room>
+        <slug>W3AZEP</slug>
+        <url>https://fahrplan.das-sendezentrum.de/36c3/talk/W3AZEP/</url>
+        <title>DLF: Forschung aktuell</title>
+        <subtitle/>
+        <track>DLF- und Podcast-Bühne</track>
+        <type>Normale Länge</type>
+        <language>de</language>
+        <abstract>Live-Sendung vom 36c3</abstract>
+        <description>Live-Sendung vom 36c3</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="141">DLF-Team</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="927" guid="3b82e385-127d-5c16-b3ae-e1df86b93664">
+        <logo/>
+        <date>2019-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>DLF- und Podcast-Bühne</room>
+        <slug>LECPDG</slug>
+        <url>https://fahrplan.das-sendezentrum.de/36c3/talk/LECPDG/</url>
+        <title>DLF-Podcast: Computer und Kommunikation</title>
+        <subtitle/>
+        <track>DLF- und Podcast-Bühne</track>
+        <type>Normale Länge</type>
+        <language>de</language>
+        <abstract>36c3-Spezial mit Interviews vom Congress</abstract>
+        <description>phyphox. Using smartphone sensors for experiments. Zu Gast: Dr. Sebastian Staacks, RWTH Aachen</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="141">DLF-Team</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="928" guid="11651ce6-d8eb-50e1-9b0d-b2f439f3d58f">
+        <logo/>
+        <date>2019-12-27T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>01:00</duration>
+        <room>DLF- und Podcast-Bühne</room>
+        <slug>8G7QZH</slug>
+        <url>https://fahrplan.das-sendezentrum.de/36c3/talk/8G7QZH/</url>
+        <title>DLF-Studiogerspräch</title>
+        <subtitle/>
+        <track>DLF- und Podcast-Bühne</track>
+        <type>Normale Länge</type>
+        <language>de</language>
+        <abstract>Manfred, Jan und Peter interviewen Gäste</abstract>
+        <description>Ein 36c3-Spezial unseres bekannten Studiogesprächs.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="141">DLF-Team</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="908" guid="90f17f11-0bd2-52ae-b2db-b3c4fa7ca298">
         <logo/>
         <date>2019-12-27T19:15:00+01:00</date>

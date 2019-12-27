@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-27 17:00",
+    "version": "2019-12-27 17:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -2587,6 +2587,265 @@
                 "links": []
               }
             ],
+            "Assembly:Digitalcourage": [
+              {
+                "id": 1547,
+                "guid": "4117e56e-019f-4ae0-b8d6-7b572fca3b14",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Datenschutz-Sprechstunde_mit_den_Aufsichtsbeh%C3%B6rden",
+                "logo": null,
+                "date": "2019-12-27T20:15:00+01:00",
+                "start": "20:15",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1547-session_datenschutz_sprechstunde_mit_den_aufsichtsbehoerden",
+                "title": "Datenschutz-Sprechstunde mit den Aufsichtsbeh\u00f6rden",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Mitarbeiter der Datenschutz-Aufsichtsbeh\u00f6rden stehen Rede und Antwort\nEine offene Beratungs-Sprechstunde f\u00fcr alle Eure Fragen rund um Datenschutz und die Datenschutz-Grundverordnung (DS-GVO) u.a. mit Alvar Freude, Referent beim Landesbeauftragten f\u00fcr den Datenschutz und die Informationsfreiheit Baden-W\u00fcrttemberg.Bringt Eure Themen und Fragen mit. Ihr findet uns in der Sofa-Ecke beim Digitalcourage-Stand (L1, Messehalle 2, Ebene 0).Die Datenschutzaufsichtsbeh\u00f6rden sind in ihrem jeweiligen Bereich zust\u00e4ndig f\u00fcr die Beratung zur bzw. Durchsetzung der DSGVO.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alvar_Freude",
+                    "public_name": "Alvar Freude"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1500,
+                "guid": "acc21a3f-de26-47d7-8f8e-c9c40a238159",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-12-27T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1500-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.\n'''---> README: There will be sessions from days 1 to 5. The daily session times will be announced in the evening before. <---'''We offer instructions for \"Damn Vulnerable Web Application\" ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.'''-->LIESMICH: Es wird jeden Tag Sessions geben. Wann die t\u00e4glichen Sessions genau starten, wird immer am Vorabend eingetragen. <---'''Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen. Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
+                    "public_name": "Chpietsch"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
+                    "public_name": "CryptGoat"
+                  }
+                ],
+                "links": [
+                  "https://digitalcourage.de/"
+                ]
+              },
+              {
+                "id": 1516,
+                "guid": "0cbc1099-d29f-4023-b962-8591e18ea8d1",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-12-27T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1516-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.\n'''---> README: There will be sessions from days 1 to 5. The daily session times will be announced in the evening before. <---'''We offer instructions for \"Damn Vulnerable Web Application\" ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.'''-->LIESMICH: Es wird jeden Tag Sessions geben. Wann die t\u00e4glichen Sessions genau starten, wird immer am Vorabend eingetragen. <---'''Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen. Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
+                    "public_name": "Chpietsch"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
+                    "public_name": "CryptGoat"
+                  }
+                ],
+                "links": [
+                  "https://digitalcourage.de/"
+                ]
+              },
+              {
+                "id": 1497,
+                "guid": "0a007e39-843d-45b9-ae06-adbac0ed7d19",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-12-27T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1497-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.\n'''---> README: There will be sessions from days 1 to 5. The daily session times will be announced in the evening before. <---'''We offer instructions for \"Damn Vulnerable Web Application\" ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.'''-->LIESMICH: Es wird jeden Tag Sessions geben. Wann die t\u00e4glichen Sessions genau starten, wird immer am Vorabend eingetragen. <---'''Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen. Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
+                    "public_name": "Chpietsch"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
+                    "public_name": "CryptGoat"
+                  }
+                ],
+                "links": [
+                  "https://digitalcourage.de/"
+                ]
+              },
+              {
+                "id": 1517,
+                "guid": "c66833ca-c1dd-48c3-88c7-af43d1f37c18",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-12-27T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1517-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.\n'''---> README: There will be sessions from days 1 to 5. The daily session times will be announced in the evening before. <---'''We offer instructions for \"Damn Vulnerable Web Application\" ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.'''-->LIESMICH: Es wird jeden Tag Sessions geben. Wann die t\u00e4glichen Sessions genau starten, wird immer am Vorabend eingetragen. <---'''Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen. Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
+                    "public_name": "Chpietsch"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
+                    "public_name": "CryptGoat"
+                  }
+                ],
+                "links": [
+                  "https://digitalcourage.de/"
+                ]
+              },
+              {
+                "id": 1518,
+                "guid": "8c1c18ba-c8f0-43d0-8e1b-17a7e3271c6d",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1518-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.\n'''---> README: There will be sessions from days 1 to 5. The daily session times will be announced in the evening before. <---'''We offer instructions for \"Damn Vulnerable Web Application\" ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.'''-->LIESMICH: Es wird jeden Tag Sessions geben. Wann die t\u00e4glichen Sessions genau starten, wird immer am Vorabend eingetragen. <---'''Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen. Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
+                    "public_name": "Chpietsch"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
+                    "public_name": "CryptGoat"
+                  }
+                ],
+                "links": [
+                  "https://digitalcourage.de/"
+                ]
+              },
+              {
+                "id": 1519,
+                "guid": "c05bfe1d-3909-458c-addd-17c1f13b6cba",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1519-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.\n'''---> README: There will be sessions from days 1 to 5. The daily session times will be announced in the evening before. <---'''We offer instructions for \"Damn Vulnerable Web Application\" ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.'''-->LIESMICH: Es wird jeden Tag Sessions geben. Wann die t\u00e4glichen Sessions genau starten, wird immer am Vorabend eingetragen. <---'''Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen. Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
+                    "public_name": "Chpietsch"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
+                    "public_name": "CryptGoat"
+                  }
+                ],
+                "links": [
+                  "https://digitalcourage.de/"
+                ]
+              },
+              {
+                "id": 1501,
+                "guid": "491a16ab-8387-4ac5-9e22-3effaf6b65e7",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-12-27T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1501-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.\n'''---> README: There will be sessions from days 1 to 5. The daily session times will be announced in the evening before. <---'''We offer instructions for \"Damn Vulnerable Web Application\" ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.'''-->LIESMICH: Es wird jeden Tag Sessions geben. Wann die t\u00e4glichen Sessions genau starten, wird immer am Vorabend eingetragen. <---'''Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen. Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
+                    "public_name": "Chpietsch"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
+                    "public_name": "CryptGoat"
+                  }
+                ],
+                "links": [
+                  "https://digitalcourage.de/"
+                ]
+              }
+            ],
             "Assembly:Hardware Hacking Area": [
               {
                 "id": 1166,
@@ -2813,239 +3072,6 @@
                 ],
                 "links": [
                   "https://erlangen.ccc.de."
-                ]
-              }
-            ],
-            "Assembly:Digitalcourage": [
-              {
-                "id": 1500,
-                "guid": "acc21a3f-de26-47d7-8f8e-c9c40a238159",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
-                "logo": null,
-                "date": "2019-12-27T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "1:00",
-                "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1500-session_hacking_licence",
-                "title": "Hacking Licence",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Your daily basic hacking learning lesson.\nWe offer instructions for \"Damn Vulnerable Web Application\" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erh\u00e4ltst am Ende einen Hacking-F\u00fchrerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
-                    "public_name": "Chpietsch"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
-                    "public_name": "CryptGoat"
-                  }
-                ],
-                "links": [
-                  "https://digitalcourage.de/"
-                ]
-              },
-              {
-                "id": 1516,
-                "guid": "0cbc1099-d29f-4023-b962-8591e18ea8d1",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
-                "logo": null,
-                "date": "2019-12-27T21:00:00+01:00",
-                "start": "21:00",
-                "duration": "1:00",
-                "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1516-session_hacking_licence",
-                "title": "Hacking Licence",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Your daily basic hacking learning lesson.\nWe offer instructions for \"Damn Vulnerable Web Application\" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erh\u00e4ltst am Ende einen Hacking-F\u00fchrerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
-                    "public_name": "Chpietsch"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
-                    "public_name": "CryptGoat"
-                  }
-                ],
-                "links": [
-                  "https://digitalcourage.de/"
-                ]
-              },
-              {
-                "id": 1497,
-                "guid": "0a007e39-843d-45b9-ae06-adbac0ed7d19",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
-                "logo": null,
-                "date": "2019-12-27T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "1:00",
-                "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1497-session_hacking_licence",
-                "title": "Hacking Licence",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Your daily basic hacking learning lesson.\nWe offer instructions for \"Damn Vulnerable Web Application\" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erh\u00e4ltst am Ende einen Hacking-F\u00fchrerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
-                    "public_name": "Chpietsch"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
-                    "public_name": "CryptGoat"
-                  }
-                ],
-                "links": [
-                  "https://digitalcourage.de/"
-                ]
-              },
-              {
-                "id": 1517,
-                "guid": "c66833ca-c1dd-48c3-88c7-af43d1f37c18",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
-                "logo": null,
-                "date": "2019-12-27T19:00:00+01:00",
-                "start": "19:00",
-                "duration": "1:00",
-                "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1517-session_hacking_licence",
-                "title": "Hacking Licence",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Your daily basic hacking learning lesson.\nWe offer instructions for \"Damn Vulnerable Web Application\" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erh\u00e4ltst am Ende einen Hacking-F\u00fchrerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
-                    "public_name": "Chpietsch"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
-                    "public_name": "CryptGoat"
-                  }
-                ],
-                "links": [
-                  "https://digitalcourage.de/"
-                ]
-              },
-              {
-                "id": 1518,
-                "guid": "8c1c18ba-c8f0-43d0-8e1b-17a7e3271c6d",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
-                "logo": null,
-                "date": "2019-12-27T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "1:00",
-                "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1518-session_hacking_licence",
-                "title": "Hacking Licence",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Your daily basic hacking learning lesson.\nWe offer instructions for \"Damn Vulnerable Web Application\" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erh\u00e4ltst am Ende einen Hacking-F\u00fchrerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
-                    "public_name": "Chpietsch"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
-                    "public_name": "CryptGoat"
-                  }
-                ],
-                "links": [
-                  "https://digitalcourage.de/"
-                ]
-              },
-              {
-                "id": 1519,
-                "guid": "c05bfe1d-3909-458c-addd-17c1f13b6cba",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
-                "logo": null,
-                "date": "2019-12-27T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1519-session_hacking_licence",
-                "title": "Hacking Licence",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Your daily basic hacking learning lesson.\nWe offer instructions for \"Damn Vulnerable Web Application\" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erh\u00e4ltst am Ende einen Hacking-F\u00fchrerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
-                    "public_name": "Chpietsch"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
-                    "public_name": "CryptGoat"
-                  }
-                ],
-                "links": [
-                  "https://digitalcourage.de/"
-                ]
-              },
-              {
-                "id": 1501,
-                "guid": "491a16ab-8387-4ac5-9e22-3effaf6b65e7",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
-                "logo": null,
-                "date": "2019-12-27T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "1:00",
-                "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1501-session_hacking_licence",
-                "title": "Hacking Licence",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Your daily basic hacking learning lesson.\nWe offer instructions for \"Damn Vulnerable Web Application\" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erh\u00e4ltst am Ende einen Hacking-F\u00fchrerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
-                    "public_name": "Chpietsch"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
-                    "public_name": "CryptGoat"
-                  }
-                ],
-                "links": [
-                  "https://digitalcourage.de/"
                 ]
               }
             ],
@@ -5023,6 +5049,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
                     "public_name": "Katti"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1549,
+                "guid": "784c8269-4616-42a8-a7bd-3b0cfaae3170",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_Mathematics:_Gro%C3%9Fe,_sehr_gro%C3%9Fe_und_sehr_sehr_gro%C3%9Fe_Zahlen",
+                "logo": null,
+                "date": "2019-12-28T14:30:00+01:00",
+                "start": "14:30",
+                "duration": "0:30",
+                "room": "Seminar room 13",
+                "slug": "36c3-1549-session_wondrous_mathematics_grosse_sehr_grosse_und_sehr_sehr_grosse_zahlen",
+                "title": "Wondrous Mathematics: Gro\u00dfe, sehr gro\u00dfe und sehr sehr gro\u00dfe Zahlen",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "(f\u00fcr Erwachsene und Kinder) Dieser Kurzvortrag ist f\u00fcr alle, die als Kind Spa\u00df am Spiel \"wer die gr\u00f6\u00dfere Zahl sagen kann\" hatten.\nDieser Kurzvortrag nimmt dich auf eine Tour durch die wundersame Welt der supra-astronomisch Gehirn-\u00fcberw\u00e4ltigenden gro\u00dfen Zahlen mit. Wenn du neu im Gesch\u00e4ft der absurd gro\u00dfen (aber noch endlichen) Zahlen bist, dann bereite dich darauf vor, von \"Hyperoperatoren\" und \"Grahams Zahl\" v\u00f6llig erstaunt zu sein. (Grahams Zahl ist eine Zahl die so gro\u00df ist, dass nicht mal die Anzahl ihrer Stellen in unser Universum passt.) Und falls du schon seit Urzeiten mit Grahams Zahl vertraut bist: Stell dich auf Zahlen ein, gegen die Grahams Zahl im Vergleich v\u00f6llig verblasst, ja winzig und v\u00f6llig irrelevant erscheint.Einige der Zahlen, die behandelt werden, sprengen die Grenzen der Berechenbarkeit, sogar der rein theoretischen Berechenbarkeit, und andere sogar die Grenzen der Logik.In der Nacht wird es eine [[Session:Wondrous_mathematics:_Fun_with_transfinite_games|Schwesterveranstaltung zu unendlich gro\u00dfen Zahlen]] geben (auf Englisch, gespickt mit transfiniten Spielen). In diesem Kurzvortrag bleiben wir im Reich des Endlichen.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+                    "public_name": "Iblech"
                   }
                 ],
                 "links": []
@@ -7021,6 +7073,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dreirik",
                     "public_name": "Dreirik"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:Digitalcourage": [
+              {
+                "id": 1548,
+                "guid": "330a7e4e-bd7f-542e-9f30-1bace690e2e9",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Datenschutz-Sprechstunde_mit_den_Aufsichtsbeh%C3%B6rden",
+                "logo": null,
+                "date": "2019-12-28T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1548-session_datenschutz_sprechstunde_mit_den_aufsichtsbehoerden",
+                "title": "Datenschutz-Sprechstunde mit den Aufsichtsbeh\u00f6rden",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Mitarbeiter der Datenschutz-Aufsichtsbeh\u00f6rden stehen Rede und Antwort\nEine offene Beratungs-Sprechstunde f\u00fcr alle Eure Fragen rund um Datenschutz und die Datenschutz-Grundverordnung (DS-GVO) u.a. mit Alvar Freude, Referent beim Landesbeauftragten f\u00fcr den Datenschutz und die Informationsfreiheit Baden-W\u00fcrttemberg.Bringt Eure Themen und Fragen mit. Ihr findet uns in der Sofa-Ecke beim Digitalcourage-Stand (L1, Messehalle 2, Ebene 0).Die Datenschutzaufsichtsbeh\u00f6rden sind in ihrem jeweiligen Bereich zust\u00e4ndig f\u00fcr die Beratung zur bzw. Durchsetzung der DSGVO.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alvar_Freude",
+                    "public_name": "Alvar Freude"
                   }
                 ],
                 "links": []
@@ -10177,6 +10257,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
                     "public_name": "Haurane"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:Digitalcourage": [
+              {
+                "id": 1546,
+                "guid": "5c6018f0-8945-41d4-ba0c-7f18dee53074",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Datenschutz-Sprechstunde_mit_den_Aufsichtsbeh%C3%B6rden",
+                "logo": null,
+                "date": "2019-12-29T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1546-session_datenschutz_sprechstunde_mit_den_aufsichtsbehoerden",
+                "title": "Datenschutz-Sprechstunde mit den Aufsichtsbeh\u00f6rden",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Mitarbeiter der Datenschutz-Aufsichtsbeh\u00f6rden stehen Rede und Antwort\nEine offene Beratungs-Sprechstunde f\u00fcr alle Eure Fragen rund um Datenschutz und die Datenschutz-Grundverordnung (DS-GVO) u.a. mit Alvar Freude, Referent beim Landesbeauftragten f\u00fcr den Datenschutz und die Informationsfreiheit Baden-W\u00fcrttemberg.Bringt Eure Themen und Fragen mit. Ihr findet uns in der Sofa-Ecke beim Digitalcourage-Stand (L1, Messehalle 2, Ebene 0).Die Datenschutzaufsichtsbeh\u00f6rden sind in ihrem jeweiligen Bereich zust\u00e4ndig f\u00fcr die Beratung zur bzw. Durchsetzung der DSGVO.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alvar_Freude",
+                    "public_name": "Alvar Freude"
                   }
                 ],
                 "links": []

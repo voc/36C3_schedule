@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.7; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3",
+    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.8; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -102,7 +102,12 @@
                     "public_name": "Will Scott"
                   }
                 ],
-                "links": [],
+                "links": [
+                  {
+                    "url": "https://wills.co.tt/bitbucket/36c3/messaging.pdf",
+                    "title": "Slides"
+                  }
+                ],
                 "attachments": []
               },
               {
@@ -159,7 +164,7 @@
                   },
                   {
                     "id": 9376,
-                    "public_name": "cbro"
+                    "public_name": "cbro - Dr. med. Christian Brodowski"
                   },
                   {
                     "id": 9406,
@@ -406,14 +411,14 @@
                 "start": "12:50",
                 "duration": "01:00",
                 "room": "Borg",
-                "slug": "36c3-10957-katastrophe_und_kommunikation_am_beispiel_rojava",
-                "title": "Katastrophe und Kommunikation am Beispiel Rojava",
+                "slug": "36c3-10957-katastrophe_und_kommunikation_am_beispiel_nord-ost-syrien",
+                "title": "Katastrophe und Kommunikation am Beispiel Nord-Ost-Syrien",
                 "subtitle": "Humanit\u00e4re Hilfe zwischen Propaganda, Information und Spendenwerbung",
                 "track": "Ethics, Society & Politics",
                 "type": "lecture",
                 "language": "de",
-                "abstract": "Katastrophen, Krisen & Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum \u00fcberblickbare Quellendiversit\u00e4t in den sozialen Medien \u2013 jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das f\u00fcr Diejenigen, die vor Ort humanit\u00e4re Hilfe leisten. Wir diskutieren dies anhand des t\u00fcrkischen \u00dcberfalls auf Rojava. ",
-                "description": "Katastrophen, Krisen & Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum \u00fcberblickbare Quellendiversit\u00e4t in den sozialen Medien \u2013 jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das f\u00fcr Diejenigen, die vor Ort humanit\u00e4re Hilfe leisten. Wir diskutieren dies anhand des t\u00fcrkischen \u00dcberfalls auf Rojava.\r\n\r\nFand Live-Berichterstattung aus Kriegsgebieten zu Zeiten des 2. Golfkrieges noch \u00fcberwiegend durch ein paar wenige Journalist*innen, oft \u201cembedded\u201d statt, die f\u00fcr CNN&Co im gr\u00fcnlichen Nachtsicht-Look aus dem Panzer berichteten, kann in den sozialen Medien heute jede*r zur Quelle werden. Auf diese Weise gelangt die \u00d6ffentlichkeit an Informationen die vorher nur sehr schwer zu bekommen gewesen w\u00e4ren & schon gar nicht in Echtzeit.\r\n\r\nDie Quellenvielfalt birgt gro\u00dfe Chancen f\u00fcr die Bewertung einer Lage und auch zur \u00dcberpr\u00fcfung von Informationen durch mehrere Quellen oder Image Reverse Suche. Gleichzeitig verbreiten sich Ger\u00fcchte und Falschinformationen ebenfalls sehr viel schneller. Zudem k\u00f6nnen soziale Medien auch gezielt, etwa von Kriegsparteien manipuliert werden. Die T\u00fcrkei setzte neben Deutschen Panzern etwa auch Bot-Armeen ein, im Ergebnis: Zwar verurteilte ein gro\u00dfteil der Welt den t\u00fcrkischen Einmarsch in Rojava, aber Twitter-Hashtags zeichneten zeitweilig ein ganz anderes Bild. Gleichzeitig kann es schon auch mal passieren, dass T\u00fcrkei nahe Djihadistische Gruppen ausversehen selbst Videos ihrer Kriegsverbrechen prahlerisch ins Netz stellen.\r\n\r\nWas bedeutet all das f\u00fcr humanit\u00e4re Helfende vor Ort, die Twitter & co mittlerweile nicht nur zur Spendenwerbung sondern auch zur Lagebewertung nutzen: Wie kann man in der Praxis damit umgehen, dass sich auf Twitter gegebenenfalls ein ganz anderes Bild zeichnet als vor Ort und vor allem: Welches davon ist n\u00e4her an der Realit\u00e4t?\r\n\r\nDarum geht es in diesem Talk am Beispiel des T\u00fcrkischen \u00dcberfalls auf Rojava, von Sebastian J\u00fcnemann und Ruben Neugebauer von der Hilfsorganisation Cadus, die vor Ort mit mehreren, im wesentlichen medizinischen Projekten aktiv war, sowie Fee Baumann von der Organisation Heyvasor a Kurd, dem kurdischen roten Halbmond. Au\u00dferdem werden wir kl\u00e4ren wie man sich per Selfie bequem ins Jenseits bef\u00f6rdern kann und was sonst noch so f\u00fcr die pers\u00f6nliche Sicherheit zu beachten ist, im Umgang mit modernen Medien in Kriegsgebieten.\r\n\r\n\r\n",
+                "abstract": "Katastrophen, Krisen & Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum \u00fcberblickbare Quellendiversit\u00e4t in den sozialen Medien \u2013 jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das f\u00fcr Diejenigen, die vor Ort humanit\u00e4re Hilfe leisten. Wir diskutieren dies anhand des t\u00fcrkischen \u00dcberfalls auf Nord-Ost-Syrien gemeinsam mit Fee Baumann von Heyva Sor A Kurd, live aus Nord-Ost-Syrien",
+                "description": "Katastrophen, Krisen & Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum \u00fcberblickbare Quellendiversit\u00e4t in den sozialen Medien \u2013 jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das f\u00fcr Diejenigen, die vor Ort humanit\u00e4re Hilfe leisten. Wir diskutieren dies anhand des t\u00fcrkischen \u00dcberfalls auf Nord-Ost-Syrien.\r\n\r\nFand Live-Berichterstattung aus Kriegsgebieten zu Zeiten des 2. Golfkrieges noch \u00fcberwiegend durch ein paar wenige Journalist*innen, oft \u201cembedded\u201d statt, die f\u00fcr CNN&Co im gr\u00fcnlichen Nachtsicht-Look aus dem Panzer berichteten, kann in den sozialen Medien heute jede*r zur Quelle werden. Auf diese Weise gelangt die \u00d6ffentlichkeit an Informationen die vorher nur sehr schwer zu bekommen gewesen w\u00e4ren & schon gar nicht in Echtzeit.\r\n\r\nDie Quellenvielfalt birgt gro\u00dfe Chancen f\u00fcr die Bewertung einer Lage und auch zur \u00dcberpr\u00fcfung von Informationen durch mehrere Quellen oder Image Reverse Suche. Gleichzeitig verbreiten sich Ger\u00fcchte und Falschinformationen ebenfalls sehr viel schneller. Zudem k\u00f6nnen soziale Medien auch gezielt, etwa von Kriegsparteien manipuliert werden. Die T\u00fcrkei setzte neben Deutschen Panzern etwa auch Bot-Armeen ein, im Ergebnis: Zwar verurteilte ein gro\u00dfteil der Welt den t\u00fcrkischen Einmarsch in Nord-Ost-Syrien, aber Twitter-Hashtags zeichneten zeitweilig ein ganz anderes Bild. Gleichzeitig kann es schon auch mal passieren, dass T\u00fcrkei nahe Djihadistische Gruppen ausversehen selbst Videos ihrer Kriegsverbrechen prahlerisch ins Netz stellen.\r\n\r\nWas bedeutet all das f\u00fcr humanit\u00e4re Helfende vor Ort, die Twitter & co mittlerweile nicht nur zur Spendenwerbung sondern auch zur Lagebewertung nutzen: Wie kann man in der Praxis damit umgehen, dass sich auf Twitter gegebenenfalls ein ganz anderes Bild zeichnet als vor Ort und vor allem: Welches davon ist n\u00e4her an der Realit\u00e4t?\r\n\r\nDarum geht es in diesem Talk am Beispiel des T\u00fcrkischen \u00dcberfalls auf Nord-Ost-Syrien, von Sebastian J\u00fcnemann und Ruben Neugebauer von der Hilfsorganisation Cadus, die vor Ort mit mehreren, im wesentlichen medizinischen Projekten aktiv war, sowie Fee Baumann von der Organisation Heyvasor a Kurd, dem kurdischen roten Halbmond. Au\u00dferdem werden wir kl\u00e4ren wie man sich per Selfie bequem ins Jenseits bef\u00f6rdern kann und was sonst noch so f\u00fcr die pers\u00f6nliche Sicherheit zu beachten ist, im Umgang mit modernen Medien in Kriegsgebieten.\r\n\r\n\r\n",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -1044,8 +1049,8 @@
                 ],
                 "attachments": [
                   {
-                    "url": "/system/event_attachments/attachments/000/004/042/original/talk.pdf?1577351660",
-                    "title": "slides.3.pdf"
+                    "url": "/system/event_attachments/attachments/000/004/050/original/talk.pdf?1577440685",
+                    "title": "slides.7.pdf"
                   }
                 ]
               },
@@ -2888,7 +2893,7 @@
                 "logo": "",
                 "date": "2019-12-27T18:00:00+01:00",
                 "start": "18:00",
-                "duration": "01:00",
+                "duration": "00:30",
                 "room": "WikiPaka WG: Esszimmer",
                 "slug": "CKLM3A",
                 "url": "https://cfp.verschwoerhaus.de/36c3/talk/CKLM3A/",
@@ -5418,7 +5423,7 @@
                 "persons": [
                   {
                     "id": 9534,
-                    "public_name": "mrchrisadams"
+                    "public_name": "Chris Adams"
                   }
                 ],
                 "links": [
@@ -5515,7 +5520,7 @@
                 "abstract": "Extinction Rebellion (XR) ist eine global agierende, schnell wachsende, klimaaktivistische Graswurzel-Bewegung, die mit gewaltfreien Aktionen zivilen Ungehorsams auf die drohende Klimakatastrophe hinweist und Regierungen zum Handeln bewegen will. Die Ortsgruppe Berlin pr\u00e4sentiert in einer Art Jahresr\u00fcckblick eine Auswahl an aktuellen Aktionen und stellt vor, wo wir als Bewegung gerade stehen, was wir bislang erreicht haben und was weiterhin gebraucht wird, um ein dringend notwendiges politisches Umsteuern einzuleiten. Let's act now.",
                 "description": "Extinction Rebellion (XR) hat ein turbulentes erstes Jahr hinter sich. Im letzten Herbst wurden in London die f\u00fcnf wichtigsten Br\u00fccken \u00fcber die Themse besetzt und die drohende Klimakatastrophe begann \u2013 endlich! \u2013 ins \u00f6ffentliche Bewusstsein zu r\u00fccken. In diesem Herbst gab es koordinierte Aktionen und Blockaden mit Zehntausenden Teilnehmer:innen bereits in \u00fcber 60 Metropolen auf der ganzen Welt. \u00dcber zweitausend Menschen sind dabei verhaftetet worden.\r\n\r\nKlimapolitisch hat sich dennoch so gut wie nichts getan. W\u00e4hrend Regierungen entweder regungslos verharren oder aber den Klimanotstand ausrufen und zugleich neue Infrastruktur f\u00fcr fossile Brennstoffe bewilligen, arbeitet die Leugner:innenmaschinerie auf Hochtouren und bem\u00fcht sich um die Konstruktion alternativer Fakten. \r\n\r\nGleichzeitig erleben wir immer wieder, dass unsere wissenschaftlichen Prognosen nicht stimmen und sich der Klimawandel in seinem Verlauf schneller und heftiger vollzieht als vorhergesagt. Hitzewellen, Waldbr\u00e4nde, D\u00fcrren, Ernteausf\u00e4lle, Wasserknappheit sind nicht mehr zu ignorieren.\r\n\r\nEs ist daher unumg\u00e4nglich, den politischen Druck zu erh\u00f6hen, indem mehr Aktionen an mehr Orten mit noch viel mehr Menschen und auf vielen verschiedenen Ebenen durchgef\u00fchrt werden. XR kann jede Art von Unterst\u00fctzung gut gebrauchen \u2013 egal ob es um Nachhilfe in puncto Privacy geht, um Operational Security, um Soft- und Hardware oder um eigenst\u00e4ndigen Hacktivismus. Wichtig ist nur: Wir m\u00fcssen uns jetzt aufraffen, zusammentun und aktiv werden. The time is now.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 9118,
@@ -5820,11 +5825,11 @@
                 "room": "Dijkstra",
                 "slug": "36c3-10859-trustzone-m_eh_breaking_armv8-m_s_security",
                 "title": "TrustZone-M(eh): Breaking ARMv8-M's security",
-                "subtitle": "How secure is the next generation of 'secure' processor features?",
+                "subtitle": "Hardware attacks on the latest generation of ARM Cortex-M processors.",
                 "track": "Hardware & Making",
                 "type": "lecture",
                 "language": "en",
-                "abstract": "Most modern embedded devices have something to protect: Whether it's cryptographic keys for your bitcoins, the password to your WiFi, or the integrity of the engine-control unit code for your car.\r\n\r\nTo protect these devices, vendors often utilise the latest processors with the newest security features: From read-out protections, crypto storage, secure-boot up to TrustZone-M on the latest ARM processors.\r\n\r\nIn this talk, we break these features: We show how it is possible to bypass the security features of modern IoT/embedded processors using fault-injection attacks, including breaking TrustZone-M on the new ARMv8-M processors, and presenting hardware attacks on RISC-V processors.\r\n\r\nWe are also releasing and open-sourcing our entire soft- and hardware toolchain for doing so, making it possible to integrate fault-injection testing into the secure development lifecycle.",
+                "abstract": "Most modern embedded devices have something to protect: Whether it's cryptographic keys for your bitcoins, the password to your WiFi, or the integrity of the engine-control unit code for your car.\r\n\r\nTo protect these devices, vendors often utilise the latest processors with the newest security features: From read-out protections, crypto storage, secure-boot up to TrustZone-M on the latest ARM processors.\r\n\r\nIn this talk, we break these features: We show how it is possible to bypass the security features of modern IoT/embedded processors using fault-injection attacks, including breaking TrustZone-M on the new ARMv8-M processors.\r\n\r\nWe are also releasing and open-sourcing our entire soft- and hardware toolchain for doing so, making it possible to integrate fault-injection testing into the secure development lifecycle.",
                 "description": "Modern devices, especially secure ones, often rely on the security of the underlying silicon: Read-out protection, secure-boot, JTAG locking, integrated crypto accelerators or advanced features such as TrustZone are just some of the features utilized by modern embedded devices.\r\n\r\nProcessor vendors are keeping up with this demand by releasing new, secure processors every year. Often, device vendors place a significant trust into the security claims of the processors. In this talk, we look at using fault-injection attacks to bypass security features of modern processors, allowing us to defeat the latest chip security measures such as TrustZone-M on the new ARMv8 processors.\r\n\r\nAfter a quick introduction into the theory of glitching, we introduce our fully open-source FPGA platform for glitching: An FPGA-based glitcher with a fully open-source toolchain & hardware, making glitching accessible to a wider audience and significantly reducing the costs of getting started with it - going as far as being able to integrate glitch-testing into the Secure Development Lifecycle of a product.\r\n\r\nThen, we look at how to conduct glitching attacks on real-world targets, beyond academic environments, including how to prepare a device for glitching and how to find potential glitch targets.\r\n\r\nAfterwards, we demonstrate fault-injection vulnerabilities we found in modern, widely-used IoT/embedded processors and devices, allowing us to bypass security features integrated into the chip, such as:\r\n\r\n- Re-enabling locked JTAG\r\n- Bypassing a secure bootloader\r\n- Recovering symmetric crypto keys by glitching the AES implementation\r\n- Bypassing secure-boot\r\n- Fully bypassing TrustZone-M security features on some new ARMv8M processors\r\n\r\nWe will also demonstrating how to bypass security features and how to break the reference secure bootloader of the Microchip SAM L11, one of the newest, TrustZone-M enabled ARM Cortex-M processors, using roughly $5 of equipment.\r\n\r\nAfter the talk, PCBs of our hardware platform will be given out to attendees.",
                 "recording_license": "",
                 "do_not_record": false,
@@ -9551,6 +9556,14 @@
                   {
                     "id": 3752,
                     "public_name": "Carina Haupt"
+                  },
+                  {
+                    "id": 9904,
+                    "public_name": "Kathrin Henneberger "
+                  },
+                  {
+                    "id": 8992,
+                    "public_name": "Anja H\u00f6fner"
                   }
                 ],
                 "links": [

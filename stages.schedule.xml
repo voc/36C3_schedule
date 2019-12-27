@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.7; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3</version>
+  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.8; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Stages</title>
@@ -88,7 +88,9 @@ The bulk of the talk will focus on the rest of the problem which is more in-prog
         <persons>
           <person id="4821">Will Scott</person>
         </persons>
-        <links/>
+        <links>
+          <link href="https://wills.co.tt/bitbucket/36c3/messaging.pdf">Slides</link>
+        </links>
         <attachments/>
       </event>
       <event id="10497" guid="1bf01a7d-2c24-491e-ab2b-4455339ea7d3">
@@ -149,7 +151,7 @@ Dieses hochverfügbare Netz genügt "militärischen Sicherheitsstandards", biete
         </recording>
         <persons>
           <person id="7912">Martin Tschirsich</person>
-          <person id="9376">cbro</person>
+          <person id="9376">cbro - Dr. med. Christian Brodowski</person>
           <person id="9406">Dr. André Zilch</person>
         </persons>
         <links/>
@@ -393,22 +395,22 @@ In fact, we found a large number of vulnerable modules in the ALPC and COM objec
         <start>12:50</start>
         <duration>01:00</duration>
         <room>Borg</room>
-        <slug>36c3-10957-katastrophe_und_kommunikation_am_beispiel_rojava</slug>
-        <title>Katastrophe und Kommunikation am Beispiel Rojava</title>
+        <slug>36c3-10957-katastrophe_und_kommunikation_am_beispiel_nord-ost-syrien</slug>
+        <title>Katastrophe und Kommunikation am Beispiel Nord-Ost-Syrien</title>
         <subtitle>Humanitäre Hilfe zwischen Propaganda, Information und Spendenwerbung</subtitle>
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>de</language>
-        <abstract>Katastrophen, Krisen &amp; Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum überblickbare Quellendiversität in den sozialen Medien – jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das für Diejenigen, die vor Ort humanitäre Hilfe leisten. Wir diskutieren dies anhand des türkischen Überfalls auf Rojava. </abstract>
-        <description>Katastrophen, Krisen &amp; Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum überblickbare Quellendiversität in den sozialen Medien – jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das für Diejenigen, die vor Ort humanitäre Hilfe leisten. Wir diskutieren dies anhand des türkischen Überfalls auf Rojava.&#13;
+        <abstract>Katastrophen, Krisen &amp; Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum überblickbare Quellendiversität in den sozialen Medien – jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das für Diejenigen, die vor Ort humanitäre Hilfe leisten. Wir diskutieren dies anhand des türkischen Überfalls auf Nord-Ost-Syrien gemeinsam mit Fee Baumann von Heyva Sor A Kurd, live aus Nord-Ost-Syrien</abstract>
+        <description>Katastrophen, Krisen &amp; Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum überblickbare Quellendiversität in den sozialen Medien – jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das für Diejenigen, die vor Ort humanitäre Hilfe leisten. Wir diskutieren dies anhand des türkischen Überfalls auf Nord-Ost-Syrien.&#13;
 &#13;
 Fand Live-Berichterstattung aus Kriegsgebieten zu Zeiten des 2. Golfkrieges noch überwiegend durch ein paar wenige Journalist*innen, oft “embedded” statt, die für CNN&amp;Co im grünlichen Nachtsicht-Look aus dem Panzer berichteten, kann in den sozialen Medien heute jede*r zur Quelle werden. Auf diese Weise gelangt die Öffentlichkeit an Informationen die vorher nur sehr schwer zu bekommen gewesen wären &amp; schon gar nicht in Echtzeit.&#13;
 &#13;
-Die Quellenvielfalt birgt große Chancen für die Bewertung einer Lage und auch zur Überprüfung von Informationen durch mehrere Quellen oder Image Reverse Suche. Gleichzeitig verbreiten sich Gerüchte und Falschinformationen ebenfalls sehr viel schneller. Zudem können soziale Medien auch gezielt, etwa von Kriegsparteien manipuliert werden. Die Türkei setzte neben Deutschen Panzern etwa auch Bot-Armeen ein, im Ergebnis: Zwar verurteilte ein großteil der Welt den türkischen Einmarsch in Rojava, aber Twitter-Hashtags zeichneten zeitweilig ein ganz anderes Bild. Gleichzeitig kann es schon auch mal passieren, dass Türkei nahe Djihadistische Gruppen ausversehen selbst Videos ihrer Kriegsverbrechen prahlerisch ins Netz stellen.&#13;
+Die Quellenvielfalt birgt große Chancen für die Bewertung einer Lage und auch zur Überprüfung von Informationen durch mehrere Quellen oder Image Reverse Suche. Gleichzeitig verbreiten sich Gerüchte und Falschinformationen ebenfalls sehr viel schneller. Zudem können soziale Medien auch gezielt, etwa von Kriegsparteien manipuliert werden. Die Türkei setzte neben Deutschen Panzern etwa auch Bot-Armeen ein, im Ergebnis: Zwar verurteilte ein großteil der Welt den türkischen Einmarsch in Nord-Ost-Syrien, aber Twitter-Hashtags zeichneten zeitweilig ein ganz anderes Bild. Gleichzeitig kann es schon auch mal passieren, dass Türkei nahe Djihadistische Gruppen ausversehen selbst Videos ihrer Kriegsverbrechen prahlerisch ins Netz stellen.&#13;
 &#13;
 Was bedeutet all das für humanitäre Helfende vor Ort, die Twitter &amp; co mittlerweile nicht nur zur Spendenwerbung sondern auch zur Lagebewertung nutzen: Wie kann man in der Praxis damit umgehen, dass sich auf Twitter gegebenenfalls ein ganz anderes Bild zeichnet als vor Ort und vor allem: Welches davon ist näher an der Realität?&#13;
 &#13;
-Darum geht es in diesem Talk am Beispiel des Türkischen Überfalls auf Rojava, von Sebastian Jünemann und Ruben Neugebauer von der Hilfsorganisation Cadus, die vor Ort mit mehreren, im wesentlichen medizinischen Projekten aktiv war, sowie Fee Baumann von der Organisation Heyvasor a Kurd, dem kurdischen roten Halbmond. Außerdem werden wir klären wie man sich per Selfie bequem ins Jenseits befördern kann und was sonst noch so für die persönliche Sicherheit zu beachten ist, im Umgang mit modernen Medien in Kriegsgebieten.&#13;
+Darum geht es in diesem Talk am Beispiel des Türkischen Überfalls auf Nord-Ost-Syrien, von Sebastian Jünemann und Ruben Neugebauer von der Hilfsorganisation Cadus, die vor Ort mit mehreren, im wesentlichen medizinischen Projekten aktiv war, sowie Fee Baumann von der Organisation Heyvasor a Kurd, dem kurdischen roten Halbmond. Außerdem werden wir klären wie man sich per Selfie bequem ins Jenseits befördern kann und was sonst noch so für die persönliche Sicherheit zu beachten ist, im Umgang mit modernen Medien in Kriegsgebieten.&#13;
 &#13;
 &#13;
 </description>
@@ -997,7 +999,7 @@ The experience while developing such a huge project is that lots of components c
           <link href="https://ocaml.org">OCaml</link>
         </links>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/004/042/original/talk.pdf?1577351660">slides.3.pdf</attachment>
+          <attachment href="/system/event_attachments/attachments/000/004/050/original/talk.pdf?1577440685">slides.7.pdf</attachment>
         </attachments>
       </event>
       <event id="10703" guid="ffe32913-e2ff-4331-b3e6-7f8f180cbd72">
@@ -2769,7 +2771,7 @@ Should the author fail to show up to this presentation it might be that his Deut
         <logo/>
         <date>2019-12-27T18:00:00+01:00</date>
         <start>18:00</start>
-        <duration>01:00</duration>
+        <duration>00:30</duration>
         <room>WikiPaka WG: Esszimmer</room>
         <slug>CKLM3A</slug>
         <url>https://cfp.verschwoerhaus.de/36c3/talk/CKLM3A/</url>
@@ -5069,7 +5071,7 @@ You’ll also see how to use skills you already have to make meaningful, measura
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="9534">mrchrisadams</person>
+          <person id="9534">Chris Adams</person>
         </persons>
         <links>
           <link href="https://www.thegreenwebfoundation.org/news/packets-yet-another-lever-for-a-low-carbon-internet/">More on "Packets" - infrastrucure that you don't control that causes carbon emissions</link>
@@ -5158,7 +5160,7 @@ Gleichzeitig erleben wir immer wieder, dass unsere wissenschaftlichen Prognosen 
 Es ist daher unumgänglich, den politischen Druck zu erhöhen, indem mehr Aktionen an mehr Orten mit noch viel mehr Menschen und auf vielen verschiedenen Ebenen durchgeführt werden. XR kann jede Art von Unterstützung gut gebrauchen – egal ob es um Nachhilfe in puncto Privacy geht, um Operational Security, um Soft- und Hardware oder um eigenständigen Hacktivismus. Wichtig ist nur: Wir müssen uns jetzt aufraffen, zusammentun und aktiv werden. The time is now.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="9118">Maria</person>
@@ -5433,7 +5435,7 @@ TamaGo allows a considerable reduction of embedded firmware attack surface, whil
         <room>Dijkstra</room>
         <slug>36c3-10859-trustzone-m_eh_breaking_armv8-m_s_security</slug>
         <title>TrustZone-M(eh): Breaking ARMv8-M's security</title>
-        <subtitle>How secure is the next generation of 'secure' processor features?</subtitle>
+        <subtitle>Hardware attacks on the latest generation of ARM Cortex-M processors.</subtitle>
         <track>Hardware &amp; Making</track>
         <type>lecture</type>
         <language>en</language>
@@ -5441,7 +5443,7 @@ TamaGo allows a considerable reduction of embedded firmware attack surface, whil
 &#13;
 To protect these devices, vendors often utilise the latest processors with the newest security features: From read-out protections, crypto storage, secure-boot up to TrustZone-M on the latest ARM processors.&#13;
 &#13;
-In this talk, we break these features: We show how it is possible to bypass the security features of modern IoT/embedded processors using fault-injection attacks, including breaking TrustZone-M on the new ARMv8-M processors, and presenting hardware attacks on RISC-V processors.&#13;
+In this talk, we break these features: We show how it is possible to bypass the security features of modern IoT/embedded processors using fault-injection attacks, including breaking TrustZone-M on the new ARMv8-M processors.&#13;
 &#13;
 We are also releasing and open-sourcing our entire soft- and hardware toolchain for doing so, making it possible to integrate fault-injection testing into the secure development lifecycle.</abstract>
         <description>Modern devices, especially secure ones, often rely on the security of the underlying silicon: Read-out protection, secure-boot, JTAG locking, integrated crypto accelerators or advanced features such as TrustZone are just some of the features utilized by modern embedded devices.&#13;
@@ -8951,6 +8953,8 @@ Speaker*innen (A-Z...äh...V!):&#13;
           <person id="9648">joliyea</person>
           <person id="9427">Viktor Schlüter</person>
           <person id="3752">Carina Haupt</person>
+          <person id="9904">Kathrin Henneberger </person>
+          <person id="8992">Anja Höfner</person>
         </persons>
         <links>
           <link href="https://media.ccc.de/v/bub2018-249-sporangium#t=107">Sporangium v1.0 bei der Bits&amp;Bäume 2018</link>

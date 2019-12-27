@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.7; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 14:00</version>
+  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.8; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 14:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -88,7 +88,9 @@ The bulk of the talk will focus on the rest of the problem which is more in-prog
         <persons>
           <person id="4821">Will Scott</person>
         </persons>
-        <links/>
+        <links>
+          <link href="https://wills.co.tt/bitbucket/36c3/messaging.pdf">Slides</link>
+        </links>
         <attachments/>
       </event>
       <event id="10497" guid="1bf01a7d-2c24-491e-ab2b-4455339ea7d3">
@@ -149,7 +151,7 @@ Dieses hochverfügbare Netz genügt "militärischen Sicherheitsstandards", biete
         </recording>
         <persons>
           <person id="7912">Martin Tschirsich</person>
-          <person id="9376">cbro</person>
+          <person id="9376">cbro - Dr. med. Christian Brodowski</person>
           <person id="9406">Dr. André Zilch</person>
         </persons>
         <links/>
@@ -393,22 +395,22 @@ In fact, we found a large number of vulnerable modules in the ALPC and COM objec
         <start>12:50</start>
         <duration>01:00</duration>
         <room>Borg</room>
-        <slug>36c3-10957-katastrophe_und_kommunikation_am_beispiel_rojava</slug>
-        <title>Katastrophe und Kommunikation am Beispiel Rojava</title>
+        <slug>36c3-10957-katastrophe_und_kommunikation_am_beispiel_nord-ost-syrien</slug>
+        <title>Katastrophe und Kommunikation am Beispiel Nord-Ost-Syrien</title>
         <subtitle>Humanitäre Hilfe zwischen Propaganda, Information und Spendenwerbung</subtitle>
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>de</language>
-        <abstract>Katastrophen, Krisen &amp; Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum überblickbare Quellendiversität in den sozialen Medien – jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das für Diejenigen, die vor Ort humanitäre Hilfe leisten. Wir diskutieren dies anhand des türkischen Überfalls auf Rojava. </abstract>
-        <description>Katastrophen, Krisen &amp; Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum überblickbare Quellendiversität in den sozialen Medien – jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das für Diejenigen, die vor Ort humanitäre Hilfe leisten. Wir diskutieren dies anhand des türkischen Überfalls auf Rojava.&#13;
+        <abstract>Katastrophen, Krisen &amp; Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum überblickbare Quellendiversität in den sozialen Medien – jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das für Diejenigen, die vor Ort humanitäre Hilfe leisten. Wir diskutieren dies anhand des türkischen Überfalls auf Nord-Ost-Syrien gemeinsam mit Fee Baumann von Heyva Sor A Kurd, live aus Nord-Ost-Syrien</abstract>
+        <description>Katastrophen, Krisen &amp; Kriege lassen sich heute live mitverfolgen. Wir erleben eine kaum überblickbare Quellendiversität in den sozialen Medien – jeder wird zur Quelle. Welchen Einfluss hat das darauf, wie ein Konflikt wahrgenommen wird, wie setzen Konfliktparteien aber auch Helfende die sozialen Medien ein und was bedeutet das für Diejenigen, die vor Ort humanitäre Hilfe leisten. Wir diskutieren dies anhand des türkischen Überfalls auf Nord-Ost-Syrien.&#13;
 &#13;
 Fand Live-Berichterstattung aus Kriegsgebieten zu Zeiten des 2. Golfkrieges noch überwiegend durch ein paar wenige Journalist*innen, oft “embedded” statt, die für CNN&amp;Co im grünlichen Nachtsicht-Look aus dem Panzer berichteten, kann in den sozialen Medien heute jede*r zur Quelle werden. Auf diese Weise gelangt die Öffentlichkeit an Informationen die vorher nur sehr schwer zu bekommen gewesen wären &amp; schon gar nicht in Echtzeit.&#13;
 &#13;
-Die Quellenvielfalt birgt große Chancen für die Bewertung einer Lage und auch zur Überprüfung von Informationen durch mehrere Quellen oder Image Reverse Suche. Gleichzeitig verbreiten sich Gerüchte und Falschinformationen ebenfalls sehr viel schneller. Zudem können soziale Medien auch gezielt, etwa von Kriegsparteien manipuliert werden. Die Türkei setzte neben Deutschen Panzern etwa auch Bot-Armeen ein, im Ergebnis: Zwar verurteilte ein großteil der Welt den türkischen Einmarsch in Rojava, aber Twitter-Hashtags zeichneten zeitweilig ein ganz anderes Bild. Gleichzeitig kann es schon auch mal passieren, dass Türkei nahe Djihadistische Gruppen ausversehen selbst Videos ihrer Kriegsverbrechen prahlerisch ins Netz stellen.&#13;
+Die Quellenvielfalt birgt große Chancen für die Bewertung einer Lage und auch zur Überprüfung von Informationen durch mehrere Quellen oder Image Reverse Suche. Gleichzeitig verbreiten sich Gerüchte und Falschinformationen ebenfalls sehr viel schneller. Zudem können soziale Medien auch gezielt, etwa von Kriegsparteien manipuliert werden. Die Türkei setzte neben Deutschen Panzern etwa auch Bot-Armeen ein, im Ergebnis: Zwar verurteilte ein großteil der Welt den türkischen Einmarsch in Nord-Ost-Syrien, aber Twitter-Hashtags zeichneten zeitweilig ein ganz anderes Bild. Gleichzeitig kann es schon auch mal passieren, dass Türkei nahe Djihadistische Gruppen ausversehen selbst Videos ihrer Kriegsverbrechen prahlerisch ins Netz stellen.&#13;
 &#13;
 Was bedeutet all das für humanitäre Helfende vor Ort, die Twitter &amp; co mittlerweile nicht nur zur Spendenwerbung sondern auch zur Lagebewertung nutzen: Wie kann man in der Praxis damit umgehen, dass sich auf Twitter gegebenenfalls ein ganz anderes Bild zeichnet als vor Ort und vor allem: Welches davon ist näher an der Realität?&#13;
 &#13;
-Darum geht es in diesem Talk am Beispiel des Türkischen Überfalls auf Rojava, von Sebastian Jünemann und Ruben Neugebauer von der Hilfsorganisation Cadus, die vor Ort mit mehreren, im wesentlichen medizinischen Projekten aktiv war, sowie Fee Baumann von der Organisation Heyvasor a Kurd, dem kurdischen roten Halbmond. Außerdem werden wir klären wie man sich per Selfie bequem ins Jenseits befördern kann und was sonst noch so für die persönliche Sicherheit zu beachten ist, im Umgang mit modernen Medien in Kriegsgebieten.&#13;
+Darum geht es in diesem Talk am Beispiel des Türkischen Überfalls auf Nord-Ost-Syrien, von Sebastian Jünemann und Ruben Neugebauer von der Hilfsorganisation Cadus, die vor Ort mit mehreren, im wesentlichen medizinischen Projekten aktiv war, sowie Fee Baumann von der Organisation Heyvasor a Kurd, dem kurdischen roten Halbmond. Außerdem werden wir klären wie man sich per Selfie bequem ins Jenseits befördern kann und was sonst noch so für die persönliche Sicherheit zu beachten ist, im Umgang mit modernen Medien in Kriegsgebieten.&#13;
 &#13;
 &#13;
 </description>
@@ -997,7 +999,7 @@ The experience while developing such a huge project is that lots of components c
           <link href="https://ocaml.org">OCaml</link>
         </links>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/004/042/original/talk.pdf?1577351660">slides.3.pdf</attachment>
+          <attachment href="/system/event_attachments/attachments/000/004/050/original/talk.pdf?1577440685">slides.7.pdf</attachment>
         </attachments>
       </event>
       <event id="10703" guid="ffe32913-e2ff-4331-b3e6-7f8f180cbd72">
@@ -2769,7 +2771,7 @@ Should the author fail to show up to this presentation it might be that his Deut
         <logo/>
         <date>2019-12-27T18:00:00+01:00</date>
         <start>18:00</start>
-        <duration>01:00</duration>
+        <duration>00:30</duration>
         <room>WikiPaka WG: Esszimmer</room>
         <slug>CKLM3A</slug>
         <url>https://cfp.verschwoerhaus.de/36c3/talk/CKLM3A/</url>
@@ -4744,7 +4746,7 @@ Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at
         <logo>/media/36c3/images/BMNWW8/tux__linux__logo_circle_color_by_berradev_d7pynu4.png</logo>
         <date>2019-12-27T19:00:00+01:00</date>
         <start>19:00</start>
-        <duration>00:42</duration>
+        <duration>00:30</duration>
         <room>WikiPaka WG: Bibliothek</room>
         <slug>BMNWW8</slug>
         <url>https://cfp.verschwoerhaus.de/36c3/talk/BMNWW8/</url>
@@ -6994,6 +6996,27 @@ Kapitalismus - Wirtschaftliche AlternativenLukas Küttner im Gespräch mit Dr. D
         </persons>
         <links/>
       </event>
+      <event id="1526" guid="e302015a-61fd-4f1a-bccb-79ca8c5e184b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SYSTEM_ERROR_-_Dokumentarfilm_2018</url>
+        <logo/>
+        <date>2019-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>1:30</duration>
+        <room>Roter Salon</room>
+        <slug>36c3-1526-session_system_error_dokumentarfilm_2018</slug>
+        <title>SYSTEM ERROR - Dokumentarfilm 2018</title>
+        <subtitle>Wie endet der Kapitalismus?</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Ewiges Wachstum - Wie endet der Kapitalismus?
+SYSTEM ERRORWie endet der Kapitalismus?Es ist verrückt: Wir sehen die schwindenden Regenwälder und Gletscher, wissen um die Endlichkeit der Natur und sind dennoch wie besessen vom Wirtschaftswachstum. Warum treiben wir das Wachstum immer weiter, obwohl wir wissen, dass man auf unserem endlichen Planeten nicht unendlich wachsen kann? SYSTEM ERROR sucht Antworten auf diesen großen Widerspruch unserer Zeit und macht begreifbar, warum trotzdem alles so weiter geht wie gehabt. Der Film zeigt die Welt aus der Perspektive von Menschen, die von den Möglichkeiten des Kapitalismus fasziniert sind. Ob europäische Finanzstrategen, amerikanische Hedgefondsmanager oder brasilianische Fleischproduzenten: Eine Welt ohne eine expandierende Wirtschaft können, dürfen oder wollen sie sich gar nicht erst vorstellen.SYSTEM ERROR beleuchtet bisher häufig verborgen gebliebene Zusammenhänge und legt die selbstzerstörerischen Zwänge des Systems offen - einem System, an dem wir alle teilhaben, als Beschäftigte, Anleger oder Konsumenten. Denn der Kapitalismus durchdringt unaufhörlich immer mehr Lebensbereiche, verschlingt die Natur und gräbt sich am Ende selbst das Wasser ab – so wie es Karl Marx schon vor 150 Jahren prophezeit hat. Die Frage ist: Sind wir tatsächlich bereit für den Kapitalismus alles zu opfern?</description>
+        <persons>
+          <person id="0">Kreatur</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="C-base">
       <event id="1158" guid="4e14dacd-e21b-43ef-884a-5723d19ab6a8">
@@ -9117,7 +9140,7 @@ You’ll also see how to use skills you already have to make meaningful, measura
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="9534">mrchrisadams</person>
+          <person id="9534">Chris Adams</person>
         </persons>
         <links>
           <link href="https://www.thegreenwebfoundation.org/news/packets-yet-another-lever-for-a-low-carbon-internet/">More on "Packets" - infrastrucure that you don't control that causes carbon emissions</link>
@@ -9206,7 +9229,7 @@ Gleichzeitig erleben wir immer wieder, dass unsere wissenschaftlichen Prognosen 
 Es ist daher unumgänglich, den politischen Druck zu erhöhen, indem mehr Aktionen an mehr Orten mit noch viel mehr Menschen und auf vielen verschiedenen Ebenen durchgeführt werden. XR kann jede Art von Unterstützung gut gebrauchen – egal ob es um Nachhilfe in puncto Privacy geht, um Operational Security, um Soft- und Hardware oder um eigenständigen Hacktivismus. Wichtig ist nur: Wir müssen uns jetzt aufraffen, zusammentun und aktiv werden. The time is now.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="9118">Maria</person>
@@ -9481,7 +9504,7 @@ TamaGo allows a considerable reduction of embedded firmware attack surface, whil
         <room>Dijkstra</room>
         <slug>36c3-10859-trustzone-m_eh_breaking_armv8-m_s_security</slug>
         <title>TrustZone-M(eh): Breaking ARMv8-M's security</title>
-        <subtitle>How secure is the next generation of 'secure' processor features?</subtitle>
+        <subtitle>Hardware attacks on the latest generation of ARM Cortex-M processors.</subtitle>
         <track>Hardware &amp; Making</track>
         <type>lecture</type>
         <language>en</language>
@@ -9489,7 +9512,7 @@ TamaGo allows a considerable reduction of embedded firmware attack surface, whil
 &#13;
 To protect these devices, vendors often utilise the latest processors with the newest security features: From read-out protections, crypto storage, secure-boot up to TrustZone-M on the latest ARM processors.&#13;
 &#13;
-In this talk, we break these features: We show how it is possible to bypass the security features of modern IoT/embedded processors using fault-injection attacks, including breaking TrustZone-M on the new ARMv8-M processors, and presenting hardware attacks on RISC-V processors.&#13;
+In this talk, we break these features: We show how it is possible to bypass the security features of modern IoT/embedded processors using fault-injection attacks, including breaking TrustZone-M on the new ARMv8-M processors.&#13;
 &#13;
 We are also releasing and open-sourcing our entire soft- and hardware toolchain for doing so, making it possible to integrate fault-injection testing into the secure development lifecycle.</abstract>
         <description>Modern devices, especially secure ones, often rely on the security of the underlying silicon: Read-out protection, secure-boot, JTAG locking, integrated crypto accelerators or advanced features such as TrustZone are just some of the features utilized by modern embedded devices.&#13;
@@ -13474,7 +13497,7 @@ Konkret: Wir verbinden Theorie und Praxis. Im ersten Teil werden rechtliche Grun
         <logo/>
         <date>2019-12-28T14:30:00+01:00</date>
         <start>14:30</start>
-        <duration>00:00</duration>
+        <duration>01:30</duration>
         <room>WikiPaka WG: Bibliothek</room>
         <slug>VKRA9V</slug>
         <url>https://cfp.verschwoerhaus.de/36c3/talk/VKRA9V/</url>
@@ -15613,6 +15636,7 @@ RIAT is an independent R+D institute focussing on Open Hardware, Blockchain and 
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="140">FL140</person>
           <person id="27">parasew</person>
         </persons>
         <links>
@@ -18157,6 +18181,8 @@ Speaker*innen (A-Z...äh...V!):&#13;
           <person id="9648">joliyea</person>
           <person id="9427">Viktor Schlüter</person>
           <person id="3752">Carina Haupt</person>
+          <person id="9904">Kathrin Henneberger </person>
+          <person id="8992">Anja Höfner</person>
         </persons>
         <links>
           <link href="https://media.ccc.de/v/bub2018-249-sporangium#t=107">Sporangium v1.0 bei der Bits&amp;Bäume 2018</link>
@@ -23052,6 +23078,32 @@ Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at
       </event>
     </room>
     <room name="WikiPaka WG: Bibliothek">
+      <event id="601" guid="b24079c8-30da-53dd-81df-9304da6c3430">
+        <logo/>
+        <date>2019-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>FQY9R7</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/FQY9R7/</url>
+        <title>Bäume pflanzen mit QGIS und R</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Bäume pflanzen kann sehr lange dauern. Mit interaktiven Karten können Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele (mit QGIS und R) an und können bei Interesse ein kleines Kärtchen programmieren.</abstract>
+        <description>Bäume pflanzen kann sehr lange dauern. Mit interaktiven Karten können Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele (mit QGIS und R) an und können bei Interesse ein kleines Kärtchen programmieren.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="97">Isabella</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="584" guid="f3131c0f-4d45-536b-b106-e822d2abe188">
         <logo>/media/36c3/images/GVAD3D/bild2.png</logo>
         <date>2019-12-29T15:00:00+01:00</date>
@@ -26142,8 +26194,8 @@ Demonstration im Rahmen von Fridays for Future in der Stadt; Termin am Vormittag
       <event id="1510" guid="e8634eac-e953-47be-b980-6d9ab97eebfc">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Git_bottom_up</url>
         <logo/>
-        <date>2019-12-29T12:45:00+01:00</date>
-        <start>12:45</start>
+        <date>2019-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
         <duration>1:30</duration>
         <room>Assembly:402 Payment Required</room>
         <slug>36c3-1510-session_git_bottom_up</slug>
@@ -26154,7 +26206,7 @@ Demonstration im Rahmen von Fridays for Future in der Stadt; Termin am Vormittag
         <language>en</language>
         <abstract/>
         <description>ever wanted to how git internals look?
-ATTENTION: LOCATION IS STILL UNCLEAR, LOOKING FOR SOME FREE SPACERequirements:- If you like to follow along please clone https://github.com/wtjerry/gitShowAndTell_playgroundRepo.git- Some kind of a computer with a shell, git and an editor installed.Using git for keeping track of your code? Ever had a moment where you wanted to assault git for being /doing stupid? (yes i know, it definitely wasnt your fault)Now is the time: you may either stay at that level of knowlegde to not loose the chance to get angry at git again (no issues with that, everyone needs a scapegoat) or you could learn why git works the way it does (and sometimes does stupid stuff).This workshop might help you with the second.</description>
+ATTENTION: LOCATION IS OIO Workshop Domehttps://talks.oio.social/36c3-oio/talk/XWZMAJ/Requirements:- If you like to follow along please clone https://github.com/wtjerry/gitShowAndTell_playgroundRepo.git- Some kind of a computer with a shell, git and an editor installed.Using git for keeping track of your code? Ever had a moment where you wanted to assault git for being /doing stupid? (yes i know, it definitely wasnt your fault)Now is the time: you may either stay at that level of knowlegde to not loose the chance to get angry at git again (no issues with that, everyone needs a scapegoat) or you could learn why git works the way it does (and sometimes does stupid stuff).This workshop might help you with the second.</description>
         <persons>
           <person id="0">Wtjerry</person>
         </persons>

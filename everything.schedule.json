@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.7; chaoszone 0.7; komona 0.10; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 13:50",
+    "version": "find; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.7; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 14:00",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -5852,6 +5852,38 @@
                 "answers": []
               },
               {
+                "id": 857,
+                "guid": "51612411-9ac1-569e-8abc-758eb3705540",
+                "logo": "",
+                "date": "2019-12-27T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:00",
+                "room": "nokingdome",
+                "slug": "LJG7VF",
+                "url": "https://talks.komona.org/36c3/talk/LJG7VF/",
+                "title": "Digitale Freiheit z\u00fcndschnur",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "Wir setzen uns zusammen und planen die n\u00e4chsten Tage",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 53,
+                    "code": "ALNETC",
+                    "public_name": "Vik",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 802,
                 "guid": "45fe476b-4f65-5bd3-9802-a4b18cd86936",
                 "logo": "",
@@ -6887,9 +6919,9 @@
                 "start": "19:45",
                 "duration": "00:15",
                 "room": "CDC - Stage",
-                "slug": "36C3-179-oshwa",
-                "title": "OSHWA",
-                "subtitle": "",
+                "slug": "36C3-179-the_open_hardware_summit_and_oshwa",
+                "title": "The Open Hardware Summit and OSHWA",
+                "subtitle": "Overview of the Open Source Hardware Association activities",
                 "track": null,
                 "type": "lightning_talk",
                 "language": "en",
@@ -15508,38 +15540,6 @@
                     "code": "CLZ8FM",
                     "public_name": "Lucie Panknin",
                     "biography": "Hello there, my name is Lucie. I am a mediator and I enjoy sharing knowledge I gained from my training and work experience. I am passionate about group dynamics as well as collective learning processes.   \r\nIt is fascinating, how simple techniques and frameworks can change the way people perceive each other and how they interact. It does not need super complicated knowledge or skills to change team work and make our interaction become aware, trustful and considerate. The simplicity I discovered is what thrives me to share my experiences and learn also about yours. Looking forward to meet you!",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 803,
-                "guid": "36ae9d08-070a-5611-a4c6-267326903343",
-                "logo": "",
-                "date": "2019-12-28T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "00:25",
-                "room": "headnut",
-                "slug": "XBRFTV",
-                "url": "https://talks.komona.org/36c3/talk/XBRFTV/",
-                "title": "Fahr\u00e4der Zeichnen und Analysieren",
-                "subtitle": "",
-                "track": null,
-                "type": "Session",
-                "language": "de",
-                "abstract": "Hier kannst du ein Fahradzeichnen das wir danach gemeinsam analysieren.",
-                "description": "F\u00fcr diese Session brauchst du weder zeichenen k\u00f6nnen, noch lernst du hier wie man zeichnet! \r\nFahrr\u00e4der zeichnen ist einfach, deswegen kannst du hier eins zeichnen.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 19,
-                    "code": "NJNDSR",
-                    "public_name": "ruru4143",
-                    "biography": "",
                     "answers": []
                   }
                 ],
@@ -25951,7 +25951,7 @@
                 "type": "Workshop",
                 "language": "de",
                 "abstract": "We want to meet up in the Wikipaka WG to start working on an interactive data visualization tool for publicly accessible ecological (and socio-economical) time series datasets from different sources. The goal of the project is to help people to get an idea of the challenges ecosystems are facing in the Anthropocene and to encourage people to become active.",
-                "description": "Hacking Ecology is a citizen science collective that, on the basis of the ideas of open source and open data, wants to contribute to the research necessary to avert the ecological crisis. In this mini-Hackathon, we want to kickstart out first project, an easily useable interactive (web-)tool (in Python, using Bokeh) and brings together and visualizes publicly available time series datasets from very different sources. With it, it should be possible to visualize e. G. the change in precipitation or rate of urbanization as well as the numbers of earthworms in the same figure, so that one can get a feeling for the challenges ecosystems are facing in the Anthropocene. Furthermore, this tool will be a good basis for future work of Hacking Ecology, as it makes it easier to e. G. form hypotheses on which human actions are harmful for the environment or what actions could be taken to avoid ecosystems from breaking down. \r\nWe will provide a first, clumsy version of the tool and a list of datasets that might be relevant to ecosystems, but are very happy to take up all helpful input and ideas; all code will be immediately published on Github and we'll try to run this as collaborative as possible. Please bring something you can write and submit code with.",
+                "description": "Hacking Ecology is a citizen science collective that, on the basis of the ideas of open source and open data, wants to contribute to the research necessary to avert the ecological crisis. In this mini-Hackathon, we want to kickstart out first project, an easily useable interactive (web-)tool (in Python, using Bokeh) and brings together and visualizes publicly available time series datasets from very different sources. With it, it should be possible to visualize e. G. the change in precipitation or rate of urbanization as well as the numbers of earthworms in the same figure, so that one can get a feeling for the challenges ecosystems are facing in the Anthropocene. Furthermore, this tool will be a good basis for future work of Hacking Ecology, as it makes it easier to e. G. form hypotheses on which human actions are harmful for the environment or what actions could be taken to avoid ecosystems from breaking down. \r\nWe will provide a first, clumsy version of the tool and a list of datasets that might be relevant to ecosystems, but are very happy to take up all helpful input and ideas; all code will be immediately published on Github and we'll try to run this as collaborative as possible. Please bring something you can write and submit code with.\r\n\r\nSource Code for Videt: https://github.com/HackingEcology/videt\r\nPad: https://pad.totalism.org/p/Hacking_Ecology_Hackathon_36c3 \r\nWebsite: http://hackingecology.eu/ \r\nMailing list: https://lists.posteo.de/listinfo/hackingecology",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
@@ -26601,8 +26601,8 @@
                 "id": 843,
                 "guid": "6f42e4f2-e582-5f49-8513-3904d5c790eb",
                 "logo": "/media/36c3/images/PGXPCQ/P1160628.JPG",
-                "date": "2019-12-29T16:30:00+01:00",
-                "start": "16:30",
+                "date": "2019-12-29T16:25:00+01:00",
+                "start": "16:25",
                 "duration": "01:30",
                 "room": "nokingdome",
                 "slug": "PGXPCQ",
@@ -26621,6 +26621,38 @@
                     "id": 43,
                     "code": "SUKMVU",
                     "public_name": "paulaner",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 803,
+                "guid": "36ae9d08-070a-5611-a4c6-267326903343",
+                "logo": "",
+                "date": "2019-12-29T18:15:00+01:00",
+                "start": "18:15",
+                "duration": "00:25",
+                "room": "nokingdome",
+                "slug": "XBRFTV",
+                "url": "https://talks.komona.org/36c3/talk/XBRFTV/",
+                "title": "Fahr\u00e4der Zeichnen und Analysieren",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "de",
+                "abstract": "Hier kannst du ein Fahradzeichnen das wir danach gemeinsam analysieren.",
+                "description": "F\u00fcr diese Session brauchst du weder zeichenen k\u00f6nnen, noch lernst du hier wie man zeichnet! \r\nFahrr\u00e4der zeichnen ist einfach, deswegen kannst du hier eins zeichnen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 19,
+                    "code": "NJNDSR",
+                    "public_name": "ruru4143",
                     "biography": "",
                     "answers": []
                   }

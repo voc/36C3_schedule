@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.7; chaoszone 0.7; komona 0.10; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 13:40",
+    "version": "find; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.7; chaoszone 0.7; komona 0.10; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 13:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -2900,7 +2900,7 @@
                 "abstract": "DSGVO & Pers\u00f6nlichkeitsrecht bei Fotos mit Fokus auf Nutzung in freien Projekte wie Wikimedia Commons.",
                 "description": "* Pers\u00f6nlichkeitsrechte und ihre Bedeutung f\u00fcr Wikimedia-Projekte, inklusive Grundlagen des Allgemeinen Pers\u00f6nlichkeitsrechts (APR)\r\n* Was ist zu beachten bei Abbildungen von Personen des \u00f6ffentlichen Lebens und beim Fotografieren \u00f6ffentlicher und nicht-\u00f6ffentlicher Veranstaltungen? (inklusive Umgang mit Einschr\u00e4nkungen von Seiten Dritter wie Sportverb\u00e4nden, K\u00fcnstlermanagements usw.)\r\n* Zusammenspiel urheberrechtlicher Lizenzen und pers\u00f6nlichkeitsrechtlicher Regeln\r\n\r\nZeit f\u00fcr Fragen und Antworten ist eingeplant.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 8,
@@ -6615,7 +6615,12 @@
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 66,
+                    "public_name": "Diego \"rehrar\" Salazar"
+                  }
+                ],
                 "links": [],
                 "attachments": []
               },
@@ -8714,6 +8719,64 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:IT-Kollektiv": [
+              {
+                "id": 1522,
+                "guid": "4ad97377-f5a3-4124-a7ef-f9d8e108876e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup",
+                "logo": null,
+                "date": "2019-12-27T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Assembly:IT-Kollektiv",
+                "slug": "36c3-1522-session_tech_coops_meetup",
+                "title": "Tech-Coops Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "A meetup for everyone interested in workers'-owned tech-coops or already involved in one. Just drop by!\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:It-kollektiv",
+                    "public_name": "It-kollektiv"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:The Tinkering To Come - bstly": [
+              {
+                "id": 1524,
+                "guid": "13f4fff9-56a5-4982-b447-e54da1429952",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:What_is_the_Tinkering_To_Come%3F",
+                "logo": null,
+                "date": "2019-12-27T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "0:20",
+                "room": "Assembly:The Tinkering To Come - bstly",
+                "slug": "36c3-1524-session_what_is_the_tinkering_to_come_",
+                "title": "What is the Tinkering To Come?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "The Secretary of the Tinkering To Come explains the Mission\nThe Secretary of The Tinkering To Come explains everything concerning the Tinkering To Come and how you can participate.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Louisfabu",
+                    "public_name": "Louisfabu"
+                  }
+                ],
+                "links": [
+                  "http://bstly.de"
+                ]
               }
             ]
           }
@@ -12803,12 +12866,12 @@
                 "type": "other",
                 "language": "de",
                 "abstract": "",
-                "description": "B\u00e4ume pflanzen kann sehr lange dauern. Mit interaktiven Karten k\u00f6nnen Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele an und k\u00f6nnen bei Interesse ein kleines K\u00e4rtchen programmieren.\n",
+                "description": "B\u00e4ume pflanzen kann sehr lange dauern. Mit interaktiven Karten k\u00f6nnen Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele  (mit QGIS und R) an und k\u00f6nnen bei Interesse ein kleines K\u00e4rtchen programmieren.\n",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bengoshi",
-                    "public_name": "Bengoshi"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bella",
+                    "public_name": "Bella"
                   }
                 ],
                 "links": [
@@ -15624,7 +15687,7 @@
               {
                 "id": 837,
                 "guid": "84186fc0-d3d0-5c30-92c3-cede6a4c9a5c",
-                "logo": "/media/36c3/images/SNMYTC/vpn-img.png",
+                "logo": "/media/36c3/images/SNMYTC/zine0.jpg",
                 "date": "2019-12-28T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "00:45",
@@ -16892,7 +16955,12 @@
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 66,
+                    "public_name": "Diego \"rehrar\" Salazar"
+                  }
+                ],
                 "links": [],
                 "attachments": []
               },
@@ -19734,6 +19802,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dkt",
                     "public_name": "Dkt"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:IT-Kollektiv": [
+              {
+                "id": 1523,
+                "guid": "e22875b8-049b-5cdf-adba-00a5bf938205",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup",
+                "logo": null,
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Assembly:IT-Kollektiv",
+                "slug": "36c3-1523-session_tech_coops_meetup",
+                "title": "Tech-Coops Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "A meetup for everyone interested in workers'-owned tech-coops or already involved in one. Just drop by!\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:It-kollektiv",
+                    "public_name": "It-kollektiv"
                   }
                 ],
                 "links": []
@@ -29390,6 +29486,34 @@
                 "links": []
               }
             ],
+            "Assembly:IT-Kollektiv": [
+              {
+                "id": 1520,
+                "guid": "8d5457bf-0985-4e9a-bb74-82466b6e069a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup",
+                "logo": null,
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Assembly:IT-Kollektiv",
+                "slug": "36c3-1520-session_tech_coops_meetup",
+                "title": "Tech-Coops Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "A meetup for everyone interested in workers'-owned tech-coops or already involved in one. Just drop by!\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:It-kollektiv",
+                    "public_name": "It-kollektiv"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Studio Datsche": [
               {
                 "id": 1490,
@@ -32556,6 +32680,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
                     "public_name": "Alibi"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:IT-Kollektiv": [
+              {
+                "id": 1521,
+                "guid": "cb6fbfc0-6242-531a-9af4-067d56239a51",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup",
+                "logo": null,
+                "date": "2019-12-30T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Assembly:IT-Kollektiv",
+                "slug": "36c3-1521-session_tech_coops_meetup",
+                "title": "Tech-Coops Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "A meetup for everyone interested in workers'-owned tech-coops or already involved in one. Just drop by!\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:It-kollektiv",
+                    "public_name": "It-kollektiv"
                   }
                 ],
                 "links": []

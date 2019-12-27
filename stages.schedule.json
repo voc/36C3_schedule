@@ -2900,7 +2900,7 @@
                 "abstract": "DSGVO & Pers\u00f6nlichkeitsrecht bei Fotos mit Fokus auf Nutzung in freien Projekte wie Wikimedia Commons.",
                 "description": "* Pers\u00f6nlichkeitsrechte und ihre Bedeutung f\u00fcr Wikimedia-Projekte, inklusive Grundlagen des Allgemeinen Pers\u00f6nlichkeitsrechts (APR)\r\n* Was ist zu beachten bei Abbildungen von Personen des \u00f6ffentlichen Lebens und beim Fotografieren \u00f6ffentlicher und nicht-\u00f6ffentlicher Veranstaltungen? (inklusive Umgang mit Einschr\u00e4nkungen von Seiten Dritter wie Sportverb\u00e4nden, K\u00fcnstlermanagements usw.)\r\n* Zusammenspiel urheberrechtlicher Lizenzen und pers\u00f6nlichkeitsrechtlicher Regeln\r\n\r\nZeit f\u00fcr Fragen und Antworten ist eingeplant.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 8,
@@ -3557,7 +3557,12 @@
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 66,
+                    "public_name": "Diego \"rehrar\" Salazar"
+                  }
+                ],
                 "links": [],
                 "attachments": []
               },
@@ -8370,7 +8375,12 @@
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 66,
+                    "public_name": "Diego \"rehrar\" Salazar"
+                  }
+                ],
                 "links": [],
                 "attachments": []
               },

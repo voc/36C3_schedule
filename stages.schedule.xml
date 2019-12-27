@@ -2786,7 +2786,7 @@ Should the author fail to show up to this presentation it might be that his Deut
 Zeit für Fragen und Antworten ist eingeplant.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="8">John</person>
@@ -3355,7 +3355,9 @@ https://schaltkreismusik.bandcamp.com</description>
           <license/>
           <optout>false</optout>
         </recording>
-        <persons/>
+        <persons>
+          <person id="66">Diego "rehrar" Salazar</person>
+        </persons>
         <links/>
         <attachments/>
       </event>
@@ -7869,7 +7871,9 @@ https://www.deutschlandfunkkultur.de/wurfsendungs-serie-druckwellensittiche.3687
           <license/>
           <optout>false</optout>
         </recording>
-        <persons/>
+        <persons>
+          <person id="66">Diego "rehrar" Salazar</person>
+        </persons>
         <links/>
         <attachments/>
       </event>

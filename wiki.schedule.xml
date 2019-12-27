@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-27 13:40</version>
+  <version>2019-12-27 13:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -2645,6 +2645,54 @@ More sessions will be announced for Day 2, Day 3 and Day 4.</description>
         <links/>
       </event>
     </room>
+    <room name="Assembly:IT-Kollektiv">
+      <event id="1522" guid="4ad97377-f5a3-4124-a7ef-f9d8e108876e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup</url>
+        <logo/>
+        <date>2019-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:IT-Kollektiv</room>
+        <slug>36c3-1522-session_tech_coops_meetup</slug>
+        <title>Tech-Coops Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>A meetup for everyone interested in workers'-owned tech-coops or already involved in one. Just drop by!
+</description>
+        <persons>
+          <person id="0">It-kollektiv</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Assembly:The Tinkering To Come - bstly">
+      <event id="1524" guid="13f4fff9-56a5-4982-b447-e54da1429952">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:What_is_the_Tinkering_To_Come%3F</url>
+        <logo/>
+        <date>2019-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:20</duration>
+        <room>Assembly:The Tinkering To Come - bstly</room>
+        <slug>36c3-1524-session_what_is_the_tinkering_to_come_</slug>
+        <title>What is the Tinkering To Come?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>The Secretary of the Tinkering To Come explains the Mission
+The Secretary of The Tinkering To Come explains everything concerning the Tinkering To Come and how you can participate.</description>
+        <persons>
+          <person id="0">Louisfabu</person>
+        </persons>
+        <links>
+          <link>http://bstly.de</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:WikipakaWG">
       <event id="1475" guid="3aaaf2f8-471b-4516-8a4c-314f39c16c01">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wikipaka/Jugend_hackt_Translation_Info_Meeting</url>
@@ -4549,10 +4597,10 @@ Tücher mit Bienenwachs herstellenZiel ist es Lebensmittel alternativ zu verpack
         <type>other</type>
         <language>de</language>
         <abstract/>
-        <description>Bäume pflanzen kann sehr lange dauern. Mit interaktiven Karten können Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele an und können bei Interesse ein kleines Kärtchen programmieren.
+        <description>Bäume pflanzen kann sehr lange dauern. Mit interaktiven Karten können Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele  (mit QGIS und R) an und können bei Interesse ein kleines Kärtchen programmieren.
 </description>
         <persons>
-          <person id="0">Bengoshi</person>
+          <person id="0">Bella</person>
         </persons>
         <links>
           <link>http://www.booksfortrees.at/badilisha-permaculture-center/</link>
@@ -5808,6 +5856,29 @@ Pi Mapper is an open source projection mapping tool intended to be used on the R
 Der Vortrag beschreibt das grafische Terminal robotron K8917. Das Gerät wurde vom VEB robotron elektronik Zella-Mehlis hergestellt. Es basiert auf dem 8 bit Prozessor U880 (Z80) und wird über eine serielle Schnittstelle gesteuert. Die Gegenstelle ist normalerweise eine grafische Workstation, die an die PDP11/03 angelehnt ist (robotron K1620). Da solche Geräte selten und nicht erhältlich sind, wird es stattdessen über ein Notebook mit serieller Schnittstelle gesteuert. Es werden die grafischen Befehle gezeigt sowie einige Steuerbefehle, die erahnen lassen, wie das Terminal mit seiner Originalmaschine zusammengearbeitet hat. Es wird also ein Bild gezeichnet, das einen nicht existenten Rechner erahnen lässt.</description>
         <persons>
           <person id="0">Dkt</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Assembly:IT-Kollektiv">
+      <event id="1523" guid="e22875b8-049b-5cdf-adba-00a5bf938205">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup</url>
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:IT-Kollektiv</room>
+        <slug>36c3-1523-session_tech_coops_meetup</slug>
+        <title>Tech-Coops Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>A meetup for everyone interested in workers'-owned tech-coops or already involved in one. Just drop by!
+</description>
+        <persons>
+          <person id="0">It-kollektiv</person>
         </persons>
         <links/>
       </event>
@@ -8257,6 +8328,29 @@ Hacktivism from time to time leads to imprisonment and repressions. There are se
         <links/>
       </event>
     </room>
+    <room name="Assembly:IT-Kollektiv">
+      <event id="1520" guid="8d5457bf-0985-4e9a-bb74-82466b6e069a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup</url>
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:IT-Kollektiv</room>
+        <slug>36c3-1520-session_tech_coops_meetup</slug>
+        <title>Tech-Coops Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>A meetup for everyone interested in workers'-owned tech-coops or already involved in one. Just drop by!
+</description>
+        <persons>
+          <person id="0">It-kollektiv</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:Art-and-Play">
       <event id="1332" guid="68a70d98-712e-465d-a51d-931ce0736f8b">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Technological_Narratives:_Solarpunk,_Cyberpunk,_Popculture</url>
@@ -9029,6 +9123,29 @@ Contact: Marko Mijokovic (01636934204)</description>
 </description>
         <persons>
           <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Assembly:IT-Kollektiv">
+      <event id="1521" guid="cb6fbfc0-6242-531a-9af4-067d56239a51">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup</url>
+        <logo/>
+        <date>2019-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:IT-Kollektiv</room>
+        <slug>36c3-1521-session_tech_coops_meetup</slug>
+        <title>Tech-Coops Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>A meetup for everyone interested in workers'-owned tech-coops or already involved in one. Just drop by!
+</description>
+        <persons>
+          <person id="0">It-kollektiv</person>
         </persons>
         <links/>
       </event>

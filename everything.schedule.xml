@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 16:20</version>
+  <version>hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 16:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -8010,8 +8010,8 @@ We offer instructions for "Damn Vulnerable Web Application" daily. At least for 
         <type>discussion</type>
         <language>en</language>
         <abstract/>
-        <description>Reddit style panel
-</description>
+        <description>Reddit style Q&amp;A, where you can ask all the questions you wanted to know about the life of a kernel programmer.
+Are you interested to know about a kernel devs work, how they got into kernel programming, where to find a job and to get into this field, what good resources there are for newbies, whether they got shouted at by Linus, etc..? Here is the right place where you can ask those questions.</description>
         <persons>
           <person id="0">Chrysh</person>
         </persons>
@@ -11986,29 +11986,6 @@ Mit Podlove und Auphonic wurden uns Produzierenden von Podcasts mächtige Werkze
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1486" guid="d54e7d6f-4f5e-450d-bc36-fbb719f5c694">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:B%C3%A4ume_pflanzen_mit_QGIS_und_R</url>
-        <logo/>
-        <date>2019-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>0:30</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1486-session_baeume_pflanzen_mit_qgis_und_r</slug>
-        <title>Bäume pflanzen mit QGIS und R</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Bäume pflanzen kann sehr lange dauern. Mit interaktiven Karten können Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele  (mit QGIS und R) an und können bei Interesse ein kleines Kärtchen programmieren.
-</description>
-        <persons>
-          <person id="0">Bella</person>
-        </persons>
-        <links>
-          <link>http://www.booksfortrees.at/badilisha-permaculture-center/</link>
-        </links>
-      </event>
       <event id="1058" guid="03d2f5b2-858f-4bab-b216-c95540f79fcb">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Conceptual_Models_of_Sustainability</url>
         <logo/>
@@ -22474,30 +22451,6 @@ Art deliberately creates a chaos, a distortion, an exception by returning to the
           <link>http://defend.wikileaks.org/36c3/</link>
         </links>
       </event>
-      <event id="1258" guid="9cf095f6-efeb-495e-810b-716efc5ef7b0">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Blockchain_Interoperability:_NIPoPoWs_%26_Sidechains</url>
-        <logo/>
-        <date>2019-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:00</duration>
-        <room>Lecture room M2</room>
-        <slug>36c3-1258-session_blockchain_interoperability_nipopows_sidechains</slug>
-        <title>Blockchain Interoperability: NIPoPoWs &amp; Sidechains</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>Moving value between chains
-</description>
-        <persons>
-          <person id="0">Gtklocker</person>
-          <person id="0">Dionyziz</person>
-        </persons>
-        <links>
-          <link>https://nipopows.com/</link>
-        </links>
-      </event>
       <event id="1059" guid="40223e47-9260-4412-a25c-3ed07ac2fd70">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Carbon.txt_-_what_would_a_robots.txt_for_green_infrastructure_look_like%3F</url>
         <logo/>
@@ -26915,6 +26868,31 @@ ATTENTION: LOCATION IS OIO Workshop Domehttps://talks.oio.social/36c3-oio/talk/X
         </links>
       </event>
     </room>
+    <room name="Assembly:Telekommunisten">
+      <event id="1543" guid="c8201148-180a-464e-947d-3c66e53c9a7f">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:HAKET</url>
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>3:00</duration>
+        <room>Assembly:Telekommunisten</room>
+        <slug>36c3-1543-session_haket</slug>
+        <title>HAKET</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>we will discuss the Haket roadmap and priorities
+</description>
+        <persons>
+          <person id="0">Baruch</person>
+        </persons>
+        <links>
+          <link>http://telekommunisten.net</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Anarchist Village">
       <event id="1330" guid="b8903724-9ef4-4f07-9885-c245d550c477">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking</url>
@@ -29775,6 +29753,32 @@ Print your own t-shirt with screen printing.Bedruckt eure eigenen T-Shirts mit s
           <person id="0">Manou</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="C-base">
+      <event id="1544" guid="6b7691ff-c301-4447-b05d-78609dc4a1bf">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerfleet%27s_Isomer/HFOS</url>
+        <logo/>
+        <date>2019-12-30T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>0:45</duration>
+        <room>C-base</room>
+        <slug>36c3-1544-session_hackerfleet_s_isomer_hfos</slug>
+        <title>Hackerfleet's Isomer/HFOS</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>A short introduction into Isomer and the Hackerfleet Operating System
+A quick overview over Isomer - Hackerfleet's application framework for decentralized collaboration and science - and its first implemented project, the Hackerfleet Operating System for opensource-loving and sailing nerds.Since we prepared working Docker images, there might be a quick hands-on tutorial/workshop thingy after the lecture.Hope to see you @c-base!</description>
+        <persons>
+          <person id="0">Riot</person>
+        </persons>
+        <links>
+          <link>https://isomer.eu</link>
+          <link>https://hackerfleet.eu</link>
+        </links>
       </event>
     </room>
     <room name="Assembly:Haecksen">

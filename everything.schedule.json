@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 16:20",
+    "version": "hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 16:30",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -8958,7 +8958,7 @@
                 "type": "discussion",
                 "language": "en",
                 "abstract": "",
-                "description": "Reddit style panel\n",
+                "description": "Reddit style Q&A, where you can ask all the questions you wanted to know about the life of a kernel programmer.\nAre you interested to know about a kernel devs work, how they got into kernel programming, where to find a job and to get into this field, what good resources there are for newbies, whether they got shouted at by Linus, etc..? Here is the right place where you can ask those questions.",
                 "persons": [
                   {
                     "id": 0,
@@ -13207,34 +13207,6 @@
               }
             ],
             "Seminar room 14-15": [
-              {
-                "id": 1486,
-                "guid": "d54e7d6f-4f5e-450d-bc36-fbb719f5c694",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:B%C3%A4ume_pflanzen_mit_QGIS_und_R",
-                "logo": null,
-                "date": "2019-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "0:30",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1486-session_baeume_pflanzen_mit_qgis_und_r",
-                "title": "B\u00e4ume pflanzen mit QGIS und R",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "other",
-                "language": "de",
-                "abstract": "",
-                "description": "B\u00e4ume pflanzen kann sehr lange dauern. Mit interaktiven Karten k\u00f6nnen Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele  (mit QGIS und R) an und k\u00f6nnen bei Interesse ein kleines K\u00e4rtchen programmieren.\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bella",
-                    "public_name": "Bella"
-                  }
-                ],
-                "links": [
-                  "http://www.booksfortrees.at/badilisha-permaculture-center/"
-                ]
-              },
               {
                 "id": 1058,
                 "guid": "03d2f5b2-858f-4bab-b216-c95540f79fcb",
@@ -25214,39 +25186,6 @@
                 ]
               },
               {
-                "id": 1258,
-                "guid": "9cf095f6-efeb-495e-810b-716efc5ef7b0",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Blockchain_Interoperability:_NIPoPoWs_%26_Sidechains",
-                "logo": null,
-                "date": "2019-12-29T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "1:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1258-session_blockchain_interoperability_nipopows_sidechains",
-                "title": "Blockchain Interoperability: NIPoPoWs & Sidechains",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Moving value between chains\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Gtklocker",
-                    "public_name": "Gtklocker"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dionyziz",
-                    "public_name": "Dionyziz"
-                  }
-                ],
-                "links": [
-                  "https://nipopows.com/"
-                ]
-              },
-              {
                 "id": 1059,
                 "guid": "40223e47-9260-4412-a25c-3ed07ac2fd70",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Carbon.txt_-_what_would_a_robots.txt_for_green_infrastructure_look_like%3F",
@@ -30161,6 +30100,36 @@
                 ]
               }
             ],
+            "Assembly:Telekommunisten": [
+              {
+                "id": 1543,
+                "guid": "c8201148-180a-464e-947d-3c66e53c9a7f",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:HAKET",
+                "logo": null,
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "3:00",
+                "room": "Assembly:Telekommunisten",
+                "slug": "36c3-1543-session_haket",
+                "title": "HAKET",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "we will discuss the Haket roadmap and priorities\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Baruch",
+                    "public_name": "Baruch"
+                  }
+                ],
+                "links": [
+                  "http://telekommunisten.net"
+                ]
+              }
+            ],
             "Assembly:Anarchist Village": [
               {
                 "id": 1330,
@@ -33323,6 +33292,37 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "C-base": [
+              {
+                "id": 1544,
+                "guid": "6b7691ff-c301-4447-b05d-78609dc4a1bf",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerfleet%27s_Isomer/HFOS",
+                "logo": null,
+                "date": "2019-12-30T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "0:45",
+                "room": "C-base",
+                "slug": "36c3-1544-session_hackerfleet_s_isomer_hfos",
+                "title": "Hackerfleet's Isomer/HFOS",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "A short introduction into Isomer and the Hackerfleet Operating System\nA quick overview over Isomer - Hackerfleet's application framework for decentralized collaboration and science - and its first implemented project, the Hackerfleet Operating System for opensource-loving and sailing nerds.Since we prepared working Docker images, there might be a quick hands-on tutorial/workshop thingy after the lecture.Hope to see you @c-base!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Riot",
+                    "public_name": "Riot"
+                  }
+                ],
+                "links": [
+                  "https://isomer.eu",
+                  "https://hackerfleet.eu"
+                ]
               }
             ],
             "Assembly:Haecksen": [

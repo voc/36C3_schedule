@@ -3525,7 +3525,7 @@
                 "track": "Stage",
                 "type": "lightning_talk",
                 "language": "",
-                "abstract": "",
+                "abstract": "Introduction to decentral.community, and to the Critical Decentralisation Cluster at 36C3.",
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
@@ -3575,7 +3575,12 @@
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 27,
+                    "public_name": "parasew"
+                  }
+                ],
                 "links": [],
                 "attachments": []
               },
@@ -15406,7 +15411,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "file"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/129.html",

@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 02:10</version>
+  <version>find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.6; chaoszone 0.7; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 02:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -4625,6 +4625,32 @@ Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at
         <attachments/>
         <answers/>
       </event>
+      <event id="765" guid="9a7df7a7-9bce-5dba-8f13-0f8c54e84536">
+        <logo/>
+        <date>2019-12-27T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>ChaosZone Bühne</room>
+        <slug>SULAC9</slug>
+        <url>https://cfp.chaoszone.cz/36c3/talk/SULAC9/</url>
+        <title>Anti-governmental and anticapitalist protests in Chile</title>
+        <subtitle/>
+        <track/>
+        <type>Vortrag 60min  (inkl. Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Presentation on the recent protests in Chile from the anarchist perspective</abstract>
+        <description>Uprising in $hile without leaders and parties. Conversation about what's going on in the Chilean region. Some keys to understand the present situation and how is the protest organise.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="13">Anarchist Black Cross Dresden</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="736" guid="791fd76f-3515-59e5-b342-dc3dafabb694">
         <logo>/media/36c3/images/V83NXN/Thumbnail-light.png</logo>
         <date>2019-12-27T15:00:00+01:00</date>
@@ -7048,14 +7074,14 @@ The DIYBio community is a network of Do-It-Yourself and Do-It-Together biolog
         </links>
       </event>
       <event id="1407" guid="c41673f7-fa3c-4eac-ba52-56774914b587">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:From_growing_Mushrooms_to_a_open_Microbiology_Labotory</url>
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:From_growing_Mushrooms_to_a_open_Microbiology_Laboratory</url>
         <logo/>
         <date>2019-12-27T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>1:00</duration>
         <room>Studio Datsche</room>
-        <slug>36c3-1407-session_from_growing_mushrooms_to_a_open_microbiology_labotory</slug>
-        <title>From growing Mushrooms to a open Microbiology Labotory</title>
+        <slug>36c3-1407-session_from_growing_mushrooms_to_a_open_microbiology_laboratory</slug>
+        <title>From growing Mushrooms to a open Microbiology Laboratory</title>
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
@@ -7343,6 +7369,30 @@ Since ex-Teppich, interest of having a Hacker- and Makerspace in Erlangen has sp
       </event>
     </room>
     <room name="Assembly:Digitalcourage">
+      <event id="1500" guid="acc21a3f-de26-47d7-8f8e-c9c40a238159">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence</url>
+        <logo/>
+        <date>2019-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Digitalcourage</room>
+        <slug>36c3-1500-session_hacking_licence</slug>
+        <title>Hacking Licence</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Your daily basic hacking learning lesson.
+We offer instructions for "Damn Vulnerable Web Application" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten täglich „Damn Vulnerable Web Application“ ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, für mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitslücken der Webprogrammierung (z.B. schlechte Passwörter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erhältst am Ende einen Hacking-Führerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Geräte ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen könnt.</description>
+        <persons>
+          <person id="0">Chpietsch</person>
+          <person id="0">CryptGoat</person>
+        </persons>
+        <links>
+          <link>https://digitalcourage.de/</link>
+        </links>
+      </event>
       <event id="1497" guid="0a007e39-843d-45b9-ae06-adbac0ed7d19">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence</url>
         <logo/>
@@ -7367,38 +7417,14 @@ We offer instructions for "Damn Vulnerable Web Application" daily. At least for 
           <link>https://digitalcourage.de/</link>
         </links>
       </event>
-      <event id="1498" guid="2a3b3115-4671-5a80-a3f7-2d7c8affa8f8">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence</url>
-        <logo/>
-        <date>2019-12-27T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Digitalcourage</room>
-        <slug>36c3-1498-session_hacking_licence</slug>
-        <title>Hacking Licence</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Your daily basic hacking learning lesson.
-We offer instructions for "Damn Vulnerable Web Application" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten täglich „Damn Vulnerable Web Application“ ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, für mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitslücken der Webprogrammierung (z.B. schlechte Passwörter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erhältst am Ende einen Hacking-Führerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Geräte ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen könnt.</description>
-        <persons>
-          <person id="0">Chpietsch</person>
-          <person id="0">CryptGoat</person>
-        </persons>
-        <links>
-          <link>https://digitalcourage.de/</link>
-        </links>
-      </event>
-      <event id="1499" guid="e33c0d1c-60de-55c5-8d0f-7009684e41e3">
+      <event id="1501" guid="491a16ab-8387-4ac5-9e22-3effaf6b65e7">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence</url>
         <logo/>
         <date>2019-12-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>1:00</duration>
         <room>Assembly:Digitalcourage</room>
-        <slug>36c3-1499-session_hacking_licence</slug>
+        <slug>36c3-1501-session_hacking_licence</slug>
         <title>Hacking Licence</title>
         <subtitle/>
         <track>self organized sessions</track>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; lounges; chaos-west 1.0; open-infra 12; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 00:58</version>
+  <version>find; lounges; chaos-west 1.0; open-infra 12; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 01:05</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -18,8 +18,8 @@
         <start>11:00</start>
         <duration>00:30</duration>
         <room>Ada</room>
-        <slug>36c3-11223-opening_ceremony_de</slug>
-        <title>Opening Ceremony (de)</title>
+        <slug>36c3-11223-opening_ceremony</slug>
+        <title>Opening Ceremony</title>
         <subtitle/>
         <track>CCC</track>
         <type>lecture</type>
@@ -16404,10 +16404,10 @@ Neumann, Linus (2019): „Wenn Hacker Menschen hacken“ in: Report Psychologie 
 Der Arzt speichert alle Befunde samt Röntgen Bilder in der elektronischen Patientenakte (ePA) ab, kommuniziert verschlüsselt mit anderen Ärzten über die „Sichere Kommunikation zwischen Leistungserbringer“ (KOM-LE), der Medikationsplan ist digital verfügbar (eMP), das Rezept wird beim Apotheker digital eingelöst (E-Rezept) und im Notfall sind relevante Gesundheitsdaten (NFDM) auf der elektronischen Gesundheitskarte (eGK) des Patienten abgespeichert. So soll der digitale Arztbesuch der Zukunft aussehen.&#13;
 Allerdings ist nach 15 Jahren Entwicklung und 2 Milliarden Euro Investitionen nur ein Dienst der TI online, das Versichertenstammdatenmanagement (VSDM). Damit können die Stammdaten des Patienten, bspw. Adresse und Krankenkasse online beim Arzt aktualisiert werden, ohne Austausch der elektronischen Gesundheitskarte.&#13;
 Nachdem dieser Dienst nun eingeführt wurde sollen zeitnah die nächsten oben aufgeführten Dienste online gehen. Die Spezifikationen, Zulassungsunterlagen sowie Feldtestkonzepte für diese Dienste sind dafür weitestgehend fertig.&#13;
-Parallel zu der von der Politik und Gematik getriebenen Entwicklung setzten sich technik-affine Personen wie bspw. Thomas Maus mit der Technik auseinander und zeigten viele Probleme und ungelöste Fragestellungen. Nachdem die TI nun größtenteils online ist und die ersten Dienste in der Praxis genutzt werden ist es an der Zeit sich die konkrete Umsetzung anzuschauen, zu evaluieren und bei Bedarf entsprechend zu verbessern.&#13;
+Parallel zu der von der Politik und Gematik getriebenen Entwicklung setzten sich technik-affine Personen wie bspw. Thomas Maus mit der Technik auseinander und zeigten potentielle Probleme und ungelöste Fragestellungen. Nachdem die TI nun größtenteils online ist und die ersten Dienste in der Praxis genutzt werden ist es an der Zeit sich die konkrete Umsetzung anzuschauen, zu evaluieren und bei Bedarf entsprechend zu verbessern.&#13;
 &#13;
 Dieser Vortrag soll einen aktuellen Überblick auf die Telematikinfrastruktur geben. Es werden die bestehenden Dienste (VSDSM) sowie die schon spezifizierten Dienste wie KOM-LE oder ePA vorgestellt. Insbesondere wird auf die Sicherheit der verschiedenen Systeme eingegangen. Die Schutzziele sowie die spezifizierten Methoden um diese Ziele zu erreichen werden dargestellt und grob analysiert. &#13;
-Dabei zeigt sich dass die TI vor allem ein sehr komplexes System mit aktuell über 7500 Seiten Spezifikationen und mehr als 1000 Seiten sogenannter Konzepten ist.&#13;
+Dabei zeigt sich dass die TI vor allem ein sehr komplexes System mit aktuell knapp 8000 Seiten Spezifikationen plus gute 1000 Seiten Konzepten ist.&#13;
 Dazu ist das Projekt ein sogenanntes Running Target mit regelmäßigen Updates der Spezifikationen. Diese werden entweder durch Änderungen der Stand der Technik, oder durch Wünsche von Seiten der Politik, meist durch Gesetzte, in das Projekt hereingetragen.</description>
         <recording>
           <license/>
@@ -16417,7 +16417,6 @@ Dazu ist das Projekt ein sogenanntes Running Target mit regelmäßigen Updates d
           <person id="9222">Christoph Saatjohann</person>
         </persons>
         <links>
-          <link href="https://events.ccc.de/congress/2005/fahrplan/attachments/640-Gesundheitstelematik22C3v1.0.pdf">Thomas Maus 2005 über die TI</link>
           <link href="https://fachportal.gematik.de/spezifikationen/">TI Spezifikationen</link>
         </links>
         <attachments/>
@@ -16693,8 +16692,12 @@ Schauen wir mal, was wir so finden.</description>
         <persons>
           <person id="7606">manuel</person>
         </persons>
-        <links/>
-        <attachments/>
+        <links>
+          <link href="https://github.com/mikesierra7/36C3_Klima">GitHub: Beispiel Skripte (Englisch)</link>
+        </links>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/044/original/Ressources.pdf?1577391387">Ressources</attachment>
+        </attachments>
       </event>
       <event id="10682" guid="d3c6b3a2-08ae-4208-9002-332d237ef88e">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10682.html</url>
@@ -16712,13 +16715,13 @@ Schauen wir mal, was wir so finden.</description>
         <abstract>So wie Farnpflanzen ihre Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren, auf dass sie dort auf fruchtbaren Boden fallen, werden unsere 8 Expert*innen ihr Nerd- und Fach-Wissen weitergeben – spektakulär, wirkungsvoll und unterhaltsam. So bunt wie die besten Slams, so dicht wie die besten Lightning Talks: 8 Antworten auf die Frage, warum Techies und Ökos zusammengehören.</abstract>
         <description>Bei der Bits&amp;Bäume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und Lösungsansätze zu erklären, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste „Sporangium“ hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. Für den C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?&#13;
 &#13;
-Speaker*innen:&#13;
+Speaker*innen (A-Z...äh...V!):&#13;
 * Anja Höfner – Das Märchen von der Dematerialisierung durch Technik &#13;
-* B.B. Manifesti &amp; der Chor der Vermummten: Wir fordern! Das Bits&amp;Bäume-Manifest &#13;
+* Elenos Manifesti &amp; der Chor der Vermummten: Wir fordern! Das Bits&amp;Bäume-Manifest &#13;
 * Carina Haupt: Nachhaltige Softwareentwicklung (für weniger explodierende Raketen) &#13;
 * Isabella Hermann: Utopia Outer Space? Die Zukunft der Menschheit in Science-Fiction-Filmen &#13;
 * joliyea – Raum für Wissen. Wo wir uns treffen, um die Welt zu retten &#13;
-* Kathrin Henneberger – Klimawandel?! Echt jetzt?!!! &#13;
+* Kathrin Henneberger – Ja, Klimakrise! Immernoch!!&#13;
 * Lisa Passing: Ökostrom != Ökostrom. Down the green energy rabbit hole &#13;
 * Viktor Schlüter: Datenschutz? Klimaschutz? Zukunft! &#13;
 &#13;
@@ -17870,23 +17873,19 @@ The talk will show the details of the Wifibroadcast protocol, the changes to the
         <track>Art &amp; Culture</track>
         <type>lecture</type>
         <language>de</language>
-        <abstract>Simon: Kann künstliche Intelligenz Kunst erzeugen? &#13;
-Florina: Können Menschen von künstlich intelligenten Systemen erzeugte Kunst verstehen?&#13;
-Simon: Ist Kunst ein Weg zu neuen Stufen eines kybernetischen Verstandes? &#13;
-Florina: Wie können Mensch und Maschine sich in künstlerischen Prozessen einander verstehen lernen? &#13;
-Simon: Derr Stand der KI-Kunst ist keine Kunst oder keine KI.&#13;
-Florina: Ein schwer zu bestimmender Standpunkt, da das Verständnis was Kunst ist von unserer Fähigkeit abhängt sie als solche anzunehmen.&#13;
-Simon: Was ist zu erwarten?&#13;
-Florina: Wir werden mit unserer menschlichen Eitelkeit konfrontiert werden, nicht die Einzigen zu sein, die schöpferisch und auch künstlerische Relevanz in Betrachtern auslösen. Dies liegt mitunter an unseren bisherigen Kunstbegriffen und -verständnissen, die oftmals mit Intentionalität assoziiert sind.&#13;
+        <abstract>Kann künstliche Intelligenz Kunst erzeugen? &#13;
+Können Menschen von künstlich intelligenten Systemen erzeugte Kunst verstehen? Ist Kunst ein Weg zu neuen Stufen eines kybernetischen Verstandes? &#13;
+Der Stand der KI-Kunst ist keine Kunst oder keine KI.&#13;
+Aber wir werden mit unserer menschlichen Eitelkeit konfrontiert werden, nicht die Einzigen zu sein, die schöpferisch und auch künstlerische Relevanz in Betrachtern auslösen. Dies liegt mitunter an unseren bisherigen Kunstbegriffen und -verständnissen, die oftmals mit Intentionalität assoziiert sind.&#13;
 Eliza: Warum?&#13;
-Florina Speth und Simon Hegelich widmen sich diesen Fragen in einem dialogischen Gespräch, wobei sie ihre großen Leidenschaften;- Kunst, maschinelles Lernen, Hegelsche Dialektik, Zukunftsforschung, Science Fiction, Kybernetik und Transhumanismus- der Erweiterung durch Diskurs unterziehen.</abstract>
-        <description>Künstlich intelligente Systeme werden seit den 70er Jahren zunehmend  in künstlerischen Schaffensprozesse einbezogen. Ob Computer auch autonom Kunst generieren können, ist keine Frage der Leistungsfähigkeit solcher Systeme, es wirft vielmehr die Frage auf, inwieweit tradierte Kunstbegriffe neu gedacht werden können. Die Beschäftigung mit KI und Kunst birgt im Vergleich zu laufenden KI-Debatten eine Reihe zusätzlicher Denkfreiheitsgrade: Sie ist erfahrbar! Gerade weil Kunst als Konzept schwierig zu fassen ist, uns gleichzeitig Künstlerisches inspiriert, zum Spekulieren, Träumen und Empfinden anregt, lässt sich vor diesem Hintergrund ganz anders über KIs und ihre Potentiale diskutieren. Unter Einbezug des technischen Standes derzeitiger Deep Learning Systeme und der eigenen künstlerischen Erfahrung fächern wir diese Potentiale auf.&#13;
+Simon Hegelich widmen sich diesen Fragen und zeigt eigene (?) Werke (Videos, Bilder, Gedichte), die mit KI erzeugt wurden, wobei er seine großen Leidenschaften;- Kunst, maschinelles Lernen, Hegelsche Dialektik, Science Fiction, Kybernetik und Transhumanismus- der Erweiterung durch Diskurs unterzieht.</abstract>
+        <description>Künstlich intelligente Systeme werden seit den 70er Jahren zunehmend  in künstlerischen Schaffensprozesse einbezogen. Ob Computer auch autonom Kunst generieren können, ist keine Frage der Leistungsfähigkeit solcher Systeme, es wirft vielmehr die Frage auf, inwieweit tradierte Kunstbegriffe neu gedacht werden können. Die Beschäftigung mit KI und Kunst birgt im Vergleich zu laufenden KI-Debatten eine Reihe zusätzlicher Denkfreiheitsgrade: Sie ist erfahrbar! Gerade weil Kunst als Konzept schwierig zu fassen ist, uns gleichzeitig Künstlerisches inspiriert, zum Spekulieren, Träumen und Empfinden anregt, lässt sich vor diesem Hintergrund ganz anders über KIs und ihre Potentiale diskutieren. Unter Einbezug des technischen Standes derzeitiger Deep Learning Systeme und der eigenen künstlerischen Erfahrung werden diese Potentiale aufgefächert.&#13;
 Wir stellen den Diskurs um Grundfragen zum Verhältnis Mensch-KI-Kunst neue Fragen diametral gegenüber: &#13;
 Kann künstliche Intelligenz Kunst erzeugen?&#13;
 Wie können wir Kunst von künstlich intelligenten Systemen verstehen?&#13;
 Kann Kunst KI erzeugen und versteht das noch jemand?&#13;
 &#13;
-Florina Speth (Zukunftsforscherin, Multiinstrumentalistin, Cellistin, Komponistin experimenteller Musik) und Simon Hegelich (KI-Entwickler, Philosoph, Professor für Political Data Science, Videoartist und Synthinerd) widmen sich einem dialogischen Diskurs und schmeißen ihre großen Leidenschaften zusammen: Kunst, maschinelles Lernen, Hegelsche Dialektik, Zukunftsforschung, Science Fiction, Kybernetik und Transhumanismus. Es könnte explosiv werden.</description>
+Simon Hegelich (KI-Entwickler, Philosoph, Professor für Political Data Science, Videoartist und Synthinerd) widmet sich diesen Fragen in eine Präsentation und schmeißt seine großen Leidenschaften zusammen: Kunst, maschinelles Lernen, Hegelsche Dialektik, Science Fiction, Kybernetik und Transhumanismus. Es könnte explosiv werden.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -17895,7 +17894,6 @@ Florina Speth (Zukunftsforscherin, Multiinstrumentalistin, Cellistin, Komponisti
           <person id="9298">Simon Hegelich</person>
         </persons>
         <links>
-          <link href="https://soundcloud.com/florinaspeth">Soundcloud Florina</link>
           <link href="https://www.youtube.com/watch?v=mgSQv0IsVvM">TEDx Talk Artificial Spirits</link>
           <link href="http://politicaldatascience.blogspot.com/p/blog-page.html">Bilder TensorFloys Projekt</link>
         </links>

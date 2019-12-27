@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.12; chaoszone 0.7; komona 0.12; sendezentrum 2.6; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 17:30",
+    "version": "hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.12; chaoszone 0.7; komona 0.12; sendezentrum 2.6; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 17:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -9045,7 +9045,7 @@
                 "subtitle": "Wie endet der Kapitalismus?",
                 "track": "self organized sessions",
                 "type": "other",
-                "language": "en",
+                "language": "de",
                 "abstract": "",
                 "description": "Ewiges Wachstum - Wie endet der Kapitalismus?\nSYSTEM ERRORWie endet der Kapitalismus?Es ist verr\u00fcckt: Wir sehen die schwindenden Regenw\u00e4lder und Gletscher, wissen um die Endlichkeit der Natur und sind dennoch wie besessen vom Wirtschaftswachstum. Warum treiben wir das Wachstum immer weiter, obwohl wir wissen, dass man auf unserem endlichen Planeten nicht unendlich wachsen kann? SYSTEM ERROR sucht Antworten auf diesen gro\u00dfen Widerspruch unserer Zeit und macht begreifbar, warum trotzdem alles so weiter geht wie gehabt. Der Film zeigt die Welt aus der Perspektive von Menschen, die von den M\u00f6glichkeiten des Kapitalismus fasziniert sind. Ob europ\u00e4ische Finanzstrategen, amerikanische Hedgefondsmanager oder brasilianische Fleischproduzenten: Eine Welt ohne eine expandierende Wirtschaft k\u00f6nnen, d\u00fcrfen oder wollen sie sich gar nicht erst vorstellen.SYSTEM ERROR beleuchtet bisher h\u00e4ufig verborgen gebliebene Zusammenh\u00e4nge und legt die selbstzerst\u00f6rerischen Zw\u00e4nge des Systems offen - einem System, an dem wir alle teilhaben, als Besch\u00e4ftigte, Anleger oder Konsumenten. Denn der Kapitalismus durchdringt unaufh\u00f6rlich immer mehr Lebensbereiche, verschlingt die Natur und gr\u00e4bt sich am Ende selbst das Wasser ab \u2013 so wie es Karl Marx schon vor 150 Jahren prophezeit hat. Die Frage ist: Sind wir tats\u00e4chlich bereit f\u00fcr den Kapitalismus alles zu opfern?",
                 "persons": [
@@ -9071,7 +9071,7 @@
                 "subtitle": "DEIN SMARTPHONE IST SCHON HIER",
                 "track": "self organized sessions",
                 "type": "other",
-                "language": "en",
+                "language": "de",
                 "abstract": "",
                 "description": "Die R\u00fcckseite deines Konsums\nWELCOME TO SODOM - DEIN SMARTPHONE IST SCHON HIERDer Dokumentarfilm \u201eWelcome to Sodom\u201c l\u00e4sst die Zuschauer hinter die Kulissen von Europas gr\u00f6\u00dfter M\u00fcllhalde mitten in Afrika blicken und portraitiert die Verlierer der digitalen Revolution. Dabei stehen nicht die Mechanismen des illegalen Elektroschrotthandels im Vordergrund, sondern die Lebensumst\u00e4nde und Schicksale von Menschen, die am untersten Ende der globalen Wertsch\u00f6pfungskette stehen. Die M\u00fcllhalde von Agbogbloshie wird h\u00f6chstwahrscheinlich auch letzte Destination f\u00fcr die Tablets, Smartphones und Computer sein, die wir morgen kaufen!",
                 "persons": [
@@ -9906,13 +9906,13 @@
                 "room": "Borg",
                 "slug": "BGNPT3",
                 "url": "https://c3lt.de/36c3/talk/BGNPT3/",
-                "title": "Learning from Open Hardware: DevOps and Continuous Integration for the Production of Big Stuff",
+                "title": "Badge Magic",
                 "subtitle": "",
                 "track": "Hardware & Making",
                 "type": "Lightning Talk",
                 "language": "en",
-                "abstract": "What is Missing to Prototype and Make Big Machines, Cars, Trucks, Spaceships Really Fast?",
-                "description": "Continuous Integration was a big buzzword with software projects already years ago. In projects as our Open Hardware Pocket Science Lab we take the idea of Development Operations a step further and apply these concepts to hardware. The increased speed of development and production with a click almost feels like automatic deployment. What are the next steps to apply this to industrial machine production and solve problems of our times such as the lack of sustainable development?",
+                "abstract": "Magically Create Text and Cliparts on LED Name Badges using Bluetooth",
+                "description": "Badge Magic is a project born out of the desire to open up LED mini badges and reprogram them with an open source solution with features not found elsewhere. In recent versions we added a lot of features like drawing of cliparts and additional language support. Through an Android phone the user can add scrolling symbols and text on LED name badges through Bluetooth. The app provides options to portray names, clipart and simple animations on LED badges.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -27314,6 +27314,27 @@
                     "code": "XN7WY3",
                     "public_name": "Johnny Parks",
                     "biography": "Als Aktivist aktiv bei dem B\u00fcndnis noPAG - nein zum bayrischen Polizeiaufgabengesetz und dem daraus entstandenen Jugenb\u00fcndnis noPAG-Jugend. Desweiteren seit Oktober Pressesprecher f\u00fcr das B\u00fcndnis Ende Gel\u00e4nde.",
+                    "answers": []
+                  },
+                  {
+                    "id": 60,
+                    "code": "PMWCAR",
+                    "public_name": "Maria",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 61,
+                    "code": "Q9ZREE",
+                    "public_name": "Magdalena Holzapfel",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 62,
+                    "code": "EUB98V",
+                    "public_name": "Mundo",
+                    "biography": null,
                     "answers": []
                   }
                 ],

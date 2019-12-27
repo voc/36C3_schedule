@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra _15; wikipaka 0.13; chaoszone 0.7; komona 0.13; sendezentrum 2.7; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 20:00",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra _15; wikipaka 0.13; chaoszone 0.7; komona 0.14; sendezentrum 2.7; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 20:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -6213,8 +6213,8 @@
                 "id": 859,
                 "guid": "e28d609f-4fcc-52c0-9b78-eef74f91a0f2",
                 "logo": "/media/36c3/images/LRLU93/logo.png",
-                "date": "2019-12-27T18:05:00+01:00",
-                "start": "18:05",
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
                 "duration": "00:30",
                 "room": "cinopolis",
                 "slug": "LRLU93",
@@ -16779,6 +16779,38 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              },
+              {
+                "id": 860,
+                "guid": "ef6c6340-4780-5745-974a-83cb557906bc",
+                "logo": "",
+                "date": "2019-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "01:00",
+                "room": "dezentrale*",
+                "slug": "7ZUVWG",
+                "url": "https://talks.komona.org/36c3/talk/7ZUVWG/",
+                "title": "TransHackMeeting assembly",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "We'll meet to talk about the next transhackmeeting this summer.\r\n\r\nhttps://trans.hackmeeting.org",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 58,
+                    "code": "FDFYN7",
+                    "public_name": "meskio",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "1Komona cinopolis": [
@@ -16871,6 +16903,40 @@
                     "code": "AKB7BV",
                     "public_name": "Taulex",
                     "biography": "Math University Student from Augsburg.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
+            "1Komona Boredome": [
+              {
+                "id": 870,
+                "guid": "37b34e9d-54a9-585a-b369-34de7b5c8a2b",
+                "logo": "/media/36c3/images/YKCKWY/DF24A449-59B6-4412-8AE2-4E7341FE003A.jpeg",
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "02:00",
+                "room": "Boredome",
+                "slug": "YKCKWY",
+                "url": "https://talks.komona.org/36c3/talk/YKCKWY/",
+                "title": "Free Music Jam",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "Free Participation Music Jam",
+                "description": "Bing anything wich make \u201cnice\u201d noises and join \u201cTHE DOME Vol. 1000\u201d",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 67,
+                    "code": "DRUL9J",
+                    "public_name": "Roman Steinmetz",
+                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -28075,6 +28141,45 @@
             ],
             "1Komona dezentrale*": [
               {
+                "id": 867,
+                "guid": "8c9648a1-e391-55a5-8de1-cfb2c421636f",
+                "logo": "",
+                "date": "2019-12-29T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "01:00",
+                "room": "dezentrale*",
+                "slug": "ACUSVM",
+                "url": "https://talks.komona.org/36c3/talk/ACUSVM/",
+                "title": "Relationship Anarchy: Beginners' Meetup",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "A Meetup for those who are new to or interested in relationship anarchy, and those who would join us in answering questions for beginners",
+                "description": "Relationship anarchy is a form of non-monogamy where people try to avoid power hierarchies in the way they relate to other people. In this session we want to introduce the basics of relationship anarchy and answer some questions for those who are new to this concept.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 45,
+                    "code": "EWPCAJ",
+                    "public_name": "liz",
+                    "biography": "",
+                    "answers": []
+                  },
+                  {
+                    "id": 57,
+                    "code": "8XCY93",
+                    "public_name": "Izzy",
+                    "biography": "Izzy (she/her). \r\nStudying a social science, liking computers. Also liking (relationship) anarchy.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 844,
                 "guid": "4233d8c9-104f-5947-b302-0b4811660c15",
                 "logo": "",
@@ -29499,7 +29604,7 @@
                 "type": "other",
                 "language": "",
                 "abstract": "",
-                "description": "\n",
+                "description": "\nIn unserer westlichen Sozialisierung herrscht ein Mangel an M\u00f6glichkeiten des k\u00f6rperlichen Austausches, der sich als permanenter Defizit auf das Befinden des Einzelnen auswirkt. Es existieren R\u00e4ume f\u00fcr verbalen Austausch, doch kaum gibt es Konventionen f\u00fcr Ber\u00fchrung von K\u00f6rpern bzw. wird diese im Erwachsenenalter haupts\u00e4chlich in Zusammenhang mit sexueller Attraktion gestellt. Ich untersuche Worte und Begriffe von K\u00f6rper und K\u00f6rperlichkeit, beobachte ihre Wirkungsweisen und Interpretationsspielr\u00e4ume und suche nach M\u00f6glichkeiten im auditiven und visuellen Gestalten und im Verschieben von Verst\u00e4ndniskonventionen.",
                 "persons": [
                   {
                     "id": 0,
@@ -29525,7 +29630,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "\n",
+                "description": "\nwhat if robots can help out with care-work?how it feels if a mashine cuddles you?amelie goldfu\u00df will show us.",
                 "persons": [
                   {
                     "id": 0,
@@ -29655,7 +29760,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "\n",
+                "description": "\nLearn the art of reading artificial intelligence right out of their open hands. In this workshop we will focus on bias in machine learning and our own perception. Through the lens of intuition we observe and discuss occult datasets. No prior knowledge required, everybody is welcome!",
                 "persons": [
                   {
                     "id": 0,

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.7; chaoszone 0.7; komona 0.9; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 13:10",
+    "version": "find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.7; chaoszone 0.7; komona 0.9; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 13:20",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -3836,7 +3836,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "This workshop is for all who only have a vague idea or might not know at all what an \"IP address\" is. We'll learn how the Internet works by making Internet traffic visible. This is a beginner's workshop. If you toyed with Wireshark before, you will be bored to hell in this workshop.\nInvisible to the casual user, lots of computers communicate and work together to deliver the kitten videos you're craving. In this workshop, we use the tool Wireshark (available for all operating systems) to make this communication visible. In lots of life demos, we'll learn that the domain names we're familiar with, like ccc.de or fridaysforfuture.de, are a thin layer around IP addresses, which are the real addresses computers use to identify themselves. We'll uncover which hidden information your browser sends along each request, and we'll see how easy it is to intercept traffic.This workshop is for everybody who is interested in knowing how the Internet works, in which form computers talk to each other. Absolutely no prerequisites are required. People who are familiar with network stacks will be bored to hell.Note to the infrastructure team: In the final part of the talk, we'll perform a standard ARP spoofing attack to intercept traffic from a volunteer. Of course we won't use the congress network for this. I'll open an own hotspot.",
+                "description": "This workshop is for all who only have a vague idea or might not know at all what an \"IP address\" is. We'll learn how the Internet works by making Internet traffic visible. This is a beginner's workshop. If you toyed with Wireshark before, you will be bored to hell in this workshop.\nInvisible to the casual user, lots of computers communicate and work together to deliver the kitten videos you're craving. In this workshop, we use the tool Wireshark (available for all operating systems) to make this communication visible. In lots of life demos, we'll learn that the domain names we're familiar with, like ccc.de or fridaysforfuture.de, are a thin layer around IP addresses, which are the real addresses computers use to identify themselves. We'll uncover which hidden information your browser sends along each request, and we'll see how easy it is to intercept traffic.This workshop is for everybody who is interested in knowing how the Internet works, in which form computers talk to each other. Absolutely no prerequisites are required. People who are familiar with network stacks will be bored to hell.Note to the infrastructure team: In the final part of the talk, we'll perform a standard ARP spoofing attack to intercept traffic from a volunteer. Of course we won't use the congress network for this. I'll open an own hotspot.* '''[https://www.speicherleck.de/iblech/stuff/wireshark-36c3.pdf Slides of the talk]'''* Commands which appeared in the talk: ifconfig, ip a, ping 8.8.8.8, echo 1 > /proc/sys/net/ipv4/ip_forward,* Questions are welcome! +49 176 95110311, iblech@speicherleck.de",
                 "persons": [
                   {
                     "id": 0,
@@ -8205,7 +8205,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Fomu, the FPGA in your USB Port\n[[File:Fomu.png|300px|right|Fomu Logo]]<br><br><span style=\"font-size: 30px; font-style: bold;\">Signup at tables \u2192 \u2192 \u2192</span><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Fomu workshop!</h1></span><span style=\"font-size: 30px; font-style: bold;\">Current version -> https://workshop.fomu.im/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">WIP new version -> https://fomu-workshop.rtfd.io/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">Please sit in the <b>Mammoth Space - (has Pink Lights)</b></span><br><br><br><ol> <li><span style=\"font-size: 20px;\">Workshop is <span style=\"font-color: red;\"><b>self</b></span> directed.</span></li> <li><span style=\"font-size: 20px;\">Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/</span></li> <li><span style=\"font-size: 20px;\">Complete set up</span></li> <li><span style=\"font-size: 20px;\">Get hardware from Mithro</span></li> <li><span style=\"font-size: 20px;\">Continue workshop</span></li> <li><span style=\"font-size: 20px;\">Raise your hand if you get stuck!</span></li></ol><br><br><br><br><br><br><br><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Hardware Pickup</h1></span><br><br><span style=\"font-size: 30px; text-align:center; \">[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]</span><br><br>{| style=\"color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;\" cellpadding=\"10\" cellspacing=\"0\" border=\"1\"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style=\"background-color:#ffffcc\"|- style=\"background-color:#ccffff\"! scope=\"row\" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]<br><small> <i>(while supply lasts)</small></i>| 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm)  || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || -|}<br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Sessions</h1></span><br><br>All sessions are the same!<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. <b>Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]</b><br><br>Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''<br><br>Hardware Hacking Area - Mammoth Space - Pink Lights<br><br>",
+                "description": "Fomu, the FPGA in your USB Port\n[[File:Fomu.png|300px|right|Fomu Logo]]<br><br><span style=\"font-size: 30px; font-style: bold;\">Signup at tables \u2192 \u2192 \u2192</span><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Fomu workshop!</h1></span><span style=\"font-size: 30px; font-style: bold;\">Current version -> https://workshop.fomu.im/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">WIP new version -> https://fomu-workshop.rtfd.io/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">Please sit in the <b>Mammoth Space - (has Pink Lights)</b></span><br><br><ol> <li><span style=\"font-size: 20px;\">Workshop is <span style=\"font-color: red;\"><b>self</b></span> directed.</span></li> <li><span style=\"font-size: 20px;\">Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/</span></li> <li><span style=\"font-size: 20px;\">Complete set up</span></li> <li><span style=\"font-size: 20px;\">Get hardware from Mithro</span></li> <li><span style=\"font-size: 20px;\">Continue workshop</span></li> <li><span style=\"font-size: 20px;\">Raise your hand if you get stuck!</span></li></ol><br><br><span style=\"font-size: 30px; font-style: bold;\">irc.freenode.net #tomu</span><br><br><br><br><br><br><br><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Hardware Pickup</h1></span><br><br><span style=\"font-size: 30px; text-align:center; \">[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]</span><br><br>{| style=\"color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;\" cellpadding=\"10\" cellspacing=\"0\" border=\"1\"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style=\"background-color:#ffffcc\"|- style=\"background-color:#ccffff\"! scope=\"row\" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]<br><small> <i>(while supply lasts)</small></i>| 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm)  || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || -|}<br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Sessions</h1></span><br><br>All sessions are the same!<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. <b>Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]</b><br><br>Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''<br><br>Hardware Hacking Area - Mammoth Space - Pink Lights<br><br>",
                 "persons": [
                   {
                     "id": 0,
@@ -8233,7 +8233,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Fomu, the FPGA in your USB Port\n[[File:Fomu.png|300px|right|Fomu Logo]]<br><br><span style=\"font-size: 30px; font-style: bold;\">Signup at tables \u2192 \u2192 \u2192</span><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Fomu workshop!</h1></span><span style=\"font-size: 30px; font-style: bold;\">Current version -> https://workshop.fomu.im/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">WIP new version -> https://fomu-workshop.rtfd.io/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">Please sit in the <b>Mammoth Space - (has Pink Lights)</b></span><br><br><br><ol> <li><span style=\"font-size: 20px;\">Workshop is <span style=\"font-color: red;\"><b>self</b></span> directed.</span></li> <li><span style=\"font-size: 20px;\">Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/</span></li> <li><span style=\"font-size: 20px;\">Complete set up</span></li> <li><span style=\"font-size: 20px;\">Get hardware from Mithro</span></li> <li><span style=\"font-size: 20px;\">Continue workshop</span></li> <li><span style=\"font-size: 20px;\">Raise your hand if you get stuck!</span></li></ol><br><br><br><br><br><br><br><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Hardware Pickup</h1></span><br><br><span style=\"font-size: 30px; text-align:center; \">[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]</span><br><br>{| style=\"color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;\" cellpadding=\"10\" cellspacing=\"0\" border=\"1\"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style=\"background-color:#ffffcc\"|- style=\"background-color:#ccffff\"! scope=\"row\" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]<br><small> <i>(while supply lasts)</small></i>| 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm)  || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || -|}<br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Sessions</h1></span><br><br>All sessions are the same!<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. <b>Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]</b><br><br>Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''<br><br>Hardware Hacking Area - Mammoth Space - Pink Lights<br><br>",
+                "description": "Fomu, the FPGA in your USB Port\n[[File:Fomu.png|300px|right|Fomu Logo]]<br><br><span style=\"font-size: 30px; font-style: bold;\">Signup at tables \u2192 \u2192 \u2192</span><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Fomu workshop!</h1></span><span style=\"font-size: 30px; font-style: bold;\">Current version -> https://workshop.fomu.im/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">WIP new version -> https://fomu-workshop.rtfd.io/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">Please sit in the <b>Mammoth Space - (has Pink Lights)</b></span><br><br><ol> <li><span style=\"font-size: 20px;\">Workshop is <span style=\"font-color: red;\"><b>self</b></span> directed.</span></li> <li><span style=\"font-size: 20px;\">Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/</span></li> <li><span style=\"font-size: 20px;\">Complete set up</span></li> <li><span style=\"font-size: 20px;\">Get hardware from Mithro</span></li> <li><span style=\"font-size: 20px;\">Continue workshop</span></li> <li><span style=\"font-size: 20px;\">Raise your hand if you get stuck!</span></li></ol><br><br><span style=\"font-size: 30px; font-style: bold;\">irc.freenode.net #tomu</span><br><br><br><br><br><br><br><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Hardware Pickup</h1></span><br><br><span style=\"font-size: 30px; text-align:center; \">[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]</span><br><br>{| style=\"color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;\" cellpadding=\"10\" cellspacing=\"0\" border=\"1\"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style=\"background-color:#ffffcc\"|- style=\"background-color:#ccffff\"! scope=\"row\" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]<br><small> <i>(while supply lasts)</small></i>| 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm)  || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || -|}<br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Sessions</h1></span><br><br>All sessions are the same!<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. <b>Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]</b><br><br>Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''<br><br>Hardware Hacking Area - Mammoth Space - Pink Lights<br><br>",
                 "persons": [
                   {
                     "id": 0,
@@ -8419,72 +8419,6 @@
             ],
             "Assembly:Digitalcourage": [
               {
-                "id": 1512,
-                "guid": "aa9a0908-79b0-432f-9836-e6259f487398",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
-                "logo": null,
-                "date": "2019-12-27T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1512-session_hacking_licence",
-                "title": "Hacking Licence",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Your daily basic hacking learning lesson.\nWe offer instructions for \"Damn Vulnerable Web Application\" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erh\u00e4ltst am Ende einen Hacking-F\u00fchrerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
-                    "public_name": "Chpietsch"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
-                    "public_name": "CryptGoat"
-                  }
-                ],
-                "links": [
-                  "https://digitalcourage.de/"
-                ]
-              },
-              {
-                "id": 1513,
-                "guid": "f89e3745-a382-571b-8087-8ad227f49478",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
-                "logo": null,
-                "date": "2019-12-27T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "1:00",
-                "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1513-session_hacking_licence",
-                "title": "Hacking Licence",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Your daily basic hacking learning lesson.\nWe offer instructions for \"Damn Vulnerable Web Application\" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erh\u00e4ltst am Ende einen Hacking-F\u00fchrerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
-                    "public_name": "Chpietsch"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
-                    "public_name": "CryptGoat"
-                  }
-                ],
-                "links": [
-                  "https://digitalcourage.de/"
-                ]
-              },
-              {
                 "id": 1500,
                 "guid": "acc21a3f-de26-47d7-8f8e-c9c40a238159",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
@@ -8494,6 +8428,39 @@
                 "duration": "1:00",
                 "room": "Assembly:Digitalcourage",
                 "slug": "36c3-1500-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.\nWe offer instructions for \"Damn Vulnerable Web Application\" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erh\u00e4ltst am Ende einen Hacking-F\u00fchrerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
+                    "public_name": "Chpietsch"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
+                    "public_name": "CryptGoat"
+                  }
+                ],
+                "links": [
+                  "https://digitalcourage.de/"
+                ]
+              },
+              {
+                "id": 1516,
+                "guid": "0cbc1099-d29f-4023-b962-8591e18ea8d1",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-12-27T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1516-session_hacking_licence",
                 "title": "Hacking Licence",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -8551,15 +8518,15 @@
                 ]
               },
               {
-                "id": 1514,
-                "guid": "603b0cf8-e5fa-5e6f-9f2b-67bd77537fea",
+                "id": 1517,
+                "guid": "c66833ca-c1dd-48c3-88c7-af43d1f37c18",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
                 "logo": null,
-                "date": "2019-12-27T21:00:00+01:00",
-                "start": "21:00",
+                "date": "2019-12-27T19:00:00+01:00",
+                "start": "19:00",
                 "duration": "1:00",
                 "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1514-session_hacking_licence",
+                "slug": "36c3-1517-session_hacking_licence",
                 "title": "Hacking Licence",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -8584,15 +8551,48 @@
                 ]
               },
               {
-                "id": 1515,
-                "guid": "e785cc93-d1d5-5296-8829-6e69f4f5878a",
+                "id": 1518,
+                "guid": "8c1c18ba-c8f0-43d0-8e1b-17a7e3271c6d",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
                 "logo": null,
-                "date": "2019-12-27T19:00:00+01:00",
-                "start": "19:00",
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
                 "duration": "1:00",
                 "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1515-session_hacking_licence",
+                "slug": "36c3-1518-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.\nWe offer instructions for \"Damn Vulnerable Web Application\" daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. At the end you'll get a driver's ... we mean ... hacking licence! It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ bzw. https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen und erh\u00e4ltst am Ende einen Hacking-F\u00fchrerschein! Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
+                    "public_name": "Chpietsch"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
+                    "public_name": "CryptGoat"
+                  }
+                ],
+                "links": [
+                  "https://digitalcourage.de/"
+                ]
+              },
+              {
+                "id": 1519,
+                "guid": "c05bfe1d-3909-458c-addd-17c1f13b6cba",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1519-session_hacking_licence",
                 "title": "Hacking Licence",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -18084,7 +18084,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Fomu, the FPGA in your USB Port\n[[File:Fomu.png|300px|right|Fomu Logo]]<br><br><span style=\"font-size: 30px; font-style: bold;\">Signup at tables \u2192 \u2192 \u2192</span><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Fomu workshop!</h1></span><span style=\"font-size: 30px; font-style: bold;\">Current version -> https://workshop.fomu.im/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">WIP new version -> https://fomu-workshop.rtfd.io/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">Please sit in the <b>Mammoth Space - (has Pink Lights)</b></span><br><br><br><ol> <li><span style=\"font-size: 20px;\">Workshop is <span style=\"font-color: red;\"><b>self</b></span> directed.</span></li> <li><span style=\"font-size: 20px;\">Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/</span></li> <li><span style=\"font-size: 20px;\">Complete set up</span></li> <li><span style=\"font-size: 20px;\">Get hardware from Mithro</span></li> <li><span style=\"font-size: 20px;\">Continue workshop</span></li> <li><span style=\"font-size: 20px;\">Raise your hand if you get stuck!</span></li></ol><br><br><br><br><br><br><br><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Hardware Pickup</h1></span><br><br><span style=\"font-size: 30px; text-align:center; \">[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]</span><br><br>{| style=\"color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;\" cellpadding=\"10\" cellspacing=\"0\" border=\"1\"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style=\"background-color:#ffffcc\"|- style=\"background-color:#ccffff\"! scope=\"row\" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]<br><small> <i>(while supply lasts)</small></i>| 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm)  || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || -|}<br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Sessions</h1></span><br><br>All sessions are the same!<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. <b>Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]</b><br><br>Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''<br><br>Hardware Hacking Area - Mammoth Space - Pink Lights<br><br>",
+                "description": "Fomu, the FPGA in your USB Port\n[[File:Fomu.png|300px|right|Fomu Logo]]<br><br><span style=\"font-size: 30px; font-style: bold;\">Signup at tables \u2192 \u2192 \u2192</span><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Fomu workshop!</h1></span><span style=\"font-size: 30px; font-style: bold;\">Current version -> https://workshop.fomu.im/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">WIP new version -> https://fomu-workshop.rtfd.io/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">Please sit in the <b>Mammoth Space - (has Pink Lights)</b></span><br><br><ol> <li><span style=\"font-size: 20px;\">Workshop is <span style=\"font-color: red;\"><b>self</b></span> directed.</span></li> <li><span style=\"font-size: 20px;\">Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/</span></li> <li><span style=\"font-size: 20px;\">Complete set up</span></li> <li><span style=\"font-size: 20px;\">Get hardware from Mithro</span></li> <li><span style=\"font-size: 20px;\">Continue workshop</span></li> <li><span style=\"font-size: 20px;\">Raise your hand if you get stuck!</span></li></ol><br><br><span style=\"font-size: 30px; font-style: bold;\">irc.freenode.net #tomu</span><br><br><br><br><br><br><br><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Hardware Pickup</h1></span><br><br><span style=\"font-size: 30px; text-align:center; \">[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]</span><br><br>{| style=\"color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;\" cellpadding=\"10\" cellspacing=\"0\" border=\"1\"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style=\"background-color:#ffffcc\"|- style=\"background-color:#ccffff\"! scope=\"row\" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]<br><small> <i>(while supply lasts)</small></i>| 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm)  || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || -|}<br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Sessions</h1></span><br><br>All sessions are the same!<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. <b>Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]</b><br><br>Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''<br><br>Hardware Hacking Area - Mammoth Space - Pink Lights<br><br>",
                 "persons": [
                   {
                     "id": 0,
@@ -23665,34 +23665,6 @@
                 ]
               },
               {
-                "id": 1510,
-                "guid": "e8634eac-e953-47be-b980-6d9ab97eebfc",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Git_bottom_up",
-                "logo": null,
-                "date": "2019-12-29T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "1:30",
-                "room": "Lecture room 11",
-                "slug": "36c3-1510-session_git_bottom_up",
-                "title": "Git bottom up",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "ever wanted to how git internals look?\nATTENTION: LOCATION IS STILL UNCLEAR, LOOKING FOR SOME FREE SPACERequirements:- If you like to follow along please clone https://github.com/wtjerry/gitShowAndTell_playgroundRepo.git- Some kind of a computer with a shell, git and an editor installed.Using git for keeping track of your code? Ever had a moment where you wanted to assault git for being /doing stupid? (yes i know, it definitely wasnt your fault)Now is the time: you may either stay at that level of knowlegde to not loose the chance to get angry at git again (no issues with that, everyone needs a scapegoat) or you could learn why git works the way it does (and sometimes does stupid stuff).This workshop might help you with the second.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Wtjerry",
-                    "public_name": "Wtjerry"
-                  }
-                ],
-                "links": [
-                  "https://github.com/wtjerry/gitShowAndTell/"
-                ]
-              },
-              {
                 "id": 1011,
                 "guid": "edac6192-3ec5-4810-b16f-2841228ac857",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksenplenum",
@@ -28455,7 +28427,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Fomu, the FPGA in your USB Port\n[[File:Fomu.png|300px|right|Fomu Logo]]<br><br><span style=\"font-size: 30px; font-style: bold;\">Signup at tables \u2192 \u2192 \u2192</span><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Fomu workshop!</h1></span><span style=\"font-size: 30px; font-style: bold;\">Current version -> https://workshop.fomu.im/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">WIP new version -> https://fomu-workshop.rtfd.io/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">Please sit in the <b>Mammoth Space - (has Pink Lights)</b></span><br><br><br><ol> <li><span style=\"font-size: 20px;\">Workshop is <span style=\"font-color: red;\"><b>self</b></span> directed.</span></li> <li><span style=\"font-size: 20px;\">Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/</span></li> <li><span style=\"font-size: 20px;\">Complete set up</span></li> <li><span style=\"font-size: 20px;\">Get hardware from Mithro</span></li> <li><span style=\"font-size: 20px;\">Continue workshop</span></li> <li><span style=\"font-size: 20px;\">Raise your hand if you get stuck!</span></li></ol><br><br><br><br><br><br><br><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Hardware Pickup</h1></span><br><br><span style=\"font-size: 30px; text-align:center; \">[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]</span><br><br>{| style=\"color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;\" cellpadding=\"10\" cellspacing=\"0\" border=\"1\"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style=\"background-color:#ffffcc\"|- style=\"background-color:#ccffff\"! scope=\"row\" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]<br><small> <i>(while supply lasts)</small></i>| 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm)  || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || -|}<br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Sessions</h1></span><br><br>All sessions are the same!<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. <b>Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]</b><br><br>Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''<br><br>Hardware Hacking Area - Mammoth Space - Pink Lights<br><br>",
+                "description": "Fomu, the FPGA in your USB Port\n[[File:Fomu.png|300px|right|Fomu Logo]]<br><br><span style=\"font-size: 30px; font-style: bold;\">Signup at tables \u2192 \u2192 \u2192</span><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Fomu workshop!</h1></span><span style=\"font-size: 30px; font-style: bold;\">Current version -> https://workshop.fomu.im/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">WIP new version -> https://fomu-workshop.rtfd.io/</span><br><br><span style=\"font-size: 30px; font-style: bold;\">Please sit in the <b>Mammoth Space - (has Pink Lights)</b></span><br><br><ol> <li><span style=\"font-size: 20px;\">Workshop is <span style=\"font-color: red;\"><b>self</b></span> directed.</span></li> <li><span style=\"font-size: 20px;\">Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/</span></li> <li><span style=\"font-size: 20px;\">Complete set up</span></li> <li><span style=\"font-size: 20px;\">Get hardware from Mithro</span></li> <li><span style=\"font-size: 20px;\">Continue workshop</span></li> <li><span style=\"font-size: 20px;\">Raise your hand if you get stuck!</span></li></ol><br><br><span style=\"font-size: 30px; font-style: bold;\">irc.freenode.net #tomu</span><br><br><br><br><br><br><br><br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Hardware Pickup</h1></span><br><br><span style=\"font-size: 30px; text-align:center; \">[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]</span><br><br>{| style=\"color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;\" cellpadding=\"10\" cellspacing=\"0\" border=\"1\"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style=\"background-color:#ffffcc\"|- style=\"background-color:#ccffff\"! scope=\"row\" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]<br><small> <i>(while supply lasts)</small></i>| 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm)  || 12:00 -> 12:30<br>17:00 -> 17:30 (5:00pm -> 5:30pm)<br>22:30 -> 23:00 (10:00pm->10:30pm) || -|}<br><br><span style=\"font-size: 40px; font-style: bold;\"><h1>Sessions</h1></span><br><br>All sessions are the same!<br><br>This workshop will be given multiple times (all sessions are <b>identical</b>). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. <b>Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]</b><br><br>Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).<br><br>''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''<br><br>Hardware Hacking Area - Mammoth Space - Pink Lights<br><br>",
                 "persons": [
                   {
                     "id": 0,
@@ -29228,6 +29200,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:402 Payment Required": [
+              {
+                "id": 1510,
+                "guid": "e8634eac-e953-47be-b980-6d9ab97eebfc",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Git_bottom_up",
+                "logo": null,
+                "date": "2019-12-29T12:45:00+01:00",
+                "start": "12:45",
+                "duration": "1:30",
+                "room": "Assembly:402 Payment Required",
+                "slug": "36c3-1510-session_git_bottom_up",
+                "title": "Git bottom up",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "ever wanted to how git internals look?\nATTENTION: LOCATION IS STILL UNCLEAR, LOOKING FOR SOME FREE SPACERequirements:- If you like to follow along please clone https://github.com/wtjerry/gitShowAndTell_playgroundRepo.git- Some kind of a computer with a shell, git and an editor installed.Using git for keeping track of your code? Ever had a moment where you wanted to assault git for being /doing stupid? (yes i know, it definitely wasnt your fault)Now is the time: you may either stay at that level of knowlegde to not loose the chance to get angry at git again (no issues with that, everyone needs a scapegoat) or you could learn why git works the way it does (and sometimes does stupid stuff).This workshop might help you with the second.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Wtjerry",
+                    "public_name": "Wtjerry"
+                  }
+                ],
+                "links": [
+                  "https://github.com/wtjerry/gitShowAndTell/"
+                ]
               }
             ],
             "Assembly:C-base / CCC-B / xHain": [

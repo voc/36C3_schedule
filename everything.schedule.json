@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.13; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 21:40",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 21:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -3437,7 +3437,8 @@
                   }
                 ],
                 "links": [
-                  "https://docs.google.com/presentation/d/1SRET00zlK8-jbwDSuPjmKNOL4gCwnX2KHSRCOui2WUE/edit?usp=sharing"
+                  "https://docs.google.com/presentation/d/1SRET00zlK8-jbwDSuPjmKNOL4gCwnX2KHSRCOui2WUE/",
+                  "https://github.com/Andruschenko/simple-react-native-app"
                 ]
               },
               {
@@ -12891,6 +12892,38 @@
             ],
             "WikiPaka WG: Esszimmer": [
               {
+                "id": 604,
+                "guid": "316426de-d3cf-5d5f-a9e2-be680fdd1916",
+                "logo": "",
+                "date": "2019-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "00:45",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "QT3DQD",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/QT3DQD/",
+                "title": "Subtitles Angelmeeting",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Introduction for the Subtitles Angletype.",
+                "description": "In the Subtitles Introduction Meeting we will tell you, what you have to do as a Subtitles Angel. Attending this meeting is necessary to become a Subtitles Angel.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 100,
+                    "code": "8J3NR3",
+                    "public_name": "Steini",
+                    "biography": "Mit-Organisator des Subtitles auf dem diesj\u00e4hrigen Congress.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 563,
                 "guid": "3a728f85-2ebd-5ed5-82bd-1f4b815bba42",
                 "logo": "/media/36c3/images/GMHREE/P3.png",
@@ -13018,6 +13051,45 @@
                     "code": "DXJG8B",
                     "public_name": "Andre Klapper",
                     "biography": "Developer Advocate at Wikimedia",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 564,
+                "guid": "2f4ba23c-de8a-5fd9-9829-fa4445eccc74",
+                "logo": "",
+                "date": "2019-12-28T14:30:00+01:00",
+                "start": "14:30",
+                "duration": "00:15",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "UAUKWZ",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/UAUKWZ/",
+                "title": "Amateurfunk, wasn das?",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Kurze Zusammenfassung \u00fcber ein extrem vielf\u00e4ltiges Hobby.",
+                "description": "Beim Amateurfunk geht es grundlegen darum, mit eigener Technik Funkverbindungen herzustellen. Dieses Hobby ist aber noch deutlich vielf\u00e4ltiger. Dazu geh\u00f6rt ein besonderer Amateurfunksport, Wettbewerbe, Not- und Katastrophenfunk oder der Selbstbau von Funkger\u00e4ten und Antennen. Auch der Funkkontakt an sich ist immer wieder spannend. So kann man bis nach Neuseeland, mit der Internationalen Raumstation, mit Satelliten oder auch mit dem Mond funken. Manche Funkamateure wandern auf Berge oder fahren auf unbewohnte Inseln um von dort funken zu k\u00f6nnen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 71,
+                    "code": "HHD3NU",
+                    "public_name": "Janek",
+                    "biography": "17 Jahre alt, baut gerne mit Mikrocontrollern und FPGAs rum",
+                    "answers": []
+                  },
+                  {
+                    "id": 63,
+                    "code": "9HYM3A",
+                    "public_name": "Noah",
+                    "biography": "ich bin noah",
                     "answers": []
                   }
                 ],
@@ -27466,6 +27538,38 @@
                 "answers": []
               },
               {
+                "id": 599,
+                "guid": "8d5820ef-5ad2-5061-8d53-515c40c75acb",
+                "logo": "",
+                "date": "2019-12-29T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "01:00",
+                "room": "WikiPaka WG: Bibliothek",
+                "slug": "FNFQKM",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/FNFQKM/",
+                "title": "Ridesharing: Warum wir offene Daten in offenen Standards brauchen, damit Mitfahren funktionieren kann",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Mitfahren funktioniert aktuell schlecht, und es w\u00fcrde besser mit offenen Daten und offen Standards gehen. Einen Erstaufschlag eines Datenstandards liegt vor, ebenso wie es erste Integrationen in Metasuchen gibt - und wir wollen diskutieren, wie es weitergehen kann.",
+                "description": "Es gibt gef\u00fchlt unendlich viele Mitfahr-B\u00f6rsen, und so verlieren sich Fahrer und Mitfahrer auf den Plattformen, so dass immer weniger Menschen in Deutschland mitgenommen werden. Ein Datenstandard und offene Daten sowie ein gemeinschaftliches Auftreten k\u00f6nnten die L\u00f6sung sein, m\u00fcsste aber von m\u00f6glichst vielen Plattformen unterst\u00fctzt werden. Ein Erstaufschlag eines Datenstandards ist im Projekt MetaMitfahrPort entstanden, aber das ist erst der erste Schritt: https://mmport.de/der-datenstandard/online-ansicht/ - es br\u00e4uchte vielmehr ein Open Source Software Environment f\u00fcr Mitfahren. Einzelne Plattformen gibt es bereits, die Mitfahr-Daten zusammenf\u00fchren. In diesem Workshop wollen wir diskutieren, was wir f\u00fcrs Mitfahren weitermachen k\u00f6nnen.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 38,
+                    "code": "8GKMBN",
+                    "public_name": "Ernesto",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 584,
                 "guid": "f3131c0f-4d45-536b-b106-e822d2abe188",
                 "logo": "/media/36c3/images/GVAD3D/bild2.png",
@@ -27522,6 +27626,38 @@
                     "code": "ZYZHQS",
                     "public_name": "Julia",
                     "biography": "Ich bin Julia und versuche seit 2018 bei Code for Osnabr\u00fcck zu programmieren, muss aber meistens allen m\u00f6glichen Menschen erstmal erkl\u00e4ren, warum offene Daten so unglaublich wichtig sind. Das mache ich aber sehr gerne. Au\u00dferdem bin ich seit Anfang 2019 im Community-Rat von Code for Germany.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 600,
+                "guid": "b124cc16-7ff5-55da-8235-a07732fb1ec1",
+                "logo": "",
+                "date": "2019-12-29T16:45:00+01:00",
+                "start": "16:45",
+                "duration": "00:15",
+                "room": "WikiPaka WG: Bibliothek",
+                "slug": "BRADWK",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/BRADWK/",
+                "title": "RFID-Karten f\u00fcr E-Autos sind unsicher, und man 1001 Sharing-Karten. Geht das mit SmartCards / OpenSC besser?",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Lades\u00e4ulen basieren immernoch auf Mifare Classic / RFID UIDs. Bei Sharing-Mobilit\u00e4t gibt es f\u00fcr jeden Anbieter eine eigene Karte. K\u00f6nnte offene SmartCard Infrastruktur auf Basis von OpenSC die L\u00f6sung sein? Oder was gibt es noch?",
+                "description": "Das Sicherheits-Problem von Ladeinfrastruktur ist wohlbekannt und war Thema auf dem 34C3: https://www.ccc.de/de/updates/2017/e-motor . Auf der anderen Seite gibt es immer mehr Sharing-Mobilit\u00e4t, und wenn diese RFID-Karten einsetzen, dann verschickt jeder Dienst seine eigene Karte. In beiden F\u00e4llen liegt es daran, dass die zumeist eingesetzten sicheren Karten auf symmetrischer Kryptografie basieren, was einen zur Karte passenden Key im Leser voraussetzt - und das funktioniert bei vielen Beteiligten nun einmal schlecht.\r\n\r\nIn diesem Workshop wollen wir recht offen dar\u00fcber diskutieren, ob Karten auf Basis asymmetrischer Kryptografie eine L\u00f6sung sein k\u00f6nnen, also Karten mit gesch\u00fctzten private Key, die aktiv Daten signieren k\u00f6nnen. Mit OpenSC g\u00e4be es eine offene L\u00f6sung, die eine Basis sein k\u00f6nnte. Ich habe ein bisschen Hardware zum Spielen mit und f\u00e4nd es spannend, wenn der Workshop in eine technische l\u00f6sungsorientierte Richtung ginge - rumranten ist zwar spa\u00dfig, ist mir aber zu wenig.\r\n\r\nIhr werdet von mir keine perfekte \u00dcbersicht / L\u00f6sung bekommen, da ich daf\u00fcr nicht genug Markt\u00fcbersicht habe, wohl aber einen kleinen Einblick. Aber die oben genannten Beispiele zeigen, dass auch der meist geschlossene Weg \"da drau\u00dfen\" keine so richtig gut brauchbare L\u00f6sungen bringt, und wo sollte eine sinnvolle L\u00f6sung entstehen wenn nicht hier?",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 38,
+                    "code": "8GKMBN",
+                    "public_name": "Ernesto",
+                    "biography": "",
                     "answers": []
                   }
                 ],

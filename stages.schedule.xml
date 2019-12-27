@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.13; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Europium; art-play 0.24; cdc 3</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Europium; art-play 0.24; cdc 3</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Stages</title>
@@ -7259,6 +7259,32 @@ Hi, ich bin Becci (@genderbeitrag) und veranstalte mittlerweile traditionell auf
       </event>
     </room>
     <room name="WikiPaka WG: Esszimmer">
+      <event id="604" guid="316426de-d3cf-5d5f-a9e2-be680fdd1916">
+        <logo/>
+        <date>2019-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:45</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>QT3DQD</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/QT3DQD/</url>
+        <title>Subtitles Angelmeeting</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Introduction for the Subtitles Angletype.</abstract>
+        <description>In the Subtitles Introduction Meeting we will tell you, what you have to do as a Subtitles Angel. Attending this meeting is necessary to become a Subtitles Angel.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">Steini</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="563" guid="3a728f85-2ebd-5ed5-82bd-1f4b815bba42">
         <logo>/media/36c3/images/GMHREE/P3.png</logo>
         <date>2019-12-28T12:00:00+01:00</date>
@@ -7367,6 +7393,33 @@ Zeit für Fragen und Antworten ist eingeplant.</description>
         </recording>
         <persons>
           <person id="26">Andre Klapper</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="564" guid="2f4ba23c-de8a-5fd9-9829-fa4445eccc74">
+        <logo/>
+        <date>2019-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>UAUKWZ</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/UAUKWZ/</url>
+        <title>Amateurfunk, wasn das?</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Kurze Zusammenfassung über ein extrem vielfältiges Hobby.</abstract>
+        <description>Beim Amateurfunk geht es grundlegen darum, mit eigener Technik Funkverbindungen herzustellen. Dieses Hobby ist aber noch deutlich vielfältiger. Dazu gehört ein besonderer Amateurfunksport, Wettbewerbe, Not- und Katastrophenfunk oder der Selbstbau von Funkgeräten und Antennen. Auch der Funkkontakt an sich ist immer wieder spannend. So kann man bis nach Neuseeland, mit der Internationalen Raumstation, mit Satelliten oder auch mit dem Mond funken. Manche Funkamateure wandern auf Berge oder fahren auf unbewohnte Inseln um von dort funken zu können.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="71">Janek</person>
+          <person id="63">Noah</person>
         </persons>
         <links/>
         <attachments/>

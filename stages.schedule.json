@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.13; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Europium; art-play 0.24; cdc 3",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Europium; art-play 0.24; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -7723,6 +7723,38 @@
             ],
             "WikiPaka WG: Esszimmer": [
               {
+                "id": 604,
+                "guid": "316426de-d3cf-5d5f-a9e2-be680fdd1916",
+                "logo": "",
+                "date": "2019-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "00:45",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "QT3DQD",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/QT3DQD/",
+                "title": "Subtitles Angelmeeting",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Introduction for the Subtitles Angletype.",
+                "description": "In the Subtitles Introduction Meeting we will tell you, what you have to do as a Subtitles Angel. Attending this meeting is necessary to become a Subtitles Angel.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 100,
+                    "code": "8J3NR3",
+                    "public_name": "Steini",
+                    "biography": "Mit-Organisator des Subtitles auf dem diesj\u00e4hrigen Congress.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 563,
                 "guid": "3a728f85-2ebd-5ed5-82bd-1f4b815bba42",
                 "logo": "/media/36c3/images/GMHREE/P3.png",
@@ -7850,6 +7882,45 @@
                     "code": "DXJG8B",
                     "public_name": "Andre Klapper",
                     "biography": "Developer Advocate at Wikimedia",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 564,
+                "guid": "2f4ba23c-de8a-5fd9-9829-fa4445eccc74",
+                "logo": "",
+                "date": "2019-12-28T14:30:00+01:00",
+                "start": "14:30",
+                "duration": "00:15",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "UAUKWZ",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/UAUKWZ/",
+                "title": "Amateurfunk, wasn das?",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Kurze Zusammenfassung \u00fcber ein extrem vielf\u00e4ltiges Hobby.",
+                "description": "Beim Amateurfunk geht es grundlegen darum, mit eigener Technik Funkverbindungen herzustellen. Dieses Hobby ist aber noch deutlich vielf\u00e4ltiger. Dazu geh\u00f6rt ein besonderer Amateurfunksport, Wettbewerbe, Not- und Katastrophenfunk oder der Selbstbau von Funkger\u00e4ten und Antennen. Auch der Funkkontakt an sich ist immer wieder spannend. So kann man bis nach Neuseeland, mit der Internationalen Raumstation, mit Satelliten oder auch mit dem Mond funken. Manche Funkamateure wandern auf Berge oder fahren auf unbewohnte Inseln um von dort funken zu k\u00f6nnen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 71,
+                    "code": "HHD3NU",
+                    "public_name": "Janek",
+                    "biography": "17 Jahre alt, baut gerne mit Mikrocontrollern und FPGAs rum",
+                    "answers": []
+                  },
+                  {
+                    "id": 63,
+                    "code": "9HYM3A",
+                    "public_name": "Noah",
+                    "biography": "ich bin noah",
                     "answers": []
                   }
                 ],

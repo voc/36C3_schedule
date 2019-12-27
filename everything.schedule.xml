@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.13; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 21:40</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 21:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3221,7 +3221,8 @@ Wir entwicklen gemeinsam eine kleine App für Android und iOS. Dabei erkläre ic
           <person id="0">Andru</person>
         </persons>
         <links>
-          <link>https://docs.google.com/presentation/d/1SRET00zlK8-jbwDSuPjmKNOL4gCwnX2KHSRCOui2WUE/edit?usp=sharing</link>
+          <link>https://docs.google.com/presentation/d/1SRET00zlK8-jbwDSuPjmKNOL4gCwnX2KHSRCOui2WUE/</link>
+          <link>https://github.com/Andruschenko/simple-react-native-app</link>
         </links>
       </event>
       <event id="1087" guid="4fcc3853-b979-4f41-91ef-91e9053ac5e4">
@@ -11712,6 +11713,32 @@ Hi, ich bin Becci (@genderbeitrag) und veranstalte mittlerweile traditionell auf
       </event>
     </room>
     <room name="WikiPaka WG: Esszimmer">
+      <event id="604" guid="316426de-d3cf-5d5f-a9e2-be680fdd1916">
+        <logo/>
+        <date>2019-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:45</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>QT3DQD</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/QT3DQD/</url>
+        <title>Subtitles Angelmeeting</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Introduction for the Subtitles Angletype.</abstract>
+        <description>In the Subtitles Introduction Meeting we will tell you, what you have to do as a Subtitles Angel. Attending this meeting is necessary to become a Subtitles Angel.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">Steini</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="563" guid="3a728f85-2ebd-5ed5-82bd-1f4b815bba42">
         <logo>/media/36c3/images/GMHREE/P3.png</logo>
         <date>2019-12-28T12:00:00+01:00</date>
@@ -11820,6 +11847,33 @@ Zeit für Fragen und Antworten ist eingeplant.</description>
         </recording>
         <persons>
           <person id="26">Andre Klapper</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="564" guid="2f4ba23c-de8a-5fd9-9829-fa4445eccc74">
+        <logo/>
+        <date>2019-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>UAUKWZ</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/UAUKWZ/</url>
+        <title>Amateurfunk, wasn das?</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Kurze Zusammenfassung über ein extrem vielfältiges Hobby.</abstract>
+        <description>Beim Amateurfunk geht es grundlegen darum, mit eigener Technik Funkverbindungen herzustellen. Dieses Hobby ist aber noch deutlich vielfältiger. Dazu gehört ein besonderer Amateurfunksport, Wettbewerbe, Not- und Katastrophenfunk oder der Selbstbau von Funkgeräten und Antennen. Auch der Funkkontakt an sich ist immer wieder spannend. So kann man bis nach Neuseeland, mit der Internationalen Raumstation, mit Satelliten oder auch mit dem Mond funken. Manche Funkamateure wandern auf Berge oder fahren auf unbewohnte Inseln um von dort funken zu können.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="71">Janek</person>
+          <person id="63">Noah</person>
         </persons>
         <links/>
         <attachments/>
@@ -24508,6 +24562,32 @@ Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at
         <attachments/>
         <answers/>
       </event>
+      <event id="599" guid="8d5820ef-5ad2-5061-8d53-515c40c75acb">
+        <logo/>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>FNFQKM</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/FNFQKM/</url>
+        <title>Ridesharing: Warum wir offene Daten in offenen Standards brauchen, damit Mitfahren funktionieren kann</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Mitfahren funktioniert aktuell schlecht, und es würde besser mit offenen Daten und offen Standards gehen. Einen Erstaufschlag eines Datenstandards liegt vor, ebenso wie es erste Integrationen in Metasuchen gibt - und wir wollen diskutieren, wie es weitergehen kann.</abstract>
+        <description>Es gibt gefühlt unendlich viele Mitfahr-Börsen, und so verlieren sich Fahrer und Mitfahrer auf den Plattformen, so dass immer weniger Menschen in Deutschland mitgenommen werden. Ein Datenstandard und offene Daten sowie ein gemeinschaftliches Auftreten könnten die Lösung sein, müsste aber von möglichst vielen Plattformen unterstützt werden. Ein Erstaufschlag eines Datenstandards ist im Projekt MetaMitfahrPort entstanden, aber das ist erst der erste Schritt: https://mmport.de/der-datenstandard/online-ansicht/ - es bräuchte vielmehr ein Open Source Software Environment für Mitfahren. Einzelne Plattformen gibt es bereits, die Mitfahr-Daten zusammenführen. In diesem Workshop wollen wir diskutieren, was wir fürs Mitfahren weitermachen können.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="38">Ernesto</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="584" guid="f3131c0f-4d45-536b-b106-e822d2abe188">
         <logo>/media/36c3/images/GVAD3D/bild2.png</logo>
         <date>2019-12-29T15:00:00+01:00</date>
@@ -24562,6 +24642,36 @@ Kennenlernen, vernetzen, aktiv(er) werden - vielleicht schreiben wir revolution�
         </recording>
         <persons>
           <person id="67">Julia</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="600" guid="b124cc16-7ff5-55da-8235-a07732fb1ec1">
+        <logo/>
+        <date>2019-12-29T16:45:00+01:00</date>
+        <start>16:45</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>BRADWK</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/BRADWK/</url>
+        <title>RFID-Karten für E-Autos sind unsicher, und man 1001 Sharing-Karten. Geht das mit SmartCards / OpenSC besser?</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Ladesäulen basieren immernoch auf Mifare Classic / RFID UIDs. Bei Sharing-Mobilität gibt es für jeden Anbieter eine eigene Karte. Könnte offene SmartCard Infrastruktur auf Basis von OpenSC die Lösung sein? Oder was gibt es noch?</abstract>
+        <description>Das Sicherheits-Problem von Ladeinfrastruktur ist wohlbekannt und war Thema auf dem 34C3: https://www.ccc.de/de/updates/2017/e-motor . Auf der anderen Seite gibt es immer mehr Sharing-Mobilität, und wenn diese RFID-Karten einsetzen, dann verschickt jeder Dienst seine eigene Karte. In beiden Fällen liegt es daran, dass die zumeist eingesetzten sicheren Karten auf symmetrischer Kryptografie basieren, was einen zur Karte passenden Key im Leser voraussetzt - und das funktioniert bei vielen Beteiligten nun einmal schlecht.&#13;
+&#13;
+In diesem Workshop wollen wir recht offen darüber diskutieren, ob Karten auf Basis asymmetrischer Kryptografie eine Lösung sein können, also Karten mit geschützten private Key, die aktiv Daten signieren können. Mit OpenSC gäbe es eine offene Lösung, die eine Basis sein könnte. Ich habe ein bisschen Hardware zum Spielen mit und fänd es spannend, wenn der Workshop in eine technische lösungsorientierte Richtung ginge - rumranten ist zwar spaßig, ist mir aber zu wenig.&#13;
+&#13;
+Ihr werdet von mir keine perfekte Übersicht / Lösung bekommen, da ich dafür nicht genug Marktübersicht habe, wohl aber einen kleinen Einblick. Aber die oben genannten Beispiele zeigen, dass auch der meist geschlossene Weg "da draußen" keine so richtig gut brauchbare Lösungen bringt, und wo sollte eine sinnvolle Lösung entstehen wenn nicht hier?</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="38">Ernesto</person>
         </persons>
         <links/>
         <attachments/>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.8; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 14:10</version>
+  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.9; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 14:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -6018,7 +6018,7 @@ With: Dana Sinaida Ersing</description>
         <type>lightning_talk</type>
         <language/>
         <abstract/>
-        <description/>
+        <description>RIAT is an NGO and institute for research, development, communication and education in the fields of cryptography, privacy technologies and the future of decentralisation.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -6250,7 +6250,9 @@ Taking this into consideration, and having learnt the lessons on how lack of pro
           <person id="109">Drew Fustini</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/000/045/original/oshw-garage-2019.odp?1577452762">OSHWA drew</attachment>
+        </attachments>
       </event>
       <event id="4384" guid="bbff1fd5-af73-4b68-8a5a-071df2ef0791">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/184.html</url>
@@ -13578,6 +13580,32 @@ In diesem Workshop erläutern wir die Hintergründe und zeigen euch welche Daten
         <attachments/>
         <answers/>
       </event>
+      <event id="596" guid="e7577e21-a725-5038-b3d6-f50cefe2c259">
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>RGCHT8</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/RGCHT8/</url>
+        <title>FragDenStaat User-Treffen</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</abstract>
+        <description>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">Arne</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="ChaosZone Bühne">
       <event id="732" guid="c3028f4c-8db7-59ae-9fc0-25405b792212">
@@ -17201,6 +17229,52 @@ We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, 
         <links/>
       </event>
     </room>
+    <room name="Assembly:HSBE">
+      <event id="1527" guid="3a7cef52-860d-4680-9371-059748f49acb">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Continuous_Security_Testing</url>
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:HSBE</room>
+        <slug>36c3-1527-session_continuous_security_testing</slug>
+        <title>Continuous Security Testing</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>See https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing
+</description>
+        <persons>
+          <person id="0">C</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing</link>
+        </links>
+      </event>
+      <event id="1406" guid="577050b4-0ebf-44f1-8bc1-fac0a429ef93">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:OpenStreetMap_workshop_-_getting_started,_tools_and_route_engine_hacking</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:HSBE</room>
+        <slug>36c3-1406-session_openstreetmap_workshop_getting_started_tools_and_route_engine_hacking</slug>
+        <title>OpenStreetMap workshop - getting started, tools and route engine hacking</title>
+        <subtitle>OpenStreetMap for beginners</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Introduction to the OpenStreetMap ecosystem + OsmAnd route engine hacking
+This talk gives an overview of OpenStreetMap and will cover the following topics:- What is it and why is it awesome?- How is the data stored and how can it be edited- An overview of some useful tools, including how to query for specific featuresAfterwards, I'll explain how the OsmAnd route engine can be tweaked, in order to customize routeplanning just for you. (For example, one of my previous projects was adding ski routing into OsmAnd). (To tweak OsmAnd, you'll need an android device - bring yours. I have two spare ones though. It might work on jailbroken iPhones too)Note: feel free to come towards the end of the session if you only want to join the OsmAnd route engine hacking.</description>
+        <persons>
+          <person id="0">Pietervdvn</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Headnut">
       <event id="1348" guid="d8f55bbc-15b6-4af9-9039-abdad0b1bd10">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fahrr%C3%A4der_zeichnen_und_analysieren</url>
@@ -17458,29 +17532,6 @@ In einem Workshop überlegen Schüler*innen gemeinsam mit anderen, wie man sich 
         <links/>
       </event>
     </room>
-    <room name="Assembly:HSBE">
-      <event id="1406" guid="577050b4-0ebf-44f1-8bc1-fac0a429ef93">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:OpenStreetMap_workshop_-_getting_started,_tools_and_route_engine_hacking</url>
-        <logo/>
-        <date>2019-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:HSBE</room>
-        <slug>36c3-1406-session_openstreetmap_workshop_getting_started_tools_and_route_engine_hacking</slug>
-        <title>OpenStreetMap workshop - getting started, tools and route engine hacking</title>
-        <subtitle>OpenStreetMap for beginners</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>Introduction to the OpenStreetMap ecosystem + OsmAnd route engine hacking
-This talk gives an overview of OpenStreetMap and will cover the following topics:- What is it and why is it awesome?- How is the data stored and how can it be edited- An overview of some useful tools, including how to query for specific featuresAfterwards, I'll explain how the OsmAnd route engine can be tweaked, in order to customize routeplanning just for you. (For example, one of my previous projects was adding ski routing into OsmAnd). (To tweak OsmAnd, you'll need an android device - bring yours. I have two spare ones though. It might work on jailbroken iPhones too)Note: feel free to come towards the end of the session if you only want to join the OsmAnd route engine hacking.</description>
-        <persons>
-          <person id="0">Pietervdvn</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
     <room name="Assembly:Vintage Computing">
       <event id="1342" guid="026448ea-1a8f-4fd6-9018-cca3109dadc5">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Robotron_K8917</url>
@@ -17505,14 +17556,14 @@ Der Vortrag beschreibt das grafische Terminal robotron K8917. Das Gerät wurde v
       </event>
     </room>
     <room name="Assembly:IT-Kollektiv">
-      <event id="1523" guid="e22875b8-049b-5cdf-adba-00a5bf938205">
+      <event id="1530" guid="1cb00472-1c19-4d22-9b17-d6f4e9ad51a5">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup</url>
         <logo/>
         <date>2019-12-28T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>1:00</duration>
         <room>Assembly:IT-Kollektiv</room>
-        <slug>36c3-1523-session_tech_coops_meetup</slug>
+        <slug>36c3-1530-session_tech_coops_meetup</slug>
         <title>Tech-Coops Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -26288,6 +26339,29 @@ Hacktivism from time to time leads to imprisonment and repressions. There are se
         </links>
       </event>
     </room>
+    <room name="Assembly:Chaos West">
+      <event id="1528" guid="6d85843f-76bc-42ee-a31f-13ffe5e26d93">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:OPS_erz%C3%A4hlen_vom_Krieg</url>
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Chaos West</room>
+        <slug>36c3-1528-session_ops_erzaehlen_vom_krieg</slug>
+        <title>OPS erzählen vom Krieg</title>
+        <subtitle>Meetup</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Therapiegruppe Sysadmins. Tales from the trenches
+OPS erzählen vom Krieg / Sysadmin-Therapiegruppe / Tales from the Sysadmin trenchesKein Vortrag, Bühne bleibt frei, nur Stuhlkreis :-)</description>
+        <persons>
+          <person id="0">Fuero</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Vintage Computing Cluster">
       <event id="1334" guid="c3c59f26-1d0f-4388-968e-74e3cc4c441e">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pen%26Paper_RPG_-_T.E.A.R.S.</url>
@@ -26312,14 +26386,14 @@ Hacktivism from time to time leads to imprisonment and repressions. There are se
       </event>
     </room>
     <room name="Assembly:IT-Kollektiv">
-      <event id="1520" guid="8d5457bf-0985-4e9a-bb74-82466b6e069a">
+      <event id="1531" guid="7bd2a6c6-11c3-43d8-a4e0-a3017f94accf">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup</url>
         <logo/>
         <date>2019-12-29T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>1:00</duration>
         <room>Assembly:IT-Kollektiv</room>
-        <slug>36c3-1520-session_tech_coops_meetup</slug>
+        <slug>36c3-1531-session_tech_coops_meetup</slug>
         <title>Tech-Coops Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -27708,32 +27782,6 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
         </recording>
         <persons>
           <person id="25">Daniel</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="596" guid="e7577e21-a725-5038-b3d6-f50cefe2c259">
-        <logo/>
-        <date>2019-12-30T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>01:30</duration>
-        <room>WikiPaka WG: Esszimmer</room>
-        <slug>RGCHT8</slug>
-        <url>https://cfp.verschwoerhaus.de/36c3/talk/RGCHT8/</url>
-        <title>FragDenStaat User-Treffen</title>
-        <subtitle/>
-        <track>Community</track>
-        <type>Meetup</type>
-        <language>de</language>
-        <abstract>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</abstract>
-        <description>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="17">Arne</person>
         </persons>
         <links/>
         <attachments/>
@@ -29202,14 +29250,14 @@ Contact: Marko Mijokovic (01636934204)</description>
       </event>
     </room>
     <room name="Assembly:IT-Kollektiv">
-      <event id="1521" guid="cb6fbfc0-6242-531a-9af4-067d56239a51">
+      <event id="1520" guid="8d5457bf-0985-4e9a-bb74-82466b6e069a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup</url>
         <logo/>
         <date>2019-12-30T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>1:00</duration>
         <room>Assembly:IT-Kollektiv</room>
-        <slug>36c3-1521-session_tech_coops_meetup</slug>
+        <slug>36c3-1520-session_tech_coops_meetup</slug>
         <title>Tech-Coops Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>

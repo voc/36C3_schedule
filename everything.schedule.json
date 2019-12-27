@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.8; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 14:10",
+    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.9; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 14:20",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -6677,7 +6677,7 @@
                 "type": "lightning_talk",
                 "language": "",
                 "abstract": "",
-                "description": "",
+                "description": "RIAT is an NGO and institute for research, development, communication and education in the fields of cryptography, privacy technologies and the future of decentralisation.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -6941,7 +6941,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/045/original/oshw-garage-2019.odp?1577452762",
+                    "title": "OSHWA drew"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/184.html",
@@ -15230,6 +15235,38 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              },
+              {
+                "id": 596,
+                "guid": "e7577e21-a725-5038-b3d6-f50cefe2c259",
+                "logo": "",
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:30",
+                "room": "WikiPaka WG: Bibliothek",
+                "slug": "RGCHT8",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/RGCHT8/",
+                "title": "FragDenStaat User-Treffen",
+                "subtitle": "",
+                "track": "Community",
+                "type": "Meetup",
+                "language": "de",
+                "abstract": "Wir m\u00f6gen Informationsfreiheitsgesetze und tauschen uns \u00fcber FragDenStaat und das Drumherum aus!",
+                "description": "Wir m\u00f6gen Informationsfreiheitsgesetze und tauschen uns \u00fcber FragDenStaat und das Drumherum aus!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 17,
+                    "code": "K38FMT",
+                    "public_name": "Arne",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "ChaosZone B\u00fchne": [
@@ -19474,6 +19511,62 @@
                 "links": []
               }
             ],
+            "Assembly:HSBE": [
+              {
+                "id": 1527,
+                "guid": "3a7cef52-860d-4680-9371-059748f49acb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Continuous_Security_Testing",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "0:45",
+                "room": "Assembly:HSBE",
+                "slug": "36c3-1527-session_continuous_security_testing",
+                "title": "Continuous Security Testing",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "See https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:C",
+                    "public_name": "C"
+                  }
+                ],
+                "links": [
+                  "https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing"
+                ]
+              },
+              {
+                "id": 1406,
+                "guid": "577050b4-0ebf-44f1-8bc1-fac0a429ef93",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:OpenStreetMap_workshop_-_getting_started,_tools_and_route_engine_hacking",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:30",
+                "room": "Assembly:HSBE",
+                "slug": "36c3-1406-session_openstreetmap_workshop_getting_started_tools_and_route_engine_hacking",
+                "title": "OpenStreetMap workshop - getting started, tools and route engine hacking",
+                "subtitle": "OpenStreetMap for beginners",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Introduction to the OpenStreetMap ecosystem + OsmAnd route engine hacking\nThis talk gives an overview of OpenStreetMap and will cover the following topics:- What is it and why is it awesome?- How is the data stored and how can it be edited- An overview of some useful tools, including how to query for specific featuresAfterwards, I'll explain how the OsmAnd route engine can be tweaked, in order to customize routeplanning just for you. (For example, one of my previous projects was adding ski routing into OsmAnd). (To tweak OsmAnd, you'll need an android device - bring yours. I have two spare ones though. It might work on jailbroken iPhones too)Note: feel free to come towards the end of the session if you only want to join the OsmAnd route engine hacking.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Pietervdvn",
+                    "public_name": "Pietervdvn"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Headnut": [
               {
                 "id": 1348,
@@ -19786,34 +19879,6 @@
                 "links": []
               }
             ],
-            "Assembly:HSBE": [
-              {
-                "id": 1406,
-                "guid": "577050b4-0ebf-44f1-8bc1-fac0a429ef93",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:OpenStreetMap_workshop_-_getting_started,_tools_and_route_engine_hacking",
-                "logo": null,
-                "date": "2019-12-28T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "1:30",
-                "room": "Assembly:HSBE",
-                "slug": "36c3-1406-session_openstreetmap_workshop_getting_started_tools_and_route_engine_hacking",
-                "title": "OpenStreetMap workshop - getting started, tools and route engine hacking",
-                "subtitle": "OpenStreetMap for beginners",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Introduction to the OpenStreetMap ecosystem + OsmAnd route engine hacking\nThis talk gives an overview of OpenStreetMap and will cover the following topics:- What is it and why is it awesome?- How is the data stored and how can it be edited- An overview of some useful tools, including how to query for specific featuresAfterwards, I'll explain how the OsmAnd route engine can be tweaked, in order to customize routeplanning just for you. (For example, one of my previous projects was adding ski routing into OsmAnd). (To tweak OsmAnd, you'll need an android device - bring yours. I have two spare ones though. It might work on jailbroken iPhones too)Note: feel free to come towards the end of the session if you only want to join the OsmAnd route engine hacking.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Pietervdvn",
-                    "public_name": "Pietervdvn"
-                  }
-                ],
-                "links": []
-              }
-            ],
             "Assembly:Vintage Computing": [
               {
                 "id": 1342,
@@ -19844,15 +19909,15 @@
             ],
             "Assembly:IT-Kollektiv": [
               {
-                "id": 1523,
-                "guid": "e22875b8-049b-5cdf-adba-00a5bf938205",
+                "id": 1530,
+                "guid": "1cb00472-1c19-4d22-9b17-d6f4e9ad51a5",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup",
                 "logo": null,
                 "date": "2019-12-28T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "1:00",
                 "room": "Assembly:IT-Kollektiv",
-                "slug": "36c3-1523-session_tech_coops_meetup",
+                "slug": "36c3-1530-session_tech_coops_meetup",
                 "title": "Tech-Coops Meetup",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -29565,6 +29630,34 @@
                 ]
               }
             ],
+            "Assembly:Chaos West": [
+              {
+                "id": 1528,
+                "guid": "6d85843f-76bc-42ee-a31f-13ffe5e26d93",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:OPS_erz%C3%A4hlen_vom_Krieg",
+                "logo": null,
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Assembly:Chaos West",
+                "slug": "36c3-1528-session_ops_erzaehlen_vom_krieg",
+                "title": "OPS erz\u00e4hlen vom Krieg",
+                "subtitle": "Meetup",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Therapiegruppe Sysadmins. Tales from the trenches\nOPS erz\u00e4hlen vom Krieg / Sysadmin-Therapiegruppe / Tales from the Sysadmin trenchesKein Vortrag, B\u00fchne bleibt frei, nur Stuhlkreis :-)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Fuero",
+                    "public_name": "Fuero"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Vintage Computing Cluster": [
               {
                 "id": 1334,
@@ -29595,15 +29688,15 @@
             ],
             "Assembly:IT-Kollektiv": [
               {
-                "id": 1520,
-                "guid": "8d5457bf-0985-4e9a-bb74-82466b6e069a",
+                "id": 1531,
+                "guid": "7bd2a6c6-11c3-43d8-a4e0-a3017f94accf",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup",
                 "logo": null,
                 "date": "2019-12-29T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "1:00",
                 "room": "Assembly:IT-Kollektiv",
-                "slug": "36c3-1520-session_tech_coops_meetup",
+                "slug": "36c3-1531-session_tech_coops_meetup",
                 "title": "Tech-Coops Meetup",
                 "subtitle": "",
                 "track": "self organized sessions",
@@ -31094,38 +31187,6 @@
                     "code": "RVGZKL",
                     "public_name": "Daniel",
                     "biography": "Wiki-Hacker seit 2004.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 596,
-                "guid": "e7577e21-a725-5038-b3d6-f50cefe2c259",
-                "logo": "",
-                "date": "2019-12-30T13:30:00+01:00",
-                "start": "13:30",
-                "duration": "01:30",
-                "room": "WikiPaka WG: Esszimmer",
-                "slug": "RGCHT8",
-                "url": "https://cfp.verschwoerhaus.de/36c3/talk/RGCHT8/",
-                "title": "FragDenStaat User-Treffen",
-                "subtitle": "",
-                "track": "Community",
-                "type": "Meetup",
-                "language": "de",
-                "abstract": "Wir m\u00f6gen Informationsfreiheitsgesetze und tauschen uns \u00fcber FragDenStaat und das Drumherum aus!",
-                "description": "Wir m\u00f6gen Informationsfreiheitsgesetze und tauschen uns \u00fcber FragDenStaat und das Drumherum aus!",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 17,
-                    "code": "K38FMT",
-                    "public_name": "Arne",
-                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -32794,15 +32855,15 @@
             ],
             "Assembly:IT-Kollektiv": [
               {
-                "id": 1521,
-                "guid": "cb6fbfc0-6242-531a-9af4-067d56239a51",
+                "id": 1520,
+                "guid": "8d5457bf-0985-4e9a-bb74-82466b6e069a",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup",
                 "logo": null,
                 "date": "2019-12-30T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "1:00",
                 "room": "Assembly:IT-Kollektiv",
-                "slug": "36c3-1521-session_tech_coops_meetup",
+                "slug": "36c3-1520-session_tech_coops_meetup",
                 "title": "Tech-Coops Meetup",
                 "subtitle": "",
                 "track": "self organized sessions",

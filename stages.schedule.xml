@@ -1,5 +1,5 @@
 <schedule>
-  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.8; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3</version>
+  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.9; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Stages</title>
@@ -3377,7 +3377,7 @@ https://schaltkreismusik.bandcamp.com</description>
         <type>lightning_talk</type>
         <language/>
         <abstract/>
-        <description/>
+        <description>RIAT is an NGO and institute for research, development, communication and education in the fields of cryptography, privacy technologies and the future of decentralisation.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -3609,7 +3609,9 @@ Taking this into consideration, and having learnt the lessons on how lack of pro
           <person id="109">Drew Fustini</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/000/045/original/oshw-garage-2019.odp?1577452762">OSHWA drew</attachment>
+        </attachments>
       </event>
       <event id="4384" guid="bbff1fd5-af73-4b68-8a5a-071df2ef0791">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/184.html</url>
@@ -14347,32 +14349,6 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
         </recording>
         <persons>
           <person id="25">Daniel</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="596" guid="e7577e21-a725-5038-b3d6-f50cefe2c259">
-        <logo/>
-        <date>2019-12-30T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>01:30</duration>
-        <room>WikiPaka WG: Esszimmer</room>
-        <slug>RGCHT8</slug>
-        <url>https://cfp.verschwoerhaus.de/36c3/talk/RGCHT8/</url>
-        <title>FragDenStaat User-Treffen</title>
-        <subtitle/>
-        <track>Community</track>
-        <type>Meetup</type>
-        <language>de</language>
-        <abstract>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</abstract>
-        <description>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="17">Arne</person>
         </persons>
         <links/>
         <attachments/>

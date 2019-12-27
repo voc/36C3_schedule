@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.8; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3",
+    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.9; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -3587,7 +3587,7 @@
                 "type": "lightning_talk",
                 "language": "",
                 "abstract": "",
-                "description": "",
+                "description": "RIAT is an NGO and institute for research, development, communication and education in the fields of cryptography, privacy technologies and the future of decentralisation.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -3851,7 +3851,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/045/original/oshw-garage-2019.odp?1577452762",
+                    "title": "OSHWA drew"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/184.html",
@@ -15320,38 +15325,6 @@
                     "code": "RVGZKL",
                     "public_name": "Daniel",
                     "biography": "Wiki-Hacker seit 2004.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 596,
-                "guid": "e7577e21-a725-5038-b3d6-f50cefe2c259",
-                "logo": "",
-                "date": "2019-12-30T13:30:00+01:00",
-                "start": "13:30",
-                "duration": "01:30",
-                "room": "WikiPaka WG: Esszimmer",
-                "slug": "RGCHT8",
-                "url": "https://cfp.verschwoerhaus.de/36c3/talk/RGCHT8/",
-                "title": "FragDenStaat User-Treffen",
-                "subtitle": "",
-                "track": "Community",
-                "type": "Meetup",
-                "language": "de",
-                "abstract": "Wir m\u00f6gen Informationsfreiheitsgesetze und tauschen uns \u00fcber FragDenStaat und das Drumherum aus!",
-                "description": "Wir m\u00f6gen Informationsfreiheitsgesetze und tauschen uns \u00fcber FragDenStaat und das Drumherum aus!",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 17,
-                    "code": "K38FMT",
-                    "public_name": "Arne",
-                    "biography": null,
                     "answers": []
                   }
                 ],

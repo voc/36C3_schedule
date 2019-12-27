@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra _15; wikipaka 0.13; chaoszone 0.7; komona 0.14; sendezentrum 2.7; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 20:10</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra _15; wikipaka 0.13; chaoszone 0.7; komona 0.14; sendezentrum 2.7; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 20:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3469,6 +3469,27 @@ Are you a digital nomad or an itinerant hacker? Come and meet others who are as 
 Just a bunch of people who own an Doc Green ESA 5000, 1919 or 1950. A (in germany legal) eScooter recently sold by Lidl.There is also a wiki: https://esa-5000.fandom.com/de/wiki/ESA_5000_Wikiand a Telegram group: http://t.me/esa_5000We will probably talk about bus internals, attaching external batteries, dashboard replacements and other scooter modifications.</description>
         <persons>
           <person id="0">M4GNV5</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1570" guid="5e326c69-c80c-4100-86ef-f11a20d427fd">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Human_Punishment_Day_1</url>
+        <logo/>
+        <date>2019-12-28T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1570-session_human_punishment_day_1</slug>
+        <title>Human Punishment Day 1</title>
+        <subtitle>Social Deduction 2.0</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Lasst uns eine Runde Human Punishment spielen
+Human Punishment ist ein Social Deduction Spiel, das Werewolf nicht unähnlich ist.Allerdings gibt es 3 Fraktionen mit eigenen Siegbedingungen, Fraktionswechsel während dem Spiel, potentiell einen Wiedereinstiwg für ausgeschiedene Spieler...Da ich leider nur die deutsche Version besitze, sollten Mitspieler Deutsch lesen können.</description>
+        <persons>
+          <person id="0">Echsenkoenig</person>
         </persons>
         <links/>
       </event>
@@ -7138,8 +7159,8 @@ Print your own t-shirt with screen printing.Bedruckt eure eigenen T-Shirts mit s
       <event id="1540" guid="8a9c8592-e7e9-4760-88e2-45306550d664">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Captain_Sonar</url>
         <logo/>
-        <date>2019-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2019-12-27T20:15:00+01:00</date>
+        <start>20:15</start>
         <duration>1:30</duration>
         <room>Assembly:Pseudoroom</room>
         <slug>36c3-1540-session_captain_sonar</slug>
@@ -11409,7 +11430,7 @@ Außerdem soll rund um den OIO im laufe des Kongresses ein Demo-Netzwerk aufgeba
         <title>A dozen more things you didn't know Nextcloud could do</title>
         <subtitle/>
         <track>Hardware &amp; Making</track>
-        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
         <language>en</language>
         <abstract>With Nextcloud you can sync, share and collaborate on data, but you don't need to put your photos, calendars or chat logs on an American server. Nope, Nextcloud is self-hosted and 100% open source! Thanks to hundreds of apps, Nextcloud can do a lot and in this talk, I will highlight some cool things.</abstract>
         <description>Consider this a follow-up from my talk about 200 things Nextcloud can do last year! An update on what's new and some cool new stuff. What, what is `Nextcloud`? Let's see. A private cloud is one way to put it, though that's a contradiction of course. It is a way to share your data, sync your files, communicate and collaborate with others - without giving your data to GAFAM! Keep it on your own server, or something close (like a local hosting provider or data center). Nextcloud is a PHP app that does all that, and more! Easy to use, secure (really) and fully open source of course.</description>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 15:50</version>
+  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 16:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -6412,72 +6412,85 @@ Please take with you&#13;
 * Your Raspberry Pi 3/4 with Raspbian Stretch (optional)&#13;
 * Arduino compatible sensors to build your own Z-Wave sensor (optional)&#13;
 * Your Z-Wave stuff if any (optional)</abstract>
-        <description>=== Workshop sections ===&#13;
-* What is Z-Wave and where should you use it&#13;
-* Z-Way controller and RaZberry/UZB hardware&#13;
-** Controlling switches &#13;
-** Reading sensor/switch values&#13;
-** Making rules&#13;
-** Using JS API&#13;
-* Z-Uno prototyping board&#13;
-** Making Simple Switch&#13;
-** Adding more stuff&#13;
-* Z-Uno Shield and Z-Uno Configurator&#13;
-* Z-Uno Modules&#13;
+        <description>&lt;h2&gt;Workshop sections&lt;/h2&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;What is Z-Wave and where should you use it&lt;/li&gt;&#13;
+&lt;li&gt;Z-Way controller and RaZberry/UZB hardware&lt;/li&gt;&#13;
+ &lt;ul&gt;&#13;
+  &lt;li&gt;Controlling switches &lt;/li&gt;&#13;
+  &lt;li&gt;Reading sensor/switch values&lt;/li&gt;&#13;
+  &lt;li&gt;Making rules&lt;/li&gt;&#13;
+  &lt;li&gt;Using JS API&lt;/li&gt;&#13;
+ &lt;/ul&gt;&#13;
+&lt;li&gt;Z-Uno prototyping board&lt;/li&gt;&#13;
+ &lt;ul&gt;&#13;
+  &lt;li&gt;Making Simple Switch&lt;/li&gt;&#13;
+  &lt;li&gt;Adding more stuff&lt;/li&gt;&#13;
+ &lt;/ul&gt;&#13;
+&lt;li&gt;Z-Uno Shield and Z-Uno Configurator&lt;/li&gt;&#13;
+&lt;li&gt;Z-Uno Modules&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
 &#13;
------&#13;
+&lt;hr/&gt;&#13;
 &#13;
-=== Usefull links for the workshop ===&#13;
+&lt;h2&gt;Usefull links for the workshop&lt;/h2&gt;&#13;
 &#13;
-==== Z-Way controllers on the workshop ====&#13;
-* Controller 1 (EU, 868 MHz)&#13;
-** Smart Home UI http://192.168.88.22:8083&#13;
-** Expert UI http://192.168.88.22:8083/expert&#13;
-* Controller 2 (RU, 869 MHz)&#13;
-** Smart Home UI http://192.168.88.254:8083&#13;
-** Expert UI http://192.168.88.254:8083/expert&#13;
-* WiFi SSID&#13;
-** Z-Wave-RPi-xxxx / PSK: ccc-2019&#13;
-* Smart Home User: admin / Password: ccc&#13;
+&lt;h3&gt;Z-Way controllers on the workshop&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Controller (EU, 868 MHz)&lt;/li&gt;&#13;
+&lt;li&gt;Smart Home UI http://192.168.88.22:8083&lt;/li&gt;&#13;
+&lt;li&gt;Expert UI http://192.168.88.22:8083/expert&lt;/li&gt;&#13;
+&lt;li&gt;WiFi SSID&lt;/li&gt;&#13;
+&lt;li&gt;Z-Wave-RPi-xxxx / PSK: ccc-2019&lt;/li&gt;&#13;
+&lt;li&gt;Smart Home User: admin / Password: ccc&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
 &#13;
-==== Z-Way documentation ====&#13;
-* Installing Z-Way https://z-wave.me/z-way/download-z-way/&#13;
-* Z-Way doc https://z-wave.me/essentials&#13;
-* Z-Way JS engine GitHub https://github.com/Z-Wave-Me/home-automation/&#13;
+&lt;h3&gt;Z-Way documentation&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Installing Z-Way https://z-wave.me/z-way/download-z-way/&lt;/li&gt;&#13;
+&lt;li&gt;Z-Way doc https://z-wave.me/essentials&lt;/li&gt;&#13;
+&lt;li&gt;Z-Way JS engine GitHub https://github.com/Z-Wave-Me/home-automation/&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
 &#13;
-==== Z-Way workshop materials ====&#13;
-* Making rules: Settings -&gt; Apps -&gt; Local -&gt; IfThen -&gt; Add&#13;
-* Turning on/off a device /ZWaveAPI/Run/devices[NNN].SwitchBinary.Set(0 or 1)&#13;
-* Reading switch value /ZWaveAPI/Run/devices[NNN].SwitchBinary.data.level.value&#13;
-* Reading sensor value /ZWaveAPI/Run/devices[NNN].SensorBinary.data[12].level.value&#13;
-* Using JS API /JS/Run/var v = 1; setInterval(function() { zway.devices[NNN].SwitchBinary.Set(v); v = 1-v;}, 2000);&#13;
+&lt;h3&gt;Z-Way workshop materials&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Making rules: Settings -&gt; Apps -&gt; Local -&gt; IfThen -&gt; Add&lt;/li&gt;&#13;
+&lt;li&gt;Turning on/off a device /ZWaveAPI/Run/devices[NNN].SwitchBinary.Set(0 or 1)&lt;/li&gt;&#13;
+&lt;li&gt;Reading switch value /ZWaveAPI/Run/devices[NNN].SwitchBinary.data.level.value&lt;/li&gt;&#13;
+&lt;li&gt;Reading sensor value /ZWaveAPI/Run/devices[NNN].SensorBinary.data[12].level.value&lt;/li&gt;&#13;
+&lt;li&gt;Using JS API /JS/Run/var v = 1; setInterval(function() { zway.devices[NNN].SwitchBinary.Set(v); v = 1-v;}, 2000);&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
 &#13;
------&#13;
+&lt;hr/&gt;&#13;
 &#13;
-==== Z-Uno documentation ====&#13;
-* Quick Intro https://z-uno.z-wave.me/getting-started/quick-introduction-in-z-uno/&#13;
-* Installation howto https://z-uno.z-wave.me/install&#13;
-* Language Reference https://z-uno.z-wave.me/reference/&#13;
-* Examples https://z-uno.z-wave.me/examples/&#13;
-* Z-Uno Shield https://z-uno.z-wave.me/shield/&#13;
-* Z-Uno Shield Configurator https://z-uno.z-wave.me/shield/configurator/&#13;
-* Z-Uno GitHub https://github.com/Z-Wave-Me/Z-Uno-Core/&#13;
+&lt;h3&gt;Z-Uno documentation&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Quick Intro https://z-uno.z-wave.me/getting-started/quick-introduction-in-z-uno/&lt;/li&gt;&#13;
+&lt;li&gt;Installation howto https://z-uno.z-wave.me/install&lt;/li&gt;&#13;
+&lt;li&gt;Language Reference https://z-uno.z-wave.me/reference/&lt;/li&gt;&#13;
+&lt;li&gt;Examples https://z-uno.z-wave.me/examples/&lt;/li&gt;&#13;
+&lt;li&gt;Z-Uno Shield https://z-uno.z-wave.me/shield/&lt;/li&gt;&#13;
+&lt;li&gt;Z-Uno Shield Configurator https://z-uno.z-wave.me/shield/configurator/&lt;/li&gt;&#13;
+&lt;li&gt;Z-Uno GitHub https://github.com/Z-Wave-Me/Z-Uno-Core/&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
 &#13;
-==== Z-Uno settings ====&#13;
+&lt;h3&gt;Z-Uno settings&lt;/h3&gt;&#13;
 Make sure to configure in Arduino IDE:&#13;
-* File -&gt; Preferences -&gt; Add package source URL http://z-uno.z-wave.me/files/z-uno/package_z-wave.me_index.json&#13;
-* Tools -&gt; Board -&gt; Board Manager -&gt; Z-Uno 2.1.5&#13;
-* Tools -&gt; Board -&gt; Z-Uno&#13;
-* Tools -&gt; Programmer -&gt; Z-Uno&#13;
-* Tools -&gt; Port -&gt; /dev/ttyACM0 or /dev/ttyACM1&#13;
-* Tools -&gt; Frequency EU/RU (depending on your controller)&#13;
-* Tools -&gt; Security none or S0 or S2 - up to you&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;File -&gt; Preferences -&gt; Add package source URL http://z-uno.z-wave.me/files/z-uno/package_z-wave.me_index.json&lt;/li&gt;&#13;
+&lt;li&gt;Tools -&gt; Board -&gt; Board Manager -&gt; Z-Uno 2.1.5&lt;/li&gt;&#13;
+&lt;li&gt;Tools -&gt; Board -&gt; Z-Uno&lt;/li&gt;&#13;
+&lt;li&gt;Tools -&gt; Programmer -&gt; Z-Uno&lt;/li&gt;&#13;
+&lt;li&gt;Tools -&gt; Port -&gt; /dev/ttyACM0 or /dev/ttyACM1&lt;/li&gt;&#13;
+&lt;li&gt;Tools -&gt; Frequency EU/RU (depending on your controller)&lt;/li&gt;&#13;
+&lt;li&gt;Tools -&gt; Security none or S0 or S2 - up to you&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
 &#13;
 You might also need to add your user to *dialout* group to have permissions for /dev/ttyACM*&#13;
 &#13;
-==== Z-Uno workshop materials ====&#13;
+&lt;h3&gt;Z-Uno workshop materials&lt;/h3&gt;&#13;
 Sketch for Simple Switch:&#13;
-&#13;
+&lt;code&gt;&lt;pre&gt;&#13;
  ZUNO_SETUP_CHANNELS(ZUNO_SWITCH_BINARY(state, 0));&#13;
  &#13;
  byte state = 0;&#13;
@@ -6489,8 +6502,10 @@ Sketch for Simple Switch:&#13;
  void loop() {&#13;
    digitalWrite(13, state ? HIGH : LOW);&#13;
  }&#13;
+&lt;/pre&gt;&lt;/code&gt;&#13;
 &#13;
 Sketch in getter/setter style:&#13;
+&lt;code&gt;&lt;pre&gt;&#13;
  ZUNO_SETUP_CHANNELS(&#13;
    ZUNO_SWITCH_BINARY(getter, setter),&#13;
    ZUNO_SENSOR_BINARY_DOOR_WINDOW(doorGetter)&#13;
@@ -6522,7 +6537,8 @@ Sketch in getter/setter style:&#13;
  &#13;
  byte doorGetter() {&#13;
    return door;&#13;
- }</description>
+ }&#13;
+&lt;/pre&gt;&lt;/code&gt;</description>
         <recording>
           <license>The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at</license>
           <optout>false</optout>
@@ -20210,7 +20226,7 @@ Ausgehend von den Nachteilen der meistens alternativlosen Einwilligung, die Face
         </recording>
         <persons>
           <person id="195">Jörn Erbguth</person>
-          <person id="189">Deanna</person>
+          <person id="189">Katrin</person>
         </persons>
         <links/>
         <attachments/>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 16; wikipaka 0.14; chaoszone 0.7; komona 0.17; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3; wiki 2019-12-27 23:40</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 16; wikipaka 0.14; chaoszone 0.7; komona 0.17; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3; wiki 2019-12-27 23:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -24896,7 +24896,9 @@ Kennenlernen, vernetzen, aktiv(er) werden - vielleicht schreiben wir revolution�
         <type>Workshop</type>
         <language>de</language>
         <abstract>Ladesäulen basieren immernoch auf Mifare Classic / RFID UIDs. Bei Sharing-Mobilität gibt es für jeden Anbieter eine eigene Karte. Könnte offene SmartCard Infrastruktur auf Basis von OpenSC die Lösung sein? Oder was gibt es noch?</abstract>
-        <description>Das Sicherheits-Problem von Ladeinfrastruktur ist wohlbekannt und war Thema auf dem 34C3: https://www.ccc.de/de/updates/2017/e-motor . Auf der anderen Seite gibt es immer mehr Sharing-Mobilität, und wenn diese RFID-Karten einsetzen, dann verschickt jeder Dienst seine eigene Karte. In beiden Fällen liegt es daran, dass die zumeist eingesetzten sicheren Karten auf symmetrischer Kryptografie basieren, was einen zur Karte passenden Key im Leser voraussetzt - und das funktioniert bei vielen Beteiligten nun einmal schlecht.&#13;
+        <description>Hinweis vorweg: der Workshop ist so für 60 Minuten geplant, da es aber Raumbelegungskonflikte gibt, suchen wir uns dann einfach einen Platz in der WikipakaWG.&#13;
+&#13;
+Das Sicherheits-Problem von Ladeinfrastruktur ist wohlbekannt und war Thema auf dem 34C3: https://www.ccc.de/de/updates/2017/e-motor . Auf der anderen Seite gibt es immer mehr Sharing-Mobilität, und wenn diese RFID-Karten einsetzen, dann verschickt jeder Dienst seine eigene Karte. In beiden Fällen liegt es daran, dass die zumeist eingesetzten sicheren Karten auf symmetrischer Kryptografie basieren, was einen zur Karte passenden Key im Leser voraussetzt - und das funktioniert bei vielen Beteiligten nun einmal schlecht.&#13;
 &#13;
 In diesem Workshop wollen wir recht offen darüber diskutieren, ob Karten auf Basis asymmetrischer Kryptografie eine Lösung sein können, also Karten mit geschützten private Key, die aktiv Daten signieren können. Mit OpenSC gäbe es eine offene Lösung, die eine Basis sein könnte. Ich habe ein bisschen Hardware zum Spielen mit und fänd es spannend, wenn der Workshop in eine technische lösungsorientierte Richtung ginge - rumranten ist zwar spaßig, ist mir aber zu wenig.&#13;
 &#13;
@@ -25400,19 +25402,19 @@ Join if you are interested in the topic of producing, hosting and adminstrating 
         <answers/>
       </event>
       <event id="853" guid="25c7acdb-a59e-5121-a35a-573fea4ee019">
-        <logo/>
+        <logo>/media/36c3/images/9RPTW9/photo_2019-11-30-090949_49145438816_o.jpg</logo>
         <date>2019-12-29T16:35:00+01:00</date>
         <start>16:35</start>
         <duration>01:30</duration>
         <room>headnut</room>
         <slug>9RPTW9</slug>
         <url>https://talks.komona.org/36c3/talk/9RPTW9/</url>
-        <title>Ende Gelände: Anleitung zur unwiderstehlichen Revolution</title>
+        <title>selbstorganisiert, vernetzt &amp; ungehorsam für die Revolution</title>
         <subtitle/>
         <track/>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Beschreibung folgt..</abstract>
+        <abstract>In Zeiten von Kapitalismus und Klimakrise stehen wir vor besonderen strukturellen Problemen und gesellschaftliche Herausforderungen. Für die notwendigen Veränderungen scheinen unsere politischen und ökonomischen Systeme zu resistent und träge zu sein. Doch wie lassen sich die Schritte in für eine sozial-ökologische Transformation einleiten und umsetzen, und dabei zugleich positiven Errungenschaften, wie Prinzipien demokratischer Teilhabe und individueller Freiheit, wahren? Wann wird Ziviler Ungehorsam ein legitimes demokratisches Mittel und welche Besonderheiten ergeben sich für soziale Bewegungen in Zeiten der Digitalisierung? In diesem Workshop wollen wir mit euch diskutieren, welche Wirkungsmöglichkeiten soziale Bewegungen und verschiedene Protest- und Aktionsformen haben und wie wir uns möglichst selbstorganisiert, vernetzt und gemeinsam den großen Herausforderungen unsere Zeit stellen können.</abstract>
         <description/>
         <recording>
           <license/>

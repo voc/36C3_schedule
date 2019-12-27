@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.7; chaoszone 0.7; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 10:00",
+    "version": "find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.7; chaoszone 0.7; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 10:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -28800,6 +28800,34 @@
                 "links": [
                   "https://hackerfleet.eu"
                 ]
+              },
+              {
+                "id": 1504,
+                "guid": "335f2235-cc22-4023-adcd-ddecc6195006",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Polizeidatenbanken:_Wer_ist_drin,_wer_will_raus%3F",
+                "logo": null,
+                "date": "2019-12-29T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "1:30",
+                "room": "Assembly:C-base / CCC-B / xHain",
+                "slug": "36c3-1504-session_polizeidatenbanken_wer_ist_drin_wer_will_raus_",
+                "title": "Polizeidatenbanken: Wer ist drin, wer will raus?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Polizeidatenbanken: Was, wer, warum, wohin?\nWollt ihr ein Auskunftsersuchen bei der Polizei stellen, um rauszukriegen, was sie \u00fcber euch denken und warum ihr st\u00e4ndig gefilzt werden (wenn das so ist)?  Habt ihr das schon gemacht und wollt  wissen, was der Kram hei\u00dft und wie ihr in wegkriegt?  Oder seid ihr einfach neugierig auf die j\u00fcngsten Bl\u00fcten der Verdatung von \"Sicherheit\"?  Was immer: Bei dieser Session seid ihr richtig.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Demi",
+                    "public_name": "Demi"
+                  }
+                ],
+                "links": [
+                  "https://datenschmutz.de"
+                ]
               }
             ],
             "Assembly:Anarchist Village": [
@@ -31541,6 +31569,10 @@
                   {
                     "url": "/system/event_attachments/attachments/000/000/025/original/communal_computing.pdf?1577140598",
                     "title": "communal_computing.pdf"
+                  },
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/041/original/communal_computing.odp?1577437357",
+                    "title": "communal_computing.odp"
                   }
                 ]
               },

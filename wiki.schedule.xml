@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-27 21:50</version>
+  <version>2019-12-27 22:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -917,7 +917,7 @@ Note: This in NOT an introductory angel meeting! This session is aimed at all Co
         <language>de</language>
         <abstract/>
         <description>Stammtisch für Menschen aus dem Bildungsbereich
-Stammtisch für Menschen aus dem Bildungsbereich</description>
+Stammtisch für Menschen aus dem BildungsbereichHier nach Nachtrag die Links zu unseren Fahrstuhlreden:* https://www.oercamp.de/* https://buendnis-freie-bildung.de/* https://github.com/frank-christiansen/iqsh-winkekatze* http://www.olaf.one/* https://tetrapix.de/* https://instahub.org/* https://ada7.de/* https://tcp.nhcham.org/</description>
         <persons>
           <person id="0">Wi-wissen</person>
         </persons>
@@ -1790,13 +1790,13 @@ For more information please refer to the foodhackingbase wiki page: https://food
         <room>Assembly:CriticalDecentralisationCluster</room>
         <slug>36c3-1411-session_creating_z_wave_controllers_and_devices</slug>
         <title>Creating Z-Wave controllers and devices</title>
-        <subtitle>room has changed!</subtitle>
+        <subtitle>!! Room has changed !!</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
         <abstract/>
         <description>Hacking around Z-Wave smart home protocol
-Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
+Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
         <persons>
           <person id="0">PoltoS</person>
         </persons>
@@ -2534,6 +2534,27 @@ BIOLars Zimmermann (Mifactori.De) ist Kuenstler, Designer und Aktivist mit einem
         <links>
           <link>https://opencircularity.info/36c3/</link>
         </links>
+      </event>
+      <event id="1582" guid="50fab29f-72b7-4e68-a667-7df822e78752">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Nothing_to_Hide_-_Dokumentarfilm_2017</url>
+        <logo/>
+        <date>2019-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>Roter Salon</room>
+        <slug>36c3-1582-session_nothing_to_hide_dokumentarfilm_2017</slug>
+        <title>Nothing to Hide - Dokumentarfilm 2017</title>
+        <subtitle>Nothing to Hide?</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Überwachte digitale Welt
+Kurzthese:„Ich habe ja nichts zu verstecken“, lautet das Mantra mit dem wir trotz Snowden eine überwachte digitale Welt hinnehmen. Anhand der persönlichen Geschichten von fünf Protagonisten untersucht der Dokumentarfilm „Nothing To Hide“ die Implikationen dieser Haltung für Demokratie und Privatsphäre, für Gesellschaft und Individuum. Beschreibung: Trotz den Enthüllungen Edward Snowdens  scheinen die Meisten von uns eine überwachte digitale Gesellschaft einfach hinzunehmen. Obwohl im allgemeinen Konsens darüber herrscht, dass Überwachungsregime invasiv und autoritär sind, installieren Leute immer mehr Apps und “kostenlose” Programme. Dabei werden sie gezwungen, den Vertragsbedingungen zuzustimmen, geben in wenigen Klicks ihre Privatsphäre her und verschaffen Unternehmen Zugang zu ihren persönlichen Daten. Um ihr Verhalten zu rechtfertigen, erklären die meisten: „Für mich interessiert sich doch sowieso keiner, also warum sollten sie mich überwachen? Ich habe nichts zu verstecken.”„Nothing To Hide“ ist ein unabhängiger Dokumentarfilm über die digitale Überwachung und deren weit verbreitete Akzeptanz in der Bevölkerung mit der Rechtfertigung des „Ich habe nicht zu verstecken“- Arguments. Die in Berlin lebenden Journalisten und Marc Meillassoux und Mihaela Gladovic haben den Film geschrieben und produziert, um sich anhand der persönlichen Geschichten von fünf Protagonisten der Frage anzunähern, was diese passive Akzeptanz von massiver Überwachung von Seiten großer Unternehmen als auch staatlich für unsere Demokratie, für unser Recht auf Privatsphäre, für unsere Gesellschaft und für uns als Individuum bedeutet.- in deutsch mit englischen Untertiteln -</description>
+        <persons>
+          <person id="0">Kreatur</person>
+        </persons>
+        <links/>
       </event>
       <event id="1526" guid="e302015a-61fd-4f1a-bccb-79ca8c5e184b">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SYSTEM_ERROR_-_Dokumentarfilm_2018</url>
@@ -5438,29 +5459,6 @@ This talk is about a set of (mainly european) conceptions of sustainability whic
         <persons/>
         <links/>
       </event>
-      <event id="1412" guid="efd241bf-219f-4595-a54a-4a424531b944">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices</url>
-        <logo/>
-        <date>2019-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:30</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1412-session_creating_z_wave_controllers_and_devices</slug>
-        <title>Creating Z-Wave controllers and devices</title>
-        <subtitle>room and time might change - check before joining us!!!</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Hacking around Z-Wave smart home protocol
-Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
-        <persons>
-          <person id="0">PoltoS</person>
-        </persons>
-        <links>
-          <link>http://z-uno.z-wave.me</link>
-        </links>
-      </event>
       <event id="1089" guid="a9fb68c0-65ac-474c-b9fd-a8cbd5711b78">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Esperanto</url>
         <logo/>
@@ -5655,6 +5653,31 @@ Allmacht ist ein alter theoretischer Begriff, der für einige logische Verwirrun
           <person id="0">Larma</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Assembly:CriticalDecentralisationCluster">
+      <event id="1412" guid="efd241bf-219f-4595-a54a-4a424531b944">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:CriticalDecentralisationCluster</room>
+        <slug>36c3-1412-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle>!! Room changed to CDC Assembly !!</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol
+Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
+        <persons>
+          <person id="0">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+        </links>
       </event>
     </room>
     <room name="Lecture room M2">
@@ -8635,6 +8658,31 @@ Für mehr information schau bitte auf die Pretalxseite der WikiPaka WG: https://
         </persons>
         <links>
           <link>https://cfp.verschwoerhaus.de/36c3/talk/CRH3HY/</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:CriticalDecentralisationCluster">
+      <event id="1581" guid="7baed6db-c7e7-43f9-a813-9f785a853548">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:CriticalDecentralisationCluster</room>
+        <slug>36c3-1581-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol
+Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
+        <persons>
+          <person id="0">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
         </links>
       </event>
     </room>

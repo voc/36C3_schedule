@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-27 21:50",
+    "version": "2019-12-27 22:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -1129,7 +1129,7 @@
                 "type": "meeting",
                 "language": "de",
                 "abstract": "",
-                "description": "Stammtisch f\u00fcr Menschen aus dem Bildungsbereich\nStammtisch f\u00fcr Menschen aus dem Bildungsbereich",
+                "description": "Stammtisch f\u00fcr Menschen aus dem Bildungsbereich\nStammtisch f\u00fcr Menschen aus dem BildungsbereichHier nach Nachtrag die Links zu unseren Fahrstuhlreden:* https://www.oercamp.de/* https://buendnis-freie-bildung.de/* https://github.com/frank-christiansen/iqsh-winkekatze* http://www.olaf.one/* https://tetrapix.de/* https://instahub.org/* https://ada7.de/* https://tcp.nhcham.org/",
                 "persons": [
                   {
                     "id": 0,
@@ -2214,12 +2214,12 @@
                 "room": "Assembly:CriticalDecentralisationCluster",
                 "slug": "36c3-1411-session_creating_z_wave_controllers_and_devices",
                 "title": "Creating Z-Wave controllers and devices",
-                "subtitle": "room has changed!",
+                "subtitle": "!! Room has changed !!",
                 "track": "self organized sessions",
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
+                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
                 "persons": [
                   {
                     "id": 0,
@@ -3153,6 +3153,32 @@
                 "links": [
                   "https://opencircularity.info/36c3/"
                 ]
+              },
+              {
+                "id": 1582,
+                "guid": "50fab29f-72b7-4e68-a667-7df822e78752",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Nothing_to_Hide_-_Dokumentarfilm_2017",
+                "logo": null,
+                "date": "2019-12-27T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "1:30",
+                "room": "Roter Salon",
+                "slug": "36c3-1582-session_nothing_to_hide_dokumentarfilm_2017",
+                "title": "Nothing to Hide - Dokumentarfilm 2017",
+                "subtitle": "Nothing to Hide?",
+                "track": "self organized sessions",
+                "type": "other",
+                "language": "de",
+                "abstract": "",
+                "description": "\u00dcberwachte digitale Welt\nKurzthese:\u201eIch habe ja nichts zu verstecken\u201c, lautet das Mantra mit dem wir trotz Snowden eine \u00fcberwachte digitale Welt hinnehmen. Anhand der pers\u00f6nlichen Geschichten von f\u00fcnf Protagonisten untersucht der Dokumentarfilm \u201eNothing To Hide\u201c die Implikationen dieser Haltung f\u00fcr Demokratie und Privatsph\u00e4re, f\u00fcr Gesellschaft und Individuum. Beschreibung: Trotz den Enth\u00fcllungen Edward Snowdens  scheinen die Meisten von uns eine \u00fcberwachte digitale Gesellschaft einfach hinzunehmen. Obwohl im allgemeinen Konsens dar\u00fcber herrscht, dass \u00dcberwachungsregime invasiv und autorit\u00e4r sind, installieren Leute immer mehr Apps und \u201ckostenlose\u201d Programme. Dabei werden sie gezwungen, den Vertragsbedingungen zuzustimmen, geben in wenigen Klicks ihre Privatsph\u00e4re her und verschaffen Unternehmen Zugang zu ihren pers\u00f6nlichen Daten. Um ihr Verhalten zu rechtfertigen, erkl\u00e4ren die meisten: \u201eF\u00fcr mich interessiert sich doch sowieso keiner, also warum sollten sie mich \u00fcberwachen? Ich habe nichts zu verstecken.\u201d\u201eNothing To Hide\u201c ist ein unabh\u00e4ngiger Dokumentarfilm \u00fcber die digitale \u00dcberwachung und deren weit verbreitete Akzeptanz in der Bev\u00f6lkerung mit der Rechtfertigung des \u201eIch habe nicht zu verstecken\u201c- Arguments. Die in Berlin lebenden Journalisten und Marc Meillassoux und Mihaela Gladovic haben den Film geschrieben und produziert, um sich anhand der pers\u00f6nlichen Geschichten von f\u00fcnf Protagonisten der Frage anzun\u00e4hern, was diese passive Akzeptanz von massiver \u00dcberwachung von Seiten gro\u00dfer Unternehmen als auch staatlich f\u00fcr unsere Demokratie, f\u00fcr unser Recht auf Privatsph\u00e4re, f\u00fcr unsere Gesellschaft und f\u00fcr uns als Individuum bedeutet.- in deutsch mit englischen Untertiteln -",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kreatur",
+                    "public_name": "Kreatur"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1526,
@@ -6746,34 +6772,6 @@
                 "links": []
               },
               {
-                "id": 1412,
-                "guid": "efd241bf-219f-4595-a54a-4a424531b944",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices",
-                "logo": null,
-                "date": "2019-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:30",
-                "room": "Seminar room 14-15",
-                "slug": "36c3-1412-session_creating_z_wave_controllers_and_devices",
-                "title": "Creating Z-Wave controllers and devices",
-                "subtitle": "room and time might change - check before joining us!!!",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:PoltoS",
-                    "public_name": "PoltoS"
-                  }
-                ],
-                "links": [
-                  "http://z-uno.z-wave.me"
-                ]
-              },
-              {
                 "id": 1089,
                 "guid": "a9fb68c0-65ac-474c-b9fd-a8cbd5711b78",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Esperanto",
@@ -7024,6 +7022,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:CriticalDecentralisationCluster": [
+              {
+                "id": 1412,
+                "guid": "efd241bf-219f-4595-a54a-4a424531b944",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices",
+                "logo": null,
+                "date": "2019-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "1:30",
+                "room": "Assembly:CriticalDecentralisationCluster",
+                "slug": "36c3-1412-session_creating_z_wave_controllers_and_devices",
+                "title": "Creating Z-Wave controllers and devices",
+                "subtitle": "!! Room changed to CDC Assembly !!",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:PoltoS",
+                    "public_name": "PoltoS"
+                  }
+                ],
+                "links": [
+                  "http://z-uno.z-wave.me"
+                ]
               }
             ],
             "Lecture room M2": [
@@ -10666,6 +10694,36 @@
                 ],
                 "links": [
                   "https://cfp.verschwoerhaus.de/36c3/talk/CRH3HY/"
+                ]
+              }
+            ],
+            "Assembly:CriticalDecentralisationCluster": [
+              {
+                "id": 1581,
+                "guid": "7baed6db-c7e7-43f9-a813-9f785a853548",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices",
+                "logo": null,
+                "date": "2019-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "1:30",
+                "room": "Assembly:CriticalDecentralisationCluster",
+                "slug": "36c3-1581-session_creating_z_wave_controllers_and_devices",
+                "title": "Creating Z-Wave controllers and devices",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:PoltoS",
+                    "public_name": "PoltoS"
+                  }
+                ],
+                "links": [
+                  "http://z-uno.z-wave.me"
                 ]
               }
             ],

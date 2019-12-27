@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.13; chaoszone 0.7; komona 0.12; sendezentrum 2.7; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 18:20</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra _15; wikipaka 0.13; chaoszone 0.7; komona 0.12; sendezentrum 2.7; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 18:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -9417,7 +9417,7 @@ This short talk will explain what doing accounting means, good reasons for doing
         <track>Hardware &amp; Making</track>
         <type>Lightning Talk</type>
         <language>en</language>
-        <abstract>We are building a open source laser tag system. https://github.com/open-laser-tag/</abstract>
+        <abstract>We are building a easy to build open source laser tag system. https://github.com/open-laser-tag/</abstract>
         <description>The open laser tag system is built on a ESP32 and a Android app. Laser Tag works with infrared, so the ESP32 is connected to a Infrared LED and a receiver. The infrared light is focused by a lens. The Android app is connected to the ESP32 via the onboard Bluetooth of the ESP32. The system is nearly playable. Currently we are working on a better case of the tagger. When you want to develop with us or want to have fun in the future with our system you are very welcome to contact us!</description>
         <recording>
           <license/>
@@ -12507,8 +12507,8 @@ Dieser Kurzvortrag nimmt dich auf eine Tour durch die wundersame Welt der supra-
         <type>workshop</type>
         <language>de</language>
         <abstract/>
-        <description>Hacking everyday communication practices to change the world
-Workshop Description: &lt;br&gt;"Accessibility sounds great, but where do I start?" –Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too! &lt;br&gt;The aim of this workshop is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fixing it. Hacker culture is meant for curious people to experience and experiment with new things: technologies, cultures, and sometimes their different selves. But openness doesn't automatically lead to accessibility and inclusion – we have to make it happen ourselves! This session is similar to the one we did at CCCamp earlier in 2019. &lt;br&gt;This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in changing the world in small steps – starting with ourselves and the needs of members in our communities. &lt;br&gt;If you can't join this session or would like to give feedback afterwards, you can find infos here: https://www.angela.is/36C3/About the SocialTech project: &lt;br&gt;The goal of the SocialTech project is to show that small changes in everyday communication and interpersonal interactions improve inclusion dramatically. Our current project is to create a resource pool to help inspire people as they endeavour to make their projects more inclusive. Using concepts from academia, design, activism and community organization we developed a set of questions to start a conversation about accessibility that you can use and adapt to your unique situation.</description>
+        <description>&lt;strong&gt;Hacking everyday communication practices to change the world&lt;/strong&gt;&lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Workshop Description: &lt;/strong&gt;&lt;br&gt;&lt;br&gt;"Accessibility sounds great, but where do I start?" –Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too! &lt;br&gt;&lt;br&gt;The aim of this workshop is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fixing it. Hacker culture is meant for curious people to experience and experiment with new things: technologies, cultures, and sometimes their different selves. But openness doesn't automatically lead to accessibility and inclusion – we have to make it happen ourselves! This session is similar to the one we did at CCCamp earlier in 2019. &lt;br&gt;&lt;br&gt;This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in changing the world in small steps – starting with ourselves and the needs of members in our communities. &lt;br&gt;&lt;br&gt;If you can't join this session or would like to give feedback afterwards, you can find infos here: https://www.angela.is/36C3/&lt;br&gt;&lt;br&gt;&lt;strong&gt;About the SocialTech project: &lt;/strong&gt;&lt;br&gt;&lt;br&gt;The goal of the SocialTech project is to show that small changes in everyday communication and interpersonal interactions improve inclusion dramatically. Our current project is to create a resource pool to help inspire people as they endeavour to make their projects more inclusive. Using concepts from academia, design, activism and community organization we developed a set of questions to start a conversation about accessibility that you can use and adapt to your unique situation.</description>
         <persons>
           <person id="0">Erdbeerblau</person>
           <person id="0">Vishnee</person>
@@ -17812,6 +17812,27 @@ Print your own t-shirt with screen printing.Bedruckt eure eigenen T-Shirts mit s
         </persons>
         <links/>
       </event>
+      <event id="1557" guid="2a988678-13d1-4528-b02f-6199b6599368">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wein_:_Offline</url>
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>Kidspace</room>
+        <slug>36c3-1557-session_wein_offline</slug>
+        <title>Wein : Offline</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Ein Reise durch Bioweine von unabhängige Quellen
+</description>
+        <persons>
+          <person id="0">Gnomus</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="Assembly:Digitalcourage">
       <event id="1548" guid="330a7e4e-bd7f-542e-9f30-1bace690e2e9">
@@ -17930,6 +17951,113 @@ The Binary Kitchen soldering workshop goes 36C3. We are providing a soldering wo
         <links>
           <link>https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:nibble_area</link>
         </links>
+      </event>
+    </room>
+    <room name="Studio Datsche">
+      <event id="1554" guid="c8000aa0-cd83-4b87-bed0-313cbc5de1a6">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Lectures:_Analog_Strategies</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Studio Datsche</room>
+        <slug>36c3-1554-session_lectures_analog_strategies</slug>
+        <title>Lectures: Analog Strategies</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>
+analoge künstlerische strategien/// sofie suiexcursion about artefacts/// joelle &amp;isak (in English)sphere radio leipzig /// ben und anna</description>
+        <persons>
+          <person id="0">Deine datsche</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1556" guid="8120f91b-f9aa-4215-8cb1-ca42d249c43d">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Performance:_Artefact_Excursion</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Studio Datsche</room>
+        <slug>36c3-1556-session_performance_artefact_excursion</slug>
+        <title>Performance: Artefact Excursion</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+</description>
+        <persons>
+          <person id="0">Deine datsche</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1489" guid="cb6c6733-c122-43e6-9b41-9aa83c8a960b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Warm-up_und_Brei</url>
+        <logo/>
+        <date>2019-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Studio Datsche</room>
+        <slug>36c3-1489-session_warm_up_und_brei</slug>
+        <title>Warm-up und Brei</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Sport and Porridge
+</description>
+        <persons>
+          <person id="0">Deine datsche</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1558" guid="55ad228f-0c8a-48c9-9156-eaa4374b81f3">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Workshop_:_Tapeloops</url>
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Studio Datsche</room>
+        <slug>36c3-1558-session_workshop_tapeloops</slug>
+        <title>Workshop : Tapeloops</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>
+An Inquiry Into Tape Loops and the Nature of the Loop!In this workshop, you will learn how to make your own cassette tape loops and some basics about tape players in general, as well as the cultural importance of the loop itself and how recordings became instruments.What to bring (if you can):A cassette with screwsClear packing tapeA screwdriverScissorsA cassette player (4-track for a better experience)Optional:Mat boardA rulerA rubber washerA razor or craft knifeDouble-sided tape</description>
+        <persons>
+          <person id="0">Deine datsche</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1559" guid="841b82ec-a200-4fad-9f24-efa9c7b7901a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Workshop:_analogue_sound_making_for_movies_and_other</url>
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Studio Datsche</room>
+        <slug>36c3-1559-session_workshop_analogue_sound_making_for_movies_and_other</slug>
+        <title>Workshop: analogue sound making for movies and other</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>The Art of Foley
+</description>
+        <persons>
+          <person id="0">Deine datsche</person>
+        </persons>
+        <links/>
       </event>
     </room>
     <room name="Assembly:Placeholder for Komona Cinopolis">
@@ -18157,29 +18285,6 @@ In einem Workshop überlegen Schüler*innen gemeinsam mit anderen, wie man sich 
         <description>Vaporizer Enthusiasts Meetup
 Vaporizer User meetup at CCL Terrace (https://36c3.c3nav.de/l/c:0:293.25:346.71/). After talking a bit we can head out to get some pizza or some other food.</description>
         <persons/>
-        <links/>
-      </event>
-    </room>
-    <room name="Studio Datsche">
-      <event id="1489" guid="cb6c6733-c122-43e6-9b41-9aa83c8a960b">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Warm-up_und_Brei</url>
-        <logo/>
-        <date>2019-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>2:00</duration>
-        <room>Studio Datsche</room>
-        <slug>36c3-1489-session_warm_up_und_brei</slug>
-        <title>Warm-up und Brei</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Sport and Porridge
-</description>
-        <persons>
-          <person id="0">Deine datsche</person>
-        </persons>
         <links/>
       </event>
     </room>
@@ -27177,6 +27282,94 @@ ATTENTION: LOCATION IS OIO Workshop Domehttps://talks.oio.social/36c3-oio/talk/X
         </links>
       </event>
     </room>
+    <room name="Assembly:Lockpicking Area">
+      <event id="1552" guid="997c2a56-e10e-4f54-ae4a-40ef299475af">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hilfe,_ich_muss_mein_T%C3%BCrschloss_tauschen</url>
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>0:30</duration>
+        <room>Assembly:Lockpicking Area</room>
+        <slug>36c3-1552-session_hilfe_ich_muss_mein_tuerschloss_tauschen</slug>
+        <title>Hilfe, ich muss mein Türschloss tauschen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Du hast deinen Schlüssel verloren? Du willst ehemalige Mitbewohner von deiner Wohnung fernhalten? Wir schauen uns an, wie einfach so ein Schloss zu tauschen ist!
+Ein Türschloss ist eigentlich ganz einfach zu tauschen? Eine Schraube raus, altes rausziehen, neues rein. Wenn aber auf einmal ein Notfall da ist (z. B. wurde der Schlüssel verloren oder ein ehemaliger Mitbewohner wohnt nicht mehr bei dir, will die Schlüssel aber nicht hergeben), sind viele ratlos und wissen nicht, was zu tun ist. Ihr müsst nicht den Schlüsseldienst rufen, das geht ganz einfach selbst! In dieser Session könnt ihr euch das mal genauer anschauen und selbst testen. Ja, wir haben eine Tür da!You want to learn how to change a door lock? Come here, we can try it out together! Session will be in German, but I can give you th e important info in English, please ask me for it.</description>
+        <persons>
+          <person id="0">Janepie</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Studio Datsche">
+      <event id="1553" guid="09064dae-2f20-4c68-957a-11a589157ef4">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Interactive_lecture:_Why_can%27t_we_just_have_fun%3F_-_exploring_boundaries</url>
+        <logo/>
+        <date>2019-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>Studio Datsche</room>
+        <slug>36c3-1553-session_interactive_lecture_why_can_t_we_just_have_fun_exploring_boundaries</slug>
+        <title>Interactive lecture: Why can't we just have fun? - exploring boundaries</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>
+</description>
+        <persons>
+          <person id="0">Deine datsche</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1555" guid="36c90cda-afbe-4e1e-ad86-53a90da80c41">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Panel:_body_as_interface%3F</url>
+        <logo/>
+        <date>2019-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Studio Datsche</room>
+        <slug>36c3-1555-session_panel_body_as_interface_</slug>
+        <title>Panel: body as interface?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>
+with maike hautz-tänzerinkaloan- wee-useralexander H.- VR-programmierer</description>
+        <persons>
+          <person id="0">Deine datsche</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1490" guid="1d4f158a-2f11-481d-82a0-63c6ac2ed2c3">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Warm-up_und_Brei</url>
+        <logo/>
+        <date>2019-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Studio Datsche</room>
+        <slug>36c3-1490-session_warm_up_und_brei</slug>
+        <title>Warm-up und Brei</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Sport and Porridge
+</description>
+        <persons>
+          <person id="0">Deine datsche</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:Anarchist Village">
       <event id="1330" guid="b8903724-9ef4-4f07-9885-c245d550c477">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking</url>
@@ -27288,29 +27481,6 @@ Achtung: Die ersten 30 Minuten sind für den Aufbau eingeplant, der eigentliche 
 </description>
         <persons>
           <person id="0">It-kollektiv</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="Studio Datsche">
-      <event id="1490" guid="1d4f158a-2f11-481d-82a0-63c6ac2ed2c3">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Warm-up_und_Brei</url>
-        <logo/>
-        <date>2019-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>2:00</duration>
-        <room>Studio Datsche</room>
-        <slug>36c3-1490-session_warm_up_und_brei</slug>
-        <title>Warm-up und Brei</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description>Sport and Porridge
-</description>
-        <persons>
-          <person id="0">Deine datsche</person>
         </persons>
         <links/>
       </event>
@@ -29453,6 +29623,38 @@ Despite working in such an over saturated and competitive field, Dana Ruh manage
         <persons/>
         <links>
           <link href="https://www.mixcloud.com/wando-waiato/">Wando Waiato on Mixcloud</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="11309" guid="c1308108-96bf-4376-81ee-5ca3a8aee0c2">
+        <url>https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11309.html</url>
+        <logo>/system/events/logos/000/011/309/large/asthma?1577465342</logo>
+        <date>2019-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+        <room>Uptown</room>
+        <slug>36c3-abfahrplan-11309-dj_asthma</slug>
+        <title>DJ Asthma</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>your favourite asthmatic from Mannheim, Germany! </abstract>
+        <description>What started with producing techno music a few years back has now come to the next step of evolution!&#13;
+But not with focus on straight thundering techno - electro &amp; breaks, sometimes house is what DJ Asthma is all about.&#13;
+&#13;
+"Motto":&#13;
+&#13;
+Sie rufen an - ich lege auf&#13;
+</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.mixcloud.com/djasthma/">on Mixcloud</link>
+          <link href="https://soundcloud.com/pitchbentmusic">Soundcloud</link>
         </links>
         <attachments/>
       </event>

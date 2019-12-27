@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-27 16:00</version>
+  <version>2019-12-27 16:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1547,6 +1547,31 @@ Print your own t-shirt with screen printing.Bedruckt eure eigenen T-Shirts mit s
         <links/>
       </event>
     </room>
+    <room name="Assembly:Pseudoroom">
+      <event id="1540" guid="8a9c8592-e7e9-4760-88e2-45306550d664">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Captain_Sonar</url>
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Pseudoroom</room>
+        <slug>36c3-1540-session_captain_sonar</slug>
+        <title>Captain Sonar</title>
+        <subtitle>Let's play</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Captain Sonar
+Wir spielen das Spiel Captain Sonar.Bitte über https://www.schokoladensouffle.eu/captainsonar/ anmelden, maximal acht Teilnehmer, FCFS</description>
+        <persons>
+          <person id="0">Caylee</person>
+        </persons>
+        <links>
+          <link>https://www.schokoladensouffle.eu/captainsonar/</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Foodhackingbase">
       <event id="1244" guid="1d78e5c5-6395-47de-9888-9fed5a22f59f">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Cidre_Making</url>
@@ -2428,8 +2453,8 @@ We offer instructions for "Damn Vulnerable Web Application" daily. At least for 
       <event id="1536" guid="0a1ad02c-92a5-4270-a6a2-42d3abf873ad">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:I_am_a_Kernel_Dev_-_Ask_me_anything!</url>
         <logo/>
-        <date>2019-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2019-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>0:45</duration>
         <room>Roter Salon</room>
         <slug>36c3-1536-session_i_am_a_kernel_dev_ask_me_anything_</slug>
@@ -2437,7 +2462,7 @@ We offer instructions for "Damn Vulnerable Web Application" daily. At least for 
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description>Reddit style panel
 </description>
@@ -2732,31 +2757,6 @@ More sessions will be announced for Day 2, Day 3 and Day 4.</description>
           <person id="0">It-kollektiv</person>
         </persons>
         <links/>
-      </event>
-    </room>
-    <room name="Assembly:The Tinkering To Come - bstly">
-      <event id="1524" guid="13f4fff9-56a5-4982-b447-e54da1429952">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:What_is_the_Tinkering_To_Come%3F</url>
-        <logo/>
-        <date>2019-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>0:20</duration>
-        <room>Assembly:The Tinkering To Come - bstly</room>
-        <slug>36c3-1524-session_what_is_the_tinkering_to_come_</slug>
-        <title>What is the Tinkering To Come?</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>The Secretary of the Tinkering To Come explains the Mission
-The Secretary of The Tinkering To Come explains everything concerning the Tinkering To Come and how you can participate.</description>
-        <persons>
-          <person id="0">Louisfabu</person>
-        </persons>
-        <links>
-          <link>http://bstly.de</link>
-        </links>
       </event>
     </room>
     <room name="Assembly:WikipakaWG">
@@ -5762,6 +5762,27 @@ Das schnelle Quiz für alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jah
           <link>https://nwng.eu/36c3-gg</link>
         </links>
       </event>
+      <event id="1542" guid="f34d166e-d61f-4f1d-88f3-09fe872fc606">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wikipaka_Translation_Info_Meeting,_Day_2</url>
+        <logo/>
+        <date>2019-12-28T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>0:30</duration>
+        <room>Assembly:WikipakaWG</room>
+        <slug>36c3-1542-session_wikipaka_translation_info_meeting_day_2</slug>
+        <title>Wikipaka Translation Info Meeting, Day 2</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Young and good at English and German? Try live translation!
+This year, we want to translate all talks at WikipakaWG between German and English, and we need your help!If you’re young, speak German and English, and think live translation sounds like fun, why don’t you join us at our information meeting? We’ll tell you how live translation works and you can decide if you want to give it a try at a talk of your choice. Don’t panic, there will always be one experienced translator with you in the booth.We meet near the translation booth in Esszimmer.Dieses Jahr wollen wir alle Vorträge in der WikipakaWG zwischen Deutsch und Englisch übersetzen. Dafür brauchen wir deine Hilfe!Wenn du jung bist, Deutsch und Englisch sprichst, und Simultandolmetschen sich nach Spaß anhört, dann komm doch zu unserem Info-Treffen! Wir erklären, wie Simultandolmetschen funktioniert, und du entscheidest, ob du es mit einem Vortrag deiner Wahl ausprobieren möchtest. Keine Panik: bei jedem Vortrag ist immer eine erfahrene Person mit dir in der Kabine.Wir treffen uns bei der Übersetzungskabine im Esszimmer.</description>
+        <persons>
+          <person id="0">Waffle</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="Assembly:Placeholder for Komona Cinopolis">
       <event id="1439" guid="9476ee20-6247-44bc-a2e9-71e9ca4f8c7e">
@@ -5972,29 +5993,6 @@ Pi Mapper is an open source projection mapping tool intended to be used on the R
         </links>
       </event>
     </room>
-    <room name="Assembly:Vintage Computing">
-      <event id="1342" guid="026448ea-1a8f-4fd6-9018-cca3109dadc5">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Robotron_K8917</url>
-        <logo/>
-        <date>2019-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>0:45</duration>
-        <room>Assembly:Vintage Computing</room>
-        <slug>36c3-1342-session_robotron_k8917</slug>
-        <title>Robotron K8917</title>
-        <subtitle>Linien, Punkte, Kreise</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>robotron K8917 GKS Graphics Terminal - How does it work?
-Der Vortrag beschreibt das grafische Terminal robotron K8917. Das Gerät wurde vom VEB robotron elektronik Zella-Mehlis hergestellt. Es basiert auf dem 8 bit Prozessor U880 (Z80) und wird über eine serielle Schnittstelle gesteuert. Die Gegenstelle ist normalerweise eine grafische Workstation, die an die PDP11/03 angelehnt ist (robotron K1620). Da solche Geräte selten und nicht erhältlich sind, wird es stattdessen über ein Notebook mit serieller Schnittstelle gesteuert. Es werden die grafischen Befehle gezeigt sowie einige Steuerbefehle, die erahnen lassen, wie das Terminal mit seiner Originalmaschine zusammengearbeitet hat. Es wird also ein Bild gezeichnet, das einen nicht existenten Rechner erahnen lässt.</description>
-        <persons>
-          <person id="0">Dkt</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
     <room name="Assembly:IT-Kollektiv">
       <event id="1530" guid="1cb00472-1c19-4d22-9b17-d6f4e9ad51a5">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup</url>
@@ -6060,6 +6058,31 @@ Vaporizer User meetup at CCL Terrace (https://36c3.c3nav.de/l/c:0:293.25:346.71/
           <person id="0">Deine datsche</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Assembly:The Tinkering To Come - bstly">
+      <event id="1524" guid="13f4fff9-56a5-4982-b447-e54da1429952">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:What_is_the_Tinkering_To_Come%3F</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:20</duration>
+        <room>Assembly:The Tinkering To Come - bstly</room>
+        <slug>36c3-1524-session_what_is_the_tinkering_to_come_</slug>
+        <title>What is the Tinkering To Come?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>The Secretary of the Tinkering To Come explains the Mission
+The Secretary of The Tinkering To Come explains everything concerning the Tinkering To Come and how you can participate."We are a group of hacker attracted people who founded The Tinkering To Come as an opportunity to work together on cultural and political projects and at least the big plan to find a place to shape for creativity and sustainability use and to let different events happen there. In the last couple of years we came up with four main measures: 1. The "digitale bstly", as a digital place outside the big social networks with our own infrastructure. 2. The "Sekretariat dKB" as an office to handle financial and bureaucratic task and to support the happening of events. There for a registered association is necessary. As chairman in a voluntary culture association the knowledge is given for this step. 3. The "Kongress der Kommenden Bastelei" as yearly meetup to see each other and talk about future plans. 4. At least the "Bastelei in der Bredouille" to found a terrain for constructions and gardening.- Our assembly on congress is just a place to meet with other communities and to discuss and explore our ideas and possibilities. Of course there are professions where we need some help and we want to use the nice congress atmosphere to talk and tinker together! "</description>
+        <persons>
+          <person id="0">Louisfabu</person>
+        </persons>
+        <links>
+          <link>http://bstly.de</link>
+        </links>
       </event>
     </room>
     <room name="Assembly:Dezentrale">
@@ -6241,7 +6264,7 @@ open data - public sector information</description>
         <type>discussion</type>
         <language>en</language>
         <abstract/>
-        <description>Hackers gathering to kickoff a social revolution project - Planet A. Updated description.
+        <description>Hackers gathering to kickoff a social revolution project - Planet A. Updated description. Join #planet-a chat ! We have matrix server too (matrix.planet-a.org, chat name: 36c3).
 This year there has been lot of attention drawn to the topic of globalecological crisis. But still people are oblivious. This may be not thatobvious to members of opensource community. We care about freedom. Levels ofawareness of the societal, political and ecological problems are generallyhigher than those among the rest of population. Not only that! We are, hackershave skills to make systemic change in the world with attitude and principlesthat have been the reasons of opensource movement success. And yet we surroundour selves with like minded people and never beak out the bubble. It won't getany better if we will not unite and act upon.Let's step out the bubble. Let's bring awareness to unaware and tools topowerless. How many concerned people have will and yet feel alone and powerlessin the face of scale of the disaster?In this session we will have a short presentation followed by discussion. Wehave some ideas we want to share and want to hear yours too. Everyone is invitedto form the team.We will soon setup a before chat for communication during the congress.Links:Documentary about CCC. You should watch it if you haven't yet.https://allcreatureswelcome.netWhat can the hacker community do to make things better?https://media.ccc.de/v/32c3-7501-ten_years_after_we_lost_the_warExtinction rebelionhttps://rebellion.earth/https://www.youtube.com/watch?v=b2VkC4SnwY0https://tellthetruth.media/</description>
         <persons>
           <person id="0">Zap</person>
@@ -8228,6 +8251,27 @@ Let’s suppose that our bodymind is the hardware and our behavior is the softwa
           <link>http://8os.io</link>
         </links>
       </event>
+      <event id="1541" guid="232c53e4-df87-4b43-8af2-7eeb39b2e22f">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Foundation_worshop:_Git,_a_version_control_system_to_solve_filename_chaos_and_collaborative_editing_%E2%80%93_a_tutorial_for_absolute_beginners</url>
+        <logo/>
+        <date>2019-12-29T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>0:45</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1541-session_foundation_worshop_git_a_version_control_system_to_solve_filename_chaos_and_collaborative_editing_a_tutorial_for_absolute_beginners</slug>
+        <title>Foundation worshop: Git, a version control system to solve filename chaos and collaborative editing – a tutorial for absolute beginners</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Tired of filename chaos such as "report_final_really_v2_corrected.txt"? There is a technological solution to this problem, a version control system such as Git. Learn in this hands-on workshop how to use it. Git is useful both for personal files and for files which are edited by teams.
+Note to organizers of other sessions: We don't need that much space that M3 provides. If you want to organize a session which needs the space more than us then we'll surely find a solution! Call me at +49 176 95110311 (German or English).</description>
+        <persons>
+          <person id="0">Iblech</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1134" guid="a10fe7a1-8c97-4bac-9bc3-989e4cb6a986">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:General_Angel_meeting_day_3</url>
         <logo/>
@@ -8594,6 +8638,27 @@ OPS erzählen vom Krieg / Sysadmin-Therapiegruppe / Tales from the Sysadmin tren
 </description>
         <persons>
           <person id="0">Dolonnen</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1342" guid="026448ea-1a8f-4fd6-9018-cca3109dadc5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Robotron_K8917</url>
+        <logo/>
+        <date>2019-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>1:15</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>36c3-1342-session_robotron_k8917</slug>
+        <title>Robotron K8917</title>
+        <subtitle>Linien, Punkte, Kreise</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>robotron K8917 GKS Graphics Terminal - How does it work?
+Achtung: Die ersten 30 Minuten sind für den Aufbau eingeplant, der eigentliche Vortrag beginnt erst um 19:00. Ihr könnt aber gerne beim Aufbau zusehen.Der Vortrag beschreibt das grafische Terminal robotron K8917. Das Gerät wurde vom VEB robotron elektronik Zella-Mehlis hergestellt. Es basiert auf dem 8 bit Prozessor U880 (Z80) und wird über eine serielle Schnittstelle gesteuert. Die Gegenstelle ist normalerweise eine grafische Workstation, die an die PDP11/03 angelehnt ist (robotron K1620). Da solche Geräte selten und nicht erhältlich sind, wird es stattdessen über ein Notebook mit serieller Schnittstelle gesteuert. Es werden die grafischen Befehle gezeigt sowie einige Steuerbefehle, die erahnen lassen, wie das Terminal mit seiner Originalmaschine zusammengearbeitet hat. Es wird also ein Bild gezeichnet, das einen nicht existenten Rechner erahnen lässt.</description>
+        <persons>
+          <person id="0">Dkt</person>
         </persons>
         <links/>
       </event>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 16:00",
+    "version": "hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 16:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -604,10 +604,6 @@
                   {
                     "id": 9225,
                     "public_name": "f1yyy"
-                  },
-                  {
-                    "id": 9226,
-                    "public_name": "Hanqing Zhao"
                   }
                 ],
                 "links": [],
@@ -1317,7 +1313,12 @@
                     "title": "A detailed whitepaper of the vulnerabilities and exploitation technique "
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/053/original/36C3-SQLite3-OmerGull.pdf?1577457573",
+                    "title": "36C3-SQLite3-OmerGull.pdf"
+                  }
+                ]
               }
             ],
             "Eliza": [
@@ -5138,7 +5139,39 @@
                 "title": "Beginners Workshop: How to Hack your Web Application",
                 "subtitle": "",
                 "track": "Security",
-                "type": "Workshop 2 hours",
+                "type": "Workshop 1 hour",
+                "language": "en",
+                "abstract": "Did you ever want to know how hacking works? This beginners workshops gives an introduction into vulnerabilities, application pen testing and the security of web applications. Only if you know how hackers attack your application, you will be able to defend yourself. Nearly all companies use web applications nowadays. Any vulnerability in those applications may be an invitation for hackers to attack it. This workshop will give you insights on those things that you should never neglect when programming your application. From Techie to Techie!\r\n\r\nRequirements: programming experience & laptop needed, security knowledge is not necessary",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 136,
+                    "code": "ZWHJ7T",
+                    "public_name": "Janosch Maier",
+                    "biography": "Janosch Maier holds a computer science master degree and a pedagogy bachelor degree. He worked in several start-ups and developed a cyber security dashboard for the Dutch ministry of justice. After his studies, he founded the Crashtest Security GmbH where he develops a vulnerability scanner for web application.  Janosch is giving regular talks and workshops to promote IT security in agile software development for SMEs and corporates.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 367,
+                "guid": "81f5f0c4-3d35-522c-8f1c-c8825b92f00a",
+                "logo": "",
+                "date": "2019-12-27T17:15:00+01:00",
+                "start": "17:15",
+                "duration": "01:00",
+                "room": "OIO Workshop Dome",
+                "slug": "SRMX8W",
+                "url": "https://talks.oio.social/36c3-oio/talk/SRMX8W/",
+                "title": "Beginners Workshop: How to Hack your Web Application",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Workshop 1 hour",
                 "language": "en",
                 "abstract": "Did you ever want to know how hacking works? This beginners workshops gives an introduction into vulnerabilities, application pen testing and the security of web applications. Only if you know how hackers attack your application, you will be able to defend yourself. Nearly all companies use web applications nowadays. Any vulnerability in those applications may be an invitation for hackers to attack it. This workshop will give you insights on those things that you should never neglect when programming your application. From Techie to Techie!\r\n\r\nRequirements: programming experience & laptop needed, security knowledge is not necessary",
                 "description": "",
@@ -5669,38 +5702,6 @@
                 "answers": []
               },
               {
-                "id": 814,
-                "guid": "c8b27e16-7671-5fdb-9dca-c09b6dc8ce05",
-                "logo": "",
-                "date": "2019-12-27T15:30:00+01:00",
-                "start": "15:30",
-                "duration": "01:30",
-                "room": "headnut",
-                "slug": "78GZP7",
-                "url": "https://talks.komona.org/36c3/talk/78GZP7/",
-                "title": "Balancing idea and reality of no work in 1Komona",
-                "subtitle": "",
-                "track": null,
-                "type": "Workshop",
-                "language": "en",
-                "abstract": "A session, exchange, release, reflection on different ideas  and the reality of decentralized organisation, recentralized responsibility and the metaphysics of Ideas and their work load.",
-                "description": "What happened when komona started to decentralize? Didn't it actually started decentralized and just grew bigger? How long does it take, what did help, what did go wrong. What do you have to share and adress, what have ppl to share that slided into centralized roles again? \r\nHow could these roles be defined to help the goal of decentralized and transparent organisation that allows maximum spontaneity without overwhelimg single points of failure and ppl? \r\nSpontaneity is core and at the same its a mechanic of disabling others to prepare and think before doing, whether they would like to or not. \r\nSo, how to go on. \r\nStarting with the collection of work that was done to establish a shared knowledge base: what was on the table for this years conoma?\r\n\r\n*If you want to make a good talk, you can't only think of what information you really want to talk about, you have to think of what information the people want/need to hear to get into the topic. Otherwise it wouldn't make sense, you can talk alone than.* (anonymous)",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 26,
-                    "code": "W3ZWBB",
-                    "public_name": "me? you?",
-                    "biography": "ppl within komona doing things, this is an account that chosed to be anonymous to be able to enter sessions for other ppl and surprise who will host the workshop.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
                 "id": 809,
                 "guid": "8cc468cc-418d-5aab-8ddd-9409a3a571e7",
                 "logo": "",
@@ -5989,6 +5990,38 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              },
+              {
+                "id": 814,
+                "guid": "c8b27e16-7671-5fdb-9dca-c09b6dc8ce05",
+                "logo": "",
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:30",
+                "room": "nokingdome",
+                "slug": "78GZP7",
+                "url": "https://talks.komona.org/36c3/talk/78GZP7/",
+                "title": "Balancing idea and reality of no work in 1Komona",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "en",
+                "abstract": "A session, exchange, release, reflection on different ideas  and the reality of decentralized organisation, recentralized responsibility and the metaphysics of Ideas and their work load.",
+                "description": "What happened when komona started to decentralize? Didn't it actually started decentralized and just grew bigger? How long does it take, what did help, what did go wrong. What do you have to share and adress, what have ppl to share that slided into centralized roles again? \r\nHow could these roles be defined to help the goal of decentralized and transparent organisation that allows maximum spontaneity without overwhelimg single points of failure and ppl? \r\nSpontaneity is core and at the same its a mechanic of disabling others to prepare and think before doing, whether they would like to or not. \r\nSo, how to go on. \r\nStarting with the collection of work that was done to establish a shared knowledge base: what was on the table for this years conoma?\r\n\r\n*If you want to make a good talk, you can't only think of what information you really want to talk about, you have to think of what information the people want/need to hear to get into the topic. Otherwise it wouldn't make sense, you can talk alone than.* (anonymous)",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 26,
+                    "code": "W3ZWBB",
+                    "public_name": "me? you?",
+                    "biography": "ppl within komona doing things, this is an account that chosed to be anonymous to be able to enter sessions for other ppl and surprise who will host the workshop.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "1Komona soupworx": [
@@ -6092,6 +6125,38 @@
               }
             ],
             "1Komona cinopolis": [
+              {
+                "id": 859,
+                "guid": "e28d609f-4fcc-52c0-9b78-eef74f91a0f2",
+                "logo": "/media/36c3/images/LRLU93/logo.png",
+                "date": "2019-12-27T18:05:00+01:00",
+                "start": "18:05",
+                "duration": "00:30",
+                "room": "cinopolis",
+                "slug": "LRLU93",
+                "url": "https://talks.komona.org/36c3/talk/LRLU93/",
+                "title": "Medienkollektiv Frankfurt - Kurzfilme",
+                "subtitle": "",
+                "track": null,
+                "type": "Movie",
+                "language": "de",
+                "abstract": "Das _Medienkollektiv Frankfurt_ stellt sich kurz vor und zeigt eine kleine Auswahl an Produktionen der letzten Monate.\r\n\r\nIf required, we can also translate / speak in english. Our Videos and interviews are in german.",
+                "description": "Wir, das [Medienkollektiv Frankfurt](https://www.medienkollektivfrankfurt.net/), arbeiten ohne kommerzielles Interesse. Wir entscheiden frei von Markt- und Diskurszw\u00e4ngen, rein nach inhaltlichen Kriterien, was wir in welcher Weise abbilden wollen - und dies nicht isoliert und von au\u00dfen, sondern solidarisch aus und mit den Bewegungen, \u00fcber die wir berichten.\r\n\r\nIn diesem Block stellen wir drei unterschiedliche Videos vor: Einen Trailer zum [Thema Klimastreik (30 Sekunden)](https://www.youtube.com/watch?v=yu0ypdR2JL8), einen [Demobericht zu Rojava (4 Minuten)](https://www.youtube.com/watch?v=M83c_VEvMXg) und eine [Kurzdoku (9 Minuten)](https://www.youtube.com/watch?v=kDDJBLQMYIY) \u00fcber die Ende Gel\u00e4nde Aktion im Rheinischen Braunkohlerevier Ende Juni 2019.\r\n\r\nAnschliessend k\u00f6nnen wir uns \u00fcber alternative Medienarbeit unterhalten. Wir teilen gerne unsere Erfahrungen und freuen uns \u00fcber kritischen Austausch.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 56,
+                    "code": "TZQMLT",
+                    "public_name": "mkf_",
+                    "biography": "Medienkollektiv Frankfurt",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
               {
                 "id": 836,
                 "guid": "bbb85436-a57a-504e-8f90-6a45188e0fa3",
@@ -7123,7 +7188,7 @@
                 "track": "Workshop",
                 "type": "workshop",
                 "language": "en",
-                "abstract": "Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.\r\n\r\nPlease take with you\r\n* Your laptop with\r\n** Access to the internet\r\n** Arduino IDE installed\r\n** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)\r\n* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)\r\n* Arduino compatible sensors to build your own Z-Wave sensor (optional)\r\n* Your Z-Wave stuff if any (optional)",
+                "abstract": "Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.\r\n\r\nPlease take with you\r\n<ul>\r\n<li> Your laptop with</li>\r\n  <ul>\r\n    <li>Access to the internet</li>\r\n    <li>Arduino IDE installed</li>\r\n    <li>Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)</li>\r\n  </ul>\r\n<li>Your Raspberry Pi 3/4 with Raspbian Stretch (optional)</li>\r\n<li>Arduino compatible sensors to build your own Z-Wave sensor (optional)</li>\r\n<li>Your Z-Wave stuff if any (optional)</li>\r\n</ul>",
                 "description": "<h2>Workshop sections</h2>\r\n<ul>\r\n<li>What is Z-Wave and where should you use it</li>\r\n<li>Z-Way controller and RaZberry/UZB hardware</li>\r\n <ul>\r\n  <li>Controlling switches </li>\r\n  <li>Reading sensor/switch values</li>\r\n  <li>Making rules</li>\r\n  <li>Using JS API</li>\r\n </ul>\r\n<li>Z-Uno prototyping board</li>\r\n <ul>\r\n  <li>Making Simple Switch</li>\r\n  <li>Adding more stuff</li>\r\n </ul>\r\n<li>Z-Uno Shield and Z-Uno Configurator</li>\r\n<li>Z-Uno Modules</li>\r\n</ul>\r\n\r\n<hr/>\r\n\r\n<h2>Usefull links for the workshop</h2>\r\n\r\n<h3>Z-Way controllers on the workshop</h3>\r\n<ul>\r\n<li>Controller (EU, 868 MHz)</li>\r\n<li>Smart Home UI http://192.168.88.22:8083</li>\r\n<li>Expert UI http://192.168.88.22:8083/expert</li>\r\n<li>WiFi SSID</li>\r\n<li>Z-Wave-RPi-xxxx / PSK: ccc-2019</li>\r\n<li>Smart Home User: admin / Password: ccc</li>\r\n</ul>\r\n\r\n<h3>Z-Way documentation</h3>\r\n<ul>\r\n<li>Installing Z-Way https://z-wave.me/z-way/download-z-way/</li>\r\n<li>Z-Way doc https://z-wave.me/essentials</li>\r\n<li>Z-Way JS engine GitHub https://github.com/Z-Wave-Me/home-automation/</li>\r\n</ul>\r\n\r\n<h3>Z-Way workshop materials</h3>\r\n<ul>\r\n<li>Making rules: Settings -> Apps -> Local -> IfThen -> Add</li>\r\n<li>Turning on/off a device /ZWaveAPI/Run/devices[NNN].SwitchBinary.Set(0 or 1)</li>\r\n<li>Reading switch value /ZWaveAPI/Run/devices[NNN].SwitchBinary.data.level.value</li>\r\n<li>Reading sensor value /ZWaveAPI/Run/devices[NNN].SensorBinary.data[12].level.value</li>\r\n<li>Using JS API /JS/Run/var v = 1; setInterval(function() { zway.devices[NNN].SwitchBinary.Set(v); v = 1-v;}, 2000);</li>\r\n</ul>\r\n\r\n<hr/>\r\n\r\n<h3>Z-Uno documentation</h3>\r\n<ul>\r\n<li>Quick Intro https://z-uno.z-wave.me/getting-started/quick-introduction-in-z-uno/</li>\r\n<li>Installation howto https://z-uno.z-wave.me/install</li>\r\n<li>Language Reference https://z-uno.z-wave.me/reference/</li>\r\n<li>Examples https://z-uno.z-wave.me/examples/</li>\r\n<li>Z-Uno Shield https://z-uno.z-wave.me/shield/</li>\r\n<li>Z-Uno Shield Configurator https://z-uno.z-wave.me/shield/configurator/</li>\r\n<li>Z-Uno GitHub https://github.com/Z-Wave-Me/Z-Uno-Core/</li>\r\n</ul>\r\n\r\n<h3>Z-Uno settings</h3>\r\nMake sure to configure in Arduino IDE:\r\n<ul>\r\n<li>File -> Preferences -> Add package source URL http://z-uno.z-wave.me/files/z-uno/package_z-wave.me_index.json</li>\r\n<li>Tools -> Board -> Board Manager -> Z-Uno 2.1.5</li>\r\n<li>Tools -> Board -> Z-Uno</li>\r\n<li>Tools -> Programmer -> Z-Uno</li>\r\n<li>Tools -> Port -> /dev/ttyACM0 or /dev/ttyACM1</li>\r\n<li>Tools -> Frequency EU/RU (depending on your controller)</li>\r\n<li>Tools -> Security none or S0 or S2 - up to you</li>\r\n</ul>\r\n\r\nYou might also need to add your user to *dialout* group to have permissions for /dev/ttyACM*\r\n\r\n<h3>Z-Uno workshop materials</h3>\r\nSketch for Simple Switch:\r\n<code><pre>\r\n ZUNO_SETUP_CHANNELS(ZUNO_SWITCH_BINARY(state, 0));\r\n \r\n byte state = 0;\r\n \r\n void setup() {\r\n   pinMode(13, OUTPUT);\r\n }\r\n \r\n void loop() {\r\n   digitalWrite(13, state ? HIGH : LOW);\r\n }\r\n</pre></code>\r\n\r\nSketch in getter/setter style:\r\n<code><pre>\r\n ZUNO_SETUP_CHANNELS(\r\n   ZUNO_SWITCH_BINARY(getter, setter),\r\n   ZUNO_SENSOR_BINARY_DOOR_WINDOW(doorGetter)\r\n );\r\n \r\n byte state = 0;\r\n byte door = 0, lastDoor = 0xff;\r\n \r\n void setup() {\r\n   pinMode(13, OUTPUT);\r\n   pinMode(18, INPUT);\r\n }\r\n \r\n void loop() {\r\n   digitalWrite(13, state ? HIGH : LOW);\r\n   \r\n   door = digitalRead(18) == LOW ? 0xff : 0;\r\n   if (door != lastDoor) zunoSendReport(2); // push update of channel 2\r\n   lastDoor = door;\r\n }\r\n \r\n void setter(byte val) {\r\n   state = val;\r\n }\r\n \r\n byte getter() {\r\n   return state;\r\n }\r\n \r\n byte doorGetter() {\r\n   return door;\r\n }\r\n</pre></code>",
                 "recording_license": "The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at",
                 "do_not_record": false,
@@ -7701,6 +7766,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:Pseudoroom": [
+              {
+                "id": 1540,
+                "guid": "8a9c8592-e7e9-4760-88e2-45306550d664",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Captain_Sonar",
+                "logo": null,
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:30",
+                "room": "Assembly:Pseudoroom",
+                "slug": "36c3-1540-session_captain_sonar",
+                "title": "Captain Sonar",
+                "subtitle": "Let's play",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Captain Sonar\nWir spielen das Spiel Captain Sonar.Bitte \u00fcber https://www.schokoladensouffle.eu/captainsonar/ anmelden, maximal acht Teilnehmer, FCFS",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Caylee",
+                    "public_name": "Caylee"
+                  }
+                ],
+                "links": [
+                  "https://www.schokoladensouffle.eu/captainsonar/"
+                ]
               }
             ],
             "Assembly:Foodhackingbase": [
@@ -8808,8 +8903,8 @@
                 "guid": "0a1ad02c-92a5-4270-a6a2-42d3abf873ad",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:I_am_a_Kernel_Dev_-_Ask_me_anything!",
                 "logo": null,
-                "date": "2019-12-27T20:00:00+01:00",
-                "start": "20:00",
+                "date": "2019-12-27T21:00:00+01:00",
+                "start": "21:00",
                 "duration": "0:45",
                 "room": "Roter Salon",
                 "slug": "36c3-1536-session_i_am_a_kernel_dev_ask_me_anything_",
@@ -8817,7 +8912,7 @@
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "discussion",
-                "language": "",
+                "language": "en",
                 "abstract": "",
                 "description": "Reddit style panel\n",
                 "persons": [
@@ -8990,36 +9085,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "Assembly:The Tinkering To Come - bstly": [
-              {
-                "id": 1524,
-                "guid": "13f4fff9-56a5-4982-b447-e54da1429952",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:What_is_the_Tinkering_To_Come%3F",
-                "logo": null,
-                "date": "2019-12-27T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "0:20",
-                "room": "Assembly:The Tinkering To Come - bstly",
-                "slug": "36c3-1524-session_what_is_the_tinkering_to_come_",
-                "title": "What is the Tinkering To Come?",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "The Secretary of the Tinkering To Come explains the Mission\nThe Secretary of The Tinkering To Come explains everything concerning the Tinkering To Come and how you can participate.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Louisfabu",
-                    "public_name": "Louisfabu"
-                  }
-                ],
-                "links": [
-                  "http://bstly.de"
-                ]
               }
             ]
           }
@@ -11175,7 +11240,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10902.html",
                 "id": 10902,
                 "guid": "d8b2af5e-29da-4cc7-9d72-8329df1411b1",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/902/large/Bildschirmfoto_2019-12-27_um_14.42.48.png?1577454190",
                 "date": "2019-12-28T12:50:00+01:00",
                 "start": "12:50",
                 "duration": "01:00",
@@ -11197,7 +11262,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/051/original/UltrafastImaging_Caroline_36C3_v2.pdf?1577454234",
+                    "title": "Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10892.html",
@@ -11229,7 +11299,7 @@
                   },
                   {
                     "id": 6379,
-                    "public_name": "Hakuna MaMate"
+                    "public_name": "Ganti"
                   }
                 ],
                 "links": [],
@@ -15755,6 +15825,38 @@
                 "answers": []
               },
               {
+                "id": 858,
+                "guid": "5167c031-bd7e-572c-9def-09d71f0f944c",
+                "logo": "",
+                "date": "2019-12-28T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "00:45",
+                "room": "headnut",
+                "slug": "UXTEWC",
+                "url": "https://talks.komona.org/36c3/talk/UXTEWC/",
+                "title": "Sonar - P2P media archives with the Dat stack",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "en",
+                "abstract": "[Sonar](https://github.com/arso-project/sonar) is an in-development p2p database & search engine for grassroots media libraries. We're building atop the [Dat Protocol](https://dat.foundation) stack and connect [hypercores](https://github.com/mafintosh/hypercore) and [hyperdrives](https://github.com/hyperdrives) with a search engine written in [Rust](https://rust-lang.org). In this talk we'll give a quick intro how Sonar works at the moment and which challenges we're facing. Then we want to discuss some of the design choices and how we can create a distributed network of radical media libraries and archives.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 24,
+                    "code": "SKE73Y",
+                    "public_name": "Frando",
+                    "biography": "open source developer, wants to make p2p tech usable for grassroots movements, involved in community radio",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 851,
                 "guid": "982b87ca-3454-592a-b0e1-b388efc366d7",
                 "logo": "",
@@ -20122,34 +20224,6 @@
                 "links": []
               }
             ],
-            "Assembly:Vintage Computing": [
-              {
-                "id": 1342,
-                "guid": "026448ea-1a8f-4fd6-9018-cca3109dadc5",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Robotron_K8917",
-                "logo": null,
-                "date": "2019-12-28T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "0:45",
-                "room": "Assembly:Vintage Computing",
-                "slug": "36c3-1342-session_robotron_k8917",
-                "title": "Robotron K8917",
-                "subtitle": "Linien, Punkte, Kreise",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "robotron K8917 GKS Graphics Terminal - How does it work?\nDer Vortrag beschreibt das grafische Terminal robotron K8917. Das Ger\u00e4t wurde vom VEB robotron elektronik Zella-Mehlis hergestellt. Es basiert auf dem 8 bit Prozessor U880 (Z80) und wird \u00fcber eine serielle Schnittstelle gesteuert. Die Gegenstelle ist normalerweise eine grafische Workstation, die an die PDP11/03 angelehnt ist (robotron K1620). Da solche Ger\u00e4te selten und nicht erh\u00e4ltlich sind, wird es stattdessen \u00fcber ein Notebook mit serieller Schnittstelle gesteuert. Es werden die grafischen Befehle gezeigt sowie einige Steuerbefehle, die erahnen lassen, wie das Terminal mit seiner Originalmaschine zusammengearbeitet hat. Es wird also ein Bild gezeichnet, das einen nicht existenten Rechner erahnen l\u00e4sst.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dkt",
-                    "public_name": "Dkt"
-                  }
-                ],
-                "links": []
-              }
-            ],
             "Assembly:IT-Kollektiv": [
               {
                 "id": 1530,
@@ -20226,6 +20300,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:The Tinkering To Come - bstly": [
+              {
+                "id": 1524,
+                "guid": "13f4fff9-56a5-4982-b447-e54da1429952",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:What_is_the_Tinkering_To_Come%3F",
+                "logo": null,
+                "date": "2019-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "0:20",
+                "room": "Assembly:The Tinkering To Come - bstly",
+                "slug": "36c3-1524-session_what_is_the_tinkering_to_come_",
+                "title": "What is the Tinkering To Come?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "The Secretary of the Tinkering To Come explains the Mission\nThe Secretary of The Tinkering To Come explains everything concerning the Tinkering To Come and how you can participate.\"We are a group of hacker attracted people who founded The Tinkering To Come as an opportunity to work together on cultural and political projects and at least the big plan to find a place to shape for creativity and sustainability use and to let different events happen there. In the last couple of years we came up with four main measures: 1. The \"digitale bstly\", as a digital place outside the big social networks with our own infrastructure. 2. The \"Sekretariat dKB\" as an office to handle financial and bureaucratic task and to support the happening of events. There for a registered association is necessary. As chairman in a voluntary culture association the knowledge is given for this step. 3. The \"Kongress der Kommenden Bastelei\" as yearly meetup to see each other and talk about future plans. 4. At least the \"Bastelei in der Bredouille\" to found a terrain for constructions and gardening.- Our assembly on congress is just a place to meet with other communities and to discuss and explore our ideas and possibilities. Of course there are professions where we need some help and we want to use the nice congress atmosphere to talk and tinker together! \"",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Louisfabu",
+                    "public_name": "Louisfabu"
+                  }
+                ],
+                "links": [
+                  "http://bstly.de"
+                ]
               }
             ],
             "Assembly:Dezentrale": [
@@ -20855,7 +20959,7 @@
                 ],
                 "attachments": [
                   {
-                    "url": "/system/event_attachments/attachments/000/004/044/original/Ressources.pdf?1577391387",
+                    "url": "/system/event_attachments/attachments/000/004/052/original/Ressources.pdf?1577457174",
                     "title": "Ressources"
                   }
                 ]
@@ -20876,7 +20980,7 @@
                 "type": "lecture",
                 "language": "de",
                 "abstract": "So wie Farnpflanzen ihre Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren, auf dass sie dort auf fruchtbaren Boden fallen, werden unsere 8 Expert*innen ihr Nerd- und Fach-Wissen weitergeben \u2013 spektakul\u00e4r, wirkungsvoll und unterhaltsam. So bunt wie die besten Slams, so dicht wie die besten Lightning Talks: 8 Antworten auf die Frage, warum Techies und \u00d6kos zusammengeh\u00f6ren.",
-                "description": "Bei der Bits&B\u00e4ume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und L\u00f6sungsans\u00e4tze zu erkl\u00e4ren, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste \u201eSporangium\u201c hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. F\u00fcr den C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?\r\n\r\nSpeaker*innen (A-Z...\u00e4h...V!):\r\n* Anja H\u00f6fner \u2013 Das M\u00e4rchen von der Dematerialisierung durch Technik \r\n* Elenos Manifesti & der Chor der Vermummten: Wir fordern! Das Bits&B\u00e4ume-Manifest \r\n* Carina Haupt: Nachhaltige Softwareentwicklung (f\u00fcr weniger explodierende Raketen) \r\n* Isabella Hermann: Utopia Outer Space? Die Zukunft der Menschheit in Science-Fiction-Filmen \r\n* joliyea \u2013 Raum f\u00fcr Wissen. Wo wir uns treffen, um die Welt zu retten \r\n* Kathrin Henneberger \u2013 Ja, Klimakrise! Immernoch!!\r\n* Lisa Passing: \u00d6kostrom != \u00d6kostrom. Down the green energy rabbit hole \r\n* Viktor Schl\u00fcter: Datenschutz? Klimaschutz? Zukunft! \r\n\r\n* Durchs Sporangium katapultieren wie immer julika & Rainer",
+                "description": "Bei der Bits&B\u00e4ume 2018 kamen Aktivist*innen der Tech-Community und jene der Nachhaltigkeitsrichtungen zusammen, um einander ihre Fragen und L\u00f6sungsans\u00e4tze zu erkl\u00e4ren, sie zu diskutieren und gemeinsam eine bessere Zukunft zu erdenken. Wichtiger Teil war dabei auch einzutauchen in die jeweilig anderen Mikrokosmen, einander abzuholen und die Schnittstellen zu finden. Das erste \u201eSporangium\u201c hat in diesem Sinne wichtige Themen beider Bereiche aufgegriffen. F\u00fcr den C3 liegt nun der Fokus auf der Verbindung von Technologie und Nachhaltigkeit: Wie kann digitale Nachhaltigkeit, wie nachhaltige Digitalisierung aussehen?\r\n\r\nSpeaker*innen (A-Z...\u00e4h...V!):\r\n* Anja H\u00f6fner \u2013 Das M\u00e4rchen von der Dematerialisierung durch Technik \r\n* Carina Haupt: Nachhaltige Softwareentwicklung (f\u00fcr weniger explodierende Raketen) \r\n* Elenos Manifesti & der Chor der Vermummten: Wir fordern! Das Bits&B\u00e4ume-Manifest \r\n* Isabella Hermann: Utopia Outer Space? Die Zukunft der Menschheit in Science-Fiction-Filmen \r\n* joliyea \u2013 Raum f\u00fcr Wissen. Wo wir uns treffen, um die Welt zu retten \r\n* Kathrin Henneberger \u2013 Ja, Klimakrise! Immernoch!!\r\n* Lisa Passing: \u00d6kostrom != \u00d6kostrom. Down the green energy rabbit hole \r\n* Viktor Schl\u00fcter: Datenschutz? Klimaschutz? Zukunft! \r\n\r\n* Durchs Sporangium katapultieren wie immer julika & Rainer",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -22715,6 +22819,38 @@
                 "attachments": []
               },
               {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11178.html",
+                "id": 11178,
+                "guid": "9af057bd-eb94-41f6-8005-f322ecf66662",
+                "logo": "/system/events/logos/000/011/178/large/fck.PNG?1576712719",
+                "date": "2019-12-29T21:50:00+01:00",
+                "start": "21:50",
+                "duration": "00:40",
+                "room": "Eliza",
+                "slug": "36c3-11178-art_against_facebook",
+                "title": "Art against Facebook",
+                "subtitle": "Art against Facebook Graffiti in the ruins of the feed and the party-info-capital is emigrating",
+                "track": "Art & Culture",
+                "type": "lecture",
+                "language": "en",
+                "abstract": "Currently Facebook has a tight grip on the cultural scene with its events-calendar and with Instagram as a spectacular image feed. But there is graffiti in the ruins of the feed and the party-info-capital is emigrating. The talk calls upon the critical net scene to contribute arguments and skills - theory and practice - in order to build bridges and include many.",
+                "description": "Currently Facebook has a tight grip on the cultural scene with its events-calendar and with Instagram as a spectacular image feed. Even the leftist-critical scene of alternative culture and protests is busy contributing for the sake of outreach. Their contributions feed the filter systems, and profiling and affect loops run hot.\r\nBut an opposition is rising. Graffiti and net-art are merging with hacking. Activists in Berlin, Paris, Rio and Sao Paulo are using facebook graffiti, through circulating UTF-8 textbombs that cross the layout of the feed (Check the wiki for workshop materials from 34C3).\r\nThe Berlin network Reclaim Club Culture meanwhile is calling for a Facebook Exodus (CCCamp2019). They want to motivate the club and cultural scene to support free alternatives, by moving their biggest information capital, which are the event announcements. Once the information monopoly is cut through, maybe more people will make the step to leave the platform they don't even like anymore.\r\nAll of this is part of a bigger network of refusal, from Fuck Off Google (31C3) to Facebook Resistance Artists. The talk calls upon the critical net scene to contribute arguments and skills - theory and practice - in order to build bridges and include many.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 9777,
+                    "public_name": "el"
+                  },
+                  {
+                    "id": 8761,
+                    "public_name": "Rosa Rave"
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11234.html",
                 "id": 11234,
                 "guid": "06928e7a-4459-4b07-8752-6f9a7697cd8b",
@@ -24221,7 +24357,7 @@
                 "type": "discussion",
                 "language": "en",
                 "abstract": "",
-                "description": "Hackers gathering to kickoff a social revolution project - Planet A. Updated description.\nThis year there has been lot of attention drawn to the topic of globalecological crisis. But still people are oblivious. This may be not thatobvious to members of opensource community. We care about freedom. Levels ofawareness of the societal, political and ecological problems are generallyhigher than those among the rest of population. Not only that! We are, hackershave skills to make systemic change in the world with attitude and principlesthat have been the reasons of opensource movement success. And yet we surroundour selves with like minded people and never beak out the bubble. It won't getany better if we will not unite and act upon.Let's step out the bubble. Let's bring awareness to unaware and tools topowerless. How many concerned people have will and yet feel alone and powerlessin the face of scale of the disaster?In this session we will have a short presentation followed by discussion. Wehave some ideas we want to share and want to hear yours too. Everyone is invitedto form the team.We will soon setup a before chat for communication during the congress.Links:Documentary about CCC. You should watch it if you haven't yet.https://allcreatureswelcome.netWhat can the hacker community do to make things better?https://media.ccc.de/v/32c3-7501-ten_years_after_we_lost_the_warExtinction rebelionhttps://rebellion.earth/https://www.youtube.com/watch?v=b2VkC4SnwY0https://tellthetruth.media/",
+                "description": "Hackers gathering to kickoff a social revolution project - Planet A. Updated description. Join #planet-a chat ! We have matrix server too (matrix.planet-a.org, chat name: 36c3).\nThis year there has been lot of attention drawn to the topic of globalecological crisis. But still people are oblivious. This may be not thatobvious to members of opensource community. We care about freedom. Levels ofawareness of the societal, political and ecological problems are generallyhigher than those among the rest of population. Not only that! We are, hackershave skills to make systemic change in the world with attitude and principlesthat have been the reasons of opensource movement success. And yet we surroundour selves with like minded people and never beak out the bubble. It won't getany better if we will not unite and act upon.Let's step out the bubble. Let's bring awareness to unaware and tools topowerless. How many concerned people have will and yet feel alone and powerlessin the face of scale of the disaster?In this session we will have a short presentation followed by discussion. Wehave some ideas we want to share and want to hear yours too. Everyone is invitedto form the team.We will soon setup a before chat for communication during the congress.Links:Documentary about CCC. You should watch it if you haven't yet.https://allcreatureswelcome.netWhat can the hacker community do to make things better?https://media.ccc.de/v/32c3-7501-ten_years_after_we_lost_the_warExtinction rebelionhttps://rebellion.earth/https://www.youtube.com/watch?v=b2VkC4SnwY0https://tellthetruth.media/",
                 "persons": [
                   {
                     "id": 0,
@@ -25325,6 +25461,32 @@
                 "links": [
                   "http://8os.io"
                 ]
+              },
+              {
+                "id": 1541,
+                "guid": "232c53e4-df87-4b43-8af2-7eeb39b2e22f",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Foundation_worshop:_Git,_a_version_control_system_to_solve_filename_chaos_and_collaborative_editing_%E2%80%93_a_tutorial_for_absolute_beginners",
+                "logo": null,
+                "date": "2019-12-29T16:15:00+01:00",
+                "start": "16:15",
+                "duration": "0:45",
+                "room": "Lecture room M3",
+                "slug": "36c3-1541-session_foundation_worshop_git_a_version_control_system_to_solve_filename_chaos_and_collaborative_editing_a_tutorial_for_absolute_beginners",
+                "title": "Foundation worshop: Git, a version control system to solve filename chaos and collaborative editing \u2013 a tutorial for absolute beginners",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Tired of filename chaos such as \"report_final_really_v2_corrected.txt\"? There is a technological solution to this problem, a version control system such as Git. Learn in this hands-on workshop how to use it. Git is useful both for personal files and for files which are edited by teams.\nNote to organizers of other sessions: We don't need that much space that M3 provides. If you want to organize a session which needs the space more than us then we'll surely find a solution! Call me at +49 176 95110311 (German or English).",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+                    "public_name": "Iblech"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1134,
@@ -30039,6 +30201,32 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1342,
+                "guid": "026448ea-1a8f-4fd6-9018-cca3109dadc5",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Robotron_K8917",
+                "logo": null,
+                "date": "2019-12-29T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "1:15",
+                "room": "Vintage Computing Cluster",
+                "slug": "36c3-1342-session_robotron_k8917",
+                "title": "Robotron K8917",
+                "subtitle": "Linien, Punkte, Kreise",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "robotron K8917 GKS Graphics Terminal - How does it work?\nAchtung: Die ersten 30 Minuten sind f\u00fcr den Aufbau eingeplant, der eigentliche Vortrag beginnt erst um 19:00. Ihr k\u00f6nnt aber gerne beim Aufbau zusehen.Der Vortrag beschreibt das grafische Terminal robotron K8917. Das Ger\u00e4t wurde vom VEB robotron elektronik Zella-Mehlis hergestellt. Es basiert auf dem 8 bit Prozessor U880 (Z80) und wird \u00fcber eine serielle Schnittstelle gesteuert. Die Gegenstelle ist normalerweise eine grafische Workstation, die an die PDP11/03 angelehnt ist (robotron K1620). Da solche Ger\u00e4te selten und nicht erh\u00e4ltlich sind, wird es stattdessen \u00fcber ein Notebook mit serieller Schnittstelle gesteuert. Es werden die grafischen Befehle gezeigt sowie einige Steuerbefehle, die erahnen lassen, wie das Terminal mit seiner Originalmaschine zusammengearbeitet hat. Es wird also ein Bild gezeichnet, das einen nicht existenten Rechner erahnen l\u00e4sst.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dkt",
+                    "public_name": "Dkt"
+                  }
+                ],
+                "links": []
               }
             ],
             "Assembly:IT-Kollektiv": [
@@ -30928,38 +31116,6 @@
               }
             ],
             "Dijkstra": [
-              {
-                "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11178.html",
-                "id": 11178,
-                "guid": "9af057bd-eb94-41f6-8005-f322ecf66662",
-                "logo": "/system/events/logos/000/011/178/large/fck.PNG?1576712719",
-                "date": "2019-12-30T11:30:00+01:00",
-                "start": "11:30",
-                "duration": "00:40",
-                "room": "Dijkstra",
-                "slug": "36c3-11178-art_against_facebook",
-                "title": "Art against Facebook",
-                "subtitle": "Art against Facebook Graffiti in the ruins of the feed and the party-info-capital is emigrating",
-                "track": "Art & Culture",
-                "type": "lecture",
-                "language": "en",
-                "abstract": "Currently Facebook has a tight grip on the cultural scene with its events-calendar and with Instagram as a spectacular image feed. But there is graffiti in the ruins of the feed and the party-info-capital is emigrating. The talk calls upon the critical net scene to contribute arguments and skills - theory and practice - in order to build bridges and include many.",
-                "description": "Currently Facebook has a tight grip on the cultural scene with its events-calendar and with Instagram as a spectacular image feed. Even the leftist-critical scene of alternative culture and protests is busy contributing for the sake of outreach. Their contributions feed the filter systems, and profiling and affect loops run hot.\r\nBut an opposition is rising. Graffiti and net-art are merging with hacking. Activists in Berlin, Paris, Rio and Sao Paulo are using facebook graffiti, through circulating UTF-8 textbombs that cross the layout of the feed (Check the wiki for workshop materials from 34C3).\r\nThe Berlin network Reclaim Club Culture meanwhile is calling for a Facebook Exodus (CCCamp2019). They want to motivate the club and cultural scene to support free alternatives, by moving their biggest information capital, which are the event announcements. Once the information monopoly is cut through, maybe more people will make the step to leave the platform they don't even like anymore.\r\nAll of this is part of a bigger network of refusal, from Fuck Off Google (31C3) to Facebook Resistance Artists. The talk calls upon the critical net scene to contribute arguments and skills - theory and practice - in order to build bridges and include many.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 9777,
-                    "public_name": "el"
-                  },
-                  {
-                    "id": 8761,
-                    "public_name": "Rosa Rave"
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10795.html",
                 "id": 10795,

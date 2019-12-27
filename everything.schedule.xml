@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3; wiki 2019-12-27 23:00</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.17; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3; wiki 2019-12-27 23:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -15335,8 +15335,8 @@ Episodes are in Japanese with English subtitles. We'll have some time to look at
       </event>
       <event id="874" guid="2d25f64c-e805-51a4-a314-d3d80fe13a2b">
         <logo/>
-        <date>2019-12-28T18:30:00+01:00</date>
-        <start>18:30</start>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>01:10</duration>
         <room>Boredome</room>
         <slug>RJJXCA</slug>
@@ -15359,10 +15359,36 @@ Episodes are in Japanese with English subtitles. We'll have some time to look at
         <attachments/>
         <answers/>
       </event>
+      <event id="876" guid="a8a7bd25-25e7-5c85-a5fe-a178001aa89c">
+        <logo/>
+        <date>2019-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>00:45</duration>
+        <room>Boredome</room>
+        <slug>VJHXQL</slug>
+        <url>https://talks.komona.org/36c3/talk/VJHXQL/</url>
+        <title>Komona Meeting / Plenum</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Komonistas meeting</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">fap</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="870" guid="37b34e9d-54a9-585a-b369-34de7b5c8a2b">
         <logo>/media/36c3/images/YKCKWY/DF24A449-59B6-4412-8AE2-4E7341FE003A.jpeg</logo>
-        <date>2019-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2019-12-28T20:20:00+01:00</date>
+        <start>20:20</start>
         <duration>02:00</duration>
         <room>Boredome</room>
         <slug>YKCKWY</slug>
@@ -25719,6 +25745,32 @@ Die Diskussion um die Polizeipräsenz auf der Fusion, die Offenlegung rechtsextr
         <attachments/>
         <answers/>
       </event>
+      <event id="875" guid="38f22943-456b-5e6b-9832-646d467e9c5a">
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>00:45</duration>
+        <room>Boredome</room>
+        <slug>8HTWQZ</slug>
+        <url>https://talks.komona.org/36c3/talk/8HTWQZ/</url>
+        <title>Komona Meeting / Plenum</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Komonistas meeting</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">fap</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="Sendetisch">
       <event id="905" guid="340a8cac-82e5-5f35-b63a-557efc63aaed">
@@ -30896,6 +30948,34 @@ Ich freue mich auf Anregungen und Diskussionen jeder Art!</description>
       </event>
     </room>
     <room name="1Komona dezentrale*"/>
+    <room name="1Komona Boredome">
+      <event id="877" guid="a2c39ff6-965a-5865-92ec-6c7b2ce4dc68">
+        <logo/>
+        <date>2019-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Boredome</room>
+        <slug>CQPCQS</slug>
+        <url>https://talks.komona.org/36c3/talk/CQPCQS/</url>
+        <title>Komona Meeting / Plenum</title>
+        <subtitle/>
+        <track/>
+        <type>Session</type>
+        <language>en</language>
+        <abstract>Komonistas meeting</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">fap</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Sendetisch">
       <event id="924" guid="503f66b6-d59f-5757-be13-7d6f3d6ebb50">
         <logo/>

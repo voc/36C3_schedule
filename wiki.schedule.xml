@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-27 19:00</version>
+  <version>2019-12-27 19:22</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -959,7 +959,7 @@ Update on the status of various open source silicon projects;* System Verilog su
         <language>de</language>
         <abstract/>
         <description>Du wolltest schon immer einen Passwortsafe nutzen? In diesem Workshop richten wir uns einen Passwortsafe ein!
-Du benutzt die drei gleichen Passwörter für alle deine Online-Accounts? Du weißt, dass das nicht sicher ist, hast bislang aber noch keine bessere Lösung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen lässt. Zunächst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschließend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. '''Vorkenntnisse''': Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht überwinden konnten.'''Mitbringen''': Wer sich während des Workshops einen Passwortsafe einrichten möchte, der sollte Laptop und Smartphone (oder Tablet) mitbringen.  Ebenso wäre es hilfreich, die für den Passwortsafe erforderlichen Apps und Plugins schon vorab zu installieren, sodass wir während des Workshops uns auf die Einrichtung konzentrieren können:* '''2-Faktor-Authentifizierungs-App''' ([https://www.golem.de/news/google-apple-und-mailaccounts-zwei-faktor-authentifizierung-richtig-nutzen-1612-124868.html Was ist das?]) für das Smartphone ** Für iPhone/iPad: [https://apps.apple.com/de/app/authenticator/id766157276 Authenticator] ** Für Android: [https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;hl=de Google Authenticator] oder [https://f-droid.org/en/packages/net.bierbaumer.otp_authenticator/ Authenticator (im FDroid-Store)]* '''Webbrowser-Plugin''' fürs Autotype,  so werden deine Logindaten automatisch vom Passwordsafe ins Loginfeld des Browsers eingefügt. Installiere dir das Plugin für deine/n Lieblingsbrowser: [https://bitwarden.com/#download siehe Plugins auf bitwarden.com]* '''Bitwarden-Smartphone-App''' um mobil auf Passwörter zugreifen zu können** Für [https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744?mt=8 iPhone/iPad]** Für [https://play.google.com/store/apps/details?id=com.x8bit.bitwarden Android]'''Warum Bitwarden?''' Bitwarden bietet sich an, da er Open-Source ist, als sicher eingeschätzt wird, für fast alle Geräte und Betriebssysteme verfügbar und für Einsteiger einfach zu nutzen.Bei Fragen: Tjal [https://twitter.com/tuikc @tuikc auf Twitter] oder DECT 8524 oder Mail: edwg6g6rtwf@temp.mailbox.org</description>
+Du benutzt die drei gleichen Passwörter für alle deine Online-Accounts? Du weißt, dass das nicht sicher ist, hast bislang aber noch keine bessere Lösung gefunden?In diesem Workshop lernen wir den OpenSource-Passwordsafe [https://www.bitwarden.com Bitwarden] kennen, der sich auf dem PC (Windows, MacOS, Linux) sowie auf dem Smartphone (Android, iOS) nutzen lässt. Zunächst schauen wir uns an was ein Passwortsafe (auch: Passwordmanager) ist, wie er funktioniert und worauf man zu achten hat, anschließend gibt es Zeit und Anleitung sich einen Passwortsafe einzurichten. '''Vorkenntnisse''': Dieser Workshop erfordert keine IT-Vorkenntnisse und richtet sich an alle, die einen Passwortsafe nutzen wollen, sich aber nicht auskennen oder sich noch nicht überwinden konnten.'''Mitbringen''': Wer sich während des Workshops einen Passwortsafe einrichten möchte, der sollte Laptop und Smartphone (oder Tablet) mitbringen.  Ebenso wäre es hilfreich, die für den Passwortsafe erforderlichen Apps und Plugins schon vorab zu installieren, sodass wir während des Workshops uns auf die Einrichtung konzentrieren können:* '''2-Faktor-Authentifizierungs-App''' ([https://www.golem.de/news/google-apple-und-mailaccounts-zwei-faktor-authentifizierung-richtig-nutzen-1612-124868.html Was ist das?]) für das Smartphone ** Für iPhone/iPad: [https://apps.apple.com/de/app/authenticator/id766157276 Authenticator] ** Für Android: [https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;hl=de Google Authenticator] oder [https://f-droid.org/en/packages/net.bierbaumer.otp_authenticator/ Authenticator (im FDroid-Store)]* '''Webbrowser-Plugin''' fürs Autotype,  so werden deine Logindaten automatisch vom Passwordsafe ins Loginfeld des Browsers eingefügt. Installiere dir das Plugin für deine/n Lieblingsbrowser: [https://bitwarden.com/#download siehe Plugins auf bitwarden.com]* '''Bitwarden-Smartphone-App''' um mobil auf Passwörter zugreifen zu können** Für [https://itunes.apple.com/app/bitwarden-free-password-manager/id1137397744?mt=8 iPhone/iPad]** Für [https://play.google.com/store/apps/details?id=com.x8bit.bitwarden Android]'''Warum Bitwarden?''' Bitwarden bietet sich an, da er Open-Source ist, als sicher eingeschätzt wird, für fast alle Geräte und Betriebssysteme verfügbar und für Einsteiger einfach zu nutzen.Bei Fragen: Tjal [https://twitter.com/tuikc @tuikc auf Twitter] oder DECT 8524 oder Mail: edwg6g6rtwf@temp.mailbox.orgSlides:  https://docdro.id/C9sx9cn</description>
         <persons>
           <person id="0">Tjal</person>
         </persons>
@@ -2514,6 +2514,29 @@ Kapitalismus - Wirtschaftliche AlternativenLukas Küttner im Gespräch mit Dr. D
         </persons>
         <links/>
       </event>
+      <event id="1567" guid="0eb79660-b4e1-47b0-83a5-add8d354334f">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Kreislaufwirtschaft_fuer_Hacker*innen_und_Aktivist*innen</url>
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>0:30</duration>
+        <room>Roter Salon</room>
+        <slug>36c3-1567-session_kreislaufwirtschaft_fuer_hacker_innen_und_aktivist_innen</slug>
+        <title>Kreislaufwirtschaft fuer Hacker*innen und Aktivist*innen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Kreislaufwirtschaft ist eine Idee fuer eine nachhaltige Zukunft, die bei der Gestaltung unserer Produkte und unseres Konsums ansetzt. Worum geht es da genau und wie kann ich als Hacker*in oder Aktivist*in damit spielen, diese Idee nutzen und mit voranbringen?
+BIOLars Zimmermann (Mifactori.De) ist Kuenstler, Designer und Aktivist mit einem Schwerpunkt auf Open Source Hardware &amp; Open Design fuer nachhaltige Kreislaufwirtschaft und Kreislaufstaedte.</description>
+        <persons>
+          <person id="0">Kreatur</person>
+        </persons>
+        <links>
+          <link>https://opencircularity.info/36c3/</link>
+        </links>
+      </event>
       <event id="1526" guid="e302015a-61fd-4f1a-bccb-79ca8c5e184b">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SYSTEM_ERROR_-_Dokumentarfilm_2018</url>
         <logo/>
@@ -2965,12 +2988,14 @@ Learn how to make a very simple  knitted sweater using basic arithmatic. This wo
         <language>de</language>
         <abstract/>
         <description>Session for people who want to join the project
-I will shortly talk about how you can join the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further.https://github.com/EventFahrplan/EventFahrplan/</description>
+I will shortly introduce you into the history and the current state of the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further. The years old codebase is waiting for you with lecacy Java but also Kotlin. Besides programming there is enough to do which does not require you to write code such as &lt;ul&gt;&lt;li&gt;translation&lt;/li&gt;&lt;li&gt;design&lt;/li&gt;&lt;li&gt;documentation&lt;/li&gt;&lt;li&gt;public relations&lt;/li&gt;&lt;li&gt;outreach&lt;/li&gt;&lt;li&gt;communication with users&lt;/li&gt;&lt;/ul&gt;and many more.</description>
         <persons>
           <person id="0">Tbsprs</person>
         </persons>
         <links>
           <link>https://github.com/EventFahrplan/EventFahrplan</link>
+          <link>https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule</link>
+          <link>https://fdroid.gitlab.io/ccc</link>
         </links>
       </event>
       <event id="1108" guid="5d7b0d0e-cadb-4687-af83-39ff06b2961b">
@@ -4357,7 +4382,7 @@ Nachdem wir uns dieses Jahr in mehreren Veranstltungen im Rahmen des Youth Inter
         <type>discussion</type>
         <language>en</language>
         <abstract/>
-        <description>Discussion: In Lightning Talk ⚡ "Can you sustain IT?" on day 2, I propose to refuse exponentially increasing resource consumption.
+        <description>Discussion: In Lightning Talk ⚡ "Are You ready to sustain IT?" on day 2, I propose to refuse exponentially increasing resource consumption.
 In [https://c3lt.de/36c3/talk/W3YJT7/ Lightning Talk ⚡ "Can you sustain IT?"] on day 2, I propose to refuse exponentially increasing resource consumption.This means e.g. to ensure that your software project (contributor or fan) also is a pleasure to use on systems 5 years or older.This 45min session is an open disussion about* is that a sensible plea?* is that feasible for your project?* where can this already be seen in the wild?</description>
         <persons>
           <person id="0">0x4c.de</person>
@@ -5975,7 +6000,7 @@ analoge künstlerische strategien/// sofie suiexcursion about artefacts/// joell
         <language/>
         <abstract/>
         <description>
-</description>
+audio-performance of joë Ret: https://soundcloud.com/joelleserret</description>
         <persons>
           <person id="0">Deine datsche</person>
         </persons>
@@ -5996,7 +6021,7 @@ analoge künstlerische strategien/// sofie suiexcursion about artefacts/// joell
         <language>de</language>
         <abstract/>
         <description>Sport and Porridge
-</description>
+slowly getting into movement/ no gym yet but some easy reminder that we still have a body to use and enjoy. filling it with seeds and fruits which are provided by the megalomanic and perfectionist master of brei.</description>
         <persons>
           <person id="0">Deine datsche</person>
         </persons>
@@ -6472,7 +6497,7 @@ with maike hautz-tänzerinkaloan- wee-useralexander H.- VR-programmierer</descri
         <language>de</language>
         <abstract/>
         <description>Sport and Porridge
-</description>
+slowly getting into movement/ no gym yet but some easy reminder that we still have a body to use and enjoy. filling it with seeds and fruits which are provided by the megalomanic and perfectionist master of brei.</description>
         <persons>
           <person id="0">Deine datsche</person>
         </persons>
@@ -9946,6 +9971,27 @@ Laura Pöhler, Pressesprecherin des Bündnisses gegen das neue bayerische Polize
         </persons>
         <links/>
       </event>
+      <event id="1568" guid="b627e091-7a6f-48bc-b6e0-7fce77fab07c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tape_Set:_Dj_Shlucht</url>
+        <logo/>
+        <date>2019-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>3:00</duration>
+        <room>Studio Datsche</room>
+        <slug>36c3-1568-session_tape_set_dj_shlucht</slug>
+        <title>Tape Set: Dj Shlucht</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>ab</language>
+        <abstract/>
+        <description>
+</description>
+        <persons>
+          <person id="0">Deine datsche</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1484" guid="467c80a8-4f41-4cd2-84a8-67edf74d60ff">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Warm-up_und_Brei</url>
         <logo/>
@@ -9961,7 +10007,7 @@ Laura Pöhler, Pressesprecherin des Bündnisses gegen das neue bayerische Polize
         <language>de</language>
         <abstract/>
         <description>Sport and Porridge
-</description>
+slowly getting into movement/ no gym yet but some easy reminder that we still have a body to use and enjoy. filling it with seeds and fruits which are provided by the megalomanic and perfectionist master of brei.</description>
         <persons>
           <person id="0">Deine datsche</person>
         </persons>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-27 23:50</version>
+  <version>2019-12-28 00:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1349,7 +1349,7 @@ Talk on recent developments in studying the gravitational n-body Problem.Prelimi
         <language>en</language>
         <abstract/>
         <description>Very roughly, P is the class of efficiently solvable problems and NP is the class of non-efficiently solvable problems. A basic fact of life is P ≠ NP. However, for the last fifty years, this observation has stubbornly resisted every attempt of a proof. The talk will carefully explain ... (see long description)
-The talk will carefully explain:* what the precise statement of the conjecture P ≠ NP is* how the world would look like if P = NP* whether it might be that it's provable that the conjecture is unprovable (that the conjecture exceeds the boundaries of logic)* what's known about hypothetical proofs of P ≠ NPThis talk requires no mathematical prerequisites. Indeed, people who took classes on computability theory in university will be bored to hell and should only attend if they plan to support the session by offering interesting remarks. :-) To enjoy and follow the talk, you should know that we use algorithms to solve computational problems and that some are more efficient than others. You'll be extra prepared if at some point in your life you've implemented some algorithms. That said, you will only enjoy the talk if you enjoy mathematical thinking and a certain amount of mathematical precision. This is not a light-and-fun talk, to the small extent that it's fun it's only thanks to the interesting theoretical relationships discussed in the talk.</description>
+The talk will carefully explain:* what the precise statement of the conjecture P ≠ NP is* how the world would look like if P = NP* whether it might be that it's provable that the conjecture is unprovable (that the conjecture exceeds the boundaries of logic)* what's known about hypothetical proofs of P ≠ NPThis talk requires no mathematical prerequisites. Indeed, people who took classes on computability theory in university will be bored to hell and should only attend if they plan to support the session by offering interesting remarks. :-) To enjoy and follow the talk, you should know that we use algorithms to solve computational problems and that some are more efficient than others. You'll be extra prepared if at some point in your life you've implemented some algorithms. That said, you will only enjoy the talk if you enjoy mathematical thinking and a certain amount of mathematical precision. This is not a light-and-fun talk, to the small extent that it's fun it's only thanks to the interesting theoretical relationships discussed in the talk.'''[https://rawgit.com/iblech/mathezirkel-kurs/master/mathecamp-2019/p-vs-np/slides-36c3.pdf Slides]''''''[https://rawgit.com/iblech/mathezirkel-kurs/master/mathecamp-2019/p-vs-np/ablauf.txt Some details]''' (in German)'''[https://www.scottaaronson.com/papers/pnp.pdf Survey paper by Scott Aaronson]''' (very much recommended)</description>
         <persons>
           <person id="0">Iblech</person>
         </persons>
@@ -2300,7 +2300,7 @@ Eine offene Beratungs-Sprechstunde für alle Eure Fragen rund um Datenschutz und
         <language>en</language>
         <abstract/>
         <description>Fomu, the FPGA in your USB Port
-[[File:Fomu.png|300px|right|Fomu Logo]]&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Signup at tables → → →&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Fomu workshop!&lt;/h1&gt;&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Current --&gt; https://workshop.fomu.im/&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Previous Version --&gt; https://workshop-old.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Please sit in the &lt;b&gt;Mammoth Space - (has Pink Lights)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Workshop is &lt;span style="font-color: red;"&gt;&lt;b&gt;self&lt;/b&gt;&lt;/span&gt; directed.&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Complete set up&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Get hardware from Mithro&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Continue workshop&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Raise your hand if you get stuck!&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;irc.freenode.net #tomu&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Hardware Pickup&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; text-align:center; "&gt;[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]&lt;/span&gt;&lt;br&gt;&lt;br&gt;{| style="color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;" cellpadding="10" cellspacing="0" border="1"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style="background-color:#ffffcc"|- style="background-color:#ccffff"! scope="row" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]&lt;br&gt;&lt;small&gt; &lt;i&gt;(while supply lasts)&lt;/small&gt;&lt;/i&gt;| 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm)  || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || -|}&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Sessions&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;All sessions are the same!&lt;br&gt;&lt;br&gt;This workshop will be given multiple times (all sessions are &lt;b&gt;identical&lt;/b&gt;). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. &lt;b&gt;Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]&lt;/b&gt;&lt;br&gt;&lt;br&gt;Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).&lt;br&gt;&lt;br&gt;''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''&lt;br&gt;&lt;br&gt;Hardware Hacking Area - Mammoth Space - Pink Lights&lt;br&gt;&lt;br&gt;</description>
+[[File:Fomu.png|300px|right|Fomu Logo]]&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Signup at tables → → →&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Fomu workshop!&lt;/h1&gt;&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Current --&gt; https://workshop.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Previous Version --&gt; https://workshop-old.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Please sit in the &lt;b&gt;Mammoth Space - (has Pink Lights)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Workshop is &lt;span style="font-color: red;"&gt;&lt;b&gt;self&lt;/b&gt;&lt;/span&gt; directed.&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Complete set up&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Get hardware from Mithro&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Continue workshop&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Raise your hand if you get stuck!&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;irc.freenode.net #tomu&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Hardware Pickup&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; text-align:center; "&gt;[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]&lt;/span&gt;&lt;br&gt;&lt;br&gt;{| style="color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;" cellpadding="10" cellspacing="0" border="1"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style="background-color:#ffffcc"|- style="background-color:#ccffff"! scope="row" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]&lt;br&gt;&lt;small&gt; &lt;i&gt;(while supply lasts)&lt;/small&gt;&lt;/i&gt;| 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm)  || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || -|}&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Sessions&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;All sessions are the same!&lt;br&gt;&lt;br&gt;This workshop will be given multiple times (all sessions are &lt;b&gt;identical&lt;/b&gt;). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. &lt;b&gt;Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]&lt;/b&gt;&lt;br&gt;&lt;br&gt;Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).&lt;br&gt;&lt;br&gt;''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''&lt;br&gt;&lt;br&gt;Hardware Hacking Area - Mammoth Space - Pink Lights&lt;br&gt;&lt;br&gt;</description>
         <persons>
           <person id="0">Mithro</person>
         </persons>
@@ -2323,7 +2323,7 @@ Eine offene Beratungs-Sprechstunde für alle Eure Fragen rund um Datenschutz und
         <language>en</language>
         <abstract/>
         <description>Fomu, the FPGA in your USB Port
-[[File:Fomu.png|300px|right|Fomu Logo]]&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Signup at tables → → →&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Fomu workshop!&lt;/h1&gt;&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Current --&gt; https://workshop.fomu.im/&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Previous Version --&gt; https://workshop-old.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Please sit in the &lt;b&gt;Mammoth Space - (has Pink Lights)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Workshop is &lt;span style="font-color: red;"&gt;&lt;b&gt;self&lt;/b&gt;&lt;/span&gt; directed.&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Complete set up&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Get hardware from Mithro&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Continue workshop&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Raise your hand if you get stuck!&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;irc.freenode.net #tomu&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Hardware Pickup&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; text-align:center; "&gt;[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]&lt;/span&gt;&lt;br&gt;&lt;br&gt;{| style="color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;" cellpadding="10" cellspacing="0" border="1"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style="background-color:#ffffcc"|- style="background-color:#ccffff"! scope="row" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]&lt;br&gt;&lt;small&gt; &lt;i&gt;(while supply lasts)&lt;/small&gt;&lt;/i&gt;| 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm)  || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || -|}&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Sessions&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;All sessions are the same!&lt;br&gt;&lt;br&gt;This workshop will be given multiple times (all sessions are &lt;b&gt;identical&lt;/b&gt;). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. &lt;b&gt;Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]&lt;/b&gt;&lt;br&gt;&lt;br&gt;Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).&lt;br&gt;&lt;br&gt;''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''&lt;br&gt;&lt;br&gt;Hardware Hacking Area - Mammoth Space - Pink Lights&lt;br&gt;&lt;br&gt;</description>
+[[File:Fomu.png|300px|right|Fomu Logo]]&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Signup at tables → → →&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Fomu workshop!&lt;/h1&gt;&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Current --&gt; https://workshop.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Previous Version --&gt; https://workshop-old.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Please sit in the &lt;b&gt;Mammoth Space - (has Pink Lights)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Workshop is &lt;span style="font-color: red;"&gt;&lt;b&gt;self&lt;/b&gt;&lt;/span&gt; directed.&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Complete set up&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Get hardware from Mithro&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Continue workshop&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Raise your hand if you get stuck!&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;irc.freenode.net #tomu&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Hardware Pickup&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; text-align:center; "&gt;[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]&lt;/span&gt;&lt;br&gt;&lt;br&gt;{| style="color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;" cellpadding="10" cellspacing="0" border="1"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style="background-color:#ffffcc"|- style="background-color:#ccffff"! scope="row" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]&lt;br&gt;&lt;small&gt; &lt;i&gt;(while supply lasts)&lt;/small&gt;&lt;/i&gt;| 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm)  || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || -|}&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Sessions&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;All sessions are the same!&lt;br&gt;&lt;br&gt;This workshop will be given multiple times (all sessions are &lt;b&gt;identical&lt;/b&gt;). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. &lt;b&gt;Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]&lt;/b&gt;&lt;br&gt;&lt;br&gt;Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).&lt;br&gt;&lt;br&gt;''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''&lt;br&gt;&lt;br&gt;Hardware Hacking Area - Mammoth Space - Pink Lights&lt;br&gt;&lt;br&gt;</description>
         <persons>
           <person id="0">Mithro</person>
         </persons>
@@ -2797,29 +2797,6 @@ Limited spots, first come first served.</description>
 More sessions will be announced for Day 2, Day 3 and Day 4.</description>
         <persons>
           <person id="0">Iblech</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="Assembly:Vintage Computing">
-      <event id="1584" guid="c178c9bd-fa4e-4cc0-8205-fa49b8243aa1">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pen%26Paper_RPG_-_T.E.A.R.S.</url>
-        <logo/>
-        <date>2019-12-27T14:15:00+01:00</date>
-        <start>14:15</start>
-        <duration>0:45</duration>
-        <room>Assembly:Vintage Computing</room>
-        <slug>36c3-1584-session_pen_paper_rpg_t_e_a_r_s_</slug>
-        <title>Pen&amp;Paper RPG - T.E.A.R.S.</title>
-        <subtitle>Optionale Charakterbau-Session</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>A Round of the P&amp;P T.E.A.R.S. "Quest of Chaos"
-</description>
-        <persons>
-          <person id="0">Dolonnen</person>
         </persons>
         <links/>
       </event>
@@ -3611,6 +3588,27 @@ Mit Podlove und Auphonic wurden uns Produzierenden von Podcasts mächtige Werkze
       </event>
     </room>
     <room name="Lecture room M1">
+      <event id="1587" guid="07acc243-0067-4aec-acac-af29c29cd8be">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:ADHS_-_Emotionen_%26_Probleme</url>
+        <logo/>
+        <date>2019-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1587-session_adhs_emotionen_probleme</slug>
+        <title>ADHS - Emotionen &amp; Probleme</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>ADHS Treffen um Probleme und Lösungen auszutauschen
+Inspiriert vom ADHS meetup am Tag 1 und der Menge der Dinge, die nicht besprochen würden, ein weiteres Treffen. Auch Leute die nicht beim meetup waren, sind herzlich eingeladen. Ich möchte dieses Mal vor allem über emotionale &amp; soziale Schwierigkeiten sowie Arten damit umzugehen sprechen. Gerne können wir ebenso über anderes quatschen, sofern die Zeit es zu lässt.</description>
+        <persons>
+          <person id="0">Rebecca</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1005" guid="77483904-f342-461c-827c-cd1c63613b5f">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Accessibility_and_Inclusion</url>
         <logo/>
@@ -3942,7 +3940,7 @@ Have you ever wanted to step up your personal security posture with hardware sec
         <language>en</language>
         <abstract/>
         <description>Fomu, the FPGA in your USB Port
-[[File:Fomu.png|300px|right|Fomu Logo]]&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Signup at tables → → →&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Fomu workshop!&lt;/h1&gt;&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Current --&gt; https://workshop.fomu.im/&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Previous Version --&gt; https://workshop-old.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Please sit in the &lt;b&gt;Mammoth Space - (has Pink Lights)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Workshop is &lt;span style="font-color: red;"&gt;&lt;b&gt;self&lt;/b&gt;&lt;/span&gt; directed.&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Complete set up&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Get hardware from Mithro&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Continue workshop&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Raise your hand if you get stuck!&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;irc.freenode.net #tomu&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Hardware Pickup&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; text-align:center; "&gt;[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]&lt;/span&gt;&lt;br&gt;&lt;br&gt;{| style="color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;" cellpadding="10" cellspacing="0" border="1"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style="background-color:#ffffcc"|- style="background-color:#ccffff"! scope="row" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]&lt;br&gt;&lt;small&gt; &lt;i&gt;(while supply lasts)&lt;/small&gt;&lt;/i&gt;| 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm)  || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || -|}&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Sessions&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;All sessions are the same!&lt;br&gt;&lt;br&gt;This workshop will be given multiple times (all sessions are &lt;b&gt;identical&lt;/b&gt;). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. &lt;b&gt;Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]&lt;/b&gt;&lt;br&gt;&lt;br&gt;Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).&lt;br&gt;&lt;br&gt;''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''&lt;br&gt;&lt;br&gt;Hardware Hacking Area - Mammoth Space - Pink Lights&lt;br&gt;&lt;br&gt;</description>
+[[File:Fomu.png|300px|right|Fomu Logo]]&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Signup at tables → → →&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Fomu workshop!&lt;/h1&gt;&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Current --&gt; https://workshop.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Previous Version --&gt; https://workshop-old.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Please sit in the &lt;b&gt;Mammoth Space - (has Pink Lights)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Workshop is &lt;span style="font-color: red;"&gt;&lt;b&gt;self&lt;/b&gt;&lt;/span&gt; directed.&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Complete set up&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Get hardware from Mithro&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Continue workshop&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Raise your hand if you get stuck!&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;irc.freenode.net #tomu&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Hardware Pickup&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; text-align:center; "&gt;[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]&lt;/span&gt;&lt;br&gt;&lt;br&gt;{| style="color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;" cellpadding="10" cellspacing="0" border="1"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style="background-color:#ffffcc"|- style="background-color:#ccffff"! scope="row" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]&lt;br&gt;&lt;small&gt; &lt;i&gt;(while supply lasts)&lt;/small&gt;&lt;/i&gt;| 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm)  || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || -|}&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Sessions&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;All sessions are the same!&lt;br&gt;&lt;br&gt;This workshop will be given multiple times (all sessions are &lt;b&gt;identical&lt;/b&gt;). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. &lt;b&gt;Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]&lt;/b&gt;&lt;br&gt;&lt;br&gt;Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).&lt;br&gt;&lt;br&gt;''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''&lt;br&gt;&lt;br&gt;Hardware Hacking Area - Mammoth Space - Pink Lights&lt;br&gt;&lt;br&gt;</description>
         <persons>
           <person id="0">Mithro</person>
         </persons>
@@ -4511,6 +4509,27 @@ Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in d
         <slug>36c3-1333-session_pen_paper_rpg_t_e_a_r_s_</slug>
         <title>Pen&amp;Paper RPG - T.E.A.R.S.</title>
         <subtitle>Teil A</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>A Round of the P&amp;P T.E.A.R.S. "Quest of Chaos"
+</description>
+        <persons>
+          <person id="0">Dolonnen</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1584" guid="c178c9bd-fa4e-4cc0-8205-fa49b8243aa1">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pen%26Paper_RPG_-_T.E.A.R.S.</url>
+        <logo/>
+        <date>2019-12-28T14:15:00+01:00</date>
+        <start>14:15</start>
+        <duration>0:45</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>36c3-1584-session_pen_paper_rpg_t_e_a_r_s_</slug>
+        <title>Pen&amp;Paper RPG - T.E.A.R.S.</title>
+        <subtitle>Optionale Charakterbau-Session</subtitle>
         <track>self organized sessions</track>
         <type>game</type>
         <language>de</language>
@@ -6157,7 +6176,7 @@ Das schnelle Quiz für alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jah
         <language>en</language>
         <abstract/>
         <description>"Hackers against Climate Change" is a preliminary name for a variety of working groups/action groups that gathered during the "Hackers against Climate Change" session at the 35th Chaos Communication Congress in Leipzig.  We'd like to meet up again at 36c3
-Haccers againt Climate Change will meet @ Boredom - Komona. We'd like to discuss which workgroups are active on which topics and see how we may pick up tickets from last year.</description>
+Haccers againt Climate Change will meet @ Boredom - Komona. We'd like to discuss which workgroups are active on which topics and see which topis we pick up from last year or which new ones we address.</description>
         <persons>
           <person id="0">Moep</person>
         </persons>
@@ -6214,8 +6233,8 @@ While the JJBA comics are ongoing for more than 30 years now currently in part 9
       <event id="1588" guid="67664c57-de48-4070-b60e-040e25d4973d">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:KNX_/_OpenHAB_Selbsthilfegruppe</url>
         <logo/>
-        <date>2019-12-28T12:30:00+01:00</date>
-        <start>12:30</start>
+        <date>2019-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
         <duration>1:00</duration>
         <room>Assembly:Open Infrastructure Orbit</room>
         <slug>36c3-1588-session_knx_openhab_selbsthilfegruppe</slug>
@@ -6226,11 +6245,13 @@ While the JJBA comics are ongoing for more than 30 years now currently in part 9
         <language/>
         <abstract/>
         <description>KNX / OpenHAB Ideenaustausch
-Obacht: Der Slot ist noch nicht vom OIO bestätigt.</description>
+OIO Workshop Dome</description>
         <persons>
           <person id="0">Melle</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://talks.oio.social/36c3-oio/talk/7JFMUK/</link>
+        </links>
       </event>
       <event id="1418" guid="12f80390-7337-458f-88a7-ecadc78430a7">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Nudeln_hacken_-_Wettbewerb_f%C3%BCr_Junghacker_von_5_Jahren_bis_%E2%88%9E_(Session_A)</url>
@@ -7181,6 +7202,211 @@ Ab 17Uhr kannst du bei uns in der Assembly Kleidungsstücke oder andere Textilie
         <links/>
       </event>
     </room>
+    <room name="C-base">
+      <event id="1589" guid="b8579546-a3e9-4d13-b6f3-0b79fb8041b6">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_journey_through_the_Solar_System:_Planets_and_moons</url>
+        <logo/>
+        <date>2019-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1589-session_a_journey_through_the_solar_system_planets_and_moons</slug>
+        <title>A journey through the Solar System: Planets and moons</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury.
+</description>
+        <persons>
+          <person id="0">Samuel Antz</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1159" guid="1c6b3e1c-f1a8-48b3-879f-5077c768af69">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Cyber4EDU</url>
+        <logo/>
+        <date>2019-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1159-session_cyber4edu</slug>
+        <title>Cyber4EDU</title>
+        <subtitle>C4EDU Workshop 2</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Nachhaltig gute Software, Lernmaterialien und Hardware für Schulen
+Wir wollen einen Vorschlag für eine Checkliste für Schulen diskutieren. Die Checkliste soll Schulen helfen bei der Auswahl von Software, Lerninhalten und Hardware eine Orientierung für relevante Kriterien geben.Die Sessionplanung findet hier statt:https://cyber4edu.org/c4e/pad/p/36c3</description>
+        <persons>
+          <person id="0">DerMicha</person>
+        </persons>
+        <links>
+          <link>https://cyber4edu.org</link>
+        </links>
+      </event>
+      <event id="1263" guid="6c5d9e12-9e6e-47b0-8935-8617159686e6">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:DeliberativeDemocracy</url>
+        <logo/>
+        <date>2019-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1263-session_deliberativedemocracy</slug>
+        <title>DeliberativeDemocracy</title>
+        <subtitle>Andre</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Do not miss this co-creative workshop on citizens’ assemblies and why deliberative democracy may pave the way for a just and sustainable transition in a green future. Come and experience a deliberative session by yourself which will follow an introduction into the concept by activists of Extinction Rebellion Germany.
+Current environmental, social, and economic crises may be rooted to an institutional crisis of representative democracy. Consistent further development has always been an important constant in the history of democracy. Our current democratic institutions have been created in another era to response the challenges of those times. Present climate and ecological crises threaten our own existence and requires a radical transformation. Current democratic institutions will not suffice to reintegrate into our planet’s boundaries. But how to address this fundamental challenge as a democratic society?A promising option for a sustainable just transition towards global climate justice is a further development of democracy! Extinction Rebellion demands a national ‘citizens assembly’ on climate and ecological justice. Citizens’ Assemblies are innovative processes that can empower people, communities and entire countries to make important decisions in a way that is fair and deeply democratic. The Citizens’ Assembly on Climate and Ecological Justice will bring together ordinary people to investigate, discuss and make recommendations on how to respond to the climate emergency. Similar to jury service, members will be randomly selected from across the country. The process will be designed to ensure that the Assembly reflects the whole country in terms of characteristics such as gender, age, ethnicity, education level and geography. Assembly members will hear balanced information from experts and those most affected by the emergency. Members will speak openly and honestly in small groups with the aid of professional facilitators. Together they will work through their differences and draft and vote on recommendations.The Citizens’ Assembly will be run by non-governmental organizations under independent oversight. This is the fairest and most powerful way to cut through party politics. It will empower citizens to actually work together and take responsibility for our climate and ecological emergency. This isn’t pie in the sky – it’s proven practice. Citizens’ Assemblies around the world have shown that ordinary people can understand complex information, weigh the options, and make informed choices. Examples include Ireland, Canada, Australia, Belgium and Poland.</description>
+        <persons>
+          <person id="0">Andre</person>
+        </persons>
+        <links>
+          <link>https://extinctionrebellion.de/wer-wir-sind/unsere-forderungen/bv/</link>
+        </links>
+      </event>
+      <event id="1311" guid="6285f85d-ecaa-4b35-8628-aa3277b83f9e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerfleet%27s_Maritime_Hacker_Meetup</url>
+        <logo/>
+        <date>2019-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1311-session_hackerfleet_s_maritime_hacker_meetup</slug>
+        <title>Hackerfleet's Maritime Hacker Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Maritime Hackers Meetup!
+Join us for a nice hour (or two) of open discussion around the topics of maritime hacking. Meet&amp;Greet included.Contact riot (DECT: 7468) if you have any questions.</description>
+        <persons>
+          <person id="0">Riot</person>
+        </persons>
+        <links>
+          <link>https://hackerfleet.eu</link>
+        </links>
+      </event>
+      <event id="1310" guid="e59e2c7c-0522-4698-af53-81dccebd3e85">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:NO_Unitary_Software_Patents</url>
+        <logo/>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1310-session_no_unitary_software_patents</slug>
+        <title>NO Unitary Software Patents</title>
+        <subtitle>NO Unitary Software Patents</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>EU Software Patents v3.0
+The Unitary Patent is the third attempt to impose software patents in Europe. Software patents are a threat to small- and medium-sized software companies that cannot defend themselves. The UPC (Unified Patent Court) is an international court made outside of the European Union (EU), which would have the last word over the question of software patenting. The Court would favour “patent trolls” which steal our jobs and extort money.</description>
+        <persons>
+          <person id="0">Zoobab</person>
+        </persons>
+        <links>
+          <link>https://www.ffii.org</link>
+        </links>
+      </event>
+      <event id="1314" guid="8ec4a011-63cc-4d27-a6c5-36dadb2cc1df">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
+        <logo/>
+        <date>2019-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1314-session_pentagame_dojo</slug>
+        <title>Pentagame Dojo</title>
+        <subtitle>Just playin'</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Just playing Pentagame
+Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages and videos.</description>
+        <persons>
+          <person id="0">Penta</person>
+        </persons>
+        <links>
+          <link>https://pentagame.org</link>
+        </links>
+      </event>
+      <event id="1286" guid="005da89f-34b5-4a13-9104-1b8826cb7bff">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Theory</url>
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1286-session_pentagame_theory</slug>
+        <title>Pentagame Theory</title>
+        <subtitle>State space size and shape, etc.</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Pentagame is a new abstract board game. We talk about some fundamental insights.
+Pentagame is a novel board game that gains popularity in nerd circles. We have gathered insights regarding the game and will talk about(1) the game as such: how we came to invent it, and how it is played(2) a possible antique ancestor(3) opening moves and theory(4) state space complexity(5) endings and end positionsThis is a hot topic, since Pentagame remains an unsolved game. Studying it is an exercise in the theory of abstract games. The talk should be interesting for Pentagame players, but also to anyone interested in the theory of games.We are looking forward for discussion, intellectual exchange, and collaboration.Note that Pentagame can be played at c-base assembly pretty much any time, and from 22:00 hrs per day in particular.There will be an open tournament on the young hacker day.</description>
+        <persons>
+          <person id="0">Penta</person>
+        </persons>
+        <links>
+          <link>https://pentagame.org</link>
+        </links>
+      </event>
+      <event id="1488" guid="8c62a567-0190-4020-9767-01f66003194c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Refugee-datathon-munich</url>
+        <logo/>
+        <date>2019-12-29T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>2:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1488-session_refugee_datathon_munich</slug>
+        <title>Refugee-datathon-munich</title>
+        <subtitle>collecting information for refugee supporters</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>We collect open data to inform better about asylum and migration
+Since 2016, the Refugee Datathon Munich meet to find and collect open data to inform about the refugee situation world wide. The original target audience are refugee supporters. They often aren't technical, but need information on acceptance quotas and similar data. The public is another audience. And then there is us: While discussing, researching and working with this data, we learn a lot about migration on this planet, the legal situation in Germany, and Open Data.Let us work on some issues. It can be getting data from the OECD API, or eurostat, or from PDFs in documents. Or bringing this data in a more presentable form (visualizations), or explaining it in an online article.</description>
+        <persons>
+          <person id="0">Ynux</person>
+        </persons>
+        <links>
+          <link>https://refugee-datathon-muc.org/</link>
+        </links>
+      </event>
+      <event id="1198" guid="4aa7b5a5-2abd-4711-8029-67c9557a76f3">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1198-session_werewolf</slug>
+        <title>Werewolf</title>
+        <subtitle>Werewolf Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Werewolf, the (roleplaying)(card)game
+We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
+        <persons>
+          <person id="0">Haurane</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Seminar room 14-15">
       <event id="1053" guid="983e175e-86a5-40be-9910-808e00cc5c3d">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A:f_meetup</url>
@@ -7349,221 +7575,6 @@ We have brought a number of different detectors for radiation with us, ranging f
 </description>
         <persons>
           <person id="0">Fraxinas</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="Seminar room 13">
-      <event id="1587" guid="07acc243-0067-4aec-acac-af29c29cd8be">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:ADHS_-_Emotionen_%26_Probleme</url>
-        <logo/>
-        <date>2019-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:30</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1587-session_adhs_emotionen_probleme</slug>
-        <title>ADHS - Emotionen &amp; Probleme</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>ADHS Treffen um Probleme und Lösungen auszutauschen
-Inspiriert vom ADHS meetup am Tag 1 und der Menge der Dinge, die nicht besprochen würden, ein weiteres Treffen. Auch Leute die nicht beim meetup waren, sind herzlich eingeladen. Ich möchte dieses Mal vor allem über emotionale &amp; soziale Schwierigkeiten sowie Arten damit umzugehen sprechen. Gerne können wir ebenso über anderes quatschen, sofern die Zeit es zu lässt.</description>
-        <persons>
-          <person id="0">Rebecca</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1350" guid="5a4d6500-f96f-4e73-bab7-251c5d2f2b6f">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Behavioural_change_and_changing_habits</url>
-        <logo/>
-        <date>2019-12-29T22:30:00+01:00</date>
-        <start>22:30</start>
-        <duration>1:00</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1350-session_behavioural_change_and_changing_habits</slug>
-        <title>Behavioural change and changing habits</title>
-        <subtitle>Exchange of concepts and discussion, prevention of chronic diseases like diabetes type 2</subtitle>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>Let’s discuss the power of habits and what it takes to change behaviour.
-A free discussion about behavioural change and its methods (Cognitive behavioral therapy, motivational interviewing etc.), the power of habits and how to change them.I'd also like to discuss how healthy lifestyle changes can prevent diabetes type 2 and other chronic diseases.</description>
-        <persons>
-          <person id="0">Andru</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1262" guid="7793d88f-e59b-47a4-a62f-a71f3b4de59a">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Google-sensei_und_Leiharbeit_-_IT_in_Japan</url>
-        <logo/>
-        <date>2019-12-29T12:30:00+01:00</date>
-        <start>12:30</start>
-        <duration>1:00</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1262-session_google_sensei_und_leiharbeit_it_in_japan</slug>
-        <title>Google-sensei und Leiharbeit - IT in Japan</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Japan ist neben vielen Dingen auch als Land der Technik bekannt. Vor allem Games aller Art und Hardware aus Japan sind weltweit verbreitet, aber kennt irgendwer gute japanische Software? Wie IT in Japan von innen aussieht, und ob das Land wirklich so hightech ist wie man vielleicht denken mag, berichtet eine zurückgekehrte Deutsche.
-Ich bin nach abgeschlossenem Japanologie-Studium nach Japan gegangen und bin komplett fachfremd in der IT gelandet. Meine anfängliche Euphorie zum Engineer ("Enjinia") ausgebildet zu werden ist schnell der Realität aus sturem Auswendiglernen, E-Mails, die zu 70% aus Floskeln bestehen, und dem Erlernen von förmlich korrektem Austausch von Visitenkarten gewichen. Inmitten von allerlei Kuriositäten durfte ich aber auch für mich sehr wertvolle Erfahrungen machen, wie etwa die Teilnahme als STM ("Shownet Team Member") für das ShowNet, eine große Präsentation von bleeding-edge Netzwerk-Technologie auf der Interop Tokyo (https://www.interop.jp/shownet/?lang=en). Von April 2017 bis Juni 2019 habe ich nun also die IT-Welt in Japan hautnah erlebt und kann einiges berichten. Ich würde neben der ein oder anderen Kurisoität (z.B. dass der Minister für Cyber-Security nicht weiß, wie man einen USB-Stick benutzt (https://www.theguardian.com/world/2018/nov/15/japan-cyber-security-ministernever-used-computer-yoshitaka-sakurada)) über grundlegendere Probleme (z.B. Bildungssystem, mangelnde Englisch-Kenntnisse) und wie damit umgegangen wird (z.B. viele Meetups und Communities) erzählen. Der Talk ist also weniger technisch als mehr erzählerisch gedacht. Als Zielgruppe sehe ich Leute, die Interesse an Japan als Land haben und Leute, die geschäftlich mit japanischen Firmen zu tun haben oder dies in Erwägung ziehen.</description>
-        <persons>
-          <person id="0">Mona144</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1268" guid="2226ac66-2c22-4cf2-835c-c8c36bb4f665">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Ideen-/Erfahrungsaustausch_Linux_Install_Caf%C3%A9</url>
-        <logo/>
-        <date>2019-12-29T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>1:00</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1268-session_ideen_erfahrungsaustausch_linux_install_caf</slug>
-        <title>Ideen-/Erfahrungsaustausch Linux Install Café</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>de</language>
-        <abstract/>
-        <description>Wir wollen in unserem Hackerspace ein Linux Install Café auf die Beine stellen.
-Wir wollen in unserem Hackerspace ein Linux Install Café auf die Beinestellen.An dieser Session wollen wir uns mit Gleichgesinnten austauschen.Hast du Ideen für Angebote, Workshops, etc.?  Komm vorbei und teiledeine Ideen.Hast du bereits Erfahrung mit Install Cafés (alsOrganisator oder Teilnehmer)? Komm vorbei und teile deine Erfahrung.Hast du weder Ideen, noch Erfahrung?  Komm vorbei und hör einfach zu.</description>
-        <persons>
-          <person id="0">S3lph</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1143" guid="f160d7c6-46aa-4bb5-9a18-f909d7905156">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:LUKi_Meetup</url>
-        <logo/>
-        <date>2019-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>1:20</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1143-session_luki_meetup</slug>
-        <title>LUKi Meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>come together for people interested in LUKi e. V.
-We want to meet and get to know each other - not only current members of LUKi e. V. but also (and especially) perosns interested in the topics and work of LUKi e. V.We welcome all human beings interested in discussing and supporting free and open software and infrastructure for churches or other social movements.CU at LUKi Meetup----... Jesus would use Linux! ... ;-)</description>
-        <persons>
-          <person id="0">A-mo-rex</person>
-        </persons>
-        <links>
-          <link>https://luki.org/</link>
-        </links>
-      </event>
-      <event id="1251" guid="d3547f5d-e3c4-47c6-a796-96a6e1a15b20">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Lebensdauer_von_Computern_und_warum_sie_so_kurz_ist</url>
-        <logo/>
-        <date>2019-12-29T14:30:00+01:00</date>
-        <start>14:30</start>
-        <duration>1:30</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1251-session_lebensdauer_von_computern_und_warum_sie_so_kurz_ist</slug>
-        <title>Lebensdauer von Computern und warum sie so kurz ist</title>
-        <subtitle>Wiederholung</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Ein Workshop darüber, warum unsere technischen Geräte häufig durch neue ersetzt werden und wie wir das ändern könnten.
-Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in der Schublade verschwinden.Das ist eine riesige Verschwendung von Ressourcen, die wir uns auf Dauer nicht leisten können.Dieser Workshop steckt die Teilnehmer·innen in die Schuhe von Produzent·innen, und versucht so zu erforschen, wie es zu diesem Phänomen kommt, und unter welchen Rahmenbedingungen wir es verhindern könnten. Spoiler: Mit der Verlängerung der Garantie ist es nicht getan.Wir werden mit einem kleinem Simulation-Tool herumspielen und versuchen, dessen Ergebnis zu verändern. So können wir gezielt einzelne Einflüsse herausarbeiten.Der Workshop entstand aus [https://dresden.bits-und-baeume.org/ Bits und Bäume Dresden] und greift den Abschnitt "Langlebigkeit von Software und Hardware" aus den [https://bits-und-baeume.org/forderungen/info/de Forderungen von Bits und Bäume] auf.Noch befindet sich der Workshop in der "Beta" und soll später auch all denen das Thema vermitteln, die sich sonst nur am Rande mit Digitalisierung befassen.Jede·r Teilnehmer·in sollte auf einen Web-Browser zugreifen können. Laptop/Tablet ist natürlich schöner als Smartphone. Am Fehlen davon soll's im Zweifel aber nicht scheitern.'''An beiden Terminen findet der selbe Inhalt statt.'''</description>
-        <persons>
-          <person id="0">Tropf</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1195" guid="d3f4b1b6-0a37-4d2d-939a-cf502195180c">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:NetzDG-Reform_-_Vernetzung</url>
-        <logo/>
-        <date>2019-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1195-session_netzdg_reform_vernetzung</slug>
-        <title>NetzDG-Reform - Vernetzung</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language/>
-        <abstract/>
-        <description>Das BMJV hat einen bedenklichen Referententwurf für ein Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität  vorgelegt. Enthalten sind Verschärfung des NetzDG, des TMG, der STPO, des StGB und des BKAG. Wir wollen uns gern mit allen treffen, die an dem Thema arbeiten oder interessiert sind.
-</description>
-        <persons>
-          <person id="0">Elisabethdigiges</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1288" guid="386968c0-f7b5-421f-9283-0e0a454352e7">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tor_Organizations_Meetup</url>
-        <logo/>
-        <date>2019-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>1:30</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1288-session_tor_organizations_meetup</slug>
-        <title>Tor Organizations Meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>
-</description>
-        <persons>
-          <person id="0">Kantorkel</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1028" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d8">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
-        <logo/>
-        <date>2019-12-29T19:40:00+01:00</date>
-        <start>19:40</start>
-        <duration>1:20</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1028-session_translation_team_meeting</slug>
-        <title>Translation Team Meeting</title>
-        <subtitle>Meeting Day 3 #2 2nd language</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
-This meeting is used for the distribution of shifts for the Translation team.</description>
-        <persons>
-          <person id="0">Katti</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1149" guid="8ffb50b3-43d4-4164-9d1e-f0e91b5b179a">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:XMPP_Operator_Meetup</url>
-        <logo/>
-        <date>2019-12-29T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1149-session_xmpp_operator_meetup</slug>
-        <title>XMPP Operator Meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language/>
-        <abstract/>
-        <description>A meetup for server admins of public XMPP providers
-</description>
-        <persons>
-          <person id="0">Inputmice</person>
-          <person id="0">Pep</person>
         </persons>
         <links/>
       </event>
@@ -7988,7 +7999,7 @@ For more information please refer to the foodhackingbase wiki page: https://food
         <language>en</language>
         <abstract/>
         <description>Fomu, the FPGA in your USB Port
-[[File:Fomu.png|300px|right|Fomu Logo]]&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Signup at tables → → →&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Fomu workshop!&lt;/h1&gt;&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Current --&gt; https://workshop.fomu.im/&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Previous Version --&gt; https://workshop-old.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Please sit in the &lt;b&gt;Mammoth Space - (has Pink Lights)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Workshop is &lt;span style="font-color: red;"&gt;&lt;b&gt;self&lt;/b&gt;&lt;/span&gt; directed.&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Complete set up&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Get hardware from Mithro&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Continue workshop&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Raise your hand if you get stuck!&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;irc.freenode.net #tomu&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Hardware Pickup&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; text-align:center; "&gt;[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]&lt;/span&gt;&lt;br&gt;&lt;br&gt;{| style="color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;" cellpadding="10" cellspacing="0" border="1"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style="background-color:#ffffcc"|- style="background-color:#ccffff"! scope="row" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]&lt;br&gt;&lt;small&gt; &lt;i&gt;(while supply lasts)&lt;/small&gt;&lt;/i&gt;| 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm)  || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || -|}&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Sessions&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;All sessions are the same!&lt;br&gt;&lt;br&gt;This workshop will be given multiple times (all sessions are &lt;b&gt;identical&lt;/b&gt;). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. &lt;b&gt;Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]&lt;/b&gt;&lt;br&gt;&lt;br&gt;Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).&lt;br&gt;&lt;br&gt;''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''&lt;br&gt;&lt;br&gt;Hardware Hacking Area - Mammoth Space - Pink Lights&lt;br&gt;&lt;br&gt;</description>
+[[File:Fomu.png|300px|right|Fomu Logo]]&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Signup at tables → → →&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Fomu workshop!&lt;/h1&gt;&lt;/span&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Current --&gt; https://workshop.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Previous Version --&gt; https://workshop-old.fomu.im/&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;Please sit in the &lt;b&gt;Mammoth Space - (has Pink Lights)&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Workshop is &lt;span style="font-color: red;"&gt;&lt;b&gt;self&lt;/b&gt;&lt;/span&gt; directed.&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Go to https://workshop.fomu.im or https://fomu-workshop.rtfd.io/&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Complete set up&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Get hardware from Mithro&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Continue workshop&lt;/span&gt;&lt;/li&gt; &lt;li&gt;&lt;span style="font-size: 20px;"&gt;Raise your hand if you get stuck!&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; font-style: bold;"&gt;irc.freenode.net #tomu&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Hardware Pickup&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 30px; text-align:center; "&gt;[https://workshop.fomu.im Complete the setup], get a [https://fomu.im/ free Fomu board]&lt;/span&gt;&lt;br&gt;&lt;br&gt;{| style="color: green; background-color:#ffffcc; width: 100%; text-align:center; border-color: black; font-size: 14px;" cellpadding="10" cellspacing="0" border="1"! Hardware Pickup! Day 1 !! Day 2 !! Day 3 !! Day 4|- style="background-color:#ffffcc"|- style="background-color:#ccffff"! scope="row" | [[Projects:Fomu|Fomu]] pickup from [[User:Mithro|Tim 'mithro' Ansell]]&lt;br&gt;&lt;small&gt; &lt;i&gt;(while supply lasts)&lt;/small&gt;&lt;/i&gt;| 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm)  || 12:00 -&gt; 12:30&lt;br&gt;17:00 -&gt; 17:30 (5:00pm -&gt; 5:30pm)&lt;br&gt;22:30 -&gt; 23:00 (10:00pm-&gt;10:30pm) || -|}&lt;br&gt;&lt;br&gt;&lt;span style="font-size: 40px; font-style: bold;"&gt;&lt;h1&gt;Sessions&lt;/h1&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;All sessions are the same!&lt;br&gt;&lt;br&gt;This workshop will be given multiple times (all sessions are &lt;b&gt;identical&lt;/b&gt;). [https://workshop.fomu.im The workshop] is self guided with helpers for when you get stuck. &lt;b&gt;Please sign up on the paper at the [[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]&lt;/b&gt;&lt;br&gt;&lt;br&gt;Come get an FPGA dev board in your USB port and start hacking! Getting the toolchain set up and working will earn you a free Fomu from [[User:Mithro|Tim 'mithro' Ansell]] (while stocks last).&lt;br&gt;&lt;br&gt;''(This is one of many cool things happening throughout 36C3 in the huge '''[[Assembly:Hardware Hacking Area|Hardware Hacking Area!]]''')''&lt;br&gt;&lt;br&gt;Hardware Hacking Area - Mammoth Space - Pink Lights&lt;br&gt;&lt;br&gt;</description>
         <persons>
           <person id="0">Mithro</person>
         </persons>
@@ -8552,8 +8563,8 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <type>talk</type>
         <language>en</language>
         <abstract/>
-        <description>will be provided shortly
-will be provided shortly</description>
+        <description>This is a talk about the foundational crisis in mathematics and its resolution, Gödel incompleteness phenomena, unknowability concerning infinity (the continuum hypothesis) and a new philosophy which gives an intriguing and coherent common perspective on these topics.
+The talk gives a primer to the set-theoretic multiverse philosophy put forward by Joel-David Hamkins.To enjoy the the talk, you should have an interest in the intersection of mathematics and philosophy, but you don't need to bring any specific mathematical or logical prerequisites. This talk is an invitation to follow along and ask lots of questions on the way. :-)'''[https://iblech.gitlab.io/bb/multiverse.html Paper the talk is based on]'''</description>
         <persons>
           <person id="0">Iblech</person>
         </persons>
@@ -8671,6 +8682,200 @@ Contact: Marko Mijokovic (01636934204)</description>
         <links>
           <link>https://www.bierstrasse-franken.de/</link>
         </links>
+      </event>
+    </room>
+    <room name="Seminar room 13">
+      <event id="1350" guid="5a4d6500-f96f-4e73-bab7-251c5d2f2b6f">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Behavioural_change_and_changing_habits</url>
+        <logo/>
+        <date>2019-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1350-session_behavioural_change_and_changing_habits</slug>
+        <title>Behavioural change and changing habits</title>
+        <subtitle>Exchange of concepts and discussion, prevention of chronic diseases like diabetes type 2</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Let’s discuss the power of habits and what it takes to change behaviour.
+A free discussion about behavioural change and its methods (Cognitive behavioral therapy, motivational interviewing etc.), the power of habits and how to change them.I'd also like to discuss how healthy lifestyle changes can prevent diabetes type 2 and other chronic diseases.</description>
+        <persons>
+          <person id="0">Andru</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1262" guid="7793d88f-e59b-47a4-a62f-a71f3b4de59a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Google-sensei_und_Leiharbeit_-_IT_in_Japan</url>
+        <logo/>
+        <date>2019-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1262-session_google_sensei_und_leiharbeit_it_in_japan</slug>
+        <title>Google-sensei und Leiharbeit - IT in Japan</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Japan ist neben vielen Dingen auch als Land der Technik bekannt. Vor allem Games aller Art und Hardware aus Japan sind weltweit verbreitet, aber kennt irgendwer gute japanische Software? Wie IT in Japan von innen aussieht, und ob das Land wirklich so hightech ist wie man vielleicht denken mag, berichtet eine zurückgekehrte Deutsche.
+Ich bin nach abgeschlossenem Japanologie-Studium nach Japan gegangen und bin komplett fachfremd in der IT gelandet. Meine anfängliche Euphorie zum Engineer ("Enjinia") ausgebildet zu werden ist schnell der Realität aus sturem Auswendiglernen, E-Mails, die zu 70% aus Floskeln bestehen, und dem Erlernen von förmlich korrektem Austausch von Visitenkarten gewichen. Inmitten von allerlei Kuriositäten durfte ich aber auch für mich sehr wertvolle Erfahrungen machen, wie etwa die Teilnahme als STM ("Shownet Team Member") für das ShowNet, eine große Präsentation von bleeding-edge Netzwerk-Technologie auf der Interop Tokyo (https://www.interop.jp/shownet/?lang=en). Von April 2017 bis Juni 2019 habe ich nun also die IT-Welt in Japan hautnah erlebt und kann einiges berichten. Ich würde neben der ein oder anderen Kurisoität (z.B. dass der Minister für Cyber-Security nicht weiß, wie man einen USB-Stick benutzt (https://www.theguardian.com/world/2018/nov/15/japan-cyber-security-ministernever-used-computer-yoshitaka-sakurada)) über grundlegendere Probleme (z.B. Bildungssystem, mangelnde Englisch-Kenntnisse) und wie damit umgegangen wird (z.B. viele Meetups und Communities) erzählen. Der Talk ist also weniger technisch als mehr erzählerisch gedacht. Als Zielgruppe sehe ich Leute, die Interesse an Japan als Land haben und Leute, die geschäftlich mit japanischen Firmen zu tun haben oder dies in Erwägung ziehen.</description>
+        <persons>
+          <person id="0">Mona144</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1268" guid="2226ac66-2c22-4cf2-835c-c8c36bb4f665">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Ideen-/Erfahrungsaustausch_Linux_Install_Caf%C3%A9</url>
+        <logo/>
+        <date>2019-12-29T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1268-session_ideen_erfahrungsaustausch_linux_install_caf</slug>
+        <title>Ideen-/Erfahrungsaustausch Linux Install Café</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir wollen in unserem Hackerspace ein Linux Install Café auf die Beine stellen.
+Wir wollen in unserem Hackerspace ein Linux Install Café auf die Beinestellen.An dieser Session wollen wir uns mit Gleichgesinnten austauschen.Hast du Ideen für Angebote, Workshops, etc.?  Komm vorbei und teiledeine Ideen.Hast du bereits Erfahrung mit Install Cafés (alsOrganisator oder Teilnehmer)? Komm vorbei und teile deine Erfahrung.Hast du weder Ideen, noch Erfahrung?  Komm vorbei und hör einfach zu.</description>
+        <persons>
+          <person id="0">S3lph</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1143" guid="f160d7c6-46aa-4bb5-9a18-f909d7905156">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:LUKi_Meetup</url>
+        <logo/>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:20</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1143-session_luki_meetup</slug>
+        <title>LUKi Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>come together for people interested in LUKi e. V.
+We want to meet and get to know each other - not only current members of LUKi e. V. but also (and especially) perosns interested in the topics and work of LUKi e. V.We welcome all human beings interested in discussing and supporting free and open software and infrastructure for churches or other social movements.CU at LUKi Meetup----... Jesus would use Linux! ... ;-)</description>
+        <persons>
+          <person id="0">A-mo-rex</person>
+        </persons>
+        <links>
+          <link>https://luki.org/</link>
+        </links>
+      </event>
+      <event id="1251" guid="d3547f5d-e3c4-47c6-a796-96a6e1a15b20">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Lebensdauer_von_Computern_und_warum_sie_so_kurz_ist</url>
+        <logo/>
+        <date>2019-12-29T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>1:30</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1251-session_lebensdauer_von_computern_und_warum_sie_so_kurz_ist</slug>
+        <title>Lebensdauer von Computern und warum sie so kurz ist</title>
+        <subtitle>Wiederholung</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Ein Workshop darüber, warum unsere technischen Geräte häufig durch neue ersetzt werden und wie wir das ändern könnten.
+Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in der Schublade verschwinden.Das ist eine riesige Verschwendung von Ressourcen, die wir uns auf Dauer nicht leisten können.Dieser Workshop steckt die Teilnehmer·innen in die Schuhe von Produzent·innen, und versucht so zu erforschen, wie es zu diesem Phänomen kommt, und unter welchen Rahmenbedingungen wir es verhindern könnten. Spoiler: Mit der Verlängerung der Garantie ist es nicht getan.Wir werden mit einem kleinem Simulation-Tool herumspielen und versuchen, dessen Ergebnis zu verändern. So können wir gezielt einzelne Einflüsse herausarbeiten.Der Workshop entstand aus [https://dresden.bits-und-baeume.org/ Bits und Bäume Dresden] und greift den Abschnitt "Langlebigkeit von Software und Hardware" aus den [https://bits-und-baeume.org/forderungen/info/de Forderungen von Bits und Bäume] auf.Noch befindet sich der Workshop in der "Beta" und soll später auch all denen das Thema vermitteln, die sich sonst nur am Rande mit Digitalisierung befassen.Jede·r Teilnehmer·in sollte auf einen Web-Browser zugreifen können. Laptop/Tablet ist natürlich schöner als Smartphone. Am Fehlen davon soll's im Zweifel aber nicht scheitern.'''An beiden Terminen findet der selbe Inhalt statt.'''</description>
+        <persons>
+          <person id="0">Tropf</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1195" guid="d3f4b1b6-0a37-4d2d-939a-cf502195180c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:NetzDG-Reform_-_Vernetzung</url>
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1195-session_netzdg_reform_vernetzung</slug>
+        <title>NetzDG-Reform - Vernetzung</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>Das BMJV hat einen bedenklichen Referententwurf für ein Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität  vorgelegt. Enthalten sind Verschärfung des NetzDG, des TMG, der STPO, des StGB und des BKAG. Wir wollen uns gern mit allen treffen, die an dem Thema arbeiten oder interessiert sind.
+</description>
+        <persons>
+          <person id="0">Elisabethdigiges</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1288" guid="386968c0-f7b5-421f-9283-0e0a454352e7">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tor_Organizations_Meetup</url>
+        <logo/>
+        <date>2019-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1288-session_tor_organizations_meetup</slug>
+        <title>Tor Organizations Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>
+</description>
+        <persons>
+          <person id="0">Kantorkel</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1028" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-29T19:40:00+01:00</date>
+        <start>19:40</start>
+        <duration>1:20</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1028-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Meeting Day 3 #2 2nd language</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0">Katti</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1149" guid="8ffb50b3-43d4-4164-9d1e-f0e91b5b179a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:XMPP_Operator_Meetup</url>
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1149-session_xmpp_operator_meetup</slug>
+        <title>XMPP Operator Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language/>
+        <abstract/>
+        <description>A meetup for server admins of public XMPP providers
+</description>
+        <persons>
+          <person id="0">Inputmice</person>
+          <person id="0">Pep</person>
+        </persons>
+        <links/>
       </event>
     </room>
     <room name="Assembly:C3blind">
@@ -8814,190 +9019,6 @@ Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your o
         <links>
           <link>http://z-uno.z-wave.me</link>
         </links>
-      </event>
-    </room>
-    <room name="C-base">
-      <event id="1159" guid="1c6b3e1c-f1a8-48b3-879f-5077c768af69">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Cyber4EDU</url>
-        <logo/>
-        <date>2019-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1159-session_cyber4edu</slug>
-        <title>Cyber4EDU</title>
-        <subtitle>C4EDU Workshop 2</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>Nachhaltig gute Software, Lernmaterialien und Hardware für Schulen
-Wir wollen einen Vorschlag für eine Checkliste für Schulen diskutieren. Die Checkliste soll Schulen helfen bei der Auswahl von Software, Lerninhalten und Hardware eine Orientierung für relevante Kriterien geben.Die Sessionplanung findet hier statt:https://cyber4edu.org/c4e/pad/p/36c3</description>
-        <persons>
-          <person id="0">DerMicha</person>
-        </persons>
-        <links>
-          <link>https://cyber4edu.org</link>
-        </links>
-      </event>
-      <event id="1263" guid="6c5d9e12-9e6e-47b0-8935-8617159686e6">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:DeliberativeDemocracy</url>
-        <logo/>
-        <date>2019-12-29T12:30:00+01:00</date>
-        <start>12:30</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1263-session_deliberativedemocracy</slug>
-        <title>DeliberativeDemocracy</title>
-        <subtitle>Andre</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Do not miss this co-creative workshop on citizens’ assemblies and why deliberative democracy may pave the way for a just and sustainable transition in a green future. Come and experience a deliberative session by yourself which will follow an introduction into the concept by activists of Extinction Rebellion Germany.
-Current environmental, social, and economic crises may be rooted to an institutional crisis of representative democracy. Consistent further development has always been an important constant in the history of democracy. Our current democratic institutions have been created in another era to response the challenges of those times. Present climate and ecological crises threaten our own existence and requires a radical transformation. Current democratic institutions will not suffice to reintegrate into our planet’s boundaries. But how to address this fundamental challenge as a democratic society?A promising option for a sustainable just transition towards global climate justice is a further development of democracy! Extinction Rebellion demands a national ‘citizens assembly’ on climate and ecological justice. Citizens’ Assemblies are innovative processes that can empower people, communities and entire countries to make important decisions in a way that is fair and deeply democratic. The Citizens’ Assembly on Climate and Ecological Justice will bring together ordinary people to investigate, discuss and make recommendations on how to respond to the climate emergency. Similar to jury service, members will be randomly selected from across the country. The process will be designed to ensure that the Assembly reflects the whole country in terms of characteristics such as gender, age, ethnicity, education level and geography. Assembly members will hear balanced information from experts and those most affected by the emergency. Members will speak openly and honestly in small groups with the aid of professional facilitators. Together they will work through their differences and draft and vote on recommendations.The Citizens’ Assembly will be run by non-governmental organizations under independent oversight. This is the fairest and most powerful way to cut through party politics. It will empower citizens to actually work together and take responsibility for our climate and ecological emergency. This isn’t pie in the sky – it’s proven practice. Citizens’ Assemblies around the world have shown that ordinary people can understand complex information, weigh the options, and make informed choices. Examples include Ireland, Canada, Australia, Belgium and Poland.</description>
-        <persons>
-          <person id="0">Andre</person>
-        </persons>
-        <links>
-          <link>https://extinctionrebellion.de/wer-wir-sind/unsere-forderungen/bv/</link>
-        </links>
-      </event>
-      <event id="1311" guid="6285f85d-ecaa-4b35-8628-aa3277b83f9e">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerfleet%27s_Maritime_Hacker_Meetup</url>
-        <logo/>
-        <date>2019-12-29T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1311-session_hackerfleet_s_maritime_hacker_meetup</slug>
-        <title>Hackerfleet's Maritime Hacker Meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>The Maritime Hackers Meetup!
-Join us for a nice hour (or two) of open discussion around the topics of maritime hacking. Meet&amp;Greet included.Contact riot (DECT: 7468) if you have any questions.</description>
-        <persons>
-          <person id="0">Riot</person>
-        </persons>
-        <links>
-          <link>https://hackerfleet.eu</link>
-        </links>
-      </event>
-      <event id="1310" guid="e59e2c7c-0522-4698-af53-81dccebd3e85">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:NO_Unitary_Software_Patents</url>
-        <logo/>
-        <date>2019-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>1:00</duration>
-        <room>C-base</room>
-        <slug>36c3-1310-session_no_unitary_software_patents</slug>
-        <title>NO Unitary Software Patents</title>
-        <subtitle>NO Unitary Software Patents</subtitle>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>EU Software Patents v3.0
-The Unitary Patent is the third attempt to impose software patents in Europe. Software patents are a threat to small- and medium-sized software companies that cannot defend themselves. The UPC (Unified Patent Court) is an international court made outside of the European Union (EU), which would have the last word over the question of software patenting. The Court would favour “patent trolls” which steal our jobs and extort money.</description>
-        <persons>
-          <person id="0">Zoobab</person>
-        </persons>
-        <links>
-          <link>https://www.ffii.org</link>
-        </links>
-      </event>
-      <event id="1314" guid="8ec4a011-63cc-4d27-a6c5-36dadb2cc1df">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
-        <logo/>
-        <date>2019-12-29T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1314-session_pentagame_dojo</slug>
-        <title>Pentagame Dojo</title>
-        <subtitle>Just playin'</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Just playing Pentagame
-Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages and videos.</description>
-        <persons>
-          <person id="0">Penta</person>
-        </persons>
-        <links>
-          <link>https://pentagame.org</link>
-        </links>
-      </event>
-      <event id="1286" guid="005da89f-34b5-4a13-9104-1b8826cb7bff">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Theory</url>
-        <logo/>
-        <date>2019-12-29T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>C-base</room>
-        <slug>36c3-1286-session_pentagame_theory</slug>
-        <title>Pentagame Theory</title>
-        <subtitle>State space size and shape, etc.</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Pentagame is a new abstract board game. We talk about some fundamental insights.
-Pentagame is a novel board game that gains popularity in nerd circles. We have gathered insights regarding the game and will talk about(1) the game as such: how we came to invent it, and how it is played(2) a possible antique ancestor(3) opening moves and theory(4) state space complexity(5) endings and end positionsThis is a hot topic, since Pentagame remains an unsolved game. Studying it is an exercise in the theory of abstract games. The talk should be interesting for Pentagame players, but also to anyone interested in the theory of games.We are looking forward for discussion, intellectual exchange, and collaboration.Note that Pentagame can be played at c-base assembly pretty much any time, and from 22:00 hrs per day in particular.There will be an open tournament on the young hacker day.</description>
-        <persons>
-          <person id="0">Penta</person>
-        </persons>
-        <links>
-          <link>https://pentagame.org</link>
-        </links>
-      </event>
-      <event id="1488" guid="8c62a567-0190-4020-9767-01f66003194c">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Refugee-datathon-munich</url>
-        <logo/>
-        <date>2019-12-29T14:30:00+01:00</date>
-        <start>14:30</start>
-        <duration>2:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1488-session_refugee_datathon_munich</slug>
-        <title>Refugee-datathon-munich</title>
-        <subtitle>collecting information for refugee supporters</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>We collect open data to inform better about asylum and migration
-Since 2016, the Refugee Datathon Munich meet to find and collect open data to inform about the refugee situation world wide. The original target audience are refugee supporters. They often aren't technical, but need information on acceptance quotas and similar data. The public is another audience. And then there is us: While discussing, researching and working with this data, we learn a lot about migration on this planet, the legal situation in Germany, and Open Data.Let us work on some issues. It can be getting data from the OECD API, or eurostat, or from PDFs in documents. Or bringing this data in a more presentable form (visualizations), or explaining it in an online article.</description>
-        <persons>
-          <person id="0">Ynux</person>
-        </persons>
-        <links>
-          <link>https://refugee-datathon-muc.org/</link>
-        </links>
-      </event>
-      <event id="1198" guid="4aa7b5a5-2abd-4711-8029-67c9557a76f3">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
-        <logo/>
-        <date>2019-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1198-session_werewolf</slug>
-        <title>Werewolf</title>
-        <subtitle>Werewolf Day 3</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Werewolf, the (roleplaying)(card)game
-We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
-        <persons>
-          <person id="0">Haurane</person>
-        </persons>
-        <links/>
       </event>
     </room>
     <room name="Assembly:Digitalcourage">
@@ -9334,8 +9355,8 @@ TRICKMISCH.de und TRIXMIX.tv sind wieder auf dem Congress, um mit Euch Trickfilm
         <type>outside</type>
         <language/>
         <abstract/>
-        <description>„$password=saveForFuture“: Peaceful “Fridays for Future” protest for climate justice (better climate politics) in the city. Officially registered at the relevant government agency, legal to attend for citizens of any country. Angemeldete Demonstration im Rahmen von Fridays for Future in der Stadt; Termin am Vormittag, damit 36c3-Besuchende direkt morgens von der Schlafgelegenheit zur Demo können und nach der Demo weiter zum Messegelände.
-Demonstration im Rahmen von Fridays for Future in der Stadt; Termin am Vormittag, damit 36c3-Besuchende direkt morgens von der Schlafgelegenheit zur Demo können und nach der Demo weiter zum Messegelände. Details folgen.</description>
+        <description>„$password=saveForFuture“: Peaceful “Fridays for Future” protest for climate justice (better climate politics) in the city. Officially registered at the relevant government agency, legal to attend for citizens of any country.Deteils:Angemeldete Demonstration im Rahmen von Fridays for Future in der Stadt; Termin am Vormittag, damit 36c3-Besuchende direkt morgens von der Schlafgelegenheit zur Demo können und nach der Demo weiter zum Messegelände.
+Demonstration im Rahmen von Fridays for Future in der Stadt; Termin am Vormittag, damit 36c3-Besuchende direkt morgens von der Schlafgelegenheit zur Demo können und nach der Demo weiter zum Messegelände.Thematisch orientiern wir uns dann auch mehr am Thema des Chaos Communication Congress, welcher "Resource Exhaustion" zum eigenen Motto gemacht hat. Somit widmen wir uns eben der Digitalisierung und deren Auswirkungen auf den menschgemachten Klimawandel. Details:Ort: Willi-Brandt-Platz LeipzigZeit: 11:00Datum: 28.12.2019The strike is part of the local Friday For Future group. The date and time were chosen to take care of the visitors of 36c6. Simply to stand up, strike and move on to the congress.Having the topic of the chaos communication congress "Resource Exhaustion" in mind, the strike will focus on that topic also - especially the responsibility of digitalization on the human-made climate crisis.Details:Location: Willi-Brandt-Platz LeipzigTime: 11:00 CETDate: 2019-12-28</description>
         <persons>
           <person id="0">E1mo</person>
         </persons>
@@ -9431,7 +9452,7 @@ Ein Türschloss ist eigentlich ganz einfach zu tauschen? Eine Schraube raus, alt
         <language>en</language>
         <abstract/>
         <description>(for people who already know Git)
-will be added soon</description>
+* Ever deleted a branch and lost hours of work that way?  No, because you cannot possibly lose work that way – git still has that commit you lost and it is trivial to find out the commit hash you need.* Ever did some git command that you shouldn't have done, only to be left in a situation that you cannot get out of again?  No, because it is trivial to get out of any weird situation using only three basic commands.* Never had problems like the above?  This talk is still for you, because by using the commands I will show you, you can get into very weird trouble, creating the real problems you need in order to appreciate the help.  You might also learn how to rewrite history in order to make it more readable and useful for humans, like your future self.</description>
         <persons>
           <person id="0">MichaelStruwe</person>
         </persons>

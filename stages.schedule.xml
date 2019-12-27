@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 16; wikipaka 0.14; chaoszone 0.7; komona 0.17; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.17; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Stages</title>
@@ -7060,6 +7060,32 @@ Dieser Talk behandelt, wie sehr sich die verkaufte Hardware sowie Software von d
         <attachments/>
         <answers/>
       </event>
+      <event id="395" guid="9b04791e-1dac-5cdc-a8d1-c09496b584b8">
+        <logo/>
+        <date>2019-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>RUXX3H</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/RUXX3H/</url>
+        <title>Was ist Zeit?</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Dort wo sich Physik und Philosophie treffen ist es Zeit, über Zeit zu sprechen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="149">Steini</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="377" guid="6bacef9b-6bf0-572d-82bc-cdd5c254c2c1">
         <logo/>
         <date>2019-12-29T00:00:00+01:00</date>
@@ -7270,7 +7296,7 @@ Hi, ich bin Becci (@genderbeitrag) und veranstalte mittlerweile traditionell auf
         <url>https://cfp.verschwoerhaus.de/36c3/talk/QT3DQD/</url>
         <title>Subtitles Angelmeeting</title>
         <subtitle/>
-        <track/>
+        <track>Community</track>
         <type>Talk</type>
         <language>de</language>
         <abstract>Introduction for the Subtitles Angletype.</abstract>
@@ -7691,6 +7717,34 @@ Dies umfasst, Auskunftsersuchen zu von euch gespeicherten persönlichen Daten. A
       </event>
     </room>
     <room name="Art-and-Play Stage">
+      <event id="4143" guid="1fe65a21-5aff-5d5c-a4b3-8039019f9576">
+        <logo>/media/36c3/images/DVKCLG/B5E74096-1097-4199-A216-62136221CD67_zx8lDVW.png</logo>
+        <date>2019-12-28T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Art-and-Play Stage</room>
+        <slug>DVKCLG</slug>
+        <url>https://stage.artesmobiles.art/36c3/talk/DVKCLG/</url>
+        <title>fluepdot_installation</title>
+        <subtitle/>
+        <track>Lecture</track>
+        <type>Lecture</type>
+        <language>en</language>
+        <abstract/>
+        <description>Flipdots are electromechnical displays that were often used in public transport vehicles.&#13;
+With the Fluepdot project, it is possible to take control over this ancient technology, to built a large installation.&#13;
+In this talk, I will give an insight on how this thing came to live. Also I will be answering the most frequently asked questions, give an overview of the electrical engineering and the software used to control the installation.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="32">Fabian Lüpke</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="4130" guid="21cf0df3-5655-5c4f-8e8b-a10c1cb819db">
         <logo>/media/36c3/images/RAY8LY/Quantified_Reality__web_3JfYIRI.jpg</logo>
         <date>2019-12-28T12:00:00+01:00</date>

@@ -14,7 +14,7 @@
   "type": "workshop",
   "language": "en",
   "abstract": "",
-  "description": "(for people who already know Git)\nwill be added soon",
+  "description": "(for people who already know Git)\n* Ever deleted a branch and lost hours of work that way?  No, because you cannot possibly lose work that way \u2013 git still has that commit you lost and it is trivial to find out the commit hash you need.* Ever did some git command that you shouldn't have done, only to be left in a situation that you cannot get out of again?  No, because it is trivial to get out of any weird situation using only three basic commands.* Never had problems like the above?  This talk is still for you, because by using the commands I will show you, you can get into very weird trouble, creating the real problems you need in order to appreciate the help.  You might also learn how to rewrite history in order to make it more readable and useful for humans, like your future self.",
   "persons": [
     {
       "id": 0,

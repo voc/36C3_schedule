@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 16:40</version>
+  <version>hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.12; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 16:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -2846,31 +2846,28 @@ Should the author fail to show up to this presentation it might be that his Deut
         <attachments/>
         <answers/>
       </event>
-      <event id="572" guid="e26fdad4-0247-5128-a54b-a7fedea0d130">
+      <event id="577" guid="81908e34-0cd2-5bf1-ad77-6825d8f96b56">
         <logo/>
         <date>2019-12-27T18:00:00+01:00</date>
         <start>18:00</start>
-        <duration>00:30</duration>
+        <duration>00:15</duration>
         <room>WikiPaka WG: Esszimmer</room>
-        <slug>CKLM3A</slug>
-        <url>https://cfp.verschwoerhaus.de/36c3/talk/CKLM3A/</url>
-        <title>DSGVO &amp; Persönlichkeitsrecht bei Fotos</title>
+        <slug>ENN7EF</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/ENN7EF/</url>
+        <title>Wikimedia Cloud Services introduction</title>
         <subtitle/>
-        <track>Ethics, Society &amp; Politics</track>
-        <type>Talk</type>
+        <track>Hardware &amp; Making</track>
+        <type>Lightning Talk</type>
         <language>de</language>
-        <abstract>DSGVO &amp; Persönlichkeitsrecht bei Fotos mit Fokus auf Nutzung in freien Projekte wie Wikimedia Commons.</abstract>
-        <description>* Persönlichkeitsrechte und ihre Bedeutung für Wikimedia-Projekte, inklusive Grundlagen des Allgemeinen Persönlichkeitsrechts (APR)&#13;
-* Was ist zu beachten bei Abbildungen von Personen des öffentlichen Lebens und beim Fotografieren öffentlicher und nicht-öffentlicher Veranstaltungen? (inklusive Umgang mit Einschränkungen von Seiten Dritter wie Sportverbänden, Künstlermanagements usw.)&#13;
-* Zusammenspiel urheberrechtlicher Lizenzen und persönlichkeitsrechtlicher Regeln&#13;
-&#13;
-Zeit für Fragen und Antworten ist eingeplant.</description>
+        <abstract>Find out what kind of free services Wikimedia provides for you.</abstract>
+        <description>Wikimedia Cloud Services is a collection of services that the Wikimedia Foundation offers, free of charge, to anyone who can use them for furthering the goals of the Wikimedia movement. This includes Toolforge, a hosting service for tools written in various languages; Cloud VPS, full virtual private servers for advanced development beyond the capabilities of Toolforge; convenient access to Wikimedia project data; and more!</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
-          <person id="8">John</person>
+          <person id="6">Lucas Werkmeister</person>
+          <person id="7">Amir Sarabadani</person>
         </persons>
         <links/>
         <attachments/>
@@ -3971,9 +3968,10 @@ If you are interested in learning the first steps towards bondage / techniques f
         <language>de</language>
         <abstract/>
         <description>Hypnosis lesson for beginner
-'''Important:''' In the previous years, we regularly had way too many people trying to get in (rooms are objects of finite size), with waiting lines all across the hallway. This year, we want to avoid the crowd control issues that come with such scenarios. That's why you now need to pre-register for the workshop at https://ticket.kinkygeeks.de. Our website will give you a free ticket, which you need to provide at the workshop door to gain access.</description>
+'''Important:''' In the previous years, we regularly had way too many people trying to get in (rooms are objects of finite size), with waiting lines all across the hallway. This year, we want to avoid the crowd control issues that come with such scenarios. That's why you now need to pre-register for the workshop at https://ticket.kinkygeeks.de. Our website will give you a free ticket, which you need to provide at the workshop door to gain access.Workshop Handout:Http://ideerly.de/hypno-kink-handout.pdf</description>
         <persons>
           <person id="0">Lil-Missy</person>
+          <person id="0">Zinboo</person>
         </persons>
         <links>
           <link>https://kinkygeeks.de</link>
@@ -4834,33 +4832,6 @@ Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at
       </event>
     </room>
     <room name="WikiPaka WG: Bibliothek">
-      <event id="577" guid="81908e34-0cd2-5bf1-ad77-6825d8f96b56">
-        <logo/>
-        <date>2019-12-27T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>00:15</duration>
-        <room>WikiPaka WG: Bibliothek</room>
-        <slug>ENN7EF</slug>
-        <url>https://cfp.verschwoerhaus.de/36c3/talk/ENN7EF/</url>
-        <title>Wikimedia Cloud Services introduction</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Lightning Talk</type>
-        <language>de</language>
-        <abstract>Find out what kind of free services Wikimedia provides for you.</abstract>
-        <description>Wikimedia Cloud Services is a collection of services that the Wikimedia Foundation offers, free of charge, to anyone who can use them for furthering the goals of the Wikimedia movement. This includes Toolforge, a hosting service for tools written in various languages; Cloud VPS, full virtual private servers for advanced development beyond the capabilities of Toolforge; convenient access to Wikimedia project data; and more!</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="6">Lucas Werkmeister</person>
-          <person id="7">Amir Sarabadani</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="557" guid="8207d911-c674-5812-b468-5fb943b97e2a">
         <logo>/media/36c3/images/BMNWW8/tux__linux__logo_circle_color_by_berradev_d7pynu4.png</logo>
         <date>2019-12-27T19:00:00+01:00</date>
@@ -7119,7 +7090,7 @@ Print your own t-shirt with screen printing.Bedruckt eure eigenen T-Shirts mit s
         <description>Captain Sonar
 Wir spielen das Spiel Captain Sonar.Bitte über https://www.schokoladensouffle.eu/captainsonar/ anmelden, maximal acht Teilnehmer, FCFS</description>
         <persons>
-          <person id="0">Caylee</person>
+          <person id="0">Ankylotech</person>
         </persons>
         <links>
           <link>https://www.schokoladensouffle.eu/captainsonar/</link>
@@ -11635,6 +11606,36 @@ Mit der Förderung könnt Ihr sechs Monate lang Code schreiben und einen Prototy
         <attachments/>
         <answers/>
       </event>
+      <event id="572" guid="e26fdad4-0247-5128-a54b-a7fedea0d130">
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>CKLM3A</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/CKLM3A/</url>
+        <title>DSGVO &amp; Persönlichkeitsrecht bei Fotos</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>DSGVO &amp; Persönlichkeitsrecht bei Fotos mit Fokus auf Nutzung in freien Projekte wie Wikimedia Commons.</abstract>
+        <description>* Persönlichkeitsrechte und ihre Bedeutung für Wikimedia-Projekte, inklusive Grundlagen des Allgemeinen Persönlichkeitsrechts (APR)&#13;
+* Was ist zu beachten bei Abbildungen von Personen des öffentlichen Lebens und beim Fotografieren öffentlicher und nicht-öffentlicher Veranstaltungen? (inklusive Umgang mit Einschränkungen von Seiten Dritter wie Sportverbänden, Künstlermanagements usw.)&#13;
+* Zusammenspiel urheberrechtlicher Lizenzen und persönlichkeitsrechtlicher Regeln&#13;
+&#13;
+Zeit für Fragen und Antworten ist eingeplant.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="8">John</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="591" guid="d30a38e6-2db7-592d-9283-73dc445f9c89">
         <logo/>
         <date>2019-12-28T13:50:00+01:00</date>
@@ -12669,6 +12670,28 @@ In this workshop, we will learn how to write a kernel module step by step, which
         <links>
           <link>http://impakt.network</link>
         </links>
+      </event>
+      <event id="1545" guid="9f583b3c-31da-4e13-862d-7732412400bb">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_mathematics:_Fun_with_transfinite_games</url>
+        <logo/>
+        <date>2019-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>0:40</duration>
+        <room>Lecture room M1</room>
+        <slug>36c3-1545-session_wondrous_mathematics_fun_with_transfinite_games</slug>
+        <title>Wondrous mathematics: Fun with transfinite games</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>What's better than ordinary finite games? Transfinite games! Learn how these work, and how you win at them, in this hands-on workshop.
+What's better than ordinary finite games? Transfinite games, of course!In this fast-paced talk with many hands-on parts, you will learn about:* Nim, a fun game played with a finite number of coins. Learn how to optimally play this game!* Numbers larger than infinity. (This will be a five-minute excerpt of the [https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_infinitely_large_numbers longer talk] on infinite numbers.) After the talk, you can impress your friends by effortlessly computing with numbers larger than infinity!* Transfinite Nim, a fun variant of Nim which is played with infinitely many coins. And learn how to optimally play this game!* The epic battle of Herkula against the hydra. The hydra grows more and more heads, but with your knowledge of infinity you'll be able to fight it!* Transfinite variants of puzzles like: "I don't know which number you mean. – Neither do I know which number ''you'' mean. – Now I know your number. – And now I know yours as well."Bring your kids (age 12 or older)!</description>
+        <persons>
+          <person id="0">Iblech</person>
+          <person id="0">MatthiasHu</person>
+        </persons>
+        <links/>
       </event>
       <event id="1199" guid="816f77ca-d7bf-4869-b5cf-529a89501e85">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Yubikey_101</url>
@@ -23672,8 +23695,8 @@ Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at
     <room name="WikiPaka WG: Bibliothek">
       <event id="601" guid="b24079c8-30da-53dd-81df-9304da6c3430">
         <logo/>
-        <date>2019-12-29T12:00:00+01:00</date>
-        <start>12:00</start>
+        <date>2019-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
         <duration>01:30</duration>
         <room>WikiPaka WG: Bibliothek</room>
         <slug>FQY9R7</slug>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 16:40",
+    "version": "hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.12; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 16:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -2985,30 +2985,37 @@
                 "answers": []
               },
               {
-                "id": 572,
-                "guid": "e26fdad4-0247-5128-a54b-a7fedea0d130",
+                "id": 577,
+                "guid": "81908e34-0cd2-5bf1-ad77-6825d8f96b56",
                 "logo": "",
                 "date": "2019-12-27T18:00:00+01:00",
                 "start": "18:00",
-                "duration": "00:30",
+                "duration": "00:15",
                 "room": "WikiPaka WG: Esszimmer",
-                "slug": "CKLM3A",
-                "url": "https://cfp.verschwoerhaus.de/36c3/talk/CKLM3A/",
-                "title": "DSGVO & Pers\u00f6nlichkeitsrecht bei Fotos",
+                "slug": "ENN7EF",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/ENN7EF/",
+                "title": "Wikimedia Cloud Services introduction",
                 "subtitle": "",
-                "track": "Ethics, Society & Politics",
-                "type": "Talk",
+                "track": "Hardware & Making",
+                "type": "Lightning Talk",
                 "language": "de",
-                "abstract": "DSGVO & Pers\u00f6nlichkeitsrecht bei Fotos mit Fokus auf Nutzung in freien Projekte wie Wikimedia Commons.",
-                "description": "* Pers\u00f6nlichkeitsrechte und ihre Bedeutung f\u00fcr Wikimedia-Projekte, inklusive Grundlagen des Allgemeinen Pers\u00f6nlichkeitsrechts (APR)\r\n* Was ist zu beachten bei Abbildungen von Personen des \u00f6ffentlichen Lebens und beim Fotografieren \u00f6ffentlicher und nicht-\u00f6ffentlicher Veranstaltungen? (inklusive Umgang mit Einschr\u00e4nkungen von Seiten Dritter wie Sportverb\u00e4nden, K\u00fcnstlermanagements usw.)\r\n* Zusammenspiel urheberrechtlicher Lizenzen und pers\u00f6nlichkeitsrechtlicher Regeln\r\n\r\nZeit f\u00fcr Fragen und Antworten ist eingeplant.",
+                "abstract": "Find out what kind of free services Wikimedia provides for you.",
+                "description": "Wikimedia Cloud Services is a collection of services that the Wikimedia Foundation offers, free of charge, to anyone who can use them for furthering the goals of the Wikimedia movement. This includes Toolforge, a hosting service for tools written in various languages; Cloud VPS, full virtual private servers for advanced development beyond the capabilities of Toolforge; convenient access to Wikimedia project data; and more!",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
-                    "id": 8,
-                    "code": "8XHJNS",
-                    "public_name": "John",
-                    "biography": null,
+                    "id": 6,
+                    "code": "RE9MSE",
+                    "public_name": "Lucas Werkmeister",
+                    "biography": "Software developer at Wikimedia Germany and all-time Wikidata enthusiast.",
+                    "answers": []
+                  },
+                  {
+                    "id": 7,
+                    "code": "8GDPPA",
+                    "public_name": "Amir Sarabadani",
+                    "biography": "Amir Sarabadani is software engineer at Wikimedia Deutschland",
                     "answers": []
                   }
                 ],
@@ -4349,12 +4356,17 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "Hypnosis lesson for beginner\n'''Important:''' In the previous years, we regularly had way too many people trying to get in (rooms are objects of finite size), with waiting lines all across the hallway. This year, we want to avoid the crowd control issues that come with such scenarios. That's why you now need to pre-register for the workshop at https://ticket.kinkygeeks.de. Our website will give you a free ticket, which you need to provide at the workshop door to gain access.",
+                "description": "Hypnosis lesson for beginner\n'''Important:''' In the previous years, we regularly had way too many people trying to get in (rooms are objects of finite size), with waiting lines all across the hallway. This year, we want to avoid the crowd control issues that come with such scenarios. That's why you now need to pre-register for the workshop at https://ticket.kinkygeeks.de. Our website will give you a free ticket, which you need to provide at the workshop door to gain access.Workshop Handout:Http://ideerly.de/hypno-kink-handout.pdf",
                 "persons": [
                   {
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Lil-Missy",
                     "public_name": "Lil-Missy"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zinboo",
+                    "public_name": "Zinboo"
                   }
                 ],
                 "links": [
@@ -5299,45 +5311,6 @@
             ],
             "WikiPaka WG: Bibliothek": [
               {
-                "id": 577,
-                "guid": "81908e34-0cd2-5bf1-ad77-6825d8f96b56",
-                "logo": "",
-                "date": "2019-12-27T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "00:15",
-                "room": "WikiPaka WG: Bibliothek",
-                "slug": "ENN7EF",
-                "url": "https://cfp.verschwoerhaus.de/36c3/talk/ENN7EF/",
-                "title": "Wikimedia Cloud Services introduction",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Lightning Talk",
-                "language": "de",
-                "abstract": "Find out what kind of free services Wikimedia provides for you.",
-                "description": "Wikimedia Cloud Services is a collection of services that the Wikimedia Foundation offers, free of charge, to anyone who can use them for furthering the goals of the Wikimedia movement. This includes Toolforge, a hosting service for tools written in various languages; Cloud VPS, full virtual private servers for advanced development beyond the capabilities of Toolforge; convenient access to Wikimedia project data; and more!",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 6,
-                    "code": "RE9MSE",
-                    "public_name": "Lucas Werkmeister",
-                    "biography": "Software developer at Wikimedia Germany and all-time Wikidata enthusiast.",
-                    "answers": []
-                  },
-                  {
-                    "id": 7,
-                    "code": "8GDPPA",
-                    "public_name": "Amir Sarabadani",
-                    "biography": "Amir Sarabadani is software engineer at Wikimedia Deutschland",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
                 "id": 557,
                 "guid": "8207d911-c674-5812-b468-5fb943b97e2a",
                 "logo": "/media/36c3/images/BMNWW8/tux__linux__logo_circle_color_by_berradev_d7pynu4.png",
@@ -6196,7 +6169,7 @@
                     "id": 56,
                     "code": "TZQMLT",
                     "public_name": "mkf_",
-                    "biography": "Medienkollektiv Frankfurt",
+                    "biography": "## Wer wir sind\r\n\r\nWir, das [Medienkollektiv Frankfurt](https://www.medienkollektivfrankfurt.net/), arbeiten ohne kommerzielles Interesse. Wir entscheiden frei von Markt- und Diskurszw\u00e4ngen, rein nach inhaltlichen Kriterien, was wir in welcher Weise abbilden wollen - und dies nicht isoliert und von au\u00dfen, sondern solidarisch aus und mit den Bewegungen, \u00fcber die wir berichten.\r\n\r\nSoziale und politische Emanzipation, Selbstbestimmung und Solidarit\u00e4t, vergesellschaftete Produktion f\u00fcr menschliche Bed\u00fcrfnisse, das Recht menschenw\u00fcrdig leben und lieben zu k\u00f6nnen, wo und wie man m\u00f6chte, sowie das Engagement f\u00fcr eine klimaneutrale \u00f6kologische Wende und f\u00fcr den Erhalt nat\u00fcrlicher Lebensr\u00e4ume bilden die Leitplanken unserer gemeinsamen Gesellschaftsvision. Jenseits einer konkreten Festlegung auf explizit eine politische Linie, eint uns ein antikapitalistischer, antirassistischer, antisexistischer und antimilitaristischer Konsens, sowie das Eintreten gegen Rechtsradikalismus, Antisemitismus, Islamfeindlichkeit, religi\u00f6sen Fundamentalismus und jegliche reaktion\u00e4re Ideologie, die Menschen zu unterdr\u00fccken und auszubeuten trachtet.\r\n\r\nDurch die kontinuierliche Auseinandersetzung mit diversen Themenfeldern und politischen AkteurInnen und Gruppen bilden wir uns stets selbstkritisch weiter und sind somit undogmatisch und offen f\u00fcr neue Perspektiven und Ideen, sofern sie unserem Konsens nicht widersprechen. Da wir bewegungsnah arbeiten wollen, befeuern wir keine innerlinken Grabenk\u00e4mpfe. Als Medienkollektiv liegt es uns jedoch nicht fern, einen argumentativen Austausch relevanter Positionen und Str\u00f6mungen abzubilden und den ZuschauerInnen und Zuh\u00f6rerInnen zug\u00e4nglich zu machen, falls an einem solchen Interesse besteht.\r\n\r\nDa wir in Frankfurt beheimatet sind, sehen wir den Kern unserer Arbeit in der Berichterstattung zu lokalen und regionalen Ereignissen, was uns aber nicht davon abh\u00e4lt, bei \u00fcberregional relevanten Themen und Geschehnissen mit in einen Bus zu steigen und uns unter die Mobilisierten zu mischen.\r\n\r\nAlle von uns waren oder sind in politischen, Bildungs- oder linken Bewegungszusammenh\u00e4ngen aktiv oder sympathisieren mit diesen. Darum verstehen wir uns als Medien-AktivistInnen und beziehen mit unseren Ver\u00f6ffentlichungen politisch Position: wir sind nicht neutral und werden es auch niemals sein. Und das ist auch gut so.\r\n\r\n## Was wir machen\r\n\r\nDas Medienkollektiv Frankfurt produziert zurzeit Berichte, Reportagen, Dokumentationen und Mobi-Videos. In unserem bisherigen Fokus stehen dabei Protestformen wie Demonstrationen oder k\u00fcnstlerische und direkte Aktionen, die wir filmend und interviewend begleiten. Wir sind uns der Brisanz solcher Bilder bewusst. Darum ver\u00f6ffentlichen wir unver\u00e4nderte Bild- und Tonaufnahmen von Einzelpersonen nur mit deren Einverst\u00e4ndnis und anonymisieren diese bei Bedarf. Gerne k\u00f6nnen sich Gruppen oder Einzelpersonen vorab mit uns in Verbindung setzen, um sich \u00fcber Form und Inhalt, sowie \"Aktionslevel\" einer m\u00f6glichen Begleitung auszutauschen und zu beraten. Des Weiteren bieten wir an, Veranstaltungen wie Lesungen, Podiumsdiskussionen oder Konzerte aufzuzeichnen und zu ver\u00f6ffentlichen. Auch l\u00e4ngere Interviews zu aktuellen Anl\u00e4ssen stehen auf unserer Agenda. Just contact us!\r\n\r\nWir wollen mit den Videos so viele Menschen wie m\u00f6glich ansprechen und werden deshalb stets versuchen, Inhalte in einer einfachen und niedrigschwelligen Sprache so zu vermitteln, dass sie auch f\u00fcr bisher an linker Politik und deren Narrative nicht gewohnte Menschen zug\u00e4nglich und interessant bleiben. Es geht uns nicht darum, gesellschaftliche bzw. publizistische Allgemeinpl\u00e4tze zu reproduzieren, sondern die Perspektive von links und von unten stark zu machen und zu pers\u00f6nlichem Engagement und Selbstorganisation anzustiften.\r\n\r\nUm den modernen Sehgewohnheiten gerecht zu werden, streben wir eine audio-visuelle Qualit\u00e4t an, die diesen zwar gerecht wird, jedoch ebenfalls offen f\u00fcr \u00e4sthetische Experimente und Neuerungen bleibt. Gerade weil unterschiedliche Menschen mit verschiedenen \u00e4sthetischen und philosophischen Positionen im Kollektiv beteiligt sind, wollen wir diese Diversit\u00e4t auch in Formen und Formaten widerspiegeln. Denn f\u00fcr eine andere Gesellschaft einzutreten hei\u00dft auch hier: Kein Identit\u00e4tszwang, mit gewohnten Mustern brechen, neue Wege wagen!\r\n\r\n## Was wir brauchen\r\n\r\nDa wir leider noch in einer Gesellschaft der warenf\u00f6rmigen Produktion von Gebrauchsgegenst\u00e4nden leben, sind wir nicht unabh\u00e4ngig vom Geld. Bisher bestreiten wir die Anschaffung von Aufnahme- und Bearbeitungstechnik mit unseren eigenen Lohnarbeitsert\u00e4gen. Da gutes Equipment sehr teuer ist, sind wir kurz- und mittelfristig erfreut \u00fcber jegliche materielle Unterst\u00fctzung, sei es in Form von Geld- oder Sachspenden. Auch das kostenfreie Ausleihen von technischen Ger\u00e4ten oder die Bereitstellung von Arbeitsr\u00e4umen k\u00f6nnen eine gro\u00dfe Unterst\u00fctzung f\u00fcr uns sein.\r\n\r\nUnsere langfristige Vision ist ein Medienzentrum, in dem wir gemeinsam arbeiten und uns und andere dazu bef\u00e4higen k\u00f6nnen, mehr qualitative Berichterstattung und Informationsvermittlung von links und von unten umzusetzen.\r\n\r\nVielerorts entstehen derzeit Medienkollektive, sodass eine zuk\u00fcnftige Vernetzung denkbar und sinnvoll erscheint. Wer Kontakte zu anderen Medienkollektiven hat oder selbst einem solchem angeh\u00f6rt, m\u00f6ge sich gerne bei uns melden.\r\n\r\nUnd last but not least: Da niemand alles wissen und keine/r jede/n kennen kann, sind wir auch dankbar f\u00fcr sachdienliche Hinweise und die Vermittlung von spannenden InterviewpartnerInnen.\r\n\r\n_Filmend schreiten wir voran!_",
                     "answers": []
                   }
                 ],
@@ -7862,8 +7835,8 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Caylee",
-                    "public_name": "Caylee"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ankylotech",
+                    "public_name": "Ankylotech"
                   }
                 ],
                 "links": [
@@ -12804,6 +12777,38 @@
                 "answers": []
               },
               {
+                "id": 572,
+                "guid": "e26fdad4-0247-5128-a54b-a7fedea0d130",
+                "logo": "",
+                "date": "2019-12-28T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "00:30",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "CKLM3A",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/CKLM3A/",
+                "title": "DSGVO & Pers\u00f6nlichkeitsrecht bei Fotos",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "DSGVO & Pers\u00f6nlichkeitsrecht bei Fotos mit Fokus auf Nutzung in freien Projekte wie Wikimedia Commons.",
+                "description": "* Pers\u00f6nlichkeitsrechte und ihre Bedeutung f\u00fcr Wikimedia-Projekte, inklusive Grundlagen des Allgemeinen Pers\u00f6nlichkeitsrechts (APR)\r\n* Was ist zu beachten bei Abbildungen von Personen des \u00f6ffentlichen Lebens und beim Fotografieren \u00f6ffentlicher und nicht-\u00f6ffentlicher Veranstaltungen? (inklusive Umgang mit Einschr\u00e4nkungen von Seiten Dritter wie Sportverb\u00e4nden, K\u00fcnstlermanagements usw.)\r\n* Zusammenspiel urheberrechtlicher Lizenzen und pers\u00f6nlichkeitsrechtlicher Regeln\r\n\r\nZeit f\u00fcr Fragen und Antworten ist eingeplant.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 8,
+                    "code": "8XHJNS",
+                    "public_name": "John",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 591,
                 "guid": "d30a38e6-2db7-592d-9283-73dc445f9c89",
                 "logo": "",
@@ -14082,6 +14087,37 @@
                 "links": [
                   "http://impakt.network"
                 ]
+              },
+              {
+                "id": 1545,
+                "guid": "9f583b3c-31da-4e13-862d-7732412400bb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_mathematics:_Fun_with_transfinite_games",
+                "logo": null,
+                "date": "2019-12-29T00:00:00+01:00",
+                "start": "00:00",
+                "duration": "0:40",
+                "room": "Lecture room M1",
+                "slug": "36c3-1545-session_wondrous_mathematics_fun_with_transfinite_games",
+                "title": "Wondrous mathematics: Fun with transfinite games",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "What's better than ordinary finite games? Transfinite games! Learn how these work, and how you win at them, in this hands-on workshop.\nWhat's better than ordinary finite games? Transfinite games, of course!In this fast-paced talk with many hands-on parts, you will learn about:* Nim, a fun game played with a finite number of coins. Learn how to optimally play this game!* Numbers larger than infinity. (This will be a five-minute excerpt of the [https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_infinitely_large_numbers longer talk] on infinite numbers.) After the talk, you can impress your friends by effortlessly computing with numbers larger than infinity!* Transfinite Nim, a fun variant of Nim which is played with infinitely many coins. And learn how to optimally play this game!* The epic battle of Herkula against the hydra. The hydra grows more and more heads, but with your knowledge of infinity you'll be able to fight it!* Transfinite variants of puzzles like: \"I don't know which number you mean. \u2013 Neither do I know which number ''you'' mean. \u2013 Now I know your number. \u2013 And now I know yours as well.\"Bring your kids (age 12 or older)!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+                    "public_name": "Iblech"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MatthiasHu",
+                    "public_name": "MatthiasHu"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1199,
@@ -26518,8 +26554,8 @@
                 "id": 601,
                 "guid": "b24079c8-30da-53dd-81df-9304da6c3430",
                 "logo": "",
-                "date": "2019-12-29T12:00:00+01:00",
-                "start": "12:00",
+                "date": "2019-12-29T12:30:00+01:00",
+                "start": "12:30",
                 "duration": "01:30",
                 "room": "WikiPaka WG: Bibliothek",
                 "slug": "FQY9R7",

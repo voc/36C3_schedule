@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.9; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3",
+    "version": "getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -2848,38 +2848,6 @@
                     "code": "WR3T9D",
                     "public_name": "Volker Krause",
                     "biography": "Volker started contributing to KDE in 2002, primarily working on KDE PIM and Akonadi, the KDE Frameworks syntax highlighting engine, ELF Dissector, the telemetry and survey framework KUserFeedback and KDE Itinerary. Volker is also a Qt approver and the author of the Qt runtime introspection tool GammaRay.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
-                "id": 578,
-                "guid": "d2a0ae34-e178-52ba-bb5b-64aa255ffdd9",
-                "logo": "",
-                "date": "2019-12-27T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "00:30",
-                "room": "WikiPaka WG: Esszimmer",
-                "slug": "WHCLNE",
-                "url": "https://cfp.verschwoerhaus.de/36c3/talk/WHCLNE/",
-                "title": "Free Software for Qualitative Social Research",
-                "subtitle": "",
-                "track": "Science",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "I would like to introduce Free Software that I have used and exchange information about alternative software for academic use.",
-                "description": "During my sociology master thesis I tried a lot of free software and developed a profound workflow from literature research, interview preparation and processing to analysis, note taking and the final writing process. Because I have made the experience that especially in the social sciences and humanities there is hardly any technical interest, there is also little information about free software among fellow students. I would like to introduce the tools I have used and exchange information about alternative software for academic use.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 67,
-                    "code": "ZYZHQS",
-                    "public_name": "Julia",
-                    "biography": "Ich bin Julia und versuche seit 2018 bei Code for Osnabr\u00fcck zu programmieren, muss aber meistens allen m\u00f6glichen Menschen erstmal erkl\u00e4ren, warum offene Daten so unglaublich wichtig sind. Das mache ich aber sehr gerne. Au\u00dferdem bin ich seit Anfang 2019 im Community-Rat von Code for Germany.",
                     "answers": []
                   }
                 ],
@@ -8546,7 +8514,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/047/original/20191228.odp?1577455846",
+                    "title": "Presentation Slides"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/108.html",

@@ -1,5 +1,5 @@
 <schedule>
-  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.9; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 15:10</version>
+  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 15:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -2741,32 +2741,6 @@ Should the author fail to show up to this presentation it might be that his Deut
         <attachments/>
         <answers/>
       </event>
-      <event id="578" guid="d2a0ae34-e178-52ba-bb5b-64aa255ffdd9">
-        <logo/>
-        <date>2019-12-27T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>WikiPaka WG: Esszimmer</room>
-        <slug>WHCLNE</slug>
-        <url>https://cfp.verschwoerhaus.de/36c3/talk/WHCLNE/</url>
-        <title>Free Software for Qualitative Social Research</title>
-        <subtitle/>
-        <track>Science</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>I would like to introduce Free Software that I have used and exchange information about alternative software for academic use.</abstract>
-        <description>During my sociology master thesis I tried a lot of free software and developed a profound workflow from literature research, interview preparation and processing to analysis, note taking and the final writing process. Because I have made the experience that especially in the social sciences and humanities there is hardly any technical interest, there is also little information about free software among fellow students. I would like to introduce the tools I have used and exchange information about alternative software for academic use.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="67">Julia</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="572" guid="e26fdad4-0247-5128-a54b-a7fedea0d130">
         <logo/>
         <date>2019-12-27T18:00:00+01:00</date>
@@ -4748,7 +4722,7 @@ Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at
         <logo>/media/36c3/images/BMNWW8/tux__linux__logo_circle_color_by_berradev_d7pynu4.png</logo>
         <date>2019-12-27T19:00:00+01:00</date>
         <start>19:00</start>
-        <duration>00:30</duration>
+        <duration>00:42</duration>
         <room>WikiPaka WG: Bibliothek</room>
         <slug>BMNWW8</slug>
         <url>https://cfp.verschwoerhaus.de/36c3/talk/BMNWW8/</url>
@@ -15366,7 +15340,9 @@ This talk covers the combination of game-theoretic, financial, and cryptographic
           <person id="92">Francisco "ArticMine" Caba√±as</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/000/047/original/20191228.odp?1577455846">Presentation Slides</attachment>
+        </attachments>
       </event>
       <event id="4308" guid="1342b1f2-cf1b-4ff6-8c4b-44d9271c205f">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/108.html</url>
@@ -23256,6 +23232,32 @@ Kennenlernen, vernetzen, aktiv(er) werden - vielleicht schreiben wir revolution√
         </recording>
         <persons>
           <person id="79">Spyr_0</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="578" guid="d2a0ae34-e178-52ba-bb5b-64aa255ffdd9">
+        <logo/>
+        <date>2019-12-29T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>WHCLNE</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/WHCLNE/</url>
+        <title>Free Software for Qualitative Social Research</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>I would like to introduce Free Software that I have used and exchange information about alternative software for academic use.</abstract>
+        <description>During my sociology master thesis I tried a lot of free software and developed a profound workflow from literature research, interview preparation and processing to analysis, note taking and the final writing process. Because I have made the experience that especially in the social sciences and humanities there is hardly any technical interest, there is also little information about free software among fellow students. I would like to introduce the tools I have used and exchange information about alternative software for academic use.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="67">Julia</person>
         </persons>
         <links/>
         <attachments/>

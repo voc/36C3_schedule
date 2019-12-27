@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; lounges; chaos-west 1.0; open-infra 12; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 01:05</version>
+  <version>find; lounges; chaos-west 1.0; open-infra 12; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 01:06</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -5645,14 +5645,14 @@ Taking this into consideration, and having learnt the lessons on how lack of pro
       </event>
     </room>
     <room name="Assembly:C3RE">
-      <event id="1494" guid="71f6ce78-645a-5aa1-bd18-be6748e5997d">
+      <event id="1495" guid="1a7874af-c5b3-4096-8f70-b5ed83ea299b">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:36c3-Plotterei</url>
         <logo/>
         <date>2019-12-27T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>2:00</duration>
         <room>Assembly:C3RE</room>
-        <slug>36c3-1494-session_36c3_plotterei</slug>
+        <slug>36c3-1495-session_36c3_plotterei</slug>
         <title>36c3-Plotterei</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -6362,6 +6362,29 @@ For more information please refer to the foodhackingbase wiki page: https://food
         <links>
           <link>https://foodhackingbase.org/wiki/Whisky_tasting_36c3</link>
         </links>
+      </event>
+    </room>
+    <room name="Roter Salon">
+      <event id="1496" guid="4aef496c-f266-4a7a-9a2b-fa51d6b164ef">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Create</url>
+        <logo/>
+        <date>2019-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>0:30</duration>
+        <room>Roter Salon</room>
+        <slug>36c3-1496-session_create</slug>
+        <title>Create</title>
+        <subtitle>Eine Einführung</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Der Kapitalismus und seine Folgen
+</description>
+        <persons>
+          <person id="0">Kreatur</person>
+        </persons>
+        <links/>
       </event>
     </room>
     <room name="C-base">
@@ -10779,7 +10802,7 @@ Mit Podlove und Auphonic wurden uns Produzierenden von Podcasts mächtige Werkze
         <type>other</type>
         <language>de</language>
         <abstract/>
-        <description>Bäume pflanzen kann sehr lange dauern. Mit interaktiven Karten können wir strategische Punkte in der Landschaft erkunden, diese aufforsten und die Natur macht den Rest. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele an und können bei Interesse ein kleines Kärtchen programmieren.
+        <description>Bäume pflanzen kann sehr lange dauern. Mit interaktiven Karten können Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele an und können bei Interesse ein kleines Kärtchen programmieren.
 </description>
         <persons>
           <person id="0">Bengoshi</person>
@@ -11214,7 +11237,7 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <language>de</language>
         <abstract/>
         <description>Hacking everyday communication practices to change the world
-'''Workshop Description:''' ----This workshop is similar to the one we did at CCCamp earlier in 2019. Our aim is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fix'''About the Project:''' ----"Accessibility sounds great, but where do I start?" Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too! This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in fixing those issues.</description>
+Workshop Description: This workshop is similar to the one we did at CCCamp earlier in 2019. Our aim is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fixing it.About the Project:"Accessibility sounds great, but where do I start?" –Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too!This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in fixing those issues.</description>
         <persons>
           <person id="0">Erdbeerblau</person>
           <person id="0">Vishnee</person>

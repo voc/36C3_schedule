@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.7; chaoszone 0.7; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 12:20</version>
+  <version>find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.7; chaoszone 0.7; komona 0.9; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 12:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -5209,7 +5209,7 @@ However, we now see XR getting more diverse and at least locally engaging with o
         <logo/>
         <date>2019-12-27T22:00:00+00:00</date>
         <start>22:00</start>
-        <duration>01:00</duration>
+        <duration>00:45</duration>
         <room>headnut</room>
         <slug>HTTCCF</slug>
         <url>https://talks.komona.org/36c3/talk/HTTCCF/</url>
@@ -13618,6 +13618,37 @@ feel invited to come and share.</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="851" guid="982b87ca-3454-592a-b0e1-b388efc366d7">
+        <logo/>
+        <date>2019-12-28T14:00:00+00:00</date>
+        <start>14:00</start>
+        <duration>00:45</duration>
+        <room>headnut</room>
+        <slug>D9FGXK</slug>
+        <url>https://talks.komona.org/36c3/talk/D9FGXK/</url>
+        <title>Single-Writer Append-Only Logs</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>An in-depth look at cryptographically secure append-only logs, the data structures powering blockchain-less peer-to-peer protocols such as [Secure Scuttlebutt](https://scuttlebutt.nz/), [Hypercore (Dat)](https://dat.foundation/), or [Holochain](https://holochain.org/).</abstract>
+        <description>Without requiring prior knowledge of the peer-to-peer world, we examine the fundamentals of the single-writer append-only log that forms the heart of a variety of new-ish protocols for decentralized communication. Planned topics:&#13;
+&#13;
+- how does the data structure work?&#13;
+- why do we care?&#13;
+- dealing with forks&#13;
+- efficient partial verification/replication</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="48">Aljoscha</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="826" guid="02020d3d-235a-5208-bdf1-b2b8c6707500">
         <logo/>
         <date>2019-12-28T15:00:00+00:00</date>
@@ -13702,6 +13733,32 @@ we will make four main arguments.&#13;
         </recording>
         <persons>
           <person id="22">several people of 1komona I guess</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="854" guid="b7b8a89e-8042-55fa-a826-b4c6cc0e81c8">
+        <logo/>
+        <date>2019-12-28T19:00:00+00:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>headnut</room>
+        <slug>XBQC7H</slug>
+        <url>https://talks.komona.org/36c3/talk/XBQC7H/</url>
+        <title>XR Vernetzung - Part I</title>
+        <subtitle/>
+        <track/>
+        <type>Session</type>
+        <language>en</language>
+        <abstract>Ein Raum für Rückfragen zu XR, Vernetzung, konstruktive Kritik und Action.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="50">maria</person>
         </persons>
         <links/>
         <attachments/>
@@ -14094,7 +14151,34 @@ Relationship anarchy is a form of non-monogamy that tries to avoid hierarchies i
         <answers/>
       </event>
     </room>
-    <room name="1Komona dezentrale*"/>
+    <room name="1Komona dezentrale*">
+      <event id="856" guid="77f5e7bd-9ff1-506a-8e30-4cc6f5799285">
+        <logo/>
+        <date>2019-12-28T11:30:00+00:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+        <room>dezentrale*</room>
+        <slug>7FPQTW</slug>
+        <url>https://talks.komona.org/36c3/talk/7FPQTW/</url>
+        <title>Zum Umgang mit autoritären Weltbildern, Trollen und weiteren schwierigen Situationen auf Cryptopartys und anderen Veranstaltungen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Zum Umgang mit autoritären Weltbildern, Trollen und weiteren schwierigen Situationen auf Cryptopartys und anderen Veranstaltungen</abstract>
+        <description>Wer kennt sie bei Veranstaltungen nicht: Die Leute, die (absichtlich) stören und blockieren, die Leute, die einen mit Meinungen und Aussagen konfrontieren, die offensichtlich falsch oderverwerflich sind, denen dennoch nur sehr schwer zu begegnen ist. Und die Fragen, die man sich dann stellt: Hätte ich anders reagieren oder die Situation gar verhindern können? Dieser Mini Workshop soll euch ein paar Hilfestellungen, Tipps und Tricks geben, wie ihr euch auf eure zukünftigen Veranstaltungen vorbereiten und wie ihr euch rechtlich absichern könnt, solltet ihr bspw. jemandem die Teilnahme verweigern. Auch werden euch hilfreiche Tipps, Tricks undStrategien aus der Praxis verraten, mit denen ihr schwierigen Situationen begegnen könnt. Zunächst werde ich euch grundlegend erörtern, wie ihr autoritäres Gedankengut als solchesidentifizieren könnt und an Beispielen erläutern, was den Unterschied zwischen „Kritik“ und„Ideologie“ ausmacht. Anschließend werde ich euch allgemeine Tipps zur Argumentation und zumUmgang mit schwierigen Aussagen geben. Und zum Schluss noch die Möglichkeiten, die ihr(rechtlich) als Veranstalter habt und was ihr bei der Organisation einer Veranstaltung beachtenkönnt, um einen reibungslosen Ablauf auch bei Störungsfällen zu gewährleisten. Um alles praxisnah zu gestalten, werden wir an von euch konstruierten Fallbeispielen dastheoretisch gelernte anwenden und einem Praxistest unterziehen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="52">quark</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="1Komona cinopolis">
       <event id="841" guid="8ee17c4a-e726-5e0c-b89a-a45a72b8cfce">
         <logo>/media/36c3/images/799ABE/maxresdefault.jpg</logo>
@@ -15682,6 +15766,29 @@ Schülerinnen kommen uns besuchen und können uns Fragen stellen.</description>
           <link>http://haecksen.org</link>
         </links>
       </event>
+      <event id="1509" guid="6e3c0f27-29a5-4dba-82b9-be155e2c8442">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Sweater_Theory_for_Beginners</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1509-session_sweater_theory_for_beginners</slug>
+        <title>Sweater Theory for Beginners</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn how to make a very simple  knitted sweater using basic arithmatic
+Learn how to make a very simple  knitted sweater using basic arithmatic. This workshop is perfect for people who know how to knit scarves, but feel a little intimidated by more complicated garments or people who knit from patterns but would love to start designing their own.</description>
+        <persons>
+          <person id="0">Zitro</person>
+        </persons>
+        <links>
+          <link>http://haecksen.org</link>
+        </links>
+      </event>
     </room>
     <room name="Assembly:Pseudoroom">
       <event id="1273" guid="b06f2734-4fd2-4488-920f-8fe7c6de3857">
@@ -17087,8 +17194,8 @@ Hacktivism from time to time leads to imprisonment and repressions. There are se
       <event id="1477" guid="1a0a63ef-e073-45ee-b140-3905eb067a98">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:NixOS_Install_Party</url>
         <logo/>
-        <date>2019-12-28T16:00:00+01:00</date>
-        <start>16:00</start>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>2:00</duration>
         <room>Assembly:NixOS</room>
         <slug>36c3-1477-session_nixos_install_party</slug>
@@ -23249,27 +23356,27 @@ Join if you are interested in the topic of producing, hosting and adminstrating 
         <attachments/>
         <answers/>
       </event>
-      <event id="830" guid="e60c710a-09f8-54f0-af5a-b884b289d748">
+      <event id="855" guid="a322f651-4490-5a75-9f86-40698e7e6e62">
         <logo/>
         <date>2019-12-29T19:00:00+00:00</date>
         <start>19:00</start>
-        <duration>00:45</duration>
+        <duration>01:00</duration>
         <room>headnut</room>
-        <slug>9PCNBC</slug>
-        <url>https://talks.komona.org/36c3/talk/9PCNBC/</url>
-        <title>Would you live in a floating city in the sky? Künstlerische Forschung als kritische und emanzipatorische Praxis für Hexen und Pirat*innen</title>
+        <slug>SH87XQ</slug>
+        <url>https://talks.komona.org/36c3/talk/SH87XQ/</url>
+        <title>XR Vernetzung - Part II</title>
         <subtitle/>
         <track/>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Der Talk soll dazu beitragen, die eigene forschende oder künstlerische Praxis auch als künstlerische Forschung zu konzipieren, um sich weitere Räume und Ressourcen dafür erschließen zu können. Durch die vielen Beispiele zeitgenössischer technoaffiner Kunst und den einführenden Charakter kann man auch prima zum Bilder gucken kommen.</abstract>
-        <description>Artistic Research ist ein neueres Schlagwort auf dem Kunstfeld, unter dem dissidente Wissensproduktion mit künstlerischen Methoden gefasst und inzwischen institutionalisiert wird. In diesem Vortrag gebe ich eine Einführung, was künstlerische Forschung von Wissenschaft und Kunstproduktion unterscheidet und auch, wo sich beides verbindet. Einfach gesprochen eröffnet sich hier ein Forschungsfeld, in dem, anders als im reglementierten universitären Kontext, andere Personengruppen in anderen Räumen mit interdisziplinären und künstlerischen Methoden Wissen produzieren und in anderen Formaten als einem sprachlichen Text vermitteln. Akteure sind hier nicht nur Künstler* innen, sondern um in einer emanzipatorischen Praxis dem männlichen Genie der Kunsttradition etwas entgegen zu setzen, auch Hexen oder Pirat*innen. Wir schauen uns viele Beispiele aus der Archäologie, dem Transhumanismus sowie aus queerfeministischen und postkolonialen Kontexten genauer an.</description>
+        <type>Session</type>
+        <language>en</language>
+        <abstract>Ein Raum für Rückfragen zu XR, Vernetzung, konstruktive Kritik und Action.</abstract>
+        <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="34">Sophie Elle</person>
+          <person id="50">maria</person>
         </persons>
         <links/>
         <attachments/>
@@ -23353,6 +23460,32 @@ Join if you are interested in the topic of producing, hosting and adminstrating 
         </recording>
         <persons>
           <person id="43">paulaner</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="830" guid="e60c710a-09f8-54f0-af5a-b884b289d748">
+        <logo/>
+        <date>2019-12-29T19:00:00+00:00</date>
+        <start>19:00</start>
+        <duration>00:45</duration>
+        <room>nokingdome</room>
+        <slug>9PCNBC</slug>
+        <url>https://talks.komona.org/36c3/talk/9PCNBC/</url>
+        <title>Would you live in a floating city in the sky? Künstlerische Forschung als kritische und emanzipatorische Praxis für Hexen und Pirat*innen</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Der Talk soll dazu beitragen, die eigene forschende oder künstlerische Praxis auch als künstlerische Forschung zu konzipieren, um sich weitere Räume und Ressourcen dafür erschließen zu können. Durch die vielen Beispiele zeitgenössischer technoaffiner Kunst und den einführenden Charakter kann man auch prima zum Bilder gucken kommen.</abstract>
+        <description>Artistic Research ist ein neueres Schlagwort auf dem Kunstfeld, unter dem dissidente Wissensproduktion mit künstlerischen Methoden gefasst und inzwischen institutionalisiert wird. In diesem Vortrag gebe ich eine Einführung, was künstlerische Forschung von Wissenschaft und Kunstproduktion unterscheidet und auch, wo sich beides verbindet. Einfach gesprochen eröffnet sich hier ein Forschungsfeld, in dem, anders als im reglementierten universitären Kontext, andere Personengruppen in anderen Räumen mit interdisziplinären und künstlerischen Methoden Wissen produzieren und in anderen Formaten als einem sprachlichen Text vermitteln. Akteure sind hier nicht nur Künstler* innen, sondern um in einer emanzipatorischen Praxis dem männlichen Genie der Kunsttradition etwas entgegen zu setzen, auch Hexen oder Pirat*innen. Wir schauen uns viele Beispiele aus der Archäologie, dem Transhumanismus sowie aus queerfeministischen und postkolonialen Kontexten genauer an.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="34">Sophie Elle</person>
         </persons>
         <links/>
         <attachments/>

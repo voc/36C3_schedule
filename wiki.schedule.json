@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-27 12:20",
+    "version": "2019-12-27 12:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -3293,6 +3293,34 @@
                 "language": "de",
                 "abstract": "",
                 "description": "Sch\u00fclerinnen fragen Haecksen\nSch\u00fclerinnen kommen uns besuchen und k\u00f6nnen uns Fragen stellen.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zitro",
+                    "public_name": "Zitro"
+                  }
+                ],
+                "links": [
+                  "http://haecksen.org"
+                ]
+              },
+              {
+                "id": 1509,
+                "guid": "6e3c0f27-29a5-4dba-82b9-be155e2c8442",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Sweater_Theory_for_Beginners",
+                "logo": null,
+                "date": "2019-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Assembly:Haecksen",
+                "slug": "36c3-1509-session_sweater_theory_for_beginners",
+                "title": "Sweater Theory for Beginners",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn how to make a very simple  knitted sweater using basic arithmatic\nLearn how to make a very simple  knitted sweater using basic arithmatic. This workshop is perfect for people who know how to knit scarves, but feel a little intimidated by more complicated garments or people who knit from patterns but would love to start designing their own.",
                 "persons": [
                   {
                     "id": 0,
@@ -6849,8 +6877,8 @@
                 "guid": "1a0a63ef-e073-45ee-b140-3905eb067a98",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:NixOS_Install_Party",
                 "logo": null,
-                "date": "2019-12-28T16:00:00+01:00",
-                "start": "16:00",
+                "date": "2019-12-28T18:00:00+01:00",
+                "start": "18:00",
                 "duration": "2:00",
                 "room": "Assembly:NixOS",
                 "slug": "36c3-1477-session_nixos_install_party",

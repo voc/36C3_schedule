@@ -1,0 +1,32 @@
+{
+  "id": 851,
+  "guid": "982b87ca-3454-592a-b0e1-b388efc366d7",
+  "logo": "",
+  "date": "2019-12-28T14:00:00+00:00",
+  "start": "14:00",
+  "duration": "00:45",
+  "room": "headnut",
+  "slug": "D9FGXK",
+  "url": "https://talks.komona.org/36c3/talk/D9FGXK/",
+  "title": "Single-Writer Append-Only Logs",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "en",
+  "abstract": "An in-depth look at cryptographically secure append-only logs, the data structures powering blockchain-less peer-to-peer protocols such as [Secure Scuttlebutt](https://scuttlebutt.nz/), [Hypercore (Dat)](https://dat.foundation/), or [Holochain](https://holochain.org/).",
+  "description": "Without requiring prior knowledge of the peer-to-peer world, we examine the fundamentals of the single-writer append-only log that forms the heart of a variety of new-ish protocols for decentralized communication. Planned topics:\r\n\r\n- how does the data structure work?\r\n- why do we care?\r\n- dealing with forks\r\n- efficient partial verification/replication",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 48,
+      "code": "XCLCVN",
+      "public_name": "Aljoscha",
+      "biography": "Computer science student, involved in the [ssb](https://scuttlebutt.nz/) protocol. Talk to me about algebraic music theory, or alternatively about fun topics!",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

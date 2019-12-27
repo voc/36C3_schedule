@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3; wiki 2019-12-27 22:40</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3; wiki 2019-12-27 22:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -6462,12 +6462,13 @@ Taking this into consideration, and having learnt the lessons on how lack of pro
         <links>
           <link href="http://oshwa.org/">Open Source Hardware Association (OSHWA)</link>
           <link href="http://2020.oshwa.org/">Open Hardware Summit 2020</link>
-          <link href="https://twitter.com/pdp7">Twitter</link>
+          <link href="https://twitter.com/pdp7">Twitter for speaker (@pdp7)</link>
           <link href="https://github.com/pdp7/talks/">GitHub repo for slides</link>
+          <link href="https://raw.githubusercontent.com/pdp7/talks/master/oshw-36c3.pdf">PDF of slides</link>
         </links>
         <attachments>
-          <attachment href="/attachments/original/missing.png">OSHW slides (PDF)</attachment>
-          <attachment href="/attachments/original/missing.png">OSHW slides (ODP)</attachment>
+          <attachment href="/system/event_attachments/attachments/000/000/055/original/oshw-36c3.pdf?1577483048">OSHW slides (PDF)</attachment>
+          <attachment href="/system/event_attachments/attachments/000/000/057/original/oshw-36c3.odp?1577483081">OSHW slides (ODP)</attachment>
         </attachments>
       </event>
       <event id="4384" guid="bbff1fd5-af73-4b68-8a5a-071df2ef0791">
@@ -18268,6 +18269,48 @@ Mit dem Calliope mini kannst du spielerisch und kreativ die Welt der Computer ke
         </persons>
         <links/>
       </event>
+      <event id="1585" guid="721bd934-cfa6-4da9-9cf2-fae74c496cce">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Game_Over_Society</url>
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>0:30</duration>
+        <room>Kidspace</room>
+        <slug>36c3-1585-session_game_over_society</slug>
+        <title>Game Over Society</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language/>
+        <abstract/>
+        <description>Game Over Society
+Werde Teil der Game Over Society, einem riesigem Netzwerkspiel:ANALOG OHNE DATEN OHNE AKKU OHNE WEBWir spielen auf eine neue Art und Weise Schere-Stein-Papier. Dabei wollen wir herausfinden, was es bedeutet Teil unterschiedlicher Gruppen zu sein, die dennoch fest zusammenhängen.</description>
+        <persons>
+          <person id="0">Claudius</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1586" guid="e1c51424-ce48-4166-938c-afbd22b008e5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Game_Over_Society</url>
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>0:30</duration>
+        <room>Kidspace</room>
+        <slug>36c3-1586-session_game_over_society</slug>
+        <title>Game Over Society</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language/>
+        <abstract/>
+        <description>Game Over Society
+Werde Teil der Game Over Society, einem riesigem Netzwerkspiel:ANALOG OHNE DATEN OHNE AKKU OHNE WEBWir spielen auf eine neue Art und Weise Schere-Stein-Papier. Dabei wollen wir herausfinden, was es bedeutet Teil unterschiedlicher Gruppen zu sein, die dennoch fest zusammenhängen.</description>
+        <persons>
+          <person id="0">Claudius</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1579" guid="91854414-fd54-4e10-8b42-0db01f46c767">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Kidspace_Standup_meeting</url>
         <logo/>
@@ -22422,7 +22465,7 @@ Dieser Vortrag inklusive Fragerunde ist für alle gedacht, die in das Thema Verw
         <room>WikiPaka WG: Esszimmer</room>
         <slug>B3JTS9</slug>
         <url>https://cfp.verschwoerhaus.de/36c3/talk/B3JTS9/</url>
-        <title>Wir entwickeln den StayAlive-Insektencounter – mach mit!</title>
+        <title>StayAlive-Insektencounter – mach mit!</title>
         <subtitle/>
         <track>Resilience &amp; Sustainability</track>
         <type>Lightning Talk</type>

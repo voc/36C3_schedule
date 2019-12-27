@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3; wiki 2019-12-27 22:40",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.16; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3; wiki 2019-12-27 22:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -7211,20 +7211,24 @@
                   },
                   {
                     "url": "https://twitter.com/pdp7",
-                    "title": "Twitter"
+                    "title": "Twitter for speaker (@pdp7)"
                   },
                   {
                     "url": "https://github.com/pdp7/talks/",
                     "title": "GitHub repo for slides"
+                  },
+                  {
+                    "url": "https://raw.githubusercontent.com/pdp7/talks/master/oshw-36c3.pdf",
+                    "title": "PDF of slides"
                   }
                 ],
                 "attachments": [
                   {
-                    "url": "/attachments/original/missing.png",
+                    "url": "/system/event_attachments/attachments/000/000/055/original/oshw-36c3.pdf?1577483048",
                     "title": "OSHW slides (PDF)"
                   },
                   {
-                    "url": "/attachments/original/missing.png",
+                    "url": "/system/event_attachments/attachments/000/000/057/original/oshw-36c3.odp?1577483081",
                     "title": "OSHW slides (ODP)"
                   }
                 ]
@@ -20543,6 +20547,58 @@
                 "links": []
               },
               {
+                "id": 1585,
+                "guid": "721bd934-cfa6-4da9-9cf2-fae74c496cce",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Game_Over_Society",
+                "logo": null,
+                "date": "2019-12-28T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "0:30",
+                "room": "Kidspace",
+                "slug": "36c3-1585-session_game_over_society",
+                "title": "Game Over Society",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "",
+                "abstract": "",
+                "description": "Game Over Society\nWerde Teil der Game Over Society, einem riesigem Netzwerkspiel:ANALOG OHNE DATEN OHNE AKKU OHNE WEBWir spielen auf eine neue Art und Weise Schere-Stein-Papier. Dabei wollen wir herausfinden, was es bedeutet Teil unterschiedlicher Gruppen zu sein, die dennoch fest zusammenh\u00e4ngen.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Claudius",
+                    "public_name": "Claudius"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1586,
+                "guid": "e1c51424-ce48-4166-938c-afbd22b008e5",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Game_Over_Society",
+                "logo": null,
+                "date": "2019-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "0:30",
+                "room": "Kidspace",
+                "slug": "36c3-1586-session_game_over_society",
+                "title": "Game Over Society",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "",
+                "abstract": "",
+                "description": "Game Over Society\nWerde Teil der Game Over Society, einem riesigem Netzwerkspiel:ANALOG OHNE DATEN OHNE AKKU OHNE WEBWir spielen auf eine neue Art und Weise Schere-Stein-Papier. Dabei wollen wir herausfinden, was es bedeutet Teil unterschiedlicher Gruppen zu sein, die dennoch fest zusammenh\u00e4ngen.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Claudius",
+                    "public_name": "Claudius"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1579,
                 "guid": "91854414-fd54-4e10-8b42-0db01f46c767",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Kidspace_Standup_meeting",
@@ -25095,7 +25151,7 @@
                 "room": "WikiPaka WG: Esszimmer",
                 "slug": "B3JTS9",
                 "url": "https://cfp.verschwoerhaus.de/36c3/talk/B3JTS9/",
-                "title": "Wir entwickeln den StayAlive-Insektencounter \u2013 mach mit!",
+                "title": "StayAlive-Insektencounter \u2013 mach mit!",
                 "subtitle": "",
                 "track": "Resilience & Sustainability",
                 "type": "Lightning Talk",

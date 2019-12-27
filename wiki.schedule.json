@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-27 14:30",
+    "version": "2019-12-27 14:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -1628,7 +1628,7 @@
                 "type": "talk",
                 "language": "en",
                 "abstract": "",
-                "description": "Very roughly, P is the class of efficiently solvable problems and NP is the class of non-efficiently solvable problems. A basic fact of life is P \u2260 NP. However, for the last fifty years, this observation has stubbornly resisted every attempt of a proof. The talk will carefully explain ... (see long description)\nThe talk will carefully explain:* what the precise statement of the conjecture P \u2260 NP is* how the world would look like if P = NP* whether it might be that it's provable that the conjecture is unprovable (that the conjecture exceeds the boundaries of logic)* what's known about hypothetical proofs of P \u2260 NPThis talk requires no mathematical prerequisites. Indeed, people who took classes on computability theory in university will be bored to hell and should only attend if they plan to support the session by offering interesting remarks. :-) To enjoy and follow the talk, you should know that we use algorithms to solve computational problems and that some are more efficient than others. You'll be extra prepared if at some point in your life you've implemented some algorithms. That said, the talk will only be fun if you enjoy mathematical thinking and a certain amount of mathematical precision.",
+                "description": "Very roughly, P is the class of efficiently solvable problems and NP is the class of non-efficiently solvable problems. A basic fact of life is P \u2260 NP. However, for the last fifty years, this observation has stubbornly resisted every attempt of a proof. The talk will carefully explain ... (see long description)\nThe talk will carefully explain:* what the precise statement of the conjecture P \u2260 NP is* how the world would look like if P = NP* whether it might be that it's provable that the conjecture is unprovable (that the conjecture exceeds the boundaries of logic)* what's known about hypothetical proofs of P \u2260 NPThis talk requires no mathematical prerequisites. Indeed, people who took classes on computability theory in university will be bored to hell and should only attend if they plan to support the session by offering interesting remarks. :-) To enjoy and follow the talk, you should know that we use algorithms to solve computational problems and that some are more efficient than others. You'll be extra prepared if at some point in your life you've implemented some algorithms. That said, you will only enjoy the talk if you enjoy mathematical thinking and a certain amount of mathematical precision. This is not a light-and-fun talk, to the small extent that it's fun it's only thanks to the interesting theoretical relationships discussed in the talk.",
                 "persons": [
                   {
                     "id": 0,
@@ -4778,6 +4778,32 @@
                 ]
               },
               {
+                "id": 1533,
+                "guid": "8ab610e1-8d68-4074-bdbd-bec5639e86a9",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Digitale_Gewalt",
+                "logo": null,
+                "date": "2019-12-28T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Seminar room 13",
+                "slug": "36c3-1533-session_digitale_gewalt",
+                "title": "Digitale Gewalt",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "de",
+                "abstract": "",
+                "description": "Digitale Gewalt gegen Frauen hat viele Formen. Dieser Workshop hat das Ziel, sich dar\u00fcber auszutauschen, was die Hacker- und Netz-Community(s) dagegen tun k\u00f6nnen. Sonst wird es bald Vorschl\u00e4ge vom Innen- oder Justizministerium geben.\nDigitale Gewalt gegen Frauen hat viele Formen. Dieser Workshop hat das Ziel, sich dar\u00fcber auszutauschen, was die Hacker- und Netz-Community(s) dagegen tun k\u00f6nnen. Sonst wird es bald Vorschl\u00e4ge vom Innen- oder Justizministerium geben.Themen k\u00f6nnen sein: * Stalkerware - \u00dcberwachungssoftware: Wieso kann die einfach gekauft werden? Wie k\u00f6nnte eine Kampagne dazu aussehen?* Technische Unterst\u00fctzung bzw. KnowHow f\u00fcr Frauen-Gewaltberatungsstrukturen, denn die haben keine Zeit, sich das n\u00f6tige Wissen selbst zu erarbeiten* Das neue Hasskriminalit\u00e4tsgesetz des BMJV, Oder: Was w\u00e4ren bessere Vorschl\u00e4ge gegen Doxing, Bedrohung usw?",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Anne",
+                    "public_name": "Anne"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1164,
                 "guid": "08997d73-6187-4ea6-ae5c-402ef74c4768",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda",
@@ -5722,6 +5748,90 @@
                 "links": []
               }
             ],
+            "Assembly:HSBE": [
+              {
+                "id": 1532,
+                "guid": "d18c4a8a-74ed-4e73-bf2b-822e0594bf5d",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Bypassing_the_Suprema_BIOStar_Fingerprint_Access_Control",
+                "logo": null,
+                "date": "2019-12-28T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "0:45",
+                "room": "Assembly:HSBE",
+                "slug": "36c3-1532-session_bypassing_the_suprema_biostar_fingerprint_access_control",
+                "title": "Bypassing the Suprema BIOStar Fingerprint Access Control",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "I'll show you how you can bypass a biometric access control (fingerprint reader) from Suprema. This device is broken AF\n[[File:SupremaBiostar.jpeg|thumb]][[File:Hacking_suprema.png|thumb]]Suprema is a major brand in the world of 'biometric access controls' aka fingerprint-reader-locks. These things allow for people to open doors to their home, office, etc. using their fingerprint (duh...). The device matches the scanned print with a collection of prints in a database. If it finds a match then it triggers the relay which unlocks the door. This sounds simple enough but there are a ton of things that might go wrong with this, certainly when the necessary checks are not enabled in the devices configuration, which is almost never the case. These checks involve for example 'tamper-control', a sensor which triggers an alarm when the device is physically tampered with. In the end the fingerprint-reader needs some sort of connection to a control-server which allows the admin to manage registered prints, so the device needs a network-connection. If the device is not protected with tamper-control (which is not enabled by default) then this leaves the network-connection at the back of the device vulnerable for all sorts of attacks. In the end, if these devices are not properly installed, it's like laying a laptop outside the front-door of your office, connected with a LAN-cable to your network by the way.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:C",
+                    "public_name": "C"
+                  }
+                ],
+                "links": [
+                  "https://www.supremainc.com/"
+                ]
+              },
+              {
+                "id": 1527,
+                "guid": "3a7cef52-860d-4680-9371-059748f49acb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Continuous_Security_Testing",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "0:45",
+                "room": "Assembly:HSBE",
+                "slug": "36c3-1527-session_continuous_security_testing",
+                "title": "Continuous Security Testing",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "See https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:C",
+                    "public_name": "C"
+                  }
+                ],
+                "links": [
+                  "https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing"
+                ]
+              },
+              {
+                "id": 1406,
+                "guid": "577050b4-0ebf-44f1-8bc1-fac0a429ef93",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:OpenStreetMap_workshop_-_getting_started,_tools_and_route_engine_hacking",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:30",
+                "room": "Assembly:HSBE",
+                "slug": "36c3-1406-session_openstreetmap_workshop_getting_started_tools_and_route_engine_hacking",
+                "title": "OpenStreetMap workshop - getting started, tools and route engine hacking",
+                "subtitle": "OpenStreetMap for beginners",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Introduction to the OpenStreetMap ecosystem + OsmAnd route engine hacking\nThis talk gives an overview of OpenStreetMap and will cover the following topics:- What is it and why is it awesome?- How is the data stored and how can it be edited- An overview of some useful tools, including how to query for specific featuresAfterwards, I'll explain how the OsmAnd route engine can be tweaked, in order to customize routeplanning just for you. (For example, one of my previous projects was adding ski routing into OsmAnd). (To tweak OsmAnd, you'll need an android device - bring yours. I have two spare ones though. It might work on jailbroken iPhones too)Note: feel free to come towards the end of the session if you only want to join the OsmAnd route engine hacking.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Pietervdvn",
+                    "public_name": "Pietervdvn"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Seminar room 14-15": [
               {
                 "id": 1486,
@@ -6621,62 +6731,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
                     "public_name": "Haurane"
-                  }
-                ],
-                "links": []
-              }
-            ],
-            "Assembly:HSBE": [
-              {
-                "id": 1527,
-                "guid": "3a7cef52-860d-4680-9371-059748f49acb",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Continuous_Security_Testing",
-                "logo": null,
-                "date": "2019-12-28T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "0:45",
-                "room": "Assembly:HSBE",
-                "slug": "36c3-1527-session_continuous_security_testing",
-                "title": "Continuous Security Testing",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "See https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:C",
-                    "public_name": "C"
-                  }
-                ],
-                "links": [
-                  "https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing"
-                ]
-              },
-              {
-                "id": 1406,
-                "guid": "577050b4-0ebf-44f1-8bc1-fac0a429ef93",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:OpenStreetMap_workshop_-_getting_started,_tools_and_route_engine_hacking",
-                "logo": null,
-                "date": "2019-12-28T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "1:30",
-                "room": "Assembly:HSBE",
-                "slug": "36c3-1406-session_openstreetmap_workshop_getting_started_tools_and_route_engine_hacking",
-                "title": "OpenStreetMap workshop - getting started, tools and route engine hacking",
-                "subtitle": "OpenStreetMap for beginners",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Introduction to the OpenStreetMap ecosystem + OsmAnd route engine hacking\nThis talk gives an overview of OpenStreetMap and will cover the following topics:- What is it and why is it awesome?- How is the data stored and how can it be edited- An overview of some useful tools, including how to query for specific featuresAfterwards, I'll explain how the OsmAnd route engine can be tweaked, in order to customize routeplanning just for you. (For example, one of my previous projects was adding ski routing into OsmAnd). (To tweak OsmAnd, you'll need an android device - bring yours. I have two spare ones though. It might work on jailbroken iPhones too)Note: feel free to come towards the end of the session if you only want to join the OsmAnd route engine hacking.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Pietervdvn",
-                    "public_name": "Pietervdvn"
                   }
                 ],
                 "links": []
@@ -10811,6 +10865,34 @@
                 ],
                 "links": [
                   "https://cryptoparty.in/36c3"
+                ]
+              },
+              {
+                "id": 1534,
+                "guid": "a048feb8-4df2-4ed8-b60b-c712a8f775c7",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerspaces.org_meetup",
+                "logo": null,
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "1:00",
+                "room": "Lecture room 11",
+                "slug": "36c3-1534-session_hackerspaces_org_meetup",
+                "title": "Hackerspaces.org meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "an opportunity to get involved and catch up with the hackerspaces.org community\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aimeejulia",
+                    "public_name": "Aimeejulia"
+                  }
+                ],
+                "links": [
+                  "https://wiki.hackerspaces.org/Hackerspaces"
                 ]
               }
             ],

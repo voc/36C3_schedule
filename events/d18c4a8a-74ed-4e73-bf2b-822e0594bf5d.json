@@ -1,0 +1,28 @@
+{
+  "id": 1532,
+  "guid": "d18c4a8a-74ed-4e73-bf2b-822e0594bf5d",
+  "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Bypassing_the_Suprema_BIOStar_Fingerprint_Access_Control",
+  "logo": null,
+  "date": "2019-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "0:45",
+  "room": "Assembly:HSBE",
+  "slug": "36c3-1532-session_bypassing_the_suprema_biostar_fingerprint_access_control",
+  "title": "Bypassing the Suprema BIOStar Fingerprint Access Control",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "I'll show you how you can bypass a biometric access control (fingerprint reader) from Suprema. This device is broken AF\n[[File:SupremaBiostar.jpeg|thumb]][[File:Hacking_suprema.png|thumb]]Suprema is a major brand in the world of 'biometric access controls' aka fingerprint-reader-locks. These things allow for people to open doors to their home, office, etc. using their fingerprint (duh...). The device matches the scanned print with a collection of prints in a database. If it finds a match then it triggers the relay which unlocks the door. This sounds simple enough but there are a ton of things that might go wrong with this, certainly when the necessary checks are not enabled in the devices configuration, which is almost never the case. These checks involve for example 'tamper-control', a sensor which triggers an alarm when the device is physically tampered with. In the end the fingerprint-reader needs some sort of connection to a control-server which allows the admin to manage registered prints, so the device needs a network-connection. If the device is not protected with tamper-control (which is not enabled by default) then this leaves the network-connection at the back of the device vulnerable for all sorts of attacks. In the end, if these devices are not properly installed, it's like laying a laptop outside the front-door of your office, connected with a LAN-cable to your network by the way.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:C",
+      "public_name": "C"
+    }
+  ],
+  "links": [
+    "https://www.supremainc.com/"
+  ]
+}

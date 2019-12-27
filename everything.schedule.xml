@@ -1,5 +1,5 @@
 <schedule>
-  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.9; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 14:30</version>
+  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.9; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 14:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3667,7 +3667,7 @@ Talk on recent developments in studying the gravitational n-body Problem.Prelimi
         <language>en</language>
         <abstract/>
         <description>Very roughly, P is the class of efficiently solvable problems and NP is the class of non-efficiently solvable problems. A basic fact of life is P ≠ NP. However, for the last fifty years, this observation has stubbornly resisted every attempt of a proof. The talk will carefully explain ... (see long description)
-The talk will carefully explain:* what the precise statement of the conjecture P ≠ NP is* how the world would look like if P = NP* whether it might be that it's provable that the conjecture is unprovable (that the conjecture exceeds the boundaries of logic)* what's known about hypothetical proofs of P ≠ NPThis talk requires no mathematical prerequisites. Indeed, people who took classes on computability theory in university will be bored to hell and should only attend if they plan to support the session by offering interesting remarks. :-) To enjoy and follow the talk, you should know that we use algorithms to solve computational problems and that some are more efficient than others. You'll be extra prepared if at some point in your life you've implemented some algorithms. That said, the talk will only be fun if you enjoy mathematical thinking and a certain amount of mathematical precision.</description>
+The talk will carefully explain:* what the precise statement of the conjecture P ≠ NP is* how the world would look like if P = NP* whether it might be that it's provable that the conjecture is unprovable (that the conjecture exceeds the boundaries of logic)* what's known about hypothetical proofs of P ≠ NPThis talk requires no mathematical prerequisites. Indeed, people who took classes on computability theory in university will be bored to hell and should only attend if they plan to support the session by offering interesting remarks. :-) To enjoy and follow the talk, you should know that we use algorithms to solve computational problems and that some are more efficient than others. You'll be extra prepared if at some point in your life you've implemented some algorithms. That said, you will only enjoy the talk if you enjoy mathematical thinking and a certain amount of mathematical precision. This is not a light-and-fun talk, to the small extent that it's fun it's only thanks to the interesting theoretical relationships discussed in the talk.</description>
         <persons>
           <person id="0">Iblech</person>
         </persons>
@@ -11925,6 +11925,27 @@ Ich stelle am Beispiel von binären Zahlen vor, wie Montessorimaterial funktioni
           <link>http://www.femlens.com</link>
         </links>
       </event>
+      <event id="1533" guid="8ab610e1-8d68-4074-bdbd-bec5639e86a9">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Digitale_Gewalt</url>
+        <logo/>
+        <date>2019-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1533-session_digitale_gewalt</slug>
+        <title>Digitale Gewalt</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Digitale Gewalt gegen Frauen hat viele Formen. Dieser Workshop hat das Ziel, sich darüber auszutauschen, was die Hacker- und Netz-Community(s) dagegen tun können. Sonst wird es bald Vorschläge vom Innen- oder Justizministerium geben.
+Digitale Gewalt gegen Frauen hat viele Formen. Dieser Workshop hat das Ziel, sich darüber auszutauschen, was die Hacker- und Netz-Community(s) dagegen tun können. Sonst wird es bald Vorschläge vom Innen- oder Justizministerium geben.Themen können sein: * Stalkerware - Überwachungssoftware: Wieso kann die einfach gekauft werden? Wie könnte eine Kampagne dazu aussehen?* Technische Unterstützung bzw. KnowHow für Frauen-Gewaltberatungsstrukturen, denn die haben keine Zeit, sich das nötige Wissen selbst zu erarbeiten* Das neue Hasskriminalitätsgesetz des BMJV, Oder: Was wären bessere Vorschläge gegen Doxing, Bedrohung usw?</description>
+        <persons>
+          <person id="0">Anne</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1164" guid="08997d73-6187-4ea6-ae5c-402ef74c4768">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda</url>
         <logo/>
@@ -16937,6 +16958,75 @@ Tücher mit Bienenwachs herstellenZiel ist es Lebensmittel alternativ zu verpack
         <links/>
       </event>
     </room>
+    <room name="Assembly:HSBE">
+      <event id="1532" guid="d18c4a8a-74ed-4e73-bf2b-822e0594bf5d">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Bypassing_the_Suprema_BIOStar_Fingerprint_Access_Control</url>
+        <logo/>
+        <date>2019-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:HSBE</room>
+        <slug>36c3-1532-session_bypassing_the_suprema_biostar_fingerprint_access_control</slug>
+        <title>Bypassing the Suprema BIOStar Fingerprint Access Control</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>I'll show you how you can bypass a biometric access control (fingerprint reader) from Suprema. This device is broken AF
+[[File:SupremaBiostar.jpeg|thumb]][[File:Hacking_suprema.png|thumb]]Suprema is a major brand in the world of 'biometric access controls' aka fingerprint-reader-locks. These things allow for people to open doors to their home, office, etc. using their fingerprint (duh...). The device matches the scanned print with a collection of prints in a database. If it finds a match then it triggers the relay which unlocks the door. This sounds simple enough but there are a ton of things that might go wrong with this, certainly when the necessary checks are not enabled in the devices configuration, which is almost never the case. These checks involve for example 'tamper-control', a sensor which triggers an alarm when the device is physically tampered with. In the end the fingerprint-reader needs some sort of connection to a control-server which allows the admin to manage registered prints, so the device needs a network-connection. If the device is not protected with tamper-control (which is not enabled by default) then this leaves the network-connection at the back of the device vulnerable for all sorts of attacks. In the end, if these devices are not properly installed, it's like laying a laptop outside the front-door of your office, connected with a LAN-cable to your network by the way.</description>
+        <persons>
+          <person id="0">C</person>
+        </persons>
+        <links>
+          <link>https://www.supremainc.com/</link>
+        </links>
+      </event>
+      <event id="1527" guid="3a7cef52-860d-4680-9371-059748f49acb">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Continuous_Security_Testing</url>
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:HSBE</room>
+        <slug>36c3-1527-session_continuous_security_testing</slug>
+        <title>Continuous Security Testing</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>See https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing
+</description>
+        <persons>
+          <person id="0">C</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing</link>
+        </links>
+      </event>
+      <event id="1406" guid="577050b4-0ebf-44f1-8bc1-fac0a429ef93">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:OpenStreetMap_workshop_-_getting_started,_tools_and_route_engine_hacking</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:HSBE</room>
+        <slug>36c3-1406-session_openstreetmap_workshop_getting_started_tools_and_route_engine_hacking</slug>
+        <title>OpenStreetMap workshop - getting started, tools and route engine hacking</title>
+        <subtitle>OpenStreetMap for beginners</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Introduction to the OpenStreetMap ecosystem + OsmAnd route engine hacking
+This talk gives an overview of OpenStreetMap and will cover the following topics:- What is it and why is it awesome?- How is the data stored and how can it be edited- An overview of some useful tools, including how to query for specific featuresAfterwards, I'll explain how the OsmAnd route engine can be tweaked, in order to customize routeplanning just for you. (For example, one of my previous projects was adding ski routing into OsmAnd). (To tweak OsmAnd, you'll need an android device - bring yours. I have two spare ones though. It might work on jailbroken iPhones too)Note: feel free to come towards the end of the session if you only want to join the OsmAnd route engine hacking.</description>
+        <persons>
+          <person id="0">Pietervdvn</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Kidspace">
       <event id="1454" guid="4f6263d4-fbba-44e4-b105-ee10a0a9beba">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Calliope</url>
@@ -17230,52 +17320,6 @@ Es gibt viele kompetente Äußerungen zum Thema "Handeln gegen den Klimawandel",
 We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
         <persons>
           <person id="0">Haurane</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="Assembly:HSBE">
-      <event id="1527" guid="3a7cef52-860d-4680-9371-059748f49acb">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Continuous_Security_Testing</url>
-        <logo/>
-        <date>2019-12-28T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>0:45</duration>
-        <room>Assembly:HSBE</room>
-        <slug>36c3-1527-session_continuous_security_testing</slug>
-        <title>Continuous Security Testing</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>See https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing
-</description>
-        <persons>
-          <person id="0">C</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2019/wiki/index.php/Projects:Continuous_security_testing</link>
-        </links>
-      </event>
-      <event id="1406" guid="577050b4-0ebf-44f1-8bc1-fac0a429ef93">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:OpenStreetMap_workshop_-_getting_started,_tools_and_route_engine_hacking</url>
-        <logo/>
-        <date>2019-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:HSBE</room>
-        <slug>36c3-1406-session_openstreetmap_workshop_getting_started_tools_and_route_engine_hacking</slug>
-        <title>OpenStreetMap workshop - getting started, tools and route engine hacking</title>
-        <subtitle>OpenStreetMap for beginners</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>Introduction to the OpenStreetMap ecosystem + OsmAnd route engine hacking
-This talk gives an overview of OpenStreetMap and will cover the following topics:- What is it and why is it awesome?- How is the data stored and how can it be edited- An overview of some useful tools, including how to query for specific featuresAfterwards, I'll explain how the OsmAnd route engine can be tweaked, in order to customize routeplanning just for you. (For example, one of my previous projects was adding ski routing into OsmAnd). (To tweak OsmAnd, you'll need an android device - bring yours. I have two spare ones though. It might work on jailbroken iPhones too)Note: feel free to come towards the end of the session if you only want to join the OsmAnd route engine hacking.</description>
-        <persons>
-          <person id="0">Pietervdvn</person>
         </persons>
         <links/>
       </event>
@@ -27836,6 +27880,29 @@ Daily A/V Angel Meeting. More information can be obtained from our news in the a
         </persons>
         <links>
           <link>https://cryptoparty.in/36c3</link>
+        </links>
+      </event>
+      <event id="1534" guid="a048feb8-4df2-4ed8-b60b-c712a8f775c7">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerspaces.org_meetup</url>
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1534-session_hackerspaces_org_meetup</slug>
+        <title>Hackerspaces.org meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>an opportunity to get involved and catch up with the hackerspaces.org community
+</description>
+        <persons>
+          <person id="0">Aimeejulia</person>
+        </persons>
+        <links>
+          <link>https://wiki.hackerspaces.org/Hackerspaces</link>
         </links>
       </event>
     </room>

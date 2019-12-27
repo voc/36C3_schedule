@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.7; chaoszone 0.7; komona 0.10; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 13:30</version>
+  <version>find; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.7; chaoszone 0.7; komona 0.10; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 13:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -22758,6 +22758,36 @@ He's good at that. He is also good at put on music that feels like a warm blanke
       </event>
     </room>
     <room name="OIO Workshop Dome">
+      <event id="396" guid="1e712d27-e60d-5dc7-b676-4b56de664240">
+        <logo/>
+        <date>2019-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:30</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>XWZMAJ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/XWZMAJ/</url>
+        <title>git from the bottom up</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 2 hours</type>
+        <language>en</language>
+        <abstract>Using git for keeping track of your code? Ever had a moment where you wanted to assault git for being /doing stupid? (yes i know, it definitely wasnt your fault)&#13;
+Now is the time: you may either stay at that level of knowlegde to not loose the chance to get angry at git again (no issues with that, everyone needs a scapegoat) or you could learn why git works the way it does (and sometimes does stupid stuff).&#13;
+This workshop might help you with the second.</abstract>
+        <description>Requirements:&#13;
+- If you like to follow along please clone https://github.com/wtjerry/gitShowAndTell_playgroundRepo.git&#13;
+- Some kind of a computer with a shell, git and an editor installed.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="159">wtjerry</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="344" guid="312560c7-7ce7-5c81-97b4-7692b2d9a240">
         <logo>/media/36c3-oio/images/HHZQAY/meetup_1920_ssHGXLa.png</logo>
         <date>2019-12-29T13:50:00+01:00</date>

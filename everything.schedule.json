@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.7; chaoszone 0.7; komona 0.10; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 13:30",
+    "version": "find; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.7; chaoszone 0.7; komona 0.10; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 13:40",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -25579,6 +25579,38 @@
               }
             ],
             "OIO Workshop Dome": [
+              {
+                "id": 396,
+                "guid": "1e712d27-e60d-5dc7-b676-4b56de664240",
+                "logo": "",
+                "date": "2019-12-29T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "01:30",
+                "room": "OIO Workshop Dome",
+                "slug": "XWZMAJ",
+                "url": "https://talks.oio.social/36c3-oio/talk/XWZMAJ/",
+                "title": "git from the bottom up",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 2 hours",
+                "language": "en",
+                "abstract": "Using git for keeping track of your code? Ever had a moment where you wanted to assault git for being /doing stupid? (yes i know, it definitely wasnt your fault)\r\nNow is the time: you may either stay at that level of knowlegde to not loose the chance to get angry at git again (no issues with that, everyone needs a scapegoat) or you could learn why git works the way it does (and sometimes does stupid stuff).\r\nThis workshop might help you with the second.",
+                "description": "Requirements:\r\n- If you like to follow along please clone https://github.com/wtjerry/gitShowAndTell_playgroundRepo.git\r\n- Some kind of a computer with a shell, git and an editor installed.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 159,
+                    "code": "QTNAB8",
+                    "public_name": "wtjerry",
+                    "biography": "tbd",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
               {
                 "id": 344,
                 "guid": "312560c7-7ce7-5c81-97b4-7692b2d9a240",

@@ -2,18 +2,18 @@
   "url": "https://frab.riat.at/en/36C3/public/schedule/events/179.html",
   "id": 4379,
   "guid": "f0ed92a3-f9b5-439a-a2b7-1fad65349f2d",
-  "logo": null,
+  "logo": "/system/events/logos/000/000/179/large/Screenshot_from_2019-12-27_15-22-55.png?1577460976",
   "date": "2019-12-27T19:45:00+01:00",
   "start": "19:45",
   "duration": "00:15",
   "room": "CDC - Stage",
-  "slug": "36C3-179-the_open_hardware_summit_and_oshwa",
-  "title": "The Open Hardware Summit and OSHWA",
-  "subtitle": "Overview of the Open Source Hardware Association activities",
+  "slug": "36C3-179-open_source_hardware_oshwa_and_open_hardware_summit",
+  "title": "Open Source Hardware, OSHWA, and Open Hardware Summit",
+  "subtitle": "",
   "track": null,
   "type": "lightning_talk",
   "language": "en",
-  "abstract": "",
+  "abstract": "Introduction to Open Source Hardware (OSHW) including the Open Source Hardware Association (OSHWA), certified OSHW, and the Open Hardware Summit",
   "description": "",
   "recording_license": "",
   "do_not_record": false,
@@ -23,15 +23,32 @@
       "public_name": "Drew Fustini"
     }
   ],
-  "links": [],
-  "attachments": [
+  "links": [
     {
-      "url": "/system/event_attachments/attachments/000/000/045/original/oshw-garage-2019.odp?1577452762",
-      "title": "OSHWA drew (ODP)"
+      "url": "http://oshwa.org/",
+      "title": "Open Source Hardware Association (OSHWA)"
     },
     {
-      "url": "/system/event_attachments/attachments/000/000/046/original/oshw-garage-2019.pdf?1577452841",
-      "title": "OSHWA drew (PDF)"
+      "url": "http://2020.oshwa.org/",
+      "title": "Open Hardware Summit 2020"
+    },
+    {
+      "url": "https://twitter.com/pdp7",
+      "title": "Twitter"
+    },
+    {
+      "url": "https://github.com/pdp7/talks/",
+      "title": "GitHub repo for slides"
+    }
+  ],
+  "attachments": [
+    {
+      "url": "/attachments/original/missing.png",
+      "title": "OSHW slides (PDF)"
+    },
+    {
+      "url": "/attachments/original/missing.png",
+      "title": "OSHW slides (ODP)"
     }
   ]
 }

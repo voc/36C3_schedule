@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 16:30</version>
+  <version>hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 16:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -4855,6 +4855,7 @@ Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at
         </recording>
         <persons>
           <person id="6">Lucas Werkmeister</person>
+          <person id="7">Amir Sarabadani</person>
         </persons>
         <links/>
         <attachments/>
@@ -6228,7 +6229,9 @@ With: Dana Sinaida Ersing</description>
           <person id="52">Ome</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/000/051/original/Swiss_Cryptoeconomics.pdf?1577461065">intro</attachment>
+        </attachments>
       </event>
       <event id="4376" guid="37de2e6d-eaaf-4476-9c08-d22bac65b779">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/176.html</url>
@@ -6379,18 +6382,18 @@ Taking this into consideration, and having learnt the lessons on how lack of pro
       </event>
       <event id="4379" guid="f0ed92a3-f9b5-439a-a2b7-1fad65349f2d">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/179.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/000/179/large/Screenshot_from_2019-12-27_15-22-55.png?1577460976</logo>
         <date>2019-12-27T19:45:00+01:00</date>
         <start>19:45</start>
         <duration>00:15</duration>
         <room>CDC - Stage</room>
-        <slug>36C3-179-the_open_hardware_summit_and_oshwa</slug>
-        <title>The Open Hardware Summit and OSHWA</title>
-        <subtitle>Overview of the Open Source Hardware Association activities</subtitle>
+        <slug>36C3-179-open_source_hardware_oshwa_and_open_hardware_summit</slug>
+        <title>Open Source Hardware, OSHWA, and Open Hardware Summit</title>
+        <subtitle/>
         <track/>
         <type>lightning_talk</type>
         <language>en</language>
-        <abstract/>
+        <abstract>Introduction to Open Source Hardware (OSHW) including the Open Source Hardware Association (OSHWA), certified OSHW, and the Open Hardware Summit</abstract>
         <description/>
         <recording>
           <license/>
@@ -6399,10 +6402,15 @@ Taking this into consideration, and having learnt the lessons on how lack of pro
         <persons>
           <person id="109">Drew Fustini</person>
         </persons>
-        <links/>
+        <links>
+          <link href="http://oshwa.org/">Open Source Hardware Association (OSHWA)</link>
+          <link href="http://2020.oshwa.org/">Open Hardware Summit 2020</link>
+          <link href="https://twitter.com/pdp7">Twitter</link>
+          <link href="https://github.com/pdp7/talks/">GitHub repo for slides</link>
+        </links>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/000/045/original/oshw-garage-2019.odp?1577452762">OSHWA drew (ODP)</attachment>
-          <attachment href="/system/event_attachments/attachments/000/000/046/original/oshw-garage-2019.pdf?1577452841">OSHWA drew (PDF)</attachment>
+          <attachment href="/attachments/original/missing.png">OSHW slides (PDF)</attachment>
+          <attachment href="/attachments/original/missing.png">OSHW slides (ODP)</attachment>
         </attachments>
       </event>
       <event id="4384" guid="bbff1fd5-af73-4b68-8a5a-071df2ef0791">
@@ -17835,9 +17843,9 @@ Hacktivism from time to time leads to imprisonment and repressions. There are se
       <event id="1444" guid="f0fcdc94-4ca8-43b9-957b-cf664dfaa307">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Makeup_against_surveillance</url>
         <logo/>
-        <date>2019-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>2:00</duration>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>4:00</duration>
         <room>Assembly:Chaos West</room>
         <slug>36c3-1444-session_makeup_against_surveillance</slug>
         <title>Makeup against surveillance</title>
@@ -19264,6 +19272,32 @@ Everything presented will be applicable to GnuCash a libre software for personal
         </recording>
         <persons>
           <person id="40">JJ</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3187" guid="599dad26-1076-5f35-991f-2d35387fc2a2">
+        <logo/>
+        <date>2019-12-29T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>B3UPXB</slug>
+        <url>https://c3lt.de/36c3/talk/B3UPXB/</url>
+        <title>BSides Amsterdam CFP</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>We are organising BSides in Amsterdam, we want you to submit your projects with a talk proposal.</abstract>
+        <description>We are organising BSides Amsterdam in April in Amsterdam and are creating a CFP. I'll add further information here as I get in, and will tell the whole story in my Lightning Talk.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="176">webhat</person>
         </persons>
         <links/>
         <attachments/>
@@ -27403,6 +27437,32 @@ Schließlich werden Handlungsempfehlungen für ein integriertes Entwicklungskonz
         <attachments/>
         <answers/>
       </event>
+      <event id="3173" guid="aa5a4314-cfd9-537a-99fe-b55407e0ec7e">
+        <logo/>
+        <date>2019-12-30T11:40:00+01:00</date>
+        <start>11:40</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>TFFUYT</slug>
+        <url>https://c3lt.de/36c3/talk/TFFUYT/</url>
+        <title>lernOS - Hacking How We Learn - Lifelong</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>lernOS sees itself as an "operating system for lifelong learning". The talk gives an overview of the approach and available resources.</abstract>
+        <description>The rhythm of learning with years or semesters from school and university is lost with the entry into professional life. lernOS brings this rhythm back through regular, self-organized learning sprints (Scrum), focussed learning (OKR), efficient learning (GTD) and connected learning (WOL). The lernOS materials are available under open license Creative Commons Attribution International 4.0.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="167">Simon Dückert</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3213" guid="6730abcf-21ba-5b49-86ce-12739d03c795">
         <logo/>
         <date>2019-12-30T11:45:00+01:00</date>
@@ -27489,6 +27549,60 @@ These are generally referred to as crazy sequential representations (CSR). Inter
         <attachments/>
         <answers/>
       </event>
+      <event id="3214" guid="c2bb875f-babe-5bb7-b2d2-89999d6a515d">
+        <logo/>
+        <date>2019-12-30T12:05:00+01:00</date>
+        <start>12:05</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>CMVXDQ</slug>
+        <url>https://c3lt.de/36c3/talk/CMVXDQ/</url>
+        <title>Infrastructure Village</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>This is a pitching, an Initiative for next year to create an assembly for projects like clustering, heterogeneous computing etc.</abstract>
+        <description>The point is to create a space where we can collectively build up small clusters and showcase our projects.&#13;
+From using Raspberry's and android phones, to custom made boards using ARM, PIC, x86, ATMELs, FPGAs and more.&#13;
+Use cases for such infrastructures or clusters could be red team tooling, honeypoting, password cracking (hashing) etc.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="194">Dimitrios Sapikas</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3224" guid="52c3beaf-8620-5abf-977c-657b9d87d26b">
+        <logo/>
+        <date>2019-12-30T12:10:00+01:00</date>
+        <start>12:10</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>UYCLZD</slug>
+        <url>https://c3lt.de/36c3/talk/UYCLZD/</url>
+        <title>How To Run a Bad Awareness Camapaign</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Wie kann man Security Awareness Kampagnen so gestalten, dass die Mitarbeiter nichts lernen und zusätzlich noch sauer auf die IT sind?</abstract>
+        <description>Angreifer nutzen immer Häufiger menschliche Schwachstellen anstatt der technischen. Um diese "Sicherheitslücke" zu schließen gibt es mehr und mehr Awareness Kampagnen. Hier lassen sich diverse Dinge falsch angehen, die nicht nur zu Unmut bei den Mitarbeitern führen, sondern im Endeffekt dafür sorgen, dass sich an der Sicherheitskultur nichts ändert. Mit diesem Vortrag möchte ich anreißen, wie man eine Kampagne durchführen kann, die garantiert keine positiven Effekte hat.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="203">Christian Klos</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3205" guid="1ba815ed-41eb-58aa-a1c6-588a090c66cf">
         <logo/>
         <date>2019-12-30T12:15:00+01:00</date>
@@ -27565,6 +27679,58 @@ work-quantum WQ&#13;
         </recording>
         <persons>
           <person id="179">Thomas Barker</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3221" guid="c8769772-25bc-539c-af93-674bab11be4d">
+        <logo/>
+        <date>2019-12-30T12:40:00+01:00</date>
+        <start>12:40</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>HMTLJX</slug>
+        <url>https://c3lt.de/36c3/talk/HMTLJX/</url>
+        <title>Owning our own medical data</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>For various reasons Medical data is becoming more and more centralized, but we have to way to decide who gets access to which parts of the data.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="198">Reza</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3222" guid="1192af7d-7f7d-5451-ad03-d1a7afb1b08a">
+        <logo/>
+        <date>2019-12-30T12:45:00+01:00</date>
+        <start>12:45</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>JGAZMR</slug>
+        <url>https://c3lt.de/36c3/talk/JGAZMR/</url>
+        <title>dns query filtering - how to increase performance &amp; (accidentally) block your users</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>I'll demonstrate how you can filter dns packets from iptables with insanely great performance, and also why you should be wary about doing this.</abstract>
+        <description>Filtering DNS packets from iptables is possible, and the performance is awesome. However, if you don't pay attention, and you don't test thoroughly enough, you may also filter legit queries. The talk is about a bit of hardening, and mostly about a fail in production, and how I have achieved to drop about 2-3% of our users.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="201">Héja Péter</person>
         </persons>
         <links/>
         <attachments/>
@@ -28694,27 +28860,6 @@ Both theoretical and technical aspects of memory forensics will be covered: A th
 </description>
         <persons>
           <person id="0">Stormwind</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1309" guid="40bef8ef-0d72-4853-9b20-6b1726dbe2c1">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Bitcoin_to_the_Post-Quantum_Era</url>
-        <logo/>
-        <date>2019-12-30T15:45:00+01:00</date>
-        <start>15:45</start>
-        <duration>1:00</duration>
-        <room>Lecture room M2</room>
-        <slug>36c3-1309-session_bitcoin_to_the_post_quantum_era</slug>
-        <title>Bitcoin to the Post-Quantum Era</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>Can we transition Bitcoin to a Post-Quantum World? In this talk, I present the basic principles Quantum Computers rely on to perform certain calculations much faster than classical computers. I will give a beginner’s explanation to some quantum algorithms that can undermine Bitcoin’s security and show how they can be used to hijack transactions. Finally, I describe a protocol that can be deployed in Bitcoin to allow users to securely transition their funds to quantum resistance even in the presence of a quantum computer!
-</description>
-        <persons>
-          <person id="0">Dragos</person>
         </persons>
         <links/>
       </event>

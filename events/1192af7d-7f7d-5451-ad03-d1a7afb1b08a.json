@@ -1,0 +1,32 @@
+{
+  "id": 3222,
+  "guid": "1192af7d-7f7d-5451-ad03-d1a7afb1b08a",
+  "logo": "",
+  "date": "2019-12-30T12:45:00+01:00",
+  "start": "12:45",
+  "duration": "00:05",
+  "room": "Borg",
+  "slug": "JGAZMR",
+  "url": "https://c3lt.de/36c3/talk/JGAZMR/",
+  "title": "dns query filtering - how to increase performance & (accidentally) block your users",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Lightning Talk",
+  "language": "en",
+  "abstract": "I'll demonstrate how you can filter dns packets from iptables with insanely great performance, and also why you should be wary about doing this.",
+  "description": "Filtering DNS packets from iptables is possible, and the performance is awesome. However, if you don't pay attention, and you don't test thoroughly enough, you may also filter legit queries. The talk is about a bit of hardening, and mostly about a fail in production, and how I have achieved to drop about 2-3% of our users.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 201,
+      "code": "YDUC3Z",
+      "public_name": "H\u00e9ja P\u00e9ter",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "answers": []
+}

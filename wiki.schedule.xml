@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-27 16:30</version>
+  <version>2019-12-27 16:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -5813,9 +5813,9 @@ Hacktivism from time to time leads to imprisonment and repressions. There are se
       <event id="1444" guid="f0fcdc94-4ca8-43b9-957b-cf664dfaa307">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Makeup_against_surveillance</url>
         <logo/>
-        <date>2019-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>2:00</duration>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>4:00</duration>
         <room>Assembly:Chaos West</room>
         <slug>36c3-1444-session_makeup_against_surveillance</slug>
         <title>Makeup against surveillance</title>
@@ -8847,27 +8847,6 @@ Both theoretical and technical aspects of memory forensics will be covered: A th
 </description>
         <persons>
           <person id="0">Stormwind</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1309" guid="40bef8ef-0d72-4853-9b20-6b1726dbe2c1">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Bitcoin_to_the_Post-Quantum_Era</url>
-        <logo/>
-        <date>2019-12-30T15:45:00+01:00</date>
-        <start>15:45</start>
-        <duration>1:00</duration>
-        <room>Lecture room M2</room>
-        <slug>36c3-1309-session_bitcoin_to_the_post_quantum_era</slug>
-        <title>Bitcoin to the Post-Quantum Era</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>Can we transition Bitcoin to a Post-Quantum World? In this talk, I present the basic principles Quantum Computers rely on to perform certain calculations much faster than classical computers. I will give a beginner’s explanation to some quantum algorithms that can undermine Bitcoin’s security and show how they can be used to hijack transactions. Finally, I describe a protocol that can be deployed in Bitcoin to allow users to securely transition their funds to quantum resistance even in the presence of a quantum computer!
-</description>
-        <persons>
-          <person id="0">Dragos</person>
         </persons>
         <links/>
       </event>

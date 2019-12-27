@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 16:30",
+    "version": "hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.12; sendezentrum 2.5; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 16:40",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -5324,6 +5324,13 @@
                     "public_name": "Lucas Werkmeister",
                     "biography": "Software developer at Wikimedia Germany and all-time Wikidata enthusiast.",
                     "answers": []
+                  },
+                  {
+                    "id": 7,
+                    "code": "8GDPPA",
+                    "public_name": "Amir Sarabadani",
+                    "biography": "Amir Sarabadani is software engineer at Wikimedia Deutschland",
+                    "answers": []
                   }
                 ],
                 "links": [],
@@ -6922,7 +6929,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/051/original/Swiss_Cryptoeconomics.pdf?1577461065",
+                    "title": "intro"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/176.html",
@@ -7094,18 +7106,18 @@
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/179.html",
                 "id": 4379,
                 "guid": "f0ed92a3-f9b5-439a-a2b7-1fad65349f2d",
-                "logo": null,
+                "logo": "/system/events/logos/000/000/179/large/Screenshot_from_2019-12-27_15-22-55.png?1577460976",
                 "date": "2019-12-27T19:45:00+01:00",
                 "start": "19:45",
                 "duration": "00:15",
                 "room": "CDC - Stage",
-                "slug": "36C3-179-the_open_hardware_summit_and_oshwa",
-                "title": "The Open Hardware Summit and OSHWA",
-                "subtitle": "Overview of the Open Source Hardware Association activities",
+                "slug": "36C3-179-open_source_hardware_oshwa_and_open_hardware_summit",
+                "title": "Open Source Hardware, OSHWA, and Open Hardware Summit",
+                "subtitle": "",
                 "track": null,
                 "type": "lightning_talk",
                 "language": "en",
-                "abstract": "",
+                "abstract": "Introduction to Open Source Hardware (OSHW) including the Open Source Hardware Association (OSHWA), certified OSHW, and the Open Hardware Summit",
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
@@ -7115,15 +7127,32 @@
                     "public_name": "Drew Fustini"
                   }
                 ],
-                "links": [],
-                "attachments": [
+                "links": [
                   {
-                    "url": "/system/event_attachments/attachments/000/000/045/original/oshw-garage-2019.odp?1577452762",
-                    "title": "OSHWA drew (ODP)"
+                    "url": "http://oshwa.org/",
+                    "title": "Open Source Hardware Association (OSHWA)"
                   },
                   {
-                    "url": "/system/event_attachments/attachments/000/000/046/original/oshw-garage-2019.pdf?1577452841",
-                    "title": "OSHWA drew (PDF)"
+                    "url": "http://2020.oshwa.org/",
+                    "title": "Open Hardware Summit 2020"
+                  },
+                  {
+                    "url": "https://twitter.com/pdp7",
+                    "title": "Twitter"
+                  },
+                  {
+                    "url": "https://github.com/pdp7/talks/",
+                    "title": "GitHub repo for slides"
+                  }
+                ],
+                "attachments": [
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "OSHW slides (PDF)"
+                  },
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "OSHW slides (ODP)"
                   }
                 ]
               },
@@ -20080,9 +20109,9 @@
                 "guid": "f0fcdc94-4ca8-43b9-957b-cf664dfaa307",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Makeup_against_surveillance",
                 "logo": null,
-                "date": "2019-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "2:00",
+                "date": "2019-12-28T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "4:00",
                 "room": "Assembly:Chaos West",
                 "slug": "36c3-1444-session_makeup_against_surveillance",
                 "title": "Makeup against surveillance",
@@ -21713,6 +21742,38 @@
                     "id": 40,
                     "code": "C3VQ37",
                     "public_name": "JJ",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3187,
+                "guid": "599dad26-1076-5f35-991f-2d35387fc2a2",
+                "logo": "",
+                "date": "2019-12-29T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "B3UPXB",
+                "url": "https://c3lt.de/36c3/talk/B3UPXB/",
+                "title": "BSides Amsterdam CFP",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "We are organising BSides in Amsterdam, we want you to submit your projects with a talk proposal.",
+                "description": "We are organising BSides Amsterdam in April in Amsterdam and are creating a CFP. I'll add further information here as I get in, and will tell the whole story in my Lightning Talk.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 176,
+                    "code": "RNMA8A",
+                    "public_name": "webhat",
                     "biography": null,
                     "answers": []
                   }
@@ -30694,6 +30755,38 @@
                 "answers": []
               },
               {
+                "id": 3173,
+                "guid": "aa5a4314-cfd9-537a-99fe-b55407e0ec7e",
+                "logo": "",
+                "date": "2019-12-30T11:40:00+01:00",
+                "start": "11:40",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "TFFUYT",
+                "url": "https://c3lt.de/36c3/talk/TFFUYT/",
+                "title": "lernOS - Hacking How We Learn - Lifelong",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "lernOS sees itself as an \"operating system for lifelong learning\". The talk gives an overview of the approach and available resources.",
+                "description": "The rhythm of learning with years or semesters from school and university is lost with the entry into professional life. lernOS brings this rhythm back through regular, self-organized learning sprints (Scrum), focussed learning (OKR), efficient learning (GTD) and connected learning (WOL). The lernOS materials are available under open license Creative Commons Attribution International 4.0.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 167,
+                    "code": "ULTJYT",
+                    "public_name": "Simon D\u00fcckert",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3213,
                 "guid": "6730abcf-21ba-5b49-86ce-12739d03c795",
                 "logo": "",
@@ -30790,6 +30883,70 @@
                 "answers": []
               },
               {
+                "id": 3214,
+                "guid": "c2bb875f-babe-5bb7-b2d2-89999d6a515d",
+                "logo": "",
+                "date": "2019-12-30T12:05:00+01:00",
+                "start": "12:05",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "CMVXDQ",
+                "url": "https://c3lt.de/36c3/talk/CMVXDQ/",
+                "title": "Infrastructure Village",
+                "subtitle": "",
+                "track": "Resilience & Sustainability",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "This is a pitching, an Initiative for next year to create an assembly for projects like clustering, heterogeneous computing etc.",
+                "description": "The point is to create a space where we can collectively build up small clusters and showcase our projects.\r\nFrom using Raspberry's and android phones, to custom made boards using ARM, PIC, x86, ATMELs, FPGAs and more.\r\nUse cases for such infrastructures or clusters could be red team tooling, honeypoting, password cracking (hashing) etc.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 194,
+                    "code": "8PX8RQ",
+                    "public_name": "Dimitrios Sapikas",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3224,
+                "guid": "52c3beaf-8620-5abf-977c-657b9d87d26b",
+                "logo": "",
+                "date": "2019-12-30T12:10:00+01:00",
+                "start": "12:10",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "UYCLZD",
+                "url": "https://c3lt.de/36c3/talk/UYCLZD/",
+                "title": "How To Run a Bad Awareness Camapaign",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "Wie kann man Security Awareness Kampagnen so gestalten, dass die Mitarbeiter nichts lernen und zus\u00e4tzlich noch sauer auf die IT sind?",
+                "description": "Angreifer nutzen immer H\u00e4ufiger menschliche Schwachstellen anstatt der technischen. Um diese \"Sicherheitsl\u00fccke\" zu schlie\u00dfen gibt es mehr und mehr Awareness Kampagnen. Hier lassen sich diverse Dinge falsch angehen, die nicht nur zu Unmut bei den Mitarbeitern f\u00fchren, sondern im Endeffekt daf\u00fcr sorgen, dass sich an der Sicherheitskultur nichts \u00e4ndert. Mit diesem Vortrag m\u00f6chte ich anrei\u00dfen, wie man eine Kampagne durchf\u00fchren kann, die garantiert keine positiven Effekte hat.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 203,
+                    "code": "RJZKRZ",
+                    "public_name": "Christian Klos",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 3205,
                 "guid": "1ba815ed-41eb-58aa-a1c6-588a090c66cf",
                 "logo": "",
@@ -30877,6 +31034,70 @@
                     "id": 179,
                     "code": "KJQZMN",
                     "public_name": "Thomas Barker",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3221,
+                "guid": "c8769772-25bc-539c-af93-674bab11be4d",
+                "logo": "",
+                "date": "2019-12-30T12:40:00+01:00",
+                "start": "12:40",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "HMTLJX",
+                "url": "https://c3lt.de/36c3/talk/HMTLJX/",
+                "title": "Owning our own medical data",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "For various reasons Medical data is becoming more and more centralized, but we have to way to decide who gets access to which parts of the data.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 198,
+                    "code": "9CHA7E",
+                    "public_name": "Reza",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 3222,
+                "guid": "1192af7d-7f7d-5451-ad03-d1a7afb1b08a",
+                "logo": "",
+                "date": "2019-12-30T12:45:00+01:00",
+                "start": "12:45",
+                "duration": "00:05",
+                "room": "Borg",
+                "slug": "JGAZMR",
+                "url": "https://c3lt.de/36c3/talk/JGAZMR/",
+                "title": "dns query filtering - how to increase performance & (accidentally) block your users",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Lightning Talk",
+                "language": "en",
+                "abstract": "I'll demonstrate how you can filter dns packets from iptables with insanely great performance, and also why you should be wary about doing this.",
+                "description": "Filtering DNS packets from iptables is possible, and the performance is awesome. However, if you don't pay attention, and you don't test thoroughly enough, you may also filter legit queries. The talk is about a bit of hardening, and mostly about a fail in production, and how I have achieved to drop about 2-3% of our users.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 201,
+                    "code": "YDUC3Z",
+                    "public_name": "H\u00e9ja P\u00e9ter",
                     "biography": null,
                     "answers": []
                   }
@@ -32124,32 +32345,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Stormwind",
                     "public_name": "Stormwind"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1309,
-                "guid": "40bef8ef-0d72-4853-9b20-6b1726dbe2c1",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Bitcoin_to_the_Post-Quantum_Era",
-                "logo": null,
-                "date": "2019-12-30T15:45:00+01:00",
-                "start": "15:45",
-                "duration": "1:00",
-                "room": "Lecture room M2",
-                "slug": "36c3-1309-session_bitcoin_to_the_post_quantum_era",
-                "title": "Bitcoin to the Post-Quantum Era",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "Can we transition Bitcoin to a Post-Quantum World? In this talk, I present the basic principles Quantum Computers rely on to perform certain calculations much faster than classical computers. I will give a beginner\u2019s explanation to some quantum algorithms that can undermine Bitcoin\u2019s security and show how they can be used to hijack transactions. Finally, I describe a protocol that can be deployed in Bitcoin to allow users to securely transition their funds to quantum resistance even in the presence of a quantum computer!\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dragos",
-                    "public_name": "Dragos"
                   }
                 ],
                 "links": []

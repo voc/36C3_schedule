@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-27 17:10",
+    "version": "2019-12-27 17:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -3636,6 +3636,262 @@
                 ]
               }
             ],
+            "C-base": [
+              {
+                "id": 1550,
+                "guid": "e6e5635e-0f1a-4f1a-a196-81fe91b8f100",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:36C3_Fahrplan_App",
+                "logo": null,
+                "date": "2019-12-28T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "0:40",
+                "room": "C-base",
+                "slug": "36c3-1550-session_36c3_fahrplan_app",
+                "title": "36C3 Fahrplan App",
+                "subtitle": "You are invited to join the project. It is not just about coding!",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Session for people who want to join the project\nI will shortly talk about how you can join the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further.https://github.com/EventFahrplan/EventFahrplan/",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Tbsprs",
+                    "public_name": "Tbsprs"
+                  }
+                ],
+                "links": [
+                  "https://github.com/EventFahrplan/EventFahrplan"
+                ]
+              },
+              {
+                "id": 1108,
+                "guid": "5d7b0d0e-cadb-4687-af83-39ff06b2961b",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:CoderDojo_Neopixel_Hacking",
+                "logo": null,
+                "date": "2019-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "4:00",
+                "room": "C-base",
+                "slug": "36c3-1108-session_coderdojo_neopixel_hacking",
+                "title": "CoderDojo Neopixel Hacking",
+                "subtitle": "Workshop 1",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "ATTiny+Neopixel hacking\n[[File:Th 126A4494.JPG]]Im Rahmen des Workshops werden wir auf Basis des Microcontrollers ATTiny85  Neopixel LEDs zum leuchten bringen. Gerne kann die Schaltung am Ende des Workshops mitgenommen werden. Eine Spendenbox wird es auch geben. Die Eigenkosten f\u00fcr die Schaltung betragen circa sechs Euro.Der Workshop ist f\u00fcr junge Padawans ab circa 12 Jahren aufw\u00e4rts. L\u00f6terfahrung ist nicht notwendig.Wer aber schon fit im L\u00f6ten ist, ist schneller mit der Schaltung fertig und kann sich auf die Programmierung des Microcontrollers (in C) konzentrieren. Noch keine C-Kenntnisse? Kein Problem - wir helfen Dir dabei. Und auch wenn man dieser zarten Schaltung nicht ansieht - da kommen noch zwei Schalter ran und Du kannst kleinere Spiele daf\u00fcr programmieren und darauf spielen.'''Bitte melde Dich bei bengoshi AT c-base Punkt org f\u00fcr den Workshop an. Wir haben circa 20 Pl\u00e4tze.'''[[File:NeoPixelHacking-CoderDojo-2.gif]]",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
+                    "public_name": "DerMicha"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bengoshi",
+                    "public_name": "Bengoshi"
+                  }
+                ],
+                "links": [
+                  "https://coderdojo.c-base.org/"
+                ]
+              },
+              {
+                "id": 1380,
+                "guid": "f7380699-f8ad-47a5-9cce-ec0dc3037bc0",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Einf%C3%BChrung_Schneidplotter",
+                "logo": null,
+                "date": "2019-12-28T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1380-session_einfuehrung_schneidplotter",
+                "title": "Einf\u00fchrung Schneidplotter",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Plottern der Ergebnisse von Tag 1\nWir\u00a0pl0tt0rn\u00a0die\u00a0Ergebnisse\u00a0vom\u00a0Vortag\u00a0bzw\u00a0c-base/36C3/Whatever-LogosWir haben ein paar Aufkleber- und ein paar Textil-Folien dabei, bitte\u00a0bringt\u00a0Textilien\u00a0selbst\u00a0mit\u00a0(am\u00a0besten\u00a0100%\u00a0Baumwolle)!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:E-punc",
+                    "public_name": "E-punc"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1110,
+                "guid": "90cac72d-ab11-4d28-8409-e392c3b92049",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacker_Boardgames",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "C-base",
+                "slug": "36c3-1110-session_hacker_boardgames",
+                "title": "Hacker Boardgames",
+                "subtitle": "Hacker Boardgames 1",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "We willl play nice hacker boardgames\nWas spielen Nerds nach Sonnenuntergang? Sie programmieren beispielsweise Roboter mit Spielkarten und lassen sie \u00fcber ein Brettspiel laufen. Muss man daf\u00fcr programmieren k\u00f6nnen? Nein, \u00fcberhaupt nicht. Aber das Spiel macht einen Riesenspa\u00df und ganz nebenbei lernt man noch ein bi\u00dfchen, wie beim Programmieren gedacht wird.Daneben werden wir Rasende Roboter, Go und Pentagame anbieten.Insgesamt also ein lockerer Ausklang f\u00fcr den Junghackertag.Eine Anmeldung ist nicht n\u00f6tig, sei einfach rechtzeitig bei der Assembly.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
+                    "public_name": "DerMicha"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bengoshi",
+                    "public_name": "Bengoshi"
+                  }
+                ],
+                "links": [
+                  "https://coderdojo.c-base.org/"
+                ]
+              },
+              {
+                "id": 1317,
+                "guid": "06911640-a107-4a23-aea9-61f5fd03e1ce",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo",
+                "logo": null,
+                "date": "2019-12-28T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1317-session_pentagame_dojo",
+                "title": "Pentagame Dojo",
+                "subtitle": "Just playin'",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Just playing Pentagame\nPentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Penta",
+                    "public_name": "Penta"
+                  }
+                ],
+                "links": [
+                  "https://pentagame.org"
+                ]
+              },
+              {
+                "id": 1319,
+                "guid": "e0d50857-f0b6-42ef-8362-65eed1a9e6e5",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Turnier",
+                "logo": null,
+                "date": "2019-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "2:00",
+                "room": "C-base",
+                "slug": "36c3-1319-session_pentagame_turnier",
+                "title": "Pentagame Turnier",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Wir spielen ein Pentagame Turnier.\nWir spielen ein Pentagame-Turnier! Ausreichend Spiele sind vorhanden.Das Spiel wird kurz vorher erkl\u00e4rt und ist echt einfach zu verstehen.Das Turnier steht ausdr\u00fccklich auch Anf\u00e4ngern und vor allem Teilnehmenden des Junghackertags offen.Es wird eine Gruppenphase und dann ein K.O.-Tunier der 8 besten geben.Ein Prototyp wird verlost unter jenen, die nicht die K.O.-Phase erreicht haben.Ein weiterer Prototyp geht als Preis an den Turniergewinner (neben Weltruhm, nat\u00fcrlich).Links zu Erkl\u00e4rvideos, Regeln usw. \u00fcber https://pentagame.org/.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Penta",
+                    "public_name": "Penta"
+                  }
+                ],
+                "links": [
+                  "https://pentagame.org/"
+                ]
+              },
+              {
+                "id": 1217,
+                "guid": "a7700e84-a4bb-481c-8bfc-452d221e2314",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Python_mit_dem_Lego_EVO3_Roboter",
+                "logo": null,
+                "date": "2019-12-28T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1217-session_python_mit_dem_lego_evo3_roboter",
+                "title": "Python mit dem Lego EVO3 Roboter",
+                "subtitle": "EVO3 Python f\u00fcr Anf\u00e4nger",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Wir zeigen Schul-Projekte und bieten Einsteigern Hilfe an.\nDie Roboter Werkstatt der Evangelischen Schule Berlin Zentrum zeigt ein paar mit Python umgesetzte Lego EVO3 Roboter Projekte. Teilnehmerinnen der Werkstatt werden Interessierten ihre Projekte zeigen und die ersten Schritte der Python Programmierung mit dem Lego EVO3 Roboter vermitteln.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
+                    "public_name": "DerMicha"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1343,
+                "guid": "e4fcda8b-2708-46ca-a831-99381bf843eb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Was_kann_ich_tun,_um_umweltbewusster_und_klimaneutraler_zu_leben%3F",
+                "logo": null,
+                "date": "2019-12-28T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "1:00",
+                "room": "C-base",
+                "slug": "36c3-1343-session_was_kann_ich_tun_um_umweltbewusster_und_klimaneutraler_zu_leben_",
+                "title": "Was kann ich tun, um umweltbewusster und klimaneutraler zu leben?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Wie kann ich meine Welt verbessern?! \u2013 Niederschwellige Handlungsanweisungen\nEs gibt viele kompetente \u00c4u\u00dferungen zum Thema \"Handeln gegen den Klimawandel\", doch mir ist aufgefallen, dass es kaum kompakt zusammengefasste, einfach umzusetzende Beispiele aus der Praxis gibt. Internetportale bieten selbstverst\u00e4ndlich viele Informationen, die mit Zeitaufwand und Ausprobieren sehr hilfreich sein k\u00f6nnen. Doch mensch kann sich leicht verzetteln oder auf Grund der F\u00fclle und dem vorausgesetzten Wissen, schnell die Motivation verlieren. Deswegen m\u00f6chte ich M\u00f6glichkeiten aufzeigen, die einfach umzusetzen sind.Diese Praxisbeispiele sind aus fast allen Lebensbereichen, so nimmt z.B. unsere Nutzung von elektronischen Ger\u00e4ten gro\u00dfen Raum ein. Hier f\u00e4llt uns der Verzicht und die Ver\u00e4nderung des Verhaltens schwer \u2013 verst\u00e4ndlicherweise. Unser Konsumverhalten ist nicht nur an dieser Stelle der Knackpunkt. Ern\u00e4hrung, Reisen, K\u00f6rperpflege etc. k\u00f6nnen ressourcenschonender gelebt werden. Das l\u00e4sst sich allerdings nicht ohne einen teilweisen Verzicht auf unsere bisherige Bequemlichkeit umsetzen. Dabei stellt sich die Frage nach der Reflexion unserer bisherigen Gewohnheiten, des Willens zur Ver\u00e4nderung und eines wirklichen Anfangs. Hier m\u00f6chte ich mit der Vorstellung niederschwelliger Beispiele aus der Praxis Einstiege bieten.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Atoll",
+                    "public_name": "Atoll"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1190,
+                "guid": "685c4e66-f482-42c4-946c-70dbe296d900",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1190-session_werewolf",
+                "title": "Werewolf",
+                "subtitle": "Werewolf Day 2",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Werewolf, the (roleplaying)(card)game\nWe will play \"Les Loups-Garous de Thiercelieux\" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
+                    "public_name": "Haurane"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Assembly:Pseudoroom": [
               {
                 "id": 1273,
@@ -5460,6 +5716,32 @@
                 ]
               },
               {
+                "id": 1493,
+                "guid": "9e4f45aa-9665-46cc-8ebc-0d097d91e2c8",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Beewax_Sheets",
+                "logo": null,
+                "date": "2019-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "2:00",
+                "room": "Assembly:Foodhackingbase",
+                "slug": "36c3-1493-session_beewax_sheets",
+                "title": "Beewax Sheets",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Bienenwachst\u00fccher DIY\nT\u00fccher mit Bienenwachs herstellenZiel ist es Lebensmittel alternativ zu verpacken ohne Plastik.Baumwollt\u00fccher, Wachs, Harz und Jojoba\u00f6l habe ich f\u00fcr euch dabei. F\u00fcr die Materialien wird um einen Unkostenbeitrag geben.Wer mag kann gerne eigene T\u00fccher oder Baumwollbeutel mitbringen.Ich freue mich auf euer kommenRaum wird noch bekannt gegeben.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Laugenschneiderin",
+                    "public_name": "Laugenschneiderin"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1243,
                 "guid": "fd735224-28c9-4428-931d-a627b49c41bc",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Cheese_Rendez-vous",
@@ -5626,34 +5908,6 @@
                 "links": [
                   "https://foodhackingbase.org/wiki/Gimbab_making_36c3"
                 ]
-              }
-            ],
-            "Assembly:ZSH": [
-              {
-                "id": 1493,
-                "guid": "9e4f45aa-9665-46cc-8ebc-0d097d91e2c8",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Beewax_Sheets",
-                "logo": null,
-                "date": "2019-12-28T16:20:00+01:00",
-                "start": "16:20",
-                "duration": "1:00",
-                "room": "Assembly:ZSH",
-                "slug": "36c3-1493-session_beewax_sheets",
-                "title": "Beewax Sheets",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Bienenwachst\u00fccher DIY\nT\u00fccher mit Bienenwachs herstellenZiel ist es Lebensmittel alternativ zu verpacken ohne Plastik.Baumwollt\u00fccher, Wachs, Harz und Jojoba\u00f6l habe ich f\u00fcr euch dabei. F\u00fcr die Materialien wird um einen Unkostenbeitrag geben.Wer mag kann gerne eigene T\u00fccher oder Baumwollbeutel mitbringen.Ich freue mich auf euer kommenRaum wird noch bekannt gegeben.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Laugenschneiderin",
-                    "public_name": "Laugenschneiderin"
-                  }
-                ],
-                "links": []
               }
             ],
             "Monipilami": [
@@ -6298,234 +6552,6 @@
                 "links": []
               }
             ],
-            "C-base": [
-              {
-                "id": 1108,
-                "guid": "5d7b0d0e-cadb-4687-af83-39ff06b2961b",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:CoderDojo_Neopixel_Hacking",
-                "logo": null,
-                "date": "2019-12-28T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "4:00",
-                "room": "C-base",
-                "slug": "36c3-1108-session_coderdojo_neopixel_hacking",
-                "title": "CoderDojo Neopixel Hacking",
-                "subtitle": "Workshop 1",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "ATTiny+Neopixel hacking\n[[File:Th 126A4494.JPG]]Im Rahmen des Workshops werden wir auf Basis des Microcontrollers ATTiny85  Neopixel LEDs zum leuchten bringen. Gerne kann die Schaltung am Ende des Workshops mitgenommen werden. Eine Spendenbox wird es auch geben. Die Eigenkosten f\u00fcr die Schaltung betragen circa sechs Euro.Der Workshop ist f\u00fcr junge Padawans ab circa 12 Jahren aufw\u00e4rts. L\u00f6terfahrung ist nicht notwendig.Wer aber schon fit im L\u00f6ten ist, ist schneller mit der Schaltung fertig und kann sich auf die Programmierung des Microcontrollers (in C) konzentrieren. Noch keine C-Kenntnisse? Kein Problem - wir helfen Dir dabei. Und auch wenn man dieser zarten Schaltung nicht ansieht - da kommen noch zwei Schalter ran und Du kannst kleinere Spiele daf\u00fcr programmieren und darauf spielen.'''Bitte melde Dich bei bengoshi AT c-base Punkt org f\u00fcr den Workshop an. Wir haben circa 20 Pl\u00e4tze.'''[[File:NeoPixelHacking-CoderDojo-2.gif]]",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
-                    "public_name": "DerMicha"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bengoshi",
-                    "public_name": "Bengoshi"
-                  }
-                ],
-                "links": [
-                  "https://coderdojo.c-base.org/"
-                ]
-              },
-              {
-                "id": 1380,
-                "guid": "f7380699-f8ad-47a5-9cce-ec0dc3037bc0",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Einf%C3%BChrung_Schneidplotter",
-                "logo": null,
-                "date": "2019-12-28T18:30:00+01:00",
-                "start": "18:30",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1380-session_einfuehrung_schneidplotter",
-                "title": "Einf\u00fchrung Schneidplotter",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Plottern der Ergebnisse von Tag 1\nWir\u00a0pl0tt0rn\u00a0die\u00a0Ergebnisse\u00a0vom\u00a0Vortag\u00a0bzw\u00a0c-base/36C3/Whatever-LogosWir haben ein paar Aufkleber- und ein paar Textil-Folien dabei, bitte\u00a0bringt\u00a0Textilien\u00a0selbst\u00a0mit\u00a0(am\u00a0besten\u00a0100%\u00a0Baumwolle)!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:E-punc",
-                    "public_name": "E-punc"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1110,
-                "guid": "90cac72d-ab11-4d28-8409-e392c3b92049",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacker_Boardgames",
-                "logo": null,
-                "date": "2019-12-28T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "2:00",
-                "room": "C-base",
-                "slug": "36c3-1110-session_hacker_boardgames",
-                "title": "Hacker Boardgames",
-                "subtitle": "Hacker Boardgames 1",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "We willl play nice hacker boardgames\nWas spielen Nerds nach Sonnenuntergang? Sie programmieren beispielsweise Roboter mit Spielkarten und lassen sie \u00fcber ein Brettspiel laufen. Muss man daf\u00fcr programmieren k\u00f6nnen? Nein, \u00fcberhaupt nicht. Aber das Spiel macht einen Riesenspa\u00df und ganz nebenbei lernt man noch ein bi\u00dfchen, wie beim Programmieren gedacht wird.Daneben werden wir Rasende Roboter, Go und Pentagame anbieten.Insgesamt also ein lockerer Ausklang f\u00fcr den Junghackertag.Eine Anmeldung ist nicht n\u00f6tig, sei einfach rechtzeitig bei der Assembly.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
-                    "public_name": "DerMicha"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bengoshi",
-                    "public_name": "Bengoshi"
-                  }
-                ],
-                "links": [
-                  "https://coderdojo.c-base.org/"
-                ]
-              },
-              {
-                "id": 1317,
-                "guid": "06911640-a107-4a23-aea9-61f5fd03e1ce",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo",
-                "logo": null,
-                "date": "2019-12-28T22:00:00+01:00",
-                "start": "22:00",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1317-session_pentagame_dojo",
-                "title": "Pentagame Dojo",
-                "subtitle": "Just playin'",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "Just playing Pentagame\nPentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Penta",
-                    "public_name": "Penta"
-                  }
-                ],
-                "links": [
-                  "https://pentagame.org"
-                ]
-              },
-              {
-                "id": 1319,
-                "guid": "e0d50857-f0b6-42ef-8362-65eed1a9e6e5",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Turnier",
-                "logo": null,
-                "date": "2019-12-28T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "2:00",
-                "room": "C-base",
-                "slug": "36c3-1319-session_pentagame_turnier",
-                "title": "Pentagame Turnier",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "Wir spielen ein Pentagame Turnier.\nWir spielen ein Pentagame-Turnier! Ausreichend Spiele sind vorhanden.Das Spiel wird kurz vorher erkl\u00e4rt und ist echt einfach zu verstehen.Das Turnier steht ausdr\u00fccklich auch Anf\u00e4ngern und vor allem Teilnehmenden des Junghackertags offen.Es wird eine Gruppenphase und dann ein K.O.-Tunier der 8 besten geben.Ein Prototyp wird verlost unter jenen, die nicht die K.O.-Phase erreicht haben.Ein weiterer Prototyp geht als Preis an den Turniergewinner (neben Weltruhm, nat\u00fcrlich).Links zu Erkl\u00e4rvideos, Regeln usw. \u00fcber https://pentagame.org/.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Penta",
-                    "public_name": "Penta"
-                  }
-                ],
-                "links": [
-                  "https://pentagame.org/"
-                ]
-              },
-              {
-                "id": 1217,
-                "guid": "a7700e84-a4bb-481c-8bfc-452d221e2314",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Python_mit_dem_Lego_EVO3_Roboter",
-                "logo": null,
-                "date": "2019-12-28T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1217-session_python_mit_dem_lego_evo3_roboter",
-                "title": "Python mit dem Lego EVO3 Roboter",
-                "subtitle": "EVO3 Python f\u00fcr Anf\u00e4nger",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Wir zeigen Schul-Projekte und bieten Einsteigern Hilfe an.\nDie Roboter Werkstatt der Evangelischen Schule Berlin Zentrum zeigt ein paar mit Python umgesetzte Lego EVO3 Roboter Projekte. Teilnehmerinnen der Werkstatt werden Interessierten ihre Projekte zeigen und die ersten Schritte der Python Programmierung mit dem Lego EVO3 Roboter vermitteln.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
-                    "public_name": "DerMicha"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1343,
-                "guid": "e4fcda8b-2708-46ca-a831-99381bf843eb",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Was_kann_ich_tun,_um_umweltbewusster_und_klimaneutraler_zu_leben%3F",
-                "logo": null,
-                "date": "2019-12-28T15:30:00+01:00",
-                "start": "15:30",
-                "duration": "1:00",
-                "room": "C-base",
-                "slug": "36c3-1343-session_was_kann_ich_tun_um_umweltbewusster_und_klimaneutraler_zu_leben_",
-                "title": "Was kann ich tun, um umweltbewusster und klimaneutraler zu leben?",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Wie kann ich meine Welt verbessern?! \u2013 Niederschwellige Handlungsanweisungen\nEs gibt viele kompetente \u00c4u\u00dferungen zum Thema \"Handeln gegen den Klimawandel\", doch mir ist aufgefallen, dass es kaum kompakt zusammengefasste, einfach umzusetzende Beispiele aus der Praxis gibt. Internetportale bieten selbstverst\u00e4ndlich viele Informationen, die mit Zeitaufwand und Ausprobieren sehr hilfreich sein k\u00f6nnen. Doch mensch kann sich leicht verzetteln oder auf Grund der F\u00fclle und dem vorausgesetzten Wissen, schnell die Motivation verlieren. Deswegen m\u00f6chte ich M\u00f6glichkeiten aufzeigen, die einfach umzusetzen sind.Diese Praxisbeispiele sind aus fast allen Lebensbereichen, so nimmt z.B. unsere Nutzung von elektronischen Ger\u00e4ten gro\u00dfen Raum ein. Hier f\u00e4llt uns der Verzicht und die Ver\u00e4nderung des Verhaltens schwer \u2013 verst\u00e4ndlicherweise. Unser Konsumverhalten ist nicht nur an dieser Stelle der Knackpunkt. Ern\u00e4hrung, Reisen, K\u00f6rperpflege etc. k\u00f6nnen ressourcenschonender gelebt werden. Das l\u00e4sst sich allerdings nicht ohne einen teilweisen Verzicht auf unsere bisherige Bequemlichkeit umsetzen. Dabei stellt sich die Frage nach der Reflexion unserer bisherigen Gewohnheiten, des Willens zur Ver\u00e4nderung und eines wirklichen Anfangs. Hier m\u00f6chte ich mit der Vorstellung niederschwelliger Beispiele aus der Praxis Einstiege bieten.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Atoll",
-                    "public_name": "Atoll"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1190,
-                "guid": "685c4e66-f482-42c4-946c-70dbe296d900",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
-                "logo": null,
-                "date": "2019-12-28T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1190-session_werewolf",
-                "title": "Werewolf",
-                "subtitle": "Werewolf Day 2",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "Werewolf, the (roleplaying)(card)game\nWe will play \"Les Loups-Garous de Thiercelieux\" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
-                    "public_name": "Haurane"
-                  }
-                ],
-                "links": []
-              }
-            ],
             "Seminar room 14-15": [
               {
                 "id": 1058,
@@ -7101,6 +7127,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alvar_Freude",
                     "public_name": "Alvar Freude"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:BerndCon": [
+              {
+                "id": 1551,
+                "guid": "26ac2f1e-0cdc-4458-bd54-3355a994f104",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Drachenlord_Autogrammstunde",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Assembly:BerndCon",
+                "slug": "36c3-1551-session_drachenlord_autogrammstunde",
+                "title": "Drachenlord Autogrammstunde",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Autogrammstunde mit Rainer Winkler\nNachdem der Lard auf Einladung heuer das erste mal zum C3 kommt und an einem LightningTalk zum Thema cybermobbing partizipiert, darf auch eine Autogrammstunde f\u00fcr Fans nicht fehlen!Hater unerw\u00fcnscht!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CB6BOB",
+                    "public_name": "CB6BOB"
                   }
                 ],
                 "links": []

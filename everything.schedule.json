@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.12; chaoszone 0.7; komona 0.12; sendezentrum 2.6; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 17:50",
+    "version": "hexdump; lounges 000; chaos-west 1.0; open-infra _15; wikipaka 0.12; chaoszone 0.7; komona 0.12; sendezentrum 2.7; lightning Europium; art-play 0.24; cdc 3; wiki 2019-12-27 18:00",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -16663,45 +16663,6 @@
             ],
             "Sendetisch": [
               {
-                "id": 886,
-                "guid": "8115abea-d1c8-59a6-8060-8f773de66a5d",
-                "logo": "/media/36c3/images/AHFVXQ/_q-RxbLK.jpg",
-                "date": "2019-12-28T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "01:00",
-                "room": "Sendetisch",
-                "slug": "AHFVXQ",
-                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/AHFVXQ/",
-                "title": "Star Wars - War wars",
-                "subtitle": "",
-                "track": "Sendetisch",
-                "type": "Normale L\u00e4nge",
-                "language": "de",
-                "abstract": "Die Saga geht zu Ende. Christiane Attig und ich lassen die letzte Episode 9 und alle vorherigen Revue passieren.",
-                "description": "Die Saga geht zu Ende. Christiane Attig und ich lassen die letzte Episode 9 und alle vorherigen Revue passieren.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 5,
-                    "code": "RC9QLV",
-                    "public_name": "Jenny",
-                    "biography": "Ich mache den Einmischen Podcast und besch\u00e4ftige mich jede Woche mit Politik. Habe Spass bei Fussballpodcast Polikick und lese mit Frank f\u00fcr andere Wahlkampfprogramme im WahllokalOst.",
-                    "answers": []
-                  },
-                  {
-                    "id": 106,
-                    "code": "G99VEN",
-                    "public_name": "Christiane Attig",
-                    "biography": "Christiane Attig ist Psychologin, forscht an der Technischen Universit\u00e4t Chemnitz im Bereich Mensch-Technik-Interaktion und ist viel besch\u00e4ftigte Podcasterin.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
                 "id": 911,
                 "guid": "3cbb9a0d-f52e-541d-80b0-f8436469a0c1",
                 "logo": "",
@@ -27791,6 +27752,45 @@
                     "code": "L9QWSG",
                     "public_name": "Angbor3D",
                     "biography": "Ich bin Cohost beim Sunday Moaning Cast, Wasn Krach und bin hier und da gerne auch mal in anderer Leute Podcast auf (zum Bespiel bei den Desperate House Hackers). Ansonsten tauche ich hier und da bei Veranstaltungen auf und mache da als Ansgar die Tontechnik. (Meine Verf\u00fcgbarkeit ist derzeit noch etwas unklar und h\u00e4ngt stark vom B\u00fchnenprogramm der Sendezentrumsb\u00fchne ab)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 886,
+                "guid": "8115abea-d1c8-59a6-8060-8f773de66a5d",
+                "logo": "/media/36c3/images/AHFVXQ/_q-RxbLK.jpg",
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:00",
+                "room": "Sendetisch",
+                "slug": "AHFVXQ",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/AHFVXQ/",
+                "title": "Star Wars - War wars",
+                "subtitle": "",
+                "track": "Sendetisch",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Die Saga geht zu Ende. Christiane Attig und ich lassen die letzte Episode 9 und alle vorherigen Revue passieren.",
+                "description": "Die Saga geht zu Ende. Christiane Attig und ich lassen die letzte Episode 9 und alle vorherigen Revue passieren.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 5,
+                    "code": "RC9QLV",
+                    "public_name": "Jenny",
+                    "biography": "Ich mache den Einmischen Podcast und besch\u00e4ftige mich jede Woche mit Politik. Habe Spass bei Fussballpodcast Polikick und lese mit Frank f\u00fcr andere Wahlkampfprogramme im WahllokalOst.",
+                    "answers": []
+                  },
+                  {
+                    "id": 106,
+                    "code": "G99VEN",
+                    "public_name": "Christiane Attig",
+                    "biography": "Christiane Attig ist Psychologin, forscht an der Technischen Universit\u00e4t Chemnitz im Bereich Mensch-Technik-Interaktion und ist viel besch\u00e4ftigte Podcasterin.",
                     "answers": []
                   }
                 ],

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 15; wikipaka 0.14; chaoszone 0.7; komona 0.17; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3; wiki 2019-12-27 23:10",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 16; wikipaka 0.14; chaoszone 0.7; komona 0.17; sendezentrum 2.8; lightning Gadolinium; art-play 0.24; cdc 3; wiki 2019-12-27 23:30",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -15680,6 +15680,38 @@
                 "answers": []
               },
               {
+                "id": 398,
+                "guid": "77238540-41c1-5b75-b71c-b28bdbf88947",
+                "logo": "/media/36c3-oio/images/7JFMUK/IMG_4290_ZNCjmAM.jpeg",
+                "date": "2019-12-28T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "01:00",
+                "room": "OIO Workshop Dome",
+                "slug": "7JFMUK",
+                "url": "https://talks.oio.social/36c3-oio/talk/7JFMUK/",
+                "title": "KNX / OpenHAB Selbsthilfegruppe",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 1 hour",
+                "language": "de",
+                "abstract": "KNX ist toll, zusammen mit OpenHAB sind die M\u00f6glichkeiten unendlich. Wir tauschen uns \u00fcber Automatisierungsideen aus und sprechen \u00fcber best practices.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 162,
+                    "code": "3VHWHV",
+                    "public_name": "Melle",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 375,
                 "guid": "5634bc77-b6ad-52ae-88c5-c059cfcebb8e",
                 "logo": "",
@@ -21071,6 +21103,112 @@
                 "links": []
               }
             ],
+            "Assembly:Open Infrastructure Orbit": [
+              {
+                "id": 1588,
+                "guid": "67664c57-de48-4070-b60e-040e25d4973d",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:KNX_/_OpenHAB_Selbsthilfegruppe",
+                "logo": null,
+                "date": "2019-12-28T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "1:00",
+                "room": "Assembly:Open Infrastructure Orbit",
+                "slug": "36c3-1588-session_knx_openhab_selbsthilfegruppe",
+                "title": "KNX / OpenHAB Selbsthilfegruppe",
+                "subtitle": "KNX ist toll, zusammen mit OpenHAB sind die M\u00f6glichkeiten unendlich. Wir tauschen uns \u00fcber Automatisierungsideen aus und sprechen \u00fcber best practices.",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "KNX / OpenHAB Ideenaustausch\nObacht: Der Slot ist noch nicht vom OIO best\u00e4tigt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Melle",
+                    "public_name": "Melle"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1418,
+                "guid": "12f80390-7337-458f-88a7-ecadc78430a7",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Nudeln_hacken_-_Wettbewerb_f%C3%BCr_Junghacker_von_5_Jahren_bis_%E2%88%9E_(Session_A)",
+                "logo": null,
+                "date": "2019-12-28T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "1:00",
+                "room": "Assembly:Open Infrastructure Orbit",
+                "slug": "36c3-1418-session_nudeln_hacken_wettbewerb_fuer_junghacker_von_5_jahren_bis_session_a_",
+                "title": "Nudeln hacken - Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e (Session A)",
+                "subtitle": "Nudel Hacken",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e\nSpa\u00df am Ger\u00e4t: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, k\u00f6nnen alleine oder als Team kommen. Es kann jeder mitmachen, der wei\u00df, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene d\u00fcrfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Stefan",
+                    "public_name": "Stefan"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1419,
+                "guid": "57822e80-e488-4645-a810-1fd53287f2de",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Nudeln_hacken_-_Wettbewerb_f%C3%BCr_Junghacker_von_5_Jahren_bis_%E2%88%9E_(Session_B)",
+                "logo": null,
+                "date": "2019-12-28T11:30:00+01:00",
+                "start": "11:30",
+                "duration": "1:00",
+                "room": "Assembly:Open Infrastructure Orbit",
+                "slug": "36c3-1419-session_nudeln_hacken_wettbewerb_fuer_junghacker_von_5_jahren_bis_session_b_",
+                "title": "Nudeln hacken - Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e (Session B)",
+                "subtitle": "Nudel Hacken",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "de",
+                "abstract": "",
+                "description": "Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e\nSpa\u00df am Ger\u00e4t: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, k\u00f6nnen alleine oder als Team kommen. Es kann jeder mitmachen, der wei\u00df, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene d\u00fcrfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Stefan",
+                    "public_name": "Stefan"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1420,
+                "guid": "9d4cd80c-7c7e-42dc-8546-31f1b3aec249",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Trotz_Schule_die_Zukunft_meistern%3F",
+                "logo": null,
+                "date": "2019-12-28T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "1:00",
+                "room": "Assembly:Open Infrastructure Orbit",
+                "slug": "36c3-1420-session_trotz_schule_die_zukunft_meistern_",
+                "title": "Trotz Schule die Zukunft meistern?",
+                "subtitle": "Trotz Schule die Zukunft meistern? - Mitmach-Workshop f\u00fcr Menschen von 10-100 Jahre",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Mitmach-Workshop f\u00fcr Menschen von 10-100 Jahre\nIn einem Workshop \u00fcberlegen Sch\u00fcler*innen gemeinsam mit anderen, wie man sich auf Berufe vorbereitet, die es heute noch gar nicht gibt. Und warum das eigene Smartphone- und Social-Media-Verhalten einem die Zukunft rettet statt sie zu vergeigen.Die Sch\u00fcler*innen von heute werden sp\u00e4ter Jobs machen, von denen es 65% heute noch gar nicht gibt - sagt eine Studie, der OECD. Die OECD hat auch Thesen aufgestellt worauf es in der Zukunft ankommt. Da werden Punkte wie \"Problem l\u00f6sen/kritisches Denken\" oder \"Kreativit\u00e4t\" genannt und pers\u00f6nliche Eigentschaften wie \"Neugierde\", \"Initiative\" oder \"Ausdauer/Entschlossenheit\" aufgelistet. Bereitet einen die Schule wirklich auf so was vor, oder sind die Lernwelten nicht viel gr\u00f6\u00dfer. Wie ist ein Besuch des 36C3 einzuordnen? Wie \"wird man neugierig\"?Der Workshop wird besonders lebendig, wenn verschiedene Altergruppen/ Generationen teilnehmen. Wenn es allerdings eng im Raum wird, werden Sch\u00fcler*innen bevorzugt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Stefan",
+                    "public_name": "Stefan"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Studio Datsche": [
               {
                 "id": 1554,
@@ -21317,86 +21455,6 @@
                 "links": [
                   "http://nixos.org"
                 ]
-              }
-            ],
-            "Assembly:Open Infrastructure Orbit": [
-              {
-                "id": 1418,
-                "guid": "12f80390-7337-458f-88a7-ecadc78430a7",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Nudeln_hacken_-_Wettbewerb_f%C3%BCr_Junghacker_von_5_Jahren_bis_%E2%88%9E_(Session_A)",
-                "logo": null,
-                "date": "2019-12-28T15:30:00+01:00",
-                "start": "15:30",
-                "duration": "1:00",
-                "room": "Assembly:Open Infrastructure Orbit",
-                "slug": "36c3-1418-session_nudeln_hacken_wettbewerb_fuer_junghacker_von_5_jahren_bis_session_a_",
-                "title": "Nudeln hacken - Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e (Session A)",
-                "subtitle": "Nudel Hacken",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e\nSpa\u00df am Ger\u00e4t: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, k\u00f6nnen alleine oder als Team kommen. Es kann jeder mitmachen, der wei\u00df, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene d\u00fcrfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Stefan",
-                    "public_name": "Stefan"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1419,
-                "guid": "57822e80-e488-4645-a810-1fd53287f2de",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Nudeln_hacken_-_Wettbewerb_f%C3%BCr_Junghacker_von_5_Jahren_bis_%E2%88%9E_(Session_B)",
-                "logo": null,
-                "date": "2019-12-28T11:30:00+01:00",
-                "start": "11:30",
-                "duration": "1:00",
-                "room": "Assembly:Open Infrastructure Orbit",
-                "slug": "36c3-1419-session_nudeln_hacken_wettbewerb_fuer_junghacker_von_5_jahren_bis_session_b_",
-                "title": "Nudeln hacken - Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e (Session B)",
-                "subtitle": "Nudel Hacken",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "de",
-                "abstract": "",
-                "description": "Wettbewerb f\u00fcr Junghacker von 5 Jahren bis \u221e\nSpa\u00df am Ger\u00e4t: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, k\u00f6nnen alleine oder als Team kommen. Es kann jeder mitmachen, der wei\u00df, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene d\u00fcrfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Stefan",
-                    "public_name": "Stefan"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1420,
-                "guid": "9d4cd80c-7c7e-42dc-8546-31f1b3aec249",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Trotz_Schule_die_Zukunft_meistern%3F",
-                "logo": null,
-                "date": "2019-12-28T13:30:00+01:00",
-                "start": "13:30",
-                "duration": "1:00",
-                "room": "Assembly:Open Infrastructure Orbit",
-                "slug": "36c3-1420-session_trotz_schule_die_zukunft_meistern_",
-                "title": "Trotz Schule die Zukunft meistern?",
-                "subtitle": "Trotz Schule die Zukunft meistern? - Mitmach-Workshop f\u00fcr Menschen von 10-100 Jahre",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Mitmach-Workshop f\u00fcr Menschen von 10-100 Jahre\nIn einem Workshop \u00fcberlegen Sch\u00fcler*innen gemeinsam mit anderen, wie man sich auf Berufe vorbereitet, die es heute noch gar nicht gibt. Und warum das eigene Smartphone- und Social-Media-Verhalten einem die Zukunft rettet statt sie zu vergeigen.Die Sch\u00fcler*innen von heute werden sp\u00e4ter Jobs machen, von denen es 65% heute noch gar nicht gibt - sagt eine Studie, der OECD. Die OECD hat auch Thesen aufgestellt worauf es in der Zukunft ankommt. Da werden Punkte wie \"Problem l\u00f6sen/kritisches Denken\" oder \"Kreativit\u00e4t\" genannt und pers\u00f6nliche Eigentschaften wie \"Neugierde\", \"Initiative\" oder \"Ausdauer/Entschlossenheit\" aufgelistet. Bereitet einen die Schule wirklich auf so was vor, oder sind die Lernwelten nicht viel gr\u00f6\u00dfer. Wie ist ein Besuch des 36C3 einzuordnen? Wie \"wird man neugierig\"?Der Workshop wird besonders lebendig, wenn verschiedene Altergruppen/ Generationen teilnehmen. Wenn es allerdings eng im Raum wird, werden Sch\u00fcler*innen bevorzugt.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Stefan",
-                    "public_name": "Stefan"
-                  }
-                ],
-                "links": []
               }
             ],
             "Assembly:Eco Hacker Farm": [
@@ -25879,6 +25937,32 @@
             ],
             "Seminar room 13": [
               {
+                "id": 1587,
+                "guid": "07acc243-0067-4aec-acac-af29c29cd8be",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:ADHS_-_Emotionen_%26_Probleme",
+                "logo": null,
+                "date": "2019-12-29T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "1:30",
+                "room": "Seminar room 13",
+                "slug": "36c3-1587-session_adhs_emotionen_probleme",
+                "title": "ADHS - Emotionen & Probleme",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "ADHS Treffen um Probleme und L\u00f6sungen auszutauschen\nInspiriert vom ADHS meetup am Tag 1 und der Menge der Dinge, die nicht besprochen w\u00fcrden, ein weiteres Treffen. Auch Leute die nicht beim meetup waren, sind herzlich eingeladen. Ich m\u00f6chte dieses Mal vor allem \u00fcber emotionale & soziale Schwierigkeiten sowie Arten damit umzugehen sprechen. Gerne k\u00f6nnen wir ebenso \u00fcber anderes quatschen, sofern die Zeit es zu l\u00e4sst.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Rebecca",
+                    "public_name": "Rebecca"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1350,
                 "guid": "5a4d6500-f96f-4e73-bab7-251c5d2f2b6f",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Behavioural_change_and_changing_habits",
@@ -27675,6 +27759,38 @@
                     "code": "8M8VKT",
                     "public_name": "Stefan, DK6TM",
                     "biography": "Funkamateur seit 2007, Amateurfunk Ausbildung seit mehr als 10 Jahren. \r\nWeiterbildung im Bereich Elektronik, L\u00f6ten, Antennenbau. Spezialgebiet Seminare f\u00fcr grundlegende Fertigkeiten, Schaltungstechnik und HF-Hardware. \r\nAutoradio-Arch\u00e4ologe (Restauration von antiken Autoradios)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 397,
+                "guid": "bb6418d6-4cc1-592d-b05f-05fdbae2df93",
+                "logo": "",
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "03:00",
+                "room": "OIO Solder Area",
+                "slug": "8WAMCB",
+                "url": "https://talks.oio.social/36c3-oio/talk/8WAMCB/",
+                "title": "OpenMPPT selbstgemacht",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Solder Workshop 2h",
+                "language": "de",
+                "abstract": "L\u00f6tet euren eigenen OpenMPPT!",
+                "description": "Es gibt nur eine begrenzte Anzahl an L\u00f6ts\u00e4tzen. Diese werden nach dem first-come-first-served-Prinzip vergeben.\r\n\r\nMehr Informationen findet ihr unter https://www.isems.de/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 57,
+                    "code": "HZ9WHF",
+                    "public_name": "Elektra Wagenrad",
+                    "biography": "FF-Activist since 2003.",
                     "answers": []
                   }
                 ],

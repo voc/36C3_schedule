@@ -1,5 +1,5 @@
 <schedule>
-  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 15:20</version>
+  <version>getopt; lounges 000; chaos-west 1.0; open-infra 14; wikipaka 0.10-final-v2-nachtrag; chaoszone 0.7; komona 0.11; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 15:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3055,29 +3055,6 @@ This meeting is used for the distribution of shifts for the Translation team.</d
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1411" guid="88fb30e0-59f2-4034-92b6-f35e11c24d65">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices</url>
-        <logo/>
-        <date>2019-12-27T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>1:30</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1411-session_creating_z_wave_controllers_and_devices</slug>
-        <title>Creating Z-Wave controllers and devices</title>
-        <subtitle>room might change - check before joining us!!!</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Hacking around Z-Wave smart home protocol
-Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
-        <persons>
-          <person id="0">PoltoS</person>
-        </persons>
-        <links>
-          <link>http://z-uno.z-wave.me</link>
-        </links>
-      </event>
       <event id="1072" guid="c6a9ec39-ea7c-497b-befd-c2f86b7dc44f">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Improv_Theater/_Applied_Improvisation</url>
         <logo/>
@@ -3114,7 +3091,7 @@ Come join us for a joyful session with some improvisational theater training act
         <language>en</language>
         <abstract/>
         <description>An overview to writing and studying Japanese from zero to native comprehension.
-This is for everyone eager to get started in Japanese reading and writing or get a few ideas on how to improve.      No knowledge of Japanese required, we will start from scratch. '''Please bring a pen and some paper to try some writing.'''      What we'll discuss:   * What Japanese writing is made up of und which symbols are used for what purposes.   * The most basic Japanese symbols, Hiragana and Katakana and try writing a few ourselves while also experiencing the ridiculously simple pronunciation. With that we can already read our first few words.   * How to study Japanese in general   * Why adults have a hard time reading texts made for children and why Japanese writing is a huge mess   * The next step would be studying around 2000 Kanji, but we will just try writing a few, talk about the wacky world of reading Japanese texts with Kanji and how they are a complete mess and close the Workshop with looking at a method to get them into your head within half a year. The presented method for studying Kanji will be the Heisig method using koohii and Anki for best results in properly understanding the Kanji.   After this course and a few more minutes-hours of studying you will be ready to read a few easy Japanese children's books.      Soon there will be a few useful links here to use after the session:   ...</description>
+This is for everyone eager to get started in Japanese reading and writing or get a few ideas on how to improve.      No knowledge of Japanese required, we will start from scratch. '''Please bring a pen and some paper to try some writing.'''      What we'll discuss:   * What Japanese writing is made up of und which symbols are used for what purposes.   * The most basic Japanese symbols, Hiragana and Katakana and try writing a few ourselves while also experiencing the ridiculously simple pronunciation. With that we can already read our first few words.   * How to study Japanese in general   * Why adults have a hard time reading texts made for children and why Japanese writing is a huge mess   * The next step would be studying around 2000 Kanji, but we will just try writing a few, talk about the wacky world of reading Japanese texts with Kanji and how they are a complete mess and close the Workshop with looking at a method to get them into your head within half a year. The presented method for studying Kanji will be the Heisig method using koohii and Anki for best results in properly understanding the Kanji.   After this course and a few more minutes-hours of studying you will be ready to read a few easy Japanese children's books.      Useful stuff:* search for "Hiragana Chart" or "Katakana Chart" or "Hiragana chart stroke order" or "Katakana chart stroke order" to get all sorts of useful charts* Recommended Textbooks for studying Japanese: "Genki I" and "Genki II"* a detailed explanation of the Heisig method to study all the Kanji and an introduction to using Anki to do that. There is also a deck there to download with the best koohii stories up to 2015, but it needs some adjustments to be really useful: https://nihongoshark.com/learn-kanji/* Anki's website: https://apps.ankiweb.net/ for Android look for AnkiDroid and for iOS look for AnkiMobile (or something like that)* Kanji deck from above post from NihongoShark.com: https://ankiweb.net/shared/info/1956010956* Kanji deck from NihongoShark with adjustments as I would study them (only Kanji to meaning, no information that is too much): https://megastore.uni-augsburg.de/get/E27FHb56Fe/* the koohii Community: https://kanji.koohii.com/ (&lt;- not a page I used or visit, but that's where the stories are from for the deck)* Tae Kim's Complete Guide to Japanese: http://www.guidetojapanese.org/learn/complete/ &lt;- also pretty nice, I read through this one (on my phone, there is an android app of it) after finishing Genki I and Genki IIIf anything you wanted to see here is missing, write me an e-mail: alex.m.s@gmx.de</description>
         <persons>
           <person id="0">Taulex</person>
         </persons>
@@ -6933,6 +6910,31 @@ For more information please refer to the foodhackingbase wiki page: https://food
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Whisky_tasting_36c3</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:CriticalDecentralisationCluster">
+      <event id="1411" guid="88fb30e0-59f2-4034-92b6-f35e11c24d65">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:CriticalDecentralisationCluster</room>
+        <slug>36c3-1411-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle>room has changed!</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol
+Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
+        <persons>
+          <person id="0">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
         </links>
       </event>
     </room>
@@ -11667,7 +11669,7 @@ This talk is about a set of (mainly european) conceptions of sustainability whic
         <room>Seminar room 14-15</room>
         <slug>36c3-1412-session_creating_z_wave_controllers_and_devices</slug>
         <title>Creating Z-Wave controllers and devices</title>
-        <subtitle>room might change - check before joining us!!!</subtitle>
+        <subtitle>room and time might change - check before joining us!!!</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
@@ -12107,7 +12109,7 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <language>de</language>
         <abstract/>
         <description>Hacking everyday communication practices to change the world
-Workshop Description: &lt;br&gt;This workshop is similar to the one we did at CCCamp earlier in 2019. Our aim is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fixing it. &lt;br&gt;About the Project: &lt;br&gt;"Accessibility sounds great, but where do I start?" –Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too! &lt;br&gt;This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in fixing those issues.</description>
+Workshop Description: &lt;br&gt;The aim of this workshop is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fixing it. Hacker culture is meant for curious people to experience and experiment with new things: technologies, cultures, and sometimes their different selves. But openness doesn't automatically lead to accessibility and inclusion – we have to make it happen ourselves! This session is similar to the one we did at CCCamp earlier in 2019. &lt;br&gt;About the Project: &lt;br&gt;"Accessibility sounds great, but where do I start?" –Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too! &lt;br&gt;This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in changing the world in small steps – starting with ourselves and the needs of members in our communities.</description>
         <persons>
           <person id="0">Erdbeerblau</person>
           <person id="0">Vishnee</person>

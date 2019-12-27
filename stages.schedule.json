@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; lounges 000; chaos-west 1.0; open-infra 12; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3",
+    "version": "find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -15698,6 +15698,38 @@
             ],
             "OIO Stage": [
               {
+                "id": 357,
+                "guid": "35f647fc-1849-5194-a354-2e855e7a642d",
+                "logo": "/media/36c3-oio/images/SHDVXB/t1-engine_pvMnznO.jpg",
+                "date": "2019-12-29T13:50:00+01:00",
+                "start": "13:50",
+                "duration": "00:45",
+                "room": "OIO Stage",
+                "slug": "SHDVXB",
+                "url": "https://talks.oio.social/36c3-oio/talk/SHDVXB/",
+                "title": "Raumfahrtantriebe",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Talk 20 minutes + 5 minutes Q&A",
+                "language": "de",
+                "abstract": "Wie kommt man eigentlich in den Weltraum und was ist an so ein bisschen Schub so kompliziert *?\r\n\r\nWarum sehen Raumfahrtantriebe so aus wie sie sind und was wird sich mit \"New Space\" alles \u00e4ndern?\r\n\r\n\r\n(*)insert rocket science joke here",
+                "description": "Preview\r\n1. Wie erzeugt man Schub?\r\n-\tWas ist eine Raketenmotor -triebwerk?\r\n-\tWarum fliegen Flaschenraketen mit Wasser h\u00f6her?\r\n\r\n2. Feststoffraketen\r\n-\tFeuerwerk, Modellbau oder Shuttle Booster\r\n-\tBrennprofile\r\n\r\n3. Fl\u00fcssigraketen\r\n-\tGoddards erste Versuche\r\n-\tKomplex, teuer, fehleranf\u00e4llig und warum wir trotzdem Fl\u00fcssigtreibstoffe nutzen\r\n3.1. Brennkammer\r\n-\tAufbau und Eigenschaften\r\n3.2. Turbopumpen\r\n-\tWie kommt der Treibstoff und Oxidator in die Brennkammer\r\n3.3. D\u00fcsen\r\n-\twarum \u00fcberhaupt D\u00fcsen und warum sehen sie so aus wie sie sind\r\n-\tAerospike\r\n3.4. Treibstoffe\r\n-\tEin wenig Chemie.  Mono-, Bi- und Tritreibstoff \r\n3.5. 5,4 all engines running,2,1,0 lift off\r\n-\tWie man eine Rakete startet Soyuz, Titan II, Delta 4 und das Space-Shuttle\r\n4. Hybridraketen\r\n-\tDie Komplexit\u00e4t einer Fl\u00fcssigrakete mit den Nachteilen einer Feststoffrakete\r\n5. Ionenantrieb\r\n-\tWenig Schub aber hoher Impuls \r\n-\tAufbau und Eigenschaften\r\n6. Solar Sail\r\n-\tEin Segel spannen und mit dem Sonnenwind dahingleiten\r\n7. Nuklearantriebe\r\n-\tEin fliegender Kernreaktor, was kann da schon schief gehen?\r\n-\tin 200 Tagen zum Mars und zur\u00fcck",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 127,
+                    "code": "H3NCWF",
+                    "public_name": "\u00c4pex",
+                    "biography": "armchair rocket scientists.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 392,
                 "guid": "890b2813-ef91-586d-a738-ce01b4b93861",
                 "logo": "/media/36c3-oio/images/V7HNKR/Screenshot_from_2019-12-18_17-29-47_qVAm402.png",
@@ -15897,30 +15929,30 @@
                 "answers": []
               },
               {
-                "id": 357,
-                "guid": "35f647fc-1849-5194-a354-2e855e7a642d",
-                "logo": "/media/36c3-oio/images/SHDVXB/t1-engine_pvMnznO.jpg",
-                "date": "2019-12-29T21:30:00+01:00",
-                "start": "21:30",
+                "id": 391,
+                "guid": "8aef09de-ff38-533d-b9e7-ff0e3a437031",
+                "logo": "/media/36c3-oio/images/3L7Q7W/Bildschirmfoto_2019-12-26_um_00.19.18_K5ls0Qg.png",
+                "date": "2019-12-29T21:20:00+01:00",
+                "start": "21:20",
                 "duration": "00:25",
                 "room": "OIO Stage",
-                "slug": "SHDVXB",
-                "url": "https://talks.oio.social/36c3-oio/talk/SHDVXB/",
-                "title": "Raumfahrtantriebe",
+                "slug": "3L7Q7W",
+                "url": "https://talks.oio.social/36c3-oio/talk/3L7Q7W/",
+                "title": "DOT. The LED Cube",
                 "subtitle": "",
                 "track": "Hardware & Making",
                 "type": "Talk 20 minutes + 5 minutes Q&A",
                 "language": "de",
-                "abstract": "Wie kommt man eigentlich in den Weltraum und was ist an so ein bisschen Schub so kompliziert *?\r\n\r\nWarum sehen Raumfahrtantriebe so aus wie sie sind und was wird sich mit \"New Space\" alles \u00e4ndern?\r\n\r\n\r\n(*)insert rocket science joke here",
-                "description": "Preview\r\n1. Wie erzeugt man Schub?\r\n-\tWas ist eine Raketenmotor -triebwerk?\r\n-\tWarum fliegen Flaschenraketen mit Wasser h\u00f6her?\r\n\r\n2. Feststoffraketen\r\n-\tFeuerwerk, Modellbau oder Shuttle Booster\r\n-\tBrennprofile\r\n\r\n3. Fl\u00fcssigraketen\r\n-\tGoddards erste Versuche\r\n-\tKomplex, teuer, fehleranf\u00e4llig und warum wir trotzdem Fl\u00fcssigtreibstoffe nutzen\r\n3.1. Brennkammer\r\n-\tAufbau und Eigenschaften\r\n3.2. Turbopumpen\r\n-\tWie kommt der Treibstoff und Oxidator in die Brennkammer\r\n3.3. D\u00fcsen\r\n-\twarum \u00fcberhaupt D\u00fcsen und warum sehen sie so aus wie sie sind\r\n-\tAerospike\r\n3.4. Treibstoffe\r\n-\tEin wenig Chemie.  Mono-, Bi- und Tritreibstoff \r\n3.5. 5,4 all engines running,2,1,0 lift off\r\n-\tWie man eine Rakete startet Soyuz, Titan II, Delta 4 und das Space-Shuttle\r\n4. Hybridraketen\r\n-\tDie Komplexit\u00e4t einer Fl\u00fcssigrakete mit den Nachteilen einer Feststoffrakete\r\n5. Ionenantrieb\r\n-\tWenig Schub aber hoher Impuls \r\n-\tAufbau und Eigenschaften\r\n6. Solar Sail\r\n-\tEin Segel spannen und mit dem Sonnenwind dahingleiten\r\n7. Nuklearantriebe\r\n-\tEin fliegender Kernreaktor, was kann da schon schief gehen?\r\n-\tin 200 Tagen zum Mars und zur\u00fcck",
+                "abstract": "Ein W\u00fcrfel der einem Jahre seines Lebens kostet... und h\u00fcbsch leuchtet... :D",
+                "description": "Ein W\u00fcrfel der auf allen Seiten mit LEDs best\u00fcckt ist. Mit insgesamt 24.576 davon lassen sich nicht nur coole Animationen anzeigen sondern auch Laufschriften, Grafiken und vieles mehr. Zudem kann man auf dem W\u00fcrfel Spiele spielen oder Programmieren lernen und seiner Kreativit\u00e4t freien Lauf lassen. \r\nWie entstand die Idee, was steckt alles drin, was k\u00f6nnt ihr damit machen, wo soll's hin gehen, wie k\u00f6nnt ihr mitmachen,... kl\u00e4ren wir alles dann. :)",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 127,
-                    "code": "H3NCWF",
-                    "public_name": "\u00c4pex",
-                    "biography": "armchair rocket scientists.",
+                    "id": 155,
+                    "code": "NWBUSF",
+                    "public_name": "Hannes Vatter",
+                    "biography": null,
                     "answers": []
                   }
                 ],

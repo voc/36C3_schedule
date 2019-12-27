@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; lounges 000; chaos-west 1.0; open-infra 12; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 01:20</version>
+  <version>find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.6; chaoszone 0.6; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 01:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -19949,6 +19949,69 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
       </event>
     </room>
     <room name="OIO Stage">
+      <event id="357" guid="35f647fc-1849-5194-a354-2e855e7a642d">
+        <logo>/media/36c3-oio/images/SHDVXB/t1-engine_pvMnznO.jpg</logo>
+        <date>2019-12-29T13:50:00+01:00</date>
+        <start>13:50</start>
+        <duration>00:45</duration>
+        <room>OIO Stage</room>
+        <slug>SHDVXB</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/SHDVXB/</url>
+        <title>Raumfahrtantriebe</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Wie kommt man eigentlich in den Weltraum und was ist an so ein bisschen Schub so kompliziert *?&#13;
+&#13;
+Warum sehen Raumfahrtantriebe so aus wie sie sind und was wird sich mit "New Space" alles ändern?&#13;
+&#13;
+&#13;
+(*)insert rocket science joke here</abstract>
+        <description>Preview&#13;
+1. Wie erzeugt man Schub?&#13;
+-	Was ist eine Raketenmotor -triebwerk?&#13;
+-	Warum fliegen Flaschenraketen mit Wasser höher?&#13;
+&#13;
+2. Feststoffraketen&#13;
+-	Feuerwerk, Modellbau oder Shuttle Booster&#13;
+-	Brennprofile&#13;
+&#13;
+3. Flüssigraketen&#13;
+-	Goddards erste Versuche&#13;
+-	Komplex, teuer, fehleranfällig und warum wir trotzdem Flüssigtreibstoffe nutzen&#13;
+3.1. Brennkammer&#13;
+-	Aufbau und Eigenschaften&#13;
+3.2. Turbopumpen&#13;
+-	Wie kommt der Treibstoff und Oxidator in die Brennkammer&#13;
+3.3. Düsen&#13;
+-	warum überhaupt Düsen und warum sehen sie so aus wie sie sind&#13;
+-	Aerospike&#13;
+3.4. Treibstoffe&#13;
+-	Ein wenig Chemie.  Mono-, Bi- und Tritreibstoff &#13;
+3.5. 5,4 all engines running,2,1,0 lift off&#13;
+-	Wie man eine Rakete startet Soyuz, Titan II, Delta 4 und das Space-Shuttle&#13;
+4. Hybridraketen&#13;
+-	Die Komplexität einer Flüssigrakete mit den Nachteilen einer Feststoffrakete&#13;
+5. Ionenantrieb&#13;
+-	Wenig Schub aber hoher Impuls &#13;
+-	Aufbau und Eigenschaften&#13;
+6. Solar Sail&#13;
+-	Ein Segel spannen und mit dem Sonnenwind dahingleiten&#13;
+7. Nuklearantriebe&#13;
+-	Ein fliegender Kernreaktor, was kann da schon schief gehen?&#13;
+-	in 200 Tagen zum Mars und zurück</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="127">Äpex</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="392" guid="890b2813-ef91-586d-a738-ce01b4b93861">
         <logo>/media/36c3-oio/images/V7HNKR/Screenshot_from_2019-12-18_17-29-47_qVAm402.png</logo>
         <date>2019-12-29T14:45:00+01:00</date>
@@ -20119,64 +20182,28 @@ with activists in eastern european countries and asian cities.</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="357" guid="35f647fc-1849-5194-a354-2e855e7a642d">
-        <logo>/media/36c3-oio/images/SHDVXB/t1-engine_pvMnznO.jpg</logo>
-        <date>2019-12-29T21:30:00+01:00</date>
-        <start>21:30</start>
+      <event id="391" guid="8aef09de-ff38-533d-b9e7-ff0e3a437031">
+        <logo>/media/36c3-oio/images/3L7Q7W/Bildschirmfoto_2019-12-26_um_00.19.18_K5ls0Qg.png</logo>
+        <date>2019-12-29T21:20:00+01:00</date>
+        <start>21:20</start>
         <duration>00:25</duration>
         <room>OIO Stage</room>
-        <slug>SHDVXB</slug>
-        <url>https://talks.oio.social/36c3-oio/talk/SHDVXB/</url>
-        <title>Raumfahrtantriebe</title>
+        <slug>3L7Q7W</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/3L7Q7W/</url>
+        <title>DOT. The LED Cube</title>
         <subtitle/>
         <track>Hardware &amp; Making</track>
         <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
         <language>de</language>
-        <abstract>Wie kommt man eigentlich in den Weltraum und was ist an so ein bisschen Schub so kompliziert *?&#13;
-&#13;
-Warum sehen Raumfahrtantriebe so aus wie sie sind und was wird sich mit "New Space" alles ändern?&#13;
-&#13;
-&#13;
-(*)insert rocket science joke here</abstract>
-        <description>Preview&#13;
-1. Wie erzeugt man Schub?&#13;
--	Was ist eine Raketenmotor -triebwerk?&#13;
--	Warum fliegen Flaschenraketen mit Wasser höher?&#13;
-&#13;
-2. Feststoffraketen&#13;
--	Feuerwerk, Modellbau oder Shuttle Booster&#13;
--	Brennprofile&#13;
-&#13;
-3. Flüssigraketen&#13;
--	Goddards erste Versuche&#13;
--	Komplex, teuer, fehleranfällig und warum wir trotzdem Flüssigtreibstoffe nutzen&#13;
-3.1. Brennkammer&#13;
--	Aufbau und Eigenschaften&#13;
-3.2. Turbopumpen&#13;
--	Wie kommt der Treibstoff und Oxidator in die Brennkammer&#13;
-3.3. Düsen&#13;
--	warum überhaupt Düsen und warum sehen sie so aus wie sie sind&#13;
--	Aerospike&#13;
-3.4. Treibstoffe&#13;
--	Ein wenig Chemie.  Mono-, Bi- und Tritreibstoff &#13;
-3.5. 5,4 all engines running,2,1,0 lift off&#13;
--	Wie man eine Rakete startet Soyuz, Titan II, Delta 4 und das Space-Shuttle&#13;
-4. Hybridraketen&#13;
--	Die Komplexität einer Flüssigrakete mit den Nachteilen einer Feststoffrakete&#13;
-5. Ionenantrieb&#13;
--	Wenig Schub aber hoher Impuls &#13;
--	Aufbau und Eigenschaften&#13;
-6. Solar Sail&#13;
--	Ein Segel spannen und mit dem Sonnenwind dahingleiten&#13;
-7. Nuklearantriebe&#13;
--	Ein fliegender Kernreaktor, was kann da schon schief gehen?&#13;
--	in 200 Tagen zum Mars und zurück</description>
+        <abstract>Ein Würfel der einem Jahre seines Lebens kostet... und hübsch leuchtet... :D</abstract>
+        <description>Ein Würfel der auf allen Seiten mit LEDs bestückt ist. Mit insgesamt 24.576 davon lassen sich nicht nur coole Animationen anzeigen sondern auch Laufschriften, Grafiken und vieles mehr. Zudem kann man auf dem Würfel Spiele spielen oder Programmieren lernen und seiner Kreativität freien Lauf lassen. &#13;
+Wie entstand die Idee, was steckt alles drin, was könnt ihr damit machen, wo soll's hin gehen, wie könnt ihr mitmachen,... klären wir alles dann. :)</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="127">Äpex</person>
+          <person id="155">Hannes Vatter</person>
         </persons>
         <links/>
         <attachments/>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.6; chaoszone 0.7; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 06:50",
+    "version": "find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.7; chaoszone 0.7; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 07:20",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -5151,38 +5151,6 @@
             ],
             "WikiPaka WG: Bibliothek": [
               {
-                "id": 557,
-                "guid": "8207d911-c674-5812-b468-5fb943b97e2a",
-                "logo": "/media/36c3/images/BMNWW8/tux__linux__logo_circle_color_by_berradev_d7pynu4.png",
-                "date": "2019-12-27T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "00:42",
-                "room": "WikiPaka WG: Bibliothek",
-                "slug": "BMNWW8",
-                "url": "https://cfp.verschwoerhaus.de/36c3/talk/BMNWW8/",
-                "title": "Linux remixen - Ich back' mir eine Linux-Distro",
-                "subtitle": "",
-                "track": "Hardware & Making",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Linux-Distributionen gibt es wie Sand am Meer, warum also nicht noch eine mehr erstellen. In diesem Talk wird erkl\u00e4rt, wie man - von Einsteiger bis Fortgeschritten - eine eigene Linux-Dristro ertsellt und die Architektur betreibt.",
-                "description": "Der Schritt, eine eigene Linux-Distribution zu erstellen, mag gro\u00df erscheinen. Diese Barriere kann man schnell \u00fcberwinden. Eine eigene Linux-Drstribution l\u00e4ssit sich f\u00fcr Anf\u00e4nger auf Basis einer existierenden Distribution erstellen oder from Scratch. Beides wird in diesem Vortrag behandelt. Des weiteren werden wir darauf eingehen, wie sich die dazu notwendige Serverarchitektur auf betreiben l\u00e4sst und wie sich das Bauen und Paketieren automatisieren l\u00e4sst.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 66,
-                    "code": "AQV7JE",
-                    "public_name": "Der mit dem Zopf (The one with the braid)",
-                    "biography": "The one with the braid is a young hacker, mostly doing cross-platform development or Linux hacking.\r\nDer mit dem Zopf ist ein Junghacker*in, haupts\u00e4chlich in Cross-Platform-Entwicklung und Linux-GeHacke unterwegs.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": [],
-                "answers": []
-              },
-              {
                 "id": 577,
                 "guid": "81908e34-0cd2-5bf1-ad77-6825d8f96b56",
                 "logo": "",
@@ -5207,6 +5175,38 @@
                     "code": "RE9MSE",
                     "public_name": "Lucas Werkmeister",
                     "biography": "Software developer at Wikimedia Germany and all-time Wikidata enthusiast.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 557,
+                "guid": "8207d911-c674-5812-b468-5fb943b97e2a",
+                "logo": "/media/36c3/images/BMNWW8/tux__linux__logo_circle_color_by_berradev_d7pynu4.png",
+                "date": "2019-12-27T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "00:42",
+                "room": "WikiPaka WG: Bibliothek",
+                "slug": "BMNWW8",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/BMNWW8/",
+                "title": "Linux remixen - Ich back' mir eine Linux-Distro",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Linux-Distributionen gibt es wie Sand am Meer, warum also nicht noch eine mehr erstellen. In diesem Talk wird erkl\u00e4rt, wie man - von Einsteiger bis Fortgeschritten - eine eigene Linux-Dristro ertsellt und die Architektur betreibt.",
+                "description": "Der Schritt, eine eigene Linux-Distribution zu erstellen, mag gro\u00df erscheinen. Diese Barriere kann man schnell \u00fcberwinden. Eine eigene Linux-Drstribution l\u00e4ssit sich f\u00fcr Anf\u00e4nger auf Basis einer existierenden Distribution erstellen oder from Scratch. Beides wird in diesem Vortrag behandelt. Des weiteren werden wir darauf eingehen, wie sich die dazu notwendige Serverarchitektur auf betreiben l\u00e4sst und wie sich das Bauen und Paketieren automatisieren l\u00e4sst.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 66,
+                    "code": "AQV7JE",
+                    "public_name": "Der mit dem Zopf (The one with the braid)",
+                    "biography": "The one with the braid is a young hacker, mostly doing cross-platform development or Linux hacking.\r\nDer mit dem Zopf ist ein Junghacker*in, haupts\u00e4chlich in Cross-Platform-Entwicklung und Linux-GeHacke unterwegs.",
                     "answers": []
                   }
                 ],

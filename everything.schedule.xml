@@ -1,5 +1,5 @@
 <schedule>
-  <version>find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.6; chaoszone 0.7; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 06:50</version>
+  <version>find; lounges 000; chaos-west 1.0; open-infra 13; wikipaka 0.7; chaoszone 0.7; komona 0.8; sendezentrum 2.2; lightning Samarium; art-play 0.24; cdc 3; wiki 2019-12-27 07:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -4714,32 +4714,6 @@ Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at
       </event>
     </room>
     <room name="WikiPaka WG: Bibliothek">
-      <event id="557" guid="8207d911-c674-5812-b468-5fb943b97e2a">
-        <logo>/media/36c3/images/BMNWW8/tux__linux__logo_circle_color_by_berradev_d7pynu4.png</logo>
-        <date>2019-12-27T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>00:42</duration>
-        <room>WikiPaka WG: Bibliothek</room>
-        <slug>BMNWW8</slug>
-        <url>https://cfp.verschwoerhaus.de/36c3/talk/BMNWW8/</url>
-        <title>Linux remixen - Ich back' mir eine Linux-Distro</title>
-        <subtitle/>
-        <track>Hardware &amp; Making</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Linux-Distributionen gibt es wie Sand am Meer, warum also nicht noch eine mehr erstellen. In diesem Talk wird erklärt, wie man - von Einsteiger bis Fortgeschritten - eine eigene Linux-Dristro ertsellt und die Architektur betreibt.</abstract>
-        <description>Der Schritt, eine eigene Linux-Distribution zu erstellen, mag groß erscheinen. Diese Barriere kann man schnell überwinden. Eine eigene Linux-Drstribution lässit sich für Anfänger auf Basis einer existierenden Distribution erstellen oder from Scratch. Beides wird in diesem Vortrag behandelt. Des weiteren werden wir darauf eingehen, wie sich die dazu notwendige Serverarchitektur auf betreiben lässt und wie sich das Bauen und Paketieren automatisieren lässt.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="66">Der mit dem Zopf (The one with the braid)</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="577" guid="81908e34-0cd2-5bf1-ad77-6825d8f96b56">
         <logo/>
         <date>2019-12-27T18:00:00+01:00</date>
@@ -4761,6 +4735,32 @@ Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at
         </recording>
         <persons>
           <person id="6">Lucas Werkmeister</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="557" guid="8207d911-c674-5812-b468-5fb943b97e2a">
+        <logo>/media/36c3/images/BMNWW8/tux__linux__logo_circle_color_by_berradev_d7pynu4.png</logo>
+        <date>2019-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:42</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>BMNWW8</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/BMNWW8/</url>
+        <title>Linux remixen - Ich back' mir eine Linux-Distro</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Linux-Distributionen gibt es wie Sand am Meer, warum also nicht noch eine mehr erstellen. In diesem Talk wird erklärt, wie man - von Einsteiger bis Fortgeschritten - eine eigene Linux-Dristro ertsellt und die Architektur betreibt.</abstract>
+        <description>Der Schritt, eine eigene Linux-Distribution zu erstellen, mag groß erscheinen. Diese Barriere kann man schnell überwinden. Eine eigene Linux-Drstribution lässit sich für Anfänger auf Basis einer existierenden Distribution erstellen oder from Scratch. Beides wird in diesem Vortrag behandelt. Des weiteren werden wir darauf eingehen, wie sich die dazu notwendige Serverarchitektur auf betreiben lässt und wie sich das Bauen und Paketieren automatisieren lässt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="66">Der mit dem Zopf (The one with the braid)</person>
         </persons>
         <links/>
         <attachments/>

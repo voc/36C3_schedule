@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 02:40</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 02:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -13143,7 +13143,7 @@ mountainfolds and valleyfolds and diagrams and how to read them.Folding simple o
         <language>de</language>
         <abstract/>
         <description>In this workshop, addressed at (absolute) beginners, you will get your feet wet in (Python) programming. Don't worry, everyone who wants to have a (first?) look at programming is welcome independently of their skills or background.
-[[File:Python-Programming-Beginners-LogoSmall.png|center]]''(While this abstract is in English, this workshop will be held either in English or German; depending on who wants to participate!)''This workshop is intended as a first introduction to (Python) programming '''for absolute beginners'''. While C3 traditionally is a 'tech/hacker conference', more and more people without a background in programming attend - as far as I'm concerned, this is awesome!While you certainly don't have to be a 'coder' to be a part of congress (or to be a hacker), programming is still fun, wonderfully creative, and also an extremely valuable skill. Don't be afraid to give it a go!Of course, by the end of this 90-minute workshop, you will not be a programmer. You will, however, have attempted a deep dive into (Python) programming, learned some basics, and set yourself up for further learning (if you choose to do so).'''About Me'''&lt;br&gt;My name is Ingo, and I'm currently working at Heidelberg University as a computational/corpus linguist and teacher educator. I'm particularly involved with teacher education/training and foreign language teaching.My love for Python stems from my work as a (computational) linguist and various projects I've been involved with. :)'''Required Previous Knowledge'''&lt;br&gt;No previous knowledge is required!'''Technical Requirements'''&lt;br&gt;If you want to participate actively (i.e., code along), you should bring a device that is capable of running a modern browser and has Internet access. Being able to type comfortably is also recommended ;). Alternatively, any device capable of running Python 3.6+ (ideally in a Jupyter Notebook) will do just fine!'''Material'''&lt;br&gt;All material (e.g., slides) will be provided on this page after the workshop. Please also check back here a day before the workshop because I will provide some additional material useful for active participation.Ps. This is a slightly updated version of the workshop(s) I gave at 35c3 last year.</description>
+[[File:Python-Programming-Beginners-LogoSmall.png|center]]''(While this abstract is in English, this workshop will be held either in English or German; depending on who wants to participate!)'''''Be aware:''' This is ''NOT'' a session for experienced developers who want to learn Python. This session is intended for beginners with little to no experience programming!This workshop is intended as a first introduction to (Python) programming '''for absolute beginners'''. While C3 traditionally is a 'tech/hacker conference', more and more people without a background in programming attend - as far as I'm concerned, this is awesome!While you certainly don't have to be a 'coder' to be a part of congress (or to be a hacker), programming is still fun, wonderfully creative, and also an extremely valuable skill. Don't be afraid to give it a go!Of course, by the end of this 90-minute workshop, you will not be a programmer. You will, however, have attempted a deep dive into (Python) programming, learned some basics, and set yourself up for further learning (if you choose to do so).'''About Me'''&lt;br&gt;My name is Ingo, and I'm currently working at Heidelberg University as a computational/corpus linguist and teacher educator. I'm particularly involved with teacher education/training and foreign language teaching.My love for Python stems from my work as a (computational) linguist and various projects I've been involved with. :)'''Required Previous Knowledge'''&lt;br&gt;No previous knowledge is required!'''Technical Requirements'''&lt;br&gt;If you want to participate actively (i.e., code along), you should bring a device that is capable of running a modern browser and has Internet access. Being able to type comfortably is also recommended ;). Alternatively, any device capable of running Python 3.6+ (ideally in a Jupyter Notebook) will do just fine!'''Material'''&lt;br&gt;All material (e.g., slides) will be provided on this page after the workshop. Please also check back here a day before the workshop because I will provide some additional material useful for active participation.You can find all material in this [https://github.com/IngoKl/36c3-workshops GitHub repository]. If you want to code along in your browser, you can also just start this [https://mybinder.org/v2/gh/IngoKl/36c3-workshops/master Binder]. Be aware that starting the Binder (i.e. your coding environment) can take a couple of minutes.Ps. This is a slightly updated version of the workshop(s) I gave at 35c3 last year.</description>
         <persons>
           <person id="0">Ingo</person>
         </persons>
@@ -17150,211 +17150,6 @@ Learn how to make a very simple  knitted sweater using basic arithmatic. This wo
         </links>
       </event>
     </room>
-    <room name="C-base">
-      <event id="1550" guid="e6e5635e-0f1a-4f1a-a196-81fe91b8f100">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:36C3_Fahrplan_App</url>
-        <logo/>
-        <date>2019-12-28T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>0:40</duration>
-        <room>C-base</room>
-        <slug>36c3-1550-session_36c3_fahrplan_app</slug>
-        <title>36C3 Fahrplan App</title>
-        <subtitle>You are invited to join the project. It is not just about coding!</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Session for people who want to join the project
-I will shortly introduce you into the history and the current state of the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further. The years old codebase is waiting for you with lecacy Java but also Kotlin. Besides programming there is enough to do which does not require you to write code such as &lt;ul&gt;&lt;li&gt;translation&lt;/li&gt;&lt;li&gt;design&lt;/li&gt;&lt;li&gt;documentation&lt;/li&gt;&lt;li&gt;public relations&lt;/li&gt;&lt;li&gt;outreach&lt;/li&gt;&lt;li&gt;communication with users&lt;/li&gt;&lt;/ul&gt;and many more.</description>
-        <persons>
-          <person id="0">Tbsprs</person>
-        </persons>
-        <links>
-          <link>https://github.com/EventFahrplan/EventFahrplan</link>
-          <link>https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule</link>
-          <link>https://fdroid.gitlab.io/ccc</link>
-        </links>
-      </event>
-      <event id="1108" guid="5d7b0d0e-cadb-4687-af83-39ff06b2961b">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:CoderDojo_Neopixel_Hacking</url>
-        <logo/>
-        <date>2019-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>4:00</duration>
-        <room>C-base</room>
-        <slug>36c3-1108-session_coderdojo_neopixel_hacking</slug>
-        <title>CoderDojo Neopixel Hacking</title>
-        <subtitle>Workshop 1</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>ATTiny+Neopixel hacking
-[[File:Th 126A4494.JPG]]Im Rahmen des Workshops werden wir auf Basis des Microcontrollers ATTiny85  Neopixel LEDs zum leuchten bringen. Gerne kann die Schaltung am Ende des Workshops mitgenommen werden. Eine Spendenbox wird es auch geben. Die Eigenkosten für die Schaltung betragen circa sechs Euro.Der Workshop ist für junge Padawans ab circa 12 Jahren aufwärts. Löterfahrung ist nicht notwendig.Wer aber schon fit im Löten ist, ist schneller mit der Schaltung fertig und kann sich auf die Programmierung des Microcontrollers (in C) konzentrieren. Noch keine C-Kenntnisse? Kein Problem - wir helfen Dir dabei. Und auch wenn man dieser zarten Schaltung nicht ansieht - da kommen noch zwei Schalter ran und Du kannst kleinere Spiele dafür programmieren und darauf spielen.'''Bitte melde Dich bei bengoshi AT c-base Punkt org für den Workshop an. Wir haben circa 20 Plätze.'''[[File:NeoPixelHacking-CoderDojo-2.gif]]</description>
-        <persons>
-          <person id="0">DerMicha</person>
-          <person id="0">Bengoshi</person>
-        </persons>
-        <links>
-          <link>https://coderdojo.c-base.org/</link>
-        </links>
-      </event>
-      <event id="1380" guid="f7380699-f8ad-47a5-9cce-ec0dc3037bc0">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Einf%C3%BChrung_Schneidplotter</url>
-        <logo/>
-        <date>2019-12-28T18:30:00+01:00</date>
-        <start>18:30</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1380-session_einfuehrung_schneidplotter</slug>
-        <title>Einführung Schneidplotter</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Plottern der Ergebnisse von Tag 1
-Wir pl0tt0rn die Ergebnisse vom Vortag bzw c-base/36C3/Whatever-LogosWir haben ein paar Aufkleber- und ein paar Textil-Folien dabei, bitte bringt Textilien selbst mit (am besten 100% Baumwolle)!</description>
-        <persons>
-          <person id="0">E-punc</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1110" guid="90cac72d-ab11-4d28-8409-e392c3b92049">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacker_Boardgames</url>
-        <logo/>
-        <date>2019-12-28T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>2:00</duration>
-        <room>C-base</room>
-        <slug>36c3-1110-session_hacker_boardgames</slug>
-        <title>Hacker Boardgames</title>
-        <subtitle>Hacker Boardgames 1</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>We willl play nice hacker boardgames
-Was spielen Nerds nach Sonnenuntergang? Sie programmieren beispielsweise Roboter mit Spielkarten und lassen sie über ein Brettspiel laufen. Muss man dafür programmieren können? Nein, überhaupt nicht. Aber das Spiel macht einen Riesenspaß und ganz nebenbei lernt man noch ein bißchen, wie beim Programmieren gedacht wird.Daneben werden wir Rasende Roboter, Go und Pentagame anbieten.Insgesamt also ein lockerer Ausklang für den Junghackertag.Eine Anmeldung ist nicht nötig, sei einfach rechtzeitig bei der Assembly.</description>
-        <persons>
-          <person id="0">DerMicha</person>
-          <person id="0">Bengoshi</person>
-        </persons>
-        <links>
-          <link>https://coderdojo.c-base.org/</link>
-        </links>
-      </event>
-      <event id="1317" guid="06911640-a107-4a23-aea9-61f5fd03e1ce">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
-        <logo/>
-        <date>2019-12-28T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1317-session_pentagame_dojo</slug>
-        <title>Pentagame Dojo</title>
-        <subtitle>Just playin'</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Just playing Pentagame
-Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages and videos.</description>
-        <persons>
-          <person id="0">Penta</person>
-        </persons>
-        <links>
-          <link>https://pentagame.org</link>
-        </links>
-      </event>
-      <event id="1319" guid="e0d50857-f0b6-42ef-8362-65eed1a9e6e5">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Turnier</url>
-        <logo/>
-        <date>2019-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>2:00</duration>
-        <room>C-base</room>
-        <slug>36c3-1319-session_pentagame_turnier</slug>
-        <title>Pentagame Turnier</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Wir spielen ein Pentagame Turnier.
-Wir spielen ein Pentagame-Turnier! Ausreichend Spiele sind vorhanden.Das Spiel wird kurz vorher erklärt und ist echt einfach zu verstehen.Das Turnier steht ausdrücklich auch Anfängern und vor allem Teilnehmenden des Junghackertags offen.Es wird eine Gruppenphase und dann ein K.O.-Tunier der 8 besten geben.Ein Prototyp wird verlost unter jenen, die nicht die K.O.-Phase erreicht haben.Ein weiterer Prototyp geht als Preis an den Turniergewinner (neben Weltruhm, natürlich).Links zu Erklärvideos, Regeln usw. über https://pentagame.org/.</description>
-        <persons>
-          <person id="0">Penta</person>
-        </persons>
-        <links>
-          <link>https://pentagame.org/</link>
-        </links>
-      </event>
-      <event id="1217" guid="a7700e84-a4bb-481c-8bfc-452d221e2314">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Python_mit_dem_Lego_EVO3_Roboter</url>
-        <logo/>
-        <date>2019-12-28T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1217-session_python_mit_dem_lego_evo3_roboter</slug>
-        <title>Python mit dem Lego EVO3 Roboter</title>
-        <subtitle>EVO3 Python für Anfänger</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Wir zeigen Schul-Projekte und bieten Einsteigern Hilfe an.
-Die Roboter Werkstatt der Evangelischen Schule Berlin Zentrum zeigt ein paar mit Python umgesetzte Lego EVO3 Roboter Projekte. Teilnehmerinnen der Werkstatt werden Interessierten ihre Projekte zeigen und die ersten Schritte der Python Programmierung mit dem Lego EVO3 Roboter vermitteln.</description>
-        <persons>
-          <person id="0">DerMicha</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1343" guid="e4fcda8b-2708-46ca-a831-99381bf843eb">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Was_kann_ich_tun,_um_umweltbewusster_und_klimaneutraler_zu_leben%3F</url>
-        <logo/>
-        <date>2019-12-28T15:30:00+01:00</date>
-        <start>15:30</start>
-        <duration>1:00</duration>
-        <room>C-base</room>
-        <slug>36c3-1343-session_was_kann_ich_tun_um_umweltbewusster_und_klimaneutraler_zu_leben_</slug>
-        <title>Was kann ich tun, um umweltbewusster und klimaneutraler zu leben?</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Wie kann ich meine Welt verbessern?! – Niederschwellige Handlungsanweisungen
-Es gibt viele kompetente Äußerungen zum Thema "Handeln gegen den Klimawandel", doch mir ist aufgefallen, dass es kaum kompakt zusammengefasste, einfach umzusetzende Beispiele aus der Praxis gibt. Internetportale bieten selbstverständlich viele Informationen, die mit Zeitaufwand und Ausprobieren sehr hilfreich sein können. Doch mensch kann sich leicht verzetteln oder auf Grund der Fülle und dem vorausgesetzten Wissen, schnell die Motivation verlieren. Deswegen möchte ich Möglichkeiten aufzeigen, die einfach umzusetzen sind.Diese Praxisbeispiele sind aus fast allen Lebensbereichen, so nimmt z.B. unsere Nutzung von elektronischen Geräten großen Raum ein. Hier fällt uns der Verzicht und die Veränderung des Verhaltens schwer – verständlicherweise. Unser Konsumverhalten ist nicht nur an dieser Stelle der Knackpunkt. Ernährung, Reisen, Körperpflege etc. können ressourcenschonender gelebt werden. Das lässt sich allerdings nicht ohne einen teilweisen Verzicht auf unsere bisherige Bequemlichkeit umsetzen. Dabei stellt sich die Frage nach der Reflexion unserer bisherigen Gewohnheiten, des Willens zur Veränderung und eines wirklichen Anfangs. Hier möchte ich mit der Vorstellung niederschwelliger Beispiele aus der Praxis Einstiege bieten.</description>
-        <persons>
-          <person id="0">Atoll</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1190" guid="685c4e66-f482-42c4-946c-70dbe296d900">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
-        <logo/>
-        <date>2019-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1190-session_werewolf</slug>
-        <title>Werewolf</title>
-        <subtitle>Werewolf Day 2</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Werewolf, the (roleplaying)(card)game
-We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
-        <persons>
-          <person id="0">Haurane</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
     <room name="Assembly:C3RE">
       <event id="1577" guid="20c56e0b-5509-4ddd-a21d-a5349a34bdcc">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:36c3-Plotterei</url>
@@ -18642,6 +18437,186 @@ TRICKMISCH.de und TRIXMIX.tv sind wieder auf dem Congress, um mit Euch Trickfilm
 </description>
         <persons>
           <person id="0">Gnomus</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="C-base">
+      <event id="1108" guid="5d7b0d0e-cadb-4687-af83-39ff06b2961b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:CoderDojo_Neopixel_Hacking</url>
+        <logo/>
+        <date>2019-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>4:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1108-session_coderdojo_neopixel_hacking</slug>
+        <title>CoderDojo Neopixel Hacking</title>
+        <subtitle>Workshop 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>ATTiny+Neopixel hacking
+[[File:Th 126A4494.JPG]]Im Rahmen des Workshops werden wir auf Basis des Microcontrollers ATTiny85  Neopixel LEDs zum leuchten bringen. Gerne kann die Schaltung am Ende des Workshops mitgenommen werden. Eine Spendenbox wird es auch geben. Die Eigenkosten für die Schaltung betragen circa sechs Euro.Der Workshop ist für junge Padawans ab circa 12 Jahren aufwärts. Löterfahrung ist nicht notwendig.Wer aber schon fit im Löten ist, ist schneller mit der Schaltung fertig und kann sich auf die Programmierung des Microcontrollers (in C) konzentrieren. Noch keine C-Kenntnisse? Kein Problem - wir helfen Dir dabei. Und auch wenn man dieser zarten Schaltung nicht ansieht - da kommen noch zwei Schalter ran und Du kannst kleinere Spiele dafür programmieren und darauf spielen.'''Bitte melde Dich bei bengoshi AT c-base Punkt org für den Workshop an. Wir haben circa 20 Plätze.'''[[File:NeoPixelHacking-CoderDojo-2.gif]]</description>
+        <persons>
+          <person id="0">DerMicha</person>
+          <person id="0">Bengoshi</person>
+        </persons>
+        <links>
+          <link>https://coderdojo.c-base.org/</link>
+        </links>
+      </event>
+      <event id="1380" guid="f7380699-f8ad-47a5-9cce-ec0dc3037bc0">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Einf%C3%BChrung_Schneidplotter</url>
+        <logo/>
+        <date>2019-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1380-session_einfuehrung_schneidplotter</slug>
+        <title>Einführung Schneidplotter</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Plottern der Ergebnisse von Tag 1
+Wir pl0tt0rn die Ergebnisse vom Vortag bzw c-base/36C3/Whatever-LogosWir haben ein paar Aufkleber- und ein paar Textil-Folien dabei, bitte bringt Textilien selbst mit (am besten 100% Baumwolle)!</description>
+        <persons>
+          <person id="0">E-punc</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1110" guid="90cac72d-ab11-4d28-8409-e392c3b92049">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacker_Boardgames</url>
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1110-session_hacker_boardgames</slug>
+        <title>Hacker Boardgames</title>
+        <subtitle>Hacker Boardgames 1</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>We willl play nice hacker boardgames
+Was spielen Nerds nach Sonnenuntergang? Sie programmieren beispielsweise Roboter mit Spielkarten und lassen sie über ein Brettspiel laufen. Muss man dafür programmieren können? Nein, überhaupt nicht. Aber das Spiel macht einen Riesenspaß und ganz nebenbei lernt man noch ein bißchen, wie beim Programmieren gedacht wird.Daneben werden wir Rasende Roboter, Go und Pentagame anbieten.Insgesamt also ein lockerer Ausklang für den Junghackertag.Eine Anmeldung ist nicht nötig, sei einfach rechtzeitig bei der Assembly.</description>
+        <persons>
+          <person id="0">DerMicha</person>
+          <person id="0">Bengoshi</person>
+        </persons>
+        <links>
+          <link>https://coderdojo.c-base.org/</link>
+        </links>
+      </event>
+      <event id="1317" guid="06911640-a107-4a23-aea9-61f5fd03e1ce">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Dojo</url>
+        <logo/>
+        <date>2019-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1317-session_pentagame_dojo</slug>
+        <title>Pentagame Dojo</title>
+        <subtitle>Just playin'</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Just playing Pentagame
+Pentagame is a fun abstract board game2 players take ca. 20 minutes (well depends, on how long you think about it)3 players take maybe 40 minutes (beginner games are often shorter)4 players take some 45 minutes (unless you're pros and play in 2 teams of 2 players - that can take a while)The rules can be explained in less than a minute and are available on the big inter net in a number of languages and videos.</description>
+        <persons>
+          <person id="0">Penta</person>
+        </persons>
+        <links>
+          <link>https://pentagame.org</link>
+        </links>
+      </event>
+      <event id="1319" guid="e0d50857-f0b6-42ef-8362-65eed1a9e6e5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Pentagame_Turnier</url>
+        <logo/>
+        <date>2019-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1319-session_pentagame_turnier</slug>
+        <title>Pentagame Turnier</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir spielen ein Pentagame Turnier.
+Wir spielen ein Pentagame-Turnier! Ausreichend Spiele sind vorhanden.Das Spiel wird kurz vorher erklärt und ist echt einfach zu verstehen.Das Turnier steht ausdrücklich auch Anfängern und vor allem Teilnehmenden des Junghackertags offen.Es wird eine Gruppenphase und dann ein K.O.-Tunier der 8 besten geben.Ein Prototyp wird verlost unter jenen, die nicht die K.O.-Phase erreicht haben.Ein weiterer Prototyp geht als Preis an den Turniergewinner (neben Weltruhm, natürlich).Links zu Erklärvideos, Regeln usw. über https://pentagame.org/.</description>
+        <persons>
+          <person id="0">Penta</person>
+        </persons>
+        <links>
+          <link>https://pentagame.org/</link>
+        </links>
+      </event>
+      <event id="1217" guid="a7700e84-a4bb-481c-8bfc-452d221e2314">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Python_mit_dem_Lego_EVO3_Roboter</url>
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1217-session_python_mit_dem_lego_evo3_roboter</slug>
+        <title>Python mit dem Lego EVO3 Roboter</title>
+        <subtitle>EVO3 Python für Anfänger</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir zeigen Schul-Projekte und bieten Einsteigern Hilfe an.
+Die Roboter Werkstatt der Evangelischen Schule Berlin Zentrum zeigt ein paar mit Python umgesetzte Lego EVO3 Roboter Projekte. Teilnehmerinnen der Werkstatt werden Interessierten ihre Projekte zeigen und die ersten Schritte der Python Programmierung mit dem Lego EVO3 Roboter vermitteln.</description>
+        <persons>
+          <person id="0">DerMicha</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1343" guid="e4fcda8b-2708-46ca-a831-99381bf843eb">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Was_kann_ich_tun,_um_umweltbewusster_und_klimaneutraler_zu_leben%3F</url>
+        <logo/>
+        <date>2019-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1343-session_was_kann_ich_tun_um_umweltbewusster_und_klimaneutraler_zu_leben_</slug>
+        <title>Was kann ich tun, um umweltbewusster und klimaneutraler zu leben?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wie kann ich meine Welt verbessern?! – Niederschwellige Handlungsanweisungen
+Es gibt viele kompetente Äußerungen zum Thema "Handeln gegen den Klimawandel", doch mir ist aufgefallen, dass es kaum kompakt zusammengefasste, einfach umzusetzende Beispiele aus der Praxis gibt. Internetportale bieten selbstverständlich viele Informationen, die mit Zeitaufwand und Ausprobieren sehr hilfreich sein können. Doch mensch kann sich leicht verzetteln oder auf Grund der Fülle und dem vorausgesetzten Wissen, schnell die Motivation verlieren. Deswegen möchte ich Möglichkeiten aufzeigen, die einfach umzusetzen sind.Diese Praxisbeispiele sind aus fast allen Lebensbereichen, so nimmt z.B. unsere Nutzung von elektronischen Geräten großen Raum ein. Hier fällt uns der Verzicht und die Veränderung des Verhaltens schwer – verständlicherweise. Unser Konsumverhalten ist nicht nur an dieser Stelle der Knackpunkt. Ernährung, Reisen, Körperpflege etc. können ressourcenschonender gelebt werden. Das lässt sich allerdings nicht ohne einen teilweisen Verzicht auf unsere bisherige Bequemlichkeit umsetzen. Dabei stellt sich die Frage nach der Reflexion unserer bisherigen Gewohnheiten, des Willens zur Veränderung und eines wirklichen Anfangs. Hier möchte ich mit der Vorstellung niederschwelliger Beispiele aus der Praxis Einstiege bieten.</description>
+        <persons>
+          <person id="0">Atoll</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1190" guid="685c4e66-f482-42c4-946c-70dbe296d900">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1190-session_werewolf</slug>
+        <title>Werewolf</title>
+        <subtitle>Werewolf Day 2</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Werewolf, the (roleplaying)(card)game
+We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
+        <persons>
+          <person id="0">Haurane</person>
         </persons>
         <links/>
       </event>

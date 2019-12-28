@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.21; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 19:00",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.21; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 19:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -11417,7 +11417,16 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/074/original/Reflections_on_the_new_reverse_engineering_law.pdf?1577552014",
+                    "title": "Reflections on the New Reverse Engineering Law"
+                  },
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "file"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10658.html",
@@ -18959,7 +18968,12 @@
                     "title": "Fair data society Github"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/082/original/FDS_-_36c3.pdf?1577556519",
+                    "title": "Fair data society"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/183.html",
@@ -25299,7 +25313,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10912.html",
                 "id": 10912,
                 "guid": "97f475af-aa2f-4be4-a17d-9f211d59d42f",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/912/large/databox-logo-cropped.png?1577552094",
                 "date": "2019-12-29T17:30:00+01:00",
                 "start": "17:30",
                 "duration": "01:00",
@@ -25334,7 +25348,12 @@
                     "title": "BBC R&D -- The BBC Box"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/076/original/201912-36c3.pdf?1577552295",
+                    "title": "On the Edge of Human-Data Interaction with the Databox"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10756.html",

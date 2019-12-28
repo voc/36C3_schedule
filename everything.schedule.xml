@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 03:21</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 03:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -18789,31 +18789,6 @@ Nachdem der Lard auf Einladung heuer das erste mal zum C3 kommt und an einem Lig
         <links/>
       </event>
     </room>
-    <room name="Headnut">
-      <event id="1348" guid="d8f55bbc-15b6-4af9-9039-abdad0b1bd10">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fahrr%C3%A4der_zeichnen_und_analysieren</url>
-        <logo/>
-        <date>2019-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>0:25</duration>
-        <room>Headnut</room>
-        <slug>36c3-1348-session_fahrraeder_zeichnen_und_analysieren</slug>
-        <title>Fahrräder zeichnen und analysieren</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Fahrräder zeichnen und analysieren
-Hier kannst du ein Fahrrad zeichnen, das wir danach gemeinsam analysieren.Für diese Session brauchst du weder zeichnen können, noch lernst du hier wie man zeichnet!Fahrräder zeichnen ist einfach, deswegen kannst du hier eins zeichnen.</description>
-        <persons>
-          <person id="0">Ruru4143</person>
-        </persons>
-        <links>
-          <link>https://talks.komona.org/36c3/talk/XBRFTV/</link>
-        </links>
-      </event>
-    </room>
     <room name="Assembly:Nibble Area">
       <event id="1280" guid="7eb05109-ba3f-4a8d-b573-00c0780c91d3">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fancy_RGB-LED_Cube_Workshop_(Junghacker_Edition)</url>
@@ -28726,6 +28701,31 @@ Demonstration im Rahmen von Fridays for Future in der Stadt; Termin am Vormittag
           <person id="0">E1mo</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Headnut">
+      <event id="1348" guid="d8f55bbc-15b6-4af9-9039-abdad0b1bd10">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fahrr%C3%A4der_zeichnen_und_analysieren</url>
+        <logo/>
+        <date>2019-12-29T18:15:00+01:00</date>
+        <start>18:15</start>
+        <duration>0:25</duration>
+        <room>Headnut</room>
+        <slug>36c3-1348-session_fahrraeder_zeichnen_und_analysieren</slug>
+        <title>Fahrräder zeichnen und analysieren</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Fahrräder zeichnen und analysieren
+Hier kannst du ein Fahrrad zeichnen, das wir danach gemeinsam analysieren.Für diese Session brauchst du weder zeichnen können, noch lernst du hier wie man zeichnet!Fahrräder zeichnen ist einfach, deswegen kannst du hier eins zeichnen.</description>
+        <persons>
+          <person id="0">Ruru4143</person>
+        </persons>
+        <links>
+          <link>https://talks.komona.org/36c3/talk/XBRFTV/</link>
+        </links>
       </event>
     </room>
     <room name="Assembly:402 Payment Required">

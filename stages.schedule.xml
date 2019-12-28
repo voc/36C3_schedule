@@ -645,7 +645,9 @@ This talk documents the PSP firmware's proprietary filesystem  and provides insi
           <person id="8290">Christian Werling</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/054/original/36C3_slides_export.pdf?1577458782">Presentation slides</attachment>
+        </attachments>
       </event>
       <event id="10936" guid="27300e0d-e9a3-4e59-8261-c1b67cc0d86d">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10936.html</url>
@@ -5175,6 +5177,8 @@ You’ll also see how to use skills you already have to make meaningful, measura
           <link href="https://www.thegreenwebfoundation.org/news/provisioning-and-providers-two-levers-for-a-lower-carbon-internet/">More on "Platform" – emissions caused by servers and infrastructure you run yourself</link>
           <link href="https://www.thegreenwebfoundation.org/news/place-policy-procurement-more-levers-for-a-lower-carbon-internet/">More on "Process" - emissions caused by decisions about how and where you work</link>
           <link href="https://chrisadams.me.uk/">My personal site, with links to previous talks</link>
+          <link href="https://docs.google.com/presentation/d/1t514x2cIG_qyQGiztaV_0s_kXQwb7t0DRk0ynAteoR0/edit#slide=id.g6199b0387f_0_385">Slides for the talk</link>
+          <link href="https://docs.google.com/presentation/d/1t514x2cIG_qyQGiztaV_0s_kXQwb7t0DRk0ynAteoR0/edit#slide=id.g6199b0387f_0_385">Slides for the talk</link>
         </links>
         <attachments/>
       </event>
@@ -5257,7 +5261,7 @@ Gleichzeitig erleben wir immer wieder, dass unsere wissenschaftlichen Prognosen 
 Es ist daher unumgänglich, den politischen Druck zu erhöhen, indem mehr Aktionen an mehr Orten mit noch viel mehr Menschen und auf vielen verschiedenen Ebenen durchgeführt werden. XR kann jede Art von Unterstützung gut gebrauchen – egal ob es um Nachhilfe in puncto Privacy geht, um Operational Security, um Soft- und Hardware oder um eigenständigen Hacktivismus. Wichtig ist nur: Wir müssen uns jetzt aufraffen, zusammentun und aktiv werden. The time is now.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="9118">Maria</person>
@@ -5645,7 +5649,10 @@ Warum diesen neuen Regeln jeder Grundrechtsschutz fehlt und wie grenzüberschrei
           <person id="9567">Elisabeth Niekrenz</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+          <attachment href="/system/event_attachments/attachments/000/004/071/original/praesi_36c3.pdf?1577539214">Folien</attachment>
+        </attachments>
       </event>
       <event id="10862" guid="c2619236-c88d-40ee-9d9d-9dfffd5212ef">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10862.html</url>
@@ -5919,7 +5926,9 @@ Nach dem Vortrag sind alle interessierten Personen eingeladen, die Diskussion in
           <person id="6379">Ganti</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/073/original/36c3_netzpolitik_schweiz_final.pdf?1577544796">Folien</attachment>
+        </attachments>
       </event>
       <event id="10891" guid="070c97b2-3ce2-44e9-b2e0-711055b3c7d5">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10891.html</url>
@@ -5996,7 +6005,7 @@ Finally, we will demo our tool, showing how it led to the detection of a previou
         </persons>
         <links/>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/004/066/original/Karonte_CCC.pptx?1577533347">presentation slides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/004/072/original/Karonte_CCC.pptx?1577543122">Presentation slides</attachment>
         </attachments>
       </event>
       <event id="11186" guid="333a8580-79d9-4a01-800b-f958612636e6">
@@ -6170,7 +6179,7 @@ While the people in charge do not manage to organize a proper search- and rescue
         <subtitle/>
         <track>Art &amp; Culture</track>
         <type>lecture</type>
-        <language/>
+        <language>en</language>
         <abstract>Before media art has emerged, traditional art and dance are already applying algorithms to make sophisticated patterns in their textures or movements. Hieda is researching the use of algorithm through creation of media installations and dialog with artists, dancers, choreographers and musicians. He also presents his current interest in machine learning and art which potentially exclude (or already excluding) some populations due to the dataset and modality.</abstract>
         <description/>
         <recording>
@@ -10508,7 +10517,7 @@ Simon Hegelich (KI-Entwickler, Philosoph, Professor für Political Data Science,
         <abstract>Seit 2018 betreibt Eventphone ein neues Telefonsystem auf den chaosnahen Events. Natürlich wird neue Soft- und Hardware sofort zum Forschungsgegenstand. Schnell gab es die üblichen Fragen: Wie funktioniert das genau? Ist das alles an Features? Kann man das updaten? Kann man nicht kompatible Geräte vielleicht kompatibel machen? Was kann man noch verbessern? Ist das sicher?</abstract>
         <description>Natürlich haben wir Antworten und möchten unser Wissen mit euch teilen. Es gibt einen Überblick über DECT, kaputte Crypto™ und was man mit Kreativität daraus machen kann. Unser Anspruch ist, dass wir es so erklären, dass alle Zuschauerinnen und Zuschauer ein bisschen mehr über DECT wissen und mindestens einmal gelacht haben.&#13;
 &#13;
-Seit dem Easterhegg 2018 betreibt Eventphone das PoC (Phone Operation Center) mit neuer Hard- und Software. Wer ist Eventphone bzw. das PoC und was machen die? Neben vielen selbst entwickelten Komponenten nutzen wir eine DECT-over-IP-Lösung des kanadischen Telekommunikationsunternehmens Mitel. Wir geben euch eine Architekturübersicht der neuen Anlage und sprechen über Antennen, Software sowie Lizenzierung. Nachdem wir die größten Probleme, die wir mit dem alten System hatten, vollständig gelöst haben, schauten wir etwas genauer unter die Haube. Bei den ersten Analysen entdeckten wir einen unkritischen, aber witzigen Fehler, den wir euch zeigen wollen. Unser primäres Ziel war es, die Kompatibilität zu erhöhen, denn es gab einige Geräte, die trotz DECT-Standard nicht mit der Anlage funktionierten oder sich sehr sonderlich verhielten. Warum eigentlich? Wir fingen an, die Kommunikation der Geräte zu analysieren, und fanden heraus: Wer ein Byte verliert, hat acht Bit zu wenig. Es folgt: eine DECT-Anmeldung als Theaterstück. Aber halt! Ist das nicht alles verschlüsselt? Woher wisst ihr das? Es folgt: die Geschichte der Mitel Crypto und was daraus entstand: rfpproxy. Es folgt: eine DECT-Anmeldung mit rfpproxy als Theaterstück. Dann sammelten wir Metadaten und löschten sie wieder, mit Unterstützung der Feuerwehr. Und dann? Dann haben wir viel gespielt, analysiert und entwickelt. Weil die Zeit knapp ist zeigen wir euch 3 kleine Beispiele. Musik während des Telefonats über Vanity Number, die Akte AVM und Telefonbuchfunktionen. Am Ende geben wir euch Informationen zum Weitermachen sowie einen Ausblick. Außerdem wollen euch motivieren uns zu helfen. Wir hätten gern einen Wireshark Dissector. Stay connected!</description>
+Seit dem Easterhegg 2018 betreibt Eventphone das PoC (Phone Operation Center) mit neuer Hard- und Software. Wer ist Eventphone bzw. das PoC und was machen die? Neben vielen selbst entwickelten Komponenten nutzen wir eine DECT-over-IP-Lösung des kanadischen Telekommunikationsunternehmens Mitel. Wir geben euch eine Architekturübersicht der neuen Anlage und sprechen über Antennen, Software sowie Lizenzierung. Nachdem wir die größten Probleme, die wir mit dem alten System hatten, vollständig gelöst haben, schauten wir etwas genauer unter die Haube. Bei den ersten Analysen entdeckten wir einen unkritischen, aber witzigen Fehler, den wir euch zeigen wollen. Unser primäres Ziel war es, die Kompatibilität zu erhöhen, denn es gab einige Geräte, die trotz DECT-Standard nicht mit der Anlage funktionierten oder sich sehr sonderlich verhielten. Warum eigentlich? Wir fingen an, die Kommunikation der Geräte zu analysieren, und fanden heraus: Wer ein Byte verliert, hat acht Bit zu wenig. Es folgt: eine DECT-Anmeldung als Theaterstück. Aber halt! Ist das nicht alles verschlüsselt? Woher wisst ihr das? Es folgt: die Geschichte der Mitel Crypto und was daraus entstand: rfpproxy. Es folgt: eine DECT-Anmeldung mit rfpproxy als Theaterstück. Dann sammelten wir Metadaten und löschten sie wieder, mit Unterstützung der Feuerwehr. Und dann? Dann haben wir viel gespielt, analysiert und entwickelt. Weil die Zeit knapp ist zeigen wir euch 3 kleine Beispiele. Musik während des Telefonats über Vanity Number, die Akte AVM und Telefonbuchfunktionen. Am Ende geben wir euch Informationen zum Weitermachen sowie einen Ausblick. Außerdem wollen wir euch motivieren uns zu helfen. Wir hätten gern einen Wireshark Dissector. Stay connected!</description>
         <recording>
           <license/>
           <optout>false</optout>

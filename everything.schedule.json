@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.19; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 11:32",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.19; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 12:00",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -14452,7 +14452,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Introduction to Yubikeys\nHave you ever wanted to step up your personal security posture with hardware security tokens?Did you receive a YubiKey for Christmas, and now are like \"now what??\"Want to teach your mom how to use a YubiKey?Then this workshop is for you!We will spend an hour going through a walk-through general setup and configuration of YubiKeys and how to integrate them into daily life by walking through examples:* making sure the YubiKey in front of you is actually a YubiKey (attestation)* using 2FA with your nextcloud/github account* integrating passdb with YubiKeys* generating gpg keys on an airgapped machine and transferring subkeys to a YubiKey* signing commits with a YubiKey* using your YubiKey to SSH into remote machines",
+                "description": "Introduction to Yubikeys\nHave you ever wanted to step up your personal security posture with hardware security tokens?Did you receive a YubiKey for Christmas, and now are like \"now what??\"Want to teach your mom how to use a YubiKey?Then this workshop is for you!We will spend an hour going through a walk-through general setup and configuration of YubiKeys and how to integrate them into daily life by walking through examples:* making sure the YubiKey in front of you is actually a YubiKey (attestation)* using 2FA with your nextcloud/github account* integrating passdb with YubiKeys* generating gpg keys on an airgapped machine and transferring subkeys to a YubiKey* signing commits with a YubiKey* using your YubiKey to SSH into remote machines'''Instructions'''* Step 1: [https://github.com/hashbang/book/blob/master/Security/personal-hsms/yubikey.md#verifying-authenticity Authenticate/Attest the Yubikey]* Step 2: [https://github.com/hashbang/book/blob/master/Security/personal-hsms/yubikey.md#install-required-software Install Required Software]",
                 "persons": [
                   {
                     "id": 0,

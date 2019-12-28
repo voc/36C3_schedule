@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 09:40",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 10:00",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -19162,6 +19162,34 @@
                 ]
               },
               {
+                "id": 1607,
+                "guid": "81f7fd7a-1fa1-4aad-b030-e2e9a9678162",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Intro_to_binary_exploitation_(FTI_only)",
+                "logo": null,
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "2:00",
+                "room": "Assembly:Haecksen",
+                "slug": "36c3-1607-session_intro_to_binary_exploitation_fti_only_",
+                "title": "Intro to binary exploitation (FTI only)",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "binary exploitation - same as yesterday - this time women (FNIT) only\nThis is a workshop put together for Haecksen, means this time only women, non-binary, inter and trans persons!It's a repetition of the second part of the 'introduction to CTF and binary exploitation' workshop yesterday.The main focus of this (shorter) workshop will be on binary exploitation with Stack Based Buffer Overflows and Return Oriented Programming.Info here:https://beginnersctf2019.pads.ccc.de/1pw: LetsPlay!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zitro",
+                    "public_name": "Zitro"
+                  }
+                ],
+                "links": [
+                  "http://haecksen.org"
+                ]
+              },
+              {
                 "id": 1341,
                 "guid": "15b950d6-8f16-46f0-8453-c08d8d7668d3",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Junghaecksentag",
@@ -20246,32 +20274,6 @@
                 ]
               },
               {
-                "id": 1493,
-                "guid": "9e4f45aa-9665-46cc-8ebc-0d097d91e2c8",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Beewax_Sheets",
-                "logo": null,
-                "date": "2019-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "2:00",
-                "room": "Assembly:Foodhackingbase",
-                "slug": "36c3-1493-session_beewax_sheets",
-                "title": "Beewax Sheets",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Bienenwachst\u00fccher DIY\nT\u00fccher mit Bienenwachs herstellenZiel ist es Lebensmittel alternativ zu verpacken ohne Plastik.Baumwollt\u00fccher, Wachs, Harz und Jojoba\u00f6l habe ich f\u00fcr euch dabei. F\u00fcr die Materialien wird um einen Unkostenbeitrag geben.Wer mag kann gerne eigene T\u00fccher oder Baumwollbeutel mitbringen.Ich freue mich auf euer kommenRaum wird noch bekannt gegeben.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Laugenschneiderin",
-                    "public_name": "Laugenschneiderin"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1243,
                 "guid": "fd735224-28c9-4428-931d-a627b49c41bc",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Cheese_Rendez-vous",
@@ -20384,34 +20386,6 @@
                 ]
               },
               {
-                "id": 1245,
-                "guid": "e3281142-1122-4eb0-bb04-eda1ed646234",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Rum_Tasting",
-                "logo": null,
-                "date": "2019-12-28T22:00:00+01:00",
-                "start": "22:00",
-                "duration": "2:00",
-                "room": "Assembly:Foodhackingbase",
-                "slug": "36c3-1245-session_rum_tasting",
-                "title": "Rum Tasting",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Let's come together and have a rum tasting event.\nLet's come together and have a tasting event. I'm no expert and I don't want to be an expert. If you're an experienced rum lover, you're welcome to join and help me out with things I didn't know yet. But really the event is primarily about enjoying different types of rum together and getting an idea of what consitutes a good rum and which types you like best. Please read the information on to the foodhackingbase wiki page: https://foodhackingbase.org/wiki/Rum_tasting_36c3 and register a slot in the dudle.If you have rum that you would like to bring for others to taste, we'd be very happy and you're very welcome!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DenkBrettl",
-                    "public_name": "DenkBrettl"
-                  }
-                ],
-                "links": [
-                  "https://foodhackingbase.org/wiki/Rum_tasting_36c3"
-                ]
-              },
-              {
                 "id": 1237,
                 "guid": "ff1e410b-6753-4219-b256-6d1db2a37081",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:%EC%98%A4%EB%B0%A9%EC%83%89_Five_Colour_%EA%B9%80%EB%B0%A5_Gimbab_Varieties",
@@ -20437,6 +20411,62 @@
                 ],
                 "links": [
                   "https://foodhackingbase.org/wiki/Gimbab_making_36c3"
+                ]
+              }
+            ],
+            "Assembly:Foodhackingbase2": [
+              {
+                "id": 1493,
+                "guid": "9e4f45aa-9665-46cc-8ebc-0d097d91e2c8",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Beewax_Sheets",
+                "logo": null,
+                "date": "2019-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "2:00",
+                "room": "Assembly:Foodhackingbase2",
+                "slug": "36c3-1493-session_beewax_sheets",
+                "title": "Beewax Sheets",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Bienenwachst\u00fccher DIY\nT\u00fccher mit Bienenwachs herstellenZiel ist es Lebensmittel alternativ zu verpacken ohne Plastik.Baumwollt\u00fccher, Wachs, Harz und Jojoba\u00f6l habe ich f\u00fcr euch dabei. F\u00fcr die Materialien wird um einen Unkostenbeitrag geben.Wer mag kann gerne eigene T\u00fccher oder Baumwollbeutel mitbringen.Ich freue mich auf euer kommenRaum wird noch bekannt gegeben.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Laugenschneiderin",
+                    "public_name": "Laugenschneiderin"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1245,
+                "guid": "e3281142-1122-4eb0-bb04-eda1ed646234",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Rum_Tasting",
+                "logo": null,
+                "date": "2019-12-28T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "2:00",
+                "room": "Assembly:Foodhackingbase2",
+                "slug": "36c3-1245-session_rum_tasting",
+                "title": "Rum Tasting",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Let's come together and have a rum tasting event.\nLet's come together and have a tasting event. I'm no expert and I don't want to be an expert. If you're an experienced rum lover, you're welcome to join and help me out with things I didn't know yet. But really the event is primarily about enjoying different types of rum together and getting an idea of what consitutes a good rum and which types you like best. Please read the information on to the foodhackingbase wiki page: https://foodhackingbase.org/wiki/Rum_tasting_36c3 and register a slot in the dudle.If you have rum that you would like to bring for others to taste, we'd be very happy and you're very welcome!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DenkBrettl",
+                    "public_name": "DenkBrettl"
+                  }
+                ],
+                "links": [
+                  "https://foodhackingbase.org/wiki/Rum_tasting_36c3"
                 ]
               }
             ],

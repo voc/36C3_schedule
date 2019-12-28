@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "indent; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 13:50",
+    "version": "indent; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 14:00",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -13636,6 +13636,34 @@
             ],
             "Lecture room 12": [
               {
+                "id": 1632,
+                "guid": "35a0a824-3546-4cd1-a3da-502b46749e8a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:How_to_make_politics_more_transparent",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Lecture room 12",
+                "slug": "36c3-1632-session_how_to_make_politics_more_transparent",
+                "title": "How to make politics more transparent",
+                "subtitle": "We present our project politicindex after that lets discuss about transparency in politics",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "\nhttps://events.ccc.de/congress/2019/wiki/index.php/Projects:Politicindex",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Politicindex",
+                    "public_name": "Politicindex"
+                  }
+                ],
+                "links": [
+                  "http://politicindex.de"
+                ]
+              },
+              {
                 "id": 1604,
                 "guid": "cdf258e4-4afa-415e-8df4-6769a5fd1364",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Human_Punishment_Day_2_and_beyond",
@@ -26737,7 +26765,34 @@
                 "links": []
               }
             ],
-            "Lecture room 12": [],
+            "Lecture room 12": [
+              {
+                "id": 1198,
+                "guid": "4aa7b5a5-2abd-4711-8029-67c9557a76f3",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
+                "logo": null,
+                "date": "2019-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "2:00",
+                "room": "Lecture room 12",
+                "slug": "36c3-1198-session_werewolf",
+                "title": "Werewolf",
+                "subtitle": "Werewolf Day 3",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Werewolf, the (roleplaying)(card)game\nWe will play \"Les Loups-Garous de Thiercelieux\" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
+                    "public_name": "Haurane"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Seminar room 14-15": [
               {
                 "id": 1053,
@@ -31825,6 +31880,34 @@
                 "links": []
               }
             ],
+            "Assembly:C3RE": [
+              {
+                "id": 1631,
+                "guid": "127bb628-688d-4ad7-8df8-d9cc242b841c",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:36c3-Plotterei",
+                "logo": null,
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "2:00",
+                "room": "Assembly:C3RE",
+                "slug": "36c3-1631-session_36c3_plotterei",
+                "title": "36c3-Plotterei",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Taschen mit eigenen Logos bedrucken.\nWir m\u00f6chten gemeinsam Baumwolltaschen und Turnbeutel gestalten. Dazu zeigen wir, wie Logos geplottet und zu Stoff gebracht werden. Es ist m\u00f6glich eigene oder das 36c3-Logo zu plotten und auf Jute- oder Turnbeutel zu Drucken. Einfache Sticker f\u00fcr Laptops, o. \u00e4. sind ebenfalls m\u00f6glich. F\u00fcr die Materialien wird um einen Unkostenbeitrag gebeten, wobei eigene Baumwollstoffe mitgebracht werden k\u00f6nnen.Weitere Informationen in unserem [https://pads.c3re.de/p/sticker Pad]",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Goldwaage",
+                    "public_name": "Goldwaage"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Assembly:Haecksen": [
               {
                 "id": 1301,
@@ -32276,32 +32359,6 @@
                 "links": [
                   "https://refugee-datathon-muc.org/"
                 ]
-              },
-              {
-                "id": 1198,
-                "guid": "4aa7b5a5-2abd-4711-8029-67c9557a76f3",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
-                "logo": null,
-                "date": "2019-12-29T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1198-session_werewolf",
-                "title": "Werewolf",
-                "subtitle": "Werewolf Day 3",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "Werewolf, the (roleplaying)(card)game\nWe will play \"Les Loups-Garous de Thiercelieux\" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
-                    "public_name": "Haurane"
-                  }
-                ],
-                "links": []
               }
             ],
             "Assembly:Nibble Area": [
@@ -32750,6 +32807,40 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1633,
+                "guid": "4434932e-a4c5-4a27-9b7f-f4a009bf91f2",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:LibrePCB_and_Horizon_EDA_meetup",
+                "logo": null,
+                "date": "2019-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1633-session_librepcb_and_horizon_eda_meetup",
+                "title": "LibrePCB and Horizon EDA meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's meet to talk about LibrePCB and Horzion EDA, two up-and-coming PCB design applicatios.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Karotte",
+                    "public_name": "Karotte"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Rnestler",
+                    "public_name": "Rnestler"
+                  }
+                ],
+                "links": [
+                  "https://horizon-eda.org",
+                  "https://librepcb.org/"
+                ]
               },
               {
                 "id": 1112,

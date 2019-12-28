@@ -1,5 +1,5 @@
 <schedule>
-  <version>indent; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 13:50</version>
+  <version>indent; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 14:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -12302,6 +12302,29 @@ Mit Podlove und Auphonic wurden uns Produzierenden von Podcasts mächtige Werkze
       </event>
     </room>
     <room name="Lecture room 12">
+      <event id="1632" guid="35a0a824-3546-4cd1-a3da-502b46749e8a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:How_to_make_politics_more_transparent</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room 12</room>
+        <slug>36c3-1632-session_how_to_make_politics_more_transparent</slug>
+        <title>How to make politics more transparent</title>
+        <subtitle>We present our project politicindex after that lets discuss about transparency in politics</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>
+https://events.ccc.de/congress/2019/wiki/index.php/Projects:Politicindex</description>
+        <persons>
+          <person id="0">Politicindex</person>
+        </persons>
+        <links>
+          <link>http://politicindex.de</link>
+        </links>
+      </event>
       <event id="1604" guid="cdf258e4-4afa-415e-8df4-6769a5fd1364">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Human_Punishment_Day_2_and_beyond</url>
         <logo/>
@@ -23728,7 +23751,29 @@ The space we live in is three-dimensional. But mathematically, four dimensions c
         <links/>
       </event>
     </room>
-    <room name="Lecture room 12"/>
+    <room name="Lecture room 12">
+      <event id="1198" guid="4aa7b5a5-2abd-4711-8029-67c9557a76f3">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room 12</room>
+        <slug>36c3-1198-session_werewolf</slug>
+        <title>Werewolf</title>
+        <subtitle>Werewolf Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Werewolf, the (roleplaying)(card)game
+We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
+        <persons>
+          <person id="0">Haurane</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Seminar room 14-15">
       <event id="1053" guid="983e175e-86a5-40be-9910-808e00cc5c3d">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A:f_meetup</url>
@@ -28302,6 +28347,29 @@ Learn the art of reading artificial intelligence right out of their open hands. 
         <links/>
       </event>
     </room>
+    <room name="Assembly:C3RE">
+      <event id="1631" guid="127bb628-688d-4ad7-8df8-d9cc242b841c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:36c3-Plotterei</url>
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:C3RE</room>
+        <slug>36c3-1631-session_36c3_plotterei</slug>
+        <title>36c3-Plotterei</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Taschen mit eigenen Logos bedrucken.
+Wir möchten gemeinsam Baumwolltaschen und Turnbeutel gestalten. Dazu zeigen wir, wie Logos geplottet und zu Stoff gebracht werden. Es ist möglich eigene oder das 36c3-Logo zu plotten und auf Jute- oder Turnbeutel zu Drucken. Einfache Sticker für Laptops, o. ä. sind ebenfalls möglich. Für die Materialien wird um einen Unkostenbeitrag gebeten, wobei eigene Baumwollstoffe mitgebracht werden können.Weitere Informationen in unserem [https://pads.c3re.de/p/sticker Pad]</description>
+        <persons>
+          <person id="0">Goldwaage</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:Haecksen">
       <event id="1301" guid="8733f2c5-8aa5-408a-8733-94474f637fe7">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_capella_workshop!</url>
@@ -28670,27 +28738,6 @@ Since 2016, the Refugee Datathon Munich meet to find and collect open data to in
           <link>https://refugee-datathon-muc.org/</link>
         </links>
       </event>
-      <event id="1198" guid="4aa7b5a5-2abd-4711-8029-67c9557a76f3">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
-        <logo/>
-        <date>2019-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1198-session_werewolf</slug>
-        <title>Werewolf</title>
-        <subtitle>Werewolf Day 3</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Werewolf, the (roleplaying)(card)game
-We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
-        <persons>
-          <person id="0">Haurane</person>
-        </persons>
-        <links/>
-      </event>
     </room>
     <room name="Assembly:Nibble Area">
       <event id="1281" guid="6be562ab-b327-440f-9202-14740812780a">
@@ -29058,6 +29105,31 @@ Bring some RasperryPis, LEDs and plug your brain into our biosensing devices to 
           <person id="0">Maltman23</person>
         </persons>
         <links/>
+      </event>
+      <event id="1633" guid="4434932e-a4c5-4a27-9b7f-f4a009bf91f2">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:LibrePCB_and_Horizon_EDA_meetup</url>
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1633-session_librepcb_and_horizon_eda_meetup</slug>
+        <title>LibrePCB and Horizon EDA meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Let's meet to talk about LibrePCB and Horzion EDA, two up-and-coming PCB design applicatios.
+</description>
+        <persons>
+          <person id="0">Karotte</person>
+          <person id="0">Rnestler</person>
+        </persons>
+        <links>
+          <link>https://horizon-eda.org</link>
+          <link>https://librepcb.org/</link>
+        </links>
       </event>
       <event id="1112" guid="702627f8-4acf-40d3-9e59-0837af6584d8">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_2_@_Hardware_Hacking_Area</url>

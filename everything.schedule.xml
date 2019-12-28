@@ -1,5 +1,5 @@
 <schedule>
-  <version>kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 22:30</version>
+  <version>kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 22:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -16896,36 +16896,6 @@ Kickstarting the workshop on Crypto-AML tools. </abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="4296" guid="2479cb2b-42b1-47fd-a92e-4df68804f19d">
-        <url>https://frab.riat.at/en/36C3/public/schedule/events/96.html</url>
-        <logo>/system/events/logos/000/000/096/large/Screenshot_2019-12-25_at_16.40.25.png?1577288545</logo>
-        <date>2019-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>00:15</duration>
-        <room>CDC - Stage</room>
-        <slug>36C3-96-swarm</slug>
-        <title>Swarm</title>
-        <subtitle>Decentralised Storage and Communication for a Sovereign Digital Society</subtitle>
-        <track>Stage</track>
-        <type>lightning_talk</type>
-        <language>en</language>
-        <abstract>The talk will give a short untroduction to Swarm and will also provide latest updates and road ahead. </abstract>
-        <description>Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralised database services and scalable state-channel infrastructure for decentralised service economies.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="48">Gregor</person>
-        </persons>
-        <links>
-          <link href="swarm.ethereum.org">Swarm</link>
-        </links>
-        <attachments>
-          <attachment href="/system/event_attachments/attachments/000/000/079/original/Swarm-36c3.pdf?1577549709">Swarm Roadmap</attachment>
-          <attachment href="/attachments/original/missing.png">file</attachment>
-        </attachments>
-      </event>
       <event id="4320" guid="d4817b2b-c80e-477c-8458-6edcb5d36d55">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/120.html</url>
         <logo>/system/events/logos/000/000/120/large/namecoin-coin_1000px.png?1576362175</logo>
@@ -28549,6 +28519,36 @@ This lecture describes the Almonit project, its architecture and technical detai
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/000/039/original/rmx_hccp2019.pdf?1577370575">Slides</attachment>
+        </attachments>
+      </event>
+      <event id="4296" guid="2479cb2b-42b1-47fd-a92e-4df68804f19d">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/96.html</url>
+        <logo>/system/events/logos/000/000/096/large/Screenshot_2019-12-25_at_16.40.25.png?1577288545</logo>
+        <date>2019-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>00:25</duration>
+        <room>CDC - Stage</room>
+        <slug>36C3-96-swarm</slug>
+        <title>Swarm</title>
+        <subtitle>Decentralised Storage and Communication for a Sovereign Digital Society</subtitle>
+        <track>Stage</track>
+        <type>lightning_talk</type>
+        <language>en</language>
+        <abstract>The talk will give a short untroduction to Swarm and will also provide latest updates and road ahead. </abstract>
+        <description>Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralised database services and scalable state-channel infrastructure for decentralised service economies.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="148">Viktor Tron</person>
+        </persons>
+        <links>
+          <link href="swarm.ethereum.org">Swarm</link>
+        </links>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/000/079/original/Swarm-36c3.pdf?1577549709">Swarm Roadmap</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
       <event id="4367" guid="82f64fda-8740-4081-87f3-3eebd8a35bcc">

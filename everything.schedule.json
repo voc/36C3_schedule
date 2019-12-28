@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 22:30",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 22:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -18907,48 +18907,6 @@
                 "attachments": []
               },
               {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/96.html",
-                "id": 4296,
-                "guid": "2479cb2b-42b1-47fd-a92e-4df68804f19d",
-                "logo": "/system/events/logos/000/000/096/large/Screenshot_2019-12-25_at_16.40.25.png?1577288545",
-                "date": "2019-12-28T19:00:00+01:00",
-                "start": "19:00",
-                "duration": "00:15",
-                "room": "CDC - Stage",
-                "slug": "36C3-96-swarm",
-                "title": "Swarm",
-                "subtitle": "Decentralised Storage and Communication for a Sovereign Digital Society",
-                "track": "Stage",
-                "type": "lightning_talk",
-                "language": "en",
-                "abstract": "The talk will give a short untroduction to Swarm and will also provide latest updates and road ahead. ",
-                "description": "Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralised database services and scalable state-channel infrastructure for decentralised service economies.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 48,
-                    "public_name": "Gregor"
-                  }
-                ],
-                "links": [
-                  {
-                    "url": "swarm.ethereum.org",
-                    "title": "Swarm"
-                  }
-                ],
-                "attachments": [
-                  {
-                    "url": "/system/event_attachments/attachments/000/000/079/original/Swarm-36c3.pdf?1577549709",
-                    "title": "Swarm Roadmap"
-                  },
-                  {
-                    "url": "/attachments/original/missing.png",
-                    "title": "file"
-                  }
-                ]
-              },
-              {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/120.html",
                 "id": 4320,
                 "guid": "d4817b2b-c80e-477c-8458-6edcb5d36d55",
@@ -32229,6 +32187,48 @@
                   {
                     "url": "/system/event_attachments/attachments/000/000/039/original/rmx_hccp2019.pdf?1577370575",
                     "title": "Slides"
+                  }
+                ]
+              },
+              {
+                "url": "https://frab.riat.at/en/36C3/public/schedule/events/96.html",
+                "id": 4296,
+                "guid": "2479cb2b-42b1-47fd-a92e-4df68804f19d",
+                "logo": "/system/events/logos/000/000/096/large/Screenshot_2019-12-25_at_16.40.25.png?1577288545",
+                "date": "2019-12-29T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "00:25",
+                "room": "CDC - Stage",
+                "slug": "36C3-96-swarm",
+                "title": "Swarm",
+                "subtitle": "Decentralised Storage and Communication for a Sovereign Digital Society",
+                "track": "Stage",
+                "type": "lightning_talk",
+                "language": "en",
+                "abstract": "The talk will give a short untroduction to Swarm and will also provide latest updates and road ahead. ",
+                "description": "Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web3 stack that aims to provide a decentralized and redundant store for dapp code, user data, blockchain and state data. Swarm sets out to provide various base layer services for web3, including node-to-node messaging, media streaming, decentralised database services and scalable state-channel infrastructure for decentralised service economies.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 148,
+                    "public_name": "Viktor Tron"
+                  }
+                ],
+                "links": [
+                  {
+                    "url": "swarm.ethereum.org",
+                    "title": "Swarm"
+                  }
+                ],
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/079/original/Swarm-36c3.pdf?1577549709",
+                    "title": "Swarm Roadmap"
+                  },
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "file"
                   }
                 ]
               },

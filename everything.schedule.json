@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.21; sendezentrum 3.5; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 17:10",
+    "version": "jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.21; sendezentrum 3.5; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 17:20",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -18917,7 +18917,16 @@
                     "title": "Swarm"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/079/original/Swarm-36c3.pdf?1577549709",
+                    "title": "Swarm Roadmap"
+                  },
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "file"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/120.html",

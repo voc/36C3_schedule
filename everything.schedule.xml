@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 01:40</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 02:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -6878,27 +6878,6 @@ Contact: Marko Mijokovic (01636934204)</description>
         </persons>
         <links/>
       </event>
-      <event id="1389" guid="6bdddf66-a785-4f08-b1df-2f8711554dc5">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT_THAI_STYLE:_Learn_how_to_thai_massage_your_nerdy_cramps_away</url>
-        <logo/>
-        <date>2019-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>2:00</duration>
-        <room>Hackers Beauty Palace</room>
-        <slug>36c3-1389-session_reboot_thai_style_learn_how_to_thai_massage_your_nerdy_cramps_away</slug>
-        <title>REBOOT THAI STYLE: Learn how to thai massage your nerdy cramps away</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>In our reactor you will learn how to reprogram a body with Thai massage.
-</description>
-        <persons>
-          <person id="0">Alibi</person>
-        </persons>
-        <links/>
-      </event>
     </room>
     <room name="Assembly:Backspace">
       <event id="1267" guid="a0578173-14c3-44eb-b522-68515b908e2d">
@@ -8214,6 +8193,50 @@ More sessions will be announced for Day 2, Day 3 and Day 4.</description>
         <links/>
       </event>
     </room>
+    <room name="Assembly:Hackers Beauty Palace">
+      <event id="1389" guid="6bdddf66-a785-4f08-b1df-2f8711554dc5">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT_THAI_STYLE:_Learn_how_to_thai_massage_your_nerdy_cramps_away</url>
+        <logo/>
+        <date>2019-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hackers Beauty Palace</room>
+        <slug>36c3-1389-session_reboot_thai_style_learn_how_to_thai_massage_your_nerdy_cramps_away</slug>
+        <title>REBOOT THAI STYLE: Learn how to thai massage your nerdy cramps away</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>In our reactor you will learn how to reprogram a body with Thai massage.
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1565" guid="96d5b803-507b-4aa5-b9a1-cd2a5410421f">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Test_2</url>
+        <logo/>
+        <date>2019-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Hackers Beauty Palace</room>
+        <slug>36c3-1565-session_test_2</slug>
+        <title>Test 2</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description>Test
+</description>
+        <persons>
+          <person id="0">Nexus</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:IT-Kollektiv">
       <event id="1522" guid="4ad97377-f5a3-4124-a7ef-f9d8e108876e">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tech-Coops_Meetup</url>
@@ -8233,29 +8256,6 @@ More sessions will be announced for Day 2, Day 3 and Day 4.</description>
 </description>
         <persons>
           <person id="0">It-kollektiv</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="Assembly:Hackers Beauty Palace">
-      <event id="1565" guid="96d5b803-507b-4aa5-b9a1-cd2a5410421f">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Test_2</url>
-        <logo/>
-        <date>2019-12-27T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Hackers Beauty Palace</room>
-        <slug>36c3-1565-session_test_2</slug>
-        <title>Test 2</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language/>
-        <abstract/>
-        <description>Test
-</description>
-        <persons>
-          <person id="0">Nexus</person>
         </persons>
         <links/>
       </event>
@@ -17968,27 +17968,6 @@ Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in d
         </persons>
         <links/>
       </event>
-      <event id="1379" guid="ad8ee869-6487-472b-b82e-647ce20a0c70">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:BODILY_CHATROOM:_Contact_Improvisation_Dance_Workshop</url>
-        <logo/>
-        <date>2019-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>1:30</duration>
-        <room>Hackers Beauty Palace</room>
-        <slug>36c3-1379-session_bodily_chatroom_contact_improvisation_dance_workshop</slug>
-        <title>BODILY CHATROOM: Contact Improvisation Dance Workshop</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Get in Reallife Touch! A very special dancing lesson that aims to get you closer: with yourself and with others.
-</description>
-        <persons>
-          <person id="0">Alibi</person>
-        </persons>
-        <links/>
-      </event>
       <event id="1396" guid="03797269-7bac-49ea-8c2f-f5234ba7408a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:CV_DAZZLE:_Facial_Treatment_against_Facial_Recognition</url>
         <logo/>
@@ -18031,13 +18010,36 @@ Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in d
         </persons>
         <links/>
       </event>
-      <event id="1401" guid="6a6fef77-32b1-4ff1-8ccb-6f2422b79db6">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT_THAI_STYLE:_Learn_how_to_thai_massage_your_nerdy_cramps_away</url>
+    </room>
+    <room name="Assembly:Hackers Beauty Palace">
+      <event id="1379" guid="ad8ee869-6487-472b-b82e-647ce20a0c70">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:BODILY_CHATROOM:_Contact_Improvisation_Dance_Workshop</url>
         <logo/>
         <date>2019-12-28T15:00:00+01:00</date>
         <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Hackers Beauty Palace</room>
+        <slug>36c3-1379-session_bodily_chatroom_contact_improvisation_dance_workshop</slug>
+        <title>BODILY CHATROOM: Contact Improvisation Dance Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Get in Reallife Touch! A very special dancing lesson that aims to get you closer: with yourself and with others.
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1401" guid="6a6fef77-32b1-4ff1-8ccb-6f2422b79db6">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT_THAI_STYLE:_Learn_how_to_thai_massage_your_nerdy_cramps_away</url>
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
         <duration>2:00</duration>
-        <room>Hackers Beauty Palace</room>
+        <room>Assembly:Hackers Beauty Palace</room>
         <slug>36c3-1401-session_reboot_thai_style_learn_how_to_thai_massage_your_nerdy_cramps_away</slug>
         <title>REBOOT THAI STYLE: Learn how to thai massage your nerdy cramps away</title>
         <subtitle/>
@@ -18055,10 +18057,10 @@ Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in d
       <event id="1391" guid="a31e3473-bc90-4e03-8304-82ee6fd6ab69">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT:_Learn_how_to_massage_your_nerdy_cramps_away</url>
         <logo/>
-        <date>2019-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
+        <date>2019-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
         <duration>1:00</duration>
-        <room>Hackers Beauty Palace</room>
+        <room>Assembly:Hackers Beauty Palace</room>
         <slug>36c3-1391-session_reboot_learn_how_to_massage_your_nerdy_cramps_away</slug>
         <title>REBOOT: Learn how to massage your nerdy cramps away</title>
         <subtitle/>
@@ -18079,7 +18081,7 @@ Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in d
         <date>2019-12-28T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>1:00</duration>
-        <room>Hackers Beauty Palace</room>
+        <room>Assembly:Hackers Beauty Palace</room>
         <slug>36c3-1392-session_reboot_learn_how_to_massage_your_nerdy_cramps_away</slug>
         <title>REBOOT: Learn how to massage your nerdy cramps away</title>
         <subtitle/>
@@ -18100,7 +18102,7 @@ Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in d
         <date>2019-12-28T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>1:30</duration>
-        <room>Hackers Beauty Palace</room>
+        <room>Assembly:Hackers Beauty Palace</room>
         <slug>36c3-1594-session_tantra_yoga</slug>
         <title>Tantra Yoga</title>
         <subtitle/>
@@ -19168,6 +19170,52 @@ Join us for a self-guided exploratory workshop on Pocket Science Lab with your A
         </persons>
         <links>
           <link>https://pslab.io</link>
+        </links>
+      </event>
+      <event id="1596" guid="cd62c0e7-22cc-45cd-a426-2972a6cd416e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SUSI.AI_Personal_Assistant</url>
+        <logo/>
+        <date>2019-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:30</duration>
+        <room>Assembly:FOSSASIA</room>
+        <slug>36c3-1596-session_susi_ai_personal_assistant</slug>
+        <title>SUSI.AI Personal Assistant</title>
+        <subtitle>SUSI.AI Personal Assitant on Your Linux Desktop - Part 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Let's do stuff with your real personal assistant - Create a bot, install SUSI.AI on your Desktop and more
+</description>
+        <persons>
+          <person id="0">Mario</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+        </links>
+      </event>
+      <event id="1597" guid="2c7f52d7-9f8f-48e7-ad72-acafd007fcb6">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SUSI.AI_Personal_Assistant</url>
+        <logo/>
+        <date>2019-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:FOSSASIA</room>
+        <slug>36c3-1597-session_susi_ai_personal_assistant</slug>
+        <title>SUSI.AI Personal Assistant</title>
+        <subtitle>SUSI.AI Personal Assistant on Your Linux Desktop - Part 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Let's do stuff with your real personal assistant - Create a bot, install SUSI.AI on your Desktop and more
+</description>
+        <persons>
+          <person id="0">Mario</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
         </links>
       </event>
     </room>
@@ -28229,14 +28277,14 @@ Geigerzähler– Hardwarebasteln mit LoRaWAN &amp; WiFiWir sind die Ecocurious-I
         <links/>
       </event>
     </room>
-    <room name="Hackers Beauty Palace">
+    <room name="Assembly:Hackers Beauty Palace">
       <event id="1378" guid="fc3d22b8-3dfd-48bf-b90d-bb660e5c0dac">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:BODILY_CHATROOM:_Contact_Improvisation_Dance_Workshop</url>
         <logo/>
         <date>2019-12-29T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>1:30</duration>
-        <room>Hackers Beauty Palace</room>
+        <room>Assembly:Hackers Beauty Palace</room>
         <slug>36c3-1378-session_bodily_chatroom_contact_improvisation_dance_workshop</slug>
         <title>BODILY CHATROOM: Contact Improvisation Dance Workshop</title>
         <subtitle/>
@@ -28246,48 +28294,6 @@ Geigerzähler– Hardwarebasteln mit LoRaWAN &amp; WiFiWir sind die Ecocurious-I
         <abstract/>
         <description>Get in Reallife Touch! A very special dancing lesson that aims to get you closer: with yourself and with others.
 </description>
-        <persons>
-          <person id="0">Alibi</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1399" guid="7bd3a3d1-5253-4a52-86f0-027f2acea063">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITAL_RELAXATION:_Acupressure</url>
-        <logo/>
-        <date>2019-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:00</duration>
-        <room>Hackers Beauty Palace</room>
-        <slug>36c3-1399-session_postdigital_relaxation_acupressure</slug>
-        <title>POSTDIGITAL RELAXATION: Acupressure</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>en</language>
-        <abstract/>
-        <description>It's a combination of acupressure and breathing techniques. How much pain do you carry? Can you imagine to make yourself perceptible? Can you imagine potential behind pain?
-</description>
-        <persons>
-          <person id="0">Alibi</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1400" guid="af2bed17-efed-439a-85c7-59407b76a735">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITALE_RELAXATION:_Massage</url>
-        <logo/>
-        <date>2019-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>2:00</duration>
-        <room>Hackers Beauty Palace</room>
-        <slug>36c3-1400-session_postdigitale_relaxation_massage</slug>
-        <title>POSTDIGITALE RELAXATION: Massage</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Get a massage by professional therapists. In 20-Minutes-Slots you can reboot your head, shoulders and back.
-Contact: Marko Mijokovic (01636934204)</description>
         <persons>
           <person id="0">Alibi</person>
         </persons>
@@ -28793,6 +28799,50 @@ OPS erzählen vom Krieg / Sysadmin-Therapiegruppe / Tales from the Sysadmin tren
         </links>
       </event>
     </room>
+    <room name="Hackers Beauty Palace">
+      <event id="1399" guid="7bd3a3d1-5253-4a52-86f0-027f2acea063">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITAL_RELAXATION:_Acupressure</url>
+        <logo/>
+        <date>2019-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1399-session_postdigital_relaxation_acupressure</slug>
+        <title>POSTDIGITAL RELAXATION: Acupressure</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>It's a combination of acupressure and breathing techniques. How much pain do you carry? Can you imagine to make yourself perceptible? Can you imagine potential behind pain?
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1400" guid="af2bed17-efed-439a-85c7-59407b76a735">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITALE_RELAXATION:_Massage</url>
+        <logo/>
+        <date>2019-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1400-session_postdigitale_relaxation_massage</slug>
+        <title>POSTDIGITALE RELAXATION: Massage</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Get a massage by professional therapists. In 20-Minutes-Slots you can reboot your head, shoulders and back.
+Contact: Marko Mijokovic (01636934204)</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:FOSSASIA">
       <event id="1593" guid="199c9d66-61e9-4e42-9add-75658f3de88b">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop</url>
@@ -28815,6 +28865,75 @@ Join us for a self-guided exploratory workshop on Pocket Science Lab with your A
         </persons>
         <links>
           <link>https://pslab.io</link>
+        </links>
+      </event>
+      <event id="1595" guid="239db157-6945-4879-a98e-0acd3eb2c121">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SUSI.AI_Personal_Assistant</url>
+        <logo/>
+        <date>2019-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:FOSSASIA</room>
+        <slug>36c3-1595-session_susi_ai_personal_assistant</slug>
+        <title>SUSI.AI Personal Assistant</title>
+        <subtitle>Create Personal Bots for Web and Smart Devices with SUSI.AI - Part 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Let's do stuff with your real personal assistant - Create a bot, install SUSI.AI on your Desktop and more
+</description>
+        <persons>
+          <person id="0">Mario</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+        </links>
+      </event>
+      <event id="1598" guid="0b2ea9db-4234-5731-9322-6e23182e9124">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SUSI.AI_Personal_Assistant</url>
+        <logo/>
+        <date>2019-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:FOSSASIA</room>
+        <slug>36c3-1598-session_susi_ai_personal_assistant</slug>
+        <title>SUSI.AI Personal Assistant</title>
+        <subtitle>SUSI.AI - Your Really Private Personal Assistants at Home</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Let's do stuff with your real personal assistant - Create a bot, install SUSI.AI on your Desktop and more
+</description>
+        <persons>
+          <person id="0">Mario</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
+        </links>
+      </event>
+      <event id="1599" guid="a3c2d9b5-9786-5d34-a5aa-b7fa3b3b04a8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SUSI.AI_Personal_Assistant</url>
+        <logo/>
+        <date>2019-12-29T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:30</duration>
+        <room>Assembly:FOSSASIA</room>
+        <slug>36c3-1599-session_susi_ai_personal_assistant</slug>
+        <title>SUSI.AI Personal Assistant</title>
+        <subtitle>Create Personal Bots for Web and Smart Devices with SUSI.AI - Part 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Let's do stuff with your real personal assistant - Create a bot, install SUSI.AI on your Desktop and more
+</description>
+        <persons>
+          <person id="0">Mario</person>
+        </persons>
+        <links>
+          <link>https://susi.ai</link>
         </links>
       </event>
     </room>
@@ -31998,27 +32117,6 @@ Contact: Marko Mijokovic (01636934204)</description>
         </persons>
         <links/>
       </event>
-      <event id="1388" guid="79de911a-25b0-4a96-b897-b452bc08e297">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT_THAI_STYLE:_Learn_how_to_thai_massage_your_nerdy_cramps_away</url>
-        <logo/>
-        <date>2019-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>2:00</duration>
-        <room>Hackers Beauty Palace</room>
-        <slug>36c3-1388-session_reboot_thai_style_learn_how_to_thai_massage_your_nerdy_cramps_away</slug>
-        <title>REBOOT THAI STYLE: Learn how to thai massage your nerdy cramps away</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>In our reactor you will learn how to reprogram a body with Thai massage.
-</description>
-        <persons>
-          <person id="0">Alibi</person>
-        </persons>
-        <links/>
-      </event>
     </room>
     <room name="Studio Datsche">
       <event id="1564" guid="90b4a4af-181d-479a-b282-4df48ace2086">
@@ -32081,6 +32179,29 @@ Laura Pöhler, Pressesprecherin des Bündnisses gegen das neue bayerische Polize
 slowly getting into movement/ no gym yet but some easy reminder that we still have a body to use and enjoy. filling it with seeds and fruits which are provided by the megalomanic and perfectionist master of brei.</description>
         <persons>
           <person id="0">Deine datsche</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Assembly:Hackers Beauty Palace">
+      <event id="1388" guid="79de911a-25b0-4a96-b897-b452bc08e297">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT_THAI_STYLE:_Learn_how_to_thai_massage_your_nerdy_cramps_away</url>
+        <logo/>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hackers Beauty Palace</room>
+        <slug>36c3-1388-session_reboot_thai_style_learn_how_to_thai_massage_your_nerdy_cramps_away</slug>
+        <title>REBOOT THAI STYLE: Learn how to thai massage your nerdy cramps away</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>In our reactor you will learn how to reprogram a body with Thai massage.
+</description>
+        <persons>
+          <person id="0">Alibi</person>
         </persons>
         <links/>
       </event>

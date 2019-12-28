@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 01:00",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 01:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -14363,7 +14363,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Introduction to writing kernel modules\nIn this workshop, we will learn how to write a kernel module step by step, which will function as a keylogger. We will implement a character device to communicate data to the user space as a first step, hook tty functions to listen in on data typed on the keyboard, learn about kernel fifos and other typical kernel structures.To prepare for this session, you should download qemu, git, gcc, a text editor, ...Knowledge of C coding and a general idea of how an operating systems works would be very helpful for this session.",
+                "description": "Introduction to writing kernel modules\nIn this workshop, we will learn how to write a kernel module step by step, which will function as a keylogger. We will implement a character device to communicate data to the user space as a first step, hook tty functions to listen in on data typed on the keyboard, learn about kernel fifos and other typical kernel structures.* !!! Please come with a `qemu-system-x86_64` installed on your system !!!I will provide the qcow2 image. In the best case, download it before the session: https://drive.google.com/file/d/1KLc8_2X5nbsKrCbWROvmO0Jpkoe-GWGQ/view?usp=sharingTry starting the VM with the startup.sh provided in the zip file.Knowledge of C coding and a general idea of how an operating systems works would be very helpful for this session.",
                 "persons": [
                   {
                     "id": 0,
@@ -26904,7 +26904,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Tired of filename chaos such as \"report_final_really_v2_corrected.txt\"? There is a technological solution to this problem, a version control system such as Git. Learn in this hands-on workshop how to use it. Git is useful both for personal files and for files which are edited by teams.\nNote to organizers of other sessions: We don't need that much space that M3 provides. If you want to organize a session which needs the space more than us then we'll surely find a solution! Call me at +49 176 95110311 (German or English).",
+                "description": "Tired of filename chaos such as \"report_final_really_v2_corrected.txt\"? There is a technological solution to this problem, a version control system such as Git. Learn in this hands-on workshop how to use it. Git is useful both for personal files and for files which are edited by teams.\nPlease install Git before the workshop starts. :-)* On Windows:  [https://git-scm.com/download/win Git for Windows]* On Linux: apt install git (or similar)* On Mac: brew install gitNote to organizers of other sessions: We don't need that much space that M3 provides. If you want to organize a session which needs the space more than us then we'll surely find a solution! Call me at +49 176 95110311 (German or English).",
                 "persons": [
                   {
                     "id": 0,
@@ -30909,7 +30909,7 @@
                 "type": "talk",
                 "language": "en",
                 "abstract": "",
-                "description": "Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury.\n",
+                "description": "Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury, basically the queen of fun facts about the Solar System.\nEvery planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury.",
                 "persons": [
                   {
                     "id": 0,
@@ -35746,6 +35746,39 @@
                 "links": [
                   "https://isomer.eu",
                   "https://hackerfleet.eu"
+                ]
+              },
+              {
+                "id": 1590,
+                "guid": "c921d14f-5ccd-4a66-8723-e99703951fbd",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Open_and_trustworthy_point_of_sale!",
+                "logo": null,
+                "date": "2019-12-30T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1590-session_open_and_trustworthy_point_of_sale_",
+                "title": "Open and trustworthy point of sale!",
+                "subtitle": "Lasst uns Anforderungen diskutieren!",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Open and trustworthy point of sale solution.\nIm Rahmen der Session wollen wir euch unsere Idee vorstellen und diese mit euch diskutieren. Wie gehen wir mit den neuen Anforderungen an Kassensystemen um? Was fehlt sowieso schon an vorhandenen L\u00f6sungen?Wie w\u00fcrde die perfekte L\u00f6sung aussehen?",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
+                    "public_name": "DerMicha"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bengoshi",
+                    "public_name": "Bengoshi"
+                  }
+                ],
+                "links": [
+                  "https://rejisuta.org"
                 ]
               }
             ],

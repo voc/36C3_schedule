@@ -14,7 +14,7 @@
   "type": "workshop",
   "language": "en",
   "abstract": "",
-  "description": "Introduction to writing kernel modules\nIn this workshop, we will learn how to write a kernel module step by step, which will function as a keylogger. We will implement a character device to communicate data to the user space as a first step, hook tty functions to listen in on data typed on the keyboard, learn about kernel fifos and other typical kernel structures.To prepare for this session, you should download qemu, git, gcc, a text editor, ...Knowledge of C coding and a general idea of how an operating systems works would be very helpful for this session.",
+  "description": "Introduction to writing kernel modules\nIn this workshop, we will learn how to write a kernel module step by step, which will function as a keylogger. We will implement a character device to communicate data to the user space as a first step, hook tty functions to listen in on data typed on the keyboard, learn about kernel fifos and other typical kernel structures.* !!! Please come with a `qemu-system-x86_64` installed on your system !!!I will provide the qcow2 image. In the best case, download it before the session: https://drive.google.com/file/d/1KLc8_2X5nbsKrCbWROvmO0Jpkoe-GWGQ/view?usp=sharingTry starting the VM with the startup.sh provided in the zip file.Knowledge of C coding and a general idea of how an operating systems works would be very helpful for this session.",
   "persons": [
     {
       "id": 0,

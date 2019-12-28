@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 01:00</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 01:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -12902,7 +12902,7 @@ In Turkey, along the Anatolia, more than 25 languages are spoken. As Özgür Yaz
         <language>en</language>
         <abstract/>
         <description>Introduction to writing kernel modules
-In this workshop, we will learn how to write a kernel module step by step, which will function as a keylogger. We will implement a character device to communicate data to the user space as a first step, hook tty functions to listen in on data typed on the keyboard, learn about kernel fifos and other typical kernel structures.To prepare for this session, you should download qemu, git, gcc, a text editor, ...Knowledge of C coding and a general idea of how an operating systems works would be very helpful for this session.</description>
+In this workshop, we will learn how to write a kernel module step by step, which will function as a keylogger. We will implement a character device to communicate data to the user space as a first step, hook tty functions to listen in on data typed on the keyboard, learn about kernel fifos and other typical kernel structures.* !!! Please come with a `qemu-system-x86_64` installed on your system !!!I will provide the qcow2 image. In the best case, download it before the session: https://drive.google.com/file/d/1KLc8_2X5nbsKrCbWROvmO0Jpkoe-GWGQ/view?usp=sharingTry starting the VM with the startup.sh provided in the zip file.Knowledge of C coding and a general idea of how an operating systems works would be very helpful for this session.</description>
         <persons>
           <person id="0">Chrysh</person>
         </persons>
@@ -23914,7 +23914,7 @@ Let’s suppose that our bodymind is the hardware and our behavior is the softwa
         <language>de</language>
         <abstract/>
         <description>Tired of filename chaos such as "report_final_really_v2_corrected.txt"? There is a technological solution to this problem, a version control system such as Git. Learn in this hands-on workshop how to use it. Git is useful both for personal files and for files which are edited by teams.
-Note to organizers of other sessions: We don't need that much space that M3 provides. If you want to organize a session which needs the space more than us then we'll surely find a solution! Call me at +49 176 95110311 (German or English).</description>
+Please install Git before the workshop starts. :-)* On Windows:  [https://git-scm.com/download/win Git for Windows]* On Linux: apt install git (or similar)* On Mac: brew install gitNote to organizers of other sessions: We don't need that much space that M3 provides. If you want to organize a session which needs the space more than us then we'll surely find a solution! Call me at +49 176 95110311 (German or English).</description>
         <persons>
           <person id="0">Iblech</person>
         </persons>
@@ -27581,8 +27581,8 @@ Ab 17Uhr kannst du bei uns in der Assembly Kleidungsstücke oder andere Textilie
         <type>talk</type>
         <language>en</language>
         <abstract/>
-        <description>Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury.
-</description>
+        <description>Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury, basically the queen of fun facts about the Solar System.
+Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury.</description>
         <persons>
           <person id="0">Samuel Antz</person>
         </persons>
@@ -31804,6 +31804,30 @@ A quick overview over Isomer - Hackerfleet's application framework for decentral
         <links>
           <link>https://isomer.eu</link>
           <link>https://hackerfleet.eu</link>
+        </links>
+      </event>
+      <event id="1590" guid="c921d14f-5ccd-4a66-8723-e99703951fbd">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Open_and_trustworthy_point_of_sale!</url>
+        <logo/>
+        <date>2019-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1590-session_open_and_trustworthy_point_of_sale_</slug>
+        <title>Open and trustworthy point of sale!</title>
+        <subtitle>Lasst uns Anforderungen diskutieren!</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Open and trustworthy point of sale solution.
+Im Rahmen der Session wollen wir euch unsere Idee vorstellen und diese mit euch diskutieren. Wie gehen wir mit den neuen Anforderungen an Kassensystemen um? Was fehlt sowieso schon an vorhandenen Lösungen?Wie würde die perfekte Lösung aussehen?</description>
+        <persons>
+          <person id="0">DerMicha</person>
+          <person id="0">Bengoshi</person>
+        </persons>
+        <links>
+          <link>https://rejisuta.org</link>
         </links>
       </event>
     </room>

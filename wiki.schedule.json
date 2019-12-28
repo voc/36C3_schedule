@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-28 17:30",
+    "version": "2019-12-28 17:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -8578,6 +8578,62 @@
                 "links": []
               }
             ],
+            "Assembly:Hardware Slackers": [
+              {
+                "id": 1649,
+                "guid": "8f707a2d-9c25-43b8-bdad-fc4585b2ea9f",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Introduction_to_Voltage_Glitching",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Assembly:Hardware Slackers",
+                "slug": "36c3-1649-session_introduction_to_voltage_glitching",
+                "title": "Introduction to Voltage Glitching",
+                "subtitle": "Alpha testing only",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Voltage glitching for beginners, with fun and faults\n'''Please drop by the Hardware Slackers assembly FIRST and complete the 5 minute Xbox controller fault injection challenge!'''We'll be doing some mini-workshops on voltage glitching (fault injection). We'll explain the basics, and then let people play around a bit with voltage fault injection setups themselves.We are very limited in space/resources so feel free to also drop by at a random time and see if we're around.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Noopwafel",
+                    "public_name": "Noopwafel"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:JuliaLang": [
+              {
+                "id": 1651,
+                "guid": "6e28d9be-3d9d-441e-a2c2-28f4eabbb0db",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:JuliaLang_meetup",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Assembly:JuliaLang",
+                "slug": "36c3-1651-session_julialang_meetup",
+                "title": "JuliaLang meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "User and contributor meetup\nMeet other users of and contributors to Julia",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Wallnuss",
+                    "public_name": "Wallnuss"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Assembly:Open Infrastructure Orbit": [
               {
                 "id": 1588,
@@ -12322,32 +12378,6 @@
                 "links": []
               },
               {
-                "id": 1620,
-                "guid": "6e8adf4f-5e81-4fbd-83f4-68c1454c837a",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:No_satisfaction_without_penetration",
-                "logo": null,
-                "date": "2019-12-29T10:30:00+01:00",
-                "start": "10:30",
-                "duration": "2:00",
-                "room": "Seminar room 13",
-                "slug": "36c3-1620-session_no_satisfaction_without_penetration",
-                "title": "No satisfaction without penetration",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Lecture/Hands-on combined security workshop\nThis workshop is a mix of a lecture about the basic principles of vulnerabilities and security-hackits.You'll learn about the problem behind vulnerabilities in the first step and you can tryto exploit those vulnerabilities afterwards (hands on!). The hacks could be applied to varioustopic fields like embedded/automotive, web etc. It's all about the fun of pentesting.Please note: You need some average knowledge in Python scripting or alterantivelly you can just attend the lecture (but won't be able to do the practical parts).Requirements (Please read carefully):-> Minimum average knowledge in Python scripting. You'll be given some code snippets to begin with and create your hacks. Optionally you can use your own language but support is not guaranteed!-> Hardware: Your own Laptop/PC with network connection-> Software: Linux based OS with Python installed. The following libraries have to be installed:https://gitlab.com/mike01/pypackerhttps://github.com/twisted/twisted",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mike",
-                    "public_name": "Mike"
-                  }
-                ],
-                "links": []
-              },
-              {
                 "id": 1288,
                 "guid": "386968c0-f7b5-421f-9283-0e0a454352e7",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Tor_Organizations_Meetup",
@@ -12415,7 +12445,7 @@
                 "type": "discussion",
                 "language": "",
                 "abstract": "",
-                "description": "A meetup for server admins of public XMPP providers\n",
+                "description": "A meetup for server admins of public XMPP providers\nThere is a need for a general landing page for the ecosystem that addresses potential interested users. Something akin joinmastodon.org which allows people to quickly get an idea what federated chat over xmpp is like and what are trustable places to sign up for an account.To know what server to recommend to users we first need to get a list of servers we are confident about and willing to recommend as a community. However on the basis of what does one recommend and how to establish this? We would like to start a conversation with server operators to get feedback on what such a 'quality provider' should look like.In this session we would like to use some time to present a proposal about what we think this landing page should do and look like and what we think should be the minimum quality level for operators. The rest of the meeting we'd like to use to gather feedback and have a discussion about this. We can also use some time for general discussion/questions about operating services.",
                 "persons": [
                   {
                     "id": 0,
@@ -12597,12 +12627,17 @@
                 "type": "discussion",
                 "language": "de",
                 "abstract": "",
-                "description": "Meetup, discussion and shenanigans of blue teamers\nLocation: https://36c3.c3nav.de/l/ccl-lecture-room-12/",
+                "description": "Meetup, discussion and shenanigans of blue teamers\nBlue Teamers Unite!Blue Teamers, CorpSecs, ITSec Departments and 1ManShow-(Sec)Admins unite! If you are less concerned with nation state ATP groups pivoting through your global network, but with James from accounting who can't stop clicking every pish he gets, then this meeting is for you. Let's just start sharing whatever day to day challenges concern you, what works, what fails, war stories and neat custom security measures that saved you more than once! Everyone is welcome, also if you want to get into the defensive field and haven't started yet. Even red teamers/pentesters if they are willing to share there go-to method to domain admin and what to do about it  :)Location: https://36c3.c3nav.de/l/ccl-lecture-room-12/",
                 "persons": [
                   {
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mat",
                     "public_name": "Mat"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Marides",
+                    "public_name": "Marides"
                   }
                 ],
                 "links": []
@@ -13195,6 +13230,34 @@
                 "links": []
               }
             ],
+            "Assembly:JuliaLang": [
+              {
+                "id": 1650,
+                "guid": "6c38eb8e-0d50-4628-8dfb-20f7bc543d1c",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:JuliaLang_meetup",
+                "logo": null,
+                "date": "2019-12-29T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Assembly:JuliaLang",
+                "slug": "36c3-1650-session_julialang_meetup",
+                "title": "JuliaLang meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "User and contributor meetup\nMeet other users of and contributors to Julia",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Wallnuss",
+                    "public_name": "Wallnuss"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Assembly:Anarchist Village": [
               {
                 "id": 1330,
@@ -13681,6 +13744,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Geiddlyne",
                     "public_name": "Geiddlyne"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1620,
+                "guid": "6e8adf4f-5e81-4fbd-83f4-68c1454c837a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:No_satisfaction_without_penetration",
+                "logo": null,
+                "date": "2019-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "2:00",
+                "room": "Seminar room 13",
+                "slug": "36c3-1620-session_no_satisfaction_without_penetration",
+                "title": "No satisfaction without penetration",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Lecture/Hands-on combined security workshop\n'''Update 28.12.2019: Workshop date was changed to 30.12/10:00 due to travel problems. We try to be there in time but this can't be guaranteed :/ Sorry for the inconvenience!'''This workshop is a mix of a lecture about the basic principles of vulnerabilities and security-hackits.You'll learn about the problem behind vulnerabilities in the first step and you can tryto exploit those vulnerabilities afterwards (hands on!). The hacks could be applied to varioustopic fields like embedded/automotive, web etc. It's all about the fun of pentesting.Please note: You need some average knowledge in Python scripting or alterantivelly you can just attend the lecture (but won't be able to do the practical parts).Requirements (Please read carefully):-> Minimum average knowledge in Python scripting. You'll be given some code snippets to begin with and create your hacks. Optionally you can use your own language but support is not guaranteed!-> Hardware: Your own Laptop/PC with network connection-> Software: Linux based OS with Python installed. The following libraries have to be installed:https://gitlab.com/mike01/pypackerhttps://github.com/twisted/twisted",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mike",
+                    "public_name": "Mike"
                   }
                 ],
                 "links": []

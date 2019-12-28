@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-28 15:10</version>
+  <version>2019-12-28 15:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -2966,6 +2966,29 @@ Gespräch zum Thema 'Alternative Ansätze - Pilotprojekte zum Thema 'Umwelt, Nat
         </persons>
         <links/>
       </event>
+      <event id="1640" guid="8a72a3ef-0ef9-48c3-91ae-ef4af580d9e0">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Daniel_Domscheit_Berg_-_Verstehbahnhof_F%C3%BCrstenberg</url>
+        <logo/>
+        <date>2019-12-28T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>1:00</duration>
+        <room>Roter Salon</room>
+        <slug>36c3-1640-session_daniel_domscheit_berg_verstehbahnhof_fuerstenberg</slug>
+        <title>Daniel Domscheit Berg - Verstehbahnhof Fürstenberg</title>
+        <subtitle>Einfach mal mitgedacht</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Einfach mal mitgedacht. Offene Prozessentwicklung anhand anschaulicher Beispiele wie dem Verstehbahnhof erklärt.
+Einfach mal mitgedacht. Offene Prozessentwicklung anhand anschaulicher Beispiele wie dem Verstehbahnhof erklärt.Der Verstehbahnhof FürstenbergIn der ehemaligen Bahnhofswartehalle des Bahnhofs Fürstenberg/Havel ist ein Makerspace und Veranstaltungsort für junge Menschen entstanden -- die Halle wurde zur Station junger Naturforscher und Techniker des 21. Jahrhunderts. Wir möchten neugierig auf die Zukunft machen, einen selbstbestimmten Umgang mit Technologien vermitteln und junge Menschen dazu befähigen, die digitale Gesellschaft nach ihren Vorstellungen mitzugestalten.Dafür vermitteln wir praktische Fertigkeiten wie Elektronik-Löten und Programmieren, beschäftigen uns aber auch mit theoretischen und ethischen Fragen, wie dem verantwortungsvollen Umgang mit sozialen Medien und den eigenen Daten. Das alles kann eine Menge Spass machen. Der Spass am Entdecken, Lernen und Verstehen steht bei uns an erster Stelle! Wir wollen so Hemmschwellen abbauen und dabei kreative Geister wecken, unabhängig von Geldbeutel, Geschlecht oder sozialem Hintergrund.Der Verstehbahnhof ist mit dem RE5 in einer Stunde vom Berliner Hauptbahnhof ohne Umsteigen erreichbar. Wir befinden uns am Beginn der Mecklenburgischen Seenplatte und können somit auch Ausgangspunkt für Klassenfahrten der etwas anderen Art sein.Träger des Verstehbahnhofs ist der gemeinnützige Verein havel:lab e.V.havel:lab -- where citizens meet activists meet hackers meet makers meet crafters meet refugees meet gardeners meet kids meet cats.</description>
+        <persons>
+          <person id="0">Kreatur</person>
+        </persons>
+        <links>
+          <link>https://www.verstehbahnhof.de/</link>
+        </links>
+      </event>
       <event id="1610" guid="d20f278c-90dd-4dc8-91d6-90faf111eb09">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:HTTC_-_Hacker_Trip_To_China_MEET-UP</url>
         <logo/>
@@ -3015,20 +3038,20 @@ Wir stellen euch den Junghackertag vor. Die einzelnen Sessions werden vorgestell
         </links>
       </event>
       <event id="1629" guid="5699ccf4-0dba-425b-a7bd-e1c474eea355">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:KLAK_Moviemiento_Fahrradkino</url>
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:KLAK_Moviemiento_Fahrradkino_I</url>
         <logo/>
         <date>2019-12-28T22:15:00+01:00</date>
         <start>22:15</start>
         <duration>1:00</duration>
         <room>Roter Salon</room>
-        <slug>36c3-1629-session_klak_moviemiento_fahrradkino</slug>
-        <title>KLAK Moviemiento Fahrradkino</title>
+        <slug>36c3-1629-session_klak_moviemiento_fahrradkino_i</slug>
+        <title>KLAK Moviemiento Fahrradkino I</title>
         <subtitle/>
         <track>self organized sessions</track>
         <type>other</type>
         <language>de</language>
         <abstract/>
-        <description>
+        <description>Bring your BIKES ! &lt;3&lt;3&lt;3
 Fahrradkino mit internationalen Kurzfilmen.„DYSTOPIA“Bunte Zukunftsvisionen zeigen warum Kapitalismus glücklich macht, Technologie wirklich das Leben verbessert und warum würfelförmige Hühner die Lösung sind.Moviemiento e.V. serviert filmisch die Schnittchen und den Schampus zum Weltuntergang. Damit ihr hinterher trotzdem das Gefühl habt, die Welt zu retten, wird der gesamte Strom für das Kino von 10 Fahrrädern erzeugt - wer will, darf für Strom strampeln.In deutsch und englisch.PLEASE BRING YOUR BIKE !!! Gerne 30 Minuten vorher. Wie benötigen noch weitere Fahrräder. Liebsten Dank &lt;3 &lt;3 &lt;3</description>
         <persons>
           <person id="0">Kreatur</person>
@@ -6234,7 +6257,7 @@ Get to know a workshop design that uses improvisational theater methods to explo
         <language>de</language>
         <abstract/>
         <description>Monitor anything you want with Prometheus or Graphite using Grafana.
-Who doesn't know it.You have some very nice Software build or a Project finished.And you want to monitor the most important metrics of that Project or Software.That is where Prometheus and Graphite kick in.Using them you can store your metrics in a easy queryable way for Grafana to show them.This ensures that you are able to view insights of your project or your newly build Software.</description>
+Who doesn't know it.You have some very nice Software build or a Project finished.And you want to monitor the most important metrics of that Project or Software.That is where Prometheus and Graphite kick in.Using them you can store your metrics in a easy queryable way for Grafana to show them.This ensures that you are able to view insights of your project or your newly build Software.Github Project:https://github.com/Cellebyte/monitor-aywNetwork Exporter:https://github.com/Selfnet/prometheus-network-exporterSlides:https://cloud.cellebyte.de/index.php/s/ienmWYoB4LNowAF</description>
         <persons>
           <person id="0">Cellebyte</person>
         </persons>
@@ -6736,6 +6759,29 @@ Human Punishment ist ein Social Deduction Spiel, das Werewolf nicht unähnlich i
 We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
         <persons>
           <person id="0">Haurane</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="1komona dezentrale*">
+      <event id="1641" guid="a326d2e6-d60d-41d3-9aef-8cd59538f809">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Humans_Evaluate_Values_Token</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>1komona dezentrale*</room>
+        <slug>36c3-1641-session_humans_evaluate_values_token</slug>
+        <title>Humans Evaluate Values Token</title>
+        <subtitle>How can values save the world?</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>A philosophical model for the internet
+</description>
+        <persons>
+          <person id="0">Ahimsa</person>
         </persons>
         <links/>
       </event>
@@ -7645,6 +7691,27 @@ This workshop will provide you with the basics of playfighting, i.e., consensual
 Vorträge und Diskussion zu Datenschutz und die DSGVO, mit Datenschützern und Mitarbeitern der Aufsichtsbehörden.'''Mehr Beschreibung folgt!'''</description>
         <persons>
           <person id="0">Alvar Freude</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1643" guid="4e32c327-4df6-4b63-9fb2-5f1d7e5591d4">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:QuietQube_-_Ausweichm%C3%B6glichkeit</url>
+        <logo/>
+        <date>2019-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>9:00</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1643-session_quietqube_ausweichmoeglichkeit</slug>
+        <title>QuietQube - Ausweichmöglichkeit</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>Ausweichmöglichkeit QuietQube
+english belowAufgrund der Party in Halle 3 könnte es in der Nacht vom 29. auf den 30. sehr laut im QuietQube sein, damit ihr aber trotzdem eine Möglichkeit habt, euch in einer etwas ruhigeren Atmosphäre aufzuhalten, gibt es für die Nacht diesen Raum.Because there will be a Party at the night from the 29th to the 30st it could be loud in the QuietQube. If you want to be in a quieter room you can go to M3.</description>
+        <persons>
+          <person id="0">Benjaminwand</person>
         </persons>
         <links/>
       </event>
@@ -8791,6 +8858,27 @@ For more information please refer to the foodhackingbase wiki page: https://food
           <link>https://foodhackingbase.org/wiki/Cidre_flows_36c3</link>
         </links>
       </event>
+      <event id="1642" guid="21f4f4e1-f1bc-476a-93bd-f47ebccdddc2">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:La_pot%C3%A9e</url>
+        <logo/>
+        <date>2019-12-29T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>1:30</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>36c3-1642-session_la_pote</slug>
+        <title>La potée</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>We cook soup (French)
+Hands-on cooking of traditional winter soup from France.</description>
+        <persons>
+          <person id="0">0x378</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1354" guid="6b351b8a-64d2-4bc9-8d31-0274c91819b9">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Mate_Making</url>
         <logo/>
@@ -9415,6 +9503,27 @@ Art deliberately creates a chaos, a distortion, an exception by returning to the
         <links>
           <link>http://defend.wikileaks.org/36c3/</link>
         </links>
+      </event>
+      <event id="1639" guid="67edea8e-029c-49c1-96e7-3142726e2b54">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Auti-Ruhe-Raum</url>
+        <logo/>
+        <date>2019-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>9:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1639-session_auti_ruhe_raum</slug>
+        <title>Auti-Ruhe-Raum</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>Ausweichmöglichkeit Meltdownroom
+english belowDa am 29.12. abends eine Party in Halle 3 stattfindet, die auch die Nacht über sehr laut sein wird, wollen wir euch eine Ausweichmöglichkeit zum Meltdownroom bieten. Because there will be a Party in Hall 3, which will be loud the whole night, we try to give you another option to the meltdownroom.</description>
+        <persons>
+          <person id="0">Benjaminwand</person>
+        </persons>
+        <links/>
       </event>
       <event id="1059" guid="40223e47-9260-4412-a25c-3ed07ac2fd70">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Carbon.txt_-_what_would_a_robots.txt_for_green_infrastructure_look_like%3F</url>

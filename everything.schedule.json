@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "indent; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.19; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 13:40",
+    "version": "indent; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 13:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -15990,7 +15990,7 @@
                 "type": "Workshop 1 hour",
                 "language": "de",
                 "abstract": "KNX ist toll, zusammen mit OpenHAB sind die M\u00f6glichkeiten unendlich. Wir tauschen uns \u00fcber Automatisierungsideen aus und sprechen \u00fcber best practices.",
-                "description": "",
+                "description": "Es geht explizit nicht sprechende Wanzen (Alexa, HomePod, Google Home ect.)",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -29559,8 +29559,8 @@
                 "id": 853,
                 "guid": "25c7acdb-a59e-5121-a35a-573fea4ee019",
                 "logo": "/media/36c3/images/9RPTW9/photo_2019-11-30-090949_49145438816_o.jpg",
-                "date": "2019-12-29T16:35:00+01:00",
-                "start": "16:35",
+                "date": "2019-12-29T16:30:00+01:00",
+                "start": "16:30",
                 "duration": "01:30",
                 "room": "headnut",
                 "slug": "9RPTW9",
@@ -29601,6 +29601,38 @@
                     "code": "EUB98V",
                     "public_name": "Mundo",
                     "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 863,
+                "guid": "7e8e1f35-89a4-538b-a3f8-a5a2cc2df862",
+                "logo": "",
+                "date": "2019-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:00",
+                "room": "headnut",
+                "slug": "SGQQW9",
+                "url": "https://talks.komona.org/36c3/talk/SGQQW9/",
+                "title": "Lesung: Transhumanistische Mythologie",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "de",
+                "abstract": "Lesung und Diskussion \u00fcber das Buch Transhumanistische Mythologie - Rechte Utopien einer Erl\u00f6sung durch k\u00fcnstliche Intelligenz (Unrast Verlag 2019)",
+                "description": "Unter den neuen Machteliten, die das Silicon Valley hervorgebracht hat, macht neuerdings eine Sorge die Runde, die nichts Geringeres betrifft als die Zukunft der Menschheit: Was, wenn die Erforschung k\u00fcnstlicher Intelligenz am Ende eine k\u00fcnstliche Gottheit hervorbringt, die uns alle vernichtet?\r\n\r\nW\u00e4hrend die einen vor dem Untergang warnen, prophezeien die anderen, dass uns die g\u00f6ttlichen Maschinen in ein digitales Himmelreich f\u00fchren werden. Doch bei genauem Hinsehen entpuppt sich die Vision beider Seiten als Mythologie ohne Bezug zur Realit\u00e4t. Trotzdem werden unter dem Deckmantel des Kampfes gegen die digitale Apokalypse autorit\u00e4re Politikformen normalisiert, Ausbeutung vorangetrieben und Eugenik salonf\u00e4hig gemacht.\r\n\r\nDas vorliegende Buch ist eine ideologiekritische Analyse der Mythologien um superintelligente KI. Dabei zeigt sich, dass die Grundlagen dieser Mythologien keineswegs so neu sind, wie ihr Gegenstand uns glauben machen k\u00f6nnte. Vielmehr wiederholen sich hier \u2013 in technologischem Gewand und scheinbar s\u00e4kularisiert \u2013 alte Ideen der protestantischen Rechten. Noch drehen sie sich nur um die Zurichtung f\u00fcr die Erfordernisse des digitalisierten Kapitalismus und die Radikalisierung seines Gl\u00fccksversprechens. Doch die Grundlagen f\u00fcr eine autorit\u00e4re Wende sind im Glauben an die Superintelligenz bereits angelegt.\r\n\r\nEs wird Zeit, die Ideologie des Transhumanismus genauer in den Blick zu nehmen, weil sie das Potenzial hat, sich zu einer Herrschaftsmythologie des digitalen Zeitalters zu entwickeln.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 54,
+                    "code": "JVFKYL",
+                    "public_name": "Max Schnetker",
+                    "biography": "Max Franz Johann Schnetker promoviert \u00fcber Digitalisierung und Menschenbilder, ist ansonsten Anarchist und immer mal wieder in diversen Projekten aktiv.",
                     "answers": []
                   }
                 ],
@@ -29931,6 +29963,38 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              },
+              {
+                "id": 880,
+                "guid": "0dcc37f7-9a8b-5101-9e31-730e6012e5b3",
+                "logo": "",
+                "date": "2019-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "02:00",
+                "room": "soupworx",
+                "slug": "HCSDJQ",
+                "url": "https://talks.komona.org/36c3/talk/HCSDJQ/",
+                "title": "Werewolf",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "Let's Play Werewolfh",
+                "description": "We will play \"Les Loups-Garous de Thiercelieux\" (aka Werewolf). Newbies welcome, I'll explain the rules at the start of each session.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 70,
+                    "code": "WKDN7X",
+                    "public_name": "Haurane",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "1Komona dezentrale*": [
@@ -29966,6 +30030,38 @@
                     "code": "8XCY93",
                     "public_name": "Izzy",
                     "biography": "Izzy (she/her). \r\nStudying a social science, liking computers. Also liking (relationship) anarchy.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 881,
+                "guid": "3bf2598d-86fa-5b2e-9655-c1f6e7a54191",
+                "logo": "",
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "00:45",
+                "room": "dezentrale*",
+                "slug": "GAVNSR",
+                "url": "https://talks.komona.org/36c3/talk/GAVNSR/",
+                "title": "analogue utopia -- a radical critique of the digital",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "en",
+                "abstract": "The process model of the digital is the Turing machine. The Turing machine forms the theoretical basis of most current digital devices, whether smartphone,PC or supercomputer. The two formal operations of Turing machine are a reading and a writing process. A reading- and writing-head operates on an endless paper tape. By extending the model of the Turing machine to multiple reading- and writing-heads similar to a multiple processor system the need for of coordination and synchronization becomes obvious. While synchronization and coordination are a necessity for the digital, in the analogue they show up as emergent effects, such as for example when people clap together. Synchronization also occurs as an emergent phenomenon in technical systems, the dutch researcher Christiaan Huygens, who invented the pendulum clock in the 17th century, is probably the first person who described the effect of synchronizing clocks. Also in networks of simple coupled electronic oscillators synchronization and coordination emerge as a result of mutual coupling. The playing with the subtle couplings, with graded change and with the fine differences hints to a technological aesthetic beyond the digital.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 71,
+                    "code": "PXUUHW",
+                    "public_name": "fblchrstn",
+                    "biography": "Christian Faubel is an interdisciplinary scholar working in the differing fields of neuroscience,\r\nautonomous systems research and media art & design. He holds a PhD in electrical engineering\r\nand has completed research on autonomous systems at the Institute for Neural Computation from\r\n2002\u20132012. In 2002 he founded derstrudel, a collective for the mediation of a relaxed approach\r\nto electronics robotics. In his work, Christian Faubel is interested\r\nin what enables complex behavior, and how this may result from the interaction of very simple\r\nunits and their interrelations. In his artworks, installations, workshops & performances he tries to\r\nconvey insights about theoretical concepts such as self-organisation, emergence or embodiment\r\nalong an aesthetic dimension. He considers his artworks, workshops and performances to be in the\r\ntradition of philosophical toys as they combine the mediation of scientific concepts with pleasure\r\nand amusement.",
                     "answers": []
                   }
                 ],

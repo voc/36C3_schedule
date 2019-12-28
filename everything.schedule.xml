@@ -1,5 +1,5 @@
 <schedule>
-  <version>indent; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.19; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 13:40</version>
+  <version>indent; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 13:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -14289,7 +14289,7 @@ Der Workshop wird besonders lebendig, wenn verschiedene Altergruppen/ Generation
         <type>Workshop 1 hour</type>
         <language>de</language>
         <abstract>KNX ist toll, zusammen mit OpenHAB sind die Möglichkeiten unendlich. Wir tauschen uns über Automatisierungsideen aus und sprechen über best practices.</abstract>
-        <description/>
+        <description>Es geht explizit nicht sprechende Wanzen (Alexa, HomePod, Google Home ect.)</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -26244,8 +26244,8 @@ Join if you are interested in the topic of producing, hosting and adminstrating 
       </event>
       <event id="853" guid="25c7acdb-a59e-5121-a35a-573fea4ee019">
         <logo>/media/36c3/images/9RPTW9/photo_2019-11-30-090949_49145438816_o.jpg</logo>
-        <date>2019-12-29T16:35:00+01:00</date>
-        <start>16:35</start>
+        <date>2019-12-29T16:30:00+01:00</date>
+        <start>16:30</start>
         <duration>01:30</duration>
         <room>headnut</room>
         <slug>9RPTW9</slug>
@@ -26266,6 +26266,38 @@ Join if you are interested in the topic of producing, hosting and adminstrating 
           <person id="60">Luca</person>
           <person id="61">Marie Peters</person>
           <person id="62">Mundo</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="863" guid="7e8e1f35-89a4-538b-a3f8-a5a2cc2df862">
+        <logo/>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>headnut</room>
+        <slug>SGQQW9</slug>
+        <url>https://talks.komona.org/36c3/talk/SGQQW9/</url>
+        <title>Lesung: Transhumanistische Mythologie</title>
+        <subtitle/>
+        <track/>
+        <type>Session</type>
+        <language>de</language>
+        <abstract>Lesung und Diskussion über das Buch Transhumanistische Mythologie - Rechte Utopien einer Erlösung durch künstliche Intelligenz (Unrast Verlag 2019)</abstract>
+        <description>Unter den neuen Machteliten, die das Silicon Valley hervorgebracht hat, macht neuerdings eine Sorge die Runde, die nichts Geringeres betrifft als die Zukunft der Menschheit: Was, wenn die Erforschung künstlicher Intelligenz am Ende eine künstliche Gottheit hervorbringt, die uns alle vernichtet?&#13;
+&#13;
+Während die einen vor dem Untergang warnen, prophezeien die anderen, dass uns die göttlichen Maschinen in ein digitales Himmelreich führen werden. Doch bei genauem Hinsehen entpuppt sich die Vision beider Seiten als Mythologie ohne Bezug zur Realität. Trotzdem werden unter dem Deckmantel des Kampfes gegen die digitale Apokalypse autoritäre Politikformen normalisiert, Ausbeutung vorangetrieben und Eugenik salonfähig gemacht.&#13;
+&#13;
+Das vorliegende Buch ist eine ideologiekritische Analyse der Mythologien um superintelligente KI. Dabei zeigt sich, dass die Grundlagen dieser Mythologien keineswegs so neu sind, wie ihr Gegenstand uns glauben machen könnte. Vielmehr wiederholen sich hier – in technologischem Gewand und scheinbar säkularisiert – alte Ideen der protestantischen Rechten. Noch drehen sie sich nur um die Zurichtung für die Erfordernisse des digitalisierten Kapitalismus und die Radikalisierung seines Glücksversprechens. Doch die Grundlagen für eine autoritäre Wende sind im Glauben an die Superintelligenz bereits angelegt.&#13;
+&#13;
+Es wird Zeit, die Ideologie des Transhumanismus genauer in den Blick zu nehmen, weil sie das Potenzial hat, sich zu einer Herrschaftsmythologie des digitalen Zeitalters zu entwickeln.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="54">Max Schnetker</person>
         </persons>
         <links/>
         <attachments/>
@@ -26545,6 +26577,32 @@ Lustig, aber auch ernst.</abstract>
         <attachments/>
         <answers/>
       </event>
+      <event id="880" guid="0dcc37f7-9a8b-5101-9e31-730e6012e5b3">
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>soupworx</room>
+        <slug>HCSDJQ</slug>
+        <url>https://talks.komona.org/36c3/talk/HCSDJQ/</url>
+        <title>Werewolf</title>
+        <subtitle/>
+        <track/>
+        <type>Session</type>
+        <language>en</language>
+        <abstract>Let's Play Werewolfh</abstract>
+        <description>We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf). Newbies welcome, I'll explain the rules at the start of each session.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="70">Haurane</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="1Komona dezentrale*">
       <event id="867" guid="8c9648a1-e391-55a5-8de1-cfb2c421636f">
@@ -26569,6 +26627,32 @@ Lustig, aber auch ernst.</abstract>
         <persons>
           <person id="45">liz</person>
           <person id="57">Izzy</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="881" guid="3bf2598d-86fa-5b2e-9655-c1f6e7a54191">
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>dezentrale*</room>
+        <slug>GAVNSR</slug>
+        <url>https://talks.komona.org/36c3/talk/GAVNSR/</url>
+        <title>analogue utopia -- a radical critique of the digital</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The process model of the digital is the Turing machine. The Turing machine forms the theoretical basis of most current digital devices, whether smartphone,PC or supercomputer. The two formal operations of Turing machine are a reading and a writing process. A reading- and writing-head operates on an endless paper tape. By extending the model of the Turing machine to multiple reading- and writing-heads similar to a multiple processor system the need for of coordination and synchronization becomes obvious. While synchronization and coordination are a necessity for the digital, in the analogue they show up as emergent effects, such as for example when people clap together. Synchronization also occurs as an emergent phenomenon in technical systems, the dutch researcher Christiaan Huygens, who invented the pendulum clock in the 17th century, is probably the first person who described the effect of synchronizing clocks. Also in networks of simple coupled electronic oscillators synchronization and coordination emerge as a result of mutual coupling. The playing with the subtle couplings, with graded change and with the fine differences hints to a technological aesthetic beyond the digital.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="71">fblchrstn</person>
         </persons>
         <links/>
         <attachments/>

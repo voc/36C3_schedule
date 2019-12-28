@@ -1,5 +1,5 @@
 <schedule>
-  <version>jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.9; komona 0.21; sendezentrum 3.5; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 15:50</version>
+  <version>jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.21; sendezentrum 3.5; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 16:02</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -15948,10 +15948,10 @@ Wir freuen uns auf euch!</description>
         <type>Ausgebucht, bitte nicht mehr auswählen! Überlänge (nur Sendetisch)</type>
         <language>de</language>
         <abstract>Segfault.fm ist ein wissenschaftsorientierter Podcast über IT-Sicherheit. Wir versuchen in diesem Podcast eine Brücke zwischen Praxis und Akademia zu schlagen.</abstract>
-        <description>tba</description>
+        <description>In dieser Folge widmen wir uns den Globoli der IT-Sicherheit. Lasst uns den Bullshit potenzieren!</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="104">daniel</person>
@@ -18003,6 +18003,30 @@ We'll be sitting at the water basin/palm tree at the bottom of the CCL building 
         </persons>
         <links>
           <link>http://hammeshacks.com/</link>
+        </links>
+      </event>
+      <event id="1646" guid="0e7aa543-c818-4716-8ce3-08edb3f543e1">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:L%C3%B6troulette</url>
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1646-session_loetroulette</slug>
+        <title>Lötroulette</title>
+        <subtitle>Lebkuch.is Lötroulette</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Lebkuch.is Lötroulette
+Ein ausbaufähiges Spiel, bei dem sich mancher Widerstand als zwecklos erweist. Wir erweisen alter Hardware, die zwar noch teilweise funktioniert, aber nicht mehr sinnvoll genutzt werden kann, vor der Entsorgung im Elektroschrott die letzte Ehre.--An extensible game, which proves much resistance to be useless. We do old hardware, which can no longer be resonably used, the last honour before its disposal.</description>
+        <persons>
+          <person id="0">ChrisC</person>
+          <person id="0">Schabi</person>
+        </persons>
+        <links>
+          <link>https://k4cg.org/index.php/Projekt:Loet-Roulette</link>
         </links>
       </event>
       <event id="1111" guid="803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac">
@@ -29279,6 +29303,27 @@ For more information please refer to the foodhackingbase wiki page: https://food
           <link>https://foodhackingbase.org/wiki/Fhb_cheese_rendezvous_36c3</link>
         </links>
       </event>
+      <event id="1645" guid="62f0abf7-9f61-49f4-bea0-ca1fff5a854a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Chili_seeds_exchange</url>
+        <logo/>
+        <date>2019-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>0:30</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>36c3-1645-session_chili_seeds_exchange</slug>
+        <title>Chili seeds exchange</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Chili seeds exchange
+Just come here if you want to grow your own plants. We have seeds and info.</description>
+        <persons>
+          <person id="0">Algoldor</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1299" guid="ad5f1f72-f298-4784-9203-14ca243776f4">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Cidre_Flows</url>
         <logo/>
@@ -32945,6 +32990,33 @@ Dieser Workshop richtet sich an Menschen, die mehr als 1-2 Jahren schon Freifunk
       </event>
     </room>
     <room name="ChaosZone Bühne">
+      <event id="766" guid="f958db8e-b745-5764-916a-c70263d4c85b">
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:45</duration>
+        <room>ChaosZone Bühne</room>
+        <slug>TJNHWH</slug>
+        <url>https://cfp.chaoszone.cz/36c3/talk/TJNHWH/</url>
+        <title>Chaoszone Abbauplenum</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Plenum</type>
+        <language>de</language>
+        <abstract>**Chaoszone Interne Session**&#13;
+Wir planen den Abbau der Chaoszone</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="74">chaoszone</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="731" guid="c959c52f-5414-5105-bb36-8a6fc4d30fb9">
         <logo/>
         <date>2019-12-30T13:00:00+01:00</date>

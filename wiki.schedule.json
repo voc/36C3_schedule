@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-28 15:50",
+    "version": "2019-12-28 16:02",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -5684,6 +5684,39 @@
                 ]
               },
               {
+                "id": 1646,
+                "guid": "0e7aa543-c818-4716-8ce3-08edb3f543e1",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:L%C3%B6troulette",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1646-session_loetroulette",
+                "title": "L\u00f6troulette",
+                "subtitle": "Lebkuch.is L\u00f6troulette",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Lebkuch.is L\u00f6troulette\nEin ausbauf\u00e4higes Spiel, bei dem sich mancher Widerstand als zwecklos erweist. Wir erweisen alter Hardware, die zwar noch teilweise funktioniert, aber nicht mehr sinnvoll genutzt werden kann, vor der Entsorgung im Elektroschrott die letzte Ehre.--An extensible game, which proves much resistance to be useless. We do old hardware, which can no longer be resonably used, the last honour before its disposal.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:ChrisC",
+                    "public_name": "ChrisC"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Schabi",
+                    "public_name": "Schabi"
+                  }
+                ],
+                "links": [
+                  "https://k4cg.org/index.php/Projekt:Loet-Roulette"
+                ]
+              },
+              {
                 "id": 1111,
                 "guid": "803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag",
@@ -10966,6 +10999,32 @@
                 "links": [
                   "https://foodhackingbase.org/wiki/Fhb_cheese_rendezvous_36c3"
                 ]
+              },
+              {
+                "id": 1645,
+                "guid": "62f0abf7-9f61-49f4-bea0-ca1fff5a854a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Chili_seeds_exchange",
+                "logo": null,
+                "date": "2019-12-29T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "0:30",
+                "room": "Assembly:Foodhackingbase",
+                "slug": "36c3-1645-session_chili_seeds_exchange",
+                "title": "Chili seeds exchange",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "Chili seeds exchange\nJust come here if you want to grow your own plants. We have seeds and info.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Algoldor",
+                    "public_name": "Algoldor"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1299,

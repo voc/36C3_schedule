@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.23; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 23:10",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.23; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 23:30",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -14170,7 +14170,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "for students of mathematics, computer science or a related subject\nSome day, computers will help working mathematicians of all disciplines in finding and checking proofs. It will feel easy, effortless and natural. Computers might even surpass us, creating a new exciting niche for mathematicians: understanding the mathematical advances put forward by computers. The univalent foundations program by the late Vladimir Voevodsky was an important step towards this vision. However, we aren't there yet.Still even the current generation of theorem provers is very exciting. It's fun to talk the computer into accepting our proofs, and invariably we learn something about our proofs in the process.In this workshop, we'll cover the basics of Agda, one of the well-known proof assistants. After a short intro to the general theory, we'll get to lots of hands-on examples. Bring your laptop and have Agda installed before the workshop starts (Debian package agda, NixOS package haskellPackages.Agda). You belong to the target audience iff you have some experience in writing down mathematical proofs, for instance if at some point you proved Gau\u00df's sum formula using induction. Knowledge of Haskell is beneficiary (modulo syntax, Agda is a superset of a subset of Haskell), but not required.Literature: https://plfa.github.io/",
+                "description": "for students of mathematics, computer science or a related subject\nSome day, computers will help working mathematicians of all disciplines in finding and checking proofs. It will feel easy, effortless and natural. Computers might even surpass us, creating a new exciting niche for mathematicians: understanding the mathematical advances put forward by computers. The univalent foundations program by the late Vladimir Voevodsky was an important step towards this vision. However, we aren't there yet.Still even the current generation of theorem provers is very exciting. It's fun to talk the computer into accepting our proofs, and invariably we learn something about our proofs in the process.In this workshop, we'll cover the basics of Agda, one of the well-known proof assistants. After a short intro to the general theory, we'll get to lots of hands-on examples. Bring your laptop and have Agda installed before the workshop starts (Debian package agda, NixOS package haskellPackages.Agda). You belong to the target audience iff you have some experience in writing down mathematical proofs, for instance if at some point you proved Gau\u00df's sum formula using induction. Knowledge of Haskell is beneficiary (modulo syntax, Agda is a superset of a subset of Haskell), but not required.'''Literature''': https://plfa.github.io/'''Transcript''' of what we did in the session: https://etherpad.wikimedia.org/p/36c3-agda",
                 "persons": [
                   {
                     "id": 0,
@@ -34683,6 +34683,36 @@
                 "links": []
               }
             ],
+            "Roter Salon": [
+              {
+                "id": 1672,
+                "guid": "0a00a350-c53a-4e95-8c78-4918b953fc7e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Documentary_Photography_Workshop",
+                "logo": null,
+                "date": "2019-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "2:00",
+                "room": "Roter Salon",
+                "slug": "36c3-1672-session_documentary_photography_workshop",
+                "title": "Documentary Photography Workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "Story development workshop - idea, conceptualisation, planning, shooting, editing\nDocumentary photography story development workshop - find an idea, conceptualisation, planning, shooting, editing and presenting work.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:K8",
+                    "public_name": "K8"
+                  }
+                ],
+                "links": [
+                  "http://www.femlens.com"
+                ]
+              }
+            ],
             "Assembly:City center": [
               {
                 "id": 1413,
@@ -39494,6 +39524,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Vintage Computing Cluster": [
+              {
+                "id": 1673,
+                "guid": "72a861bb-03ec-4b2a-b844-6136d1d33381",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:VCFB_2020_planning",
+                "logo": null,
+                "date": "2019-12-30T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "1:00",
+                "room": "Vintage Computing Cluster",
+                "slug": "36c3-1673-session_vcfb_2020_planning",
+                "title": "VCFB 2020 planning",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "collecting ideas for the Vintage Computing Festival Berlin 2020\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zeltophil",
+                    "public_name": "Zeltophil"
+                  }
+                ],
+                "links": [
+                  "https://vcfb.de/"
+                ]
               }
             ]
           }

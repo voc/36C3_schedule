@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-28 21:30",
+    "version": "2019-12-28 21:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -4603,6 +4603,32 @@
                 "abstract": "",
                 "description": "\n",
                 "persons": [],
+                "links": []
+              },
+              {
+                "id": 1669,
+                "guid": "c840964f-1f37-454e-85b9-cebafb0efaa7",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werw%C3%B6lfe_von_D%C3%BCsterwald",
+                "logo": null,
+                "date": "2019-12-28T23:30:00+01:00",
+                "start": "23:30",
+                "duration": "8:00",
+                "room": "Lecture room M3",
+                "slug": "36c3-1669-session_werwoelfe_von_duesterwald",
+                "title": "Werw\u00f6lfe von D\u00fcsterwald",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "wir wollen Werw\u00f6lfe spielen (auf deutsch) und daf\u00fcr einen dedicated Raum haben.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kmille",
+                    "public_name": "Kmille"
+                  }
+                ],
                 "links": []
               },
               {
@@ -10521,6 +10547,34 @@
                 "links": [
                   "https://refugee-datathon-muc.org/"
                 ]
+              },
+              {
+                "id": 1668,
+                "guid": "db1039ea-98c2-4c70-9992-b582ec64eb37",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Storytelling_with_handcrafted_Diafilm",
+                "logo": null,
+                "date": "2019-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "0:30",
+                "room": "C-base",
+                "slug": "36c3-1668-session_storytelling_with_handcrafted_diafilm",
+                "title": "Storytelling with handcrafted Diafilm",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "DIY Diafilm\nWhat is diafilm (rus. \u0414\u0438\u0430\u0444\u0438\u043b\u044c\u043c)Diafilm is a story or tale painted on the film and projected on wall (or any surface). You project the pictures via device with lenses and light. There were many models of dia-projectors in Soviet Union. You can find them on flea markets for instance, or in the grandma's home.People who were born in USSR remember soviet diafilms, the pictures there were printed and the plots usually were based on folk tales.DYI diafilm is has the same format, but it hand-painted or scratched, so anyone can create it. And the story can be really surrealistic, crazier is better.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ryo",
+                    "public_name": "Ryo"
+                  }
+                ],
+                "links": [
+                  "http://diydiafilms.art/"
+                ]
               }
             ],
             "Seminar room 14-15": [
@@ -12660,6 +12714,34 @@
                 "links": [
                   "http://z-uno.z-wave.me"
                 ]
+              },
+              {
+                "id": 1667,
+                "guid": "3002f29d-8abb-4aaa-aa93-f8dfb5739341",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices",
+                "logo": null,
+                "date": "2019-12-29T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "1:30",
+                "room": "Assembly:CriticalDecentralisationCluster",
+                "slug": "36c3-1667-session_creating_z_wave_controllers_and_devices",
+                "title": "Creating Z-Wave controllers and devices",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:PoltoS",
+                    "public_name": "PoltoS"
+                  }
+                ],
+                "links": [
+                  "http://z-uno.z-wave.me"
+                ]
               }
             ],
             "Lecture room 12": [
@@ -12734,7 +12816,7 @@
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "meeting",
-                "language": "",
+                "language": "en",
                 "abstract": "",
                 "description": "Dat protocol & surroundings gathering for devs and people interested\nMeetup for people using, developing with or interested in the Dat Protocol. We'll talk about project, challenges, and whatever people are interested in.",
                 "persons": [

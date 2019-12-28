@@ -1,5 +1,5 @@
 <schedule>
-  <version>kill; lounges 303; chaos-west 1.0; open-infra 18; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 21:30</version>
+  <version>kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 21:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -13503,6 +13503,27 @@ This is a meetup for everyone already being part of or interested in the LessWro
         <persons/>
         <links/>
       </event>
+      <event id="1669" guid="c840964f-1f37-454e-85b9-cebafb0efaa7">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werw%C3%B6lfe_von_D%C3%BCsterwald</url>
+        <logo/>
+        <date>2019-12-28T23:30:00+01:00</date>
+        <start>23:30</start>
+        <duration>8:00</duration>
+        <room>Lecture room M3</room>
+        <slug>36c3-1669-session_werwoelfe_von_duesterwald</slug>
+        <title>Werwölfe von Düsterwald</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>wir wollen Werwölfe spielen (auf deutsch) und dafür einen dedicated Raum haben.
+</description>
+        <persons>
+          <person id="0">Kmille</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1260" guid="2ffd5755-10b9-4c30-859d-6972e4909e1a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Workshop:_Digitale_Selbstverteidigung_f%C3%BCr_Anf%C3%A4nger*innen</url>
         <logo/>
@@ -23025,7 +23046,8 @@ Einmal ein eigenes Raumfahrtprogramm leiten? Mit KSP ist das möglich.</abstract
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="163">Skelett</person>
+          <person id="163">Kilian Schauer</person>
+          <person id="166">Luca Horn</person>
         </persons>
         <links/>
         <attachments/>
@@ -24218,7 +24240,7 @@ All fishes welcome! Bring your own shark or other aquatic animal! Drop by if you
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description>Dat protocol &amp; surroundings gathering for devs and people interested
 Meetup for people using, developing with or interested in the Dat Protocol. We'll talk about project, challenges, and whatever people are interested in.</description>
@@ -29405,6 +29427,29 @@ Since 2016, the Refugee Datathon Munich meet to find and collect open data to in
           <link>https://refugee-datathon-muc.org/</link>
         </links>
       </event>
+      <event id="1668" guid="db1039ea-98c2-4c70-9992-b582ec64eb37">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Storytelling_with_handcrafted_Diafilm</url>
+        <logo/>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1668-session_storytelling_with_handcrafted_diafilm</slug>
+        <title>Storytelling with handcrafted Diafilm</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>DIY Diafilm
+What is diafilm (rus. Диафильм)Diafilm is a story or tale painted on the film and projected on wall (or any surface). You project the pictures via device with lenses and light. There were many models of dia-projectors in Soviet Union. You can find them on flea markets for instance, or in the grandma's home.People who were born in USSR remember soviet diafilms, the pictures there were printed and the plots usually were based on folk tales.DYI diafilm is has the same format, but it hand-painted or scratched, so anyone can create it. And the story can be really surrealistic, crazier is better.</description>
+        <persons>
+          <person id="0">Ryo</person>
+        </persons>
+        <links>
+          <link>http://diydiafilms.art/</link>
+        </links>
+      </event>
     </room>
     <room name="Assembly:Nibble Area">
       <event id="1281" guid="6be562ab-b327-440f-9202-14740812780a">
@@ -30165,6 +30210,29 @@ Sai's #BlindNavigation workshop from 35c3 will also take place this year! If you
         <duration>1:30</duration>
         <room>Assembly:CriticalDecentralisationCluster</room>
         <slug>36c3-1581-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol
+Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
+        <persons>
+          <person id="0">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+        </links>
+      </event>
+      <event id="1667" guid="3002f29d-8abb-4aaa-aa93-f8dfb5739341">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:CriticalDecentralisationCluster</room>
+        <slug>36c3-1667-session_creating_z_wave_controllers_and_devices</slug>
         <title>Creating Z-Wave controllers and devices</title>
         <subtitle/>
         <track>self organized sessions</track>

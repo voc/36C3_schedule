@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.21; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 19:10",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.21; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 19:30",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -13971,7 +13971,7 @@
                 "type": "hands-on",
                 "language": "",
                 "abstract": "",
-                "description": "Exploring a method for generating insight based on identifying structural gaps in networks\nIn this session we will share a method for generating insight using network analysis. We will use open-source software InfraNodus, which you can install using  http://github.com/noduslabs/infranodus \u2014 or get your own preferred network visualization and analysis tool (e.g. Gephi, Pajek or others).Using the example of text network analysis we will demonstrate a method for generating insight and understanding how any discourse can be developed in an interesting way. We will then try to apply the same method and approach to other datasets and your own examples that you will hopefully bring with you.",
+                "description": "Exploring a method for generating insight based on identifying structural gaps in networks\nIn this session we will share a method for generating insight using network analysis. We will use open-source software InfraNodus, which you can install using  http://github.com/noduslabs/infranodus \u2014 or get your own preferred network visualization and analysis tool (e.g. Gephi, Pajek or others).Using the example of text network analysis we will demonstrate a method for generating insight and understanding how any discourse can be developed in an interesting way. We will then try to apply the same method and approach to other datasets and your own examples that you will hopefully bring with you.**UPDATE** It turned out there was a scheduling bug, so if anyone is interested in talking about this topic and trying out the approach with text networks, please, send me a message on Telegram @noduslabs or Signal @aerodynamika and we can schedule a session on the 29th or the 30th when it's convenient for you. I apologize if you were affected by this and if it disrupted your plans.",
                 "persons": [
                   {
                     "id": 0,
@@ -24378,7 +24378,7 @@
                 "track": "Ethics, Society & Politics",
                 "type": "Lightning Talk",
                 "language": "en",
-                "abstract": "Working with a network of investigative reports, we've developed a toolkit for processing of leaks and public records into a graph of evidence.",
+                "abstract": "Working with a network of investigative reporters, we've developed a toolkit for processing of leaks and public records into a graph of evidence.",
                 "description": "http://alephdata.org/",
                 "recording_license": "",
                 "do_not_record": false,
@@ -27305,6 +27305,42 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:SpaceLena",
                     "public_name": "SpaceLena"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1657,
+                "guid": "dafd7f7b-1ec5-4a8f-a641-e09b37264d99",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Foundation_workshop:_Fun_with_fractals_and_programming_for_absolute_beginners_of_fractals_and_programming",
+                "logo": null,
+                "date": "2019-12-29T14:10:00+01:00",
+                "start": "14:10",
+                "duration": "1:00",
+                "room": "Lecture room 12",
+                "slug": "36c3-1657-session_foundation_workshop_fun_with_fractals_and_programming_for_absolute_beginners_of_fractals_and_programming",
+                "title": "Foundation workshop: Fun with fractals and programming for absolute beginners of fractals and programming",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "en",
+                "abstract": "",
+                "description": "Experience a guided tour through the first steps of programming. Simultaneously, you learn about imaginary numbers which, unlike any number you learn about in school, square to negative numbers. The end result will be a basic fractal viewer.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+                    "public_name": "Iblech"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MatthiasHu",
+                    "public_name": "MatthiasHu"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MichaelStruwe",
+                    "public_name": "MichaelStruwe"
                   }
                 ],
                 "links": []
@@ -32822,6 +32858,32 @@
                 "links": []
               },
               {
+                "id": 1535,
+                "guid": "5255cc55-0c8b-480b-89b2-a13f4b3f4ac6",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Abdocccecwencen_-_eine_einfu:hrung_in_c-lang",
+                "logo": null,
+                "date": "2019-12-29T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "C-base",
+                "slug": "36c3-1535-session_abdocccecwencen_eine_einfu_hrung_in_c_lang",
+                "title": "Abdocccecwencen - eine einfu:hrung in c-lang",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "c-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen \u00fcberblick zur letzten rechtschreibreform.\nc-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen \u00fcberblick zur letzten rechtschreibreform.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Nerdbeere",
+                    "public_name": "Nerdbeere"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1614,
                 "guid": "9eafc3ca-f695-4281-8a81-0553e54ca71c",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Calliope_Games_Workshop",
@@ -33078,62 +33140,6 @@
                 ],
                 "links": [
                   "https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:nibble_area"
-                ]
-              }
-            ],
-            "Assembly:C-base / CCC-B / xHain": [
-              {
-                "id": 1535,
-                "guid": "5255cc55-0c8b-480b-89b2-a13f4b3f4ac6",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Abdocccecwencen_-_eine_einfu:hrung_in_c-lang",
-                "logo": null,
-                "date": "2019-12-29T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "Assembly:C-base / CCC-B / xHain",
-                "slug": "36c3-1535-session_abdocccecwencen_eine_einfu_hrung_in_c_lang",
-                "title": "Abdocccecwencen - eine einfu:hrung in c-lang",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "c-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen \u00fcberblick zur letzten rechtschreibreform.\nc-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen \u00fcberblick zur letzten rechtschreibreform.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Nerdbeere",
-                    "public_name": "Nerdbeere"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1504,
-                "guid": "335f2235-cc22-4023-adcd-ddecc6195006",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Polizeidatenbanken:_Wer_ist_drin,_wer_will_raus%3F",
-                "logo": null,
-                "date": "2019-12-29T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "1:30",
-                "room": "Assembly:C-base / CCC-B / xHain",
-                "slug": "36c3-1504-session_polizeidatenbanken_wer_ist_drin_wer_will_raus_",
-                "title": "Polizeidatenbanken: Wer ist drin, wer will raus?",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Polizeidatenbanken: Was, wer, warum, wohin?\nWollt ihr ein Auskunftsersuchen bei der Polizei stellen, um rauszukriegen, was sie \u00fcber euch denken und warum ihr st\u00e4ndig gefilzt werden (wenn das so ist)?  Habt ihr das schon gemacht und wollt  wissen, was der Kram hei\u00dft und wie ihr in wegkriegt?  Oder seid ihr einfach neugierig auf die j\u00fcngsten Bl\u00fcten der Verdatung von \"Sicherheit\"?  Was immer: Bei dieser Session seid ihr richtig.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Demi",
-                    "public_name": "Demi"
-                  }
-                ],
-                "links": [
-                  "https://datenschmutz.de"
                 ]
               }
             ],
@@ -33747,35 +33753,33 @@
                 "links": []
               }
             ],
-            "Assembly:Pseudoroom": [
+            "Assembly:Hackers Beauty Palace": [
               {
-                "id": 1608,
-                "guid": "25601f7b-e9a9-49fe-af8e-2b3920d3d53e",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:An_introduction_to_the_post-apocalyptic_skill_of_spinning_yarn",
+                "id": 1656,
+                "guid": "c9e70d14-cb57-4a18-886d-97cd50758729",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Akrobatik_%26_Animal_Walks",
                 "logo": null,
-                "date": "2019-12-29T12:50:00+01:00",
-                "start": "12:50",
-                "duration": "2:10",
-                "room": "Assembly:Pseudoroom",
-                "slug": "36c3-1608-session_an_introduction_to_the_post_apocalyptic_skill_of_spinning_yarn",
-                "title": "An introduction to the post-apocalyptic skill of spinning yarn",
+                "date": "2019-12-29T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "1:30",
+                "room": "Assembly:Hackers Beauty Palace",
+                "slug": "36c3-1656-session_akrobatik_animal_walks",
+                "title": "Akrobatik & Animal Walks",
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "We will show you and explain how to make your own yarn from wool and other fibres.\n++ Wir treffen uns f\u00fcr m\u00f6glichst viel Tageslicht unten im CCL auf der Fl\u00e4che am Wasserbecken. ++Wir werden euch erkl\u00e4ren und zeigen, wie man aus Wolle und anderen Fasern sein eigenes Garn herstellt.Wir haben Wolle und einige fertige Handspindeln dabei sowie ein paar Baus\u00e4tze um euch eigene Holzspindeln zu bauen.Grunds\u00e4tzlich k\u00f6nnen auch Kinder, erfahrungsgem\u00e4\u00df etwa ab Vorschul-/Grundschulalter, Handspinnen lernen. Allerdings braucht es am Anfang einiges an Geduld und Motivation und wir werden zu zweit Kinder nicht sinnvoll betreuen k\u00f6nnen. Wenn ihr aber gemeinsam mit Kindern teilnehmen m\u00f6chtet ist das nat\u00fcrlich kein Problem.---++ We will meet at the lowest level in the CCL around the water basin to have as much daylight as possible. ++We will show you and explain how to make your own yarn from wool and other fibres.We bring wool and a hand full of ready-made hand spindles as well as some kits to build your own wooden spindle.In general, children can definitely learn to spin yarn, usually from pre-school / primary school age on. However, at the beginning it needs a lot of patience and motivation and we will not be able to give them the necessary support ourselves. But if you want to participate together with your children it is totally possible.",
+                "description": "Little funny Warmups & Basic Acrobatic Tricks with partner\nAusgleichssport! Nicht nur f\u00fcr Beine und Finger, sondern auch f\u00fcr den Rest. Bitte kommt idealerweise in bequemen Klamotten / Sportkleidung. Bring eine (Yoga-)Matte mit, wenn du eine hast :)Trainingsplan: Erw\u00e4rmung mit witzigen und anstregenden Animal-Walks, danach gibt's ne Einf\u00fchrung in grundlegende Partner-Akrobatik-Tricks. Aufeinander stehen, fliegen und Muskeln benutzen, von denen du nicht wusstest, dass du sie hast. ;-)Keine Vorkenntnisse erforderlich, Kindertauglich, Partner~in findet sich vor Ort.Keine Anmeldung erforderlich, einfach vorbeikommen. Wenn voll, dann fertsch.--balancing sports, not just for legs and finger, but the whole body!Please come in comfy clothes and bring a matress (if available)Plan: funny, but effective animal-walks as warm-upbasic acrobatic tricks with a partner, standing on each other, flying, using muscles you were anaware of belonging themno pre-reques, kids-friendly, partners can be found instantlyno registration needed, just be punctual at the assambly.",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Trinn",
-                    "public_name": "Trinn"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
+                    "public_name": "Alibi"
                   }
                 ],
                 "links": []
-              }
-            ],
-            "Assembly:Hackers Beauty Palace": [
+              },
               {
                 "id": 1378,
                 "guid": "fc3d22b8-3dfd-48bf-b90d-bb660e5c0dac",
@@ -33852,6 +33856,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
                     "public_name": "Alibi"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:Pseudoroom": [
+              {
+                "id": 1608,
+                "guid": "25601f7b-e9a9-49fe-af8e-2b3920d3d53e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:An_introduction_to_the_post-apocalyptic_skill_of_spinning_yarn",
+                "logo": null,
+                "date": "2019-12-29T12:50:00+01:00",
+                "start": "12:50",
+                "duration": "2:10",
+                "room": "Assembly:Pseudoroom",
+                "slug": "36c3-1608-session_an_introduction_to_the_post_apocalyptic_skill_of_spinning_yarn",
+                "title": "An introduction to the post-apocalyptic skill of spinning yarn",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "We will show you and explain how to make your own yarn from wool and other fibres.\n++ Wir treffen uns f\u00fcr m\u00f6glichst viel Tageslicht unten im CCL auf der Fl\u00e4che am Wasserbecken. ++Wir werden euch erkl\u00e4ren und zeigen, wie man aus Wolle und anderen Fasern sein eigenes Garn herstellt.Wir haben Wolle und einige fertige Handspindeln dabei sowie ein paar Baus\u00e4tze um euch eigene Holzspindeln zu bauen.Grunds\u00e4tzlich k\u00f6nnen auch Kinder, erfahrungsgem\u00e4\u00df etwa ab Vorschul-/Grundschulalter, Handspinnen lernen. Allerdings braucht es am Anfang einiges an Geduld und Motivation und wir werden zu zweit Kinder nicht sinnvoll betreuen k\u00f6nnen. Wenn ihr aber gemeinsam mit Kindern teilnehmen m\u00f6chtet ist das nat\u00fcrlich kein Problem.---++ We will meet at the lowest level in the CCL around the water basin to have as much daylight as possible. ++We will show you and explain how to make your own yarn from wool and other fibres.We bring wool and a hand full of ready-made hand spindles as well as some kits to build your own wooden spindle.In general, children can definitely learn to spin yarn, usually from pre-school / primary school age on. However, at the beginning it needs a lot of patience and motivation and we will not be able to give them the necessary support ourselves. But if you want to participate together with your children it is totally possible.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Trinn",
+                    "public_name": "Trinn"
                   }
                 ],
                 "links": []
@@ -34849,6 +34881,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:C-base / CCC-B / xHain": [
+              {
+                "id": 1504,
+                "guid": "335f2235-cc22-4023-adcd-ddecc6195006",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Polizeidatenbanken:_Wer_ist_drin,_wer_will_raus%3F",
+                "logo": null,
+                "date": "2019-12-29T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "1:30",
+                "room": "Assembly:C-base / CCC-B / xHain",
+                "slug": "36c3-1504-session_polizeidatenbanken_wer_ist_drin_wer_will_raus_",
+                "title": "Polizeidatenbanken: Wer ist drin, wer will raus?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Polizeidatenbanken: Was, wer, warum, wohin?\nWollt ihr ein Auskunftsersuchen bei der Polizei stellen, um rauszukriegen, was sie \u00fcber euch denken und warum ihr st\u00e4ndig gefilzt werden (wenn das so ist)?  Habt ihr das schon gemacht und wollt  wissen, was der Kram hei\u00dft und wie ihr in wegkriegt?  Oder seid ihr einfach neugierig auf die j\u00fcngsten Bl\u00fcten der Verdatung von \"Sicherheit\"?  Was immer: Bei dieser Session seid ihr richtig.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Demi",
+                    "public_name": "Demi"
+                  }
+                ],
+                "links": [
+                  "https://datenschmutz.de"
+                ]
               }
             ],
             "Assembly:IT-Kollektiv": [

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-28 19:10</version>
+  <version>2019-12-28 19:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -6390,7 +6390,7 @@ Loved Stranger Things and now want to kill your own friends with a Demogorgon? B
         <language/>
         <abstract/>
         <description>Exploring a method for generating insight based on identifying structural gaps in networks
-In this session we will share a method for generating insight using network analysis. We will use open-source software InfraNodus, which you can install using  http://github.com/noduslabs/infranodus — or get your own preferred network visualization and analysis tool (e.g. Gephi, Pajek or others).Using the example of text network analysis we will demonstrate a method for generating insight and understanding how any discourse can be developed in an interesting way. We will then try to apply the same method and approach to other datasets and your own examples that you will hopefully bring with you.</description>
+In this session we will share a method for generating insight using network analysis. We will use open-source software InfraNodus, which you can install using  http://github.com/noduslabs/infranodus — or get your own preferred network visualization and analysis tool (e.g. Gephi, Pajek or others).Using the example of text network analysis we will demonstrate a method for generating insight and understanding how any discourse can be developed in an interesting way. We will then try to apply the same method and approach to other datasets and your own examples that you will hopefully bring with you.**UPDATE** It turned out there was a scheduling bug, so if anyone is interested in talking about this topic and trying out the approach with text networks, please, send me a message on Telegram @noduslabs or Signal @aerodynamika and we can schedule a session on the 29th or the 30th when it's convenient for you. I apologize if you were affected by this and if it disrupted your plans.</description>
         <persons>
           <person id="0">Aerodynamika</person>
         </persons>
@@ -8282,6 +8282,27 @@ Ab 17Uhr kannst du bei uns in der Assembly Kleidungsstücke oder andere Textilie
         </persons>
         <links/>
       </event>
+      <event id="1535" guid="5255cc55-0c8b-480b-89b2-a13f4b3f4ac6">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Abdocccecwencen_-_eine_einfu:hrung_in_c-lang</url>
+        <logo/>
+        <date>2019-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1535-session_abdocccecwencen_eine_einfu_hrung_in_c_lang</slug>
+        <title>Abdocccecwencen - eine einfu:hrung in c-lang</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>c-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen überblick zur letzten rechtschreibreform.
+c-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen überblick zur letzten rechtschreibreform.</description>
+        <persons>
+          <person id="0">Nerdbeere</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1614" guid="9eafc3ca-f695-4281-8a81-0553e54ca71c">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Calliope_Games_Workshop</url>
         <logo/>
@@ -8835,52 +8856,6 @@ The Binary Kitchen soldering workshop goes 36C3. We are providing a soldering wo
         </links>
       </event>
     </room>
-    <room name="Assembly:C-base / CCC-B / xHain">
-      <event id="1535" guid="5255cc55-0c8b-480b-89b2-a13f4b3f4ac6">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Abdocccecwencen_-_eine_einfu:hrung_in_c-lang</url>
-        <logo/>
-        <date>2019-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:C-base / CCC-B / xHain</room>
-        <slug>36c3-1535-session_abdocccecwencen_eine_einfu_hrung_in_c_lang</slug>
-        <title>Abdocccecwencen - eine einfu:hrung in c-lang</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>c-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen überblick zur letzten rechtschreibreform.
-c-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen überblick zur letzten rechtschreibreform.</description>
-        <persons>
-          <person id="0">Nerdbeere</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1504" guid="335f2235-cc22-4023-adcd-ddecc6195006">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Polizeidatenbanken:_Wer_ist_drin,_wer_will_raus%3F</url>
-        <logo/>
-        <date>2019-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:C-base / CCC-B / xHain</room>
-        <slug>36c3-1504-session_polizeidatenbanken_wer_ist_drin_wer_will_raus_</slug>
-        <title>Polizeidatenbanken: Wer ist drin, wer will raus?</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Polizeidatenbanken: Was, wer, warum, wohin?
-Wollt ihr ein Auskunftsersuchen bei der Polizei stellen, um rauszukriegen, was sie über euch denken und warum ihr ständig gefilzt werden (wenn das so ist)?  Habt ihr das schon gemacht und wollt  wissen, was der Kram heißt und wie ihr in wegkriegt?  Oder seid ihr einfach neugierig auf die jüngsten Blüten der Verdatung von "Sicherheit"?  Was immer: Bei dieser Session seid ihr richtig.</description>
-        <persons>
-          <person id="0">Demi</person>
-        </persons>
-        <links>
-          <link>https://datenschmutz.de</link>
-        </links>
-      </event>
-    </room>
     <room name="Assembly:Foodhackingbase">
       <event id="1238" guid="9ef3a224-c078-40d1-92e2-7908f58390f1">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Advanced_Probiotic_Brewing</url>
@@ -9377,6 +9352,94 @@ Geigerzähler– Hardwarebasteln mit LoRaWAN &amp; WiFiWir sind die Ecocurious-I
         <links/>
       </event>
     </room>
+    <room name="Assembly:Hackers Beauty Palace">
+      <event id="1656" guid="c9e70d14-cb57-4a18-886d-97cd50758729">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Akrobatik_%26_Animal_Walks</url>
+        <logo/>
+        <date>2019-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>1:30</duration>
+        <room>Assembly:Hackers Beauty Palace</room>
+        <slug>36c3-1656-session_akrobatik_animal_walks</slug>
+        <title>Akrobatik &amp; Animal Walks</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Little funny Warmups &amp; Basic Acrobatic Tricks with partner
+Ausgleichssport! Nicht nur für Beine und Finger, sondern auch für den Rest. Bitte kommt idealerweise in bequemen Klamotten / Sportkleidung. Bring eine (Yoga-)Matte mit, wenn du eine hast :)Trainingsplan: Erwärmung mit witzigen und anstregenden Animal-Walks, danach gibt's ne Einführung in grundlegende Partner-Akrobatik-Tricks. Aufeinander stehen, fliegen und Muskeln benutzen, von denen du nicht wusstest, dass du sie hast. ;-)Keine Vorkenntnisse erforderlich, Kindertauglich, Partner~in findet sich vor Ort.Keine Anmeldung erforderlich, einfach vorbeikommen. Wenn voll, dann fertsch.--balancing sports, not just for legs and finger, but the whole body!Please come in comfy clothes and bring a matress (if available)Plan: funny, but effective animal-walks as warm-upbasic acrobatic tricks with a partner, standing on each other, flying, using muscles you were anaware of belonging themno pre-reques, kids-friendly, partners can be found instantlyno registration needed, just be punctual at the assambly.</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1378" guid="fc3d22b8-3dfd-48bf-b90d-bb660e5c0dac">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:BODILY_CHATROOM:_Contact_Improvisation_Dance_Workshop</url>
+        <logo/>
+        <date>2019-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Hackers Beauty Palace</room>
+        <slug>36c3-1378-session_bodily_chatroom_contact_improvisation_dance_workshop</slug>
+        <title>BODILY CHATROOM: Contact Improvisation Dance Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Get in Reallife Touch! A very special dancing lesson that aims to get you closer: with yourself and with others.
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1648" guid="41dbca89-3c89-4fc7-a240-a09ccd0ac603">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Body_intelligence_for_authentic_connection_/_Tantric_speed_dating</url>
+        <logo/>
+        <date>2019-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>1:30</duration>
+        <room>Assembly:Hackers Beauty Palace</room>
+        <slug>36c3-1648-session_body_intelligence_for_authentic_connection_tantric_speed_dating</slug>
+        <title>Body intelligence for authentic connection / Tantric speed dating</title>
+        <subtitle>Safety and presence excercises, then connecting authenticly</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Learning Somatic safety, feel what you want, playfully meet people with honesty
+I will offer some tools and excercises to learn how to feel safe and empowered within ourselves and in a group, to listen to our subconscious/ body/ intuition about what feels good or not.  With these tools, there is then a chance to come in contact in playful, honest and connecting ways that shows your compatibility much more than the usual awkward small talk.I Greg have been a connection and presence geek for many years and is now combining his new tools from Embodied Intimacy and Pelvic Heart Integration trainings.  He helps people feel relaxed and landed in their bodies, and holds space for emotional exploration and release.  He is currently offering deep cuddling sessions in Berlin, besides electronics engineering, conscious kink and dance explorationHeld in English with German translation as needed</description>
+        <persons>
+          <person id="0">Gwfung</person>
+        </persons>
+        <links>
+          <link>http://www.PelvicHeart.de</link>
+        </links>
+      </event>
+      <event id="1655" guid="65729dc6-ab48-4d20-b427-af743ab464c4">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT:_Learn_how_to_massage_your_nerdy_cramps_away</url>
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Hackers Beauty Palace</room>
+        <slug>36c3-1655-session_reboot_learn_how_to_massage_your_nerdy_cramps_away</slug>
+        <title>REBOOT: Learn how to massage your nerdy cramps away</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Lecture room M1">
       <event id="1218" guid="9ef2a13a-61f1-4b47-a4f5-2bdd2c1b66de">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Alternatives_to_Google_Apps_on_Android</url>
@@ -9833,73 +9896,6 @@ The talk gives a primer to the set-theoretic multiverse philosophy put forward b
         </links>
       </event>
     </room>
-    <room name="Assembly:Hackers Beauty Palace">
-      <event id="1378" guid="fc3d22b8-3dfd-48bf-b90d-bb660e5c0dac">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:BODILY_CHATROOM:_Contact_Improvisation_Dance_Workshop</url>
-        <logo/>
-        <date>2019-12-29T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:Hackers Beauty Palace</room>
-        <slug>36c3-1378-session_bodily_chatroom_contact_improvisation_dance_workshop</slug>
-        <title>BODILY CHATROOM: Contact Improvisation Dance Workshop</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Get in Reallife Touch! A very special dancing lesson that aims to get you closer: with yourself and with others.
-</description>
-        <persons>
-          <person id="0">Alibi</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1648" guid="41dbca89-3c89-4fc7-a240-a09ccd0ac603">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Body_intelligence_for_authentic_connection_/_Tantric_speed_dating</url>
-        <logo/>
-        <date>2019-12-29T17:30:00+01:00</date>
-        <start>17:30</start>
-        <duration>1:30</duration>
-        <room>Assembly:Hackers Beauty Palace</room>
-        <slug>36c3-1648-session_body_intelligence_for_authentic_connection_tantric_speed_dating</slug>
-        <title>Body intelligence for authentic connection / Tantric speed dating</title>
-        <subtitle>Safety and presence excercises, then connecting authenticly</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Learning Somatic safety, feel what you want, playfully meet people with honesty
-I will offer some tools and excercises to learn how to feel safe and empowered within ourselves and in a group, to listen to our subconscious/ body/ intuition about what feels good or not.  With these tools, there is then a chance to come in contact in playful, honest and connecting ways that shows your compatibility much more than the usual awkward small talk.I Greg have been a connection and presence geek for many years and is now combining his new tools from Embodied Intimacy and Pelvic Heart Integration trainings.  He helps people feel relaxed and landed in their bodies, and holds space for emotional exploration and release.  He is currently offering deep cuddling sessions in Berlin, besides electronics engineering, conscious kink and dance explorationHeld in English with German translation as needed</description>
-        <persons>
-          <person id="0">Gwfung</person>
-        </persons>
-        <links>
-          <link>http://www.PelvicHeart.de</link>
-        </links>
-      </event>
-      <event id="1655" guid="65729dc6-ab48-4d20-b427-af743ab464c4">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT:_Learn_how_to_massage_your_nerdy_cramps_away</url>
-        <logo/>
-        <date>2019-12-29T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Hackers Beauty Palace</room>
-        <slug>36c3-1655-session_reboot_learn_how_to_massage_your_nerdy_cramps_away</slug>
-        <title>REBOOT: Learn how to massage your nerdy cramps away</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>en</language>
-        <abstract/>
-        <description>
-</description>
-        <persons>
-          <person id="0">Alibi</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
     <room name="Assembly:Labitat">
       <event id="1592" guid="c761f1af-c090-4e3e-9165-151d0bafb846">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Badgelife_Meetup</url>
@@ -10278,6 +10274,29 @@ Blue Teamers Unite!Blue Teamers, CorpSecs, ITSec Departments and 1ManShow-(Sec)A
 All fishes welcome! Bring your own shark or other aquatic animal! Drop by if you want to see all the sharks and meet other shark friends.</description>
         <persons>
           <person id="0">SpaceLena</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1657" guid="dafd7f7b-1ec5-4a8f-a641-e09b37264d99">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Foundation_workshop:_Fun_with_fractals_and_programming_for_absolute_beginners_of_fractals_and_programming</url>
+        <logo/>
+        <date>2019-12-29T14:10:00+01:00</date>
+        <start>14:10</start>
+        <duration>1:00</duration>
+        <room>Lecture room 12</room>
+        <slug>36c3-1657-session_foundation_workshop_fun_with_fractals_and_programming_for_absolute_beginners_of_fractals_and_programming</slug>
+        <title>Foundation workshop: Fun with fractals and programming for absolute beginners of fractals and programming</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Experience a guided tour through the first steps of programming. Simultaneously, you learn about imaginary numbers which, unlike any number you learn about in school, square to negative numbers. The end result will be a basic fractal viewer.
+</description>
+        <persons>
+          <person id="0">Iblech</person>
+          <person id="0">MatthiasHu</person>
+          <person id="0">MichaelStruwe</person>
         </persons>
         <links/>
       </event>
@@ -11049,6 +11068,31 @@ Achtung: Die ersten 30 Minuten sind für den Aufbau eingeplant, der eigentliche 
           <person id="0">Dkt</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Assembly:C-base / CCC-B / xHain">
+      <event id="1504" guid="335f2235-cc22-4023-adcd-ddecc6195006">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Polizeidatenbanken:_Wer_ist_drin,_wer_will_raus%3F</url>
+        <logo/>
+        <date>2019-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:C-base / CCC-B / xHain</room>
+        <slug>36c3-1504-session_polizeidatenbanken_wer_ist_drin_wer_will_raus_</slug>
+        <title>Polizeidatenbanken: Wer ist drin, wer will raus?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Polizeidatenbanken: Was, wer, warum, wohin?
+Wollt ihr ein Auskunftsersuchen bei der Polizei stellen, um rauszukriegen, was sie über euch denken und warum ihr ständig gefilzt werden (wenn das so ist)?  Habt ihr das schon gemacht und wollt  wissen, was der Kram heißt und wie ihr in wegkriegt?  Oder seid ihr einfach neugierig auf die jüngsten Blüten der Verdatung von "Sicherheit"?  Was immer: Bei dieser Session seid ihr richtig.</description>
+        <persons>
+          <person id="0">Demi</person>
+        </persons>
+        <links>
+          <link>https://datenschmutz.de</link>
+        </links>
       </event>
     </room>
     <room name="Assembly:IT-Kollektiv">

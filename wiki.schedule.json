@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-28 19:10",
+    "version": "2019-12-28 19:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -7926,7 +7926,7 @@
                 "type": "hands-on",
                 "language": "",
                 "abstract": "",
-                "description": "Exploring a method for generating insight based on identifying structural gaps in networks\nIn this session we will share a method for generating insight using network analysis. We will use open-source software InfraNodus, which you can install using  http://github.com/noduslabs/infranodus \u2014 or get your own preferred network visualization and analysis tool (e.g. Gephi, Pajek or others).Using the example of text network analysis we will demonstrate a method for generating insight and understanding how any discourse can be developed in an interesting way. We will then try to apply the same method and approach to other datasets and your own examples that you will hopefully bring with you.",
+                "description": "Exploring a method for generating insight based on identifying structural gaps in networks\nIn this session we will share a method for generating insight using network analysis. We will use open-source software InfraNodus, which you can install using  http://github.com/noduslabs/infranodus \u2014 or get your own preferred network visualization and analysis tool (e.g. Gephi, Pajek or others).Using the example of text network analysis we will demonstrate a method for generating insight and understanding how any discourse can be developed in an interesting way. We will then try to apply the same method and approach to other datasets and your own examples that you will hopefully bring with you.**UPDATE** It turned out there was a scheduling bug, so if anyone is interested in talking about this topic and trying out the approach with text networks, please, send me a message on Telegram @noduslabs or Signal @aerodynamika and we can schedule a session on the 29th or the 30th when it's convenient for you. I apologize if you were affected by this and if it disrupted your plans.",
                 "persons": [
                   {
                     "id": 0,
@@ -10268,6 +10268,32 @@
                 "links": []
               },
               {
+                "id": 1535,
+                "guid": "5255cc55-0c8b-480b-89b2-a13f4b3f4ac6",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Abdocccecwencen_-_eine_einfu:hrung_in_c-lang",
+                "logo": null,
+                "date": "2019-12-29T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "C-base",
+                "slug": "36c3-1535-session_abdocccecwencen_eine_einfu_hrung_in_c_lang",
+                "title": "Abdocccecwencen - eine einfu:hrung in c-lang",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "c-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen \u00fcberblick zur letzten rechtschreibreform.\nc-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen \u00fcberblick zur letzten rechtschreibreform.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Nerdbeere",
+                    "public_name": "Nerdbeere"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1614,
                 "guid": "9eafc3ca-f695-4281-8a81-0553e54ca71c",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Calliope_Games_Workshop",
@@ -10945,62 +10971,6 @@
                 ]
               }
             ],
-            "Assembly:C-base / CCC-B / xHain": [
-              {
-                "id": 1535,
-                "guid": "5255cc55-0c8b-480b-89b2-a13f4b3f4ac6",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Abdocccecwencen_-_eine_einfu:hrung_in_c-lang",
-                "logo": null,
-                "date": "2019-12-29T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:00",
-                "room": "Assembly:C-base / CCC-B / xHain",
-                "slug": "36c3-1535-session_abdocccecwencen_eine_einfu_hrung_in_c_lang",
-                "title": "Abdocccecwencen - eine einfu:hrung in c-lang",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "c-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen \u00fcberblick zur letzten rechtschreibreform.\nc-lang ist die geschriebene sprache der c-base. dieser talk gibt einen generellen \u00fcberblick zur letzten rechtschreibreform.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Nerdbeere",
-                    "public_name": "Nerdbeere"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1504,
-                "guid": "335f2235-cc22-4023-adcd-ddecc6195006",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Polizeidatenbanken:_Wer_ist_drin,_wer_will_raus%3F",
-                "logo": null,
-                "date": "2019-12-29T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "1:30",
-                "room": "Assembly:C-base / CCC-B / xHain",
-                "slug": "36c3-1504-session_polizeidatenbanken_wer_ist_drin_wer_will_raus_",
-                "title": "Polizeidatenbanken: Wer ist drin, wer will raus?",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Polizeidatenbanken: Was, wer, warum, wohin?\nWollt ihr ein Auskunftsersuchen bei der Polizei stellen, um rauszukriegen, was sie \u00fcber euch denken und warum ihr st\u00e4ndig gefilzt werden (wenn das so ist)?  Habt ihr das schon gemacht und wollt  wissen, was der Kram hei\u00dft und wie ihr in wegkriegt?  Oder seid ihr einfach neugierig auf die j\u00fcngsten Bl\u00fcten der Verdatung von \"Sicherheit\"?  Was immer: Bei dieser Session seid ihr richtig.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Demi",
-                    "public_name": "Demi"
-                  }
-                ],
-                "links": [
-                  "https://datenschmutz.de"
-                ]
-              }
-            ],
             "Assembly:Foodhackingbase": [
               {
                 "id": 1238,
@@ -11611,6 +11581,114 @@
                 "links": []
               }
             ],
+            "Assembly:Hackers Beauty Palace": [
+              {
+                "id": 1656,
+                "guid": "c9e70d14-cb57-4a18-886d-97cd50758729",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Akrobatik_%26_Animal_Walks",
+                "logo": null,
+                "date": "2019-12-29T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "1:30",
+                "room": "Assembly:Hackers Beauty Palace",
+                "slug": "36c3-1656-session_akrobatik_animal_walks",
+                "title": "Akrobatik & Animal Walks",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Little funny Warmups & Basic Acrobatic Tricks with partner\nAusgleichssport! Nicht nur f\u00fcr Beine und Finger, sondern auch f\u00fcr den Rest. Bitte kommt idealerweise in bequemen Klamotten / Sportkleidung. Bring eine (Yoga-)Matte mit, wenn du eine hast :)Trainingsplan: Erw\u00e4rmung mit witzigen und anstregenden Animal-Walks, danach gibt's ne Einf\u00fchrung in grundlegende Partner-Akrobatik-Tricks. Aufeinander stehen, fliegen und Muskeln benutzen, von denen du nicht wusstest, dass du sie hast. ;-)Keine Vorkenntnisse erforderlich, Kindertauglich, Partner~in findet sich vor Ort.Keine Anmeldung erforderlich, einfach vorbeikommen. Wenn voll, dann fertsch.--balancing sports, not just for legs and finger, but the whole body!Please come in comfy clothes and bring a matress (if available)Plan: funny, but effective animal-walks as warm-upbasic acrobatic tricks with a partner, standing on each other, flying, using muscles you were anaware of belonging themno pre-reques, kids-friendly, partners can be found instantlyno registration needed, just be punctual at the assambly.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
+                    "public_name": "Alibi"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1378,
+                "guid": "fc3d22b8-3dfd-48bf-b90d-bb660e5c0dac",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:BODILY_CHATROOM:_Contact_Improvisation_Dance_Workshop",
+                "logo": null,
+                "date": "2019-12-29T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "1:30",
+                "room": "Assembly:Hackers Beauty Palace",
+                "slug": "36c3-1378-session_bodily_chatroom_contact_improvisation_dance_workshop",
+                "title": "BODILY CHATROOM: Contact Improvisation Dance Workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Get in Reallife Touch! A very special dancing lesson that aims to get you closer: with yourself and with others.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
+                    "public_name": "Alibi"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1648,
+                "guid": "41dbca89-3c89-4fc7-a240-a09ccd0ac603",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Body_intelligence_for_authentic_connection_/_Tantric_speed_dating",
+                "logo": null,
+                "date": "2019-12-29T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "1:30",
+                "room": "Assembly:Hackers Beauty Palace",
+                "slug": "36c3-1648-session_body_intelligence_for_authentic_connection_tantric_speed_dating",
+                "title": "Body intelligence for authentic connection / Tantric speed dating",
+                "subtitle": "Safety and presence excercises, then connecting authenticly",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Learning Somatic safety, feel what you want, playfully meet people with honesty\nI will offer some tools and excercises to learn how to feel safe and empowered within ourselves and in a group, to listen to our subconscious/ body/ intuition about what feels good or not.  With these tools, there is then a chance to come in contact in playful, honest and connecting ways that shows your compatibility much more than the usual awkward small talk.I Greg have been a connection and presence geek for many years and is now combining his new tools from Embodied Intimacy and Pelvic Heart Integration trainings.  He helps people feel relaxed and landed in their bodies, and holds space for emotional exploration and release.  He is currently offering deep cuddling sessions in Berlin, besides electronics engineering, conscious kink and dance explorationHeld in English with German translation as needed",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Gwfung",
+                    "public_name": "Gwfung"
+                  }
+                ],
+                "links": [
+                  "http://www.PelvicHeart.de"
+                ]
+              },
+              {
+                "id": 1655,
+                "guid": "65729dc6-ab48-4d20-b427-af743ab464c4",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT:_Learn_how_to_massage_your_nerdy_cramps_away",
+                "logo": null,
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Assembly:Hackers Beauty Palace",
+                "slug": "36c3-1655-session_reboot_learn_how_to_massage_your_nerdy_cramps_away",
+                "title": "REBOOT: Learn how to massage your nerdy cramps away",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "en",
+                "abstract": "",
+                "description": "\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
+                    "public_name": "Alibi"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Lecture room M1": [
               {
                 "id": 1218,
@@ -12164,88 +12242,6 @@
                 ]
               }
             ],
-            "Assembly:Hackers Beauty Palace": [
-              {
-                "id": 1378,
-                "guid": "fc3d22b8-3dfd-48bf-b90d-bb660e5c0dac",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:BODILY_CHATROOM:_Contact_Improvisation_Dance_Workshop",
-                "logo": null,
-                "date": "2019-12-29T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "1:30",
-                "room": "Assembly:Hackers Beauty Palace",
-                "slug": "36c3-1378-session_bodily_chatroom_contact_improvisation_dance_workshop",
-                "title": "BODILY CHATROOM: Contact Improvisation Dance Workshop",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Get in Reallife Touch! A very special dancing lesson that aims to get you closer: with yourself and with others.\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
-                    "public_name": "Alibi"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1648,
-                "guid": "41dbca89-3c89-4fc7-a240-a09ccd0ac603",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Body_intelligence_for_authentic_connection_/_Tantric_speed_dating",
-                "logo": null,
-                "date": "2019-12-29T17:30:00+01:00",
-                "start": "17:30",
-                "duration": "1:30",
-                "room": "Assembly:Hackers Beauty Palace",
-                "slug": "36c3-1648-session_body_intelligence_for_authentic_connection_tantric_speed_dating",
-                "title": "Body intelligence for authentic connection / Tantric speed dating",
-                "subtitle": "Safety and presence excercises, then connecting authenticly",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Learning Somatic safety, feel what you want, playfully meet people with honesty\nI will offer some tools and excercises to learn how to feel safe and empowered within ourselves and in a group, to listen to our subconscious/ body/ intuition about what feels good or not.  With these tools, there is then a chance to come in contact in playful, honest and connecting ways that shows your compatibility much more than the usual awkward small talk.I Greg have been a connection and presence geek for many years and is now combining his new tools from Embodied Intimacy and Pelvic Heart Integration trainings.  He helps people feel relaxed and landed in their bodies, and holds space for emotional exploration and release.  He is currently offering deep cuddling sessions in Berlin, besides electronics engineering, conscious kink and dance explorationHeld in English with German translation as needed",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Gwfung",
-                    "public_name": "Gwfung"
-                  }
-                ],
-                "links": [
-                  "http://www.PelvicHeart.de"
-                ]
-              },
-              {
-                "id": 1655,
-                "guid": "65729dc6-ab48-4d20-b427-af743ab464c4",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT:_Learn_how_to_massage_your_nerdy_cramps_away",
-                "logo": null,
-                "date": "2019-12-29T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "1:00",
-                "room": "Assembly:Hackers Beauty Palace",
-                "slug": "36c3-1655-session_reboot_learn_how_to_massage_your_nerdy_cramps_away",
-                "title": "REBOOT: Learn how to massage your nerdy cramps away",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "en",
-                "abstract": "",
-                "description": "\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
-                    "public_name": "Alibi"
-                  }
-                ],
-                "links": []
-              }
-            ],
             "Assembly:Labitat": [
               {
                 "id": 1592,
@@ -12720,6 +12716,42 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:SpaceLena",
                     "public_name": "SpaceLena"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1657,
+                "guid": "dafd7f7b-1ec5-4a8f-a641-e09b37264d99",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Foundation_workshop:_Fun_with_fractals_and_programming_for_absolute_beginners_of_fractals_and_programming",
+                "logo": null,
+                "date": "2019-12-29T14:10:00+01:00",
+                "start": "14:10",
+                "duration": "1:00",
+                "room": "Lecture room 12",
+                "slug": "36c3-1657-session_foundation_workshop_fun_with_fractals_and_programming_for_absolute_beginners_of_fractals_and_programming",
+                "title": "Foundation workshop: Fun with fractals and programming for absolute beginners of fractals and programming",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "en",
+                "abstract": "",
+                "description": "Experience a guided tour through the first steps of programming. Simultaneously, you learn about imaginary numbers which, unlike any number you learn about in school, square to negative numbers. The end result will be a basic fractal viewer.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+                    "public_name": "Iblech"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MatthiasHu",
+                    "public_name": "MatthiasHu"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MichaelStruwe",
+                    "public_name": "MichaelStruwe"
                   }
                 ],
                 "links": []
@@ -13678,6 +13710,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:C-base / CCC-B / xHain": [
+              {
+                "id": 1504,
+                "guid": "335f2235-cc22-4023-adcd-ddecc6195006",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Polizeidatenbanken:_Wer_ist_drin,_wer_will_raus%3F",
+                "logo": null,
+                "date": "2019-12-29T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "1:30",
+                "room": "Assembly:C-base / CCC-B / xHain",
+                "slug": "36c3-1504-session_polizeidatenbanken_wer_ist_drin_wer_will_raus_",
+                "title": "Polizeidatenbanken: Wer ist drin, wer will raus?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Polizeidatenbanken: Was, wer, warum, wohin?\nWollt ihr ein Auskunftsersuchen bei der Polizei stellen, um rauszukriegen, was sie \u00fcber euch denken und warum ihr st\u00e4ndig gefilzt werden (wenn das so ist)?  Habt ihr das schon gemacht und wollt  wissen, was der Kram hei\u00dft und wie ihr in wegkriegt?  Oder seid ihr einfach neugierig auf die j\u00fcngsten Bl\u00fcten der Verdatung von \"Sicherheit\"?  Was immer: Bei dieser Session seid ihr richtig.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Demi",
+                    "public_name": "Demi"
+                  }
+                ],
+                "links": [
+                  "https://datenschmutz.de"
+                ]
               }
             ],
             "Assembly:IT-Kollektiv": [

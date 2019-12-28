@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-28 16:40</version>
+  <version>2019-12-28 16:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -10269,7 +10269,8 @@ We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, 
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Mini-Hackathon</description>
+        <description>Mini-Hackathon
+We want to meet up in the Wikipaka WG to start working on an some projects, as e.G. an interactive data visualization tool for publicly accessible ecological (and socio-economical) time series datasets from different sources. The goal of the projects is, generally, to help people to get an idea of the challenges ecosystems are facing in the Anthropocene and to encourage people to become active.Hacking Ecology is a citizen science collective that, on the basis of the ideas of open source and open data, wants to contribute to the research necessary to avert the ecological crisis. In this mini-Hackathon, we want to kickstart out first project, an easily useable interactive (web-)tool (in Python, using Bokeh) and brings together and visualizes publicly available time series datasets from very different sources. With it, it should be possible to visualize e. G. the change in precipitation or rate of urbanization as well as the numbers of earthworms in the same figure, so that one can get a feeling for the challenges ecosystems are facing in the Anthropocene. Furthermore, this tool will be a good basis for future work of Hacking Ecology, as it makes it easier to e. G. form hypotheses on which human actions are harmful for the environment or what actions could be taken to avoid ecosystems from breaking down.We will provide a first, clumsy version of the tool and a list of datasets that might be relevant to ecosystems, but are very happy to take up all helpful input and ideas; all code will be immediately published on Github and we'll try to run this as collaborative as possible. Please bring something you can write and submit code with.Source Code for Videt: https://github.com/HackingEcology/videt &lt;br&gt;Pads (for discussion and coordination):  &lt;br&gt;Videt https://pad.totalism.org/p/Hacking_Ecology_Hackathon_36c3 &lt;br&gt;Snooze Against The Machine: https://pad.totalism.org/p/snooze&lt;br&gt;Wildretter: https://pad.totalism.org/p/wildretter&lt;br&gt;Website: http://hackingecology.eu/ &lt;br&gt;Mailing list: https://lists.posteo.de/listinfo/hackingecology &lt;br&gt;</description>
         <persons>
           <person id="0">Sperlea</person>
         </persons>

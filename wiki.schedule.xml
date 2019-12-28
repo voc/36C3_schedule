@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-28 02:50</version>
+  <version>2019-12-28 03:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -2615,13 +2615,14 @@ This is for everyone eager to get started in Japanese reading and writing or get
         <language>de</language>
         <abstract/>
         <description>Wir entwicklen gemeinsam eine kleine App für iPhones und Android Smartphones - und erklären dabei jeden einzelnen Schritt (We'll develop a simple mobile app - and explain each and every step along the way)
-Wir entwicklen gemeinsam eine kleine App für Android und iOS. Dabei erkläre ich jeden einzelnen Schritt, lasse nichts aus, und programmiere so, wie man als Anfänger programmiert - mit viel Online-Recherche - sodass du danach direkt deine eigene App entwickeln kannst. Die App, die wir gemeinsam entwickeln, kannst du am Ende der Session ganz einfach auf deinem eigenen Smartphone nutzen. Ich zeige dir wie!Ein Computer muss nicht mitgebracht werden. Es ist wohl sinnvoller, meiner Live-Programmierung ohne eigenen PC zu folgen, um dann gezielt fragen stellen zu können. Du kannst aber auch gerne deinen eigenen Laptop mitbringen, wenn du magst.Welche Werkzeuge werden wir nutzen?- Wir werden das beliebteste und meist verbreiteste Werkzeug zur Entwicklung moderner Apps für das iPhone und Android Smartphones nutzen. Es heißt "React Native". Außerdem nutzen wir "Expo", mit dem wir ganz schnell entwickeln und die App sehr leicht auf anderen Smartphones testen können.---------------English version:This workshop is advertised in German, but everyone is very welcome to attend! If you don't speak German, I'll switch to German in case it's fine for everyone or repeat the most important steps in English otherwise.A few words about this workshop in English: In this interactive session we'll develop a small mobile app for Android and iOS. We won't skip any step to make it accessible for complete beginners. I'll live code in the manner a beginner would do it - with browsing for solutions online - to give you a feel of how you really do mobile development ;-)In the end, you'll be able to use the app on your own smartphone. I'll teach you about a great tool which makes mobile development easy.</description>
+</description>
         <persons>
           <person id="0">Andru</person>
         </persons>
         <links>
-          <link>https://docs.google.com/presentation/d/1SRET00zlK8-jbwDSuPjmKNOL4gCwnX2KHSRCOui2WUE/</link>
           <link>https://github.com/Andruschenko/simple-react-native-app</link>
+          <link>https://expo.io/@andrusch/instagram</link>
+          <link>https://docs.google.com/presentation/d/1bnmqbsCyadH6mohw3NCwwaZyepih6JnT-aEFQxlRY1Q/</link>
         </links>
       </event>
       <event id="1087" guid="4fcc3853-b979-4f41-91ef-91e9053ac5e4">
@@ -2987,7 +2988,7 @@ Learn how to make a very simple  knitted sweater using basic arithmatic. This wo
         <language>de</language>
         <abstract/>
         <description>Session for people who want to join the project
-Moved to Wikipaka WG: Bibliothek, 16:00-16:40I will shortly introduce you into the history and the current state of the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further. The years old codebase is waiting for you with legacy Java but also Kotlin. Besides programming there is enough to do which does not require you to write code such as &lt;ul&gt;&lt;li&gt;translation&lt;/li&gt;&lt;li&gt;design&lt;/li&gt;&lt;li&gt;documentation&lt;/li&gt;&lt;li&gt;public relations&lt;/li&gt;&lt;li&gt;outreach&lt;/li&gt;&lt;li&gt;communication with users&lt;/li&gt;&lt;/ul&gt;and many more.</description>
+I will shortly introduce you into the history and the current state of the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further. The years old codebase is waiting for you with lecacy Java but also Kotlin. Besides programming there is enough to do which does not require you to write code such as &lt;ul&gt;&lt;li&gt;translation&lt;/li&gt;&lt;li&gt;design&lt;/li&gt;&lt;li&gt;documentation&lt;/li&gt;&lt;li&gt;public relations&lt;/li&gt;&lt;li&gt;outreach&lt;/li&gt;&lt;li&gt;communication with users&lt;/li&gt;&lt;/ul&gt;and many more.</description>
         <persons>
           <person id="0">Tbsprs</person>
         </persons>

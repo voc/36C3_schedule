@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-28 22:10",
+    "version": "2019-12-28 22:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -1408,6 +1408,169 @@
                 ]
               }
             ],
+            "C-base": [
+              {
+                "id": 1670,
+                "guid": "37728110-3b2c-4f26-881c-705135d180c0",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Board_Games_etc.",
+                "logo": null,
+                "date": "2019-12-27T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "2:00",
+                "room": "C-base",
+                "slug": "36c3-1670-session_board_games_etc_",
+                "title": "Board Games etc.",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "",
+                "abstract": "",
+                "description": "Just playin'\nHaning out and playing board gamesPentagameChessGoQuatro",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Penta",
+                    "public_name": "Penta"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1158,
+                "guid": "4e14dacd-e21b-43ef-884a-5723d19ab6a8",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Cyber4EDU",
+                "logo": null,
+                "date": "2019-12-27T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1158-session_cyber4edu",
+                "title": "Cyber4EDU",
+                "subtitle": "C4EDU Workshop 1",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "de",
+                "abstract": "",
+                "description": "Nachhaltig gute Software, Lernmaterialien und Hardware f\u00fcr Schulen\nWir wollen einen Vorschlag f\u00fcr eine Checkliste f\u00fcr Schulen diskutieren. Die Checkliste soll Schulen helfen bei der Auswahl von Software, Lerninhalten und Hardware eine Orientierung f\u00fcr relevante Kriterien geben.Die Sessionplanung findet hier statt:https://cyber4edu.org/c4e/pad/p/36c3",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
+                    "public_name": "DerMicha"
+                  }
+                ],
+                "links": [
+                  "https://cyber4edu.org"
+                ]
+              },
+              {
+                "id": 1256,
+                "guid": "7365f835-00c4-4345-a3db-4e10958e062c",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Digitale_Freiheit_Z%C3%BCndschnurtreffen",
+                "logo": null,
+                "date": "2019-12-27T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "1:00",
+                "room": "C-base",
+                "slug": "36c3-1256-session_digitale_freiheit_zuendschnurtreffen",
+                "title": "Digitale Freiheit Z\u00fcndschnurtreffen",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "Digitale Freiheit Kick-Off Treffen\nKick-Off Treffen aller Mitglieder der Digitalen Freiheit; Verteilen von Cluster-schichten und Stimmungsz\u00fcndung.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dfkreativ",
+                    "public_name": "Dfkreativ"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1249,
+                "guid": "6ce16f97-bdde-4638-888f-5067564b41a2",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:F-Droid_Meetup",
+                "logo": null,
+                "date": "2019-12-27T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1249-session_f_droid_meetup",
+                "title": "F-Droid Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "F-Droid Community Meetup\nF-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.This is a meet-up of F-Droid developers, developers of FOSS Android apps and interested users of the free Android ecosystem.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bubu",
+                    "public_name": "Bubu"
+                  }
+                ],
+                "links": [
+                  "https://f-droid.org",
+                  "https://mastodon.technology/@fdroidorg"
+                ]
+              },
+              {
+                "id": 1393,
+                "guid": "de2e1302-8688-48bc-95b9-7c6cb37150bb",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Vektorgrafiken_mit_Inkscape",
+                "logo": null,
+                "date": "2019-12-27T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1393-session_vektorgrafiken_mit_inkscape",
+                "title": "Vektorgrafiken mit Inkscape",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Grundlegendes\u00a0zu\u00a0Pixel\u00a0vs\u00a0Vektoren \u00fcr den Plotter\nDies wird ein Workshop zum Erstellen von Vektorgrafiken (.svg) um den Schneidplotter c_neidi zu F\u00fcttern (workshop an Tag 2)Gerne\u00a0Laptop\u00a0mit\u00a0installiertem\u00a0Inkscape\u00a0mitbringen (externe Maus macht die Sache einfacher als Touchpad)https://inkscape.org/de/release/inkscape-0.92.4/Gerne auch simple Motive mitbringen, die dann plott-fertig gemacht werden k\u00f6nnen.(am\u00a0besten\u00a0ein-zweifarbig\u00a0bzw\u00a0schwarz-weiss)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:E-punc",
+                    "public_name": "E-punc"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1192,
+                "guid": "fe333059-81f6-482a-93bb-f55a54f2176b",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
+                "logo": null,
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1192-session_werewolf",
+                "title": "Werewolf",
+                "subtitle": "Werewolf Day 1",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Werewolf, the (roleplaying)(card)game\nWe will play \"Les Loups-Garous de Thiercelieux\" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
+                    "public_name": "Haurane"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Lecture room M1": [
               {
                 "id": 1080,
@@ -2204,143 +2367,6 @@
                 "links": [
                   "http://z-uno.z-wave.me"
                 ]
-              }
-            ],
-            "C-base": [
-              {
-                "id": 1158,
-                "guid": "4e14dacd-e21b-43ef-884a-5723d19ab6a8",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Cyber4EDU",
-                "logo": null,
-                "date": "2019-12-27T15:30:00+01:00",
-                "start": "15:30",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1158-session_cyber4edu",
-                "title": "Cyber4EDU",
-                "subtitle": "C4EDU Workshop 1",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "de",
-                "abstract": "",
-                "description": "Nachhaltig gute Software, Lernmaterialien und Hardware f\u00fcr Schulen\nWir wollen einen Vorschlag f\u00fcr eine Checkliste f\u00fcr Schulen diskutieren. Die Checkliste soll Schulen helfen bei der Auswahl von Software, Lerninhalten und Hardware eine Orientierung f\u00fcr relevante Kriterien geben.Die Sessionplanung findet hier statt:https://cyber4edu.org/c4e/pad/p/36c3",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
-                    "public_name": "DerMicha"
-                  }
-                ],
-                "links": [
-                  "https://cyber4edu.org"
-                ]
-              },
-              {
-                "id": 1256,
-                "guid": "7365f835-00c4-4345-a3db-4e10958e062c",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Digitale_Freiheit_Z%C3%BCndschnurtreffen",
-                "logo": null,
-                "date": "2019-12-27T17:30:00+01:00",
-                "start": "17:30",
-                "duration": "1:00",
-                "room": "C-base",
-                "slug": "36c3-1256-session_digitale_freiheit_zuendschnurtreffen",
-                "title": "Digitale Freiheit Z\u00fcndschnurtreffen",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "",
-                "abstract": "",
-                "description": "Digitale Freiheit Kick-Off Treffen\nKick-Off Treffen aller Mitglieder der Digitalen Freiheit; Verteilen von Cluster-schichten und Stimmungsz\u00fcndung.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dfkreativ",
-                    "public_name": "Dfkreativ"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1249,
-                "guid": "6ce16f97-bdde-4638-888f-5067564b41a2",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:F-Droid_Meetup",
-                "logo": null,
-                "date": "2019-12-27T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1249-session_f_droid_meetup",
-                "title": "F-Droid Meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "F-Droid Community Meetup\nF-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.This is a meet-up of F-Droid developers, developers of FOSS Android apps and interested users of the free Android ecosystem.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bubu",
-                    "public_name": "Bubu"
-                  }
-                ],
-                "links": [
-                  "https://f-droid.org",
-                  "https://mastodon.technology/@fdroidorg"
-                ]
-              },
-              {
-                "id": 1393,
-                "guid": "de2e1302-8688-48bc-95b9-7c6cb37150bb",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Vektorgrafiken_mit_Inkscape",
-                "logo": null,
-                "date": "2019-12-27T18:30:00+01:00",
-                "start": "18:30",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1393-session_vektorgrafiken_mit_inkscape",
-                "title": "Vektorgrafiken mit Inkscape",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Grundlegendes\u00a0zu\u00a0Pixel\u00a0vs\u00a0Vektoren \u00fcr den Plotter\nDies wird ein Workshop zum Erstellen von Vektorgrafiken (.svg) um den Schneidplotter c_neidi zu F\u00fcttern (workshop an Tag 2)Gerne\u00a0Laptop\u00a0mit\u00a0installiertem\u00a0Inkscape\u00a0mitbringen (externe Maus macht die Sache einfacher als Touchpad)https://inkscape.org/de/release/inkscape-0.92.4/Gerne auch simple Motive mitbringen, die dann plott-fertig gemacht werden k\u00f6nnen.(am\u00a0besten\u00a0ein-zweifarbig\u00a0bzw\u00a0schwarz-weiss)",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:E-punc",
-                    "public_name": "E-punc"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1192,
-                "guid": "fe333059-81f6-482a-93bb-f55a54f2176b",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
-                "logo": null,
-                "date": "2019-12-27T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1192-session_werewolf",
-                "title": "Werewolf",
-                "subtitle": "Werewolf Day 1",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "Werewolf, the (roleplaying)(card)game\nWe will play \"Les Loups-Garous de Thiercelieux\" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
-                    "public_name": "Haurane"
-                  }
-                ],
-                "links": []
               }
             ],
             "Studio Datsche": [
@@ -13266,8 +13292,8 @@
                 "guid": "a40d6330-eebe-4c54-873f-dea829edda02",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Cohousing_projects_meeting",
                 "logo": null,
-                "date": "2019-12-29T16:00:00+01:00",
-                "start": "16:00",
+                "date": "2019-12-29T14:00:00+01:00",
+                "start": "14:00",
                 "duration": "1:00",
                 "room": "Assembly:Eco Hacker Farm",
                 "slug": "36c3-1609-session_cohousing_projects_meeting",

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-28 22:10</version>
+  <version>2019-12-28 22:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -1142,6 +1142,139 @@ Hey guys, I‘m out of stock - 6 trays empty ;-)Please enjoy [[Session:Beer tast
         </links>
       </event>
     </room>
+    <room name="C-base">
+      <event id="1670" guid="37728110-3b2c-4f26-881c-705135d180c0">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Board_Games_etc.</url>
+        <logo/>
+        <date>2019-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>2:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1670-session_board_games_etc_</slug>
+        <title>Board Games etc.</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language/>
+        <abstract/>
+        <description>Just playin'
+Haning out and playing board gamesPentagameChessGoQuatro</description>
+        <persons>
+          <person id="0">Penta</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1158" guid="4e14dacd-e21b-43ef-884a-5723d19ab6a8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Cyber4EDU</url>
+        <logo/>
+        <date>2019-12-27T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1158-session_cyber4edu</slug>
+        <title>Cyber4EDU</title>
+        <subtitle>C4EDU Workshop 1</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Nachhaltig gute Software, Lernmaterialien und Hardware für Schulen
+Wir wollen einen Vorschlag für eine Checkliste für Schulen diskutieren. Die Checkliste soll Schulen helfen bei der Auswahl von Software, Lerninhalten und Hardware eine Orientierung für relevante Kriterien geben.Die Sessionplanung findet hier statt:https://cyber4edu.org/c4e/pad/p/36c3</description>
+        <persons>
+          <person id="0">DerMicha</person>
+        </persons>
+        <links>
+          <link>https://cyber4edu.org</link>
+        </links>
+      </event>
+      <event id="1256" guid="7365f835-00c4-4345-a3db-4e10958e062c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Digitale_Freiheit_Z%C3%BCndschnurtreffen</url>
+        <logo/>
+        <date>2019-12-27T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>C-base</room>
+        <slug>36c3-1256-session_digitale_freiheit_zuendschnurtreffen</slug>
+        <title>Digitale Freiheit Zündschnurtreffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Digitale Freiheit Kick-Off Treffen
+Kick-Off Treffen aller Mitglieder der Digitalen Freiheit; Verteilen von Cluster-schichten und Stimmungszündung.</description>
+        <persons>
+          <person id="0">Dfkreativ</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1249" guid="6ce16f97-bdde-4638-888f-5067564b41a2">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:F-Droid_Meetup</url>
+        <logo/>
+        <date>2019-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1249-session_f_droid_meetup</slug>
+        <title>F-Droid Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>F-Droid Community Meetup
+F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.This is a meet-up of F-Droid developers, developers of FOSS Android apps and interested users of the free Android ecosystem.</description>
+        <persons>
+          <person id="0">Bubu</person>
+        </persons>
+        <links>
+          <link>https://f-droid.org</link>
+          <link>https://mastodon.technology/@fdroidorg</link>
+        </links>
+      </event>
+      <event id="1393" guid="de2e1302-8688-48bc-95b9-7c6cb37150bb">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Vektorgrafiken_mit_Inkscape</url>
+        <logo/>
+        <date>2019-12-27T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1393-session_vektorgrafiken_mit_inkscape</slug>
+        <title>Vektorgrafiken mit Inkscape</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Grundlegendes zu Pixel vs Vektoren ür den Plotter
+Dies wird ein Workshop zum Erstellen von Vektorgrafiken (.svg) um den Schneidplotter c_neidi zu Füttern (workshop an Tag 2)Gerne Laptop mit installiertem Inkscape mitbringen (externe Maus macht die Sache einfacher als Touchpad)https://inkscape.org/de/release/inkscape-0.92.4/Gerne auch simple Motive mitbringen, die dann plott-fertig gemacht werden können.(am besten ein-zweifarbig bzw schwarz-weiss)</description>
+        <persons>
+          <person id="0">E-punc</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1192" guid="fe333059-81f6-482a-93bb-f55a54f2176b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1192-session_werewolf</slug>
+        <title>Werewolf</title>
+        <subtitle>Werewolf Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Werewolf, the (roleplaying)(card)game
+We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
+        <persons>
+          <person id="0">Haurane</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Lecture room M1">
       <event id="1080" guid="a75a18f3-0930-4862-8acc-b0af59e014f5">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:C3auti</url>
@@ -1782,118 +1915,6 @@ Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your o
         <links>
           <link>http://z-uno.z-wave.me</link>
         </links>
-      </event>
-    </room>
-    <room name="C-base">
-      <event id="1158" guid="4e14dacd-e21b-43ef-884a-5723d19ab6a8">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Cyber4EDU</url>
-        <logo/>
-        <date>2019-12-27T15:30:00+01:00</date>
-        <start>15:30</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1158-session_cyber4edu</slug>
-        <title>Cyber4EDU</title>
-        <subtitle>C4EDU Workshop 1</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>Nachhaltig gute Software, Lernmaterialien und Hardware für Schulen
-Wir wollen einen Vorschlag für eine Checkliste für Schulen diskutieren. Die Checkliste soll Schulen helfen bei der Auswahl von Software, Lerninhalten und Hardware eine Orientierung für relevante Kriterien geben.Die Sessionplanung findet hier statt:https://cyber4edu.org/c4e/pad/p/36c3</description>
-        <persons>
-          <person id="0">DerMicha</person>
-        </persons>
-        <links>
-          <link>https://cyber4edu.org</link>
-        </links>
-      </event>
-      <event id="1256" guid="7365f835-00c4-4345-a3db-4e10958e062c">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Digitale_Freiheit_Z%C3%BCndschnurtreffen</url>
-        <logo/>
-        <date>2019-12-27T17:30:00+01:00</date>
-        <start>17:30</start>
-        <duration>1:00</duration>
-        <room>C-base</room>
-        <slug>36c3-1256-session_digitale_freiheit_zuendschnurtreffen</slug>
-        <title>Digitale Freiheit Zündschnurtreffen</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description>Digitale Freiheit Kick-Off Treffen
-Kick-Off Treffen aller Mitglieder der Digitalen Freiheit; Verteilen von Cluster-schichten und Stimmungszündung.</description>
-        <persons>
-          <person id="0">Dfkreativ</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1249" guid="6ce16f97-bdde-4638-888f-5067564b41a2">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:F-Droid_Meetup</url>
-        <logo/>
-        <date>2019-12-27T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1249-session_f_droid_meetup</slug>
-        <title>F-Droid Meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>F-Droid Community Meetup
-F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.This is a meet-up of F-Droid developers, developers of FOSS Android apps and interested users of the free Android ecosystem.</description>
-        <persons>
-          <person id="0">Bubu</person>
-        </persons>
-        <links>
-          <link>https://f-droid.org</link>
-          <link>https://mastodon.technology/@fdroidorg</link>
-        </links>
-      </event>
-      <event id="1393" guid="de2e1302-8688-48bc-95b9-7c6cb37150bb">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Vektorgrafiken_mit_Inkscape</url>
-        <logo/>
-        <date>2019-12-27T18:30:00+01:00</date>
-        <start>18:30</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1393-session_vektorgrafiken_mit_inkscape</slug>
-        <title>Vektorgrafiken mit Inkscape</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Grundlegendes zu Pixel vs Vektoren ür den Plotter
-Dies wird ein Workshop zum Erstellen von Vektorgrafiken (.svg) um den Schneidplotter c_neidi zu Füttern (workshop an Tag 2)Gerne Laptop mit installiertem Inkscape mitbringen (externe Maus macht die Sache einfacher als Touchpad)https://inkscape.org/de/release/inkscape-0.92.4/Gerne auch simple Motive mitbringen, die dann plott-fertig gemacht werden können.(am besten ein-zweifarbig bzw schwarz-weiss)</description>
-        <persons>
-          <person id="0">E-punc</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1192" guid="fe333059-81f6-482a-93bb-f55a54f2176b">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
-        <logo/>
-        <date>2019-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1192-session_werewolf</slug>
-        <title>Werewolf</title>
-        <subtitle>Werewolf Day 1</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Werewolf, the (roleplaying)(card)game
-We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
-        <persons>
-          <person id="0">Haurane</person>
-        </persons>
-        <links/>
       </event>
     </room>
     <room name="Studio Datsche">
@@ -10694,8 +10715,8 @@ TRICKMISCH.de und TRIXMIX.tv sind wieder auf dem Congress, um mit Euch Trickfilm
       <event id="1609" guid="a40d6330-eebe-4c54-873f-dea829edda02">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Cohousing_projects_meeting</url>
         <logo/>
-        <date>2019-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
         <duration>1:00</duration>
         <room>Assembly:Eco Hacker Farm</room>
         <slug>36c3-1609-session_cohousing_projects_meeting</slug>

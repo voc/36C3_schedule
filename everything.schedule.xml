@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 01:30</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 01:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -6893,27 +6893,6 @@ Contact: Marko Mijokovic (01636934204)</description>
         <language>en</language>
         <abstract/>
         <description>In our reactor you will learn how to reprogram a body with Thai massage.
-</description>
-        <persons>
-          <person id="0">Alibi</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1402" guid="4425afd1-e4a6-4fa2-873a-b2b8bc1ffab2">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SEXUAL_HACKING:_Welcome_to_tantra_yoga</url>
-        <logo/>
-        <date>2019-12-27T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>2:00</duration>
-        <room>Hackers Beauty Palace</room>
-        <slug>36c3-1402-session_sexual_hacking_welcome_to_tantra_yoga</slug>
-        <title>SEXUAL HACKING: Welcome to tantra yoga</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>en</language>
-        <abstract/>
-        <description>When is your time to breathe? Inhale. What makes you breathless? Exhale. Stop. Inhale. More. And more. What do you feel? Let go. Overcome your limits. Breathe.
 </description>
         <persons>
           <person id="0">Alibi</person>
@@ -18115,6 +18094,27 @@ Computer und Smartphones werden häufig nur wenige Jahre benutzt, bevor sie in d
         </persons>
         <links/>
       </event>
+      <event id="1594" guid="d9e76565-3932-4088-8c55-df3961b8f18b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Tantra_Yoga</url>
+        <logo/>
+        <date>2019-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>1:30</duration>
+        <room>Hackers Beauty Palace</room>
+        <slug>36c3-1594-session_tantra_yoga</slug>
+        <title>Tantra Yoga</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>When is your time to breathe? Inhale. What makes you breathless? Exhale. Stop. Inhale. More. And more. What do you feel? Let go. Overcome your limits. Breathe.
+</description>
+        <persons>
+          <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
     </room>
     <room name="Assembly:Backspace">
       <event id="1265" guid="fa63f66c-b550-4f38-bf66-994d4e7be4cc">
@@ -19164,7 +19164,7 @@ Bring your own device :)</description>
         <description>Learn about the open hardware pocket science lab
 Join us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory workshop you have the chance to learn about the applications and test it with the device.</description>
         <persons>
-          <person id="0">Mario</person>
+          <person id="0">MarioB</person>
         </persons>
         <links>
           <link>https://pslab.io</link>
@@ -28293,24 +28293,26 @@ Contact: Marko Mijokovic (01636934204)</description>
         </persons>
         <links/>
       </event>
-      <event id="1403" guid="f906f1b5-5fe4-4abd-95d3-c1d0210c4b88">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SEXUAL_HACKING:_Welcome_to_tantra_yoga</url>
+    </room>
+    <room name="Assembly:Labitat">
+      <event id="1592" guid="c761f1af-c090-4e3e-9165-151d0bafb846">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Badgelife_Meetup</url>
         <logo/>
-        <date>2019-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>2:00</duration>
-        <room>Hackers Beauty Palace</room>
-        <slug>36c3-1403-session_sexual_hacking_welcome_to_tantra_yoga</slug>
-        <title>SEXUAL HACKING: Welcome to tantra yoga</title>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Labitat</room>
+        <slug>36c3-1592-session_badgelife_meetup</slug>
+        <title>Badgelife Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
-        <type/>
+        <type>meeting</type>
         <language>en</language>
         <abstract/>
-        <description>When is your time to breathe? Inhale. What makes you breathless? Exhale. Stop. Inhale. More. And more. What do you feel? Let go. Overcome your limits. Breathe.
-</description>
+        <description>Informal gathering of people interested in artistic, electronic conference badges and PCB design in general
+This is an informal gathering of all people interested in the artform that is electronic badges and creative usage of printed circuit boards. If you have either made a badge (official or not, this event or other events) to show off or are interested to see and talk about badges that other people have made, come by and hang out at this meetup.</description>
         <persons>
-          <person id="0">Alibi</person>
+          <person id="0">Tf</person>
         </persons>
         <links/>
       </event>
@@ -28788,6 +28790,31 @@ OPS erzählen vom Krieg / Sysadmin-Therapiegruppe / Tales from the Sysadmin tren
         </persons>
         <links>
           <link>https://openstreetmap.de</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:FOSSASIA">
+      <event id="1593" guid="199c9d66-61e9-4e42-9add-75658f3de88b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop</url>
+        <logo/>
+        <date>2019-12-29T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:FOSSASIA</room>
+        <slug>36c3-1593-session_pslab_pocket_science_lab_self_guided_exploratory_workshop</slug>
+        <title>PSLab, Pocket Science Lab Self guided exploratory workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn about the open hardware pocket science lab
+Join us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory workshop you have the chance to learn about the applications and test it with the device.</description>
+        <persons>
+          <person id="0">MarioB</person>
+        </persons>
+        <links>
+          <link>https://pslab.io</link>
         </links>
       </event>
     </room>

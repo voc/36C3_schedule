@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 18; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -7489,7 +7489,7 @@
                 "room": "OIO Stage",
                 "slug": "L7MBH8",
                 "url": "https://talks.oio.social/36c3-oio/talk/L7MBH8/",
-                "title": "WiFi-Hostpot-Abos - Wie viel Freifunk steckt drin?",
+                "title": "WiFi-Hotspot-Abos - Wie viel Freifunk steckt drin?",
                 "subtitle": "",
                 "track": "Ethics, Society & Politics",
                 "type": "Talk 20 minutes + 5 minutes Q&A",
@@ -12467,6 +12467,38 @@
               }
             ],
             "OIO Stage": [
+              {
+                "id": 399,
+                "guid": "7581590f-0f77-5766-94d6-a4f3a0c43a2f",
+                "logo": "/media/36c3-oio/images/X9JPVH/ksp-assembly4-v1_tFGriwM.jpg",
+                "date": "2019-12-29T12:45:00+01:00",
+                "start": "12:45",
+                "duration": "00:00",
+                "room": "OIO Stage",
+                "slug": "X9JPVH",
+                "url": "https://talks.oio.social/36c3-oio/talk/X9JPVH/",
+                "title": "Build and fly your own rockets in Kerbal Space Program",
+                "subtitle": "",
+                "track": "Science",
+                "type": "Talk 45 minutes + 10 minutes Q&A",
+                "language": "de",
+                "abstract": "Kerbal Space Program - Build. Fly. Dream.\r\nEinmal ein eigenes Raumfahrtprogramm leiten? Mit KSP ist das m\u00f6glich.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 163,
+                    "code": "WBYPAN",
+                    "public_name": "Skelett",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
               {
                 "id": 357,
                 "guid": "35f647fc-1849-5194-a354-2e855e7a642d",

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 22:50",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 23:00",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -32233,25 +32233,30 @@
                 ]
               },
               {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/167.html",
-                "id": 4367,
-                "guid": "82f64fda-8740-4081-87f3-3eebd8a35bcc",
-                "logo": null,
+                "url": "https://frab.riat.at/en/36C3/public/schedule/events/162.html",
+                "id": 4362,
+                "guid": "66119a8a-3a3f-40f9-94c6-248ed1030d13",
+                "logo": "/system/events/logos/000/000/162/large/selfie.jpeg?1577215379",
                 "date": "2019-12-29T18:00:00+01:00",
                 "start": "18:00",
-                "duration": "00:30",
+                "duration": "00:15",
                 "room": "CDC - Stage",
-                "slug": "36C3-167-tari_and_the_monero_ecosystem",
-                "title": "Tari and the Monero Ecosystem",
-                "subtitle": "",
+                "slug": "36C3-162-blockchain_sharding",
+                "title": "Blockchain Sharding",
+                "subtitle": "A short overview and Alephium's new approach",
                 "track": "Stage",
                 "type": "lecture",
                 "language": "en",
-                "abstract": "",
+                "abstract": "In this talk, I am gonna first give a short review of the current popular sharding methods, with a focus on the open problems. Then I am gonna talk about Alephium's innovative sharding solution, and why it could the promising approach.",
                 "description": "",
-                "recording_license": "",
+                "recording_license": "The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at",
                 "do_not_record": false,
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 107,
+                    "public_name": "Cheng Wang"
+                  }
+                ],
                 "links": [],
                 "attachments": []
               },
@@ -32293,30 +32298,25 @@
                 "attachments": []
               },
               {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/162.html",
-                "id": 4362,
-                "guid": "66119a8a-3a3f-40f9-94c6-248ed1030d13",
-                "logo": "/system/events/logos/000/000/162/large/selfie.jpeg?1577215379",
-                "date": "2019-12-29T19:10:00+01:00",
-                "start": "19:10",
-                "duration": "00:15",
+                "url": "https://frab.riat.at/en/36C3/public/schedule/events/167.html",
+                "id": 4367,
+                "guid": "82f64fda-8740-4081-87f3-3eebd8a35bcc",
+                "logo": null,
+                "date": "2019-12-29T19:05:00+01:00",
+                "start": "19:05",
+                "duration": "00:30",
                 "room": "CDC - Stage",
-                "slug": "36C3-162-blockchain_sharding",
-                "title": "Blockchain Sharding",
-                "subtitle": "A short overview and Alephium's new approach",
+                "slug": "36C3-167-tari_and_the_monero_ecosystem",
+                "title": "Tari and the Monero Ecosystem",
+                "subtitle": "",
                 "track": "Stage",
                 "type": "lecture",
                 "language": "en",
-                "abstract": "In this talk, I am gonna first give a short review of the current popular sharding methods, with a focus on the open problems. Then I am gonna talk about Alephium's innovative sharding solution, and why it could the promising approach.",
+                "abstract": "",
                 "description": "",
-                "recording_license": "The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at",
+                "recording_license": "",
                 "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 107,
-                    "public_name": "Cheng Wang"
-                  }
-                ],
+                "persons": [],
                 "links": [],
                 "attachments": []
               },
@@ -33805,6 +33805,39 @@
                 "links": [
                   "https://horizon-eda.org",
                   "https://librepcb.org/"
+                ]
+              },
+              {
+                "id": 1671,
+                "guid": "ede6a2e3-d53c-433d-bdd8-425d29aebdde",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:L%C3%B6troulette",
+                "logo": null,
+                "date": "2019-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1671-session_loetroulette",
+                "title": "L\u00f6troulette",
+                "subtitle": "Lebkuch.is L\u00f6troulette 2nd Session",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Lebkuch.is L\u00f6troulette\n[[File:35c3 loetroulette.jpg|thumb|L\u00f6troulette am 35c3]]Ein ausbauf\u00e4higes Spiel, bei dem sich mancher Widerstand als zwecklos erweist. Wir erweisen alter Hardware, die zwar noch teilweise funktioniert, aber nicht mehr sinnvoll genutzt werden kann, vor der Entsorgung im Elektroschrott die letzte Ehre.--An extensible game, which proves much resistance to be useless. We do old hardware, which can no longer be resonably used, the last honour before its disposal.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:ChrisC",
+                    "public_name": "ChrisC"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Schabi",
+                    "public_name": "Schabi"
+                  }
+                ],
+                "links": [
+                  "https://k4cg.org/index.php/Projekt:Loet-Roulette"
                 ]
               },
               {
@@ -38472,34 +38505,6 @@
                     "title": "file"
                   }
                 ]
-              },
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/129.html",
-                "id": 4329,
-                "guid": "e5fdf8d5-d906-4939-a4ab-ab6856a98dc9",
-                "logo": null,
-                "date": "2019-12-30T13:45:00+01:00",
-                "start": "13:45",
-                "duration": "00:15",
-                "room": "CDC - Stage",
-                "slug": "36C3-129-fake_decentralization",
-                "title": "Fake Decentralization",
-                "subtitle": "Talking about what really matters. And whatnot.",
-                "track": "Stage",
-                "type": "lecture",
-                "language": "en",
-                "abstract": "Placeholder, TBD",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 100,
-                    "public_name": "Afr"
-                  }
-                ],
-                "links": [],
-                "attachments": []
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/122.html",

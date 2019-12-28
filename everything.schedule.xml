@@ -1,5 +1,5 @@
 <schedule>
-  <version>kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 22:50</version>
+  <version>kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 23:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -28551,26 +28551,28 @@ This lecture describes the Almonit project, its architecture and technical detai
           <attachment href="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
-      <event id="4367" guid="82f64fda-8740-4081-87f3-3eebd8a35bcc">
-        <url>https://frab.riat.at/en/36C3/public/schedule/events/167.html</url>
-        <logo/>
+      <event id="4362" guid="66119a8a-3a3f-40f9-94c6-248ed1030d13">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/162.html</url>
+        <logo>/system/events/logos/000/000/162/large/selfie.jpeg?1577215379</logo>
         <date>2019-12-29T18:00:00+01:00</date>
         <start>18:00</start>
-        <duration>00:30</duration>
+        <duration>00:15</duration>
         <room>CDC - Stage</room>
-        <slug>36C3-167-tari_and_the_monero_ecosystem</slug>
-        <title>Tari and the Monero Ecosystem</title>
-        <subtitle/>
+        <slug>36C3-162-blockchain_sharding</slug>
+        <title>Blockchain Sharding</title>
+        <subtitle>A short overview and Alephium's new approach</subtitle>
         <track>Stage</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract/>
+        <abstract>In this talk, I am gonna first give a short review of the current popular sharding methods, with a focus on the open problems. Then I am gonna talk about Alephium's innovative sharding solution, and why it could the promising approach.</abstract>
         <description/>
         <recording>
-          <license/>
+          <license>The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at</license>
           <optout>false</optout>
         </recording>
-        <persons/>
+        <persons>
+          <person id="107">Cheng Wang</person>
+        </persons>
         <links/>
         <attachments/>
       </event>
@@ -28602,28 +28604,26 @@ This lecture describes the Almonit project, its architecture and technical detai
         </links>
         <attachments/>
       </event>
-      <event id="4362" guid="66119a8a-3a3f-40f9-94c6-248ed1030d13">
-        <url>https://frab.riat.at/en/36C3/public/schedule/events/162.html</url>
-        <logo>/system/events/logos/000/000/162/large/selfie.jpeg?1577215379</logo>
-        <date>2019-12-29T19:10:00+01:00</date>
-        <start>19:10</start>
-        <duration>00:15</duration>
+      <event id="4367" guid="82f64fda-8740-4081-87f3-3eebd8a35bcc">
+        <url>https://frab.riat.at/en/36C3/public/schedule/events/167.html</url>
+        <logo/>
+        <date>2019-12-29T19:05:00+01:00</date>
+        <start>19:05</start>
+        <duration>00:30</duration>
         <room>CDC - Stage</room>
-        <slug>36C3-162-blockchain_sharding</slug>
-        <title>Blockchain Sharding</title>
-        <subtitle>A short overview and Alephium's new approach</subtitle>
+        <slug>36C3-167-tari_and_the_monero_ecosystem</slug>
+        <title>Tari and the Monero Ecosystem</title>
+        <subtitle/>
         <track>Stage</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>In this talk, I am gonna first give a short review of the current popular sharding methods, with a focus on the open problems. Then I am gonna talk about Alephium's innovative sharding solution, and why it could the promising approach.</abstract>
+        <abstract/>
         <description/>
         <recording>
-          <license>The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at</license>
+          <license/>
           <optout>false</optout>
         </recording>
-        <persons>
-          <person id="107">Cheng Wang</person>
-        </persons>
+        <persons/>
         <links/>
         <attachments/>
       </event>
@@ -29860,6 +29860,30 @@ Bring some RasperryPis, LEDs and plug your brain into our biosensing devices to 
         <links>
           <link>https://horizon-eda.org</link>
           <link>https://librepcb.org/</link>
+        </links>
+      </event>
+      <event id="1671" guid="ede6a2e3-d53c-433d-bdd8-425d29aebdde">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:L%C3%B6troulette</url>
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>36c3-1671-session_loetroulette</slug>
+        <title>Lötroulette</title>
+        <subtitle>Lebkuch.is Lötroulette 2nd Session</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Lebkuch.is Lötroulette
+[[File:35c3 loetroulette.jpg|thumb|Lötroulette am 35c3]]Ein ausbaufähiges Spiel, bei dem sich mancher Widerstand als zwecklos erweist. Wir erweisen alter Hardware, die zwar noch teilweise funktioniert, aber nicht mehr sinnvoll genutzt werden kann, vor der Entsorgung im Elektroschrott die letzte Ehre.--An extensible game, which proves much resistance to be useless. We do old hardware, which can no longer be resonably used, the last honour before its disposal.</description>
+        <persons>
+          <person id="0">ChrisC</person>
+          <person id="0">Schabi</person>
+        </persons>
+        <links>
+          <link>https://k4cg.org/index.php/Projekt:Loet-Roulette</link>
         </links>
       </event>
       <event id="1112" guid="702627f8-4acf-40d3-9e59-0837af6584d8">
@@ -33946,31 +33970,6 @@ With: Dana Sinaida Ersing</description>
         <attachments>
           <attachment href="/attachments/original/missing.png">file</attachment>
         </attachments>
-      </event>
-      <event id="4329" guid="e5fdf8d5-d906-4939-a4ab-ab6856a98dc9">
-        <url>https://frab.riat.at/en/36C3/public/schedule/events/129.html</url>
-        <logo/>
-        <date>2019-12-30T13:45:00+01:00</date>
-        <start>13:45</start>
-        <duration>00:15</duration>
-        <room>CDC - Stage</room>
-        <slug>36C3-129-fake_decentralization</slug>
-        <title>Fake Decentralization</title>
-        <subtitle>Talking about what really matters. And whatnot.</subtitle>
-        <track>Stage</track>
-        <type>lecture</type>
-        <language>en</language>
-        <abstract>Placeholder, TBD</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="100">Afr</person>
-        </persons>
-        <links/>
-        <attachments/>
       </event>
       <event id="4322" guid="643f7f8e-ad91-41f5-9e58-b95debfc4ae9">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/122.html</url>

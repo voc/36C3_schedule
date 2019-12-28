@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 14:50",
+    "version": "jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 15:00",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -14486,7 +14486,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "a safe place for those who think they might be a little commie\nComing out communist can be daunting, one risks social stigma, rejection from friends and strangers alike, and possibly even career reproductions. This session provides a welcoming space to discuss what it means to be a communist today, to offer support and to build solidarity.The Commie Curious Prime Directive\"Commie Curious is a heterodox space for good faith discussions. All comrades are welcome, including all tendencies and backgrounds. We understand and truly believe that everyone is working towards the best possible conditions for all people, given what they know, their skills and abilities, the resources available, and the situation at hand. We are here to listen and learn from each other.\"",
+                "description": "a safe place for those who think they might be a little commie\nComing out communist can be daunting, one risks social stigma, rejection from friends and strangers alike, and possibly even career reproductions. This session provides a welcoming space to discuss what it means to be a communist today, to offer support and to build solidarity.The Commie Curious Prime Directive\"Commie Curious is a heterodox space for good faith discussions. All comrades are welcome, including all tendencies and backgrounds. We understand and truly believe that everyone is working towards the best possible conditions for all people, given what they know, their skills and abilities, the resources available, and the situation at hand. We are here to listen and learn from each other.Specifically disallowed are anti-communist pejoratives from various sides, including denouncing \"Ultras\" or \"Tankies\" or \"Bolsheviks\" or \"Anarchists\" or \"Trots.\" We seek to learn from all communist experiences, and encourage respectful and open minded curiosity.\"",
                 "persons": [
                   {
                     "id": 0,
@@ -26805,6 +26805,32 @@
             ],
             "Lecture room 12": [
               {
+                "id": 1637,
+                "guid": "183fa052-7bf9-45ee-985c-8a52e1ae17e4",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Human_Punishment_Day_2_and_beyond",
+                "logo": null,
+                "date": "2019-12-29T22:30:00+01:00",
+                "start": "22:30",
+                "duration": "3:00",
+                "room": "Lecture room 12",
+                "slug": "36c3-1637-session_human_punishment_day_2_and_beyond",
+                "title": "Human Punishment Day 2 and beyond",
+                "subtitle": "Human Punishment- Day 3",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Human Punishment, kann man auch an zwei Tagen spielen. Oder drei...\nHuman Punishment ist ein Social Deduction Spiel, das Werewolf nicht un\u00e4hnlich ist.Allerdings gibt es 3 Fraktionen mit eigenen Siegbedingungen, Fraktionswechsel w\u00e4hrend dem Spiel, potentiell einen Wiedereinstiwg f\u00fcr ausgeschiedene Spieler...Da ich leider nur die deutsche Version besitze, sollten Mitspieler Deutsch lesen k\u00f6nnen.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Echsenkoenig",
+                    "public_name": "Echsenkoenig"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1198,
                 "guid": "4aa7b5a5-2abd-4711-8029-67c9557a76f3",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
@@ -31974,6 +32000,32 @@
                 "links": [
                   "http://haecksen.org"
                 ]
+              },
+              {
+                "id": 1636,
+                "guid": "afdde084-12cb-4acf-99f1-0acfcbafd6ad",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Blackhoodie_Meetup",
+                "logo": null,
+                "date": "2019-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Assembly:Haecksen",
+                "slug": "36c3-1636-session_blackhoodie_meetup",
+                "title": "Blackhoodie Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "de",
+                "abstract": "",
+                "description": "\nWe are an international, free, women only info sec/reverse engineering - open for everyone who just wants a place to start or learn more. Beginners and experts are super welcome! It is a place, where attendees feel encouraged to grow skills without pressure, where they can be themselves without having to compete. A lot of our attendees haven\u2019t stuck their noses into security research before they joined the bootcamp.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Waldwesen",
+                    "public_name": "Waldwesen"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1303,

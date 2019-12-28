@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-28 14:50</version>
+  <version>2019-12-28 15:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -4195,7 +4195,7 @@ Let’s explore the Chinese language and look at some of its fascinating feature
         <language>en</language>
         <abstract/>
         <description>a safe place for those who think they might be a little commie
-Coming out communist can be daunting, one risks social stigma, rejection from friends and strangers alike, and possibly even career reproductions. This session provides a welcoming space to discuss what it means to be a communist today, to offer support and to build solidarity.The Commie Curious Prime Directive"Commie Curious is a heterodox space for good faith discussions. All comrades are welcome, including all tendencies and backgrounds. We understand and truly believe that everyone is working towards the best possible conditions for all people, given what they know, their skills and abilities, the resources available, and the situation at hand. We are here to listen and learn from each other."</description>
+Coming out communist can be daunting, one risks social stigma, rejection from friends and strangers alike, and possibly even career reproductions. This session provides a welcoming space to discuss what it means to be a communist today, to offer support and to build solidarity.The Commie Curious Prime Directive"Commie Curious is a heterodox space for good faith discussions. All comrades are welcome, including all tendencies and backgrounds. We understand and truly believe that everyone is working towards the best possible conditions for all people, given what they know, their skills and abilities, the resources available, and the situation at hand. We are here to listen and learn from each other.Specifically disallowed are anti-communist pejoratives from various sides, including denouncing "Ultras" or "Tankies" or "Bolsheviks" or "Anarchists" or "Trots." We seek to learn from all communist experiences, and encourage respectful and open minded curiosity."</description>
         <persons>
           <person id="0">Baruch</person>
         </persons>
@@ -7898,6 +7898,27 @@ The space we live in is three-dimensional. But mathematically, four dimensions c
           <link>http://haecksen.org</link>
         </links>
       </event>
+      <event id="1636" guid="afdde084-12cb-4acf-99f1-0acfcbafd6ad">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Blackhoodie_Meetup</url>
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1636-session_blackhoodie_meetup</slug>
+        <title>Blackhoodie Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>
+We are an international, free, women only info sec/reverse engineering - open for everyone who just wants a place to start or learn more. Beginners and experts are super welcome! It is a place, where attendees feel encouraged to grow skills without pressure, where they can be themselves without having to compete. A lot of our attendees haven’t stuck their noses into security research before they joined the bootcamp.</description>
+        <persons>
+          <person id="0">Waldwesen</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1303" guid="0f6e44bb-d64f-41c6-865d-901d5f1be0ba">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Diskussionsrunde_Menstruationsbeschwerden</url>
         <logo/>
@@ -10350,6 +10371,50 @@ Ein Türschloss ist eigentlich ganz einfach zu tauschen? Eine Schraube raus, alt
         <links/>
       </event>
     </room>
+    <room name="Lecture room 12">
+      <event id="1637" guid="183fa052-7bf9-45ee-985c-8a52e1ae17e4">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Human_Punishment_Day_2_and_beyond</url>
+        <logo/>
+        <date>2019-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>3:00</duration>
+        <room>Lecture room 12</room>
+        <slug>36c3-1637-session_human_punishment_day_2_and_beyond</slug>
+        <title>Human Punishment Day 2 and beyond</title>
+        <subtitle>Human Punishment- Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Human Punishment, kann man auch an zwei Tagen spielen. Oder drei...
+Human Punishment ist ein Social Deduction Spiel, das Werewolf nicht unähnlich ist.Allerdings gibt es 3 Fraktionen mit eigenen Siegbedingungen, Fraktionswechsel während dem Spiel, potentiell einen Wiedereinstiwg für ausgeschiedene Spieler...Da ich leider nur die deutsche Version besitze, sollten Mitspieler Deutsch lesen können.</description>
+        <persons>
+          <person id="0">Echsenkoenig</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1198" guid="4aa7b5a5-2abd-4711-8029-67c9557a76f3">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
+        <logo/>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room 12</room>
+        <slug>36c3-1198-session_werewolf</slug>
+        <title>Werewolf</title>
+        <subtitle>Werewolf Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Werewolf, the (roleplaying)(card)game
+We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
+        <persons>
+          <person id="0">Haurane</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:Anarchist Village">
       <event id="1330" guid="b8903724-9ef4-4f07-9885-c245d550c477">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking</url>
@@ -10676,29 +10741,6 @@ The more the technology advances and becomes interconnected and complex, the les
         <links>
           <link>https://alxd.org/solarpunk-cyberpunk-popculture.html#solarpunk-cyberpunk-popculture</link>
         </links>
-      </event>
-    </room>
-    <room name="Lecture room 12">
-      <event id="1198" guid="4aa7b5a5-2abd-4711-8029-67c9557a76f3">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf</url>
-        <logo/>
-        <date>2019-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Lecture room 12</room>
-        <slug>36c3-1198-session_werewolf</slug>
-        <title>Werewolf</title>
-        <subtitle>Werewolf Day 3</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Werewolf, the (roleplaying)(card)game
-We will play "Les Loups-Garous de Thiercelieux" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.</description>
-        <persons>
-          <person id="0">Haurane</person>
-        </persons>
-        <links/>
       </event>
     </room>
   </day>

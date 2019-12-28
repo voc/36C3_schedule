@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.8; komona 0.21; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3",
+    "version": "jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.9; komona 0.21; sendezentrum 3.5; lightning Gadolinium; art-play 0.26; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -7647,6 +7647,38 @@
                 "answers": []
               },
               {
+                "id": 932,
+                "guid": "65c28a14-1d42-58f8-a656-feb93fe285a7",
+                "logo": "",
+                "date": "2019-12-28T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "7UG3FB",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/7UG3FB/",
+                "title": "DLF: Forschung aktuell",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Forschung Aktuell \u2013\u00a0Computer und Kommunikation",
+                "description": "Forschung Aktuell \u2013\u00a0Computer und Kommunikation",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 884,
                 "guid": "dd6a2fc4-e175-5f73-8387-8ebc3f85e603",
                 "logo": "/media/36c3/images/UXVNEN/zk018.jpg",
@@ -8258,8 +8290,8 @@
                 "id": 757,
                 "guid": "cbc76701-297d-53b0-b7a9-97e714f87cc1",
                 "logo": "",
-                "date": "2019-12-28T19:45:00+01:00",
-                "start": "19:45",
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
                 "duration": "00:30",
                 "room": "ChaosZone B\u00fchne",
                 "slug": "VPJPZR",
@@ -9119,7 +9151,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/077/original/crypto-aml-workshop.pdf?1577544211",
+                    "title": "crypto-aml-workshop.pdf"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/187.html",
@@ -12796,6 +12833,166 @@
                 "answers": []
               },
               {
+                "id": 933,
+                "guid": "285bc327-cde9-554f-bdc1-e8a0a3273f35",
+                "logo": "",
+                "date": "2019-12-29T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "3YHU8N",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/3YHU8N/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "DLF CuK Podcast 36C3-Special",
+                "description": "DLF CuK Podcast 36C3-Special",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 934,
+                "guid": "6e6830b7-171a-5aa4-88fa-5735f3e4ee7a",
+                "logo": "",
+                "date": "2019-12-29T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "01:00",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "VEAWCA",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/VEAWCA/",
+                "title": "DLF Breitband",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "wir schalten live vom 36c3 in die DLF-Sendung Breitband.",
+                "description": "wir schalten live vom 36c3 in die DLF-Sendung Breitband.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 935,
+                "guid": "913c8c46-6ba0-578e-9070-30cbfa8714b5",
+                "logo": "",
+                "date": "2019-12-29T13:55:00+01:00",
+                "start": "13:55",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "YSF3FH",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/YSF3FH/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "DLF-Podcast: Computer und Kommunikation",
+                "description": "DLF-Podcast: Computer und Kommunikation",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 937,
+                "guid": "0b4380f8-d246-53b9-bce6-ae4b4f7bd46b",
+                "logo": "",
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "FKLHGV",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/FKLHGV/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "DLF-Podcast: Computer und Kommunikation",
+                "description": "DLF-Podcast: Computer und Kommunikation",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 936,
+                "guid": "814fec67-d8b1-5755-b982-2e7836458e12",
+                "logo": "",
+                "date": "2019-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:00",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "Z9XU93",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/Z9XU93/",
+                "title": "Telekommunikations\u00fcberwachung in Deutschland",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Frage und Antwortrunde mmit einem Insider.",
+                "description": "Martin arbeitet bei Telefonica Deutschland und hat in einem Workshop \u00fcber dieses Thema gesprochen. Wegen des gro\u00dfen Interesses wiederholt Martin seinen Talk auf der B\u00fchne des Sendezentrums.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 145,
+                    "code": "UJCLVA",
+                    "public_name": "Martin Kissel",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 894,
                 "guid": "eaf59e9c-e60e-5a80-bd3b-b99ee146282e",
                 "logo": "/media/36c3/images/YNP9VN/gbni_logo.jpg",
@@ -15983,7 +16180,136 @@
                 "answers": []
               }
             ],
-            "DLF- und Podcast-B\u00fchne": [],
+            "DLF- und Podcast-B\u00fchne": [
+              {
+                "id": 938,
+                "guid": "a056e190-74d7-54fa-8f51-63ca8e6a4fad",
+                "logo": "",
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "WNHL3N",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/WNHL3N/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "DLF-Podcast: Computer und Kommunikation",
+                "description": "DLF-Podcast: Computer und Kommunikation",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 939,
+                "guid": "25b533c4-2e37-5a29-8e54-2dd27e6811ed",
+                "logo": "",
+                "date": "2019-12-30T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "BMVSFA",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/BMVSFA/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "en",
+                "abstract": "DLF-Podcast: Computer und Kommunikation",
+                "description": "DLF-Podcast: Computer und Kommunikation",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 940,
+                "guid": "fef91d1e-98fa-5146-ae12-499660479d1a",
+                "logo": "",
+                "date": "2019-12-30T16:35:00+01:00",
+                "start": "16:35",
+                "duration": "00:25",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "ZFALBY",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/ZFALBY/",
+                "title": "DLF: Forschung aktuell",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Wir senden \"Forschung Aktuell\" live vom 36c3",
+                "description": "Wir senden \"Forschung Aktuell\" live vom 36c3",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 941,
+                "guid": "940bba6e-f7e6-5685-9a03-58d5ea33d085",
+                "logo": "",
+                "date": "2019-12-30T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "01:00",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "TZUWU7",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/TZUWU7/",
+                "title": "DLF-Studiogerspr\u00e4ch",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "en",
+                "abstract": "Wir senden das Studiogespr\u00e4ch live vom 36c3",
+                "description": "Wir senden das Studiogespr\u00e4ch live vom 36c3",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
             "WikiPaka WG: Esszimmer": [
               {
                 "id": 569,

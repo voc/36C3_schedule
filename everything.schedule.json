@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.8; komona 0.21; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 15:30",
+    "version": "jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.9; komona 0.21; sendezentrum 3.5; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 15:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -12909,6 +12909,38 @@
                 "answers": []
               },
               {
+                "id": 932,
+                "guid": "65c28a14-1d42-58f8-a656-feb93fe285a7",
+                "logo": "",
+                "date": "2019-12-28T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "7UG3FB",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/7UG3FB/",
+                "title": "DLF: Forschung aktuell",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Forschung Aktuell \u2013\u00a0Computer und Kommunikation",
+                "description": "Forschung Aktuell \u2013\u00a0Computer und Kommunikation",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 884,
                 "guid": "dd6a2fc4-e175-5f73-8387-8ebc3f85e603",
                 "logo": "/media/36c3/images/UXVNEN/zk018.jpg",
@@ -16411,8 +16443,8 @@
                 "id": 757,
                 "guid": "cbc76701-297d-53b0-b7a9-97e714f87cc1",
                 "logo": "",
-                "date": "2019-12-28T19:45:00+01:00",
-                "start": "19:45",
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
                 "duration": "00:30",
                 "room": "ChaosZone B\u00fchne",
                 "slug": "VPJPZR",
@@ -18754,7 +18786,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/077/original/crypto-aml-workshop.pdf?1577544211",
+                    "title": "crypto-aml-workshop.pdf"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/187.html",
@@ -19496,8 +19533,8 @@
                 "guid": "5699ccf4-0dba-425b-a7bd-e1c474eea355",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:KLAK_Moviemiento_Fahrradkino_I",
                 "logo": null,
-                "date": "2019-12-28T22:15:00+01:00",
-                "start": "22:15",
+                "date": "2019-12-28T21:00:00+01:00",
+                "start": "21:00",
                 "duration": "1:00",
                 "room": "Roter Salon",
                 "slug": "36c3-1629-session_klak_moviemiento_fahrradkino_i",
@@ -19507,7 +19544,7 @@
                 "type": "other",
                 "language": "de",
                 "abstract": "",
-                "description": "Bring your BIKES ! <3<3<3\nFahrradkino mit internationalen Kurzfilmen.\u201eDYSTOPIA\u201cBunte Zukunftsvisionen zeigen warum Kapitalismus gl\u00fccklich macht, Technologie wirklich das Leben verbessert und warum w\u00fcrfelf\u00f6rmige H\u00fchner die L\u00f6sung sind.Moviemiento e.V. serviert filmisch die Schnittchen und den Schampus zum Weltuntergang. Damit ihr hinterher trotzdem das Gef\u00fchl habt, die Welt zu retten, wird der gesamte Strom f\u00fcr das Kino von 10 Fahrr\u00e4dern erzeugt - wer will, darf f\u00fcr Strom strampeln.In deutsch und englisch.PLEASE BRING YOUR BIKE !!! Gerne 30 Minuten vorher. Wie ben\u00f6tigen noch weitere Fahrr\u00e4der. Liebsten Dank <3 <3 <3",
+                "description": "Bring your BIKES ! <3<3<3\nFahrradkino mit internationalen Kurzfilmen.\u201eDRAHTESELTR\u00c4UME\u201c...Fixie liebende Frauen in Melbourne, Fahrradbetriebene Ger\u00e4te in Guatemala, 100 Jahre alte R\u00e4der aus den USA, Frauen die gefl\u00fcchteten Frauen Fahrradfahren in Brandenburg beibringen, eine m\u00e4nnermordende Werw\u00f6lfin... Bike Shorts aus aller Welt, w\u00e4hrend der Strom von 10 Fahrr\u00e4dern erzeugt wird! Pr\u00e4sentiert von Moviemiento e.V.In deutsch und englisch.PLEASE BRING YOUR BIKE !!! Gerne 30 Minuten vorher. Wie ben\u00f6tigen noch weitere Fahrr\u00e4der. Liebsten Dank <3 <3 <3",
                 "persons": [
                   {
                     "id": 0,
@@ -21897,6 +21934,116 @@
                 ]
               }
             ],
+            "Assembly:Chaos West": [
+              {
+                "id": 1644,
+                "guid": "a3362371-f283-447e-9e25-e6df5eb66063",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Diy_lip_care_cosmetics",
+                "logo": null,
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "0:30",
+                "room": "Assembly:Chaos West",
+                "slug": "36c3-1644-session_diy_lip_care_cosmetics",
+                "title": "Diy lip care cosmetics",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "",
+                "abstract": "",
+                "description": "Humidity in the halls of Leipzig is low and your lips are cracking? Make your own refillable lip care in just a few minutes.\nlocation: https://36c3.c3nav.de/l/c:0:397.26:117.87/",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zornem",
+                    "public_name": "Zornem"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1444,
+                "guid": "f0fcdc94-4ca8-43b9-957b-cf664dfaa307",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Makeup_against_surveillance",
+                "logo": null,
+                "date": "2019-12-28T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "4:00",
+                "room": "Assembly:Chaos West",
+                "slug": "36c3-1444-session_makeup_against_surveillance",
+                "title": "Makeup against surveillance",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Explore how makeup can be used to look awesome and to prevent face detection!\n[[File:Makeup.png|thumb]]Following Adam Harveys CV Dazzle (https://ahprojects.com/cvdazzle/) we want to find out how to use makeup to not only look awesome, but also prevent face detection!We bring makeup, hair extensions, jewelry, etc and a webcam with a simple face detection algorithm (of course nothing gets recorded).Join us in exploring the limits of face detection! Bring friends, own makeup etc if you want! :)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MartiniMoe",
+                    "public_name": "MartiniMoe"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1417,
+                "guid": "89cb9f79-001a-4636-8f23-3433a0ed7949",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Soldering_Workshop_(Chaos_macht_Schule)",
+                "logo": null,
+                "date": "2019-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "6:00",
+                "room": "Assembly:Chaos West",
+                "slug": "36c3-1417-session_soldering_workshop_chaos_macht_schule_",
+                "title": "Soldering Workshop (Chaos macht Schule)",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "",
+                "abstract": "",
+                "description": "Learn how to solder. For beginners and moderately experienced kids (age < 18)\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hbr",
+                    "public_name": "Hbr"
+                  }
+                ],
+                "links": [
+                  "https://junghack.de"
+                ]
+              },
+              {
+                "id": 1601,
+                "guid": "971eaccc-cba1-4ab1-bcda-680fa3bb0c61",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:VULCRAmeetup",
+                "logo": null,
+                "date": "2019-12-28T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "1:30",
+                "room": "Assembly:Chaos West",
+                "slug": "36c3-1601-session_vulcrameetup",
+                "title": "VULCRAmeetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "VULCA - Meetup\nThe event will be held in Hall 3 in the big Metalab Dome in Chaos West Lounge.https://36c3.c3nav.de/l/c:0:432.98:120.36/@0,437.79,127.68,4.65Vulca tour allowed us to establish a first connection with different individual local makers/hackers communities in Europe.We pay attention to meet face to face each member before starting any collaboration. We want to get to know and better understand the needs and projects of local contacts. The people that were met and are at 36C3 will meet up.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Xro",
+                    "public_name": "Xro"
+                  }
+                ],
+                "links": [
+                  "https://vulca.eu/"
+                ]
+              }
+            ],
             "Assembly:BerndCon": [
               {
                 "id": 1551,
@@ -22334,90 +22481,6 @@
                 ],
                 "links": [
                   "https://abcdd.org"
-                ]
-              }
-            ],
-            "Assembly:Chaos West": [
-              {
-                "id": 1444,
-                "guid": "f0fcdc94-4ca8-43b9-957b-cf664dfaa307",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Makeup_against_surveillance",
-                "logo": null,
-                "date": "2019-12-28T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "4:00",
-                "room": "Assembly:Chaos West",
-                "slug": "36c3-1444-session_makeup_against_surveillance",
-                "title": "Makeup against surveillance",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Explore how makeup can be used to look awesome and to prevent face detection!\n[[File:Makeup.png|thumb]]Following Adam Harveys CV Dazzle (https://ahprojects.com/cvdazzle/) we want to find out how to use makeup to not only look awesome, but also prevent face detection!We bring makeup, hair extensions, jewelry, etc and a webcam with a simple face detection algorithm (of course nothing gets recorded).Join us in exploring the limits of face detection! Bring friends, own makeup etc if you want! :)",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MartiniMoe",
-                    "public_name": "MartiniMoe"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1417,
-                "guid": "89cb9f79-001a-4636-8f23-3433a0ed7949",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Soldering_Workshop_(Chaos_macht_Schule)",
-                "logo": null,
-                "date": "2019-12-28T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "6:00",
-                "room": "Assembly:Chaos West",
-                "slug": "36c3-1417-session_soldering_workshop_chaos_macht_schule_",
-                "title": "Soldering Workshop (Chaos macht Schule)",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "",
-                "abstract": "",
-                "description": "Learn how to solder. For beginners and moderately experienced kids (age < 18)\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hbr",
-                    "public_name": "Hbr"
-                  }
-                ],
-                "links": [
-                  "https://junghack.de"
-                ]
-              },
-              {
-                "id": 1601,
-                "guid": "971eaccc-cba1-4ab1-bcda-680fa3bb0c61",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:VULCRAmeetup",
-                "logo": null,
-                "date": "2019-12-28T12:30:00+01:00",
-                "start": "12:30",
-                "duration": "1:30",
-                "room": "Assembly:Chaos West",
-                "slug": "36c3-1601-session_vulcrameetup",
-                "title": "VULCRAmeetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "VULCA - Meetup\nThe event will be held in Hall 3 in the big Metalab Dome in Chaos West Lounge.https://36c3.c3nav.de/l/c:0:432.98:120.36/@0,437.79,127.68,4.65Vulca tour allowed us to establish a first connection with different individual local makers/hackers communities in Europe.We pay attention to meet face to face each member before starting any collaboration. We want to get to know and better understand the needs and projects of local contacts. The people that were met and are at 36C3 will meet up.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Xro",
-                    "public_name": "Xro"
-                  }
-                ],
-                "links": [
-                  "https://vulca.eu/"
                 ]
               }
             ],
@@ -26162,6 +26225,166 @@
                     "id": 131,
                     "code": "REHXPS",
                     "public_name": "Martin Holland",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 933,
+                "guid": "285bc327-cde9-554f-bdc1-e8a0a3273f35",
+                "logo": "",
+                "date": "2019-12-29T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "3YHU8N",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/3YHU8N/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "DLF CuK Podcast 36C3-Special",
+                "description": "DLF CuK Podcast 36C3-Special",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 934,
+                "guid": "6e6830b7-171a-5aa4-88fa-5735f3e4ee7a",
+                "logo": "",
+                "date": "2019-12-29T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "01:00",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "VEAWCA",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/VEAWCA/",
+                "title": "DLF Breitband",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "wir schalten live vom 36c3 in die DLF-Sendung Breitband.",
+                "description": "wir schalten live vom 36c3 in die DLF-Sendung Breitband.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 935,
+                "guid": "913c8c46-6ba0-578e-9070-30cbfa8714b5",
+                "logo": "",
+                "date": "2019-12-29T13:55:00+01:00",
+                "start": "13:55",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "YSF3FH",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/YSF3FH/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "DLF-Podcast: Computer und Kommunikation",
+                "description": "DLF-Podcast: Computer und Kommunikation",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 937,
+                "guid": "0b4380f8-d246-53b9-bce6-ae4b4f7bd46b",
+                "logo": "",
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "FKLHGV",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/FKLHGV/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "DLF-Podcast: Computer und Kommunikation",
+                "description": "DLF-Podcast: Computer und Kommunikation",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 936,
+                "guid": "814fec67-d8b1-5755-b982-2e7836458e12",
+                "logo": "",
+                "date": "2019-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:00",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "Z9XU93",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/Z9XU93/",
+                "title": "Telekommunikations\u00fcberwachung in Deutschland",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Frage und Antwortrunde mmit einem Insider.",
+                "description": "Martin arbeitet bei Telefonica Deutschland und hat in einem Workshop \u00fcber dieses Thema gesprochen. Wegen des gro\u00dfen Interesses wiederholt Martin seinen Talk auf der B\u00fchne des Sendezentrums.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 145,
+                    "code": "UJCLVA",
+                    "public_name": "Martin Kissel",
                     "biography": null,
                     "answers": []
                   }
@@ -35993,7 +36216,136 @@
                 "answers": []
               }
             ],
-            "DLF- und Podcast-B\u00fchne": [],
+            "DLF- und Podcast-B\u00fchne": [
+              {
+                "id": 938,
+                "guid": "a056e190-74d7-54fa-8f51-63ca8e6a4fad",
+                "logo": "",
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "WNHL3N",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/WNHL3N/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "DLF-Podcast: Computer und Kommunikation",
+                "description": "DLF-Podcast: Computer und Kommunikation",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 939,
+                "guid": "25b533c4-2e37-5a29-8e54-2dd27e6811ed",
+                "logo": "",
+                "date": "2019-12-30T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "00:30",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "BMVSFA",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/BMVSFA/",
+                "title": "DLF-Podcast: Computer und Kommunikation",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "en",
+                "abstract": "DLF-Podcast: Computer und Kommunikation",
+                "description": "DLF-Podcast: Computer und Kommunikation",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 940,
+                "guid": "fef91d1e-98fa-5146-ae12-499660479d1a",
+                "logo": "",
+                "date": "2019-12-30T16:35:00+01:00",
+                "start": "16:35",
+                "duration": "00:25",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "ZFALBY",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/ZFALBY/",
+                "title": "DLF: Forschung aktuell",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Wir senden \"Forschung Aktuell\" live vom 36c3",
+                "description": "Wir senden \"Forschung Aktuell\" live vom 36c3",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 941,
+                "guid": "940bba6e-f7e6-5685-9a03-58d5ea33d085",
+                "logo": "",
+                "date": "2019-12-30T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "01:00",
+                "room": "DLF- und Podcast-B\u00fchne",
+                "slug": "TZUWU7",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/TZUWU7/",
+                "title": "DLF-Studiogerspr\u00e4ch",
+                "subtitle": "",
+                "track": "DLF- und Podcast-B\u00fchne",
+                "type": "Normale L\u00e4nge",
+                "language": "en",
+                "abstract": "Wir senden das Studiogespr\u00e4ch live vom 36c3",
+                "description": "Wir senden das Studiogespr\u00e4ch live vom 36c3",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 141,
+                    "code": "CETZPR",
+                    "public_name": "DLF-Team",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
             "WikiPaka WG: Esszimmer": [
               {
                 "id": 569,

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.19; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 12:50",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.19; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 12:59",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -4288,6 +4288,32 @@
             ],
             "Lecture room M3": [
               {
+                "id": 1120,
+                "guid": "2eaac6d6-b303-4729-af45-15cf8c55417b",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga",
+                "logo": null,
+                "date": "2019-12-27T09:30:00+01:00",
+                "start": "09:30",
+                "duration": "1:00",
+                "room": "Lecture room M3",
+                "slug": "36c3-1120-session_42birds_hitchhiker_s_towel_yoga",
+                "title": "42birds: Hitchhiker's Towel-Yoga",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Birdy1976",
+                    "public_name": "Birdy1976"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1007,
                 "guid": "0257ce0d-bffa-48ca-8a89-3f49d143377e",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Angelmeeting:_Stage_Support_%26_Stage_Manager",
@@ -7458,6 +7484,88 @@
                 "links": []
               }
             ],
+            "Assembly:ChaosZone": [
+              {
+                "id": 1321,
+                "guid": "4a98e37e-4238-48e6-abef-e42d5595227f",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Anti-governmental_protests_in_Chile",
+                "logo": null,
+                "date": "2019-12-27T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Assembly:ChaosZone",
+                "slug": "36c3-1321-session_anti_governmental_protests_in_chile",
+                "title": "Anti-governmental protests in Chile",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Presentation on the recent protests in Chile from the anarchist perspective\nUprising in $hile without leaders and parties.Conversation about what's going on in the Chilean region. Some keys to understand the present situation and how is the protest organise.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Abcdd",
+                    "public_name": "Abcdd"
+                  }
+                ],
+                "links": [
+                  "https://and.notraces.net"
+                ]
+              },
+              {
+                "id": 1257,
+                "guid": "f00d245e-0efa-4d16-8cd4-d2e6cca970b9",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Chaoszone_Junghacker_CTF",
+                "logo": null,
+                "date": "2019-12-27T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "6:00",
+                "room": "Assembly:ChaosZone",
+                "slug": "36c3-1257-session_chaoszone_junghacker_ctf",
+                "title": "Chaoszone Junghacker CTF",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Einfaches CTF\nWir haben ein einfaches CTF (boot2root), welches sich besonders f\u00fcr Einsteiger eignet. Die zum CTF geh\u00f6renden R\u00e4tsel (auf Englisch) leiten die Spieler in die richtige Richtung, im zweiten Schritt k\u00f6nnen dann jeweils Exploits angewendet werden.Am Ende seid Ihr Admin auf der Maschine.Ich w\u00fcrde mich besonders \u00fcber junge Teilnehmer freuen; allerdings sollten die Teilnehmer \u00fcber grundlegende Computerkenntnisse (Linux) verf\u00fcgen und z.B. schonmal ein ssh benutzt haben, oder wissen wie eine Web-App konzeptionell funktioniert. Wir sch\u00e4tzen motivierte Jugendliche ab der 9. Klasse haben eine Chance, vielleicht aber auch erst etwas sp\u00e4ter. Wir werden auf jeden Fall auch junge erwachsene Teilnehmer zulassen.'''Teilnehmer m\u00fcssen eigene Laptops (mit Kabel-LAN) mitbringen. Wenn Ihr darauf Kali-Linux per USB-Stick (auch selbst mitbringen) bootet, seid Ihr bestens vorbereitet.'''Wir sind auf 20 Teilnehmer beschr\u00e4nkt.Tragt Euch bitte hier in der Wikipage ein, wenn Ihr teilnehmen wollt und auch tats\u00e4chlich kommt. Zu 2. spielt es sich leichter, deswegen werden wir zu Anfang des Spiels Teams bilden.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:KlObs",
+                    "public_name": "KlObs"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1529,
+                "guid": "8da24ede-44a8-47eb-962a-8bb1ac45b98a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Reclaim_your_(fitness)_data",
+                "logo": null,
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Assembly:ChaosZone",
+                "slug": "36c3-1529-session_reclaim_your_fitness_data",
+                "title": "Reclaim your (fitness) data",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "de",
+                "abstract": "",
+                "description": "Diskuss how to reclaim the data of your fitness trackers.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Magomi",
+                    "public_name": "Magomi"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Assembly:Hackers Beauty Palace": [
               {
                 "id": 1394,
@@ -8634,6 +8742,39 @@
                 ]
               },
               {
+                "id": 1618,
+                "guid": "a6ddcb32-1261-4444-9287-ec0591a7e83c",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
+                "logo": null,
+                "date": "2019-12-27T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1618-session_hacking_licence",
+                "title": "Hacking Licence",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Your daily basic hacking learning lesson.\n'''---> README: There will be sessions from days 1 to 5. The daily session times will be announced in the evening before. <---'''We offer instructions for \"Damn Vulnerable Web Application\" ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) daily. At least for 2 to 4 people. Join us if you would like to learn about security gaps in web programming (e.g. bad passwords, SQL injection, cross-site requests forgery). You will learn how to hack systems and how to reset them afterwards. It's recommended to bring your own device (laptop) with an working ethernet port. We have a single Ethernet-to-USB adapter available for devices lacking an Ethernet port such as Apple Macbooks.'''-->LIESMICH: Es wird jeden Tag Sessions geben. Wann die t\u00e4glichen Sessions genau starten, wird immer am Vorabend eingetragen. <---'''Wir bieten t\u00e4glich \u201eDamn Vulnerable Web Application\u201c ( http://www.dvwa.co.uk/ / https://github.com/ethicalhack3r/DVWA ) unter Anleitung an, f\u00fcr mindestens 2 bis 4 Personen. Inhaltlich geht es dabei um klassische Sicherheitsl\u00fccken der Webprogrammierung (z.B. schlechte Passw\u00f6rter, SQL-Injection, Cross-Site-Request-Forgery). Hier lernst du Systeme zu hacken und wiederherzustellen. Bringt am besten euren eigenen Computer mit einem funktionierenden Ethernet-Port mit. Wir haben einen Ethernet-zu-USB-Adapter, damit ihr auch Ger\u00e4te ohne integrierten Ethernet-Anschluss (wie z.B. Apple Macbooks) nutzen k\u00f6nnt.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Chpietsch",
+                    "public_name": "Chpietsch"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:CryptGoat",
+                    "public_name": "CryptGoat"
+                  }
+                ],
+                "links": [
+                  "https://digitalcourage.de/"
+                ]
+              },
+              {
                 "id": 1517,
                 "guid": "c66833ca-c1dd-48c3-88c7-af43d1f37c18",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hacking_Licence",
@@ -9288,6 +9429,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:It-kollektiv",
                     "public_name": "It-kollektiv"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:WikipakaWG": [
+              {
+                "id": 1475,
+                "guid": "3aaaf2f8-471b-4516-8a4c-314f39c16c01",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wikipaka/Jugend_hackt_Translation_Info_Meeting",
+                "logo": null,
+                "date": "2019-12-27T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "0:30",
+                "room": "Assembly:WikipakaWG",
+                "slug": "36c3-1475-session_wikipaka_jugend_hackt_translation_info_meeting",
+                "title": "Wikipaka/Jugend hackt Translation Info Meeting",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Young and good at English and German? Try live translation!\nThis year, we want to translate all talks at WikipakaWG between German and English, and we need your help!If you\u2019re young, speak German and English, and think live translation sounds like fun, why don\u2019t you join us at our information meeting? We\u2019ll tell you how live translation works and you can decide if you want to give it a try at a talk of your choice. Don\u2019t panic, there will always be one experienced translator with you in the booth.Dieses Jahr wollen wir alle Vortr\u00e4ge in der WikipakaWG zwischen Deutsch und Englisch \u00fcbersetzen. Daf\u00fcr brauchen wir deine Hilfe!Wenn du jung bist, Deutsch und Englisch sprichst, und Simultandolmetschen sich nach Spa\u00df anh\u00f6rt, dann komm doch zu unserem Info-Treffen! Wir erkl\u00e4ren, wie Simultandolmetschen funktioniert, und du entscheidest, ob du es mit einem Vortrag deiner Wahl ausprobieren m\u00f6chtest. Keine Panik: bei jedem Vortrag ist immer eine erfahrene Person mit dir in der Kabine.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Waffle",
+                    "public_name": "Waffle"
                   }
                 ],
                 "links": []
@@ -13660,6 +13829,32 @@
                 "links": []
               },
               {
+                "id": 1621,
+                "guid": "7cddb8a4-619e-4452-9e46-21d056cdf0d3",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Parkour_-_des_Nerds_Lieblingssport%3F",
+                "logo": null,
+                "date": "2019-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "1:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1621-session_parkour_des_nerds_lieblingssport_",
+                "title": "Parkour - des Nerds Lieblingssport?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Ein einsteigerfreundlicher Einblick in alles rund um Parkour.\nGewagte These: Nerds/Informatiker und \u00e4hnliche Leute stehen auf Parkour.   Wird Parkour Dein neues Lieblingshobby? Ich liefere f\u00fcr diese These keine repr\u00e4sentativen Beweise, nur Vermutungen.   Viele Traceure (u.a. Parkour aus\u00fcbende), die ich bisher traf, studierten Informatik oder was \u00e4hnliches oder arbeiteten schon in dem Bereich. Liegt es an der Perfektion? An der Ruhe? An der freien Trainingsform? Am Fehlen von Teams und der Tatsache, dass man auf sich alleine gestellt ist?   Im Vortrag schauen wir uns Entstehung, Verbreitung, Philosophie, Abzweigungen, Technik, Training(sstile), Organisationen und sonstiges von Parkour an.   Es wird keine Live-Performance geben, aber genug Videos zum Untermalen und bei gutem Wetter entsteht vielleicht ja eine spontane Anf\u00e4nger-Outdoor-Session bei n\u00e4chster Gelegenheit :)   Zu gegebener Zeit werden hier ein paar links zu angeschauten Videoausschnitten stehen:   ...",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Taulex",
+                    "public_name": "Taulex"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1021,
                 "guid": "beea77e4-46c0-4280-a406-79b79ed66d8a",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Sexuelle_Bel%C3%A4stigung_am_Arbeitsplatz",
@@ -14278,6 +14473,32 @@
                 ]
               },
               {
+                "id": 1616,
+                "guid": "a3453b8b-de43-48ef-8f3d-4958513f66b4",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Crashkurs_Soziokratie",
+                "logo": null,
+                "date": "2019-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "1:00",
+                "room": "Lecture room M1",
+                "slug": "36c3-1616-session_crashkurs_soziokratie",
+                "title": "Crashkurs Soziokratie",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Entscheidungen als Organisation (von einer Person bis zu einigen Millionen) per Konsent, gleichgestellt, verantwortlich, kontinuierlich verbessernd, transparent, effektiv und empirisch treffen\nIch werde knapp \u00fcber eine Mischung von klassischer Soziokratie (mehr auf https://sociocracyforall.org) und Soziokratie 3.0 (https://sociocracy30.org) vortragen, gerade ausreichend, um dann einige Techniken direkt gemeinsam auszuprobieren.  Ein paar Features der Soziokratie:* Als Organisation durchgehend lernen* Mitglieder der Organisation erm\u00e4chtigen, Dinge, die sie st\u00f6ren, zu \u00e4ndern* Gegens\u00e4tzliche Meinungen und Bed\u00fcrfnisse zu Win-Win-Situationen verarbeiten* In bestehenden Organisationen soziokratische Techniken einsetzen, wo es Sinn macht* Diplomatische F\u00e4higkeiten trainieren, auch zur Anwendung au\u00dferhalb von soziokratischen OrganisationenDisclaimer:  Ich habe vor allem theoretische und kaum praktische Erfahrung mit der Soziokratie, w\u00fcrde mich aber sehr dar\u00fcber freuen, es mit euch zusammen auszuprobieren und euer Interesse f\u00fcr Soziokratie anzuregen.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MichaelStruwe",
+                    "public_name": "MichaelStruwe"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1492,
                 "guid": "25f93b53-d7d4-4eec-9794-4dbb54cc8958",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Debrief_on_e-voting_in_Estonia",
@@ -14452,7 +14673,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Introduction to Yubikeys\nHave you ever wanted to step up your personal security posture with hardware security tokens?Did you receive a YubiKey for Christmas, and now are like \"now what??\"Want to teach your mom how to use a YubiKey?Then this workshop is for you!We will spend an hour going through a walk-through general setup and configuration of YubiKeys and how to integrate them into daily life by walking through examples:* making sure the YubiKey in front of you is actually a YubiKey (attestation)* using 2FA with your nextcloud/github account* integrating passdb with YubiKeys* generating gpg keys on an airgapped machine and transferring subkeys to a YubiKey* signing commits with a YubiKey* using your YubiKey to SSH into remote machinesWorkshop Agenda:10 Minute Intro* YubiKey usecases (why you should have one)* YubiKey Distribution (how you might get one)* Being Instructions (Verify your YubiKey is authentic)'''Beginner Instructions'''Best if done before workshop (if possible):* Step 0: [https://github.com/hashbang/book/blob/master/Security/personal-hsms/yubikey.md#install-required-software Install Required Software]During workshop:* Step 1: [https://github.com/hashbang/book/blob/master/Security/personal-hsms/yubikey.md#verifying-authenticity Authenticate/Attest the Yubikey]* Step 2: [https://github.com/hashbang/book/blob/master/Security/personal-hsms/yubikey.md#two-factor-authentication-2fa Setup 2FA on Github]Stretch Goals (Time permitting):* Step 3:  [https://github.com/hashbang/book/blob/master/Security/GnuPG.md#simple-setup Simple GPG Setup]* Step 4: [https://github.com/hashbang/book/blob/master/Security/Commit_Signing.md Commit Signing with YubiKey]* Step 5: [https://github.com/hashbang/book/blob/master/Security/SSH.md#gpg SSH with YubiKey]'''Advanced Instructions'''Follow these instructions if you are done with the beginning steps.* Step 0: [https://github.com/hashbang/airgap/blob/master/README.md Setup an Airgap Machine]* Step 1: [https://github.com/hashbang/book/blob/master/Security/GnuPG.md#advanced-setup Advanced GPG Setup]* Step 2: [https://github.com/hashbang/book/blob/master/Security/Email.md Email setup]* Step 3: Share Your Knowledge!",
+                "description": "Introduction to Yubikeys\nHave you ever wanted to step up your personal security posture with hardware security tokens?Did you receive a YubiKey for Christmas, and now are like \"now what??\"Want to teach your mom how to use a YubiKey?Then this workshop is for you!We will spend an hour going through a walk-through general setup and configuration of YubiKeys and how to integrate them into daily life by walking through examples:* making sure the YubiKey in front of you is actually a YubiKey (attestation)* using 2FA with your nextcloud/github account* integrating passdb with YubiKeys* generating gpg keys on an airgapped machine and transferring subkeys to a YubiKey* signing commits with a YubiKey* using your YubiKey to SSH into remote machinesWorkshop Agenda:10 Minute Intro* YubiKey usecases (why you should have one)* YubiKey Distribution (how you might get one)* Being Instructions (Verify your YubiKey is authentic)'''Beginner Instructions'''Best if done before workshop (if possible):* Step 0: [https://github.com/hashbang/book/blob/master/Security/personal-hsms/yubikey.md#install-required-software Install Required Software]During workshop:* Step 1: [https://github.com/hashbang/book/blob/master/Security/personal-hsms/yubikey.md#verifying-authenticity Authenticate/Attest the Yubikey]* Step 2: [https://github.com/hashbang/book/blob/master/Security/2FA.md Setup 2FA on Github]Stretch Goals (Time permitting):* Step 3:  [https://github.com/hashbang/book/blob/master/Security/GnuPG.md#simple-setup Simple GPG Setup]* Step 4: [https://github.com/hashbang/book/blob/master/Security/Commit_Signing.md Commit Signing with YubiKey]* Step 5: [https://github.com/hashbang/book/blob/master/Security/SSH.md#gpg SSH with YubiKey]'''Advanced Instructions'''Follow these instructions if you are done with the beginning steps.* Step 0: [https://github.com/hashbang/airgap/blob/master/README.md Setup an Airgap Machine]* Step 1: [https://github.com/hashbang/book/blob/master/Security/GnuPG.md#advanced-setup Advanced GPG Setup]* Step 2: [https://github.com/hashbang/book/blob/master/Security/Email.md Email setup]* Step 3: Share Your Knowledge!",
                 "persons": [
                   {
                     "id": 0,
@@ -14752,6 +14973,32 @@
               }
             ],
             "Lecture room M3": [
+              {
+                "id": 1123,
+                "guid": "10ba6be0-688f-4481-aebf-9180edbf05c7",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga",
+                "logo": null,
+                "date": "2019-12-28T10:15:00+01:00",
+                "start": "10:15",
+                "duration": "1:00",
+                "room": "Lecture room M3",
+                "slug": "36c3-1123-session_42birds_hitchhiker_s_towel_yoga",
+                "title": "42birds: Hitchhiker's Towel-Yoga",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Birdy1976",
+                    "public_name": "Birdy1976"
+                  }
+                ],
+                "links": []
+              },
               {
                 "id": 1008,
                 "guid": "bc4f7e6d-7af5-4dec-9810-da8eec85f2b8",
@@ -18269,8 +18516,22 @@
                     "public_name": "Hanno B\u00f6ck"
                   }
                 ],
-                "links": [],
-                "attachments": []
+                "links": [
+                  {
+                    "url": "https://www.golem.de/news/encryption-software-german-bsi-withholds-truecrypt-security-report-1912-145552.html",
+                    "title": "German BSI withholds Truecrypt security report (Golem.de)"
+                  },
+                  {
+                    "url": "https://fragdenstaat.de/anfrage/untersuchungen-zum-verschlusselungsprogramm-truecrypt/",
+                    "title": "The documents at \"Frag Den Staat\""
+                  }
+                ],
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/063/original/truecrypt-slides-36c3.pdf?1577534222",
+                    "title": "slides"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/124.html",
@@ -18298,7 +18559,16 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/064/original/36c3-ntp.odp?1577534238",
+                    "title": "36c3-ntp.odp"
+                  },
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "file"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/125.html",
@@ -19125,6 +19395,34 @@
                 ]
               },
               {
+                "id": 1142,
+                "guid": "c501c610-8efd-4796-b6da-51377b33db88",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Junghackertag_Er%C3%B6ffnung",
+                "logo": null,
+                "date": "2019-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "1:00",
+                "room": "Roter Salon",
+                "slug": "36c3-1142-session_junghackertag_eroeffnung",
+                "title": "Junghackertag Er\u00f6ffnung",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Er\u00f6ffnung des Junghackertags\nWir stellen euch den Junghackertag vor. Die einzelnen Sessions werden vorgestellt. Ihr erfahrt wo die Sessions stattfinden und was ihr dort machen k\u00f6nnt. Wenn ihr Fragen habt, k\u00f6nnt ihr die auch loswerden.'''[[Projects:Junghackertag|Liste aller Sessions]]'''",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hbr",
+                    "public_name": "Hbr"
+                  }
+                ],
+                "links": [
+                  "https://junghack.de"
+                ]
+              },
+              {
                 "id": 1606,
                 "guid": "f6d51c4f-aa23-4007-9246-01f27dd88af7",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Vorstellung_Thema_des_Tages:_Back_to_Nature",
@@ -19265,6 +19563,34 @@
                 ]
               },
               {
+                "id": 1295,
+                "guid": "2f0a66ac-d848-4b81-a4ed-903884cf6f7e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Pseudo-Yoga",
+                "logo": null,
+                "date": "2019-12-28T10:30:00+01:00",
+                "start": "10:30",
+                "duration": "0:20",
+                "room": "Assembly:Haecksen",
+                "slug": "36c3-1295-session_pseudo_yoga",
+                "title": "Pseudo-Yoga",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "fast wie echtes Yoga\nJeden Morgen um 11:00, Fast wie echtes Yoga.Am zweiten Tag um 10:30 Uhr, direkt vor dem Haecksen-Fr\u00fchst\u00fcck.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Piko",
+                    "public_name": "Piko"
+                  }
+                ],
+                "links": [
+                  "http://haecksen.org"
+                ]
+              },
+              {
                 "id": 1509,
                 "guid": "6e3c0f27-29a5-4dba-82b9-be155e2c8442",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Sweater_Theory_for_Beginners",
@@ -19291,6 +19617,97 @@
                 "links": [
                   "http://haecksen.org"
                 ]
+              }
+            ],
+            "Assembly:WikipakaWG": [
+              {
+                "id": 1550,
+                "guid": "e6e5635e-0f1a-4f1a-a196-81fe91b8f100",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:36C3_Fahrplan_App",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "0:40",
+                "room": "Assembly:WikipakaWG",
+                "slug": "36c3-1550-session_36c3_fahrplan_app",
+                "title": "36C3 Fahrplan App",
+                "subtitle": "You are invited to join the project. It is not just about coding!",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Session for people who want to join the project\nI will shortly introduce you into the history and the current state of the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further. The years old codebase is waiting for you with lecacy Java but also Kotlin. Besides programming there is enough to do which does not require you to write code such as <ul><li>translation</li><li>design</li><li>documentation</li><li>public relations</li><li>outreach</li><li>communication with users</li></ul>and many more.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Tbsprs",
+                    "public_name": "Tbsprs"
+                  }
+                ],
+                "links": [
+                  "https://github.com/EventFahrplan/EventFahrplan",
+                  "https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule",
+                  "https://fdroid.gitlab.io/ccc"
+                ]
+              },
+              {
+                "id": 1247,
+                "guid": "87ded5aa-64f5-4730-9823-089cac6eff58",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Gefragt_-_Gejagt:_Junghacker*innen_Edition",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "2:00",
+                "room": "Assembly:WikipakaWG",
+                "slug": "36c3-1247-session_gefragt_gejagt_junghacker_innen_edition",
+                "title": "Gefragt - Gejagt: Junghacker*innen Edition",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Rasante Quiz-Show f\u00fcr Jugendliche\nDas schnelle Quiz f\u00fcr alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jahren. Lasst ihr euch von den Erwachsenen jagen oder entkommt ihr eurem J\u00e4ger?Gefragt - Gejagt ist ein bekanntes Quizformat aus der ARD. Wir stellen eine Junghacker*innen-Version auf die Beine und lassen zwei clevere Teams bestehend aus Jugendlichen zwischen 12 und 18 Jahren gegeneinander, aber auch gegen die erwachsenen und erfahrenen J\u00e4ger*innen antreten. K\u00f6nnen sie gewinnen? Wir werden es herausfinden! Euch erwarten schnelle Fragerunden, abwechslungsreiche Themengebiete und an erster Stelle ganz viel gute Laune und Cyber!Du kannst dich zum mitspielen bewerben oder mithelfen - auch als Erwachsene*r. Alle Informationen, die du dazu brauchst, findest du unter [https://nwng.eu/36c3-gg/ nwng.eu/36c3-gg]! Wir freuen uns auf dich! <3",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Nwng",
+                    "public_name": "Nwng"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:N0emis",
+                    "public_name": "N0emis"
+                  }
+                ],
+                "links": [
+                  "https://nwng.eu/36c3-gg"
+                ]
+              },
+              {
+                "id": 1542,
+                "guid": "f34d166e-d61f-4f1d-88f3-09fe872fc606",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wikipaka_Translation_Info_Meeting,_Day_2",
+                "logo": null,
+                "date": "2019-12-28T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "0:30",
+                "room": "Assembly:WikipakaWG",
+                "slug": "36c3-1542-session_wikipaka_translation_info_meeting_day_2",
+                "title": "Wikipaka Translation Info Meeting, Day 2",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "de",
+                "abstract": "",
+                "description": "Young and good at English and German? Try live translation!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Waffle",
+                    "public_name": "Waffle"
+                  }
+                ],
+                "links": []
               }
             ],
             "Assembly:C3RE": [
@@ -19699,6 +20116,34 @@
                 "links": []
               },
               {
+                "id": 1139,
+                "guid": "037eb97a-9e99-43ca-a29e-e59b7d7eab66",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Loeten_fuer_Kinder_und_Einsteiger:_Wir_Bauen_ein_LED-Spielzeug",
+                "logo": null,
+                "date": "2019-12-28T10:30:00+01:00",
+                "start": "10:30",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1139-session_loeten_fuer_kinder_und_einsteiger_wir_bauen_ein_led_spielzeug",
+                "title": "Loeten fuer Kinder und Einsteiger: Wir Bauen ein LED-Spielzeug",
+                "subtitle": "Tag 2-Kinder und Erwachsene",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Ein 1-2 Stunden langer L\u00f6tunterricht (Durchsteckmontage), in dem wir ein einfaches Spielzeug bauen\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hammes_Hacks",
+                    "public_name": "Hammes Hacks"
+                  }
+                ],
+                "links": [
+                  "http://hammeshacks.com/"
+                ]
+              },
+              {
                 "id": 1111,
                 "guid": "803f32b8-0fc8-4103-a0cf-5fc0ae3d47ac",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_1_@_Junghackertag",
@@ -19724,6 +20169,34 @@
                 ],
                 "links": [
                   "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
+                ]
+              },
+              {
+                "id": 1622,
+                "guid": "ddc611e0-28c1-42dc-800f-2eb1f9163397",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Soldering_for_Children_and_Beginners:_Making_an_LED_Toy",
+                "logo": null,
+                "date": "2019-12-28T10:30:00+01:00",
+                "start": "10:30",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1622-session_soldering_for_children_and_beginners_making_an_led_toy",
+                "title": "Soldering for Children and Beginners: Making an LED Toy",
+                "subtitle": "Day 2-Kids and Adults",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "A 1-2 hour through hole soldering class where we build a simple toy\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hammes_Hacks",
+                    "public_name": "Hammes Hacks"
+                  }
+                ],
+                "links": [
+                  "http://hammeshacks.com/"
                 ]
               },
               {
@@ -20631,6 +21104,32 @@
                 ]
               },
               {
+                "id": 1617,
+                "guid": "e5038ded-c4c7-4750-8e6c-d21365aab50e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Elektrobastelei",
+                "logo": null,
+                "date": "2019-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "2:00",
+                "room": "Kidspace",
+                "slug": "36c3-1617-session_elektrobastelei",
+                "title": "Elektrobastelei",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "Tinkering with wires, magnets and batteries, Elektrobastelei mit Draht, Magneten und Batterien\nHow does a nail become a magnet and why does an electric motor rotate? With copper wire, nails, magnets and small lamps you can build electric circuits, electromagnets and small motors and understand what it is all about. Wie wird ein Nagel zum Magneten und warum dreht sich ein Elektromotor? Aus Kupferdraht, N\u00e4geln, Magneten und kleinen L\u00e4mpchen k\u00f6nnt ihr Stromkreise, Elektromagnete und kleine Motoren bauen und verstehen, was es damit auf sich hat.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aram",
+                    "public_name": "Aram"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1469,
                 "guid": "13c4acb7-05ec-4b9c-811b-3e0599af4d10",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Factorio",
@@ -20891,6 +21390,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Gnomus",
                     "public_name": "Gnomus"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:ChaosZone": [
+              {
+                "id": 1144,
+                "guid": "6e04b867-66c8-4954-a220-b6af9a34938d",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Chaoszone_Junghackertag",
+                "logo": null,
+                "date": "2019-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "7:00",
+                "room": "Assembly:ChaosZone",
+                "slug": "36c3-1144-session_chaoszone_junghackertag",
+                "title": "Chaoszone Junghackertag",
+                "subtitle": "Chaoszone Junghackertag",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "for all kids who like soldering and controlling robot cars etc.\n[[File:Chaoszone junghacker.png|400px]]At 10 a.m. we will start at the common Junghackertag opening session: [[Session:Junghackertag_Er\u00f6ffnung|Junghackertag Er\u00f6ffnung]].At 11 a.m. our Chaoszone Junghackertag will beginn. We have several parallel tracks:* soldering kits of different complexity* controlling mbots from simple tasks up to navigating through a parkour* programming calliope* Working with Raspberry Pi Scratch stations.At 5 p.m. we will start a mbot soccer game",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:R2d2data",
+                    "public_name": "R2d2data"
                   }
                 ],
                 "links": []
@@ -26307,6 +26834,32 @@
                 ]
               },
               {
+                "id": 1611,
+                "guid": "c74f1d6b-d564-49e7-b425-c86daa12a052",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Bin%C3%A4re_Zahlen_und_Montessori_-_Wiederholung!!",
+                "logo": null,
+                "date": "2019-12-29T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "1:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1611-session_binaere_zahlen_und_montessori_wiederholung_",
+                "title": "Bin\u00e4re Zahlen und Montessori - Wiederholung!!",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "de",
+                "abstract": "",
+                "description": "Wiederholung vom Vortrag am Tag 1\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Schnuppi",
+                    "public_name": "Schnuppi"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1118,
                 "guid": "5401dff1-b4a7-47b7-8c42-70c4b453b338",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Community_Accountability",
@@ -26618,6 +27171,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Elisabethdigiges",
                     "public_name": "Elisabethdigiges"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1620,
+                "guid": "6e8adf4f-5e81-4fbd-83f4-68c1454c837a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:No_satisfaction_without_penetration",
+                "logo": null,
+                "date": "2019-12-29T10:30:00+01:00",
+                "start": "10:30",
+                "duration": "2:00",
+                "room": "Seminar room 13",
+                "slug": "36c3-1620-session_no_satisfaction_without_penetration",
+                "title": "No satisfaction without penetration",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Lecture/Hands-on combined security workshop\nThis workshop is a mix of a lecture about the basic principles of vulnerabilities and security-hackits.You'll learn about the problem behind vulnerabilities in the first step and you can tryto exploit those vulnerabilities afterwards (hands on!). The hacks could be applied to varioustopic fields like embedded/automotive, web etc. It's all about the fun of pentesting.Please note: You need some average knowledge in Python scripting or alterantivelly you can just attend the lecture (but won't be able to do the practical parts).Requirements (Please read carefully):-> Minimum average knowledge in Python scripting. You'll be given some code snippets to begin with and create your hacks. Optionally you can use your own language but support is not guaranteed!-> Hardware: Your own Laptop/PC with network connection-> Software: Linux based OS with Python installed. The following libraries have to be installed:https://gitlab.com/mike01/pypackerhttps://github.com/twisted/twisted",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mike",
+                    "public_name": "Mike"
                   }
                 ],
                 "links": []
@@ -27206,6 +27785,32 @@
               }
             ],
             "Lecture room M3": [
+              {
+                "id": 1128,
+                "guid": "dfbd64f6-9930-4b01-96a5-ee1cf6d13932",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga",
+                "logo": null,
+                "date": "2019-12-29T10:15:00+01:00",
+                "start": "10:15",
+                "duration": "1:00",
+                "room": "Lecture room M3",
+                "slug": "36c3-1128-session_42birds_hitchhiker_s_towel_yoga",
+                "title": "42birds: Hitchhiker's Towel-Yoga",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Birdy1976",
+                    "public_name": "Birdy1976"
+                  }
+                ],
+                "links": []
+              },
               {
                 "id": 1145,
                 "guid": "95d34463-aed3-419b-afcf-044cdf611429",
@@ -31392,6 +31997,39 @@
                 "links": []
               },
               {
+                "id": 1614,
+                "guid": "9eafc3ca-f695-4281-8a81-0553e54ca71c",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Calliope_Games_Workshop",
+                "logo": null,
+                "date": "2019-12-29T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "2:00",
+                "room": "C-base",
+                "slug": "36c3-1614-session_calliope_games_workshop",
+                "title": "Calliope Games Workshop",
+                "subtitle": "Calliope Spiele Programmierung 1",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Spiele mit dem Calliope programmieren\nWir werden einfache Spiele mit dem Calliope programmieren. Geeignet f\u00fcr Anf\u00e4nger und Fortgeschrittene.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
+                    "public_name": "DerMicha"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bengoshi",
+                    "public_name": "Bengoshi"
+                  }
+                ],
+                "links": [
+                  "https://calliope.cc"
+                ]
+              },
+              {
                 "id": 1159,
                 "guid": "1c6b3e1c-f1a8-48b3-879f-5077c768af69",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Cyber4EDU",
@@ -31926,6 +32564,34 @@
                 ]
               },
               {
+                "id": 1613,
+                "guid": "65dfdf51-ca01-4cfb-a088-a67181ff1c7c",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Blinkenpoi_Assembly_Party",
+                "logo": null,
+                "date": "2019-12-29T10:30:00+01:00",
+                "start": "10:30",
+                "duration": "1:30",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1613-session_blinkenpoi_assembly_party",
+                "title": "Blinkenpoi Assembly Party",
+                "subtitle": "Blinkenpoi Assembly Day #3 10:30",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "We build Blinkenpois\nCome build a Blinkenpoi!overflo (DECT 6837, the dude with the donkey hat) will build Blinkenpois with you and guide you trough the process.There is documentation available online.[https://metalab.at/wiki/Blinkenpoi metalab WIKI][https://www.youtube.com/watch?v=9AM9bLseyD4  Instruction video]You have a seat in the workshop if you got a Blinkenpoi kit before the Workshop.It is easy to build, expect 15 minutes to assemble a Blinkenpoi.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Overflo",
+                    "public_name": "Overflo"
+                  }
+                ],
+                "links": [
+                  "https://metalab.at/wiki/Blinkenpoi"
+                ]
+              },
+              {
                 "id": 1205,
                 "guid": "70b6ca48-af97-49ca-bc3a-aa0d543934ff",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Fomu",
@@ -32006,6 +32672,34 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1112,
+                "guid": "702627f8-4acf-40d3-9e59-0837af6584d8",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Building_Session_2_@_Hardware_Hacking_Area",
+                "logo": null,
+                "date": "2019-12-29T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "3:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1112-session_makerbuino_building_session_2_hardware_hacking_area",
+                "title": "MAKERbuino Building Session 2 @ Hardware Hacking Area",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Build your own game console!\n[[File:MAKERbuino.jpg|800px]]This is a building session for kids (11+) and grown-ups at 36C3. I know that kids are usually not interested in as many talks as grown-ups, so there's a potentially high demand for fun stuff to do for kids at 36C3. For this reason, the MAKERbuino kits are intended to be built by 1. kids and 2. non-kids (everybody else). If you're a grown-up, you're most welcome to join the session! Build your own kit if there are any kits left and/or consider helping a kid if you already have some basic soldering experience.We'll have 10 seats available at Hamsterspace@HHA. Here are some additional hints:* If you're a kid, bring a parent if you can! * If you've never soldered before, build a small kit before building a MAKERbuino. There's plenty of opportunity at 36C3 to gain basic soldering experience during the days before the session, for example:** [[Learn_to_solder|Learn To Solder (Hardware Hacking Area)]]** [[Session:Soldering_Workshop_(Chaos_macht_Schule)|Soldering Workshop (Chaos macht Schule)]]*More information [[MAKERbuino|can be found here]].",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
+                    "public_name": "Micha"
+                  }
+                ],
+                "links": [
+                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
+                ]
               },
               {
                 "id": 1228,
@@ -32228,6 +32922,34 @@
             ],
             "Assembly:C3blind": [
               {
+                "id": 1612,
+                "guid": "7278fa57-8749-4bac-99dc-9101f07a9ffe",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Blind_Navigation_workshop",
+                "logo": null,
+                "date": "2019-12-29T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "2:00",
+                "room": "Assembly:C3blind",
+                "slug": "36c3-1612-session_blind_navigation_workshop",
+                "title": "Blind Navigation workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "\nSai's #BlindNavigation workshop from 35c3 will also take place this year! If you're interested in learning to navigate blindly using guide canes, this is the session for you! As the workshop requires tremendous logistical effort, we will need to contact you in advance with exact details as to when the workshop will take place, but expect at least one timeslot provided on this page.To sign up, please fill in https://s.ai/ccc/ws.Fill in https://s.ai/ccc/fb after, For Science (& my sanity)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Saizai",
+                    "public_name": "Saizai"
+                  }
+                ],
+                "links": [
+                  "https://s.ai/ccc/ws"
+                ]
+              },
+              {
                 "id": 1322,
                 "guid": "f858e69c-5b50-405b-83b2-1aeeceaf54bc",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Blind_Navigation_workshop",
@@ -32347,65 +33069,121 @@
                 ]
               }
             ],
-            "Assembly:Eco Hacker Farm": [
+            "Assembly:WikipakaWG": [
               {
-                "id": 1609,
-                "guid": "a40d6330-eebe-4c54-873f-dea829edda02",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Cohousing_projects_meeting",
+                "id": 1486,
+                "guid": "d54e7d6f-4f5e-450d-bc36-fbb719f5c694",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:B%C3%A4ume_pflanzen_mit_QGIS_und_R",
                 "logo": null,
-                "date": "2019-12-29T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:00",
-                "room": "Assembly:Eco Hacker Farm",
-                "slug": "36c3-1609-session_cohousing_projects_meeting",
-                "title": "Cohousing projects meeting",
-                "subtitle": "an opportunity to network and build cooperation points between cohousing projects with shared ideals",
+                "date": "2019-12-29T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "0:30",
+                "room": "Assembly:WikipakaWG",
+                "slug": "36c3-1486-session_baeume_pflanzen_mit_qgis_und_r",
+                "title": "B\u00e4ume pflanzen mit QGIS und R",
+                "subtitle": "",
                 "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
+                "type": "other",
+                "language": "de",
                 "abstract": "",
-                "description": "an annual meeting of existing cohousing projects\nWe meet up to get to know each other, discuss common issues, solutions and resources.",
+                "description": "B\u00e4ume pflanzen kann sehr lange dauern. Mit interaktiven Karten k\u00f6nnen Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele  (mit QGIS und R) an und k\u00f6nnen bei Interesse ein kleines K\u00e4rtchen programmieren.\n",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aimeejulia",
-                    "public_name": "Aimeejulia"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bella",
+                    "public_name": "Bella"
                   }
                 ],
                 "links": [
-                  "https://wiki.ecohackerfarm.org/outreach#are_you_part_of_a_coliving_project_that_mixes_permaculture_with_a_hackerspace_hackbase"
+                  "http://www.booksfortrees.at/badilisha-permaculture-center/"
                 ]
-              }
-            ],
-            "Assembly:Digitalcourage": [
+              },
               {
-                "id": 1546,
-                "guid": "5c6018f0-8945-41d4-ba0c-7f18dee53074",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Datenschutz-Sprechstunde_mit_den_Aufsichtsbeh%C3%B6rden",
+                "id": 1525,
+                "guid": "daa9ebe3-4832-480a-aac6-e46ca9cd4cf5",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Mini-Hackathon:_Hacking_Ecology",
                 "logo": null,
-                "date": "2019-12-29T15:30:00+01:00",
-                "start": "15:30",
-                "duration": "1:00",
-                "room": "Assembly:Digitalcourage",
-                "slug": "36c3-1546-session_datenschutz_sprechstunde_mit_den_aufsichtsbehoerden",
-                "title": "Datenschutz-Sprechstunde mit den Aufsichtsbeh\u00f6rden",
+                "date": "2019-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "3:00",
+                "room": "Assembly:WikipakaWG",
+                "slug": "36c3-1525-session_mini_hackathon_hacking_ecology",
+                "title": "Mini-Hackathon: Hacking Ecology",
                 "subtitle": "",
                 "track": "self organized sessions",
-                "type": "workshop",
+                "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Mitarbeiter der Datenschutz-Aufsichtsbeh\u00f6rden stehen Rede und Antwort\nEine offene Beratungs-Sprechstunde f\u00fcr alle Eure Fragen rund um Datenschutz und die Datenschutz-Grundverordnung (DS-GVO) u.a. mit Alvar Freude, Referent beim Landesbeauftragten f\u00fcr den Datenschutz und die Informationsfreiheit Baden-W\u00fcrttemberg.Bringt Eure Themen und Fragen mit. Ihr findet uns in der Sofa-Ecke beim Digitalcourage-Stand (L1, Messehalle 2, Ebene 0).Die Datenschutzaufsichtsbeh\u00f6rden sind in ihrem jeweiligen Bereich zust\u00e4ndig f\u00fcr die Beratung zur bzw. Durchsetzung der DSGVO.",
+                "description": "Mini-Hackathon",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alvar_Freude",
-                    "public_name": "Alvar Freude"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Sperlea",
+                    "public_name": "Sperlea"
                   }
                 ],
-                "links": []
+                "links": [
+                  "https://cfp.verschwoerhaus.de/36c3/talk/EFPNMB/"
+                ]
+              },
+              {
+                "id": 1349,
+                "guid": "0eea7848-e032-4b22-be26-59813546703a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Treffen_chaos.jetzt",
+                "logo": null,
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "2:00",
+                "room": "Assembly:WikipakaWG",
+                "slug": "36c3-1349-session_treffen_chaos_jetzt",
+                "title": "Treffen chaos.jetzt",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Wir wollen junge Leute im Chaos-Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces st\u00e4rken. Komm vorbei, trink eine Mate und lass die Welt ver\u00e4ndern.\nF\u00fcr mehr information schau bitte auf die Pretalxseite der WikiPaka WG: https://cfp.verschwoerhaus.de/36c3/talk/CRH3HY/",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Scammo",
+                    "public_name": "Scammo"
+                  }
+                ],
+                "links": [
+                  "https://cfp.verschwoerhaus.de/36c3/talk/CRH3HY/"
+                ]
               }
             ],
             "Kidspace": [
+              {
+                "id": 1615,
+                "guid": "09ed743a-588c-43eb-ab70-426ff0cdcb6e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Calliope",
+                "logo": null,
+                "date": "2019-12-29T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "2:00",
+                "room": "Kidspace",
+                "slug": "36c3-1615-session_calliope",
+                "title": "Calliope",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "spielerisch und kreativ die Welt der Computer kennenlernen\nMit dem Calliope mini kannst du spielerisch und kreativ die Welt der Computer kennenlernen. calliope.ccAnzahl Teilnehmer*innen: 5-10Alter: 6+ JahreDauer: 30-60minAnmeldung erforderlich?: Nein",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bate",
+                    "public_name": "Bate"
+                  }
+                ],
+                "links": [
+                  "http://calliope.cc"
+                ]
+              },
               {
                 "id": 1442,
                 "guid": "df1c942c-2d01-429e-a704-573852d1262f",
@@ -32592,6 +33370,64 @@
                 "links": [
                   "http://TRICKMISCH.de"
                 ]
+              }
+            ],
+            "Assembly:Eco Hacker Farm": [
+              {
+                "id": 1609,
+                "guid": "a40d6330-eebe-4c54-873f-dea829edda02",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Cohousing_projects_meeting",
+                "logo": null,
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Assembly:Eco Hacker Farm",
+                "slug": "36c3-1609-session_cohousing_projects_meeting",
+                "title": "Cohousing projects meeting",
+                "subtitle": "an opportunity to network and build cooperation points between cohousing projects with shared ideals",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "an annual meeting of existing cohousing projects\nWe meet up to get to know each other, discuss common issues, solutions and resources.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Aimeejulia",
+                    "public_name": "Aimeejulia"
+                  }
+                ],
+                "links": [
+                  "https://wiki.ecohackerfarm.org/outreach#are_you_part_of_a_coliving_project_that_mixes_permaculture_with_a_hackerspace_hackbase"
+                ]
+              }
+            ],
+            "Assembly:Digitalcourage": [
+              {
+                "id": 1546,
+                "guid": "5c6018f0-8945-41d4-ba0c-7f18dee53074",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Datenschutz-Sprechstunde_mit_den_Aufsichtsbeh%C3%B6rden",
+                "logo": null,
+                "date": "2019-12-29T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "1:00",
+                "room": "Assembly:Digitalcourage",
+                "slug": "36c3-1546-session_datenschutz_sprechstunde_mit_den_aufsichtsbehoerden",
+                "title": "Datenschutz-Sprechstunde mit den Aufsichtsbeh\u00f6rden",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Mitarbeiter der Datenschutz-Aufsichtsbeh\u00f6rden stehen Rede und Antwort\nEine offene Beratungs-Sprechstunde f\u00fcr alle Eure Fragen rund um Datenschutz und die Datenschutz-Grundverordnung (DS-GVO) u.a. mit Alvar Freude, Referent beim Landesbeauftragten f\u00fcr den Datenschutz und die Informationsfreiheit Baden-W\u00fcrttemberg.Bringt Eure Themen und Fragen mit. Ihr findet uns in der Sofa-Ecke beim Digitalcourage-Stand (L1, Messehalle 2, Ebene 0).Die Datenschutzaufsichtsbeh\u00f6rden sind in ihrem jeweiligen Bereich zust\u00e4ndig f\u00fcr die Beratung zur bzw. Durchsetzung der DSGVO.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alvar_Freude",
+                    "public_name": "Alvar Freude"
+                  }
+                ],
+                "links": []
               }
             ],
             "Assembly:City center": [
@@ -33104,6 +33940,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:Art-and-Play": [
+              {
+                "id": 1332,
+                "guid": "68a70d98-712e-465d-a51d-931ce0736f8b",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Technological_Narratives:_Solarpunk,_Cyberpunk,_Popculture",
+                "logo": null,
+                "date": "2019-12-29T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "1:00",
+                "room": "Assembly:Art-and-Play",
+                "slug": "36c3-1332-session_technological_narratives_solarpunk_cyberpunk_popculture",
+                "title": "Technological Narratives: Solarpunk, Cyberpunk, Popculture",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "The western culture offers a very distilled narrative on what technology is and who builds, owns and profits from it. Most non-technical audiences are unaware of how subjective this perspective is - and how strongly it favours well-marketed multinational corporations over local solutions.\nThe more the technology advances and becomes interconnected and complex, the less the non-technical public understands the changes, their repercussions and the policies that come along with them.Most people end up relying on stories present in the popular culture to understand the tech world around them: the well-polished product ads hidden in their favourite films, the lone genius-inventor legends, cyberpunk visions of a world with no privacy, but so much convenience!With the constant changes around, it's hard not to be future shocked and give up on any attempts of understanding the technology yourself. The alternative narratives, especially within the hacker scene, are anything but accessible. They're shrouded with technical terms, full of cryptic references and lacking any clear introduction.Very few stories explain why values such as net neutrality are important without speaking code. People need stories with clear explanations appealing to their emotions and remaining in their memories much longer than a dry technical evaluation of pros and cons.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alxd",
+                    "public_name": "Alxd"
+                  }
+                ],
+                "links": [
+                  "https://alxd.org/solarpunk-cyberpunk-popculture.html#solarpunk-cyberpunk-popculture"
+                ]
               }
             ]
           }
@@ -35216,6 +36082,32 @@
             ],
             "Lecture room M3": [
               {
+                "id": 1129,
+                "guid": "c6651dbd-6541-43ed-ba37-5e9097a97df8",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga",
+                "logo": null,
+                "date": "2019-12-30T10:15:00+01:00",
+                "start": "10:15",
+                "duration": "1:00",
+                "room": "Lecture room M3",
+                "slug": "36c3-1129-session_42birds_hitchhiker_s_towel_yoga",
+                "title": "42birds: Hitchhiker's Towel-Yoga",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Birdy1976",
+                    "public_name": "Birdy1976"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1467,
                 "guid": "233928f9-841b-4474-88bd-b1deecad2c3f",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Das_Gutachten_der_Datenethikkommission_-_eine_praktische_Diskussion",
@@ -36244,6 +37136,34 @@
                 "links": []
               },
               {
+                "id": 1619,
+                "guid": "cecb9ad0-2e83-447f-8f4f-0c210856f153",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Multigeiger_bauen",
+                "logo": null,
+                "date": "2019-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "3:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1619-session_multigeiger_bauen",
+                "title": "Multigeiger bauen",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Geigerz\u00e4hler\u2013 Hardwarebasteln mit LoRaWAN & WiFi  Wir sind die Ecocurious-Initiative und haben einen LoRaWAN- und WiFi-f\u00e4higen Geigerz\u00e4hler entwickelt. Diesen Low-Cost-Multigeiger mit gutem Z\u00e4hlrohr kannst Du bei uns l\u00f6ten, im Tausch gegen Materialkosten von 75 Euro mitnehmen und damit Teil unseres wunderbaren Messnetzes werden, das wir gerade aufbauen. Die Bauteile und unsere selbstentwickelte Platine bringen wir f\u00fcr Dich mit. Du findest uns in der Hardware Hacking Area, im Hamsterspace.  Wir bieten 2 Workshop-Zeiten an: Am 29.12. von 14-17 Uhr und am 30.12. von 10-13 Uhr.  Wir freuen uns auf Dich, mach mit!\nGeigerz\u00e4hler\u2013 Hardwarebasteln mit LoRaWAN & WiFiWir sind die Ecocurious-Initiative und haben einen LoRaWAN- und WiFi-f\u00e4higen Geigerz\u00e4hler entwickelt. Diesen Low-Cost-Multigeiger mit gutem Z\u00e4hlrohr kannst Du bei uns l\u00f6ten, im Tausch gegen Materialkosten von 75 Euro mitnehmen und damit Teil unseres wunderbaren Messnetzes werden, das wir gerade aufbauen. Das Ger\u00e4t ist die ultimative Beta-Version, \u00c4nderungsw\u00fcnsche und Ideen sind sehr willkommen.Wir bringen die Bauteile und unsere selbstentwickelte Platine f\u00fcr Dich mit. Du findest uns in der Hardware Hacking Area, im Hamsterspace.Wir bieten 2 Workshop-Zeiten an: Am 29.12. von 14-17 Uhr und am 30.12. von 10-13 Uhr.Wir freuen uns auf Dich, mach mit!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ecocurious",
+                    "public_name": "Ecocurious"
+                  }
+                ],
+                "links": [
+                  "https://ecocurious.de/projekte/multigeiger/"
+                ]
+              },
+              {
                 "id": 1225,
                 "guid": "85f48c82-0aaa-4a40-b74e-2fbff94f4ec6",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners",
@@ -36271,6 +37191,34 @@
               }
             ],
             "Kidspace": [
+              {
+                "id": 1449,
+                "guid": "d95a9c9e-bb86-40f4-959a-3fccf221ceb1",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Calliope",
+                "logo": null,
+                "date": "2019-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "2:00",
+                "room": "Kidspace",
+                "slug": "36c3-1449-session_calliope",
+                "title": "Calliope",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "",
+                "abstract": "",
+                "description": "spielerisch und kreativ die Welt der Computer kennenlernen\nMit dem Calliope mini kannst du spielerisch und kreativ die Welt der Computer kennenlernen. calliope.ccAnzahl Teilnehmer*innen: 5-10Alter: 6+ JahreDauer: 30-60minAnmeldung erforderlich?: Nein",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bate",
+                    "public_name": "Bate"
+                  }
+                ],
+                "links": [
+                  "http://calliope.cc"
+                ]
+              },
               {
                 "id": 1458,
                 "guid": "43e69308-e49b-4765-9d4c-311fdffffbc5",
@@ -36519,6 +37467,36 @@
                 ],
                 "links": [
                   "http://haecksen.org"
+                ]
+              }
+            ],
+            "Assembly:C-base / CCC-B / xHain": [
+              {
+                "id": 1113,
+                "guid": "15864380-4f8f-4daf-a979-3145d94ef077",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MAKERbuino_Programming_Session",
+                "logo": null,
+                "date": "2019-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "3:00",
+                "room": "Assembly:C-base / CCC-B / xHain",
+                "slug": "36c3-1113-session_makerbuino_programming_session",
+                "title": "MAKERbuino Programming Session",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Let's make a game for the MAKERbuino!\n[[File:MAKERbuino.jpg|800px]]More information [[MAKERbuino|can be found here]].",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Micha",
+                    "public_name": "Micha"
+                  }
+                ],
+                "links": [
+                  "https://events.ccc.de/congress/2019/wiki/index.php/MAKERbuino"
                 ]
               }
             ],

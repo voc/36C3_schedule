@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-28 01:10</version>
+  <version>2019-12-28 01:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -6520,6 +6520,31 @@ Bring your own device :)</description>
         </links>
       </event>
     </room>
+    <room name="Assembly:FOSSASIA">
+      <event id="1591" guid="38d72e12-75a9-46ea-8240-cec0274bb1ff">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop</url>
+        <logo/>
+        <date>2019-12-28T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:FOSSASIA</room>
+        <slug>36c3-1591-session_pslab_pocket_science_lab_self_guided_exploratory_workshop</slug>
+        <title>PSLab, Pocket Science Lab Self guided exploratory workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn about the open hardware pocket science lab
+Join us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory workshop you have the chance to learn about the applications and test it with the device.</description>
+        <persons>
+          <person id="0">Mario</person>
+        </persons>
+        <links>
+          <link>https://pslab.io</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Eco Hacker Farm">
       <event id="1569" guid="b0c3b63a-e3b7-4a20-b162-49076c314eb3">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Powerplant_Teammeeting</url>
@@ -8926,6 +8951,55 @@ Sai's #BlindNavigation workshop from 35c3 will also take place this year! If you
         </links>
       </event>
     </room>
+    <room name="Assembly:CriticalDecentralisationCluster">
+      <event id="1258" guid="9cf095f6-efeb-495e-810b-716efc5ef7b0">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Blockchain_Interoperability:_NIPoPoWs_%26_Sidechains</url>
+        <logo/>
+        <date>2019-12-29T19:40:00+01:00</date>
+        <start>19:40</start>
+        <duration>1:00</duration>
+        <room>Assembly:CriticalDecentralisationCluster</room>
+        <slug>36c3-1258-session_blockchain_interoperability_nipopows_sidechains</slug>
+        <title>Blockchain Interoperability: NIPoPoWs &amp; Sidechains</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Moving value between chains
+</description>
+        <persons>
+          <person id="0">Gtklocker</person>
+          <person id="0">Dionyziz</person>
+        </persons>
+        <links>
+          <link>https://nipopows.com/</link>
+        </links>
+      </event>
+      <event id="1581" guid="7baed6db-c7e7-43f9-a813-9f785a853548">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices</url>
+        <logo/>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:CriticalDecentralisationCluster</room>
+        <slug>36c3-1581-session_creating_z_wave_controllers_and_devices</slug>
+        <title>Creating Z-Wave controllers and devices</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hacking around Z-Wave smart home protocol
+Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
+        <persons>
+          <person id="0">PoltoS</person>
+        </persons>
+        <links>
+          <link>http://z-uno.z-wave.me</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:WikipakaWG">
       <event id="1486" guid="d54e7d6f-4f5e-450d-bc36-fbb719f5c694">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:B%C3%A4ume_pflanzen_mit_QGIS_und_R</url>
@@ -8993,31 +9067,6 @@ Für mehr information schau bitte auf die Pretalxseite der WikiPaka WG: https://
         </persons>
         <links>
           <link>https://cfp.verschwoerhaus.de/36c3/talk/CRH3HY/</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:CriticalDecentralisationCluster">
-      <event id="1581" guid="7baed6db-c7e7-43f9-a813-9f785a853548">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices</url>
-        <logo/>
-        <date>2019-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:CriticalDecentralisationCluster</room>
-        <slug>36c3-1581-session_creating_z_wave_controllers_and_devices</slug>
-        <title>Creating Z-Wave controllers and devices</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Hacking around Z-Wave smart home protocol
-Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----</description>
-        <persons>
-          <person id="0">PoltoS</person>
-        </persons>
-        <links>
-          <link>http://z-uno.z-wave.me</link>
         </links>
       </event>
     </room>

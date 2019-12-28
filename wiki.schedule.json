@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-28 01:10",
+    "version": "2019-12-28 01:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -8081,6 +8081,36 @@
                 ]
               }
             ],
+            "Assembly:FOSSASIA": [
+              {
+                "id": 1591,
+                "guid": "38d72e12-75a9-46ea-8240-cec0274bb1ff",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop",
+                "logo": null,
+                "date": "2019-12-28T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "2:00",
+                "room": "Assembly:FOSSASIA",
+                "slug": "36c3-1591-session_pslab_pocket_science_lab_self_guided_exploratory_workshop",
+                "title": "PSLab, Pocket Science Lab Self guided exploratory workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory workshop you have the chance to learn about the applications and test it with the device.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mario",
+                    "public_name": "Mario"
+                  }
+                ],
+                "links": [
+                  "https://pslab.io"
+                ]
+              }
+            ],
             "Assembly:Eco Hacker Farm": [
               {
                 "id": 1569,
@@ -11021,6 +11051,69 @@
                 ]
               }
             ],
+            "Assembly:CriticalDecentralisationCluster": [
+              {
+                "id": 1258,
+                "guid": "9cf095f6-efeb-495e-810b-716efc5ef7b0",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Blockchain_Interoperability:_NIPoPoWs_%26_Sidechains",
+                "logo": null,
+                "date": "2019-12-29T19:40:00+01:00",
+                "start": "19:40",
+                "duration": "1:00",
+                "room": "Assembly:CriticalDecentralisationCluster",
+                "slug": "36c3-1258-session_blockchain_interoperability_nipopows_sidechains",
+                "title": "Blockchain Interoperability: NIPoPoWs & Sidechains",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "Moving value between chains\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Gtklocker",
+                    "public_name": "Gtklocker"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dionyziz",
+                    "public_name": "Dionyziz"
+                  }
+                ],
+                "links": [
+                  "https://nipopows.com/"
+                ]
+              },
+              {
+                "id": 1581,
+                "guid": "7baed6db-c7e7-43f9-a813-9f785a853548",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices",
+                "logo": null,
+                "date": "2019-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "1:30",
+                "room": "Assembly:CriticalDecentralisationCluster",
+                "slug": "36c3-1581-session_creating_z_wave_controllers_and_devices",
+                "title": "Creating Z-Wave controllers and devices",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:PoltoS",
+                    "public_name": "PoltoS"
+                  }
+                ],
+                "links": [
+                  "http://z-uno.z-wave.me"
+                ]
+              }
+            ],
             "Assembly:WikipakaWG": [
               {
                 "id": 1486,
@@ -11104,36 +11197,6 @@
                 ],
                 "links": [
                   "https://cfp.verschwoerhaus.de/36c3/talk/CRH3HY/"
-                ]
-              }
-            ],
-            "Assembly:CriticalDecentralisationCluster": [
-              {
-                "id": 1581,
-                "guid": "7baed6db-c7e7-43f9-a813-9f785a853548",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Creating_Z-Wave_controllers_and_devices",
-                "logo": null,
-                "date": "2019-12-29T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "1:30",
-                "room": "Assembly:CriticalDecentralisationCluster",
-                "slug": "36c3-1581-session_creating_z_wave_controllers_and_devices",
-                "title": "Creating Z-Wave controllers and devices",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Hacking around Z-Wave smart home protocol\nHacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.Please take with you* Your laptop with** Access to the internet** Arduino IDE installed** Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop - make sure to install 2.1.6 from repo http://z-uno.z-wave.me/files/z-uno/test-ucxx/package_z-wave.me_index.json)* Your Raspberry Pi 3/4 with Raspbian Stretch (optional)* Arduino compatible sensors to build your own Z-Wave sensor (optional)* Your Z-Wave stuff if any (optional)-----",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:PoltoS",
-                    "public_name": "PoltoS"
-                  }
-                ],
-                "links": [
-                  "http://z-uno.z-wave.me"
                 ]
               }
             ],

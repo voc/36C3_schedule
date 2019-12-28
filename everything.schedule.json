@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 02:00",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 02:20",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -7456,7 +7456,7 @@
                 "links": []
               }
             ],
-            "Hackers Beauty Palace": [
+            "Assembly:Hackers Beauty Palace": [
               {
                 "id": 1394,
                 "guid": "5e519c4e-3e90-4863-be57-19bc6d78ea01",
@@ -7465,7 +7465,7 @@
                 "date": "2019-12-27T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "1:00",
-                "room": "Hackers Beauty Palace",
+                "room": "Assembly:Hackers Beauty Palace",
                 "slug": "36c3-1394-session_beam_like_the_maya_did_with_cacao_to_inner_and_outer_beauty",
                 "title": "BEAM LIKE THE MAYA DID: With cacao to inner and outer beauty",
                 "subtitle": "",
@@ -7491,12 +7491,12 @@
                 "date": "2019-12-27T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "1:00",
-                "room": "Hackers Beauty Palace",
+                "room": "Assembly:Hackers Beauty Palace",
                 "slug": "36c3-1397-session_cv_dazzle_facial_treatment_against_facial_recognition",
                 "title": "CV DAZZLE: Facial Treatment against Facial Recognition",
                 "subtitle": "",
                 "track": "self organized sessions",
-                "type": "",
+                "type": "hands-on",
                 "language": "en",
                 "abstract": "",
                 "description": "Try out a CV Dazzle to hack your face to recognition tech. Break up the lines of your face and get a make-up of extremes. Never hide! Always dazzle!\n",
@@ -7510,22 +7510,22 @@
                 "links": []
               },
               {
-                "id": 1382,
-                "guid": "08ba63d1-03ce-4159-bdac-9140a5896def",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITAL_RELAXATION:_Acupressure",
+                "id": 1389,
+                "guid": "6bdddf66-a785-4f08-b1df-2f8711554dc5",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT_THAI_STYLE:_Learn_how_to_thai_massage_your_nerdy_cramps_away",
                 "logo": null,
-                "date": "2019-12-27T19:00:00+01:00",
-                "start": "19:00",
-                "duration": "1:00",
-                "room": "Hackers Beauty Palace",
-                "slug": "36c3-1382-session_postdigital_relaxation_acupressure",
-                "title": "POSTDIGITAL RELAXATION: Acupressure",
+                "date": "2019-12-27T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "2:00",
+                "room": "Assembly:Hackers Beauty Palace",
+                "slug": "36c3-1389-session_reboot_thai_style_learn_how_to_thai_massage_your_nerdy_cramps_away",
+                "title": "REBOOT THAI STYLE: Learn how to thai massage your nerdy cramps away",
                 "subtitle": "",
                 "track": "self organized sessions",
-                "type": "hands-on",
+                "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "It's a combination of acupressure and breathing techniques. How much pain do you carry? Can you imagine to make yourself perceptible? Can you imagine potential behind pain?\n",
+                "description": "In our reactor you will learn how to reprogram a body with Thai massage.\n",
                 "persons": [
                   {
                     "id": 0,
@@ -7536,27 +7536,27 @@
                 "links": []
               },
               {
-                "id": 1386,
-                "guid": "82ef18a4-5143-4ec2-91ac-949c5b3abc4b",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITALE_RELAXATION:_Massage",
+                "id": 1565,
+                "guid": "96d5b803-507b-4aa5-b9a1-cd2a5410421f",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Test_2",
                 "logo": null,
-                "date": "2019-12-27T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "2:00",
-                "room": "Hackers Beauty Palace",
-                "slug": "36c3-1386-session_postdigitale_relaxation_massage",
-                "title": "POSTDIGITALE RELAXATION: Massage",
+                "date": "2019-12-27T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "1:00",
+                "room": "Assembly:Hackers Beauty Palace",
+                "slug": "36c3-1565-session_test_2",
+                "title": "Test 2",
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "workshop",
-                "language": "en",
+                "language": "",
                 "abstract": "",
-                "description": "Get a massage by professional therapists. In 20-Minutes-Slots you can reboot your head, shoulders and back.\nContact: Marko Mijokovic (01636934204)",
+                "description": "Test\n",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
-                    "public_name": "Alibi"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Nexus",
+                    "public_name": "Nexus"
                   }
                 ],
                 "links": []
@@ -7579,7 +7579,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "Taste a variety of franconian beers\n",
+                "description": "Taste a variety of franconian beers\nHey guys, I\u2018m out of stock - 6 trays empty ;-)Please enjoy [[Session:Beer tasting|Beer tasting @foodhacking base]] on day 2 starting at 10 p.m.",
                 "persons": [
                   {
                     "id": 0,
@@ -9209,24 +9209,24 @@
                 "links": []
               }
             ],
-            "Assembly:Hackers Beauty Palace": [
+            "Hackers Beauty Palace": [
               {
-                "id": 1389,
-                "guid": "6bdddf66-a785-4f08-b1df-2f8711554dc5",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:REBOOT_THAI_STYLE:_Learn_how_to_thai_massage_your_nerdy_cramps_away",
+                "id": 1382,
+                "guid": "08ba63d1-03ce-4159-bdac-9140a5896def",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITAL_RELAXATION:_Acupressure",
                 "logo": null,
-                "date": "2019-12-27T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "2:00",
-                "room": "Assembly:Hackers Beauty Palace",
-                "slug": "36c3-1389-session_reboot_thai_style_learn_how_to_thai_massage_your_nerdy_cramps_away",
-                "title": "REBOOT THAI STYLE: Learn how to thai massage your nerdy cramps away",
+                "date": "2019-12-27T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Hackers Beauty Palace",
+                "slug": "36c3-1382-session_postdigital_relaxation_acupressure",
+                "title": "POSTDIGITAL RELAXATION: Acupressure",
                 "subtitle": "",
                 "track": "self organized sessions",
-                "type": "workshop",
+                "type": "hands-on",
                 "language": "en",
                 "abstract": "",
-                "description": "In our reactor you will learn how to reprogram a body with Thai massage.\n",
+                "description": "It's a combination of acupressure and breathing techniques. How much pain do you carry? Can you imagine to make yourself perceptible? Can you imagine potential behind pain?\n",
                 "persons": [
                   {
                     "id": 0,
@@ -9237,27 +9237,27 @@
                 "links": []
               },
               {
-                "id": 1565,
-                "guid": "96d5b803-507b-4aa5-b9a1-cd2a5410421f",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Test_2",
+                "id": 1386,
+                "guid": "82ef18a4-5143-4ec2-91ac-949c5b3abc4b",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITALE_RELAXATION:_Massage",
                 "logo": null,
-                "date": "2019-12-27T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "1:00",
-                "room": "Assembly:Hackers Beauty Palace",
-                "slug": "36c3-1565-session_test_2",
-                "title": "Test 2",
+                "date": "2019-12-27T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "2:00",
+                "room": "Hackers Beauty Palace",
+                "slug": "36c3-1386-session_postdigitale_relaxation_massage",
+                "title": "POSTDIGITALE RELAXATION: Massage",
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "workshop",
-                "language": "",
+                "language": "en",
                 "abstract": "",
-                "description": "Test\n",
+                "description": "Get a massage by professional therapists. In 20-Minutes-Slots you can reboot your head, shoulders and back.\nContact: Marko Mijokovic (01636934204)",
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Nexus",
-                    "public_name": "Nexus"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
+                    "public_name": "Alibi"
                   }
                 ],
                 "links": []
@@ -20126,7 +20126,7 @@
                 "links": []
               }
             ],
-            "Hackers Beauty Palace": [
+            "Assembly:Hackers Beauty Palace": [
               {
                 "id": 1395,
                 "guid": "12aa9113-b141-4c31-8c14-3f053e42a81e",
@@ -20135,7 +20135,7 @@
                 "date": "2019-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "1:00",
-                "room": "Hackers Beauty Palace",
+                "room": "Assembly:Hackers Beauty Palace",
                 "slug": "36c3-1395-session_beam_like_the_maya_did_with_cacao_to_inner_and_outer_beauty",
                 "title": "BEAM LIKE THE MAYA DID: With cacao to inner and outer beauty",
                 "subtitle": "",
@@ -20154,60 +20154,6 @@
                 "links": []
               },
               {
-                "id": 1396,
-                "guid": "03797269-7bac-49ea-8c2f-f5234ba7408a",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:CV_DAZZLE:_Facial_Treatment_against_Facial_Recognition",
-                "logo": null,
-                "date": "2019-12-28T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:00",
-                "room": "Hackers Beauty Palace",
-                "slug": "36c3-1396-session_cv_dazzle_facial_treatment_against_facial_recognition",
-                "title": "CV DAZZLE: Facial Treatment against Facial Recognition",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "",
-                "language": "en",
-                "abstract": "",
-                "description": "Try out a CV Dazzle to hack your face to recognition tech. Break up the lines of your face and get a make-up of extremes. Never hide! Always dazzle!\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
-                    "public_name": "Alibi"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1398,
-                "guid": "ebf7d9c9-6bdb-4bbd-a761-6067a249a0ef",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITAL_RELAXATION:_Acupressure",
-                "logo": null,
-                "date": "2019-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "1:00",
-                "room": "Hackers Beauty Palace",
-                "slug": "36c3-1398-session_postdigital_relaxation_acupressure",
-                "title": "POSTDIGITAL RELAXATION: Acupressure",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "en",
-                "abstract": "",
-                "description": "It's a combination of acupressure and breathing techniques. How much pain do you carry? Can you imagine to make yourself perceptible? Can you imagine potential behind pain?\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
-                    "public_name": "Alibi"
-                  }
-                ],
-                "links": []
-              }
-            ],
-            "Assembly:Hackers Beauty Palace": [
-              {
                 "id": 1379,
                 "guid": "ad8ee869-6487-472b-b82e-647ce20a0c70",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:BODILY_CHATROOM:_Contact_Improvisation_Dance_Workshop",
@@ -20224,6 +20170,58 @@
                 "language": "en",
                 "abstract": "",
                 "description": "Get in Reallife Touch! A very special dancing lesson that aims to get you closer: with yourself and with others.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
+                    "public_name": "Alibi"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1396,
+                "guid": "03797269-7bac-49ea-8c2f-f5234ba7408a",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:CV_DAZZLE:_Facial_Treatment_against_Facial_Recognition",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Assembly:Hackers Beauty Palace",
+                "slug": "36c3-1396-session_cv_dazzle_facial_treatment_against_facial_recognition",
+                "title": "CV DAZZLE: Facial Treatment against Facial Recognition",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "Try out a CV Dazzle to hack your face to recognition tech. Break up the lines of your face and get a make-up of extremes. Never hide! Always dazzle!\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
+                    "public_name": "Alibi"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1600,
+                "guid": "61c9398b-9d67-4176-a005-ef2e61492510",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Dream_Journey_%26_Cacao_Ceremony",
+                "logo": null,
+                "date": "2019-12-28T23:59:00+01:00",
+                "start": "23:59",
+                "duration": "1:00",
+                "room": "Assembly:Hackers Beauty Palace",
+                "slug": "36c3-1600-session_dream_journey_cacao_ceremony",
+                "title": "Dream Journey & Cacao Ceremony",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "de",
+                "abstract": "",
+                "description": "Deine Augen fangen an zu flimmern? Deine Batterien sind alle? Klingt als br\u00e4uchtest du eine Portion analoge Realit\u00e4tsfluchtbespassung in der Kuschelmaschine. Geniesse leckeren Rohkakao und drifte mit entspannenden Traumreisen in andere Dimensionen ab.\nDeine Augen fangen an zu flimmern? Deine Batterien sind alle? Klingt als br\u00e4uchtest du eine Portion analoge Realit\u00e4tsfluchtbespassung in der Kuschelmaschine. Geniesse leckeren Rohkakao und drifte mit entspannenden Traumreisen in andere Dimensionen ab.",
                 "persons": [
                   {
                     "id": 0,
@@ -20336,36 +20334,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "Assembly:Backspace": [
-              {
-                "id": 1265,
-                "guid": "fa63f66c-b550-4f38-bf66-994d4e7be4cc",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Beer_Tasting",
-                "logo": null,
-                "date": "2019-12-28T20:30:00+01:00",
-                "start": "20:30",
-                "duration": "2:00",
-                "room": "Assembly:Backspace",
-                "slug": "36c3-1265-session_beer_tasting",
-                "title": "Beer Tasting",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "Taste a variety of franconian beers\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Jur",
-                    "public_name": "Jur"
-                  }
-                ],
-                "links": [
-                  "https://www.bierstrasse-franken.de/"
-                ]
               }
             ],
             "Assembly:Foodhackingbase": [
@@ -21613,6 +21581,34 @@
                 ]
               }
             ],
+            "Hackers Beauty Palace": [
+              {
+                "id": 1398,
+                "guid": "ebf7d9c9-6bdb-4bbd-a761-6067a249a0ef",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:POSTDIGITAL_RELAXATION:_Acupressure",
+                "logo": null,
+                "date": "2019-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "1:00",
+                "room": "Hackers Beauty Palace",
+                "slug": "36c3-1398-session_postdigital_relaxation_acupressure",
+                "title": "POSTDIGITAL RELAXATION: Acupressure",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "It's a combination of acupressure and breathing techniques. How much pain do you carry? Can you imagine to make yourself perceptible? Can you imagine potential behind pain?\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alibi",
+                    "public_name": "Alibi"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Assembly:FOSSASIA": [
               {
                 "id": 1591,
@@ -21726,6 +21722,36 @@
                 ],
                 "links": [
                   "https://wiki.ecohackerfarm.org/powerplant:start"
+                ]
+              }
+            ],
+            "Assembly:Milliways": [
+              {
+                "id": 1275,
+                "guid": "85f6237c-a658-4e57-9ba7-f34fe27841a0",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Proejction_Mapping_with_the_Pi",
+                "logo": null,
+                "date": "2019-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "1:00",
+                "room": "Assembly:Milliways",
+                "slug": "36c3-1275-session_proejction_mapping_with_the_pi",
+                "title": "Proejction Mapping with the Pi",
+                "subtitle": "How to set up and use Pi Mapper for your best projection mapping project",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Welcome to Pi Mapper - a free and open source tool for projection mapping on the Raspberry Pi\nPi Mapper is an open source projection mapping tool intended to be used on the Raspberry Pi minicomputers to reduce cost and licensing complications. It started as an addon for the openFrameworks creative coding toolkit and now is available as a disk image that one can download from https://ofxpimapper.com. During the workshop we will go through the process of installing the disk image and best practices on how to use it for your best projection mapping project. If you are strong and motivated, please bring your own Raspberry Pi (please no Raspberry Pi 4 yet), a monitor or a projector.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kriwkrow",
+                    "public_name": "Kriwkrow"
+                  }
+                ],
+                "links": [
+                  "https://ofxpimapper.com"
                 ]
               }
             ],
@@ -31812,36 +31838,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "Assembly:Backspace": [
-              {
-                "id": 1264,
-                "guid": "81f50e64-6880-45d6-9051-6060c78ebf83",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Beer_Tasting",
-                "logo": null,
-                "date": "2019-12-29T20:30:00+01:00",
-                "start": "20:30",
-                "duration": "2:00",
-                "room": "Assembly:Backspace",
-                "slug": "36c3-1264-session_beer_tasting",
-                "title": "Beer Tasting",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "de",
-                "abstract": "",
-                "description": "Taste a variety of franconian beers\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Jur",
-                    "public_name": "Jur"
-                  }
-                ],
-                "links": [
-                  "https://www.bierstrasse-franken.de/"
-                ]
               }
             ],
             "Assembly:C3blind": [

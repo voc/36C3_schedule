@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-28 13:04",
+    "version": "2019-12-28 13:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -4967,9 +4967,9 @@
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "workshop",
-                "language": "de",
+                "language": "en",
                 "abstract": "",
-                "description": "<strong>Hacking everyday communication practices to change the world</strong><br><br>\n<strong>Workshop Description: </strong><br><br>\"Accessibility sounds great, but where do I start?\" \u2013Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too! <br><br>The aim of this workshop is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fixing it. Hacker culture is meant for curious people to experience and experiment with new things: technologies, cultures, and sometimes their different selves. But openness doesn't automatically lead to accessibility and inclusion \u2013 we have to make it happen ourselves! This session is similar to the one we did at CCCamp earlier in 2019. <br><br>This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in changing the world in small steps \u2013 starting with ourselves and the needs of members in our communities. <br><br>If you can't join this session or would like to give feedback afterwards, you can find infos here: https://www.angela.is/36C3/<br><br><strong>About the SocialTech project: </strong><br><br>The goal of the SocialTech project is to show that small changes in everyday communication and interpersonal interactions improve inclusion dramatically. Our current project is to create a resource pool to help inspire people as they endeavour to make their projects more inclusive. Using concepts from academia, design, activism and community organization we developed a set of questions to start a conversation about accessibility that you can use and adapt to your unique situation.",
+                "description": "<strong>Hacking everyday communication practices to change the world</strong> (en+de)<br><br>\n<strong>Workshop Description: </strong><br><br>\"Accessibility sounds great, but where do I start?\" \u2013Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too! <br><br>The aim of this workshop is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fixing it. Hacker culture is meant for curious people to experience and experiment with new things: technologies, cultures, and sometimes their different selves. But openness doesn't automatically lead to accessibility and inclusion \u2013 we have to make it happen ourselves! This session is similar to the one we did at CCCamp earlier in 2019. <br><br>This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in changing the world in small steps \u2013 starting with ourselves and the needs of members in our communities. <br><br>If you can't join this session or would like to give feedback afterwards, you can find infos here: https://www.angela.is/36C3/<br><br><strong>About the SocialTech project: </strong><br><br>The goal of the SocialTech project is to show that small changes in everyday communication and interpersonal interactions improve inclusion dramatically. Our current project is to create a resource pool to help inspire people as they endeavour to make their projects more inclusive. Using concepts from academia, design, activism and community organization we developed a set of questions to start a conversation about accessibility that you can use and adapt to your unique situation.",
                 "persons": [
                   {
                     "id": 0,
@@ -6846,34 +6846,6 @@
                 "links": []
               }
             ],
-            "Art-and-Play Stage": [
-              {
-                "id": 1179,
-                "guid": "f6e5da98-f6d4-48a1-9f88-c752615de8fc",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Bug_Bounty_Meetup",
-                "logo": null,
-                "date": "2019-12-28T19:00:00+01:00",
-                "start": "19:00",
-                "duration": "2:00",
-                "room": "Art-and-Play Stage",
-                "slug": "36c3-1179-session_bug_bounty_meetup",
-                "title": "Bug Bounty Meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "A meetup with lightning-talks for Bug Bounty hunters.\n'''Warning:''' The Art-and-Play Stage is not available anymore so the location & date/time of the meetup is unsure until another room is found.'''For real time updates about the event, follow me on Twitter: [https://twitter.com/xdavidhu @xdavidhu]''''''Lightning Talks:'''* Sergey Belov - [https://twitter.com/sergeybelove @sergeybelove] - '''''Hints: How to hunt for bounties - Vendor side'''''* Nikhil Mittal - [https://twitter.com/c0d3G33k @c0d3G33k] - '''''Scan me and get pwned'''''* Anatoly - [https://twitter.com/c0rv4x @c0rv4x] - '''''Choosing target. Bending the rules. & other tips''''''''The meetup on Eventbrite: [https://www.eventbrite.com/e/chaos-bug-bounty-meetup-2019-tickets-86922578773 Eventbrite event]''''''No registration / RSVP is required to attend the meetup. If you are interested, feel free to visit.'''",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Xdavidhu",
-                    "public_name": "Xdavidhu"
-                  }
-                ],
-                "links": []
-              }
-            ],
             "Assembly:HSBE": [
               {
                 "id": 1532,
@@ -7504,32 +7476,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Atoll",
                     "public_name": "Atoll"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1190,
-                "guid": "685c4e66-f482-42c4-946c-70dbe296d900",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
-                "logo": null,
-                "date": "2019-12-28T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1190-session_werewolf",
-                "title": "Werewolf",
-                "subtitle": "Werewolf Day 2",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "Werewolf, the (roleplaying)(card)game\nWe will play \"Les Loups-Garous de Thiercelieux\" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
-                    "public_name": "Haurane"
                   }
                 ],
                 "links": []
@@ -8219,6 +8165,32 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1624,
+                "guid": "952e0caa-f357-42cf-8274-b2f76fdd6572",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "2:00",
+                "room": "Lecture room 12",
+                "slug": "36c3-1624-session_werewolf",
+                "title": "Werewolf",
+                "subtitle": "Werewolf Day2",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Werewolf, the (roleplaying)(card)game\nWe will play \"Les Loups-Garous de Thiercelieux\" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
+                    "public_name": "Haurane"
+                  }
+                ],
+                "links": []
               }
             ],
             "Assembly:Open Infrastructure Orbit": [
@@ -8572,6 +8544,36 @@
                 ],
                 "links": [
                   "https://vulca.eu/"
+                ]
+              }
+            ],
+            "Assembly:Matrix": [
+              {
+                "id": 1623,
+                "guid": "ae2c8328-d36f-42ba-bab4-48d007631ac0",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Matrix_Python_Chatbot_Workshop",
+                "logo": null,
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:30",
+                "room": "Assembly:Matrix",
+                "slug": "36c3-1623-session_matrix_python_chatbot_workshop",
+                "title": "Matrix Python Chatbot Workshop",
+                "subtitle": "Intro to the Client-Server API",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Let's use Python to make a chatbot\nMatrix is an open standard for interoperable, decentralised, real-time communication over the Internet. It can be used to power Instant Messaging, VoIP/WebRTC signalling, Internet of Things communication - or anywhere you need a standard HTTP API for publishing and subscribing to data whilst tracking the conversation history.There are Python SDKs available for interfacing with Matrix as a client (that is, doing things a client application or bot would do, such as sending and receiving messages.) In this workshop you will investigate how to interact with the Matrix platform, first using curl HTTP calls, then using Python. You will use the Matrix Python SDK to read messages, and extract their contents.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Benpa",
+                    "public_name": "Benpa"
+                  }
+                ],
+                "links": [
+                  "https://matrix.org"
                 ]
               }
             ],

@@ -16,7 +16,7 @@
   "abstract": "Data is core to the digital economy. Scandals such as Cambridge Analytica, however, serve as a reminder that large-scale collection and use of data raise serious privacy concerns. In this talk, I will discuss past and current research in data anonymization and anonymous use of data. More specifically, I will describe how historical statistical disclosure control methods fail to protect people's privacy in a world of big data and discuss the potential and challenges of modern security-based approaches to data privacy.",
   "description": "Data is a core element of modern society but its collection and use also raise serious privacy concerns. To allow data to be used while preserving privacy, GDPR and other legal frameworks rely on the notion of \u201canonymous data\u201d. \r\n\r\nIn this talk, I will first show how historical anonymization methods fail on modern large-scale datasets including how to quantify the risk of re-identification, how noise addition doesn't fundamentaly help, and finally recent work on how the incompleteness of datasets or sampling methods can be overcomed. This has lead to the development of online anonymization systems which are becoming a growing area of interest in industry and research. Second, I will discuss these the limits of these systems and more specifically new research attacking a dynamic anonymization system called Diffix. I will describe the system, both our noise-exploitation attacks, and their efficiency against real-world datasets. I will finally conclude by discussing the potential of online anonymization systems moving forward.",
   "recording_license": "",
-  "do_not_record": false,
+  "do_not_record": true,
   "persons": [
     {
       "id": 9708,

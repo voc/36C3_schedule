@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.19; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 13:04",
+    "version": "indent; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.19; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 13:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -178,7 +178,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10883.html",
                 "id": 10883,
                 "guid": "479cc703-bacb-49e2-b364-e16f5ba000b9",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/883/large/plundervolt.png?1577471483",
                 "date": "2019-12-27T17:30:00+01:00",
                 "start": "17:30",
                 "duration": "01:00",
@@ -203,8 +203,18 @@
                     "public_name": "Kit Murdock"
                   }
                 ],
-                "links": [],
-                "attachments": []
+                "links": [
+                  {
+                    "url": "https://plundervolt.com/",
+                    "title": "Website"
+                  }
+                ],
+                "attachments": [
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "Presentation Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11141.html",
@@ -308,7 +318,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10737.html",
                 "id": 10737,
                 "guid": "5f38b716-e18c-44a3-b9fd-8f3eb593605c",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/737/large/32c3-sim-front.jpg?1577525266",
                 "date": "2019-12-27T23:30:00+01:00",
                 "start": "23:30",
                 "duration": "01:00",
@@ -330,7 +340,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/063/original/36c3-sim_card_technology_from_A_to_Z.pdf?1577525210",
+                    "title": "Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11177.html",
@@ -613,7 +628,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10942.html",
                 "id": 10942,
                 "guid": "cfcdac00-62af-412f-a03b-ca5f11d2b64d",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/942/large/Bildschirmfoto_2019-12-27_um_15.49.38.png?1577458285",
                 "date": "2019-12-27T22:10:00+01:00",
                 "start": "22:10",
                 "duration": "01:00",
@@ -1121,7 +1136,12 @@
                     "title": "33c3 - Nintendo Hacking 2016 - Game Over by naehrwert, derrek and nedwill"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/045/original/slides.pdf?1577394638",
+                    "title": "Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10717.html",
@@ -1214,7 +1234,12 @@
                     "title": "Oceananigans.jl git repository"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/055/original/CCC.pdf?1577458803",
+                    "title": "Mathematical diseases in climate models and how to cure them"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10991.html",
@@ -1280,7 +1305,12 @@
                     "title": "Podcast - Medical Standard Time"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/061/original/Warum_die_Card10_kein_Medizinprodukt_ist.pdf?1577524673",
+                    "title": "Pr\u00e4sentation"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10701.html",
@@ -9391,7 +9421,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/059/original/36C3-P25G.pdf?1577521563",
+                    "title": "36C3-P25G.pdf"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10801.html",
@@ -9587,7 +9622,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10806.html",
                 "id": 10806,
                 "guid": "9cbacaba-92e8-452b-8878-be42881f3cd1",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/806/large/lldb.png?1577517371",
                 "date": "2019-12-28T20:50:00+01:00",
                 "start": "20:50",
                 "duration": "01:00",
@@ -10856,7 +10891,7 @@
                 "abstract": "Data is core to the digital economy. Scandals such as Cambridge Analytica, however, serve as a reminder that large-scale collection and use of data raise serious privacy concerns. In this talk, I will discuss past and current research in data anonymization and anonymous use of data. More specifically, I will describe how historical statistical disclosure control methods fail to protect people's privacy in a world of big data and discuss the potential and challenges of modern security-based approaches to data privacy.",
                 "description": "Data is a core element of modern society but its collection and use also raise serious privacy concerns. To allow data to be used while preserving privacy, GDPR and other legal frameworks rely on the notion of \u201canonymous data\u201d. \r\n\r\nIn this talk, I will first show how historical anonymization methods fail on modern large-scale datasets including how to quantify the risk of re-identification, how noise addition doesn't fundamentaly help, and finally recent work on how the incompleteness of datasets or sampling methods can be overcomed. This has lead to the development of online anonymization systems which are becoming a growing area of interest in industry and research. Second, I will discuss these the limits of these systems and more specifically new research attacking a dynamic anonymization system called Diffix. I will describe the system, both our noise-exploitation attacks, and their efficiency against real-world datasets. I will finally conclude by discussing the potential of online anonymization systems moving forward.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 9708,
@@ -10870,7 +10905,7 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11227.html",
                 "id": 11227,
                 "guid": "19e3abdd-59d0-4fbf-8b08-6054ccb6791b",
-                "logo": null,
+                "logo": "/system/events/logos/000/011/227/large/digital-vs.-printversion_main-logo_1500x1500.png?1577464327",
                 "date": "2019-12-28T16:10:00+01:00",
                 "start": "16:10",
                 "duration": "00:40",
@@ -10948,8 +10983,8 @@
                 "start": "18:10",
                 "duration": "00:40",
                 "room": "Clarke",
-                "slug": "36c3-11237-today_s_digital_industry_is_unsustainable_so_where_to_go",
-                "title": "Today's digital industry is unsustainable so where to go?",
+                "slug": "36c3-11237-framing_digital_industry_into_planetary_limits_and_transition_policies",
+                "title": "Framing digital industry into planetary limits and transition policies",
                 "subtitle": "The environmental costs of digital industry and pathways to sustainability",
                 "track": "Resilience & Sustainability",
                 "type": "lecture",
@@ -11358,6 +11393,10 @@
                   {
                     "url": "/system/event_attachments/attachments/000/003/919/original/36c3_senseBox.pdf?1572014737",
                     "title": "36c3_senseBox.pdf"
+                  },
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/057/original/ccc_senseBox.pdf?1577476249",
+                    "title": "lides"
                   }
                 ]
               },
@@ -11596,7 +11635,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/062/original/Karonte_CCC.pptx?1577524960",
+                    "title": "Presentation slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11186.html",
@@ -11702,6 +11746,34 @@
                     "title": "jasmineguffond.com"
                   }
                 ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11310.html",
+                "id": 11310,
+                "guid": "8dce9793-e9a7-47cd-b3f9-31ce288b5a10",
+                "logo": null,
+                "date": "2019-12-28T20:50:00+01:00",
+                "start": "20:50",
+                "duration": "01:00",
+                "room": "Eliza",
+                "slug": "36c3-11310-algorithm_diversion",
+                "title": "Algorithm | Diversion",
+                "subtitle": "",
+                "track": "Art & Culture",
+                "type": "lecture",
+                "language": "",
+                "abstract": "Before media art has emerged, traditional art and dance are already applying algorithms to make sophisticated patterns in their textures or movements. Hieda is researching the use of algorithm through creation of media installations and dialog with artists, dancers, choreographers and musicians. He also presents his current interest in machine learning and art which potentially exclude (or already excluding) some populations due to the dataset and modality.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 9908,
+                    "public_name": "Naoto Hieda"
+                  }
+                ],
+                "links": [],
                 "attachments": []
               },
               {
@@ -13614,6 +13686,32 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1624,
+                "guid": "952e0caa-f357-42cf-8274-b2f76fdd6572",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
+                "logo": null,
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "2:00",
+                "room": "Lecture room 12",
+                "slug": "36c3-1624-session_werewolf",
+                "title": "Werewolf",
+                "subtitle": "Werewolf Day2",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Werewolf, the (roleplaying)(card)game\nWe will play \"Les Loups-Garous de Thiercelieux\" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
+                    "public_name": "Haurane"
+                  }
+                ],
+                "links": []
               }
             ],
             "Seminar room 14-15": [
@@ -14223,9 +14321,9 @@
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "workshop",
-                "language": "de",
+                "language": "en",
                 "abstract": "",
-                "description": "<strong>Hacking everyday communication practices to change the world</strong><br><br>\n<strong>Workshop Description: </strong><br><br>\"Accessibility sounds great, but where do I start?\" \u2013Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too! <br><br>The aim of this workshop is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fixing it. Hacker culture is meant for curious people to experience and experiment with new things: technologies, cultures, and sometimes their different selves. But openness doesn't automatically lead to accessibility and inclusion \u2013 we have to make it happen ourselves! This session is similar to the one we did at CCCamp earlier in 2019. <br><br>This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in changing the world in small steps \u2013 starting with ourselves and the needs of members in our communities. <br><br>If you can't join this session or would like to give feedback afterwards, you can find infos here: https://www.angela.is/36C3/<br><br><strong>About the SocialTech project: </strong><br><br>The goal of the SocialTech project is to show that small changes in everyday communication and interpersonal interactions improve inclusion dramatically. Our current project is to create a resource pool to help inspire people as they endeavour to make their projects more inclusive. Using concepts from academia, design, activism and community organization we developed a set of questions to start a conversation about accessibility that you can use and adapt to your unique situation.",
+                "description": "<strong>Hacking everyday communication practices to change the world</strong> (en+de)<br><br>\n<strong>Workshop Description: </strong><br><br>\"Accessibility sounds great, but where do I start?\" \u2013Join us to discuss common issues around creating accessible spaces. We want to share our experiences creating inclusive environments, and we'd love to hear yours too! <br><br>The aim of this workshop is to both raise awareness for issues that are often overlooked and to facilitate exchange between those interested in fixing it. Hacker culture is meant for curious people to experience and experiment with new things: technologies, cultures, and sometimes their different selves. But openness doesn't automatically lead to accessibility and inclusion \u2013 we have to make it happen ourselves! This session is similar to the one we did at CCCamp earlier in 2019. <br><br>This session is intended to be a forum for people who are interested in accessibility and inclusion, folks who have specific access needs they would like organizers to consider more routinely, and of course organizers that are interested in changing the world in small steps \u2013 starting with ourselves and the needs of members in our communities. <br><br>If you can't join this session or would like to give feedback afterwards, you can find infos here: https://www.angela.is/36C3/<br><br><strong>About the SocialTech project: </strong><br><br>The goal of the SocialTech project is to show that small changes in everyday communication and interpersonal interactions improve inclusion dramatically. Our current project is to create a resource pool to help inspire people as they endeavour to make their projects more inclusive. Using concepts from academia, design, activism and community organization we developed a set of questions to start a conversation about accessibility that you can use and adapt to your unique situation.",
                 "persons": [
                   {
                     "id": 0,
@@ -18193,32 +18291,6 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
-              },
-              {
-                "id": 1179,
-                "guid": "f6e5da98-f6d4-48a1-9f88-c752615de8fc",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Bug_Bounty_Meetup",
-                "logo": null,
-                "date": "2019-12-28T19:00:00+01:00",
-                "start": "19:00",
-                "duration": "2:00",
-                "room": "Art-and-Play Stage",
-                "slug": "36c3-1179-session_bug_bounty_meetup",
-                "title": "Bug Bounty Meetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "A meetup with lightning-talks for Bug Bounty hunters.\n'''Warning:''' The Art-and-Play Stage is not available anymore so the location & date/time of the meetup is unsure until another room is found.'''For real time updates about the event, follow me on Twitter: [https://twitter.com/xdavidhu @xdavidhu]''''''Lightning Talks:'''* Sergey Belov - [https://twitter.com/sergeybelove @sergeybelove] - '''''Hints: How to hunt for bounties - Vendor side'''''* Nikhil Mittal - [https://twitter.com/c0d3G33k @c0d3G33k] - '''''Scan me and get pwned'''''* Anatoly - [https://twitter.com/c0rv4x @c0rv4x] - '''''Choosing target. Bending the rules. & other tips''''''''The meetup on Eventbrite: [https://www.eventbrite.com/e/chaos-bug-bounty-meetup-2019-tickets-86922578773 Eventbrite event]''''''No registration / RSVP is required to attend the meetup. If you are interested, feel free to visit.'''",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Xdavidhu",
-                    "public_name": "Xdavidhu"
-                  }
-                ],
-                "links": []
               }
             ],
             "Art-and-Play Installation": [
@@ -21394,32 +21466,6 @@
                   }
                 ],
                 "links": []
-              },
-              {
-                "id": 1190,
-                "guid": "685c4e66-f482-42c4-946c-70dbe296d900",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werewolf",
-                "logo": null,
-                "date": "2019-12-28T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1190-session_werewolf",
-                "title": "Werewolf",
-                "subtitle": "Werewolf Day 2",
-                "track": "self organized sessions",
-                "type": "game",
-                "language": "de",
-                "abstract": "",
-                "description": "Werewolf, the (roleplaying)(card)game\nWe will play \"Les Loups-Garous de Thiercelieux\" (aka Werewolf).Newbies welcome, I'll explain the rules at the start of each session.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Haurane",
-                    "public_name": "Haurane"
-                  }
-                ],
-                "links": []
               }
             ],
             "Assembly:CriticalDecentralisationCluster": [
@@ -22105,6 +22151,36 @@
                 ],
                 "links": [
                   "https://vulca.eu/"
+                ]
+              }
+            ],
+            "Assembly:Matrix": [
+              {
+                "id": 1623,
+                "guid": "ae2c8328-d36f-42ba-bab4-48d007631ac0",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Matrix_Python_Chatbot_Workshop",
+                "logo": null,
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:30",
+                "room": "Assembly:Matrix",
+                "slug": "36c3-1623-session_matrix_python_chatbot_workshop",
+                "title": "Matrix Python Chatbot Workshop",
+                "subtitle": "Intro to the Client-Server API",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Let's use Python to make a chatbot\nMatrix is an open standard for interoperable, decentralised, real-time communication over the Internet. It can be used to power Instant Messaging, VoIP/WebRTC signalling, Internet of Things communication - or anywhere you need a standard HTTP API for publishing and subscribing to data whilst tracking the conversation history.There are Python SDKs available for interfacing with Matrix as a client (that is, doing things a client application or bot would do, such as sending and receiving messages.) In this workshop you will investigate how to interact with the Matrix platform, first using curl HTTP calls, then using Python. You will use the Matrix Python SDK to read messages, and extract their contents.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Benpa",
+                    "public_name": "Benpa"
+                  }
+                ],
+                "links": [
+                  "https://matrix.org"
                 ]
               }
             ],
@@ -23087,8 +23163,12 @@
                 ],
                 "links": [
                   {
-                    "url": "https://media.ccc.de/v/bub2018-249-sporangium#t=107",
-                    "title": "Sporangium v1.0 bei der Bits&B\u00e4ume 2018"
+                    "url": "Sporangium v1.0 bei der Bits&B\u00e4ume 2018",
+                    "title": "Bits&B\u00e4ume \u2013 Doku der Konferenz 2018, Stammtische, Howto eine Bits&B\u00e4ume pflanzen, ..."
+                  },
+                  {
+                    "url": "https://media.ccc.de/search/?q=bits%26b%C3%A4ume+2018",
+                    "title": "Talks der Bits&B\u00e4ume 2018 auf media.ccc.de"
                   }
                 ],
                 "attachments": []
@@ -24921,12 +25001,12 @@
                 "room": "Eliza",
                 "slug": "36c3-11178-art_against_facebook",
                 "title": "Art against Facebook",
-                "subtitle": "Art against Facebook Graffiti in the ruins of the feed and the party-info-capital is emigrating",
+                "subtitle": "Graffiti in the ruins of the feed and the party-info-capital is emigrating",
                 "track": "Art & Culture",
                 "type": "lecture",
                 "language": "en",
-                "abstract": "Currently Facebook has a tight grip on the cultural scene with its events-calendar and with Instagram as a spectacular image feed. But there is graffiti in the ruins of the feed and the party-info-capital is emigrating. The talk calls upon the critical net scene to contribute arguments and skills - theory and practice - in order to build bridges and include many.",
-                "description": "Currently Facebook has a tight grip on the cultural scene with its events-calendar and with Instagram as a spectacular image feed. Even the leftist-critical scene of alternative culture and protests is busy contributing for the sake of outreach. Their contributions feed the filter systems, and profiling and affect loops run hot.\r\nBut an opposition is rising. Graffiti and net-art are merging with hacking. Activists in Berlin, Paris, Rio and Sao Paulo are using facebook graffiti, through circulating UTF-8 textbombs that cross the layout of the feed (Check the wiki for workshop materials from 34C3).\r\nThe Berlin network Reclaim Club Culture meanwhile is calling for a Facebook Exodus (CCCamp2019). They want to motivate the club and cultural scene to support free alternatives, by moving their biggest information capital, which are the event announcements. Once the information monopoly is cut through, maybe more people will make the step to leave the platform they don't even like anymore.\r\nAll of this is part of a bigger network of refusal, from Fuck Off Google (31C3) to Facebook Resistance Artists. The talk calls upon the critical net scene to contribute arguments and skills - theory and practice - in order to build bridges and include many.",
+                "abstract": "There is graffiti in the ruins of the feed and the event-info-capital is emigrating.",
+                "description": "Currently Facebook has a tight grip on the cultural scene with its events-calendar and with Instagram as a spectacular image feed. <br>\r\nBut an opposition is rising. Graffiti and net-art are merging with hacking. Activists are using facebook graffiti, through circulating UTF-8 textbombs that cross the layout of the feed.<br>\r\nThe Berlin network Reclaim Club Culture meanwhile is calling for a Facebook Exodus. They want to motivate the club and cultural scene to support free alternatives, by moving their biggest information capital, which are the event announcements. ",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -34641,7 +34721,7 @@
                 ],
                 "links": [
                   {
-                    "url": "https://wohnung.neopostmodern.com",
+                    "url": "https://wohnungsbot.de",
                     "title": "Wohnungsbot-Website"
                   }
                 ],
@@ -34651,13 +34731,13 @@
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10548.html",
                 "id": 10548,
                 "guid": "4385a0b5-c8e5-406c-8b19-70b0dab9ca4d",
-                "logo": null,
+                "logo": "/system/events/logos/000/010/548/large/bassclose.jpg?1577462178",
                 "date": "2019-12-30T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "00:40",
                 "room": "Clarke",
-                "slug": "36c3-10548-ms",
-                "title": "Ms",
+                "slug": "36c3-10548-hackers_makers_changing_music_technology",
+                "title": "Hackers & makers changing music technology",
                 "subtitle": "",
                 "track": "Art & Culture",
                 "type": "lecture",

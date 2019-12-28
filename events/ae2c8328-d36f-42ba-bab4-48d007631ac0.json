@@ -1,0 +1,28 @@
+{
+  "id": 1623,
+  "guid": "ae2c8328-d36f-42ba-bab4-48d007631ac0",
+  "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Matrix_Python_Chatbot_Workshop",
+  "logo": null,
+  "date": "2019-12-28T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "1:30",
+  "room": "Assembly:Matrix",
+  "slug": "36c3-1623-session_matrix_python_chatbot_workshop",
+  "title": "Matrix Python Chatbot Workshop",
+  "subtitle": "Intro to the Client-Server API",
+  "track": "self organized sessions",
+  "type": "workshop",
+  "language": "en",
+  "abstract": "",
+  "description": "Let's use Python to make a chatbot\nMatrix is an open standard for interoperable, decentralised, real-time communication over the Internet. It can be used to power Instant Messaging, VoIP/WebRTC signalling, Internet of Things communication - or anywhere you need a standard HTTP API for publishing and subscribing to data whilst tracking the conversation history.There are Python SDKs available for interfacing with Matrix as a client (that is, doing things a client application or bot would do, such as sending and receiving messages.) In this workshop you will investigate how to interact with the Matrix platform, first using curl HTTP calls, then using Python. You will use the Matrix Python SDK to read messages, and extract their contents.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Benpa",
+      "public_name": "Benpa"
+    }
+  ],
+  "links": [
+    "https://matrix.org"
+  ]
+}

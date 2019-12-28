@@ -1,5 +1,5 @@
 <schedule>
-  <version>indent; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 14:00</version>
+  <version>jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 14:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -8513,8 +8513,12 @@ For everyone who is also concerned during our talk, there will be fancy tin foil
         <persons>
           <person id="4927">jiska</person>
         </persons>
-        <links/>
-        <attachments/>
+        <links>
+          <link href="http://bluetooth.lol">InternalBlue</link>
+        </links>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/067/original/jiska_wireless.pdf?1577534878">Slides</attachment>
+        </attachments>
       </event>
       <event id="10642" guid="7d85c7cf-6c84-490f-b78d-ef3ecfab2b4c">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10642.html</url>
@@ -10201,7 +10205,7 @@ Der Talk soll die Geschichte der senseBox von Beginn bis jetzt wiedergeben. Dabe
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/919/original/36c3_senseBox.pdf?1572014737">36c3_senseBox.pdf</attachment>
-          <attachment href="/system/event_attachments/attachments/000/004/057/original/ccc_senseBox.pdf?1577476249">lides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/004/057/original/ccc_senseBox.pdf?1577476249">slides</attachment>
         </attachments>
       </event>
       <event id="11089" guid="422a606e-59d3-4d80-ac98-671a0fec67d7">
@@ -10277,7 +10281,7 @@ Die Mittelmeer-Monologe liefern persönliche und intime Einblicke in die weitesg
 Übertitel in Englisch, Französich und Arabisch.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="9468">Michael Ruf</person>
@@ -10519,7 +10523,7 @@ Finally, we will demo our tool, showing how it led to the detection of a previou
         </persons>
         <links/>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/004/062/original/Karonte_CCC.pptx?1577524960">Presentation slides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/004/066/original/Karonte_CCC.pptx?1577533347">presentation slides</attachment>
         </attachments>
       </event>
       <event id="11186" guid="333a8580-79d9-4a01-800b-f958612636e6">
@@ -10659,9 +10663,9 @@ While the people in charge do not manage to organize a proper search- and rescue
         <start>19:10</start>
         <duration>00:40</duration>
         <room>Eliza</room>
-        <slug>36c3-10855-listening_back_-_the_sound_of_surveillance</slug>
-        <title>Listening Back - The Sound of Surveillance</title>
-        <subtitle/>
+        <slug>36c3-10855-listening_back_browser_add-on_tranlates_cookies_into_sound</slug>
+        <title>Listening Back Browser Add-On Tranlates Cookies Into Sound </title>
+        <subtitle>The Sound of Surveillance</subtitle>
         <track>Art &amp; Culture</track>
         <type>lecture</type>
         <language>en</language>
@@ -16667,7 +16671,10 @@ In order to prevent denial of service and sybil attacks, Nym uses anonymous auth
           <link href="https://nymtech.net/">Nym's website</link>
           <link href="https://nymtech.net/nym-litepaper.pdf">Nym litepaper</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/000/070/original/CDC-Nym.odp?1577538544">Slides</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="4302" guid="a10b52bd-55f4-4673-83f8-a3b92dd7cf9e">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/102.html</url>
@@ -28547,7 +28554,7 @@ Ab 17Uhr kannst du bei uns in der Assembly Kleidungsstücke oder andere Textilie
         <language>en</language>
         <abstract/>
         <description>Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury, basically the queen of fun facts about the Solar System.
-Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury.</description>
+</description>
         <persons>
           <person id="0">Samuel Antz</person>
         </persons>
@@ -32722,7 +32729,9 @@ With: Dana Sinaida Ersing</description>
         <links>
           <link href="https://github.com/alephium/research/raw/master/polw.pdf">Paper</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/000/069/original/polw-slide.pdf?1577538518">slides</attachment>
+        </attachments>
       </event>
       <event id="4340" guid="d1b340c9-aaa3-4df9-8f5c-019395d92b9b">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/140.html</url>
@@ -33126,6 +33135,27 @@ TRICKMISCH.de und TRIXMIX.tv sind wieder auf dem Congress, um mit Euch Trickfilm
       </event>
     </room>
     <room name="C-base">
+      <event id="1634" guid="6ac522b1-8ccc-41d4-9956-a358174f818f">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:General_Relativity_-_why_it%27s_necessary</url>
+        <logo/>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>0:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1634-session_general_relativity_why_it_s_necessary</slug>
+        <title>General Relativity - why it's necessary</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>What rather simple failures and contradiction in the physics of the early 20th century made Einstein create General Relativity? What problems did he face and why? How to unify two theories - like electromagnetism - is crucial in modern physics. It's a problem we are facing again.
+</description>
+        <persons>
+          <person id="0">Samuel Antz</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1544" guid="6b7691ff-c301-4447-b05d-78609dc4a1bf">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerfleet%27s_Isomer/HFOS</url>
         <logo/>

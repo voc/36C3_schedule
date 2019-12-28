@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-28 14:00</version>
+  <version>2019-12-28 14:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -8051,7 +8051,7 @@ Ab 17Uhr kannst du bei uns in der Assembly Kleidungsstücke oder andere Textilie
         <language>en</language>
         <abstract/>
         <description>Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury, basically the queen of fun facts about the Solar System.
-Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury.</description>
+</description>
         <persons>
           <person id="0">Samuel Antz</person>
         </persons>
@@ -11269,6 +11269,77 @@ Regelmässiges Gettogether des CCC Schweiz. Alle willkommen.</description>
         </links>
       </event>
     </room>
+    <room name="C-base">
+      <event id="1634" guid="6ac522b1-8ccc-41d4-9956-a358174f818f">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:General_Relativity_-_why_it%27s_necessary</url>
+        <logo/>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>0:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1634-session_general_relativity_why_it_s_necessary</slug>
+        <title>General Relativity - why it's necessary</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>What rather simple failures and contradiction in the physics of the early 20th century made Einstein create General Relativity? What problems did he face and why? How to unify two theories - like electromagnetism - is crucial in modern physics. It's a problem we are facing again.
+</description>
+        <persons>
+          <person id="0">Samuel Antz</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1544" guid="6b7691ff-c301-4447-b05d-78609dc4a1bf">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerfleet%27s_Isomer/HFOS</url>
+        <logo/>
+        <date>2019-12-30T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>0:45</duration>
+        <room>C-base</room>
+        <slug>36c3-1544-session_hackerfleet_s_isomer_hfos</slug>
+        <title>Hackerfleet's Isomer/HFOS</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>A short introduction into Isomer and the Hackerfleet Operating System
+A quick overview over Isomer - Hackerfleet's application framework for decentralized collaboration and science - and its first implemented project, the Hackerfleet Operating System for opensource-loving and sailing nerds.Since we prepared working Docker images, there might be a quick hands-on tutorial/workshop thingy after the lecture.Hope to see you @c-base!</description>
+        <persons>
+          <person id="0">Riot</person>
+        </persons>
+        <links>
+          <link>https://isomer.eu</link>
+          <link>https://hackerfleet.eu</link>
+        </links>
+      </event>
+      <event id="1590" guid="c921d14f-5ccd-4a66-8723-e99703951fbd">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Open_and_trustworthy_point_of_sale!</url>
+        <logo/>
+        <date>2019-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:30</duration>
+        <room>C-base</room>
+        <slug>36c3-1590-session_open_and_trustworthy_point_of_sale_</slug>
+        <title>Open and trustworthy point of sale!</title>
+        <subtitle>Lasst uns Anforderungen diskutieren!</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Open and trustworthy point of sale solution.
+Im Rahmen der Session wollen wir euch unsere Idee vorstellen und diese mit euch diskutieren. Wie gehen wir mit den neuen Anforderungen an Kassensystemen um? Was fehlt sowieso schon an vorhandenen Lösungen?Wie würde die perfekte Lösung aussehen?</description>
+        <persons>
+          <person id="0">DerMicha</person>
+          <person id="0">Bengoshi</person>
+        </persons>
+        <links>
+          <link>https://rejisuta.org</link>
+        </links>
+      </event>
+    </room>
     <room name="Seminar room 14-15">
       <event id="1279" guid="32991e00-405b-4cc4-ba36-5d0045e1527b">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Getting_to_know_Julia</url>
@@ -11357,56 +11428,6 @@ This meeting is used for the distribution of shifts for the Translation team.</d
           <person id="0">Katti</person>
         </persons>
         <links/>
-      </event>
-    </room>
-    <room name="C-base">
-      <event id="1544" guid="6b7691ff-c301-4447-b05d-78609dc4a1bf">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerfleet%27s_Isomer/HFOS</url>
-        <logo/>
-        <date>2019-12-30T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>0:45</duration>
-        <room>C-base</room>
-        <slug>36c3-1544-session_hackerfleet_s_isomer_hfos</slug>
-        <title>Hackerfleet's Isomer/HFOS</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>A short introduction into Isomer and the Hackerfleet Operating System
-A quick overview over Isomer - Hackerfleet's application framework for decentralized collaboration and science - and its first implemented project, the Hackerfleet Operating System for opensource-loving and sailing nerds.Since we prepared working Docker images, there might be a quick hands-on tutorial/workshop thingy after the lecture.Hope to see you @c-base!</description>
-        <persons>
-          <person id="0">Riot</person>
-        </persons>
-        <links>
-          <link>https://isomer.eu</link>
-          <link>https://hackerfleet.eu</link>
-        </links>
-      </event>
-      <event id="1590" guid="c921d14f-5ccd-4a66-8723-e99703951fbd">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Open_and_trustworthy_point_of_sale!</url>
-        <logo/>
-        <date>2019-12-30T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:30</duration>
-        <room>C-base</room>
-        <slug>36c3-1590-session_open_and_trustworthy_point_of_sale_</slug>
-        <title>Open and trustworthy point of sale!</title>
-        <subtitle>Lasst uns Anforderungen diskutieren!</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Open and trustworthy point of sale solution.
-Im Rahmen der Session wollen wir euch unsere Idee vorstellen und diese mit euch diskutieren. Wie gehen wir mit den neuen Anforderungen an Kassensystemen um? Was fehlt sowieso schon an vorhandenen Lösungen?Wie würde die perfekte Lösung aussehen?</description>
-        <persons>
-          <person id="0">DerMicha</person>
-          <person id="0">Bengoshi</person>
-        </persons>
-        <links>
-          <link>https://rejisuta.org</link>
-        </links>
       </event>
     </room>
     <room name="Assembly:Haecksen">

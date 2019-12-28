@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-28 14:00",
+    "version": "2019-12-28 14:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -9978,7 +9978,7 @@
                 "type": "talk",
                 "language": "en",
                 "abstract": "",
-                "description": "Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury, basically the queen of fun facts about the Solar System.\nEvery planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury.",
+                "description": "Every planet and moon has crazy mysteries to unveil. We will make a journey through the Solar System discussing about unique landscapes like on Iapetus and mechanisms like the formation of Saturn's rings as well as the possibility of alien life inside the icy moons. In the funnier moments we will see the moon that looks like the Death Star, get to know one that is even more laughable than Uranus and think about a totally awesome fun fact about mercury, basically the queen of fun facts about the Solar System.\n",
                 "persons": [
                   {
                     "id": 0,
@@ -13953,6 +13953,96 @@
                 ]
               }
             ],
+            "C-base": [
+              {
+                "id": 1634,
+                "guid": "6ac522b1-8ccc-41d4-9956-a358174f818f",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:General_Relativity_-_why_it%27s_necessary",
+                "logo": null,
+                "date": "2019-12-30T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "0:30",
+                "room": "C-base",
+                "slug": "36c3-1634-session_general_relativity_why_it_s_necessary",
+                "title": "General Relativity - why it's necessary",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "en",
+                "abstract": "",
+                "description": "What rather simple failures and contradiction in the physics of the early 20th century made Einstein create General Relativity? What problems did he face and why? How to unify two theories - like electromagnetism - is crucial in modern physics. It's a problem we are facing again.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Samuel_Antz",
+                    "public_name": "Samuel Antz"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1544,
+                "guid": "6b7691ff-c301-4447-b05d-78609dc4a1bf",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerfleet%27s_Isomer/HFOS",
+                "logo": null,
+                "date": "2019-12-30T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "0:45",
+                "room": "C-base",
+                "slug": "36c3-1544-session_hackerfleet_s_isomer_hfos",
+                "title": "Hackerfleet's Isomer/HFOS",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "A short introduction into Isomer and the Hackerfleet Operating System\nA quick overview over Isomer - Hackerfleet's application framework for decentralized collaboration and science - and its first implemented project, the Hackerfleet Operating System for opensource-loving and sailing nerds.Since we prepared working Docker images, there might be a quick hands-on tutorial/workshop thingy after the lecture.Hope to see you @c-base!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Riot",
+                    "public_name": "Riot"
+                  }
+                ],
+                "links": [
+                  "https://isomer.eu",
+                  "https://hackerfleet.eu"
+                ]
+              },
+              {
+                "id": 1590,
+                "guid": "c921d14f-5ccd-4a66-8723-e99703951fbd",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Open_and_trustworthy_point_of_sale!",
+                "logo": null,
+                "date": "2019-12-30T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "1:30",
+                "room": "C-base",
+                "slug": "36c3-1590-session_open_and_trustworthy_point_of_sale_",
+                "title": "Open and trustworthy point of sale!",
+                "subtitle": "Lasst uns Anforderungen diskutieren!",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Open and trustworthy point of sale solution.\nIm Rahmen der Session wollen wir euch unsere Idee vorstellen und diese mit euch diskutieren. Wie gehen wir mit den neuen Anforderungen an Kassensystemen um? Was fehlt sowieso schon an vorhandenen L\u00f6sungen?Wie w\u00fcrde die perfekte L\u00f6sung aussehen?",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
+                    "public_name": "DerMicha"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bengoshi",
+                    "public_name": "Bengoshi"
+                  }
+                ],
+                "links": [
+                  "https://rejisuta.org"
+                ]
+              }
+            ],
             "Seminar room 14-15": [
               {
                 "id": 1279,
@@ -14061,70 +14151,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "C-base": [
-              {
-                "id": 1544,
-                "guid": "6b7691ff-c301-4447-b05d-78609dc4a1bf",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackerfleet%27s_Isomer/HFOS",
-                "logo": null,
-                "date": "2019-12-30T13:30:00+01:00",
-                "start": "13:30",
-                "duration": "0:45",
-                "room": "C-base",
-                "slug": "36c3-1544-session_hackerfleet_s_isomer_hfos",
-                "title": "Hackerfleet's Isomer/HFOS",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "A short introduction into Isomer and the Hackerfleet Operating System\nA quick overview over Isomer - Hackerfleet's application framework for decentralized collaboration and science - and its first implemented project, the Hackerfleet Operating System for opensource-loving and sailing nerds.Since we prepared working Docker images, there might be a quick hands-on tutorial/workshop thingy after the lecture.Hope to see you @c-base!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Riot",
-                    "public_name": "Riot"
-                  }
-                ],
-                "links": [
-                  "https://isomer.eu",
-                  "https://hackerfleet.eu"
-                ]
-              },
-              {
-                "id": 1590,
-                "guid": "c921d14f-5ccd-4a66-8723-e99703951fbd",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Open_and_trustworthy_point_of_sale!",
-                "logo": null,
-                "date": "2019-12-30T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "1:30",
-                "room": "C-base",
-                "slug": "36c3-1590-session_open_and_trustworthy_point_of_sale_",
-                "title": "Open and trustworthy point of sale!",
-                "subtitle": "Lasst uns Anforderungen diskutieren!",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Open and trustworthy point of sale solution.\nIm Rahmen der Session wollen wir euch unsere Idee vorstellen und diese mit euch diskutieren. Wie gehen wir mit den neuen Anforderungen an Kassensystemen um? Was fehlt sowieso schon an vorhandenen L\u00f6sungen?Wie w\u00fcrde die perfekte L\u00f6sung aussehen?",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:DerMicha",
-                    "public_name": "DerMicha"
-                  },
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bengoshi",
-                    "public_name": "Bengoshi"
-                  }
-                ],
-                "links": [
-                  "https://rejisuta.org"
-                ]
               }
             ],
             "Assembly:Haecksen": [

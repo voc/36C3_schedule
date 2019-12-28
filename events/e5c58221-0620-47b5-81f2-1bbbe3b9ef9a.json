@@ -14,7 +14,7 @@
   "type": "",
   "language": "",
   "abstract": "",
-  "description": "Introduction to FORTH \u2013 a very unusual, weird programming language.\n",
+  "description": "Introduction to FORTH \u2013 a very unusual, weird programming language.\nWeird properties of FORTH:* It is unclear whether FORTH is an interpreted or a compiled language* Arbitrary FORTH code can be run at compile-time to influence what is compiled* You can completely change the meaning, syntax, ...anything of the language without patching the interpreter/compiler* You can add new control structures or programming paradigms that fit in well with the built-in ones (In fact, the built-in ones (like if, else, loop) are implemented using FORTH code as well)* FORTH is very low level and very high level at the same time* FORTH is very simple.  After hearing the talk, you might be able to completely implement a (non-standard) FORTH from memory in less than an hour.",
   "persons": [
     {
       "id": 0,

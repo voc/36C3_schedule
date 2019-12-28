@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 15:00",
+    "version": "jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.8; komona 0.21; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 15:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -16670,9 +16670,23 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 15,
-                    "code": "NW9YKF",
-                    "public_name": "ekes",
+                    "id": 75,
+                    "code": "B7BBNC",
+                    "public_name": "Nika Dubrovky",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 76,
+                    "code": "BWBGKW",
+                    "public_name": "Elif Sarican",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 77,
+                    "code": "BUPXTM",
+                    "public_name": "David Graeber",
                     "biography": null,
                     "answers": []
                   }
@@ -19546,6 +19560,32 @@
                 "language": "de",
                 "abstract": "",
                 "description": "6 Gruppen 1 Workshop richtig gut!\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kreatur",
+                    "public_name": "Kreatur"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1638,
+                "guid": "482c15ae-e990-44fc-9126-da52bba703a3",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Zusammen_Arbeiten_und_Leben_unter_einem_Dach_im_l%C3%A4ndlichen_Raum",
+                "logo": null,
+                "date": "2019-12-28T14:30:00+01:00",
+                "start": "14:30",
+                "duration": "1:00",
+                "room": "Roter Salon",
+                "slug": "36c3-1638-session_zusammen_arbeiten_und_leben_unter_einem_dach_im_laendlichen_raum",
+                "title": "Zusammen Arbeiten und Leben unter einem Dach im l\u00e4ndlichen Raum",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "\nGespr\u00e4chModeration Zarah RothPanelbeteiligteMario, seit einem Jahr beim Ginsterbusch Projekt in der N\u00e4he von L\u00fcneburg. Hier funktioniert das Landleben, zum Beispiel von und mit Gem\u00fcsekisten. http://ginsterbusch.org/Janosch vom Coconat  - a Workation Retreat im Gutshof Glien. Coconat steht f\u00fcr eine internationale Gemeinschaft und unz\u00e4hlige helfende H\u00e4nde die das Projekt mit Leben f\u00fcllen. Ohne die vielen freiwilligen Unterst\u00fctzer, unsere Angestellten und Honorarkr\u00e4fte, Stipendiaten und Kooperationspartner w\u00e4re Coconat nicht der traumhafte Ort der er ist, daf\u00fcr sind wir unendlich dankbar. Ein Ort an dem sich digitale Arbeiter_innen von einer kreativen Gemeinschaft inspirieren lassen, konzentriert arbeiten und die Natur zu genie\u00dfen. http://coconat-space.com/de/",
                 "persons": [
                   {
                     "id": 0,
@@ -29143,6 +29183,38 @@
                 "answers": []
               },
               {
+                "id": 606,
+                "guid": "8bf72917-7fc5-5122-a250-6580a36976c8",
+                "logo": "",
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "01:00",
+                "room": "WikiPaka WG: Bibliothek",
+                "slug": "HGSZKD",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/HGSZKD/",
+                "title": "Transport Data Meetup - Vertiefendes Rumnerden",
+                "subtitle": "",
+                "track": "Community",
+                "type": "Meetup",
+                "language": "de",
+                "abstract": "Nach dem Kurzen Kennenlernmeetup am Day 2 gibt es am Day 3 Gelegenheit f\u00fcr vertiefendes Rumnerden.",
+                "description": "Treffen von Leuten, die mit Mobilit\u00e4tsdaten arbeiten und Einblick in Projekte geben k\u00f6nnen.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 103,
+                    "code": "NCXBFT",
+                    "public_name": "Gobeta.de",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 603,
                 "guid": "0adbd466-1c39-55bf-9602-d0ef600a2ab7",
                 "logo": "",
@@ -30181,6 +30253,38 @@
                     "code": "PXUUHW",
                     "public_name": "fblchrstn",
                     "biography": "Christian Faubel is an interdisciplinary scholar working in the differing fields of neuroscience,\r\nautonomous systems research and media art & design. He holds a PhD in electrical engineering\r\nand has completed research on autonomous systems at the Institute for Neural Computation from\r\n2002\u20132012. In 2002 he founded derstrudel, a collective for the mediation of a relaxed approach\r\nto electronics robotics. In his work, Christian Faubel is interested\r\nin what enables complex behavior, and how this may result from the interaction of very simple\r\nunits and their interrelations. In his artworks, installations, workshops & performances he tries to\r\nconvey insights about theoretical concepts such as self-organisation, emergence or embodiment\r\nalong an aesthetic dimension. He considers his artworks, workshops and performances to be in the\r\ntradition of philosophical toys as they combine the mediation of scientific concepts with pleasure\r\nand amusement.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 882,
+                "guid": "3f5070f1-3597-50b9-bc2e-b790b3ebc0dc",
+                "logo": "",
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "01:00",
+                "room": "dezentrale*",
+                "slug": "QKAUVZ",
+                "url": "https://talks.komona.org/36c3/talk/QKAUVZ/",
+                "title": "BIPoC* Meetup ;-)",
+                "subtitle": "",
+                "track": null,
+                "type": "Session",
+                "language": "en",
+                "abstract": "This is a meet up for black, indigenous and people of color (BIPoC) at CCC. We are two PoCs who would like to meet up and chit chat. Also would be cool to talk about racism and technology. This is a BIPoC only event!",
+                "description": "This is a meet up for black, indigenous and people of color (BIPoC) at CCC. We are two PoCs who would like to meet up and chit chat. Also would be cool to talk about racism and technology. This is a BIPoC only event!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 72,
+                    "code": "DTRGCM",
+                    "public_name": "Ren",
+                    "biography": "",
                     "answers": []
                   }
                 ],

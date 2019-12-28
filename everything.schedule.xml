@@ -1,5 +1,5 @@
 <schedule>
-  <version>jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.8; komona 0.20; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 15:00</version>
+  <version>jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.8; komona 0.21; sendezentrum 3.1; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 15:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -14937,7 +14937,9 @@ One of the few places in the world where this kind of Museum would be entirely a
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="15">ekes</person>
+          <person id="75">Nika Dubrovky</person>
+          <person id="76">Elif Sarican</person>
+          <person id="77">David Graeber</person>
         </persons>
         <links/>
         <attachments/>
@@ -17432,6 +17434,27 @@ Heute sollen alternative Ansätze zum Thema 'Umwelt, Natur &amp; Nachhaltigkeit'
         <abstract/>
         <description>6 Gruppen 1 Workshop richtig gut!
 </description>
+        <persons>
+          <person id="0">Kreatur</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1638" guid="482c15ae-e990-44fc-9126-da52bba703a3">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Zusammen_Arbeiten_und_Leben_unter_einem_Dach_im_l%C3%A4ndlichen_Raum</url>
+        <logo/>
+        <date>2019-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>1:00</duration>
+        <room>Roter Salon</room>
+        <slug>36c3-1638-session_zusammen_arbeiten_und_leben_unter_einem_dach_im_laendlichen_raum</slug>
+        <title>Zusammen Arbeiten und Leben unter einem Dach im ländlichen Raum</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>
+GesprächModeration Zarah RothPanelbeteiligteMario, seit einem Jahr beim Ginsterbusch Projekt in der Nähe von Lüneburg. Hier funktioniert das Landleben, zum Beispiel von und mit Gemüsekisten. http://ginsterbusch.org/Janosch vom Coconat  - a Workation Retreat im Gutshof Glien. Coconat steht für eine internationale Gemeinschaft und unzählige helfende Hände die das Projekt mit Leben füllen. Ohne die vielen freiwilligen Unterstützer, unsere Angestellten und Honorarkräfte, Stipendiaten und Kooperationspartner wäre Coconat nicht der traumhafte Ort der er ist, dafür sind wir unendlich dankbar. Ein Ort an dem sich digitale Arbeiter_innen von einer kreativen Gemeinschaft inspirieren lassen, konzentriert arbeiten und die Natur zu genießen. http://coconat-space.com/de/</description>
         <persons>
           <person id="0">Kreatur</person>
         </persons>
@@ -25835,6 +25858,32 @@ Ihr werdet von mir keine perfekte Übersicht / Lösung bekommen, da ich dafür n
         <attachments/>
         <answers/>
       </event>
+      <event id="606" guid="8bf72917-7fc5-5122-a250-6580a36976c8">
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>HGSZKD</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/HGSZKD/</url>
+        <title>Transport Data Meetup - Vertiefendes Rumnerden</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Nach dem Kurzen Kennenlernmeetup am Day 2 gibt es am Day 3 Gelegenheit für vertiefendes Rumnerden.</abstract>
+        <description>Treffen von Leuten, die mit Mobilitätsdaten arbeiten und Einblick in Projekte geben können.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="103">Gobeta.de</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="603" guid="0adbd466-1c39-55bf-9602-d0ef600a2ab7">
         <logo/>
         <date>2019-12-29T18:00:00+01:00</date>
@@ -26733,6 +26782,32 @@ Lustig, aber auch ernst.</abstract>
         </recording>
         <persons>
           <person id="71">fblchrstn</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="882" guid="3f5070f1-3597-50b9-bc2e-b790b3ebc0dc">
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>dezentrale*</room>
+        <slug>QKAUVZ</slug>
+        <url>https://talks.komona.org/36c3/talk/QKAUVZ/</url>
+        <title>BIPoC* Meetup ;-)</title>
+        <subtitle/>
+        <track/>
+        <type>Session</type>
+        <language>en</language>
+        <abstract>This is a meet up for black, indigenous and people of color (BIPoC) at CCC. We are two PoCs who would like to meet up and chit chat. Also would be cool to talk about racism and technology. This is a BIPoC only event!</abstract>
+        <description>This is a meet up for black, indigenous and people of color (BIPoC) at CCC. We are two PoCs who would like to meet up and chit chat. Also would be cool to talk about racism and technology. This is a BIPoC only event!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="72">Ren</person>
         </persons>
         <links/>
         <attachments/>

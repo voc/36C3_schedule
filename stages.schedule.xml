@@ -1,5 +1,5 @@
 <schedule>
-  <version>jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.21; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3</version>
+  <version>kill; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.21; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Stages</title>
@@ -1309,38 +1309,6 @@ In our talk we also discuss the SQLite internals and our novel approach for abus
       </event>
     </room>
     <room name="Eliza">
-      <event id="11247" guid="bfe5b7b4-8b06-4cce-b979-5a6c0b4995f3">
-        <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11247.html</url>
-        <logo/>
-        <date>2019-12-27T11:30:00+01:00</date>
-        <start>11:30</start>
-        <duration>01:00</duration>
-        <room>Eliza</room>
-        <slug>36c3-11247-technical_aspects_of_the_surveillance_in_and_around_the_ecuadorian_embassy_in_london</slug>
-        <title>Technical aspects of the surveillance in and around the Ecuadorian embassy in London</title>
-        <subtitle>Details about the man hunt for Julian Assange and Wikileaks</subtitle>
-        <track>CCC</track>
-        <type>lecture</type>
-        <language>en</language>
-        <abstract>The talk explains and illustrates the procedural and technical details of the surveillance in and around the Ecuadorian embassy in London during the time Julian Assange stayed in there from June 2012 until April 2019. </abstract>
-        <description>In the aftermath of Assange's expel from the ecuadorian embassy in London and his arrest based on a US extradition warrant evidence appeared that the "Security" measures of the embassy had at some point switched from protecting Assange and the embassy to an extremely detailled surveillance operation both against Assange and his visitors. The Spanish company "Undercover Global" that has been in charge of the embassy between 2015 and April 2018 and its owner and CEO is under investigation for spying on behalf of the CIA. Material from the second company that has taken over the embassy "Security" in April 2018 has found its way into an attempted extortion and is also subject to a legal investigation.&#13;
-&#13;
-The talk will contain material both documenting the surveillance measures installed as well as audio and video material obtained by the surveillance gear. It will also briefly touch on surveillance measures experienced elsewhere by friends, lawyers, media partners and associates of Assange and Wikileaks in the context of the ongoing man hunt.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="1752">andy</person>
-        </persons>
-        <links>
-          <link href="https://osint.info/index.php?title=UNDERCOVER_GLOBAL_S.L.">Undercover Global S.L. - a spanish company - worked both for the ecuadorian Government and other interested parties and did "security" in the Embassy from 2015 till 2018</link>
-          <link href="https://osint.info/index.php?title=PROMSECURITY">Prom Security - an ecudorian company - took over the embassy "security" from April 2018</link>
-          <link href="https://osint.info/index.php?title=ASSANGE,_JULIAN">Context on Julian Assange</link>
-          <link href="https://osint.info/index.php?title=WIKILEAKS">Context on Wikileaks</link>
-        </links>
-        <attachments/>
-      </event>
       <event id="11034" guid="5ef93193-8ad9-4cb3-8804-548bbd6faf24">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11034.html</url>
         <logo>/system/events/logos/000/011/034/large/icon_cropped.png?1577305720</logo>
@@ -14689,11 +14657,43 @@ Zum Schluss stell ich die einige Eckpfeiler für die Gestaltung einer Digitalisi
           <attachment href="/system/event_attachments/attachments/000/004/033/original/Faire_Digitalisierung_gestalten.png?1576507093">Digitalisierung fair gestalten </attachment>
         </attachments>
       </event>
+      <event id="11247" guid="bfe5b7b4-8b06-4cce-b979-5a6c0b4995f3">
+        <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11247.html</url>
+        <logo/>
+        <date>2019-12-30T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>01:00</duration>
+        <room>Eliza</room>
+        <slug>36c3-11247-technical_aspects_of_the_surveillance_in_and_around_the_ecuadorian_embassy_in_london</slug>
+        <title>Technical aspects of the surveillance in and around the Ecuadorian embassy in London</title>
+        <subtitle>Details about the man hunt for Julian Assange and Wikileaks</subtitle>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>The talk explains and illustrates the procedural and technical details of the surveillance in and around the Ecuadorian embassy in London during the time Julian Assange stayed in there from June 2012 until April 2019. </abstract>
+        <description>In the aftermath of Assange's expel from the ecuadorian embassy in London and his arrest based on a US extradition warrant evidence appeared that the "Security" measures of the embassy had at some point switched from protecting Assange and the embassy to an extremely detailled surveillance operation both against Assange and his visitors. The Spanish company "Undercover Global" that has been in charge of the embassy between 2015 and April 2018 and its owner and CEO is under investigation for spying on behalf of the CIA. Material from the second company that has taken over the embassy "Security" in April 2018 has found its way into an attempted extortion and is also subject to a legal investigation.&#13;
+&#13;
+The talk will contain material both documenting the surveillance measures installed as well as audio and video material obtained by the surveillance gear. It will also briefly touch on surveillance measures experienced elsewhere by friends, lawyers, media partners and associates of Assange and Wikileaks in the context of the ongoing man hunt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="1752">andy</person>
+        </persons>
+        <links>
+          <link href="https://osint.info/index.php?title=UNDERCOVER_GLOBAL_S.L.">Undercover Global S.L. - a spanish company - worked both for the ecuadorian Government and other interested parties and did "security" in the Embassy from 2015 till 2018</link>
+          <link href="https://osint.info/index.php?title=PROMSECURITY">Prom Security - an ecudorian company - took over the embassy "security" from April 2018</link>
+          <link href="https://osint.info/index.php?title=ASSANGE,_JULIAN">Context on Julian Assange</link>
+          <link href="https://osint.info/index.php?title=WIKILEAKS">Context on Wikileaks</link>
+        </links>
+        <attachments/>
+      </event>
       <event id="10885" guid="ca958208-abe7-4840-b938-193780eafca0">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10885.html</url>
         <logo/>
-        <date>2019-12-30T13:30:00+01:00</date>
-        <start>13:30</start>
+        <date>2019-12-30T13:50:00+01:00</date>
+        <start>13:50</start>
         <duration>00:40</duration>
         <room>Eliza</room>
         <slug>36c3-10885-unpacking_the_compromises_of_aadhaar_and_other_digital_identities_inspired_by_it</slug>

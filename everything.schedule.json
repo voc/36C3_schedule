@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 20:40",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 21:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -27456,6 +27456,44 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1666,
+                "guid": "5e0deaa0-a10a-40d5-b7cc-dbb480530c52",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Yubikey_101",
+                "logo": null,
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:30",
+                "room": "Lecture room 12",
+                "slug": "36c3-1666-session_yubikey_101",
+                "title": "Yubikey 101",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Introduction to Yubikeys\nHave you ever wanted to step up your personal security posture with hardware security tokens?Did you receive a YubiKey for Christmas, and now are like \"now what??\"Want to teach your mom how to use a YubiKey?Then this workshop is for you!We will spend an hour going through a walk-through general setup and configuration of YubiKeys and how to integrate them into daily life by walking through examples:* making sure the YubiKey in front of you is actually a YubiKey (attestation)* using 2FA with your nextcloud/github account* integrating passdb with YubiKeys* generating gpg keys on an airgapped machine and transferring subkeys to a YubiKey* signing commits with a YubiKey* using your YubiKey to SSH into remote machinesWorkshop Agenda:10 Minute Intro* YubiKey usecases (why you should have one)* YubiKey Distribution (how you might get one)* Being Instructions (Verify your YubiKey is authentic)'''Beginner Instructions'''Best if done before workshop (if possible):* Step 0: [https://github.com/hashbang/book/blob/master/Security/personal-hsms/yubikey.md#install-required-software Install Required Software]During workshop:* Step 1: [https://github.com/hashbang/book/blob/master/Security/personal-hsms/yubikey.md#verifying-authenticity Authenticate/Attest the Yubikey]* Step 2: [https://github.com/hashbang/book/blob/master/Security/2FA.md Setup 2FA on Github]Stretch Goals (Time permitting):* Step 3:  [https://github.com/hashbang/book/blob/master/Security/GnuPG.md#simple-setup Simple GPG Setup]* Step 4: [https://github.com/hashbang/book/blob/master/Security/Commit_Signing.md Commit Signing with YubiKey]* Step 5: [https://github.com/hashbang/book/blob/master/Security/SSH.md#gpg SSH with YubiKey]'''Advanced Instructions'''Follow these instructions if you are done with the beginning steps.* Step 0: [https://github.com/hashbang/airgap/blob/master/README.md Setup an Airgap Machine]* Step 1: [https://github.com/hashbang/book/blob/master/Security/GnuPG.md#advanced-setup Advanced GPG Setup]* Step 2: [https://github.com/hashbang/book/blob/master/Security/Email.md Email setup]* Step 3: Share Your Knowledge!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Sather",
+                    "public_name": "Sather"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dgrove",
+                    "public_name": "Dgrove"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Lrvick",
+                    "public_name": "Lrvick"
+                  }
+                ],
+                "links": [
+                  "http://hashbang.sh"
+                ]
               }
             ],
             "Seminar room 14-15": [
@@ -37025,6 +37063,34 @@
                 "persons": [],
                 "links": [
                   "https://c3voc.de/"
+                ]
+              },
+              {
+                "id": 1665,
+                "guid": "49a2a3a2-9019-48d6-8053-048e0821b6ea",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:BGP_Meetup",
+                "logo": null,
+                "date": "2019-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "1:00",
+                "room": "Lecture room 11",
+                "slug": "36c3-1665-session_bgp_meetup",
+                "title": "BGP Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:LTE_Max",
+                    "public_name": "LTE Max"
+                  }
+                ],
+                "links": [
+                  "http://t.me/BGPDE"
                 ]
               },
               {

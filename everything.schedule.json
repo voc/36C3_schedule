@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 20:10",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.22; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 20:20",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -35000,6 +35000,36 @@
                 ],
                 "links": [
                   "https://datenschmutz.de"
+                ]
+              }
+            ],
+            "Assembly:Milliways": [
+              {
+                "id": 1663,
+                "guid": "c35dd4ad-0a67-439e-95d7-0a51651c39f1",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Projection_Mapping_with_the_Pi:_Advanced",
+                "logo": null,
+                "date": "2019-12-29T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "2:00",
+                "room": "Assembly:Milliways",
+                "slug": "36c3-1663-session_projection_mapping_with_the_pi_advanced",
+                "title": "Projection Mapping with the Pi: Advanced",
+                "subtitle": "The dark side of Pi Mapper - ofxPiMapper - and how to use it",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Based on the session the day before. Bring your Pi and let's try out advanced mapping tricks together!\nPi Mapper is an open source projection mapping tool intended to be used on the Raspberry Pi minicomputers to reduce cost and licensing complications. It started as an addon for the openFrameworks creative coding toolkit and now is available as a disk image that one can download from https://ofxpimapper.com.During the advanced session we will cover setting up a development environment to make use of the openFrameworks addon ofxPiMapper that is at the core of Pi Mapper. We will try to develop a generative, data-driven and/or interactive mapping source to be used as Pi Mapper on a Raspberry Pi and discuss alternative solutions possible with the setup. Please bring your own computer, Raspberry Pi (please no Raspberry Pi 4 yet), a monitor or a projector, keyboard, mouse and power extension as there is limited amount of those at the assembly.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kriwkrow",
+                    "public_name": "Kriwkrow"
+                  }
+                ],
+                "links": [
+                  "https://ofxpimapper.com"
                 ]
               }
             ],

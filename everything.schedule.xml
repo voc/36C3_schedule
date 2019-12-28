@@ -1,5 +1,5 @@
 <schedule>
-  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 02:30</version>
+  <version>hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 02:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3158,6 +3158,7 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <links/>
       </event>
     </room>
+    <room name="Lecture room 12"/>
     <room name="Seminar room 14-15">
       <event id="1072" guid="c6a9ec39-ea7c-497b-befd-c2f86b7dc44f">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Improv_Theater/_Applied_Improvisation</url>
@@ -12212,6 +12213,29 @@ Mit Podlove und Auphonic wurden uns Produzierenden von Podcasts mächtige Werkze
         </links>
       </event>
     </room>
+    <room name="Lecture room 12">
+      <event id="1578" guid="a1fd2d4b-8425-45ec-88de-d914897e8985">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hygienebelehrung_/_Frikadellendiplom</url>
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room 12</room>
+        <slug>36c3-1578-session_hygienebelehrung_frikadellendiplom</slug>
+        <title>Hygienebelehrung / Frikadellendiplom</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>für alle Engel, die etwas mit Essen zu tun haben (wollen)
+</description>
+        <persons>
+          <person id="0">Waldwesen</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Seminar room 14-15">
       <event id="1058" guid="03d2f5b2-858f-4bab-b216-c95540f79fcb">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Conceptual_Models_of_Sustainability</url>
@@ -14219,7 +14243,7 @@ Konkret: Wir verbinden Theorie und Praxis. Im ersten Teil werden rechtliche Grun
         <type>Workshop</type>
         <language>de</language>
         <abstract>Session for people who want to join the project</abstract>
-        <description>I will shortly introduce you into the history and the current state of the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further. The years old codebase is waiting for you with lecacy Java but also Kotlin. Besides programming there is enough to do which does not require you to write code such as&#13;
+        <description>I will shortly introduce you into the history and the current state of the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further. The years old codebase is waiting for you with legacy Java but also Kotlin. Besides programming there is enough to do which does not require you to write code such as&#13;
 &#13;
 - translation&#13;
 - design&#13;
@@ -14228,7 +14252,12 @@ Konkret: Wir verbinden Theorie und Praxis. Im ersten Teil werden rechtliche Grun
 - outreach&#13;
 - communication with users&#13;
 &#13;
-and many more.</description>
+and many more.&#13;
+&#13;
+Links&#13;
+- https://github.com/EventFahrplan/EventFahrplan&#13;
+- https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule&#13;
+- https://fdroid.gitlab.io/ccc</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -18807,29 +18836,6 @@ While the JJBA comics are ongoing for more than 30 years now currently in part 9
         <links/>
       </event>
     </room>
-    <room name="Lecture room 12">
-      <event id="1578" guid="a1fd2d4b-8425-45ec-88de-d914897e8985">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Hygienebelehrung_/_Frikadellendiplom</url>
-        <logo/>
-        <date>2019-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:30</duration>
-        <room>Lecture room 12</room>
-        <slug>36c3-1578-session_hygienebelehrung_frikadellendiplom</slug>
-        <title>Hygienebelehrung / Frikadellendiplom</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>für alle Engel, die etwas mit Essen zu tun haben (wollen)
-</description>
-        <persons>
-          <person id="0">Waldwesen</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
     <room name="Assembly:Open Infrastructure Orbit">
       <event id="1588" guid="67664c57-de48-4070-b60e-040e25d4973d">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:KNX_/_OpenHAB_Selbsthilfegruppe</url>
@@ -23168,6 +23174,7 @@ The space we live in is three-dimensional. But mathematically, four dimensions c
         <links/>
       </event>
     </room>
+    <room name="Lecture room 12"/>
     <room name="Seminar room 14-15">
       <event id="1053" guid="983e175e-86a5-40be-9910-808e00cc5c3d">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A:f_meetup</url>
@@ -30582,6 +30589,7 @@ Daily A/V Angel Meeting. More information can be obtained from our news in the a
         </links>
       </event>
     </room>
+    <room name="Lecture room 12"/>
     <room name="Seminar room 14-15">
       <event id="1279" guid="32991e00-405b-4cc4-ba36-5d0045e1527b">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Getting_to_know_Julia</url>

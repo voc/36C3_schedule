@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 02:30",
+    "version": "hexdump; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.15; chaoszone 0.7; komona 0.18; sendezentrum 2.8; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 02:40",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -3359,6 +3359,7 @@
                 "links": []
               }
             ],
+            "Lecture room 12": [],
             "Seminar room 14-15": [
               {
                 "id": 1072,
@@ -13501,6 +13502,34 @@
                 ]
               }
             ],
+            "Lecture room 12": [
+              {
+                "id": 1578,
+                "guid": "a1fd2d4b-8425-45ec-88de-d914897e8985",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hygienebelehrung_/_Frikadellendiplom",
+                "logo": null,
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:30",
+                "room": "Lecture room 12",
+                "slug": "36c3-1578-session_hygienebelehrung_frikadellendiplom",
+                "title": "Hygienebelehrung / Frikadellendiplom",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "f\u00fcr alle Engel, die etwas mit Essen zu tun haben (wollen)\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Waldwesen",
+                    "public_name": "Waldwesen"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Seminar room 14-15": [
               {
                 "id": 1058,
@@ -15861,7 +15890,7 @@
                 "type": "Workshop",
                 "language": "de",
                 "abstract": "Session for people who want to join the project",
-                "description": "I will shortly introduce you into the history and the current state of the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further. The years old codebase is waiting for you with lecacy Java but also Kotlin. Besides programming there is enough to do which does not require you to write code such as\r\n\r\n- translation\r\n- design\r\n- documentation\r\n- public relations\r\n- outreach\r\n- communication with users\r\n\r\nand many more.",
+                "description": "I will shortly introduce you into the history and the current state of the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further. The years old codebase is waiting for you with legacy Java but also Kotlin. Besides programming there is enough to do which does not require you to write code such as\r\n\r\n- translation\r\n- design\r\n- documentation\r\n- public relations\r\n- outreach\r\n- communication with users\r\n\r\nand many more.\r\n\r\nLinks\r\n- https://github.com/EventFahrplan/EventFahrplan\r\n- https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule\r\n- https://fdroid.gitlab.io/ccc",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -21197,34 +21226,6 @@
                 "links": []
               }
             ],
-            "Lecture room 12": [
-              {
-                "id": 1578,
-                "guid": "a1fd2d4b-8425-45ec-88de-d914897e8985",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hygienebelehrung_/_Frikadellendiplom",
-                "logo": null,
-                "date": "2019-12-28T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "1:30",
-                "room": "Lecture room 12",
-                "slug": "36c3-1578-session_hygienebelehrung_frikadellendiplom",
-                "title": "Hygienebelehrung / Frikadellendiplom",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "f\u00fcr alle Engel, die etwas mit Essen zu tun haben (wollen)\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Waldwesen",
-                    "public_name": "Waldwesen"
-                  }
-                ],
-                "links": []
-              }
-            ],
             "Assembly:Open Infrastructure Orbit": [
               {
                 "id": 1588,
@@ -25995,6 +25996,7 @@
                 "links": []
               }
             ],
+            "Lecture room 12": [],
             "Seminar room 14-15": [
               {
                 "id": 1053,
@@ -34385,6 +34387,7 @@
                 ]
               }
             ],
+            "Lecture room 12": [],
             "Seminar room 14-15": [
               {
                 "id": 1279,

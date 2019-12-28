@@ -1,5 +1,5 @@
 <schedule>
-  <version>jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.21; sendezentrum 3.5; lightning Gadolinium; art-play 0.26; cdc 3; wiki 2019-12-28 17:40</version>
+  <version>jobs; lounges 303; chaos-west 1.0; open-infra 17; wikipaka 0.16; chaoszone 0.10; komona 0.21; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-28 18:00</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -9606,8 +9606,8 @@ This short talk will explain what doing accounting means, good reasons for doing
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="141">Florian</person>
           <person id="189">zeud</person>
+          <person id="141">Florian</person>
         </persons>
         <links/>
         <attachments/>
@@ -31410,10 +31410,38 @@ work-quantum WQ&#13;
         <attachments/>
         <answers/>
       </event>
+      <event id="3227" guid="9f588a66-c984-50f3-a2eb-d6e6f30f2b0c">
+        <logo/>
+        <date>2019-12-30T12:55:00+01:00</date>
+        <start>12:55</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>ZSDZWM</slug>
+        <url>https://c3lt.de/36c3/talk/ZSDZWM/</url>
+        <title>'Tour de Rebel' - The world largest moving climate camp/strike</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>Cycling around the globe for climate justice &amp; social justice with thousands of people.&#13;
+Aiming at education &amp; networking for the 21st century.</abstract>
+        <description>Tour de Rebel – How dare you? We dare!&#13;
+We dare to be a critical mass of thousands of people who are cycling together around the world for climate justice and social justice to spread the science regarding climate change and tell the truth. Further, sharing skills for the 21st century needed. Education &amp; acting now and networking for the 21st century is a central part of the Tour de Rebel. We dare to build connections between and within organisations and movements while enjoying slow travelling</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="206">Jacob Heinze</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="3220" guid="eaffcddf-0c9f-5705-80c0-d4c686537658">
         <logo/>
-        <date>2019-12-30T13:05:00+01:00</date>
-        <start>13:05</start>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
         <duration>00:05</duration>
         <room>Borg</room>
         <slug>BNTGQH</slug>
@@ -31431,6 +31459,32 @@ work-quantum WQ&#13;
         </recording>
         <persons>
           <person id="200">Sven</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3228" guid="e2783f43-291c-5277-96cf-32420d13b507">
+        <logo/>
+        <date>2019-12-30T13:05:00+01:00</date>
+        <start>13:05</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>JLTFWU</slug>
+        <url>https://c3lt.de/36c3/talk/JLTFWU/</url>
+        <title>Unary – yet another digital tally sheet for your hackerspace</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>At the Freilab Freiburg e.V. we developed a new digital tally sheet that is easily deployable and fun to use.</abstract>
+        <description>In this talk I will introduce the software design and hardware deployment of a cheap, yet sexy solution for counting Mate consumption per user.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="207">ypnos</person>
         </persons>
         <links/>
         <attachments/>
@@ -31485,6 +31539,32 @@ Link: https://github.com/rebuild-lang</description>
         </recording>
         <persons>
           <person id="199">arBmind</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3229" guid="e3ab6b10-7b8d-5df8-b7db-c54028915196">
+        <logo/>
+        <date>2019-12-30T13:20:00+01:00</date>
+        <start>13:20</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>UNUFZR</slug>
+        <url>https://c3lt.de/36c3/talk/UNUFZR/</url>
+        <title>Open Cultural Data is out there – use it to create new art and beauty!</title>
+        <subtitle/>
+        <track>---- (let the C3LT team decide)</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Where to find large amounts of valuable open culture data and how to use them.</abstract>
+        <description>This lightning talk gives a brief introduction on where open cultural data is available and how it can be used to create new art and beauty.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="208">Leander Seige</person>
         </persons>
         <links/>
         <attachments/>

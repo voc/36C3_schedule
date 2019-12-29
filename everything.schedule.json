@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.26; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 09:30",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.26; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 09:40",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -10156,7 +10156,7 @@
                 "type": "Lightning Talk",
                 "language": "en",
                 "abstract": "**Axoltol** is a signal client written in go and  vuejs. This talk is about the history of the project, difficulties and future.",
-                "description": "",
+                "description": "https://axolotl.chat",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -22509,7 +22509,7 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory workshop you have the chance to learn about the applications and test it with the device.",
+                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory open session you have the chance to install the app on an Android phone and test the Pocket Science Lab device with components and sensor kits.",
                 "persons": [
                   {
                     "id": 0,
@@ -34093,6 +34093,34 @@
                   }
                 ],
                 "links": []
+              },
+              {
+                "id": 1694,
+                "guid": "b9dd8c6b-51dc-422c-b942-e22896ba2f0e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Captain_Sonar",
+                "logo": null,
+                "date": "2019-12-29T12:21:00+01:00",
+                "start": "12:21",
+                "duration": "1:30",
+                "room": "Assembly:Pseudoroom",
+                "slug": "36c3-1694-session_captain_sonar",
+                "title": "Captain Sonar",
+                "subtitle": "Lets Play 3",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Captain Sonar\nWir spielen das Spiel Captain Sonar.Bitte \u00fcber https://www.schokoladensouffle.eu/captainsonar/ anmelden, maximal acht Teilnehmer, FCFSWir spielen bei der Gaderobe im Pseudoroom (CCL Geb\u00e4ude ganz unten)DECT 3060 bei R\u00fcckfragenmehr Infos zum Spiel: https://de.wikipedia.org/wiki/Captain_Sonar",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ankylotech",
+                    "public_name": "Ankylotech"
+                  }
+                ],
+                "links": [
+                  "https://www.schokoladensouffle.eu/captainsonar/"
+                ]
               }
             ],
             "Assembly:Labitat": [
@@ -35378,6 +35406,146 @@
             ],
             "Assembly:FOSSASIA": [
               {
+                "id": 1695,
+                "guid": "1f052b7f-01ef-4d15-a650-bcc9ce3af92c",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop",
+                "logo": null,
+                "date": "2019-12-29T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "2:00",
+                "room": "Assembly:FOSSASIA",
+                "slug": "36c3-1695-session_pslab_pocket_science_lab_self_guided_exploratory_workshop",
+                "title": "PSLab, Pocket Science Lab Self guided exploratory workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory open session you have the chance to install the app on an Android phone and test the Pocket Science Lab device with components and sensor kits.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://pslab.io"
+                ]
+              },
+              {
+                "id": 1697,
+                "guid": "7935dfe8-e08b-57de-839d-e992e981eb6c",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop",
+                "logo": null,
+                "date": "2019-12-29T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "2:00",
+                "room": "Assembly:FOSSASIA",
+                "slug": "36c3-1697-session_pslab_pocket_science_lab_self_guided_exploratory_workshop",
+                "title": "PSLab, Pocket Science Lab Self guided exploratory workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory open session you have the chance to install the app on an Android phone and test the Pocket Science Lab device with components and sensor kits.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://pslab.io"
+                ]
+              },
+              {
+                "id": 1699,
+                "guid": "be051d65-eb5f-5af1-b2df-63bc69c28601",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop",
+                "logo": null,
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "2:00",
+                "room": "Assembly:FOSSASIA",
+                "slug": "36c3-1699-session_pslab_pocket_science_lab_self_guided_exploratory_workshop",
+                "title": "PSLab, Pocket Science Lab Self guided exploratory workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory open session you have the chance to install the app on an Android phone and test the Pocket Science Lab device with components and sensor kits.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://pslab.io"
+                ]
+              },
+              {
+                "id": 1700,
+                "guid": "70edd7e1-16ce-57c1-94cf-f71b57e026e5",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop",
+                "logo": null,
+                "date": "2019-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "2:00",
+                "room": "Assembly:FOSSASIA",
+                "slug": "36c3-1700-session_pslab_pocket_science_lab_self_guided_exploratory_workshop",
+                "title": "PSLab, Pocket Science Lab Self guided exploratory workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory open session you have the chance to install the app on an Android phone and test the Pocket Science Lab device with components and sensor kits.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://pslab.io"
+                ]
+              },
+              {
+                "id": 1701,
+                "guid": "ddebe45d-2f64-5161-af24-581fb79ab27e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop",
+                "logo": null,
+                "date": "2019-12-29T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "2:00",
+                "room": "Assembly:FOSSASIA",
+                "slug": "36c3-1701-session_pslab_pocket_science_lab_self_guided_exploratory_workshop",
+                "title": "PSLab, Pocket Science Lab Self guided exploratory workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory open session you have the chance to install the app on an Android phone and test the Pocket Science Lab device with components and sensor kits.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://pslab.io"
+                ]
+              },
+              {
                 "id": 1593,
                 "guid": "199c9d66-61e9-4e42-9add-75658f3de88b",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop",
@@ -35393,7 +35561,35 @@
                 "type": "workshop",
                 "language": "en",
                 "abstract": "",
-                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory workshop you have the chance to learn about the applications and test it with the device.",
+                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory open session you have the chance to install the app on an Android phone and test the Pocket Science Lab device with components and sensor kits.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://pslab.io"
+                ]
+              },
+              {
+                "id": 1702,
+                "guid": "84b78b17-4537-56c6-a9a4-1e1886a7e467",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop",
+                "logo": null,
+                "date": "2019-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "2:00",
+                "room": "Assembly:FOSSASIA",
+                "slug": "36c3-1702-session_pslab_pocket_science_lab_self_guided_exploratory_workshop",
+                "title": "PSLab, Pocket Science Lab Self guided exploratory workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory open session you have the chance to install the app on an Android phone and test the Pocket Science Lab device with components and sensor kits.",
                 "persons": [
                   {
                     "id": 0,
@@ -39705,6 +39901,64 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:FOSSASIA": [
+              {
+                "id": 1696,
+                "guid": "1c4f987b-1cb2-41af-8912-8b924618e075",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop",
+                "logo": null,
+                "date": "2019-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "1:30",
+                "room": "Assembly:FOSSASIA",
+                "slug": "36c3-1696-session_pslab_pocket_science_lab_self_guided_exploratory_workshop",
+                "title": "PSLab, Pocket Science Lab Self guided exploratory workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory open session you have the chance to install the app on an Android phone and test the Pocket Science Lab device with components and sensor kits.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://pslab.io"
+                ]
+              },
+              {
+                "id": 1698,
+                "guid": "469e05e4-1625-5e49-b1ad-d0b530860a82",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:PSLab,_Pocket_Science_Lab_Self_guided_exploratory_workshop",
+                "logo": null,
+                "date": "2019-12-30T11:30:00+01:00",
+                "start": "11:30",
+                "duration": "1:30",
+                "room": "Assembly:FOSSASIA",
+                "slug": "36c3-1698-session_pslab_pocket_science_lab_self_guided_exploratory_workshop",
+                "title": "PSLab, Pocket Science Lab Self guided exploratory workshop",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Learn about the open hardware pocket science lab\nJoin us for a self-guided exploratory workshop on Pocket Science Lab with your Android phone or laptop PC. Our goal is to develop an open source measuring device for electronics and sensors. In this exploratory open session you have the chance to install the app on an Android phone and test the Pocket Science Lab device with components and sensor kits.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MarioB",
+                    "public_name": "MarioB"
+                  }
+                ],
+                "links": [
+                  "https://pslab.io"
+                ]
               }
             ],
             "Studio Datsche": [

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.16; chaoszone 0.11; komona 0.29; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3",
+    "version": "locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.29; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -13532,6 +13532,38 @@
                     "code": "RBEKZW",
                     "public_name": "bleeptrack",
                     "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 607,
+                "guid": "5f990d0a-5732-56a2-9bd5-d250e38d8325",
+                "logo": "",
+                "date": "2019-12-29T22:30:00+01:00",
+                "start": "22:30",
+                "duration": "01:00",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "BZTE77",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/BZTE77/",
+                "title": "GSM Team Ask us Everything",
+                "subtitle": "",
+                "track": "Community",
+                "type": "Meetup",
+                "language": "de",
+                "abstract": "The GSM Team will bring some hardware and data to explain how we run a 2/3/4G Network on the 36c3. Ask them everything.",
+                "description": "The GSM Team will bring some hardware and data to explain how we run a 2/3/4G Network on the 36c3. Ask them everything.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 104,
+                    "code": "CVRCFA",
+                    "public_name": "bibor",
+                    "biography": "",
                     "answers": []
                   }
                 ],

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-29 01:10",
+    "version": "2019-12-29 01:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -10750,7 +10750,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "This workshop will introduce you to the basics of natural language processing in Python.\n[[File:Introduction-NLP-LogoSmall.png|center]]''(While this abstract is in English, this workshop will be held either in English or German; depending on who wants to participate!)''Language is not just everywhere, but also essential to what makes us human. The rapidly growing field of Natural Language Processing (NLP) and/or computational linguistics, essentially, is trying to make computers 'understand' and produce natural language. The results of this endeavor are already omnipresent. Just to name a few, think about voice assistants and interfaces, chatbots, automated customer service agents, or the large scale analysis of, for example, social media data.This two-hour workshop, targeted towards interested beginners, will be a gentle introduction to NLP. In the first half an hour, we will be discussing some fundamentals of linguistics. Afterward, we will use Python to practically explore a linguistic dataset (a language corpus) and get to know some fundamental methods of NLP. If time allows for it, we will also briefly address state-of-the-art machine and deep learning approaches to understanding, analyzing, and generating natural language.'''About Me'''<br>My name is Ingo, and I'm currently working at Heidelberg University as a computational/corpus linguist and teacher educator. I'm particularly involved with teacher education/training and foreign language teaching.'''Required Previous Knowledge'''<br>* You are not required to have any previous knowledge about linguistics or NLP* Basic knowledge of Python (or similar) is recommended if you want to follow along with the technical section of the workshop'''Technical Requirements'''<br>If you want to participate actively (i.e., code along), you should bring a device that is capable of running a modern browser and has Internet access. Being able to type comfortably is also recommended ;). Alternatively, any device capable of running Python 3.6+ (ideally in a Jupyter Notebook) will do just fine!'''Material'''<br>All material (e.g., slides) will be provided on this page after the workshop. Please also check back here a day before the workshop because I will provide some additional material useful for active participation.",
+                "description": "This workshop will introduce you to the basics of natural language processing in Python.\n[[File:Introduction-NLP-LogoSmall.png|center]]''(While this abstract is in English, this workshop will be held either in English or German; depending on who wants to participate!)''Language is not just everywhere, but also essential to what makes us human. The rapidly growing field of Natural Language Processing (NLP) and/or computational linguistics, essentially, is trying to make computers 'understand' and produce natural language. The results of this endeavor are already omnipresent. Just to name a few, think about voice assistants and interfaces, chatbots, automated customer service agents, or the large scale analysis of, for example, social media data.This two-hour workshop, targeted towards interested beginners, will be a gentle introduction to NLP. In the first half an hour, we will be discussing some fundamentals of linguistics. Afterward, we will use Python to practically explore a linguistic dataset (a language corpus) and get to know some fundamental methods of NLP. If time allows for it, we will also briefly address state-of-the-art machine and deep learning approaches to understanding, analyzing, and generating natural language.'''About Me'''<br>My name is Ingo, and I'm currently working at Heidelberg University as a computational/corpus linguist and teacher educator. I'm particularly involved with teacher education/training and foreign language teaching.'''Required Previous Knowledge'''<br>* You are not required to have any previous knowledge about linguistics or NLP* Basic knowledge of Python (or similar) is recommended if you want to follow along with the technical section of the workshop'''Technical Requirements'''<br>If you want to participate actively (i.e., code along), you should bring a device that is capable of running a modern browser and has Internet access. Being able to type comfortably is also recommended ;). Alternatively, any device capable of running Python 3.6+ (ideally in a Jupyter Notebook) will do just fine!'''Material'''<br>All material (e.g., slides) will be provided on this page after the workshop. Please also check back here a day before the workshop because I will provide some additional material useful for active participation.You can find all material in this [https://github.com/IngoKl/36c3-workshops GitHub repository]. If you want to code along in your browser, you can also just start this [https://mybinder.org/v2/gh/IngoKl/36c3-workshops/master Binder]. Be aware that starting the Binder (i.e. your coding environment) can take a couple of minutes.",
                 "persons": [
                   {
                     "id": 0,
@@ -11953,7 +11953,7 @@
                 "type": "meeting",
                 "language": "de",
                 "abstract": "",
-                "description": "\n* What is European Digital Rights (EDRi)?* What is the CCC's role and what could it be?Short presentation and discussion by and with EDRi and CCC people.",
+                "description": "Short presentation and discussion by and with EDRi and CCC people. #uploadfilter #cryptowar #netzdg #softwarepatents\n* What is European Digital Rights (EDRi)?* What is the CCC's role and what could it be?* How you can help to shape european policy?* How can you support CCC to be more vocal and become a powerful voice for digital rights in europe?",
                 "persons": [
                   {
                     "id": 0,
@@ -13791,6 +13791,62 @@
                 ]
               }
             ],
+            "Assembly:C-base / CCC-B / xHain": [
+              {
+                "id": 1679,
+                "guid": "808d8721-3c63-404c-80a2-04625ef16a62",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Media_art_meetup",
+                "logo": null,
+                "date": "2019-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Assembly:C-base / CCC-B / xHain",
+                "slug": "36c3-1679-session_media_art_meetup",
+                "title": "Media art meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "art \u2229 computers.\nMeet at c-base, after DIY diafilms. Generative art, neural art, VR art, you name it! Meet other artists, show your work.Bring your own device. I'll bring an oculus quest VR headset.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alg",
+                    "public_name": "Alg"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1504,
+                "guid": "335f2235-cc22-4023-adcd-ddecc6195006",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Polizeidatenbanken:_Wer_ist_drin,_wer_will_raus%3F",
+                "logo": null,
+                "date": "2019-12-29T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "1:30",
+                "room": "Assembly:C-base / CCC-B / xHain",
+                "slug": "36c3-1504-session_polizeidatenbanken_wer_ist_drin_wer_will_raus_",
+                "title": "Polizeidatenbanken: Wer ist drin, wer will raus?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Polizeidatenbanken: Was, wer, warum, wohin?\nWollt ihr ein Auskunftsersuchen bei der Polizei stellen, um rauszukriegen, was sie \u00fcber euch denken und warum ihr st\u00e4ndig gefilzt werden (wenn das so ist)?  Habt ihr das schon gemacht und wollt  wissen, was der Kram hei\u00dft und wie ihr in wegkriegt?  Oder seid ihr einfach neugierig auf die j\u00fcngsten Bl\u00fcten der Verdatung von \"Sicherheit\"?  Was immer: Bei dieser Session seid ihr richtig.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Demi",
+                    "public_name": "Demi"
+                  }
+                ],
+                "links": [
+                  "https://datenschmutz.de"
+                ]
+              }
+            ],
             "Assembly:Chaos West": [
               {
                 "id": 1528,
@@ -14069,36 +14125,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "Assembly:C-base / CCC-B / xHain": [
-              {
-                "id": 1504,
-                "guid": "335f2235-cc22-4023-adcd-ddecc6195006",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Polizeidatenbanken:_Wer_ist_drin,_wer_will_raus%3F",
-                "logo": null,
-                "date": "2019-12-29T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "1:30",
-                "room": "Assembly:C-base / CCC-B / xHain",
-                "slug": "36c3-1504-session_polizeidatenbanken_wer_ist_drin_wer_will_raus_",
-                "title": "Polizeidatenbanken: Wer ist drin, wer will raus?",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Polizeidatenbanken: Was, wer, warum, wohin?\nWollt ihr ein Auskunftsersuchen bei der Polizei stellen, um rauszukriegen, was sie \u00fcber euch denken und warum ihr st\u00e4ndig gefilzt werden (wenn das so ist)?  Habt ihr das schon gemacht und wollt  wissen, was der Kram hei\u00dft und wie ihr in wegkriegt?  Oder seid ihr einfach neugierig auf die j\u00fcngsten Bl\u00fcten der Verdatung von \"Sicherheit\"?  Was immer: Bei dieser Session seid ihr richtig.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Demi",
-                    "public_name": "Demi"
-                  }
-                ],
-                "links": [
-                  "https://datenschmutz.de"
-                ]
               }
             ],
             "Assembly:Milliways": [
@@ -14392,34 +14418,6 @@
                 "links": []
               },
               {
-                "id": 1677,
-                "guid": "da94f260-5825-40b3-a44b-64ee951d32fd",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Chaos_needs_Hackbases",
-                "logo": null,
-                "date": "2019-12-30T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "1:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1677-session_chaos_needs_hackbases",
-                "title": "Chaos needs Hackbases",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "",
-                "abstract": "",
-                "description": "Chaos is brought by things not unlike hackbases!\nWho knows?Maybe this will change!For now, see    https://wiki.hackerspaces.org/Hackbaseand    https://totalism.org",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dcht00",
-                    "public_name": "Dcht00"
-                  }
-                ],
-                "links": [
-                  "https://pad.land/hackbases"
-                ]
-              },
-              {
                 "id": 1467,
                 "guid": "233928f9-841b-4474-88bd-b1deecad2c3f",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Das_Gutachten_der_Datenethikkommission_-_eine_praktische_Diskussion",
@@ -14472,6 +14470,60 @@
                 "links": [
                   "https://engelsystem.de/36c3/"
                 ]
+              },
+              {
+                "id": 1677,
+                "guid": "da94f260-5825-40b3-a44b-64ee951d32fd",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackbases_or_Barbarianism",
+                "logo": null,
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "1:00",
+                "room": "Lecture room M3",
+                "slug": "36c3-1677-session_hackbases_or_barbarianism",
+                "title": "Hackbases or Barbarianism",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "Chaos is brought by things not unlike hackbases!\nHackbases are similar to hackerspaces but people also live in them.https://wiki.hackerspaces.org/Hackbase <--- list of hackbases etcjoin #hackbases on Freenode !See:* https://wiki.hackerspaces.org/Hackbase* https://totalism.orgSOME INTERESTS:    Self-sustainability, off-grid, autarky / resilience and temporary architecture research & alternative construction // Free software and free hardware development // Free Industry // Open data, workflow and organisational technology, Tektology //Digital nomadism // Critical theory // Sound studio, bands, Intermedia Art // Growing food // Renewable energy technologies // Nootropics // A nomad hacker lifestyle in a network of hacklabs // \"Coliving\" and \"Coworking\" // Hacker camp // Financial and temporal freedom // Autonomy // YOUR INTEREST HERE",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dcht00",
+                    "public_name": "Dcht00"
+                  }
+                ],
+                "links": [
+                  "https://pad.land/hackbases"
+                ]
+              },
+              {
+                "id": 1678,
+                "guid": "02bf8ab7-4467-464a-b0d0-4c79b5e860d6",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackbases_or_barbarianism",
+                "logo": null,
+                "date": "2019-12-30T11:15:00+01:00",
+                "start": "11:15",
+                "duration": "0:45",
+                "room": "Lecture room M3",
+                "slug": "36c3-1678-session_hackbases_or_barbarianism",
+                "title": "Hackbases or barbarianism",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dcht00",
+                    "public_name": "Dcht00"
+                  }
+                ],
+                "links": []
               }
             ],
             "Lecture room M2": [

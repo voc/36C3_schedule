@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.25; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 01:10",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.25; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 01:30",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -7337,41 +7337,6 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
-              }
-            ],
-            "CDC - Workshop area": [
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/188.html",
-                "id": 4388,
-                "guid": "a366155e-3623-47eb-ae6b-5f4815fcd009",
-                "logo": null,
-                "date": "2019-12-27T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "01:30",
-                "room": "CDC - Workshop area",
-                "slug": "36C3-188-hacking_around_z-wave_smart_home_protocol",
-                "title": "Hacking around Z-Wave smart home protocol",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "Hacking around Z-Wave smart home gateway based on Raspberry Pi and making your own Z-Wave device based on Z-Uno.\r\n\r\nPlease take with you\r\n<ul>\r\n<li> Your laptop with</li>\r\n  <ul>\r\n    <li>Access to the internet</li>\r\n    <li>Arduino IDE installed</li>\r\n    <li>Z-Uno package installed in Arduino IDE (see https://z-uno.z-wave.me/install for details - we will help you with this during the workshop)</li>\r\n  </ul>\r\n<li>Your Raspberry Pi 3/4 with Raspbian Stretch (optional)</li>\r\n<li>Arduino compatible sensors to build your own Z-Wave sensor (optional)</li>\r\n<li>Your Z-Wave stuff if any (optional)</li>\r\n</ul>",
-                "description": "<h2>Workshop sections</h2>\r\n<ul>\r\n<li>What is Z-Wave and where should you use it</li>\r\n<li>Z-Way controller and RaZberry/UZB hardware</li>\r\n <ul>\r\n  <li>Controlling switches </li>\r\n  <li>Reading sensor/switch values</li>\r\n  <li>Making rules</li>\r\n  <li>Using JS API</li>\r\n </ul>\r\n<li>Z-Uno prototyping board</li>\r\n <ul>\r\n  <li>Making Simple Switch</li>\r\n  <li>Adding more stuff</li>\r\n </ul>\r\n<li>Z-Uno Shield and Z-Uno Configurator</li>\r\n<li>Z-Uno Modules</li>\r\n</ul>\r\n\r\n<hr/>\r\n\r\n<h2>Usefull links for the workshop</h2>\r\n\r\n<h3>Z-Way controllers on the workshop</h3>\r\n<ul>\r\n<li>Controller (EU, 868 MHz)</li>\r\n<li>Smart Home UI http://192.168.88.22:8083</li>\r\n<li>Expert UI http://192.168.88.22:8083/expert</li>\r\n<li>WiFi SSID</li>\r\n<li>Z-Wave-RPi-xxxx / PSK: ccc-2019</li>\r\n<li>Smart Home User: admin / Password: ccc</li>\r\n</ul>\r\n\r\n<h3>Z-Way documentation</h3>\r\n<ul>\r\n<li>Installing Z-Way https://z-wave.me/z-way/download-z-way/</li>\r\n<li>Z-Way doc https://z-wave.me/essentials</li>\r\n<li>Z-Way JS engine GitHub https://github.com/Z-Wave-Me/home-automation/</li>\r\n</ul>\r\n\r\n<h3>Z-Way workshop materials</h3>\r\n<ul>\r\n<li>Making rules: Settings -> Apps -> Local -> IfThen -> Add</li>\r\n<li>Turning on/off a device /ZWaveAPI/Run/devices[NNN].SwitchBinary.Set(0 or 1)</li>\r\n<li>Reading switch value /ZWaveAPI/Run/devices[NNN].SwitchBinary.data.level.value</li>\r\n<li>Reading sensor value /ZWaveAPI/Run/devices[NNN].SensorBinary.data[12].level.value</li>\r\n<li>Using JS API /JS/Run/var v = 1; setInterval(function() { zway.devices[NNN].SwitchBinary.Set(v); v = 1-v;}, 2000);</li>\r\n</ul>\r\n\r\n<hr/>\r\n\r\n<h3>Z-Uno documentation</h3>\r\n<ul>\r\n<li>Quick Intro https://z-uno.z-wave.me/getting-started/quick-introduction-in-z-uno/</li>\r\n<li>Installation howto https://z-uno.z-wave.me/install</li>\r\n<li>Language Reference https://z-uno.z-wave.me/reference/</li>\r\n<li>Examples https://z-uno.z-wave.me/examples/</li>\r\n<li>Z-Uno Shield https://z-uno.z-wave.me/shield/</li>\r\n<li>Z-Uno Shield Configurator https://z-uno.z-wave.me/shield/configurator/</li>\r\n<li>Z-Uno GitHub https://github.com/Z-Wave-Me/Z-Uno-Core/</li>\r\n</ul>\r\n\r\n<h3>Z-Uno settings</h3>\r\nMake sure to configure in Arduino IDE:\r\n<ul>\r\n<li>File -> Preferences -> Add package source URL http://z-uno.z-wave.me/files/z-uno/package_z-wave.me_index.json</li>\r\n<li>Tools -> Board -> Board Manager -> Z-Uno 2.1.5</li>\r\n<li>Tools -> Board -> Z-Uno</li>\r\n<li>Tools -> Programmer -> Z-Uno</li>\r\n<li>Tools -> Port -> /dev/ttyACM0 or /dev/ttyACM1</li>\r\n<li>Tools -> Frequency EU/RU (depending on your controller)</li>\r\n<li>Tools -> Security none or S0 or S2 - up to you</li>\r\n</ul>\r\n\r\nYou might also need to add your user to *dialout* group to have permissions for /dev/ttyACM*\r\n\r\n<h3>Z-Uno workshop materials</h3>\r\nSketch for Simple Switch:\r\n<code><pre>\r\n ZUNO_SETUP_CHANNELS(ZUNO_SWITCH_BINARY(state, 0));\r\n \r\n byte state = 0;\r\n \r\n void setup() {\r\n   pinMode(13, OUTPUT);\r\n }\r\n \r\n void loop() {\r\n   digitalWrite(13, state ? HIGH : LOW);\r\n }\r\n</pre></code>\r\n\r\nSketch in getter/setter style:\r\n<code><pre>\r\n ZUNO_SETUP_CHANNELS(\r\n   ZUNO_SWITCH_BINARY(getter, setter),\r\n   ZUNO_SENSOR_BINARY_DOOR_WINDOW(doorGetter)\r\n );\r\n \r\n byte state = 0;\r\n byte door = 0, lastDoor = 0xff;\r\n \r\n void setup() {\r\n   pinMode(13, OUTPUT);\r\n   pinMode(18, INPUT);\r\n }\r\n \r\n void loop() {\r\n   digitalWrite(13, state ? HIGH : LOW);\r\n   \r\n   door = digitalRead(18) == LOW ? 0xff : 0;\r\n   if (door != lastDoor) zunoSendReport(2); // push update of channel 2\r\n   lastDoor = door;\r\n }\r\n \r\n void setter(byte val) {\r\n   state = val;\r\n }\r\n \r\n byte getter() {\r\n   return state;\r\n }\r\n \r\n byte doorGetter() {\r\n   return door;\r\n }\r\n</pre></code>",
-                "recording_license": "The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 142,
-                    "public_name": "PoltoS"
-                  }
-                ],
-                "links": [
-                  {
-                    "url": "z-uno.z-wave.me",
-                    "title": "website"
-                  }
-                ],
                 "attachments": []
               }
             ],
@@ -19079,215 +19044,6 @@
                 "attachments": []
               }
             ],
-            "CDC - Workshop area": [
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/159.html",
-                "id": 4359,
-                "guid": "c01cafa7-3c90-4621-8779-eb98a8c2dde0",
-                "logo": "/system/events/logos/000/000/159/large/__image.png?1577186078",
-                "date": "2019-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "02:10",
-                "room": "CDC - Workshop area",
-                "slug": "36C3-159-open_hardware_dialogues_black_crystal_2",
-                "title": "Open Hardware Dialogues: Black Crystal #2",
-                "subtitle": "Applications of Trezor Crypto Lib",
-                "track": "Workshop",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "In the fourth iteration of the workshop \"Black Crystal\", which has been held previously at RIAT in Vienna, RIAT Cyprus and during HCPP19 in Prague - we are again focusing on Trezor Crypto Lib and on creating small applications based on the ESP32 MCU and the Arduino IDE. \r\n\r\nA core focus of this workshop is to understand the constraints and limitations of cryptographic key generation, especially on slow devices. In the context of the workshop, participants will pragmatically explore different workflows, such as key generation, BIP39, entropy sources, shamir secret sharing. Workshop outcomes are shared in the code-repository of the workshop. ",
-                "description": "In the fourth iteration of the workshop \"Black Crystal\", which has been held previously at RIAT in Vienna, RIAT Cyprus and during HCPP19 in Prague - we are again focusing on Trezor Crypto Lib and on creating small applications based on the ESP32 MCU and the Arduino IDE. \r\n\r\nA core focus of this workshop is to understand the constraints and limitations of cryptographic key generation, especially on slow devices. In the context of the workshop, participants will pragmatically explore different workflows, such as key generation, BIP39, entropy sources, shamir secret sharing. Workshop outcomes are shared in the code-repository of the workshop. \r\n\r\nRIAT is an independent R+D institute focussing on Open Hardware, Blockchain and Privacy-Enabling technologies. The institute is active in Austria, Cyprus and the US and exists since 2012. The institute is one of the world\u2019s earliest blockchain institutes. The cryptography and hardware division of RIAT exists since 2017 and works on communicating (open) hardware related topics to developers, enthusiasts and the general public.",
-                "recording_license": "The talks at Critical Decentralisation Cluster will be live streamed and recorded. I consent to the use by Monero or RIAT of my image, video, and voice. I understand that this consent is perpetual and my image, video, and voice may appear publicly as part of Monero or RIAT website, Twitter account, YouTube channel and/or other marketing materials, which will be licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. If you would like to opt-out and not be recorded, please contact office@riat.at",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 140,
-                    "public_name": "FL140"
-                  },
-                  {
-                    "id": 27,
-                    "public_name": "parasew"
-                  }
-                ],
-                "links": [
-                  {
-                    "url": "https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/",
-                    "title": "Open Hardware Dialogues: Black Crystal"
-                  }
-                ],
-                "attachments": []
-              },
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/115.html",
-                "id": 4315,
-                "guid": "f67c0e03-00d3-4df0-a897-0a9f656d67af",
-                "logo": null,
-                "date": "2019-12-28T16:15:00+01:00",
-                "start": "16:15",
-                "duration": "00:30",
-                "room": "CDC - Workshop area",
-                "slug": "36C3-115-workshop_on_crypto-aml",
-                "title": "Workshop on crypto-AML",
-                "subtitle": "privacy preserving crypto-AML tools",
-                "track": "Workshop",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "I plan to organise a workshop on privacy preserving Crypto AML tools.\r\n\r\nOpen Source Blockchain explorers are the most common basic tool.\r\n\r\nI would like to give some examples of AML use-cases and see what can be studied using local full nodes without leaking any data to external service providers. \r\n\r\nSuch software and knowledge is not only needed to financial intermediaries, but is absolutely crucial to have for our society. ",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 106,
-                    "public_name": "bonfire.link"
-                  },
-                  {
-                    "id": 117,
-                    "public_name": "polto"
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/114.html",
-                "id": 4314,
-                "guid": "caf49059-d066-4ace-ad4b-fa6bc1fe32f1",
-                "logo": "/system/events/logos/000/000/114/large/grande-1.png?1576850222",
-                "date": "2019-12-28T16:55:00+01:00",
-                "start": "16:55",
-                "duration": "01:00",
-                "room": "CDC - Workshop area",
-                "slug": "36C3-114-intro_to_poap",
-                "title": "Intro to POAP",
-                "subtitle": "The Proof of Attendance Protocol",
-                "track": "Workshop",
-                "type": "workshop",
-                "language": "",
-                "abstract": "A hands-on exercise on a novel system to create decentralized identities on the blockchain based on attendance certificates. POAP runs on the Ethereum mainnet has thousands of humans already.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 106,
-                    "public_name": "bonfire.link"
-                  },
-                  {
-                    "id": 121,
-                    "public_name": "Patricio Worthalter"
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/147.html",
-                "id": 4347,
-                "guid": "b7d3c6e2-da90-49dd-a329-608720723f58",
-                "logo": "/system/events/logos/000/000/147/large/logo.png?1577199292",
-                "date": "2019-12-28T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "01:00",
-                "room": "CDC - Workshop area",
-                "slug": "36C3-147-dappnode_sdk_workshop",
-                "title": "DAppNode SDK workshop",
-                "subtitle": "Deploy a tor relay in your DAppNode",
-                "track": "Workshop",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "How to make use of the DAppNode's SDK tool to build a tor relay package in a few easy steps, and deploy it on a DAppNode, an open source solution for personal servers focused on cryptocurrency and decentralization.\r\n",
-                "description": "In this session we will cover how to will build a tor relay package as a example, to help the network, serving IPFS content as a hidden service, and to be used by other DAppNode apps like full nodes, etc.\r\n\r\nA laptop and basic skills with Linux and Docker are required.\r\nWe recommend having NodeJS and docker pre-installed.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 119,
-                    "public_name": "Abel Bold\u00fa"
-                  }
-                ],
-                "links": [
-                  {
-                    "url": "https://dappnode.github.io/DAppNodeDocs/",
-                    "title": "DAppNode Docs"
-                  }
-                ],
-                "attachments": []
-              },
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/116.html",
-                "id": 4316,
-                "guid": "1c332a7f-4f50-49ba-a1e5-492e7b4b4a4f",
-                "logo": "/system/events/logos/000/000/116/large/blockchain_%281%29.png?1577204165",
-                "date": "2019-12-28T19:00:00+01:00",
-                "start": "19:00",
-                "duration": "01:00",
-                "room": "CDC - Workshop area",
-                "slug": "36C3-116-the_incentive_is_bullshit",
-                "title": "The incentive is bullshit",
-                "subtitle": "A satirical discussion on value, incentives, and motivations in blockchain-space",
-                "track": "Workshop",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "In this lecture we will present the story of the satirical BSH token (http://bullshit.money/) and use it to initiate a criticism on the value proposition of many blockchain projects. At the same time, we will reflect on what brings value to different currencies and how they are used to incentivize certain behaviors. At the end of the lecture, we will open the stage for a panel session.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 106,
-                    "public_name": "bonfire.link"
-                  },
-                  {
-                    "id": 52,
-                    "public_name": "Ome"
-                  },
-                  {
-                    "id": 117,
-                    "public_name": "polto"
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/128.html",
-                "id": 4328,
-                "guid": "3c56e9b7-4b0c-4d5b-9b5e-6e4bd71fbadd",
-                "logo": "/system/events/logos/000/000/128/large/namecoin-coin_1000px.png?1576362282",
-                "date": "2019-12-28T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "01:00",
-                "room": "CDC - Workshop area",
-                "slug": "36C3-128-demo_and_discussion_namecoin_in_tor_browser",
-                "title": "Demo and Discussion: Namecoin in Tor Browser",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "The Namecoin and Tor developers are running a new experiment: the GNU/Linux Nightly Builds of Tor Browser now have optional support for resolving Namecoin's .bit domains.  This experiment aims to provide a fix for the long-standing UX problem with .onion domains: the lack of human-meaningful names.  With Namecoin, you can access onion services via nice, memorable addresses like http://federalistpapers.bit/ instead of http://7fa6xlti5joarlmkuhjaifa47ukgcwz6tfndgax45ocyn4rixm632jid.onion/ .  In this workshop, you'll be able to try it out yourself.  Bring a GNU/Linux machine (bare-metal or VM are both fine).  After the demo, I'd love your feedback on what our next steps should be in this area.",
-                "description": "I highly recommend attending my talk \"Adventures and Experiments Adding Namecoin to Tor Browser\" prior to this workshop, but this is not a hard requirement; attendees who didn't attend that talk are still welcome.\r\n\r\nDisclaimer: Although the work covered in this workshop is a collaboration between Namecoin and Tor, this workshop is solely from Namecoin's perspective.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 101,
-                    "public_name": "Jeremy Rand"
-                  }
-                ],
-                "links": [
-                  {
-                    "url": "https://www.namecoin.org/",
-                    "title": "Namecoin"
-                  },
-                  {
-                    "url": "https://www.namecoin.org/36c3-workshop/",
-                    "title": "Workshop Notes"
-                  }
-                ],
-                "attachments": []
-              }
-            ],
             "FOSSASIA Workshops - CDC": [
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/139.html",
@@ -27664,7 +27420,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "This workshop will introduce you to the basics of natural language processing in Python.\n[[File:Introduction-NLP-LogoSmall.png|center]]''(While this abstract is in English, this workshop will be held either in English or German; depending on who wants to participate!)''Language is not just everywhere, but also essential to what makes us human. The rapidly growing field of Natural Language Processing (NLP) and/or computational linguistics, essentially, is trying to make computers 'understand' and produce natural language. The results of this endeavor are already omnipresent. Just to name a few, think about voice assistants and interfaces, chatbots, automated customer service agents, or the large scale analysis of, for example, social media data.This two-hour workshop, targeted towards interested beginners, will be a gentle introduction to NLP. In the first half an hour, we will be discussing some fundamentals of linguistics. Afterward, we will use Python to practically explore a linguistic dataset (a language corpus) and get to know some fundamental methods of NLP. If time allows for it, we will also briefly address state-of-the-art machine and deep learning approaches to understanding, analyzing, and generating natural language.'''About Me'''<br>My name is Ingo, and I'm currently working at Heidelberg University as a computational/corpus linguist and teacher educator. I'm particularly involved with teacher education/training and foreign language teaching.'''Required Previous Knowledge'''<br>* You are not required to have any previous knowledge about linguistics or NLP* Basic knowledge of Python (or similar) is recommended if you want to follow along with the technical section of the workshop'''Technical Requirements'''<br>If you want to participate actively (i.e., code along), you should bring a device that is capable of running a modern browser and has Internet access. Being able to type comfortably is also recommended ;). Alternatively, any device capable of running Python 3.6+ (ideally in a Jupyter Notebook) will do just fine!'''Material'''<br>All material (e.g., slides) will be provided on this page after the workshop. Please also check back here a day before the workshop because I will provide some additional material useful for active participation.",
+                "description": "This workshop will introduce you to the basics of natural language processing in Python.\n[[File:Introduction-NLP-LogoSmall.png|center]]''(While this abstract is in English, this workshop will be held either in English or German; depending on who wants to participate!)''Language is not just everywhere, but also essential to what makes us human. The rapidly growing field of Natural Language Processing (NLP) and/or computational linguistics, essentially, is trying to make computers 'understand' and produce natural language. The results of this endeavor are already omnipresent. Just to name a few, think about voice assistants and interfaces, chatbots, automated customer service agents, or the large scale analysis of, for example, social media data.This two-hour workshop, targeted towards interested beginners, will be a gentle introduction to NLP. In the first half an hour, we will be discussing some fundamentals of linguistics. Afterward, we will use Python to practically explore a linguistic dataset (a language corpus) and get to know some fundamental methods of NLP. If time allows for it, we will also briefly address state-of-the-art machine and deep learning approaches to understanding, analyzing, and generating natural language.'''About Me'''<br>My name is Ingo, and I'm currently working at Heidelberg University as a computational/corpus linguist and teacher educator. I'm particularly involved with teacher education/training and foreign language teaching.'''Required Previous Knowledge'''<br>* You are not required to have any previous knowledge about linguistics or NLP* Basic knowledge of Python (or similar) is recommended if you want to follow along with the technical section of the workshop'''Technical Requirements'''<br>If you want to participate actively (i.e., code along), you should bring a device that is capable of running a modern browser and has Internet access. Being able to type comfortably is also recommended ;). Alternatively, any device capable of running Python 3.6+ (ideally in a Jupyter Notebook) will do just fine!'''Material'''<br>All material (e.g., slides) will be provided on this page after the workshop. Please also check back here a day before the workshop because I will provide some additional material useful for active participation.You can find all material in this [https://github.com/IngoKl/36c3-workshops GitHub repository]. If you want to code along in your browser, you can also just start this [https://mybinder.org/v2/gh/IngoKl/36c3-workshops/master Binder]. Be aware that starting the Binder (i.e. your coding environment) can take a couple of minutes.",
                 "persons": [
                   {
                     "id": 0,
@@ -28145,7 +27901,7 @@
                 "type": "meeting",
                 "language": "de",
                 "abstract": "",
-                "description": "\n* What is European Digital Rights (EDRi)?* What is the CCC's role and what could it be?Short presentation and discussion by and with EDRi and CCC people.",
+                "description": "Short presentation and discussion by and with EDRi and CCC people. #uploadfilter #cryptowar #netzdg #softwarepatents\n* What is European Digital Rights (EDRi)?* What is the CCC's role and what could it be?* How you can help to shape european policy?* How can you support CCC to be more vocal and become a powerful voice for digital rights in europe?",
                 "persons": [
                   {
                     "id": 0,
@@ -32504,101 +32260,6 @@
                 "attachments": []
               }
             ],
-            "CDC - Workshop area": [
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/100.html",
-                "id": 4300,
-                "guid": "42121f2b-f405-43aa-961c-69e920a98d90",
-                "logo": null,
-                "date": "2019-12-29T13:10:00+01:00",
-                "start": "13:10",
-                "duration": "01:00",
-                "room": "CDC - Workshop area",
-                "slug": "36C3-100-outreach_strategies_for_the_privacy_movement",
-                "title": "Outreach Strategies for the Privacy Movement",
-                "subtitle": "A workshop hosted by Scott Beibin of eviltwinbooking.org and positron.agency",
-                "track": "Workshop",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "Learn ways of doing outreach in order to build communities around projects.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 103,
-                    "public_name": "Scott Beibin"
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/149.html",
-                "id": 4349,
-                "guid": "0e3f72c6-766d-4a9b-9c73-7404a9944011",
-                "logo": "/system/events/logos/000/000/149/large/nym-logo-cut.png?1576879852",
-                "date": "2019-12-29T14:10:00+01:00",
-                "start": "14:10",
-                "duration": "01:40",
-                "room": "CDC - Workshop area",
-                "slug": "36C3-149-hands-on_nym_workshop",
-                "title": "Hands-On Nym Workshop",
-                "subtitle": "Setting up your own validator and mixnode",
-                "track": "Workshop",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "This workshop complements the talk on the Nym network by offering a hands-on step-by-step guide for programmers to setup mix-node and validators on the alpha mix-network. ",
-                "description": "This workshop will let programmers set-up validators and walk through the instructions of setting up a Nym valdiator, and if time allows, a Nym mix-node. Members of the Nym team will be available on hand, and demonstrate how apps like wallets and chat applications can be build on the top of the node. ",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 122,
-                    "public_name": "Harry Halpin"
-                  }
-                ],
-                "links": [
-                  {
-                    "url": "https://github.com/nymtech",
-                    "title": "Nym codebase"
-                  },
-                  {
-                    "url": "https://nymtech.net/docs/",
-                    "title": "Nym Docs"
-                  }
-                ],
-                "attachments": []
-              },
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/111.html",
-                "id": 4311,
-                "guid": "b25d617d-2e47-4f75-b7aa-6187b520ea98",
-                "logo": null,
-                "date": "2019-12-29T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "06:00",
-                "room": "CDC - Workshop area",
-                "slug": "36C3-111-from_high_school_math_to_zksnarks",
-                "title": "From high school Math to zkSnarks",
-                "subtitle": "",
-                "track": "Workshop",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "I will explain how zkSnarks works. I will start from High school math and go all the way until the zkSnarks construction.\r\nThe roadmap will be:\r\n* Groups\r\n* Fields\r\n* Polynomials on Fields\r\n* Lagrange\r\n* Shamir Secret Sharing\r\n* Elliptic Curves\r\n* Diffie-Helman\r\n* Schnorr Signatures (Sigma Protocols and Fiat Shamir)\r\n* Pairings\r\n* BLS Signatures\r\n* Aritmetics Circuits\r\n* R1CS\r\n* QAP\r\n* zkSnark Construction\r\nLaptop is not required, but recomended.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 59,
-                    "public_name": "jordi@masterasp.com"
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
             "FOSSASIA Workshops - CDC": [
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/136.html",
@@ -35097,6 +34758,62 @@
                 ]
               }
             ],
+            "Assembly:C-base / CCC-B / xHain": [
+              {
+                "id": 1679,
+                "guid": "808d8721-3c63-404c-80a2-04625ef16a62",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Media_art_meetup",
+                "logo": null,
+                "date": "2019-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Assembly:C-base / CCC-B / xHain",
+                "slug": "36c3-1679-session_media_art_meetup",
+                "title": "Media art meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "art \u2229 computers.\nMeet at c-base, after DIY diafilms. Generative art, neural art, VR art, you name it! Meet other artists, show your work.Bring your own device. I'll bring an oculus quest VR headset.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Alg",
+                    "public_name": "Alg"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1504,
+                "guid": "335f2235-cc22-4023-adcd-ddecc6195006",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Polizeidatenbanken:_Wer_ist_drin,_wer_will_raus%3F",
+                "logo": null,
+                "date": "2019-12-29T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "1:30",
+                "room": "Assembly:C-base / CCC-B / xHain",
+                "slug": "36c3-1504-session_polizeidatenbanken_wer_ist_drin_wer_will_raus_",
+                "title": "Polizeidatenbanken: Wer ist drin, wer will raus?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Polizeidatenbanken: Was, wer, warum, wohin?\nWollt ihr ein Auskunftsersuchen bei der Polizei stellen, um rauszukriegen, was sie \u00fcber euch denken und warum ihr st\u00e4ndig gefilzt werden (wenn das so ist)?  Habt ihr das schon gemacht und wollt  wissen, was der Kram hei\u00dft und wie ihr in wegkriegt?  Oder seid ihr einfach neugierig auf die j\u00fcngsten Bl\u00fcten der Verdatung von \"Sicherheit\"?  Was immer: Bei dieser Session seid ihr richtig.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Demi",
+                    "public_name": "Demi"
+                  }
+                ],
+                "links": [
+                  "https://datenschmutz.de"
+                ]
+              }
+            ],
             "Assembly:Chaos West": [
               {
                 "id": 1528,
@@ -35375,36 +35092,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "Assembly:C-base / CCC-B / xHain": [
-              {
-                "id": 1504,
-                "guid": "335f2235-cc22-4023-adcd-ddecc6195006",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Polizeidatenbanken:_Wer_ist_drin,_wer_will_raus%3F",
-                "logo": null,
-                "date": "2019-12-29T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "1:30",
-                "room": "Assembly:C-base / CCC-B / xHain",
-                "slug": "36c3-1504-session_polizeidatenbanken_wer_ist_drin_wer_will_raus_",
-                "title": "Polizeidatenbanken: Wer ist drin, wer will raus?",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "de",
-                "abstract": "",
-                "description": "Polizeidatenbanken: Was, wer, warum, wohin?\nWollt ihr ein Auskunftsersuchen bei der Polizei stellen, um rauszukriegen, was sie \u00fcber euch denken und warum ihr st\u00e4ndig gefilzt werden (wenn das so ist)?  Habt ihr das schon gemacht und wollt  wissen, was der Kram hei\u00dft und wie ihr in wegkriegt?  Oder seid ihr einfach neugierig auf die j\u00fcngsten Bl\u00fcten der Verdatung von \"Sicherheit\"?  Was immer: Bei dieser Session seid ihr richtig.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Demi",
-                    "public_name": "Demi"
-                  }
-                ],
-                "links": [
-                  "https://datenschmutz.de"
-                ]
               }
             ],
             "Assembly:Milliways": [
@@ -37980,34 +37667,6 @@
                 "links": []
               },
               {
-                "id": 1677,
-                "guid": "da94f260-5825-40b3-a44b-64ee951d32fd",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Chaos_needs_Hackbases",
-                "logo": null,
-                "date": "2019-12-30T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "1:00",
-                "room": "Lecture room M3",
-                "slug": "36c3-1677-session_chaos_needs_hackbases",
-                "title": "Chaos needs Hackbases",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "",
-                "abstract": "",
-                "description": "Chaos is brought by things not unlike hackbases!\nWho knows?Maybe this will change!For now, see    https://wiki.hackerspaces.org/Hackbaseand    https://totalism.org",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dcht00",
-                    "public_name": "Dcht00"
-                  }
-                ],
-                "links": [
-                  "https://pad.land/hackbases"
-                ]
-              },
-              {
                 "id": 1467,
                 "guid": "233928f9-841b-4474-88bd-b1deecad2c3f",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Das_Gutachten_der_Datenethikkommission_-_eine_praktische_Diskussion",
@@ -38060,6 +37719,60 @@
                 "links": [
                   "https://engelsystem.de/36c3/"
                 ]
+              },
+              {
+                "id": 1677,
+                "guid": "da94f260-5825-40b3-a44b-64ee951d32fd",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackbases_or_Barbarianism",
+                "logo": null,
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "1:00",
+                "room": "Lecture room M3",
+                "slug": "36c3-1677-session_hackbases_or_barbarianism",
+                "title": "Hackbases or Barbarianism",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "Chaos is brought by things not unlike hackbases!\nHackbases are similar to hackerspaces but people also live in them.https://wiki.hackerspaces.org/Hackbase <--- list of hackbases etcjoin #hackbases on Freenode !See:* https://wiki.hackerspaces.org/Hackbase* https://totalism.orgSOME INTERESTS:    Self-sustainability, off-grid, autarky / resilience and temporary architecture research & alternative construction // Free software and free hardware development // Free Industry // Open data, workflow and organisational technology, Tektology //Digital nomadism // Critical theory // Sound studio, bands, Intermedia Art // Growing food // Renewable energy technologies // Nootropics // A nomad hacker lifestyle in a network of hacklabs // \"Coliving\" and \"Coworking\" // Hacker camp // Financial and temporal freedom // Autonomy // YOUR INTEREST HERE",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dcht00",
+                    "public_name": "Dcht00"
+                  }
+                ],
+                "links": [
+                  "https://pad.land/hackbases"
+                ]
+              },
+              {
+                "id": 1678,
+                "guid": "02bf8ab7-4467-464a-b0d0-4c79b5e860d6",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hackbases_or_barbarianism",
+                "logo": null,
+                "date": "2019-12-30T11:15:00+01:00",
+                "start": "11:15",
+                "duration": "0:45",
+                "room": "Lecture room M3",
+                "slug": "36c3-1678-session_hackbases_or_barbarianism",
+                "title": "Hackbases or barbarianism",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "",
+                "abstract": "",
+                "description": "\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dcht00",
+                    "public_name": "Dcht00"
+                  }
+                ],
+                "links": []
               }
             ],
             "Discotheque Nouveauancien": [

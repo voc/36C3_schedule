@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-29 23:40</version>
+  <version>2019-12-29 23:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -12442,27 +12442,6 @@ Let us chat about microG, your usecase, issues when using it or whatever else is
         </persons>
         <links/>
       </event>
-      <event id="1620" guid="6e8adf4f-5e81-4fbd-83f4-68c1454c837a">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:No_satisfaction_without_penetration</url>
-        <logo/>
-        <date>2019-12-30T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>2:00</duration>
-        <room>Seminar room 13</room>
-        <slug>36c3-1620-session_no_satisfaction_without_penetration</slug>
-        <title>No satisfaction without penetration</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Lecture/Hands-on combined security workshop
-'''Update 28.12.2019: Workshop date was changed to 30.12/10:00 due to travel problems. We try to be there in time but this can't be guaranteed :/ Sorry for the inconvenience!'''This workshop is a mix of a lecture about the basic principles of vulnerabilities and security-hackits.You'll learn about the problem behind vulnerabilities in the first step and you can tryto exploit those vulnerabilities afterwards (hands on!). The hacks could be applied to varioustopic fields like embedded/automotive, web etc. It's all about the fun of pentesting.Please note: You need some average knowledge in Python scripting or alterantivelly you can just attend the lecture (but won't be able to do the practical parts).Requirements (Please read carefully):-&gt; Minimum average knowledge in Python scripting. You'll be given some code snippets to begin with and create your hacks. Optionally you can use your own language but support is not guaranteed!-&gt; Hardware: Your own Laptop/PC with network connection-&gt; Software: Linux based OS with Python installed. The following libraries have to be installed:https://gitlab.com/mike01/pypackerhttps://github.com/twisted/twisted</description>
-        <persons>
-          <person id="0">Mike</person>
-        </persons>
-        <links/>
-      </event>
     </room>
     <room name="Lecture room M3">
       <event id="1129" guid="c6651dbd-6541-43ed-ba37-5e9097a97df8">
@@ -12924,7 +12903,7 @@ Geigerzähler– Hardwarebasteln mit LoRaWAN &amp; WiFiWir sind die Ecocurious-I
         <language>en</language>
         <abstract/>
         <description>an invitation to join c3sus orga team
-get to know the c3sus team and what we do and join in if you want to</description>
+anyone with interest in making ccc events more sustainable, has time and energy to volunteer before and during the events is welcome to join our team :-)</description>
         <persons>
           <person id="0">Aimeejulia</person>
         </persons>

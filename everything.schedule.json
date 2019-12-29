@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 23:40",
+    "version": "mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 23:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -37483,7 +37483,7 @@
                 "type": "Lightning Talk",
                 "language": "en",
                 "abstract": "At the Freilab Freiburg e.V. we developed a new digital tally sheet that is easily deployable and fun to use.",
-                "description": "In this talk I will introduce the software design and hardware deployment of a cheap, yet sexy solution for counting Mate consumption per user.",
+                "description": "In this talk I introduce the software design and hardware deployment of a cheap, yet intuitive to use solution for counting Mate consumption per user. It serves as an example of how simple both hardware and software setup of a digital tally sheet can really be without compromising on the user experience.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -39027,32 +39027,6 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Larma",
                     "public_name": "Larma"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1620,
-                "guid": "6e8adf4f-5e81-4fbd-83f4-68c1454c837a",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:No_satisfaction_without_penetration",
-                "logo": null,
-                "date": "2019-12-30T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "2:00",
-                "room": "Seminar room 13",
-                "slug": "36c3-1620-session_no_satisfaction_without_penetration",
-                "title": "No satisfaction without penetration",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "",
-                "description": "Lecture/Hands-on combined security workshop\n'''Update 28.12.2019: Workshop date was changed to 30.12/10:00 due to travel problems. We try to be there in time but this can't be guaranteed :/ Sorry for the inconvenience!'''This workshop is a mix of a lecture about the basic principles of vulnerabilities and security-hackits.You'll learn about the problem behind vulnerabilities in the first step and you can tryto exploit those vulnerabilities afterwards (hands on!). The hacks could be applied to varioustopic fields like embedded/automotive, web etc. It's all about the fun of pentesting.Please note: You need some average knowledge in Python scripting or alterantivelly you can just attend the lecture (but won't be able to do the practical parts).Requirements (Please read carefully):-> Minimum average knowledge in Python scripting. You'll be given some code snippets to begin with and create your hacks. Optionally you can use your own language but support is not guaranteed!-> Hardware: Your own Laptop/PC with network connection-> Software: Linux based OS with Python installed. The following libraries have to be installed:https://gitlab.com/mike01/pypackerhttps://github.com/twisted/twisted",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mike",
-                    "public_name": "Mike"
                   }
                 ],
                 "links": []
@@ -40631,7 +40605,7 @@
                 "type": "meeting",
                 "language": "en",
                 "abstract": "",
-                "description": "an invitation to join c3sus orga team\nget to know the c3sus team and what we do and join in if you want to",
+                "description": "an invitation to join c3sus orga team\nanyone with interest in making ccc events more sustainable, has time and energy to volunteer before and during the events is welcome to join our team :-)",
                 "persons": [
                   {
                     "id": 0,

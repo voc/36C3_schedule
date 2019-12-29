@@ -1,5 +1,5 @@
 <schedule>
-  <version>kill; lounges 303; chaos-west 1.0; open-infra 20; wikipaka 0.16; chaoszone 0.10; komona 0.26; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 11:20</version>
+  <version>kill; lounges 303; chaos-west 1.0; open-infra 20; wikipaka 0.16; chaoszone 0.10; komona 0.26; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 11:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -3390,7 +3390,9 @@ Ich stelle am Beispiel von binären Zahlen vor, wie Montessorimaterial funktioni
         <persons>
           <person id="0">Schnuppi</person>
         </persons>
-        <links/>
+        <links>
+          <link>http://www.schrottschnuppe.de</link>
+        </links>
       </event>
       <event id="1173" guid="a1ad3239-5d41-4700-b210-4b2013a91814">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Delta_Chat_Hands_On:_Development_Status_iOS,_Android,_%26_Desktop</url>
@@ -24090,7 +24092,9 @@ Ein Meeting für Mitglieder - und in geringem Umfang auch Interessierte - der im
         <persons>
           <person id="0">Schnuppi</person>
         </persons>
-        <links/>
+        <links>
+          <link>http://www.schrottschnuppe.de</link>
+        </links>
       </event>
       <event id="1118" guid="5401dff1-b4a7-47b7-8c42-70c4b453b338">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Community_Accountability</url>
@@ -28251,7 +28255,7 @@ This lecture describes the Almonit project, its architecture and technical detai
       </event>
       <event id="4342" guid="5f2b8719-3f3b-4b24-9c6b-56f9d30f85fb">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/142.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/000/142/large/logo_rot.png?1577615982</logo>
         <date>2019-12-29T13:50:00+01:00</date>
         <start>13:50</start>
         <duration>00:30</duration>
@@ -28272,7 +28276,9 @@ This lecture describes the Almonit project, its architecture and technical detai
           <person id="113">jans</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/000/085/original/Why_your_project_should_support_passwordless_login__FIDO2__WebAuthn.pdf?1577615983">Presentation slides</attachment>
+        </attachments>
       </event>
       <event id="4295" guid="dbbd262a-1039-4a58-a185-dcbbfec8c816">
         <url>https://frab.riat.at/en/36C3/public/schedule/events/95.html</url>

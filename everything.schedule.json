@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 20; wikipaka 0.16; chaoszone 0.10; komona 0.26; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 11:20",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 20; wikipaka 0.16; chaoszone 0.10; komona 0.26; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 11:40",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -3654,7 +3654,9 @@
                     "public_name": "Schnuppi"
                   }
                 ],
-                "links": []
+                "links": [
+                  "http://www.schrottschnuppe.de"
+                ]
               },
               {
                 "id": 1173,
@@ -27428,7 +27430,9 @@
                     "public_name": "Schnuppi"
                   }
                 ],
-                "links": []
+                "links": [
+                  "http://www.schrottschnuppe.de"
+                ]
               },
               {
                 "id": 1118,
@@ -32032,7 +32036,7 @@
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/142.html",
                 "id": 4342,
                 "guid": "5f2b8719-3f3b-4b24-9c6b-56f9d30f85fb",
-                "logo": null,
+                "logo": "/system/events/logos/000/000/142/large/logo_rot.png?1577615982",
                 "date": "2019-12-29T13:50:00+01:00",
                 "start": "13:50",
                 "duration": "00:30",
@@ -32054,7 +32058,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/085/original/Why_your_project_should_support_passwordless_login__FIDO2__WebAuthn.pdf?1577615983",
+                    "title": "Presentation slides"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/95.html",

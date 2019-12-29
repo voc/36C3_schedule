@@ -14216,7 +14216,7 @@
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/142.html",
                 "id": 4342,
                 "guid": "5f2b8719-3f3b-4b24-9c6b-56f9d30f85fb",
-                "logo": null,
+                "logo": "/system/events/logos/000/000/142/large/logo_rot.png?1577615982",
                 "date": "2019-12-29T13:50:00+01:00",
                 "start": "13:50",
                 "duration": "00:30",
@@ -14238,7 +14238,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/085/original/Why_your_project_should_support_passwordless_login__FIDO2__WebAuthn.pdf?1577615983",
+                    "title": "Presentation slides"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/95.html",

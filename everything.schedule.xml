@@ -1,5 +1,5 @@
 <schedule>
-  <version>locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.29; sendezentrum 4.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 18:20</version>
+  <version>locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.29; sendezentrum 4.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 18:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -28661,7 +28661,9 @@ This lecture describes the Almonit project, its architecture and technical detai
           <license/>
           <optout>false</optout>
         </recording>
-        <persons/>
+        <persons>
+          <person id="125">fluffypony</person>
+        </persons>
         <links/>
         <attachments/>
       </event>

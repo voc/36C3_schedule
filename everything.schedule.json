@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.29; sendezentrum 4.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 18:20",
+    "version": "locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.29; sendezentrum 4.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 18:30",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -32562,7 +32562,12 @@
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
-                "persons": [],
+                "persons": [
+                  {
+                    "id": 125,
+                    "public_name": "fluffypony"
+                  }
+                ],
                 "links": [],
                 "attachments": []
               },

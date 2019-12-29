@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "locate; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3",
+    "version": "mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -9599,7 +9599,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/106/original/36C3_-_Snowden_Refugees_Talk_-_29_Dec_2019_%28F%29.pdf?1577652191",
+                    "title": "Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10961.html",
@@ -10921,7 +10926,7 @@
                 "type": "lecture",
                 "language": "en",
                 "abstract": "OpenBSD markets itself as a secure operating system, but doesn't provide much evidences to back this claim. The goal of this talk is to evaluate how effective OpenBSD's security mitigation are, in a systematic, rational and comprehensive way.",
-                "description": "<a href=\"https://openbsd.org\">OpenBSD's website</a> advertises a secure and modern operating system, with cool and modern mitigations. But no rational analysis is provided: are those mitigations effective? what are their impacts on performances, inspectability and complexity? against what are they supposed to defend? how easy are they to bypass? where they invented by OpenBSD or by others? is OpenBSD's reputation warranted?\r\n\r\nThis talk aims at answering all those questions, for all OpenBSD's mitigations, because, in the words of <a href=\"https://twitter.com/ryiron/status/1150924668020203521\">Ryan Mallon</a>:\r\n\r\n<quote>Threat modelling rule of thumb: if you don\u2019t explain exactly what you are securing against and how you secure against it, the answers can be assumed to be: \u201cbears\u201d and \u201cnot very well\u201d.</quote>\r\n\r\nFor example, OpenBSD added last year a <a href=\"https://man.openbsd.org/mmap.2#MAP_STACK\">MAP_STACK</a> flag to its <code>mmap</code> function, and branded it as a security measure against \"ROPchains\". But this mitigation used to be part of Windows until 2012, and was removed because of at least generic public bypasses. It's also implemented on Linux since 2008, but for other reasons :)\r\n\r\nAll the research done for this talk is available on <a href=\"https://isopenbsdsecu.re\">isopenbsdsecu.re</a>",
+                "description": "<a href=\"https://openbsd.org\">OpenBSD's website</a> advertises a secure and modern operating system, with cool and modern mitigations. But no rational analysis is provided: are those mitigations effective? what are their impacts on performances, inspectability and complexity? against what are they supposed to defend? how easy are they to bypass? where they invented by OpenBSD or by others? is OpenBSD's reputation warranted?\r\n\r\nThis talk aims at answering all those questions, for all OpenBSD's mitigations, because, in the words of <a href=\"https://twitter.com/ryiron/status/1150924668020203521\">Ryan Mallon</a>:\r\n\r\n<quote>Threat modelling rule of thumb: if you don\u2019t explain exactly what you are securing against and how you secure against it, the answers can be assumed to be: \u201cbears\u201d and \u201cnot very well\u201d.</quote>\r\n\r\nAll the research done for this talk is available on <a href=\"https://isopenbsdsecu.re\">isopenbsdsecu.re</a>",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -11102,7 +11107,16 @@
                     "title": "Campaigns Page on this topic on Privacy Internationals website"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/104/original/PDF_36c3_No_body_business_but_mine-Sunday29th.pdf?1577638803",
+                    "title": "PDF_36c3_No_body_business_but_mine-Sunday29th.pdf"
+                  },
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "file"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10506.html",
@@ -11181,7 +11195,7 @@
                 "links": [],
                 "attachments": [
                   {
-                    "url": "/system/event_attachments/attachments/000/004/085/original/36c3-hacking-tpm.pdf?1577584803",
+                    "url": "/system/event_attachments/attachments/000/004/103/original/36c3-hacking-tpm.pdf?1577638444",
                     "title": "Slides"
                   }
                 ]
@@ -11345,7 +11359,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/102/original/Getting_software_right_with_properties__generated_tests__and_proofs.pdf?1577635859",
+                    "title": "Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10630.html",
@@ -11729,7 +11748,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/099/original/provable-insecurity.pdf?1577629521",
+                    "title": "slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11043.html",
@@ -15870,7 +15894,12 @@
                     "title": "Projektbeschreibung beim Prototypefund"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/101/original/slides_fairtronics.pdf?1577633170",
+                    "title": "Fairtronics Pr\u00e4sentation"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10919.html",

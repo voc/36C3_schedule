@@ -1,5 +1,5 @@
 <schedule>
-  <version>locate; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 22:40</version>
+  <version>mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 22:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -19991,7 +19991,9 @@ The lecture will cover the current global erosion and dismantling of internation
           <person id="8026">Edward Snowden</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/106/original/36C3_-_Snowden_Refugees_Talk_-_29_Dec_2019_%28F%29.pdf?1577652191">Slides</attachment>
+        </attachments>
       </event>
       <event id="10961" guid="47f6e51b-54ca-4c72-844f-ffd0f979279a">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10961.html</url>
@@ -21145,8 +21147,6 @@ This talk aims at answering all those questions, for all OpenBSD's mitigations, 
 &#13;
 &lt;quote&gt;Threat modelling rule of thumb: if you don’t explain exactly what you are securing against and how you secure against it, the answers can be assumed to be: “bears” and “not very well”.&lt;/quote&gt;&#13;
 &#13;
-For example, OpenBSD added last year a &lt;a href="https://man.openbsd.org/mmap.2#MAP_STACK"&gt;MAP_STACK&lt;/a&gt; flag to its &lt;code&gt;mmap&lt;/code&gt; function, and branded it as a security measure against "ROPchains". But this mitigation used to be part of Windows until 2012, and was removed because of at least generic public bypasses. It's also implemented on Linux since 2008, but for other reasons :)&#13;
-&#13;
 All the research done for this talk is available on &lt;a href="https://isopenbsdsecu.re"&gt;isopenbsdsecu.re&lt;/a&gt;</description>
         <recording>
           <license/>
@@ -21333,7 +21333,10 @@ In this talk, we will take you through the research we have conducted by using P
           <link href="https://privacyintyqcroe.onion/long-read/3196/no-bodys-business-mine-how-menstruation-apps-are-sharing-your-data">Project Page on Privacy International's website (Onion)</link>
           <link href="https://privacyinternational.org/campaigns/no-bodys-business-mine">Campaigns Page on this topic on Privacy Internationals website</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/104/original/PDF_36c3_No_body_business_but_mine-Sunday29th.pdf?1577638803">PDF_36c3_No_body_business_but_mine-Sunday29th.pdf</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="10506" guid="6a8a2bfc-cc63-4938-8895-8ea84ba1544f">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10506.html</url>
@@ -21417,7 +21420,7 @@ The talk will give some deeper explanations into each of these and possibly some
         </persons>
         <links/>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/004/085/original/36c3-hacking-tpm.pdf?1577584803">Slides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/004/103/original/36c3-hacking-tpm.pdf?1577638444">Slides</attachment>
         </attachments>
       </event>
       <event id="10968" guid="c0a8c771-f942-41da-bdc8-f031ae53a353">
@@ -21547,7 +21550,9 @@ Im zweiten Teil geht es um das eigentliche e-Bike-Projekt. Der Vortrag erzählt 
           <person id="7686">Mike Sperber</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/102/original/Getting_software_right_with_properties__generated_tests__and_proofs.pdf?1577635859">Slides</attachment>
+        </attachments>
       </event>
       <event id="10630" guid="3be4da1b-7efd-4ab3-9f51-297c42c06d6a">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10630.html</url>
@@ -21899,7 +21904,9 @@ Did you ever wonder why programmers use hash functions without keys while crypto
           <person id="9747">Claus Diem</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/099/original/provable-insecurity.pdf?1577629521">slides</attachment>
+        </attachments>
       </event>
       <event id="11043" guid="1dc2e3b8-8437-4b1e-8252-412be2b6ec5a">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11043.html</url>
@@ -32835,7 +32842,9 @@ In this talk, you will learn about the risks associated with electronics, how th
         <links>
           <link href="https://prototypefund.de/project/portal-sozialbilanz-elektronik-pse/">Projektbeschreibung beim Prototypefund</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/004/101/original/slides_fairtronics.pdf?1577633170">Fairtronics Präsentation</attachment>
+        </attachments>
       </event>
       <event id="10919" guid="2fb147d5-27be-49a4-a85c-998940f3ae46">
         <url>https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10919.html</url>

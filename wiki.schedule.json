@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-29 14:40",
+    "version": "2019-12-29 15:00",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -13149,22 +13149,22 @@
                 "links": []
               },
               {
-                "id": 1714,
-                "guid": "4cdbfb47-ed1e-429b-9389-643521ef9e96",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Google-sensei_und_Leiharbeit_-_IT_in_Japan_(Zugabe_1)",
+                "id": 1715,
+                "guid": "2456fdf7-f4d2-458a-9b85-2313058f9ec8",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Google-Sensei_and_Contract_Work_-_IT_in_Japan",
                 "logo": null,
                 "date": "2019-12-29T18:45:00+01:00",
                 "start": "18:45",
                 "duration": "1:15",
                 "room": "Lecture room 12",
-                "slug": "36c3-1714-session_google_sensei_und_leiharbeit_it_in_japan_zugabe_1_",
-                "title": "Google-sensei und Leiharbeit - IT in Japan (Zugabe 1)",
+                "slug": "36c3-1715-session_google_sensei_and_contract_work_it_in_japan",
+                "title": "Google-Sensei and Contract Work - IT in Japan",
                 "subtitle": "",
                 "track": "self organized sessions",
                 "type": "talk",
-                "language": "de",
+                "language": "en",
                 "abstract": "",
-                "description": "Japan ist neben vielen Dingen auch als Land der Technik bekannt. Vor allem Games aller Art und Hardware aus Japan sind weltweit verbreitet, aber kennt irgendwer gute japanische Software? Wie IT in Japan von innen aussieht, und ob das Land wirklich so hightech ist wie man vielleicht denken mag, berichtet eine zur\u00fcckgekehrte Deutsche.\n'''DAS IST GENAU DER GLEICHE TALK WIE HEUTE FRUEH, nur nochmal, da es viele Personen gab, die leider keinen Platz mehr hatten.'''Ich bin nach abgeschlossenem Japanologie-Studium nach Japan gegangen und bin komplett fachfremd in der IT gelandet. Meine anf\u00e4ngliche Euphorie zum Engineer (\"Enjinia\") ausgebildet zu werden ist schnell der Realit\u00e4t aus sturem Auswendiglernen, E-Mails, die zu 70% aus Floskeln bestehen, und dem Erlernen von f\u00f6rmlich korrektem Austausch von Visitenkarten gewichen. Inmitten von allerlei Kuriosit\u00e4ten durfte ich aber auch f\u00fcr mich sehr wertvolle Erfahrungen machen, wie etwa die Teilnahme als STM (\"Shownet Team Member\") f\u00fcr das ShowNet, eine gro\u00dfe Pr\u00e4sentation von bleeding-edge Netzwerk-Technologie auf der Interop Tokyo (https://www.interop.jp/shownet/?lang=en). Von April 2017 bis Juni 2019 habe ich nun also die IT-Welt in Japan hautnah erlebt und kann einiges berichten. Ich w\u00fcrde neben der ein oder anderen Kurisoit\u00e4t (z.B. dass der Minister f\u00fcr Cyber-Security nicht wei\u00df, wie man einen USB-Stick benutzt (https://www.theguardian.com/world/2018/nov/15/japan-cyber-security-ministernever-used-computer-yoshitaka-sakurada)) \u00fcber grundlegendere Probleme (z.B. Bildungssystem, mangelnde Englisch-Kenntnisse) und wie damit umgegangen wird (z.B. viele Meetups und Communities) erz\u00e4hlen. Der Talk ist also weniger technisch als mehr erz\u00e4hlerisch gedacht. Als Zielgruppe sehe ich Leute, die Interesse an Japan als Land haben und Leute, die gesch\u00e4ftlich mit japanischen Firmen zu tun haben oder dies in Erw\u00e4gung ziehen.",
+                "description": "Japan is especially known for its technology among other things. Games and hardware of all kinds from Japan are everywhere but does anyone know good Japanese software? What IT in Japan looks like from inside and if Japan really is as high-tech as it is made out to be is the topic of this talk as experienced by a young German.\n'''THIS IS THE EXACT SAME TALK AS THIS MORNING, but again and in English.'''After I finished studying Japanology I went to Japan and without any knowledge landed an IT job. My euphoria of becoming an engineer (\"Enjinia\") was quickly replaced by the harsh reality of rote memorization, E-Mails that are 70% formalities and learning how to correctly exchange business cards. But despite all these curiosities there were valuable experiences along the way like taking part as an STM (\"Shownet Team Member\") for ShowNet, or a big presentation of bleeding-edge network technology at the Interop Tokyo (https://www.interop.jp/shownet/?lang=en). From April 2017 until June 2019 I experienced IT in Japan up close and now I want to tell you about it. I'll talk about wacky things like how Japan's Minister for Cyber Security doesn't know how to use a USB Stick (https://www.theguardian.com/world/2018/nov/15/japan-cyber-security-ministernever-used-computer-yoshitaka-sakurada)), general problems (e.g. education system, lack of English skills) and how they work around all of it (e.g. lots of meetups and communities).   This talk is less about technical stuff and more anecdotal experience showcase. It is for everyone who is interested in Japan or working with companies from there or thinking about doing so.",
                 "persons": [
                   {
                     "id": 0,
@@ -14331,6 +14331,60 @@
                 "links": []
               }
             ],
+            "Assembly:Hardware Slackers": [
+              {
+                "id": 1716,
+                "guid": "e5ed86e6-e0e7-4dd6-b64f-64c491f2127f",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Introduction_to_Voltage_Glitching",
+                "logo": null,
+                "date": "2019-12-29T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "1:00",
+                "room": "Assembly:Hardware Slackers",
+                "slug": "36c3-1716-session_introduction_to_voltage_glitching",
+                "title": "Introduction to Voltage Glitching",
+                "subtitle": "beta testing",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Voltage glitching for beginners, with fun and faults\n'''Please drop by the Hardware Slackers assembly FIRST and complete the 5 minute Xbox controller fault injection challenge!'''We'll be doing some mini-workshops on voltage glitching (fault injection). We'll explain the basics, and then let people play around a bit with voltage fault injection setups themselves.We are very limited in space/resources so feel free to also drop by at a random time and see if we're around.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Noopwafel",
+                    "public_name": "Noopwafel"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1717,
+                "guid": "067fd1ff-32cf-5514-80fc-b9656dea033b",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Introduction_to_Voltage_Glitching",
+                "logo": null,
+                "date": "2019-12-29T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "1:00",
+                "room": "Assembly:Hardware Slackers",
+                "slug": "36c3-1717-session_introduction_to_voltage_glitching",
+                "title": "Introduction to Voltage Glitching",
+                "subtitle": "beta testing 2",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Voltage glitching for beginners, with fun and faults\n'''Please drop by the Hardware Slackers assembly FIRST and complete the 5 minute Xbox controller fault injection challenge!'''We'll be doing some mini-workshops on voltage glitching (fault injection). We'll explain the basics, and then let people play around a bit with voltage fault injection setups themselves.We are very limited in space/resources so feel free to also drop by at a random time and see if we're around.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Noopwafel",
+                    "public_name": "Noopwafel"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Assembly:JuliaLang": [
               {
                 "id": 1650,
@@ -14981,7 +15035,7 @@
                 "links": []
               }
             ],
-            "Assembly:ChaosZone": [
+            "CCL -1": [
               {
                 "id": 1664,
                 "guid": "10a0d09a-518e-4eaf-845e-44885999dc8a",
@@ -14990,7 +15044,7 @@
                 "date": "2019-12-29T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "1:00",
-                "room": "Assembly:ChaosZone",
+                "room": "CCL -1",
                 "slug": "36c3-1664-session_self_organization_with_getting_things_done_bullet_journaling_and_co",
                 "title": "Self-Organization with Getting Things Done, Bullet Journaling and Co",
                 "subtitle": "",
@@ -14998,7 +15052,7 @@
                 "type": "discussion",
                 "language": "de",
                 "abstract": "",
-                "description": "Open exchange for people who enjoy the tidy way of organizing oneself or who want to meet people who do so. Take your favorite todo list tool, self-orga methology or $thing and tell us how it helps you stay organized, well-informed or otherwise helps you living a well life. Remember: There's no method or tool that suits everyone and everyone has different priorities!",
+                "description": "Open exchange for people who enjoy the tidy way of organizing oneself or who want to meet people who do so. Take your favorite todo list tool, self-orga methology or $thing and tell us how it helps you stay organized, well-informed or otherwise helps you living a well life. Remember: There's no method or tool that suits everyone and everyone has different priorities!\nHow do you organize yourself? Introduce your workflow and your toolchain.It's also okay to talk about proprietary software (e. g. Trello) here.Feel free to put your item on this Agenda: https://pad.stratum0.org/p/36c3-selforganizationLet's meet at the water pond at CCL, basement layer(https://36c3.c3nav.de/l/c:-1:250.78:365.0/).",
                 "persons": [
                   {
                     "id": 0,
@@ -16163,6 +16217,34 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Britt",
                     "public_name": "Britt"
+                  }
+                ],
+                "links": []
+              }
+            ],
+            "Assembly:Hardware Slackers": [
+              {
+                "id": 1718,
+                "guid": "24416463-5489-548d-9d9c-b033e423fc7c",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Introduction_to_Voltage_Glitching",
+                "logo": null,
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "1:00",
+                "room": "Assembly:Hardware Slackers",
+                "slug": "36c3-1718-session_introduction_to_voltage_glitching",
+                "title": "Introduction to Voltage Glitching",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Voltage glitching for beginners, with fun and faults\n'''Please drop by the Hardware Slackers assembly FIRST and complete the 5 minute Xbox controller fault injection challenge!'''We'll be doing some mini-workshops on voltage glitching (fault injection). We'll explain the basics, and then let people play around a bit with voltage fault injection setups themselves.We are very limited in space/resources so feel free to also drop by at a random time and see if we're around.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Noopwafel",
+                    "public_name": "Noopwafel"
                   }
                 ],
                 "links": []

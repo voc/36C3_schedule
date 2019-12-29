@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.29; sendezentrum 4.4; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 18:00",
+    "version": "locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.29; sendezentrum 4.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 18:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -14121,7 +14121,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "We will get to know the almost forgotten mother of OO Programming environments. For beginners and intermediate/experts alike.\nWe will get to know an old odditiy of programming languages: Smalltalk the mother of all Object Oriented Programming languages.After a short introduction we will try to get to know the system and implement a tiny game.Bring your own laptops please.* Slides: https://vernunftzentrum.de/36c3/smalltalk2019.pdf* VM Image: https://vernunftzentrum.de/36c3/workshop.image.gz* Example: https://vernunftzentrum.de/36c3/SBE-Quinto.st* An older Talk (in german): https://vernunftzentrum.de/36c3/smalltalk.pdf",
+                "description": "We will get to know the almost forgotten mother of OO Programming environments. For beginners and intermediate/experts alike.\nWe will get to know an old odditiy of programming languages: Smalltalk the mother of all Object Oriented Programming languages.After a short introduction we will try to get to know the system and implement a tiny game.Bring your own laptops please.* Slides: https://vernunftzentrum.de/36c3/smalltalk2019.pdf* VM Image: https://vernunftzentrum.de/36c3/workshop.image.gz* Example: https://vernunftzentrum.de/36c3/SBE-Quinto.st* An older Talk (in german): https://vernunftzentrum.de/36c3/smalltalk.pdf[[File:Smalltalk notes.jpg|thumb|Smalltalk notes by  zerok@chaos.social ]]",
                 "persons": [
                   {
                     "id": 0,
@@ -26406,7 +26406,7 @@
                 "abstract": "Frage-Antwort-Runde mit einem Insider",
                 "description": "Wegen des gro\u00dfen Interesses an der self-organized-session am ersten Tag wird die Frage-Antwort-Runde auf der B\u00fchne des Sendezentrums wiederholt.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 145,
@@ -32655,7 +32655,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/092/original/CCC_Bitcoin_in_the_Post-Quantum_Era.pdf?1577639369",
+                    "title": "Bitcoin in the Post-Quantum Era"
+                  }
+                ]
               },
               {
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/160.html",

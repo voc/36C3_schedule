@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "locate; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 21:50",
+    "version": "locate; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 22:00",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -28115,6 +28115,32 @@
                 "links": []
               },
               {
+                "id": 1734,
+                "guid": "eee4a8e9-a6e9-49f8-8c0b-7b3c222548d4",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Chill_time_for_Japanese_talk",
+                "logo": null,
+                "date": "2019-12-30T01:45:00+01:00",
+                "start": "01:45",
+                "duration": "0:30",
+                "room": "Lecture room M1",
+                "slug": "36c3-1734-session_chill_time_for_japanese_talk",
+                "title": "Chill time for Japanese talk",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "discussion",
+                "language": "en",
+                "abstract": "",
+                "description": "This is a placeholder for the previous two sessions to push the Q&A to this timeslot or to dynamically start with the IT talk a bit later.\nIn case the listeners have a lot of question about the Japanese Reading talk (23:00-00:30) or the IT in Japan talk (00:30-01:45) this time slot will give us enough time to discuss a bit more :)This is not a stand-alone session but should be used by listeners of any of the two talks right before this talk to talk to the speakers Mona and Alex.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Taulex",
+                    "public_name": "Taulex"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1712,
                 "guid": "4cb31da7-7b42-403f-af33-6777796f48bb",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Google-sensei_und_Leiharbeit_-_IT_in_Japan_(Zugabe)",
@@ -39619,8 +39645,8 @@
                 "track": "Ethics, Society & Politics",
                 "type": "Workshop 1 hour",
                 "language": "de",
-                "abstract": "....",
-                "description": "",
+                "abstract": "Wir erz\u00e4hlen euch von den Aktionen unserer Initiative #wirsindderosten und wollen gemeinsam mit euch \u00fcber Ideen sprechen, ein fortschrittliches und demokratisches Bild von Ostdeutschland zu pushen.",
+                "description": "Mit #wirsindderosten machen wir Menschen in und aus Ostdeutschland sichtbar, die die Zukunft positiv gestalten. Damit Vorurteile abzubauen ist f\u00fcr uns nur der erste Schritt. Gemeinsam mit euch wollen wir 2020 weitergehen. Also, let\u2019s hack the east!",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [

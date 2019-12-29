@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-29 13:10",
+    "version": "2019-12-29 14:10",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -9903,6 +9903,34 @@
                 ]
               },
               {
+                "id": 1713,
+                "guid": "1e932a51-2cb7-401c-a5c7-22f8f6fe1217",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:GAN_CNN_OPENsauce_%C3%9CBERBLICK_UND_AUSBLICK_VON_MASCHINELLEM_LERNEN_punktZIP",
+                "logo": null,
+                "date": "2019-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "1:00",
+                "room": "Lecture room 11",
+                "slug": "36c3-1713-session_gan_cnn_opensauce_ueberblick_und_ausblick_von_maschinellem_lernen_punktzip",
+                "title": "GAN CNN OPENsauce \u00dcBERBLICK UND AUSBLICK VON MASCHINELLEM LERNEN punktZIP",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "GAN CNN media maschine\nDer Talk w\u00fcrde interessierten Personen der GAN (Generative Adversarial Networks) Struktur und die generell Grundlagenwissen \u00fcber Neuronale Netze erlagen wollen einen kurzen \u00dcberblick \u00fcber den Aufbau, das \"lernen\" und Open Source Implementierungen in diesem Bereich geben. DIES IST NUR EINE EINF\u00dcHRUNG mit Diskussion \u00fcber Anwendungsm\u00f6glichkeiten, rein Informativ! Notebook f\u00fcr Notizen mitbringen, und ich br\u00e4uchte einen MacBook 2009 miniDisplayPort zu HDMI f\u00fcr den Beamer. Freue mich \u00fcber interessierte Personen :)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Bimbelbi",
+                    "public_name": "Bimbelbi"
+                  }
+                ],
+                "links": [
+                  "https://github.com/eriklindernoren/PyTorch-GAN"
+                ]
+              },
+              {
                 "id": 1011,
                 "guid": "edac6192-3ec5-4810-b16f-2841228ac857",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Haecksenplenum",
@@ -10806,7 +10834,7 @@
                 "type": "discussion",
                 "language": "de",
                 "abstract": "",
-                "description": "Workshop zum Thema Mobbing/Gewalt an unseren Schulen\nWie funktioniert das System Mobbing in der Schule? Warum es an vielen Schulen heute nicht mehr um Lehrinhalte sondern um das Ausgleichen fehlender Sozialkompetenzen aus den Familien geht. Welche Strategien, sein gut sozialisiertes Kind aus der Mobbingfalle rauszubekommen und als Familie nicht daran zu scheitern. Wir m\u00f6chten Eure Erfahrungen h\u00f6ren und diskutieren. Wir haben Buchtipps, Anregungen zu Eigeninitiative und ein Projekt im Angebot.",
+                "description": "Workshop zum Thema Mobbing/Gewalt an unseren Schulen\nWie funktioniert das System Mobbing in der Schule? Warum es an vielen Schulen heute nicht mehr um Lehrinhalte sondern um das Ausgleichen fehlender Sozialkompetenzen aus den Familien geht. Welche Strategien, sein gut sozialisiertes Kind aus der Mobbingfalle rauszubekommen und als Familie nicht daran zu scheitern. Wir m\u00f6chten Eure Erfahrungen h\u00f6ren und diskutieren. Wir haben Buchtipps, Anregungen zu Eigeninitiative und ein Projekt im Angebot.Join our Telegram group: https://t.me/joinchat/Ean3ehebzZAmYXWEZIv4uA",
                 "persons": [
                   {
                     "id": 0,
@@ -12504,7 +12532,7 @@
                 "type": "talk",
                 "language": "en",
                 "abstract": "",
-                "description": "This is a talk about the foundational crisis in mathematics and its resolution, G\u00f6del incompleteness phenomena (\"there are true statements which are provably unprovable\"), unknowability concerning infinity (the continuum hypothesis) and a new philosophy which gives an intriguing and coherent common perspective on these topics.\nThe talk gives a primer to the set-theoretic multiverse philosophy put forward by Joel David Hamkins.To enjoy the the talk, you should have an interest in the intersection of mathematics and philosophy, but you don't need to bring any specific mathematical or logical prerequisites. This talk is an invitation to follow along and ask lots of questions on the way. :-)'''[https://iblech.gitlab.io/bb/multiverse.html Paper the talk is based on]'''",
+                "description": "This is a talk about the foundational crisis in mathematics and its resolution, G\u00f6del incompleteness phenomena (\"there are true statements which are provably unprovable\"), unknowability concerning infinity (the continuum hypothesis) and a new philosophy which gives an intriguing and coherent common perspective on these topics.\nThe talk gives a primer to the set-theoretic multiverse philosophy, which was recently put forward by Joel David Hamkins.To enjoy the the talk, you should have an interest in the intersection of mathematics and philosophy, but you don't need to bring any specific mathematical or logical prerequisites. This talk is an invitation to follow along and ask lots of questions on the way. :-)Note to participants of older talks about alternative mathematical universes: This talk does, for a change, not discuss the toposes of those talks. :-) It's about the new set-theoretic philosophy by Joel David Hamkins!'''[https://iblech.gitlab.io/bb/multiverse.html Paper the talk is based on]'''",
                 "persons": [
                   {
                     "id": 0,
@@ -12588,7 +12616,7 @@
                 "type": "talk",
                 "language": "de",
                 "abstract": "",
-                "description": "Japan ist neben vielen Dingen auch als Land der Technik bekannt. Vor allem Games aller Art und Hardware aus Japan sind weltweit verbreitet, aber kennt irgendwer gute japanische Software? Wie IT in Japan von innen aussieht, und ob das Land wirklich so hightech ist wie man vielleicht denken mag, berichtet eine zur\u00fcckgekehrte Deutsche.\nIch bin nach abgeschlossenem Japanologie-Studium nach Japan gegangen und bin komplett fachfremd in der IT gelandet. Meine anf\u00e4ngliche Euphorie zum Engineer (\"Enjinia\") ausgebildet zu werden ist schnell der Realit\u00e4t aus sturem Auswendiglernen, E-Mails, die zu 70% aus Floskeln bestehen, und dem Erlernen von f\u00f6rmlich korrektem Austausch von Visitenkarten gewichen. Inmitten von allerlei Kuriosit\u00e4ten durfte ich aber auch f\u00fcr mich sehr wertvolle Erfahrungen machen, wie etwa die Teilnahme als STM (\"Shownet Team Member\") f\u00fcr das ShowNet, eine gro\u00dfe Pr\u00e4sentation von bleeding-edge Netzwerk-Technologie auf der Interop Tokyo (https://www.interop.jp/shownet/?lang=en). Von April 2017 bis Juni 2019 habe ich nun also die IT-Welt in Japan hautnah erlebt und kann einiges berichten. Ich w\u00fcrde neben der ein oder anderen Kurisoit\u00e4t (z.B. dass der Minister f\u00fcr Cyber-Security nicht wei\u00df, wie man einen USB-Stick benutzt (https://www.theguardian.com/world/2018/nov/15/japan-cyber-security-ministernever-used-computer-yoshitaka-sakurada)) \u00fcber grundlegendere Probleme (z.B. Bildungssystem, mangelnde Englisch-Kenntnisse) und wie damit umgegangen wird (z.B. viele Meetups und Communities) erz\u00e4hlen. Der Talk ist also weniger technisch als mehr erz\u00e4hlerisch gedacht. Als Zielgruppe sehe ich Leute, die Interesse an Japan als Land haben und Leute, die gesch\u00e4ftlich mit japanischen Firmen zu tun haben oder dies in Erw\u00e4gung ziehen.",
+                "description": "Japan ist neben vielen Dingen auch als Land der Technik bekannt. Vor allem Games aller Art und Hardware aus Japan sind weltweit verbreitet, aber kennt irgendwer gute japanische Software? Wie IT in Japan von innen aussieht, und ob das Land wirklich so hightech ist wie man vielleicht denken mag, berichtet eine zur\u00fcckgekehrte Deutsche.\nIch bin nach abgeschlossenem Japanologie-Studium nach Japan gegangen und bin komplett fachfremd in der IT gelandet. Meine anf\u00e4ngliche Euphorie zum Engineer (\"Enjinia\") ausgebildet zu werden ist schnell der Realit\u00e4t aus sturem Auswendiglernen, E-Mails, die zu 70% aus Floskeln bestehen, und dem Erlernen von f\u00f6rmlich korrektem Austausch von Visitenkarten gewichen. Inmitten von allerlei Kuriosit\u00e4ten durfte ich aber auch f\u00fcr mich sehr wertvolle Erfahrungen machen, wie etwa die Teilnahme als STM (\"Shownet Team Member\") f\u00fcr das ShowNet, eine gro\u00dfe Pr\u00e4sentation von bleeding-edge Netzwerk-Technologie auf der Interop Tokyo (https://www.interop.jp/shownet/?lang=en). Von April 2017 bis Juni 2019 habe ich nun also die IT-Welt in Japan hautnah erlebt und kann einiges berichten. Ich w\u00fcrde neben der ein oder anderen Kurisoit\u00e4t (z.B. dass der Minister f\u00fcr Cyber-Security nicht wei\u00df, wie man einen USB-Stick benutzt (https://www.theguardian.com/world/2018/nov/15/japan-cyber-security-ministernever-used-computer-yoshitaka-sakurada)) \u00fcber grundlegendere Probleme (z.B. Bildungssystem, mangelnde Englisch-Kenntnisse) und wie damit umgegangen wird (z.B. viele Meetups und Communities) erz\u00e4hlen. Der Talk ist also weniger technisch als mehr erz\u00e4hlerisch gedacht. Als Zielgruppe sehe ich Leute, die Interesse an Japan als Land haben und Leute, die gesch\u00e4ftlich mit japanischen Firmen zu tun haben oder dies in Erw\u00e4gung ziehen.'''[[Session:Google-sensei_und_Leiharbeit_-_IT_in_Japan_(Zugabe_1)|Wiederholung 1 an Tag 3 um 19:00 Uhr in Lecture Room 12]]''''''[[Session:Google-sensei_und_Leiharbeit_-_IT_in_Japan_(Zugabe)|Wiederholung 2 an Tag 3 um 24:30 Uhr in M1]]'''",
                 "persons": [
                   {
                     "id": 0,
@@ -13100,7 +13128,7 @@
                 "type": "",
                 "language": "en",
                 "abstract": "",
-                "description": "Experience a guided tour through the first steps of programming. Simultaneously, you learn about imaginary numbers which, unlike any number you learn about in school, square to negative numbers. The end result will be a basic fractal viewer.\n",
+                "description": "Experience a guided tour through the first steps of programming. Simultaneously, you learn about imaginary numbers which, unlike any number you learn about in school, square to negative numbers. The end result will be a basic fractal viewer.\nBring something to sit on (for instance a jacket/coat), since the room we're in doesn't have any chairs.This is what a fractal looks like: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7m6NI5qKBmUPFXaFgcl0HxLGhRfKLdWdRwXNwQbctlfDkUVTvJQ&s",
                 "persons": [
                   {
                     "id": 0,
@@ -13116,6 +13144,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MichaelStruwe",
                     "public_name": "MichaelStruwe"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1714,
+                "guid": "4cdbfb47-ed1e-429b-9389-643521ef9e96",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Google-sensei_und_Leiharbeit_-_IT_in_Japan_(Zugabe_1)",
+                "logo": null,
+                "date": "2019-12-29T18:45:00+01:00",
+                "start": "18:45",
+                "duration": "1:15",
+                "room": "Lecture room 12",
+                "slug": "36c3-1714-session_google_sensei_und_leiharbeit_it_in_japan_zugabe_1_",
+                "title": "Google-sensei und Leiharbeit - IT in Japan (Zugabe 1)",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "de",
+                "abstract": "",
+                "description": "Japan ist neben vielen Dingen auch als Land der Technik bekannt. Vor allem Games aller Art und Hardware aus Japan sind weltweit verbreitet, aber kennt irgendwer gute japanische Software? Wie IT in Japan von innen aussieht, und ob das Land wirklich so hightech ist wie man vielleicht denken mag, berichtet eine zur\u00fcckgekehrte Deutsche.\n'''DAS IST GENAU DER GLEICHE TALK WIE HEUTE FRUEH, nur nochmal, da es viele Personen gab, die leider keinen Platz mehr hatten.'''Ich bin nach abgeschlossenem Japanologie-Studium nach Japan gegangen und bin komplett fachfremd in der IT gelandet. Meine anf\u00e4ngliche Euphorie zum Engineer (\"Enjinia\") ausgebildet zu werden ist schnell der Realit\u00e4t aus sturem Auswendiglernen, E-Mails, die zu 70% aus Floskeln bestehen, und dem Erlernen von f\u00f6rmlich korrektem Austausch von Visitenkarten gewichen. Inmitten von allerlei Kuriosit\u00e4ten durfte ich aber auch f\u00fcr mich sehr wertvolle Erfahrungen machen, wie etwa die Teilnahme als STM (\"Shownet Team Member\") f\u00fcr das ShowNet, eine gro\u00dfe Pr\u00e4sentation von bleeding-edge Netzwerk-Technologie auf der Interop Tokyo (https://www.interop.jp/shownet/?lang=en). Von April 2017 bis Juni 2019 habe ich nun also die IT-Welt in Japan hautnah erlebt und kann einiges berichten. Ich w\u00fcrde neben der ein oder anderen Kurisoit\u00e4t (z.B. dass der Minister f\u00fcr Cyber-Security nicht wei\u00df, wie man einen USB-Stick benutzt (https://www.theguardian.com/world/2018/nov/15/japan-cyber-security-ministernever-used-computer-yoshitaka-sakurada)) \u00fcber grundlegendere Probleme (z.B. Bildungssystem, mangelnde Englisch-Kenntnisse) und wie damit umgegangen wird (z.B. viele Meetups und Communities) erz\u00e4hlen. Der Talk ist also weniger technisch als mehr erz\u00e4hlerisch gedacht. Als Zielgruppe sehe ich Leute, die Interesse an Japan als Land haben und Leute, die gesch\u00e4ftlich mit japanischen Firmen zu tun haben oder dies in Erw\u00e4gung ziehen.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mona144",
+                    "public_name": "Mona144"
                   }
                 ],
                 "links": []

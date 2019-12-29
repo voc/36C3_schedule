@@ -1,5 +1,5 @@
 <schedule>
-  <version>locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.29; sendezentrum 4.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 18:30</version>
+  <version>locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.29; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 18:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -32679,6 +32679,34 @@ Link: https://github.com/rebuild-lang</description>
         </recording>
         <persons>
           <person id="208">Leander Seige</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="3230" guid="467c8b1c-e674-506d-9d50-32291c4c96b8">
+        <logo/>
+        <date>2019-12-30T13:25:00+01:00</date>
+        <start>13:25</start>
+        <duration>00:05</duration>
+        <room>Borg</room>
+        <slug>XJDQTD</slug>
+        <url>https://c3lt.de/36c3/talk/XJDQTD/</url>
+        <title>Kaboom: A cruel but fair Minesweeper</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Lightning Talk</type>
+        <language>en</language>
+        <abstract>What if you could play Minesweeper *against* the computer? I describe how I created a game that is always fair but will punish you for every mistake</abstract>
+        <description>Kaboom is a Minesweeper game that does not determine the mines beforehand, but makes them up as you play. While that sounds simple, it was surprisingly hard to get right and required me to do pretty interesting things, so I want to describe how I created the game.&#13;
+&#13;
+You can play the game at https://pwmarcz.pl/kaboom.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="210">pawel</person>
         </persons>
         <links/>
         <attachments/>

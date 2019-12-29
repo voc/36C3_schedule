@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.25; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 01:00",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.25; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 01:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -28145,7 +28145,7 @@
                 "type": "meeting",
                 "language": "de",
                 "abstract": "",
-                "description": "\n",
+                "description": "\n* What is European Digital Rights (EDRi)?* What is the CCC's role and what could it be?Short presentation and discussion by and with EDRi and CCC people.",
                 "persons": [
                   {
                     "id": 0,
@@ -37980,6 +37980,34 @@
                 "links": []
               },
               {
+                "id": 1677,
+                "guid": "da94f260-5825-40b3-a44b-64ee951d32fd",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Chaos_needs_Hackbases",
+                "logo": null,
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "1:00",
+                "room": "Lecture room M3",
+                "slug": "36c3-1677-session_chaos_needs_hackbases",
+                "title": "Chaos needs Hackbases",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "Chaos is brought by things not unlike hackbases!\nWho knows?Maybe this will change!For now, see    https://wiki.hackerspaces.org/Hackbaseand    https://totalism.org",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Dcht00",
+                    "public_name": "Dcht00"
+                  }
+                ],
+                "links": [
+                  "https://pad.land/hackbases"
+                ]
+              },
+              {
                 "id": 1467,
                 "guid": "233928f9-841b-4474-88bd-b1deecad2c3f",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Das_Gutachten_der_Datenethikkommission_-_eine_praktische_Diskussion",
@@ -39275,7 +39303,7 @@
                 "type": "",
                 "language": "en",
                 "abstract": "",
-                "description": "What rather simple failures and contradiction in the physics of the early 20th century made Einstein create General Relativity? What problems did he face and why? How to unify two theories - like electromagnetism - is crucial in modern physics. It's a problem we are facing again.\n",
+                "description": "What rather simple failures and contradictions in the physics of the early 20th century made Einstein create General Relativity? What problems did he face and why? How to unify two theories - like electromagnetism - is crucial in modern physics. It's a problem we are facing again.\n",
                 "persons": [
                   {
                     "id": 0,

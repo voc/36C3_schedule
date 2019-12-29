@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.29; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 17:40",
+    "version": "locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.29; sendezentrum 4.4; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 17:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -31580,7 +31580,7 @@
                 "logo": "",
                 "date": "2019-12-29T18:00:00+01:00",
                 "start": "18:00",
-                "duration": "01:00",
+                "duration": "00:45",
                 "room": "Sendetisch",
                 "slug": "TAJPZC",
                 "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/TAJPZC/",
@@ -39710,11 +39710,50 @@
             ],
             "Sendetisch": [
               {
+                "id": 943,
+                "guid": "22341c34-27dd-58a4-aa90-1e0b27b1a088",
+                "logo": "",
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "01:00",
+                "room": "Sendetisch",
+                "slug": "37LX78",
+                "url": "https://fahrplan.das-sendezentrum.de/36c3/talk/37LX78/",
+                "title": "die mit dem schwarzen Hund tanzen 2",
+                "subtitle": "",
+                "track": "Sendetisch",
+                "type": "Normale L\u00e4nge",
+                "language": "de",
+                "abstract": "Wer sind wir? Anne fragt Ludger",
+                "description": "Ludger antwortet und ist gespannt auf Annes Fragen.\r\nLasst uns mal schauen^Wh\u00f6ren, wohin uns das Gespr\u00e4ch f\u00fchren wird.\r\n\r\nStay tuned! :-)",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 116,
+                    "code": "JMAGA7",
+                    "public_name": "Ludger",
+                    "biography": "Seit ein paar Jahren bin ich den \"Podcast-Topf\" gefallen und habe viel zu Technik und Vorgehen gelesen, einiges ausprobiert und (noch!) nichts produziert. ;-)\r\nIn 2016 war ich das erste Mal auf dem Podstock - das beste Podcast-Festival, das es gibt!\r\nVielleicht ist der 36c3 der Startschuss f\u00fcr eine ungeahnte, neue Podcast-Karriere. ;-)",
+                    "answers": []
+                  },
+                  {
+                    "id": 128,
+                    "code": "TAR7XK",
+                    "public_name": "Anne",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 924,
                 "guid": "503f66b6-d59f-5757-be13-7d6f3d6ebb50",
                 "logo": "",
-                "date": "2019-12-30T12:55:00+01:00",
-                "start": "12:55",
+                "date": "2019-12-30T13:00:00+01:00",
+                "start": "13:00",
                 "duration": "01:00",
                 "room": "Sendetisch",
                 "slug": "CTZ7FZ",

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.28; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3",
+    "version": "locate; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.28; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -988,7 +988,16 @@
                     "title": "Chaosradio Express 100: Das Internet und die Hacker"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/080/original/KGB_Hack_Slides_.pdf?1577553613",
+                    "title": "Slides"
+                  },
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/081/original/Intro_Video.mp4?1577553741",
+                    "title": "Intro Video"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10639.html",
@@ -1277,7 +1286,12 @@
                     "title": "Scientists for Future"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/094/original/20191227_Climate_Change.pdf?1577623007",
+                    "title": "Presentation (with additional slides in German)"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10950.html",
@@ -1570,7 +1584,12 @@
                     "title": "Ressourcen.fm-Podcast"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/083/original/36C3_Kritikalit%C3%A4t.pdf?1577560757",
+                    "title": "Pr\u00e4sentation - Martin Hillenbrand"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10875.html",
@@ -4213,7 +4232,7 @@
                 "abstract": "Considerations for distributed and decentralized technologies from the perspective of a product that many would like to see decentralize.",
                 "description": "Amongst an environment of enthusiasm for blockchain-based technologies, efforts to decentralize the internet, and tremendous investment in distributed systems, there has been relatively little product movement in this area from the mobile and consumer internet spaces.\r\n\r\nThis is an exploration of challenges for distributed technologies, as well as some considerations for what they do and don't provide, from the perspective of someone working on user-focused mobile communication. This also includes a look at how Signal addresses some of the same problems that decentralized and distributed technologies hope to solve.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 9742,
@@ -4426,7 +4445,12 @@
                     "title": "Official ZombieLoad Website"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/084/original/slides.pdf?1577561031",
+                    "title": "Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11242.html",
@@ -5580,14 +5604,19 @@
                   },
                   {
                     "url": "https://docs.google.com/presentation/d/1t514x2cIG_qyQGiztaV_0s_kXQwb7t0DRk0ynAteoR0/edit#slide=id.g6199b0387f_0_385",
-                    "title": "Slides for the talk"
-                  },
-                  {
-                    "url": "https://docs.google.com/presentation/d/1t514x2cIG_qyQGiztaV_0s_kXQwb7t0DRk0ynAteoR0/edit#slide=id.g6199b0387f_0_385",
-                    "title": "Slides for the talk"
+                    "title": "Slides for the talk on Google slides"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/086/original/Reducing_Carbon_in_the_Digital_Realm_%E2%80%93_c36c.pdf?1577604233",
+                    "title": "Reducing Carbon in the Digital Realm Deck"
+                  },
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "file"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10995.html",
@@ -5884,7 +5913,16 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/078/original/CCC_Pr%C3%A4sentation_Laura_Final.pdf?1577553487",
+                    "title": "It's alive_Pr\u00e4sentation"
+                  },
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "file"
+                  }
+                ]
               }
             ],
             "Dijkstra": [
@@ -9508,14 +9546,14 @@
                 "start": "16:10",
                 "duration": "01:00",
                 "room": "Ada",
-                "slug": "36c3-11217-finfisher_verklagen",
-                "title": "Finfisher verklagen",
+                "slug": "36c3-11217-finfisher_see_you_in_court",
+                "title": "FinFisher, See You in Court!",
                 "subtitle": "Rechtsbr\u00fcche beim Export von \u00dcberwachungssoftware",
                 "track": "Ethics, Society & Politics",
                 "type": "lecture",
                 "language": "de",
                 "abstract": "Die GFF hat gemeinsam mit Reporter ohne Grenzen (ROG), dem European Center for Constitutional and Human Rights (ECCHR) und netzpolitik.org Strafanzeige gegen die Gesch\u00e4ftsf\u00fchrer der Unternehmen FinFisher GmbH, FinFisher Labs GmbH und Elaman GmbH erstattet.",
-                "description": "Es liegen dringende Anhaltspunkte daf\u00fcr vor, dass das M\u00fcnchener Firmenkonglomerat die Spionagesoftware FinSpy ohne Genehmigung der Bundesregierung an die t\u00fcrkische Regierung verkauft und so zur \u00dcberwachung von Oppositionellen und Journalist*innen in der T\u00fcrkei beigetragen hat.",
+                "description": "Es liegen dringende Anhaltspunkte daf\u00fcr vor, dass das M\u00fcnchener Firmenkonglomerat die Spionagesoftware FinSpy ohne Genehmigung der Bundesregierung an die t\u00fcrkische Regierung verkauft und so zur \u00dcberwachung von Oppositionellen und Journalist*innen in der T\u00fcrkei beigetragen hat.\r\n\r\nDer CCC hat die Schadsoftware analysiert und ver\u00f6ffentlicht.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -10938,7 +10976,7 @@
                 "duration": "01:00",
                 "room": "Clarke",
                 "slug": "36c3-10730-email_authentication_for_penetration_testers",
-                "title": "Email authentication for penetration testers",
+                "title": "Email Authentication for Penetration Testers",
                 "subtitle": "When SPF is not enough",
                 "track": "Security",
                 "type": "lecture",
@@ -10954,7 +10992,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/089/original/2019-12-36c3.pdf?1577617926",
+                    "title": "Email Authentication for Penetration Testers"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10880.html",
@@ -11088,12 +11131,24 @@
                 ],
                 "links": [
                   {
-                    "url": "https://noti.st/niklasjordan",
-                    "title": "Speaker-Profil mit allen Slides"
+                    "url": "https://noti.st/niklasjordan/vg8d1N/warum-unser-web-nachhaltiger-werden-muss-und-wie-wir-das-anstellen",
+                    "title": "Slides und alle Links"
                   },
                   {
-                    "url": "https://media.ccc.de/v/bub2018-2-warum_unser_web_nachhaltiger_werden_muss_und_wie_wir_das_anstellen#t=1",
-                    "title": "Talk auf der Konferenz Bits und B\u00e4ume"
+                    "url": "https://www.niklasjordan.com/",
+                    "title": "Website"
+                  },
+                  {
+                    "url": "https://blog.niklasjordan.com/",
+                    "title": "Blog"
+                  },
+                  {
+                    "url": "https://blog.niklasjordan.com/newsletter",
+                    "title": "Newsletter"
+                  },
+                  {
+                    "url": "https://twitter.com/niklas_jordan",
+                    "title": "Twitter"
                   }
                 ],
                 "attachments": []
@@ -11124,7 +11179,12 @@
                   }
                 ],
                 "links": [],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/085/original/36c3-hacking-tpm.pdf?1577584803",
+                    "title": "Slides"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10968.html",
@@ -11254,7 +11314,7 @@
                 "links": [
                   {
                     "url": "https://blog.formf.de/",
-                    "title": "digital.bike.23"
+                    "title": "form:f - critical design"
                   }
                 ],
                 "attachments": []
@@ -11458,7 +11518,12 @@
                     "title": "AREPO"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/091/original/Grow2.pdf?1577620679",
+                    "title": "Slides (without videos)"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/10858.html",
@@ -11713,7 +11778,12 @@
                     "title": "International Hackteria Network"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/092/original/HumusSapiens.pdf?1577622035",
+                    "title": "HUMUS Sapiens "
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11030.html",
@@ -11885,7 +11955,12 @@
                     "title": "Chaos Siegen"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/093/original/haecksen_welcome_pattern_herzi_2019-12-28.pdf?1577622915",
+                    "title": "welcome-patterns-36c3"
+                  }
+                ]
               },
               {
                 "url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11178.html",
@@ -11934,7 +12009,7 @@
                 "track": "Art & Culture",
                 "type": "lecture",
                 "language": "en",
-                "abstract": "Louise Ashcroft will talk through a big bag of props which reveal the strategies and tactics she uses to \u2018hack\u2019 public spaces and social conventions in order to suggest new ways of living which challenge rules and hierarchies. ",
+                "abstract": "Louise Ashcroft will talk through strategies and tactics she uses to \u2018hack\u2019 public spaces and social conventions in order to suggest new ways of living which challenge rules and hierarchies. ",
                 "description": "Louise Ashcroft is a performance artist and filmmaker whose playfully disruptive fieldwork in public spaces like shopping centres, trade fairs and the street) seek to challenge the socio-economic status-quo and reveal the absurdity of the power systems that govern how we live. For example, mailing boxes of soil from former public land to its new overseas owners, leading 'backwards shopping' workshops, smuggling strange products into supermarkets and attempting to buy them, or running conceptual cleaning services for people's hopes and dreams. Such public interventions are humorously retold in the form of stage performances. Louise has exhibited widely including at Arebyte Gallery, BQ Berlin, Latitude Festival, Supernormal Festival, Wellcome Collection, Museum of London and on BBC radio; residencies include Tate Learning, Camden Arts Centre, and Z.U.T Lisbon. Louise cofounded the free art school AltMFA and teaches art at Goldsmiths College. She hates capitalism but loves sneakers. ",
                 "recording_license": "",
                 "do_not_record": false,
@@ -11950,7 +12025,12 @@
                     "title": "louiseashcroft.org"
                   }
                 ],
-                "attachments": []
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/095/original/36C3_talk_Louise_Ashcroft_compressed.pdf?1577623402",
+                    "title": "Speaking Fiction to Power - Talk slides (for looking at only, copyright Louise Ashcroft)"
+                  }
+                ]
               }
             ],
             "Chaos-West B\u00fchne": [
@@ -15911,6 +15991,10 @@
                   {
                     "url": "/system/event_attachments/attachments/000/003/942/original/Abstract.pdf?1572080591",
                     "title": "Abstract als PDF"
+                  },
+                  {
+                    "url": "/attachments/original/missing.png",
+                    "title": "file"
                   }
                 ]
               }

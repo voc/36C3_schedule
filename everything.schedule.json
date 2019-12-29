@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 19; wikipaka 0.16; chaoszone 0.10; komona 0.26; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 11:00",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 20; wikipaka 0.16; chaoszone 0.10; komona 0.26; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 11:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -29455,6 +29455,38 @@
                     "code": "P3GLDY",
                     "public_name": "Sandra GIG",
                     "biography": "Sandra Mamitzsch baut seit 2018 das Berliner B\u00fcro des Global Innovation Gathering e.V., einem globalen Netzwerk von Makern und Innovatoren, auf und besch\u00e4ftigt sich daher viel damit, wie dezentrale Zusammenarbeit und offene Organisationsformen funktionieren. Haupts\u00e4chlich ist sie im Verein f\u00fcr das Horizon2020-F\u00f6rderprojekt Careables.org verantwortlich, dass innerhalb von Makerspace-Communities dabei hilft, mit offenen Technologien und Co-Design in Gesundheit und Pflege das Leben von Menschen zu verbessern. Von 2012-2017 war sie Programmdirektorin der re:publica und arbeitet dort weiterhin als freie Beraterin und Kuratorin. Nebenbei ist sie Mitglied bei European Digital Rights (EDRi) und beim Digitale Gesellschaft e.V.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
+                "id": 400,
+                "guid": "ff184a4c-e856-58be-906a-969d7042fa57",
+                "logo": "",
+                "date": "2019-12-29T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "01:00",
+                "room": "OIO Workshop Dome",
+                "slug": "3LDPLF",
+                "url": "https://talks.oio.social/36c3-oio/talk/3LDPLF/",
+                "title": "Introduction to mesh routing algorithms",
+                "subtitle": "",
+                "track": "Hardware & Making",
+                "type": "Workshop 1 hour",
+                "language": "en",
+                "abstract": "In mesh networks like freifunk, data needs to be forwarded towards a destination with the help of other nodes and no prior knowledge. We will describe the different approaches to solve this problem and it realizations in common adhoc mesh routing protocols like batman-adv or olsr.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 165,
+                    "code": "BCARXJ",
+                    "public_name": "mwarning",
+                    "biography": null,
                     "answers": []
                   }
                 ],

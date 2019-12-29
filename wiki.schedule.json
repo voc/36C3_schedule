@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-29 11:40",
+    "version": "2019-12-29 11:50",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -8300,116 +8300,6 @@
                 ]
               }
             ],
-            "Assembly:Chaos West": [
-              {
-                "id": 1644,
-                "guid": "a3362371-f283-447e-9e25-e6df5eb66063",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Diy_lip_care_cosmetics",
-                "logo": null,
-                "date": "2019-12-28T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "0:30",
-                "room": "Assembly:Chaos West",
-                "slug": "36c3-1644-session_diy_lip_care_cosmetics",
-                "title": "Diy lip care cosmetics",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "",
-                "abstract": "",
-                "description": "Humidity in the halls of Leipzig is low and your lips are cracking? Make your own refillable lip care in just a few minutes.\nlocation: https://36c3.c3nav.de/l/c:0:397.26:117.87/",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zornem",
-                    "public_name": "Zornem"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1444,
-                "guid": "f0fcdc94-4ca8-43b9-957b-cf664dfaa307",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Makeup_against_surveillance",
-                "logo": null,
-                "date": "2019-12-28T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "4:00",
-                "room": "Assembly:Chaos West",
-                "slug": "36c3-1444-session_makeup_against_surveillance",
-                "title": "Makeup against surveillance",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Explore how makeup can be used to look awesome and to prevent face detection!\n[[File:Makeup.png|thumb]]Following Adam Harveys CV Dazzle (https://ahprojects.com/cvdazzle/) we want to find out how to use makeup to not only look awesome, but also prevent face detection!We bring makeup, hair extensions, jewelry, etc and a webcam with a simple face detection algorithm (of course nothing gets recorded).Join us in exploring the limits of face detection! Bring friends, own makeup etc if you want! :)",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MartiniMoe",
-                    "public_name": "MartiniMoe"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1417,
-                "guid": "89cb9f79-001a-4636-8f23-3433a0ed7949",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Soldering_Workshop_(Chaos_macht_Schule)",
-                "logo": null,
-                "date": "2019-12-28T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "6:00",
-                "room": "Assembly:Chaos West",
-                "slug": "36c3-1417-session_soldering_workshop_chaos_macht_schule_",
-                "title": "Soldering Workshop (Chaos macht Schule)",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "hands-on",
-                "language": "",
-                "abstract": "",
-                "description": "Learn how to solder. For beginners and moderately experienced kids (age < 18)\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hbr",
-                    "public_name": "Hbr"
-                  }
-                ],
-                "links": [
-                  "https://junghack.de"
-                ]
-              },
-              {
-                "id": 1601,
-                "guid": "971eaccc-cba1-4ab1-bcda-680fa3bb0c61",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:VULCRAmeetup",
-                "logo": null,
-                "date": "2019-12-28T12:30:00+01:00",
-                "start": "12:30",
-                "duration": "1:30",
-                "room": "Assembly:Chaos West",
-                "slug": "36c3-1601-session_vulcrameetup",
-                "title": "VULCRAmeetup",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "en",
-                "abstract": "",
-                "description": "VULCA - Meetup\nThe event will be held in Hall 3 in the big Metalab Dome in Chaos West Lounge.https://36c3.c3nav.de/l/c:0:432.98:120.36/@0,437.79,127.68,4.65Vulca tour allowed us to establish a first connection with different individual local makers/hackers communities in Europe.We pay attention to meet face to face each member before starting any collaboration. We want to get to know and better understand the needs and projects of local contacts. The people that were met and are at 36C3 will meet up.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Xro",
-                    "public_name": "Xro"
-                  }
-                ],
-                "links": [
-                  "https://vulca.eu/"
-                ]
-              }
-            ],
             "Assembly:BerndCon": [
               {
                 "id": 1551,
@@ -8983,6 +8873,90 @@
                 ],
                 "links": [
                   "https://abcdd.org"
+                ]
+              }
+            ],
+            "Assembly:Chaos West": [
+              {
+                "id": 1444,
+                "guid": "f0fcdc94-4ca8-43b9-957b-cf664dfaa307",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Makeup_against_surveillance",
+                "logo": null,
+                "date": "2019-12-28T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "4:00",
+                "room": "Assembly:Chaos West",
+                "slug": "36c3-1444-session_makeup_against_surveillance",
+                "title": "Makeup against surveillance",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Explore how makeup can be used to look awesome and to prevent face detection!\n[[File:Makeup.png|thumb]]Following Adam Harveys CV Dazzle (https://ahprojects.com/cvdazzle/) we want to find out how to use makeup to not only look awesome, but also prevent face detection!We bring makeup, hair extensions, jewelry, etc and a webcam with a simple face detection algorithm (of course nothing gets recorded).Join us in exploring the limits of face detection! Bring friends, own makeup etc if you want! :)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MartiniMoe",
+                    "public_name": "MartiniMoe"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1417,
+                "guid": "89cb9f79-001a-4636-8f23-3433a0ed7949",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Soldering_Workshop_(Chaos_macht_Schule)",
+                "logo": null,
+                "date": "2019-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "6:00",
+                "room": "Assembly:Chaos West",
+                "slug": "36c3-1417-session_soldering_workshop_chaos_macht_schule_",
+                "title": "Soldering Workshop (Chaos macht Schule)",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "",
+                "abstract": "",
+                "description": "Learn how to solder. For beginners and moderately experienced kids (age < 18)\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Hbr",
+                    "public_name": "Hbr"
+                  }
+                ],
+                "links": [
+                  "https://junghack.de"
+                ]
+              },
+              {
+                "id": 1601,
+                "guid": "971eaccc-cba1-4ab1-bcda-680fa3bb0c61",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:VULCRAmeetup",
+                "logo": null,
+                "date": "2019-12-28T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "1:30",
+                "room": "Assembly:Chaos West",
+                "slug": "36c3-1601-session_vulcrameetup",
+                "title": "VULCRAmeetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "en",
+                "abstract": "",
+                "description": "VULCA - Meetup\nThe event will be held in Hall 3 in the big Metalab Dome in Chaos West Lounge.https://36c3.c3nav.de/l/c:0:432.98:120.36/@0,437.79,127.68,4.65Vulca tour allowed us to establish a first connection with different individual local makers/hackers communities in Europe.We pay attention to meet face to face each member before starting any collaboration. We want to get to know and better understand the needs and projects of local contacts. The people that were met and are at 36C3 will meet up.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Xro",
+                    "public_name": "Xro"
+                  }
+                ],
+                "links": [
+                  "https://vulca.eu/"
                 ]
               }
             ],
@@ -13737,6 +13711,60 @@
                 ]
               }
             ],
+            "Assembly:Chaos West": [
+              {
+                "id": 1644,
+                "guid": "a3362371-f283-447e-9e25-e6df5eb66063",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Diy_lip_care_cosmetics",
+                "logo": null,
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "0:30",
+                "room": "Assembly:Chaos West",
+                "slug": "36c3-1644-session_diy_lip_care_cosmetics",
+                "title": "Diy lip care cosmetics",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "",
+                "abstract": "",
+                "description": "Humidity in the halls of Leipzig is low and your lips are cracking? Make your own refillable lip care in just a few minutes.\nlocation: https://36c3.c3nav.de/l/c:0:394.41:117.59/Recipes to try at home:;vegan (day 2 only - we ran out of wax): 30 g Jojoba Oil: 20 g Berry Wax (Rhus Verniciflua Peel Cera);bees wax: 30 g Jojoba Oil: 10 g bees wax* both versions will make 10-11 tubes or tins (use the 5 ml containers)* other oils and butters to try: almond, apricot kernel, cocoa, shea, coconut* if you wish to order containers, let your search engine look for lipstick tube/ Lippenstifth\u00fclsen* there are numerous online cosmetics supply shops in Europe, but you might even find a small store in your city (there is one in Leipzig).",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Zornem",
+                    "public_name": "Zornem"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1528,
+                "guid": "6d85843f-76bc-42ee-a31f-13ffe5e26d93",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:OPS_erz%C3%A4hlen_vom_Krieg",
+                "logo": null,
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Assembly:Chaos West",
+                "slug": "36c3-1528-session_ops_erzaehlen_vom_krieg",
+                "title": "OPS erz\u00e4hlen vom Krieg",
+                "subtitle": "Meetup",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Therapiegruppe Sysadmins. Tales from the trenches\nOPS erz\u00e4hlen vom Krieg / Sysadmin-Therapiegruppe / Tales from the Sysadmin trenchesKein Vortrag, B\u00fchne bleibt frei, nur Stuhlkreis :-)",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Fuero",
+                    "public_name": "Fuero"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Roter Salon": [
               {
                 "id": 1672,
@@ -14365,34 +14393,6 @@
                 "links": [
                   "https://datenschmutz.de"
                 ]
-              }
-            ],
-            "Assembly:Chaos West": [
-              {
-                "id": 1528,
-                "guid": "6d85843f-76bc-42ee-a31f-13ffe5e26d93",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:OPS_erz%C3%A4hlen_vom_Krieg",
-                "logo": null,
-                "date": "2019-12-29T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:00",
-                "room": "Assembly:Chaos West",
-                "slug": "36c3-1528-session_ops_erzaehlen_vom_krieg",
-                "title": "OPS erz\u00e4hlen vom Krieg",
-                "subtitle": "Meetup",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "de",
-                "abstract": "",
-                "description": "Therapiegruppe Sysadmins. Tales from the trenches\nOPS erz\u00e4hlen vom Krieg / Sysadmin-Therapiegruppe / Tales from the Sysadmin trenchesKein Vortrag, B\u00fchne bleibt frei, nur Stuhlkreis :-)",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Fuero",
-                    "public_name": "Fuero"
-                  }
-                ],
-                "links": []
               }
             ],
             "Assembly:Open Infrastructure Orbit": [

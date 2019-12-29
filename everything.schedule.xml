@@ -1,5 +1,5 @@
 <schedule>
-  <version>locate; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 22:00</version>
+  <version>locate; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 22:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -34136,6 +34136,27 @@ Both theoretical and technical aspects of memory forensics will be covered: A th
 </description>
         <persons>
           <person id="0">Stormwind</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1735" guid="a5e39121-b6fe-4fbd-87d6-f0ac743143ff">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Kernel_Hacking</url>
+        <logo/>
+        <date>2019-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1735-kernel_hacking</slug>
+        <title>Kernel Hacking</title>
+        <subtitle>Extra timeslot</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Write a simple kernel driver, debug and trace it remotely with gdb.
+'''--NO BOARDS LEFT FOR PEOPLE WITHOUT RESERVATION''', please team up with someone who has a board.In this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. KGDB, the kernel debugger, allows you to debug a kernel running on a different architecture, remotely, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. </description>
+        <persons>
+          <person id="0">Vtec</person>
         </persons>
         <links/>
       </event>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-29 22:00",
+    "version": "2019-12-29 22:30",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -15658,6 +15658,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Stormwind",
                     "public_name": "Stormwind"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1735,
+                "guid": "a5e39121-b6fe-4fbd-87d6-f0ac743143ff",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Kernel_Hacking",
+                "logo": null,
+                "date": "2019-12-30T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "3:00",
+                "room": "Lecture room M2",
+                "slug": "36c3-1735-kernel_hacking",
+                "title": "Kernel Hacking",
+                "subtitle": "Extra timeslot",
+                "track": "self organized sessions",
+                "type": "hands-on",
+                "language": "en",
+                "abstract": "",
+                "description": "Write a simple kernel driver, debug and trace it remotely with gdb.\n'''--NO BOARDS LEFT FOR PEOPLE WITHOUT RESERVATION''', please team up with someone who has a board.In this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. KGDB, the kernel debugger, allows you to debug a kernel running on a different architecture, remotely, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. ",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Vtec",
+                    "public_name": "Vtec"
                   }
                 ],
                 "links": []

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 20; wikipaka 0.16; chaoszone 0.10; komona 0.27; sendezentrum 4.2; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 12:40",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 20; wikipaka 0.16; chaoszone 0.10; komona 0.27; sendezentrum 4.2; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 12:50",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -26191,7 +26191,7 @@
                 "abstract": "DLF CuK Podcast 36C3-Special",
                 "description": "DLF CuK Podcast 36C3-Special",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 141,
@@ -26287,7 +26287,7 @@
                 "abstract": "DLF-Podcast: Computer und Kommunikation",
                 "description": "DLF-Podcast: Computer und Kommunikation",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 141,
@@ -29684,7 +29684,7 @@
                 "type": "Workshop",
                 "language": "de",
                 "abstract": "Lades\u00e4ulen basieren immernoch auf Mifare Classic / RFID UIDs. Bei Sharing-Mobilit\u00e4t gibt es f\u00fcr jeden Anbieter eine eigene Karte. K\u00f6nnte offene SmartCard Infrastruktur auf Basis von OpenSC die L\u00f6sung sein? Oder was gibt es noch?",
-                "description": "Hinweis vorweg: der Workshop ist so f\u00fcr 60 Minuten geplant, da es aber Raumbelegungskonflikte gibt, suchen wir uns dann einfach einen Platz in der WikipakaWG.\r\n\r\nDas Sicherheits-Problem von Ladeinfrastruktur ist wohlbekannt und war Thema auf dem 34C3: https://www.ccc.de/de/updates/2017/e-motor . Auf der anderen Seite gibt es immer mehr Sharing-Mobilit\u00e4t, und wenn diese RFID-Karten einsetzen, dann verschickt jeder Dienst seine eigene Karte. In beiden F\u00e4llen liegt es daran, dass die zumeist eingesetzten sicheren Karten auf symmetrischer Kryptografie basieren, was einen zur Karte passenden Key im Leser voraussetzt - und das funktioniert bei vielen Beteiligten nun einmal schlecht.\r\n\r\nIn diesem Workshop wollen wir recht offen dar\u00fcber diskutieren, ob Karten auf Basis asymmetrischer Kryptografie eine L\u00f6sung sein k\u00f6nnen, also Karten mit gesch\u00fctzten private Key, die aktiv Daten signieren k\u00f6nnen. Mit OpenSC g\u00e4be es eine offene L\u00f6sung, die eine Basis sein k\u00f6nnte. Ich habe ein bisschen Hardware zum Spielen mit und f\u00e4nd es spannend, wenn der Workshop in eine technische l\u00f6sungsorientierte Richtung ginge - rumranten ist zwar spa\u00dfig, ist mir aber zu wenig.\r\n\r\nIhr werdet von mir keine perfekte \u00dcbersicht / L\u00f6sung bekommen, da ich daf\u00fcr nicht genug Markt\u00fcbersicht habe, wohl aber einen kleinen Einblick. Aber die oben genannten Beispiele zeigen, dass auch der meist geschlossene Weg \"da drau\u00dfen\" keine so richtig gut brauchbare L\u00f6sungen bringt, und wo sollte eine sinnvolle L\u00f6sung entstehen wenn nicht hier?",
+                "description": "Hinweis vorweg: der Workshop geht direkt in den Transport-Workshop \u00fcber, was inhaltlich extrem gut passt. Nach dem Transport-Workshop kann man noch in Details gehen.\r\n\r\nDas Sicherheits-Problem von Ladeinfrastruktur ist wohlbekannt und war Thema auf dem 34C3: https://www.ccc.de/de/updates/2017/e-motor . Auf der anderen Seite gibt es immer mehr Sharing-Mobilit\u00e4t, und wenn diese RFID-Karten einsetzen, dann verschickt jeder Dienst seine eigene Karte. In beiden F\u00e4llen liegt es daran, dass die zumeist eingesetzten sicheren Karten auf symmetrischer Kryptografie basieren, was einen zur Karte passenden Key im Leser voraussetzt - und das funktioniert bei vielen Beteiligten nun einmal schlecht.\r\n\r\nIn diesem Workshop wollen wir recht offen dar\u00fcber diskutieren, ob Karten auf Basis asymmetrischer Kryptografie eine L\u00f6sung sein k\u00f6nnen, also Karten mit gesch\u00fctzten private Key, die aktiv Daten signieren k\u00f6nnen. Mit OpenSC g\u00e4be es eine offene L\u00f6sung, die eine Basis sein k\u00f6nnte. Ich habe ein bisschen Hardware zum Spielen mit und f\u00e4nd es spannend, wenn der Workshop in eine technische l\u00f6sungsorientierte Richtung ginge - rumranten ist zwar spa\u00dfig, ist mir aber zu wenig.\r\n\r\nIhr werdet von mir keine perfekte \u00dcbersicht / L\u00f6sung bekommen, da ich daf\u00fcr nicht genug Markt\u00fcbersicht habe, wohl aber einen kleinen Einblick. Aber die oben genannten Beispiele zeigen, dass auch der meist geschlossene Weg \"da drau\u00dfen\" keine so richtig gut brauchbare L\u00f6sungen bringt, und wo sollte eine sinnvolle L\u00f6sung entstehen wenn nicht hier?",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
@@ -34072,7 +34072,7 @@
                 "type": "hands-on",
                 "language": "de",
                 "abstract": "",
-                "description": "We will show you and explain how to make your own yarn from wool and other fibres.\n++ Wir treffen uns f\u00fcr m\u00f6glichst viel Tageslicht unten im CCL auf der Fl\u00e4che am Wasserbecken. ++Wir werden euch erkl\u00e4ren und zeigen, wie man aus Wolle und anderen Fasern sein eigenes Garn herstellt.Wir haben Wolle und einige fertige Handspindeln dabei sowie ein paar Baus\u00e4tze um euch eigene Holzspindeln zu bauen.Grunds\u00e4tzlich k\u00f6nnen auch Kinder, erfahrungsgem\u00e4\u00df etwa ab Vorschul-/Grundschulalter, Handspinnen lernen. Allerdings braucht es am Anfang einiges an Geduld und Motivation und wir werden zu zweit Kinder nicht sinnvoll betreuen k\u00f6nnen. Wenn ihr aber gemeinsam mit Kindern teilnehmen m\u00f6chtet ist das nat\u00fcrlich kein Problem.---++ We will meet at the lowest level in the CCL around the water basin to have as much daylight as possible. ++We will show you and explain how to make your own yarn from wool and other fibres.We bring wool and a hand full of ready-made hand spindles as well as some kits to build your own wooden spindle.In general, children can definitely learn to spin yarn, usually from pre-school / primary school age on. However, at the beginning it needs a lot of patience and motivation and we will not be able to give them the necessary support ourselves. But if you want to participate together with your children it is totally possible.",
+                "description": "We will show you and explain how to make your own yarn from wool and other fibres.\n++ Wir treffen uns f\u00fcr m\u00f6glichst viel Tageslicht unten im CCL auf der Fl\u00e4che am Wasserbecken (unter der Rolltreppe). ++Wir werden euch erkl\u00e4ren und zeigen, wie man aus Wolle und anderen Fasern sein eigenes Garn herstellt.Wir haben Wolle und einige fertige Handspindeln dabei sowie ein paar Baus\u00e4tze um euch eigene Holzspindeln zu bauen.Grunds\u00e4tzlich k\u00f6nnen auch Kinder, erfahrungsgem\u00e4\u00df etwa ab Vorschul-/Grundschulalter, Handspinnen lernen. Allerdings braucht es am Anfang einiges an Geduld und Motivation und wir werden zu zweit Kinder nicht sinnvoll betreuen k\u00f6nnen. Wenn ihr aber gemeinsam mit Kindern teilnehmen m\u00f6chtet ist das nat\u00fcrlich kein Problem.Links zum Workshop: https://www.wollkanal.de/2019/12/29/links-fuer-spinnanfaenger/---++ We will meet at the lowest level in the CCL around the water basin (under the escalator) to have as much daylight as possible. ++We will show you and explain how to make your own yarn from wool and other fibres.We bring wool and a hand full of ready-made hand spindles as well as some kits to build your own wooden spindle.In general, children can definitely learn to spin yarn, usually from pre-school / primary school age on. However, at the beginning it needs a lot of patience and motivation and we will not be able to give them the necessary support ourselves. But if you want to participate together with your children it is totally possible.",
                 "persons": [
                   {
                     "id": 0,
@@ -34843,16 +34843,16 @@
                 "links": []
               }
             ],
-            "Roter Salon": [
+            "1komona headnut": [
               {
                 "id": 1672,
                 "guid": "0a00a350-c53a-4e95-8c78-4918b953fc7e",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Documentary_Photography_Workshop",
                 "logo": null,
-                "date": "2019-12-29T19:00:00+01:00",
-                "start": "19:00",
+                "date": "2019-12-29T21:30:00+01:00",
+                "start": "21:30",
                 "duration": "2:00",
-                "room": "Roter Salon",
+                "room": "1komona headnut",
                 "slug": "36c3-1672-session_documentary_photography_workshop",
                 "title": "Documentary Photography Workshop",
                 "subtitle": "",
@@ -34860,7 +34860,7 @@
                 "type": "workshop",
                 "language": "",
                 "abstract": "",
-                "description": "Story development workshop - idea, conceptualisation, planning, shooting, editing\nDocumentary photography story development workshop - find an idea, conceptualisation, planning, shooting, editing and presenting work.",
+                "description": "Story development workshop - idea, conceptualisation, planning, shooting, editing\nDocumentary photography story development workshop - find an idea, conceptualisation, planning, shooting, editing and presenting work.https://36c3.c3nav.de/l/komona-headnut/@0,452.74,444.4,3.65",
                 "persons": [
                   {
                     "id": 0,
@@ -34872,6 +34872,36 @@
                   "http://www.femlens.com"
                 ]
               },
+              {
+                "id": 1348,
+                "guid": "d8f55bbc-15b6-4af9-9039-abdad0b1bd10",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Fahrr%C3%A4der_zeichnen_und_analysieren",
+                "logo": null,
+                "date": "2019-12-29T18:15:00+01:00",
+                "start": "18:15",
+                "duration": "0:25",
+                "room": "1komona headnut",
+                "slug": "36c3-1348-session_fahrraeder_zeichnen_und_analysieren",
+                "title": "Fahrr\u00e4der zeichnen und analysieren",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Fahrr\u00e4der zeichnen und analysieren\nHier kannst du ein Fahrrad zeichnen, das wir danach gemeinsam analysieren.F\u00fcr diese Session brauchst du weder zeichnen k\u00f6nnen, noch lernst du hier wie man zeichnet!Fahrr\u00e4der zeichnen ist einfach, deswegen kannst du hier eins zeichnen.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ruru4143",
+                    "public_name": "Ruru4143"
+                  }
+                ],
+                "links": [
+                  "https://talks.komona.org/36c3/talk/XBRFTV/"
+                ]
+              }
+            ],
+            "Roter Salon": [
               {
                 "id": 1703,
                 "guid": "8b98b4f5-26e3-40bd-8273-86eff93c2442",
@@ -35083,36 +35113,6 @@
                   }
                 ],
                 "links": []
-              }
-            ],
-            "1komona headnut": [
-              {
-                "id": 1348,
-                "guid": "d8f55bbc-15b6-4af9-9039-abdad0b1bd10",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Fahrr%C3%A4der_zeichnen_und_analysieren",
-                "logo": null,
-                "date": "2019-12-29T18:15:00+01:00",
-                "start": "18:15",
-                "duration": "0:25",
-                "room": "1komona headnut",
-                "slug": "36c3-1348-session_fahrraeder_zeichnen_und_analysieren",
-                "title": "Fahrr\u00e4der zeichnen und analysieren",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Fahrr\u00e4der zeichnen und analysieren\nHier kannst du ein Fahrrad zeichnen, das wir danach gemeinsam analysieren.F\u00fcr diese Session brauchst du weder zeichnen k\u00f6nnen, noch lernst du hier wie man zeichnet!Fahrr\u00e4der zeichnen ist einfach, deswegen kannst du hier eins zeichnen.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Ruru4143",
-                    "public_name": "Ruru4143"
-                  }
-                ],
-                "links": [
-                  "https://talks.komona.org/36c3/talk/XBRFTV/"
-                ]
               }
             ],
             "1komona Boredome": [
@@ -38189,6 +38189,32 @@
                     "id": 0,
                     "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Katti",
                     "public_name": "Katti"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1711,
+                "guid": "81f76191-40a2-41e1-87ef-a70306e84cb7",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Video_Gaming_Addiction_-_A_Real_Psychological_Disorder%3F",
+                "logo": null,
+                "date": "2019-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "1:00",
+                "room": "Seminar room 14-15",
+                "slug": "36c3-1711-session_video_gaming_addiction_a_real_psychological_disorder_",
+                "title": "Video Gaming Addiction - A Real Psychological Disorder?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "",
+                "abstract": "",
+                "description": "Is there such a thing as \"Gaming Addiction\" and is there a cure?\nPlease note: This abstract is in English, but if there are no non-German speakers present, the talk may be held in German.Video Gaming addiction - buzzword, excuse for 400+ hours on Skyrim, mere symptom of depression or genuine psychological disorder? What even is there to become addicted to in gaming? Are there people more at risk than others and if yes, who? In what kind of ways are games engineered to make us become addicted? Where is the limit between normal gaming and a disorder? And if you are addicted, what helps? This talk aims to explore these questions and more, time for questions will be included as well!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Britt",
+                    "public_name": "Britt"
                   }
                 ],
                 "links": []

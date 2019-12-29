@@ -1,5 +1,5 @@
 <schedule>
-  <version>kill; lounges 303; chaos-west 1.0; open-infra 20; wikipaka 0.16; chaoszone 0.10; komona 0.27; sendezentrum 4.2; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 13:00</version>
+  <version>kill; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.27; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 13:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -23097,32 +23097,6 @@ Insta: https://www.instagram.com/crackhouse_kochradio/</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="934" guid="6e6830b7-171a-5aa4-88fa-5735f3e4ee7a">
-        <logo/>
-        <date>2019-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>DLF- und Podcast-Bühne</room>
-        <slug>VEAWCA</slug>
-        <url>https://fahrplan.das-sendezentrum.de/36c3/talk/VEAWCA/</url>
-        <title>DLF Breitband</title>
-        <subtitle/>
-        <track>DLF- und Podcast-Bühne</track>
-        <type>Normale Länge</type>
-        <language>de</language>
-        <abstract>wir schalten live vom 36c3 in die DLF-Sendung Breitband.</abstract>
-        <description>wir schalten live vom 36c3 in die DLF-Sendung Breitband.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="141">DLF-Team</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="935" guid="913c8c46-6ba0-578e-9070-30cbfa8714b5">
         <logo/>
         <date>2019-12-29T13:55:00+01:00</date>
@@ -23164,6 +23138,32 @@ Insta: https://www.instagram.com/crackhouse_kochradio/</description>
         <language>de</language>
         <abstract>DLF-Podcast: Computer und Kommunikation</abstract>
         <description>DLF-Podcast: Computer und Kommunikation</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="141">DLF-Team</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="942" guid="94fc8b94-d9c0-591f-95fa-47b3bf85768f">
+        <logo/>
+        <date>2019-12-29T17:05:00+01:00</date>
+        <start>17:05</start>
+        <duration>00:25</duration>
+        <room>DLF- und Podcast-Bühne</room>
+        <slug>GDURB9</slug>
+        <url>https://fahrplan.das-sendezentrum.de/36c3/talk/GDURB9/</url>
+        <title>DLF: Studio 9</title>
+        <subtitle/>
+        <track>DLF- und Podcast-Bühne</track>
+        <type>Normale Länge</type>
+        <language>de</language>
+        <abstract>Bericht vom 36c3</abstract>
+        <description>Wir berichten in der Sendung "Studio 9" vom 36c3</description>
         <recording>
           <license/>
           <optout>true</optout>
@@ -23217,7 +23217,7 @@ Insta: https://www.instagram.com/crackhouse_kochradio/</description>
         <abstract>Die Podcast Quizshow deren Name ein Anagram des Originals ist!</abstract>
         <description>In dieser Show geht es um die Lösung hinter Fragen wie was ist ein Alarmstuhl, was ist Spritzgeld oder warum haben Züge aus Deutschland nach Frankreich Knallerbsen an Board! &#13;
 &#13;
-Für die ZuschauerInnen gibt es Spaß, für das Rate Team Alkohol.&#13;
+Für die ZuschauerInnen gibt es Spaß, für das Rate Team (bestehend aus: [Philipp](http://twitter.com/derphilipp), [Tom](http://twitter.com/miezekater), [Christiane Attig](http://twitter.com/christianeattig) und [Holger Klein](http://twitter.com/holgi)) gibt es süßen Alkohol und für jede richtig beantwortete Frage eine güldene CYBER Card!&#13;
 &#13;
 Mehr Infos auf: GalaBeNeedInn.de&#13;
 &#13;
@@ -25274,14 +25274,17 @@ the moment just at the moment when he turns on the night.</description>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
+        <abstract>Chiara Salome is a Berlin based DJ presenting an ambient techno set. Carefully selected tracks from genres like techno, spiritual music, drone, dark ambient, 90's IDM and even symphonic music are&#13;
+entangled into a marvellous tapestry of sound. She loves to play with music which is rich of textures, glowering bases and eatherical atmospheres providing the listener a meditative and trippy experience with surprising turns.</abstract>
         <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons/>
-        <links/>
+        <links>
+          <link href="https://soundcloud.com/Chiara-Salome">on Soundcloud</link>
+        </links>
         <attachments/>
       </event>
       <event id="11277" guid="a77ad085-cc67-4040-b554-1bb4b08783ce">
@@ -33139,8 +33142,8 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
       </event>
       <event id="940" guid="fef91d1e-98fa-5146-ae12-499660479d1a">
         <logo/>
-        <date>2019-12-30T16:35:00+01:00</date>
-        <start>16:35</start>
+        <date>2019-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
         <duration>00:25</duration>
         <room>DLF- und Podcast-Bühne</room>
         <slug>ZFALBY</slug>
@@ -33152,32 +33155,6 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
         <language>de</language>
         <abstract>Wir senden "Forschung Aktuell" live vom 36c3</abstract>
         <description>Wir senden "Forschung Aktuell" live vom 36c3</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="141">DLF-Team</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="941" guid="940bba6e-f7e6-5685-9a03-58d5ea33d085">
-        <logo/>
-        <date>2019-12-30T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>01:00</duration>
-        <room>DLF- und Podcast-Bühne</room>
-        <slug>TZUWU7</slug>
-        <url>https://fahrplan.das-sendezentrum.de/36c3/talk/TZUWU7/</url>
-        <title>DLF-Studiogerspräch</title>
-        <subtitle/>
-        <track>DLF- und Podcast-Bühne</track>
-        <type>Normale Länge</type>
-        <language>en</language>
-        <abstract>Wir senden das Studiogespräch live vom 36c3</abstract>
-        <description>Wir senden das Studiogespräch live vom 36c3</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -34226,7 +34203,7 @@ Wir planen den Abbau der Chaoszone</abstract>
         <title>fli4l – the flexible internet router for linux</title>
         <subtitle/>
         <track/>
-        <type>Vortrag 30 min (incl. Q&amp;A)</type>
+        <type>Vortrag 60min  (inkl. Q&amp;A)</type>
         <language>de</language>
         <abstract>Internet-Router mit Linux, aktueller Software, aber kein OpenWRT oder IPFire? **fli4l** ist eine freie Router-Distribution für diverse Einsatzszenarios, jetzt auch ohne Disketten.</abstract>
         <description>Vergesst Disketten und ISDN! Das fast 20 Jahre alte Linux-Router-Projekt [fli4l](http://www.fli4l.de/) läuft auf modernem Unterbau mit aktuellen Treibern auf (fast) beliebiger x86 Hardware. Ein fli4-Router routet IPv6, baut OpenVPN-Tunnel, kann mit multiplen Uplinks arbeiten, unterstützt Bridges, VLAN und Bonding. Er agiert als DNS- und DHCP-Server und natürlich auch als Paketfilter und Firewall, auch für mehr als ein Netz. Auch Funk mit UMTS, LTE und WLAN ist an Bord. Sogar ISDN wird noch unterstützt.&#13;

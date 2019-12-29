@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-30 00:10",
+    "version": "2019-12-30 00:20",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -14507,6 +14507,37 @@
             ],
             "Assembly:HSBE": [
               {
+                "id": 1740,
+                "guid": "04d56b1a-0344-45d9-a1e8-b65a88a15273",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Karaoke_night",
+                "logo": null,
+                "date": "2019-12-30T01:15:00+01:00",
+                "start": "01:15",
+                "duration": "3:00",
+                "room": "Assembly:HSBE",
+                "slug": "36c3-1740-session_karaoke_night",
+                "title": "Karaoke night",
+                "subtitle": "BYOB",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Karaoke night!\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Qwaxys",
+                    "public_name": "Qwaxys"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Galgalesh",
+                    "public_name": "Galgalesh"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1722,
                 "guid": "4879b657-0f18-4c6a-ab7b-9607a9696a2b",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Karaoke_night",
@@ -15876,6 +15907,34 @@
                 ],
                 "links": [
                   "https://cornfieldelectronics.com/cfe/projects.php#ardutouch"
+                ]
+              },
+              {
+                "id": 1739,
+                "guid": "ea2462cb-ca71-4020-b7a6-47ec15afe4a2",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Hands-on_with_Wi-Fi_hacking",
+                "logo": null,
+                "date": "2019-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "2:00",
+                "room": "Assembly:Hardware Hacking Area",
+                "slug": "36c3-1739-session_hands_on_with_wi_fi_hacking",
+                "title": "Hands-on with Wi-Fi hacking",
+                "subtitle": "Hands on with WI-FI Hacking on the ESP8266",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "en",
+                "abstract": "",
+                "description": "Hands-on with Wi-Fi hacking\nWant to learn how Wi-Fi hacking works, and go home with your own esp8266 Wi-Fi deauther? Come to the first LA Cyber Weapons Lab meetup to learn how hackers can shut down any Wi-Fi network in seconds with a low-cost microcontroller. Kody Kinzie will explain how the most common Wi-Fi attacks work, focusing on using low-cost microcontrollers and Raspberry Pi computers to crack passwords and attack IoT devices like WI-Fi security cameras.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Skickar",
+                    "public_name": "Skickar"
+                  }
+                ],
+                "links": [
+                  "https://www.meetup.com/Cyber-Weapons-Lab-LA/events/266219223/"
                 ]
               },
               {

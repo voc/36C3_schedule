@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-29 18:10</version>
+  <version>2019-12-29 18:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -3881,27 +3881,6 @@ Jedes Jahr treffen wir Haecksen uns zum traditionellen Haecksenfrühstück auf d
         <description>
 </description>
         <persons/>
-        <links/>
-      </event>
-      <event id="1690" guid="045f2042-7b05-4b79-80f5-7d1e08e2fa8a">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Organspende_und_Hirntod</url>
-        <logo/>
-        <date>2019-12-29T00:00:00+01:00</date>
-        <start>00:00</start>
-        <duration>1:00</duration>
-        <room>Lecture room 11</room>
-        <slug>36c3-1690-session_organspende_und_hirntod</slug>
-        <title>Organspende und Hirntod</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Wie funktioniert Organspende? Was ist Hirntod? Und kann ich wirklich sicher sein, dass ich wirklich tot bin wenn meine Organe entnommen werden?
-Wie funktioniert Organspende? Was ist Hirntod? Und kann ich wirklich sicher sein, dass ich wirklich tot bin, wenn mir Organe entnommen werden?Diese Fragen werde ich versuchen zu beantworten. Dabei geht es mir darum, Dich neutral aufzuklären damit Du eine eigene Entscheidung treffen kannst, was mit deinen Organen nach deinem Tod passieren soll. Denn wichtig ist nur das du deine Entscheidung triffst und festhälst!Der Vortrag ist für medizinische Laien angelegt, aber auch medizinisches Personal wird hier etwas neues lernen können. (Der Vortrag wird sowohl an Regelschulen ab der 9. Klasse als auch an Krankenpflegeschulen und in Medizinstudiengängen gehalten.)Der Talk wird aus etwa 30 Minuten Vortrag und 30 Minuten Fragen beantworten (mit jeweils ausführlicher Erklärung zu weiteren Aspekten zum Thema) bestehen.Solltest Du Fragen, Anregungen, Wünsche oder Liebe haben oder loswerden wollen: Twitter @duddles2013</description>
-        <persons>
-          <person id="0">Duddles</person>
-        </persons>
         <links/>
       </event>
       <event id="1197" guid="decdeb96-9c3c-44e4-93eb-7a76d40172e8">
@@ -8324,6 +8303,27 @@ Jeden Morgen um 11:00, Fast wie echtes Yoga.Am zweiten Tag um 10:30 Uhr, direkt 
           <link>http://haecksen.org</link>
         </links>
       </event>
+      <event id="1729" guid="32211cec-3d34-43ab-95a4-dfca4b57a61c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Save_the_world!_by_creating_a_zine</url>
+        <logo/>
+        <date>2019-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>36c3-1729-session_save_the_world_by_creating_a_zine</slug>
+        <title>Save the world! by creating a zine</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>What are the most important problems you want to see solved in the world? Let's create a bunch of zines and do some story telling around it.
+What are the most important problems you want to see solved in the world? Let's create a bunch of zines and do some story telling.Bring your ideas of a brighter future and let's work through dystopia and utopia.All super heroes (to be) are welcome.Bring one or more pens for drawing.</description>
+        <persons>
+          <person id="0">Ghostrich</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1511" guid="c7f9bde6-cb17-43c3-9923-2ea25d8a5063">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Siebdruck_/_Screen_printing</url>
         <logo/>
@@ -10741,7 +10741,9 @@ Have you ever wanted to step up your personal security posture with hardware sec
         <type>other</type>
         <language>de</language>
         <abstract/>
-        <description>Bäume pflanzen kann sehr lange dauern. Mit interaktiven Karten können Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele  (mit QGIS und R) an und können bei Interesse ein kleines Kärtchen programmieren.
+        <description>Bäume pflanzen kann sehr lange dauern. Mit interaktiven Karten können Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele  (mit QGIS und R) an und können bei Interesse ein kleines Kärtchen programmieren. Geodaten können stehen hier zum download bereit: https://www.dropbox.com/sh/xv0surdy8jvro7t/AABnKXru1Z0FUVGnT7l5jvqja?dl=0 (ca. 230Mb, bitte rechtzeitig herunterladen falls ihr an den Karten basteln möchtet)
+
+Für weitere Informationen zum Projekt, bzw. falls ihr euch am Projekt beteiligen möchtet, schickt bitte ein Mail an office.booksfortrees@gmail.com oder schaut bei https://www.beobachterin.com/ vorbei.
 </description>
         <persons>
           <person id="0">Bella</person>
@@ -11408,7 +11410,7 @@ Demonstration im Rahmen von Fridays for Future in der Stadt; Termin am Vormittag
         <language>de</language>
         <abstract/>
         <description>
-</description>
+Doku: https://hackmd.io/RNxTFq2XSUOaG7vXGMgj1Q?both</description>
         <persons>
           <person id="0">Rupi</person>
           <person id="0">Lambo</person>

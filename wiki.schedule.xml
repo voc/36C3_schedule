@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-29 19:30</version>
+  <version>2019-12-29 19:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -11610,14 +11610,14 @@ Ein Türschloss ist eigentlich ganz einfach zu tauschen? Eine Schraube raus, alt
         </persons>
         <links/>
       </event>
-      <event id="1717" guid="067fd1ff-32cf-5514-80fc-b9656dea033b">
+      <event id="1732" guid="5899275a-b62c-5f29-8e21-da6fa02c8b8f">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Introduction_to_Voltage_Glitching</url>
         <logo/>
-        <date>2019-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2019-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
         <duration>1:00</duration>
         <room>Assembly:Hardware Slackers</room>
-        <slug>36c3-1717-session_introduction_to_voltage_glitching</slug>
+        <slug>36c3-1732-session_introduction_to_voltage_glitching</slug>
         <title>Introduction to Voltage Glitching</title>
         <subtitle>beta testing 2</subtitle>
         <track>self organized sessions</track>
@@ -12283,6 +12283,29 @@ The more the technology advances and becomes interconnected and complex, the les
         <links>
           <link>https://alxd.org/solarpunk-cyberpunk-popculture.html#solarpunk-cyberpunk-popculture</link>
         </links>
+      </event>
+    </room>
+    <room name="Assembly:CCC Darmstadt">
+      <event id="1733" guid="cf712cf7-399d-47aa-8f6a-3902d318aae8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Unixporn_Party</url>
+        <logo/>
+        <date>2019-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>1:30</duration>
+        <room>Assembly:CCC Darmstadt</room>
+        <slug>36c3-1733-session_unixporn_party</slug>
+        <title>Unixporn Party</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Live out and share your unixporn passion with others, or just try yourself out at styling your desktop-environment.
+</description>
+        <persons>
+          <person id="0">Avocadoom</person>
+        </persons>
+        <links/>
       </event>
     </room>
   </day>
@@ -13209,6 +13232,31 @@ Was macht Bambus aus? Ist er auch so Hygienisch wie Plastik? Und viele weiter Fr
           <person id="0">Toni</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Assembly:HSBE">
+      <event id="1731" guid="62cfeaad-4b38-488b-b935-0be055b907f4">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:How_to_(re)start_a_hackerspace</url>
+        <logo/>
+        <date>2019-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>0:40</duration>
+        <room>Assembly:HSBE</room>
+        <slug>36c3-1731-session_how_to_re_start_a_hackerspace</slug>
+        <title>How to (re)start a hackerspace</title>
+        <subtitle>Do-ocracy done well</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>We explain how to run a do-ocracy and the lessons we learned from 6 years of hacking our own community.
+We explain how to run a do-ocracy and the lessons we learned from 6 years of hacking our own community.* How do you solve internal conflict?* How do you stop people from exploiting loopholes in the rules of your community?* How do you create a culture and shared values?* How do you keep directors from burning out?* How do give people creative freedom?'''History'''Hackerspace.Gent was on the brink of collapse because of internal conflict. Instead of giving up, we decided to hack the hackerspace itself; find a system where internal conflict actually gets solved. We did an number of workshops to figure out how to do this, we wrote everything down, and got to work. Six years later, the disorganized workshop notes turned into an actual booklet: the hackerspace blueprint. We hope you can use this to solve issues in your organization.</description>
+        <persons>
+          <person id="0">Galgalesh</person>
+        </persons>
+        <links>
+          <link>https://hackerspace.design</link>
+        </links>
       </event>
     </room>
     <room name="Lecture room 12">

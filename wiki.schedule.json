@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-29 19:30",
+    "version": "2019-12-29 19:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -14425,15 +14425,15 @@
                 "links": []
               },
               {
-                "id": 1717,
-                "guid": "067fd1ff-32cf-5514-80fc-b9656dea033b",
+                "id": 1732,
+                "guid": "5899275a-b62c-5f29-8e21-da6fa02c8b8f",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Introduction_to_Voltage_Glitching",
                 "logo": null,
-                "date": "2019-12-29T21:00:00+01:00",
-                "start": "21:00",
+                "date": "2019-12-29T21:30:00+01:00",
+                "start": "21:30",
                 "duration": "1:00",
                 "room": "Assembly:Hardware Slackers",
-                "slug": "36c3-1717-session_introduction_to_voltage_glitching",
+                "slug": "36c3-1732-session_introduction_to_voltage_glitching",
                 "title": "Introduction to Voltage Glitching",
                 "subtitle": "beta testing 2",
                 "track": "self organized sessions",
@@ -15246,6 +15246,34 @@
                 "links": [
                   "https://alxd.org/solarpunk-cyberpunk-popculture.html#solarpunk-cyberpunk-popculture"
                 ]
+              }
+            ],
+            "Assembly:CCC Darmstadt": [
+              {
+                "id": 1733,
+                "guid": "cf712cf7-399d-47aa-8f6a-3902d318aae8",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Unixporn_Party",
+                "logo": null,
+                "date": "2019-12-29T22:30:00+01:00",
+                "start": "22:30",
+                "duration": "1:30",
+                "room": "Assembly:CCC Darmstadt",
+                "slug": "36c3-1733-session_unixporn_party",
+                "title": "Unixporn Party",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Live out and share your unixporn passion with others, or just try yourself out at styling your desktop-environment.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Avocadoom",
+                    "public_name": "Avocadoom"
+                  }
+                ],
+                "links": []
               }
             ]
           }
@@ -16399,6 +16427,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:HSBE": [
+              {
+                "id": 1731,
+                "guid": "62cfeaad-4b38-488b-b935-0be055b907f4",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:How_to_(re)start_a_hackerspace",
+                "logo": null,
+                "date": "2019-12-30T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "0:40",
+                "room": "Assembly:HSBE",
+                "slug": "36c3-1731-session_how_to_re_start_a_hackerspace",
+                "title": "How to (re)start a hackerspace",
+                "subtitle": "Do-ocracy done well",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "We explain how to run a do-ocracy and the lessons we learned from 6 years of hacking our own community.\nWe explain how to run a do-ocracy and the lessons we learned from 6 years of hacking our own community.* How do you solve internal conflict?* How do you stop people from exploiting loopholes in the rules of your community?* How do you create a culture and shared values?* How do you keep directors from burning out?* How do give people creative freedom?'''History'''Hackerspace.Gent was on the brink of collapse because of internal conflict. Instead of giving up, we decided to hack the hackerspace itself; find a system where internal conflict actually gets solved. We did an number of workshops to figure out how to do this, we wrote everything down, and got to work. Six years later, the disorganized workshop notes turned into an actual booklet: the hackerspace blueprint. We hope you can use this to solve issues in your organization.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Galgalesh",
+                    "public_name": "Galgalesh"
+                  }
+                ],
+                "links": [
+                  "https://hackerspace.design"
+                ]
               }
             ],
             "Lecture room 12": [

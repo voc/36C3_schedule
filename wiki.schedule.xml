@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-29 16:30</version>
+  <version>2019-12-29 16:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -6520,10 +6520,10 @@ Allmacht ist ein alter theoretischer Begriff, der für einige logische Verwirrun
         <description>A meetup for users and developers of XMPP
 </description>
         <persons>
-          <person id="0">Inputmice</person>
-          <person id="0">Pep</person>
           <person id="0">Fiaxh</person>
+          <person id="0">Pep</person>
           <person id="0">Larma</person>
+          <person id="0">Inputmice</person>
         </persons>
         <links/>
       </event>
@@ -8140,6 +8140,27 @@ This is the introduction meetings for subtitles angels.If you want to become a s
 This meeting is used for the distribution of shifts for the Translation team.</description>
         <persons>
           <person id="0">Katti</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1724" guid="a1763a56-183f-4179-b91f-47aa47d17ec8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:WERW%C3%96LFE_VON_D%C3%9CSTERWALD_2</url>
+        <logo/>
+        <date>2019-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>8:00</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1724-session_werwoelfe_von_duesterwald_2</slug>
+        <title>WERWÖLFE VON DÜSTERWALD 2</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>wir wollen Werwölfe spielen (auf deutsch) und dafür einen dedicated Raum haben.
+If you ever wanted to know, how to get from blank page to an adventurous story, staffed with lively characters and set in a vivid world, then this workshop is for you.During the last years, this workshop was about starting out with a blank page, the hero's journey, archetype characters and story worlds. Let's try out something new this time: story beats (also called "story points"). What phases are there in a story and how does character-driven storytelling work?Bring your writing gear - pens and paper will work best for the writing exercises.</description>
+        <persons>
+          <person id="0">Kmille</person>
         </persons>
         <links/>
       </event>
@@ -10070,7 +10091,9 @@ If you ever wanted to know, how to get from blank page to an adventurous story, 
         <persons>
           <person id="0">Jinxx</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://etherpad.wikimedia.org/p/hackwords</link>
+        </links>
       </event>
       <event id="1107" guid="b0641b7f-8bbd-443e-9d06-8f1f61cea976">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Make_peace_not_warcraft</url>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>locate; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.28; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 16:30</version>
+  <version>locate; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.29; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 16:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -12500,10 +12500,10 @@ Allmacht ist ein alter theoretischer Begriff, der für einige logische Verwirrun
         <description>A meetup for users and developers of XMPP
 </description>
         <persons>
-          <person id="0">Inputmice</person>
-          <person id="0">Pep</person>
           <person id="0">Fiaxh</person>
+          <person id="0">Pep</person>
           <person id="0">Larma</person>
+          <person id="0">Inputmice</person>
         </persons>
         <links/>
       </event>
@@ -23885,6 +23885,27 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         </persons>
         <links/>
       </event>
+      <event id="1724" guid="a1763a56-183f-4179-b91f-47aa47d17ec8">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:WERW%C3%96LFE_VON_D%C3%9CSTERWALD_2</url>
+        <logo/>
+        <date>2019-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>8:00</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1724-session_werwoelfe_von_duesterwald_2</slug>
+        <title>WERWÖLFE VON DÜSTERWALD 2</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>wir wollen Werwölfe spielen (auf deutsch) und dafür einen dedicated Raum haben.
+If you ever wanted to know, how to get from blank page to an adventurous story, staffed with lively characters and set in a vivid world, then this workshop is for you.During the last years, this workshop was about starting out with a blank page, the hero's journey, archetype characters and story worlds. Let's try out something new this time: story beats (also called "story points"). What phases are there in a story and how does character-driven storytelling work?Bring your writing gear - pens and paper will work best for the writing exercises.</description>
+        <persons>
+          <person id="0">Kmille</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1723" guid="ec80dc42-2146-4733-8a1b-d24588d815df">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werw%C3%B6lfe_von_D%C3%BCsterwald</url>
         <logo/>
@@ -24881,7 +24902,9 @@ If you ever wanted to know, how to get from blank page to an adventurous story, 
         <persons>
           <person id="0">Jinxx</person>
         </persons>
-        <links/>
+        <links>
+          <link>https://etherpad.wikimedia.org/p/hackwords</link>
+        </links>
       </event>
       <event id="1107" guid="b0641b7f-8bbd-443e-9d06-8f1f61cea976">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Make_peace_not_warcraft</url>
@@ -27366,6 +27389,38 @@ In our session we will start with a short introduction about social and ecologic
         </recording>
         <persons>
           <person id="79">Martin, Michel, Nico, Simon</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="891" guid="3e3b7647-5b61-5971-9371-37f18fcde34f">
+        <logo>/media/36c3/images/NTAXZZ/logo.png</logo>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>cinopolis</room>
+        <slug>NTAXZZ</slug>
+        <url>https://talks.komona.org/36c3/talk/NTAXZZ/</url>
+        <title>Medienkollektiv Frankfurt - Kurzfilme</title>
+        <subtitle/>
+        <track/>
+        <type>Movie</type>
+        <language>de</language>
+        <abstract>Das _Medienkollektiv Frankfurt_ stellt sich kurz vor und zeigt eine kleine Auswahl an Produktionen der letzten Monate.</abstract>
+        <description>Wir, das [Medienkollektiv Frankfurt](https://www.medienkollektivfrankfurt.net/), arbeiten ohne kommerzielles Interesse. Wir entscheiden frei von Markt- und Diskurszwängen, rein nach inhaltlichen Kriterien, was wir in welcher Weise abbilden wollen - und dies nicht isoliert und von außen, sondern solidarisch aus und mit den Bewegungen, über die wir berichten.&#13;
+&#13;
+Wir würden euch gerne ein paar Arbeiten der letzten Monate vorstellen, chaotisch kuratiert just in dem Moment. Alle von uns veröffentlichten Videos findet ihr aber auch auf [youtube](https://www.youtube.com/channel/UClPnzcLXOLvlyvlbXpMiCOA/videos).&#13;
+&#13;
+Anschliessend können wir uns über alternative Medienarbeit unterhalten. Wir teilen gerne unsere Erfahrungen und freuen uns über kritischen Austausch.&#13;
+&#13;
+Menschen, die nicht gerne in größeren Gruppen sprechen, laden wir dazu ein, uns an unserem [kleinen Stand im Süden von Komona](https://36c3.c3nav.de/l/c:0:446.98:439.57/) zu besuchen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">mkf_</person>
         </persons>
         <links/>
         <attachments/>

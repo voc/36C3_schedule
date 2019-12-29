@@ -1,5 +1,5 @@
 <schedule>
-  <version>locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 20:20</version>
+  <version>locate; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 20:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -23789,12 +23789,12 @@ Dies ist ein internes Treffen der Haecksen. Wenn du noch keine bist und eine wer
         <room>Lecture room 11</room>
         <slug>36c3-1632-session_how_to_make_politics_more_transparent</slug>
         <title>How to make politics more transparent</title>
-        <subtitle>We present our project politicindex after that lets discuss about transparency in politics</subtitle>
+        <subtitle>Contact florian@politicindex.de We present our project politicindex after that lets discuss about transparency in politics</subtitle>
         <track>self organized sessions</track>
         <type>discussion</type>
         <language>en</language>
         <abstract/>
-        <description>We present our project politicindex after that lets discuss about transparency in politics
+        <description>Contact florian@politicindex.de We present our project politicindex after that lets discuss about transparency in politics
 https://events.ccc.de/congress/2019/wiki/index.php/Projects:Politicindex</description>
         <persons>
           <person id="0">Politicindex</person>
@@ -33444,6 +33444,35 @@ If 36c3 isn't the right place for a project like this, what else is? We will giv
         <attachments/>
         <answers/>
       </event>
+      <event id="401" guid="4e309838-fedd-55f3-a48b-835c928cc1c0">
+        <logo/>
+        <date>2019-12-30T15:20:00+01:00</date>
+        <start>15:20</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>UZAKPR</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/UZAKPR/</url>
+        <title>a home among the stars: Galina Balashova, architect of the soviet space programme</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Galina Balashova was the main architect and designer for the soviet space programme. She designed the interieurs and visual identity of spacecrafts such as the Soyuz, Buran, and Mir.</abstract>
+        <description>»Space stations are not only technical structures but architecture built amidst zero gravity.«&#13;
+&#13;
+Galina Balashova (b. 1931) is a self-described "architect-engineer" who spent almost 30 years working in the Soviet Space Programme. She designed the ergonomics, the colours &amp; style and the typography of most soviet spacecrafts, including the Soyuz, the Salyut space stations, the Buran shuttle and the Mir space station.&#13;
+Her pioneering work in the field of zero-gravity architecture is still referenced today in the ISS and other spacecrafts.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="168">Aurora</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="380" guid="9f137ade-314d-5531-9e55-e0020824464a">
         <logo/>
         <date>2019-12-30T17:30:00+01:00</date>
@@ -34554,6 +34583,33 @@ Sie rufen an - ich lege auf&#13;
     <room name="Furo no ba"/>
     <room name="Monipilami"/>
     <room name="OIO Workshop Dome">
+      <event id="402" guid="aa8119af-732c-55bc-9902-6e5caf8aa94f">
+        <logo/>
+        <date>2019-12-30T11:45:00+01:00</date>
+        <start>11:45</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>TCC7RE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/TCC7RE/</url>
+        <title>Wir hacken den Osten #wirsindderosten</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Workshop 1 hour</type>
+        <language>de</language>
+        <abstract>....</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="169">Melanie Stein</person>
+          <person id="170">Christian Bollert</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="378" guid="3d0efe4f-63da-5a8b-822a-b0ba99692ed3">
         <logo/>
         <date>2019-12-30T13:00:00+01:00</date>
@@ -35761,6 +35817,29 @@ After an introduction of the SUSI.AI project, discussion why open source persona
           <link>https://susi.ai</link>
         </links>
       </event>
+      <event id="1728" guid="27e739a8-3e8c-40d7-b4c6-8a8340e922a3">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wir_hacken_den_Osten</url>
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:FOSSASIA</room>
+        <slug>36c3-1728-session_wir_hacken_den_osten</slug>
+        <title>Wir hacken den Osten</title>
+        <subtitle>#wirsindderosten</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wir erzählen euch von den Aktionen unserer Initiative #wirsindderosten und wollen anschließend gemeinsam über Ideen sprechen, Ostdeutschland zu puschen.
+Mit #wirsindderosten machen wir Menschen in und aus Ostdeutschland sichtbar, die die Zukunft positiv gestalten. So Vorurteile abzubauen ist nur der erste Schritt. Gemeinsam mit euch wollen wir weitergehen. So let’s hack the East!</description>
+        <persons>
+          <person id="0">Mel</person>
+        </persons>
+        <links>
+          <link>https://wirsindderosten.de</link>
+        </links>
+      </event>
     </room>
     <room name="Studio Datsche">
       <event id="1564" guid="90b4a4af-181d-479a-b282-4df48ace2086">
@@ -35897,29 +35976,6 @@ slowly getting into movement/ no gym yet but some easy reminder that we still ha
       </event>
     </room>
     <room name="Assembly:Open Infrastructure Orbit">
-      <event id="1728" guid="27e739a8-3e8c-40d7-b4c6-8a8340e922a3">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wir_hacken_den_Osten</url>
-        <logo/>
-        <date>2019-12-30T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Open Infrastructure Orbit</room>
-        <slug>36c3-1728-session_wir_hacken_den_osten</slug>
-        <title>Wir hacken den Osten</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Wir erzählen euch von den Aktionen unserer Initiative #wirsindderosten und wollen anschließend gemeinsam über Ideen sprechen, Ostdeutschland zu puschen.
-Mit #wirsindderosten machen wir Menschen in und aus Ostdeutschland sichtbar, die die Zukunft positiv gestalten. So Vorurteile abzubauen ist nur der erste Schritt. Gemeinsam mit euch wollen wir weitergehen. So let’s hack the East!</description>
-        <persons>
-          <person id="0">Mel</person>
-        </persons>
-        <links>
-          <link>https://wirsindderosten.de</link>
-        </links>
-      </event>
       <event id="1727" guid="ca2a13c7-4246-4654-b7ee-aafe0dec32f4">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wir_hacken_den_Osten%3F</url>
         <logo/>

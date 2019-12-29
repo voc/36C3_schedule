@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "locate; lounges 505; chaos-west 1.0; open-infra 22; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 20:20",
+    "version": "locate; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.11; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-29 20:40",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -27080,12 +27080,12 @@
                 "room": "Lecture room 11",
                 "slug": "36c3-1632-session_how_to_make_politics_more_transparent",
                 "title": "How to make politics more transparent",
-                "subtitle": "We present our project politicindex after that lets discuss about transparency in politics",
+                "subtitle": "Contact florian@politicindex.de We present our project politicindex after that lets discuss about transparency in politics",
                 "track": "self organized sessions",
                 "type": "discussion",
                 "language": "en",
                 "abstract": "",
-                "description": "We present our project politicindex after that lets discuss about transparency in politics\nhttps://events.ccc.de/congress/2019/wiki/index.php/Projects:Politicindex",
+                "description": "Contact florian@politicindex.de We present our project politicindex after that lets discuss about transparency in politics\nhttps://events.ccc.de/congress/2019/wiki/index.php/Projects:Politicindex",
                 "persons": [
                   {
                     "id": 0,
@@ -38271,6 +38271,38 @@
                 "answers": []
               },
               {
+                "id": 401,
+                "guid": "4e309838-fedd-55f3-a48b-835c928cc1c0",
+                "logo": "",
+                "date": "2019-12-30T15:20:00+01:00",
+                "start": "15:20",
+                "duration": "00:55",
+                "room": "OIO Stage",
+                "slug": "UZAKPR",
+                "url": "https://talks.oio.social/36c3-oio/talk/UZAKPR/",
+                "title": "a home among the stars: Galina Balashova, architect of the soviet space programme",
+                "subtitle": "",
+                "track": "Science",
+                "type": "Talk 45 minutes + 10 minutes Q&A",
+                "language": "en",
+                "abstract": "Galina Balashova was the main architect and designer for the soviet space programme. She designed the interieurs and visual identity of spacecrafts such as the Soyuz, Buran, and Mir.",
+                "description": "\u00bbSpace stations are not only technical structures but architecture built amidst zero gravity.\u00ab\r\n\r\nGalina Balashova (b. 1931) is a self-described \"architect-engineer\" who spent almost 30 years working in the Soviet Space Programme. She designed the ergonomics, the colours & style and the typography of most soviet spacecrafts, including the Soyuz, the Salyut space stations, the Buran shuttle and the Mir space station.\r\nHer pioneering work in the field of zero-gravity architecture is still referenced today in the ISS and other spacecrafts.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 168,
+                    "code": "BUHTH9",
+                    "public_name": "Aurora",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 380,
                 "guid": "9f137ade-314d-5531-9e55-e0020824464a",
                 "logo": "",
@@ -39572,6 +39604,45 @@
             "Furo no ba": [],
             "Monipilami": [],
             "OIO Workshop Dome": [
+              {
+                "id": 402,
+                "guid": "aa8119af-732c-55bc-9902-6e5caf8aa94f",
+                "logo": "",
+                "date": "2019-12-30T11:45:00+01:00",
+                "start": "11:45",
+                "duration": "01:00",
+                "room": "OIO Workshop Dome",
+                "slug": "TCC7RE",
+                "url": "https://talks.oio.social/36c3-oio/talk/TCC7RE/",
+                "title": "Wir hacken den Osten #wirsindderosten",
+                "subtitle": "",
+                "track": "Ethics, Society & Politics",
+                "type": "Workshop 1 hour",
+                "language": "de",
+                "abstract": "....",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 169,
+                    "code": "LJKVMW",
+                    "public_name": "Melanie Stein",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 170,
+                    "code": "RBYRAA",
+                    "public_name": "Christian Bollert",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
               {
                 "id": 378,
                 "guid": "3d0efe4f-63da-5a8b-822a-b0ba99692ed3",
@@ -40972,6 +41043,34 @@
                 "links": [
                   "https://susi.ai"
                 ]
+              },
+              {
+                "id": 1728,
+                "guid": "27e739a8-3e8c-40d7-b4c6-8a8340e922a3",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wir_hacken_den_Osten",
+                "logo": null,
+                "date": "2019-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "1:00",
+                "room": "Assembly:FOSSASIA",
+                "slug": "36c3-1728-session_wir_hacken_den_osten",
+                "title": "Wir hacken den Osten",
+                "subtitle": "#wirsindderosten",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Wir erz\u00e4hlen euch von den Aktionen unserer Initiative #wirsindderosten und wollen anschlie\u00dfend gemeinsam \u00fcber Ideen sprechen, Ostdeutschland zu puschen.\nMit #wirsindderosten machen wir Menschen in und aus Ostdeutschland sichtbar, die die Zukunft positiv gestalten. So Vorurteile abzubauen ist nur der erste Schritt. Gemeinsam mit euch wollen wir weitergehen. So let\u2019s hack the East!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mel",
+                    "public_name": "Mel"
+                  }
+                ],
+                "links": [
+                  "https://wirsindderosten.de"
+                ]
               }
             ],
             "Studio Datsche": [
@@ -41139,34 +41238,6 @@
               }
             ],
             "Assembly:Open Infrastructure Orbit": [
-              {
-                "id": 1728,
-                "guid": "27e739a8-3e8c-40d7-b4c6-8a8340e922a3",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wir_hacken_den_Osten",
-                "logo": null,
-                "date": "2019-12-30T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "1:00",
-                "room": "Assembly:Open Infrastructure Orbit",
-                "slug": "36c3-1728-session_wir_hacken_den_osten",
-                "title": "Wir hacken den Osten",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Wir erz\u00e4hlen euch von den Aktionen unserer Initiative #wirsindderosten und wollen anschlie\u00dfend gemeinsam \u00fcber Ideen sprechen, Ostdeutschland zu puschen.\nMit #wirsindderosten machen wir Menschen in und aus Ostdeutschland sichtbar, die die Zukunft positiv gestalten. So Vorurteile abzubauen ist nur der erste Schritt. Gemeinsam mit euch wollen wir weitergehen. So let\u2019s hack the East!",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mel",
-                    "public_name": "Mel"
-                  }
-                ],
-                "links": [
-                  "https://wirsindderosten.de"
-                ]
-              },
               {
                 "id": 1727,
                 "guid": "ca2a13c7-4246-4654-b7ee-aafe0dec32f4",

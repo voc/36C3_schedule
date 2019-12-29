@@ -1,0 +1,33 @@
+{
+  "id": 1709,
+  "guid": "bf70aaec-6d41-45b9-899e-cba3c3fad252",
+  "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:THC_or_how_we_built_a_decentralized_treasure_hunt_for_36c3",
+  "logo": null,
+  "date": "2019-12-29T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "0:45",
+  "room": "Assembly:CriticalDecentralisationCluster",
+  "slug": "36c3-1709-session_thc_or_how_we_built_a_decentralized_treasure_hunt_for_36c3",
+  "title": "THC or how we built a decentralized treasure hunt for 36c3",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "talk",
+  "language": "en",
+  "abstract": "",
+  "description": "An overview of the framework we have built for our decentralized treasure hunt and a deep dive into our cheap zero knowledge proof protocol\nWe will provide an overview of the framework we have built for our decentralized treasure hunt.We will show the architecture of the app (static web app + smart contract) and show how we managed to prevent the solutions disclosure with our cheap zero knowledge proof protocol.We don't have a projector. So We will just sit around our half broken screen and take it from there.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Sirnicolaz",
+      "public_name": "Sirnicolaz"
+    },
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Vrde",
+      "public_name": "Vrde"
+    }
+  ],
+  "links": [
+    "https://github.com/social-dist0rtion-protocol/thc/"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "kill; lounges 303; chaos-west 1.0; open-infra 20; wikipaka 0.16; chaoszone 0.10; komona 0.26; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 11:10",
+    "version": "kill; lounges 303; chaos-west 1.0; open-infra 20; wikipaka 0.16; chaoszone 0.10; komona 0.26; sendezentrum 3.5; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 11:20",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -22735,7 +22735,7 @@
                 "type": "workshop",
                 "language": "de",
                 "abstract": "",
-                "description": "Zum Umgang mit autorit\u00e4ren Weltbildern, Trollen und weiteren schwierigen Situationen auf Cryptopartys und anderen Veranstaltungen\nWer kennt sie bei Veranstaltungen nicht: Die Leute, die (absichtlich) st\u00f6ren und blockieren, die Leute, die einen mit Meinungen und Aussagen konfrontieren, die offensichtlich falsch oderverwerflich sind, denen dennoch nur sehr schwer zu begegnen ist. Und die Fragen, die man sich dann stellt: H\u00e4tte ich anders reagieren oder die Situation gar verhindern k\u00f6nnen? Dieser Mini Workshop soll euch ein paar Hilfestellungen, Tipps und Tricks geben, wie ihr euch auf eure zuk\u00fcnftigen Veranstaltungen vorbereiten und wie ihr euch rechtlich absichern k\u00f6nnt, solltet ihr bspw. jemandem die Teilnahme verweigern. Auch werden euch hilfreiche Tipps, Tricks undStrategien aus der Praxis verraten, mit denen ihr schwierigen Situationen begegnen k\u00f6nnt.Zun\u00e4chst werde ich euch grundlegend er\u00f6rtern, wie ihr autorit\u00e4res Gedankengut als solchesidentifizieren k\u00f6nnt und an Beispielen erl\u00e4utern, was den Unterschied zwischen \u201eKritik\u201c und\u201eIdeologie\u201c ausmacht. Anschlie\u00dfend werde ich euch allgemeine Tipps zur Argumentation und zumUmgang mit schwierigen Aussagen geben. Und zum Schluss noch die M\u00f6glichkeiten, die ihr(rechtlich) als Veranstalter habt und was ihr bei der Organisation einer Veranstaltung beachtenk\u00f6nnt, um einen reibungslosen Ablauf auch bei St\u00f6rungsf\u00e4llen zu gew\u00e4hrleisten.Um alles praxisnah zu gestalten, werden wir an von euch konstruierten Fallbeispielen dastheoretisch gelernte anwenden und einem Praxistest unterziehen.",
+                "description": "Zum Umgang mit autorit\u00e4ren Weltbildern, Trollen und weiteren schwierigen Situationen auf Cryptopartys und anderen Veranstaltungen\nWer kennt sie bei Veranstaltungen nicht: Die Leute, die (absichtlich) st\u00f6ren und blockieren, die Leute, die einen mit Meinungen und Aussagen konfrontieren, die offensichtlich falsch oderverwerflich sind, denen dennoch nur sehr schwer zu begegnen ist. Und die Fragen, die man sich dann stellt: H\u00e4tte ich anders reagieren oder die Situation gar verhindern k\u00f6nnen? Dieser Mini Workshop soll euch ein paar Hilfestellungen, Tipps und Tricks geben, wie ihr euch auf eure zuk\u00fcnftigen Veranstaltungen vorbereiten und wie ihr euch rechtlich absichern k\u00f6nnt, solltet ihr bspw. jemandem die Teilnahme verweigern. Auch werden euch hilfreiche Tipps, Tricks undStrategien aus der Praxis verraten, mit denen ihr schwierigen Situationen begegnen k\u00f6nnt.Zun\u00e4chst werde ich euch grundlegend er\u00f6rtern, wie ihr autorit\u00e4res Gedankengut als solchesidentifizieren k\u00f6nnt und an Beispielen erl\u00e4utern, was den Unterschied zwischen \u201eKritik\u201c und\u201eIdeologie\u201c ausmacht. Anschlie\u00dfend werde ich euch allgemeine Tipps zur Argumentation und zumUmgang mit schwierigen Aussagen geben. Und zum Schluss noch die M\u00f6glichkeiten, die ihr(rechtlich) als Veranstalter habt und was ihr bei der Organisation einer Veranstaltung beachtenk\u00f6nnt, um einen reibungslosen Ablauf auch bei St\u00f6rungsf\u00e4llen zu gew\u00e4hrleisten.Um alles praxisnah zu gestalten, werden wir an von euch konstruierten Fallbeispielen dastheoretisch gelernte anwenden und einem Praxistest unterziehen.[https://cloud.exigen.org/apps/sharingpath/moorhexa/36C6/handout_WS.pdf handout]",
                 "persons": [
                   {
                     "id": 0,
@@ -34363,6 +34363,39 @@
                 "links": [
                   "http://z-uno.z-wave.me"
                 ]
+              },
+              {
+                "id": 1709,
+                "guid": "bf70aaec-6d41-45b9-899e-cba3c3fad252",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:THC_or_how_we_built_a_decentralized_treasure_hunt_for_36c3",
+                "logo": null,
+                "date": "2019-12-29T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "0:45",
+                "room": "Assembly:CriticalDecentralisationCluster",
+                "slug": "36c3-1709-session_thc_or_how_we_built_a_decentralized_treasure_hunt_for_36c3",
+                "title": "THC or how we built a decentralized treasure hunt for 36c3",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "An overview of the framework we have built for our decentralized treasure hunt and a deep dive into our cheap zero knowledge proof protocol\nWe will provide an overview of the framework we have built for our decentralized treasure hunt.We will show the architecture of the app (static web app + smart contract) and show how we managed to prevent the solutions disclosure with our cheap zero knowledge proof protocol.We don't have a projector. So We will just sit around our half broken screen and take it from there.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Sirnicolaz",
+                    "public_name": "Sirnicolaz"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Vrde",
+                    "public_name": "Vrde"
+                  }
+                ],
+                "links": [
+                  "https://github.com/social-dist0rtion-protocol/thc/"
+                ]
               }
             ],
             "Kidspace": [
@@ -35094,7 +35127,7 @@
                 "type": "discussion",
                 "language": "en",
                 "abstract": "",
-                "description": "Germany stands with Hongkong! What is necessary, what can be done to support Hongkong?\n'''What?'''<br>We would like to give you a quick overview of the current situation in Hongkong and about the work that the loose community of Hongkongers living in Germany have done so far. In the second part we will discuss on how to take part yourself. '''Who are we?'''<br>Inspired by the strategy of the protest in Hongkong there is no single structure, no leader for the movement in Germany. We stand for ourselves and so can you! '''To whom this may concern?'''<br>You know about the situation in HK and need someone to talk about it, you read the news but don't know how to show your support? Or maybe you have great ideas but you don't know how to get people together? You don't know how to be part of a leaderless movement?Join us - be like water.This session might be repeated later this day if it resonates with people, we encourage you all to go out and start your own things as well, take this as an initial spark.For inquiriesjoylah@protonmail.com<br>kampfmithk@gmail.com<br><br>------------------------'''Introduction of Germany Stands With Hongkong'''On June 9, 2019, over 1 million people in Hong Kong gathered to protest against an extradition bill proposed by our government, in favor of the authoritarian Communist Party of China. Fast forward to today, the city is now under constant threat of deteriorating freedom and violation of human rights. More than 6000 People have been arrested as of now. As a community of Hongkongers living in Germany, we share the worries and sobs with those living in our home town. With the mission to support the democratic movement, HongKongers in Germany Concern Group was therefore founded and has grown organically since then.Our goal is to raise awareness and to support the ongoing democratic movement in Hong Kong. The group has no leader nor political background. All of us have gathered for one shared belief\u2014Hong Kong is a place we call home.We organize and support a diverse range of events in Germany such as rallies, educational programs, art exhibitions, and discussion panels.  We also collaborate and align closely with Hongkonger in Deutschland e.V, with the goal to support and optimize resource utilization for facilitating relevant activities held in Germany.",
+                "description": "Germany stands with Hongkong! What is necessary, what can be done to support Hongkong?\n'''What?'''<br>We would like to give you a quick overview of the current situation in Hongkong and about the work that the loose community of Hongkongers living in Germany have done so far. In the second part we will discuss on how to take part yourself. '''Who are we?'''<br>Inspired by the strategy of the protest in Hongkong there is no single structure, no leader for the movement in Germany. We stand for ourselves and so can you! '''To whom this may concern?'''<br>You know about the situation in HK and need someone to talk about it, you read the news but don't know how to show your support? Or maybe you have great ideas but you don't know how to get people together? You don't know how to be part of a leaderless movement?Join us - be like water.This session might be repeated later this day if it resonates with people, we encourage you all to go out and start your own things as well, take this as an initial spark.For inquiriesjoylah@protonmail.com<br>germanystandswithhk@gmail.com<br><br>J0, Mx------------------------'''Introduction of Germany Stands With Hongkong'''On June 9, 2019, over 1 million people in Hong Kong gathered to protest against an extradition bill proposed by our government, in favor of the authoritarian Communist Party of China. Fast forward to today, the city is now under constant threat of deteriorating freedom and violation of human rights. More than 6000 People have been arrested as of now. As a community of Hongkongers living in Germany, we share the worries and sobs with those living in our home town. With the mission to support the democratic movement, HongKongers in Germany Concern Group was therefore founded and has grown organically since then.Our goal is to raise awareness and to support the ongoing democratic movement in Hong Kong. The group has no leader nor political background. All of us have gathered for one shared belief\u2014Hong Kong is a place we call home.We organize and support a diverse range of events in Germany such as rallies, educational programs, art exhibitions, and discussion panels.  We also collaborate and align closely with Hongkonger in Deutschland e.V, with the goal to support and optimize resource utilization for facilitating relevant activities held in Germany.",
                 "persons": [
                   {
                     "id": 0,
@@ -35127,7 +35160,7 @@
                 "type": "discussion",
                 "language": "en",
                 "abstract": "",
-                "description": "Germany stands with Hongkong! What is necessary, what can be done to support Hongkong?\n'''What?'''<br>We would like to give you a quick overview of the current situation in Hongkong and about the work that the loose community of Hongkongers living in Germany have done so far. In the second part we will discuss on how to take part yourself. '''Who are we?'''<br>Inspired by the strategy of the protest in Hongkong there is no single structure, no leader for the movement in Germany. We stand for ourselves and so can you! '''To whom this may concern?'''<br>You know about the situation in HK and need someone to talk about it, you read the news but don't know how to show your support? Or maybe you have great ideas but you don't know how to get people together? You don't know how to be part of a leaderless movement?Join us - be like water.This session might be repeated later this day if it resonates with people, we encourage you all to go out and start your own things as well, take this as an initial spark.For inquiriesjoylah@protonmail.com<br>kampfmithk@gmail.com<br><br>------------------------'''Introduction of Germany Stands With Hongkong'''On June 9, 2019, over 1 million people in Hong Kong gathered to protest against an extradition bill proposed by our government, in favor of the authoritarian Communist Party of China. Fast forward to today, the city is now under constant threat of deteriorating freedom and violation of human rights. More than 6000 People have been arrested as of now. As a community of Hongkongers living in Germany, we share the worries and sobs with those living in our home town. With the mission to support the democratic movement, HongKongers in Germany Concern Group was therefore founded and has grown organically since then.Our goal is to raise awareness and to support the ongoing democratic movement in Hong Kong. The group has no leader nor political background. All of us have gathered for one shared belief\u2014Hong Kong is a place we call home.We organize and support a diverse range of events in Germany such as rallies, educational programs, art exhibitions, and discussion panels.  We also collaborate and align closely with Hongkonger in Deutschland e.V, with the goal to support and optimize resource utilization for facilitating relevant activities held in Germany.",
+                "description": "Germany stands with Hongkong! What is necessary, what can be done to support Hongkong?\n'''What?'''<br>We would like to give you a quick overview of the current situation in Hongkong and about the work that the loose community of Hongkongers living in Germany have done so far. In the second part we will discuss on how to take part yourself. '''Who are we?'''<br>Inspired by the strategy of the protest in Hongkong there is no single structure, no leader for the movement in Germany. We stand for ourselves and so can you! '''To whom this may concern?'''<br>You know about the situation in HK and need someone to talk about it, you read the news but don't know how to show your support? Or maybe you have great ideas but you don't know how to get people together? You don't know how to be part of a leaderless movement?Join us - be like water.This session might be repeated later this day if it resonates with people, we encourage you all to go out and start your own things as well, take this as an initial spark.For inquiriesjoylah@protonmail.com<br>germanystandswithhk@gmail.com<br><br>J0, Mx------------------------'''Introduction of Germany Stands With Hongkong'''On June 9, 2019, over 1 million people in Hong Kong gathered to protest against an extradition bill proposed by our government, in favor of the authoritarian Communist Party of China. Fast forward to today, the city is now under constant threat of deteriorating freedom and violation of human rights. More than 6000 People have been arrested as of now. As a community of Hongkongers living in Germany, we share the worries and sobs with those living in our home town. With the mission to support the democratic movement, HongKongers in Germany Concern Group was therefore founded and has grown organically since then.Our goal is to raise awareness and to support the ongoing democratic movement in Hong Kong. The group has no leader nor political background. All of us have gathered for one shared belief\u2014Hong Kong is a place we call home.We organize and support a diverse range of events in Germany such as rallies, educational programs, art exhibitions, and discussion panels.  We also collaborate and align closely with Hongkonger in Deutschland e.V, with the goal to support and optimize resource utilization for facilitating relevant activities held in Germany.",
                 "persons": [
                   {
                     "id": 0,
@@ -37993,6 +38026,32 @@
               }
             ],
             "Lecture room 12": [
+              {
+                "id": 1708,
+                "guid": "328944a0-e224-4efb-92ea-b52430485330",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:SSG_Meetup_2",
+                "logo": null,
+                "date": "2019-12-30T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "1:30",
+                "room": "Lecture room 12",
+                "slug": "36c3-1708-session_ssg_meetup_2",
+                "title": "SSG Meetup 2",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "A meeting of SSG devs\nA followup meeting to the first one which was on 28/12/19",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Krawuzikapuzi",
+                    "public_name": "Krawuzikapuzi"
+                  }
+                ],
+                "links": []
+              },
               {
                 "id": 1662,
                 "guid": "16c2f17f-088c-48c0-b82b-c53765a014bd",

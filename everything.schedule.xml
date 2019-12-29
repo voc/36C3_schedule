@@ -1,5 +1,5 @@
 <schedule>
-  <version>locate; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.29; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 16:50</version>
+  <version>locate; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.29; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 17:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -12500,10 +12500,10 @@ Allmacht ist ein alter theoretischer Begriff, der für einige logische Verwirrun
         <description>A meetup for users and developers of XMPP
 </description>
         <persons>
-          <person id="0">Inputmice</person>
-          <person id="0">Pep</person>
           <person id="0">Fiaxh</person>
+          <person id="0">Pep</person>
           <person id="0">Larma</person>
+          <person id="0">Inputmice</person>
         </persons>
         <links/>
       </event>
@@ -24492,8 +24492,8 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         <description>A meetup for server admins of public XMPP providers
 There is a need for a general landing page for the ecosystem that addresses potential interested users. Something akin joinmastodon.org which allows people to quickly get an idea what federated chat over xmpp is like and what are trustable places to sign up for an account.To know what server to recommend to users we first need to get a list of servers we are confident about and willing to recommend as a community. However on the basis of what does one recommend and how to establish this? We would like to start a conversation with server operators to get feedback on what such a 'quality provider' should look like.In this session we would like to use some time to present a proposal about what we think this landing page should do and look like and what we think should be the minimum quality level for operators. The rest of the meeting we'd like to use to gather feedback and have a discussion about this. We can also use some time for general discussion/questions about operating services.</description>
         <persons>
-          <person id="0">Inputmice</person>
           <person id="0">Pep</person>
+          <person id="0">Inputmice</person>
         </persons>
         <links/>
       </event>
@@ -33825,6 +33825,27 @@ Home Assistants sind hilfreich - doch wer möchte sich schon ein Abhörgerät in
         </persons>
         <links/>
       </event>
+      <event id="1726" guid="96400a70-5a77-46f7-81c3-b81b8e96151b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:MicroG_User_Meetup</url>
+        <logo/>
+        <date>2019-12-30T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>0:30</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1726-session_microg_user_meetup</slug>
+        <title>MicroG User Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gathering of people that use microG on their phone (or plan to do so)
+Let us chat about microG, your usecase, issues when using it or whatever else is on your mind about it.</description>
+        <persons>
+          <person id="0">Larma</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1620" guid="6e8adf4f-5e81-4fbd-83f4-68c1454c837a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:No_satisfaction_without_penetration</url>
         <logo/>
@@ -35336,6 +35357,31 @@ Im Rahmen der Session wollen wir euch unsere Idee vorstellen und diese mit euch 
         <links/>
       </event>
     </room>
+    <room name="Assembly:The Tinkering To Come - bstly">
+      <event id="1725" guid="cee40756-6ab6-431d-b9eb-a07c551a885c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Let%27s_build_our_own_congress_for_real</url>
+        <logo/>
+        <date>2019-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:The Tinkering To Come - bstly</room>
+        <slug>36c3-1725-session_let_s_build_our_own_congress_for_real</slug>
+        <title>Let's build our own congress for real</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>The Tinkerings now yearly rallying to start open sourcing enough (architectural) technology to start to build our own congress building. #0c3
+The Tinkering To Come's now yearly rallying to start open sourcing enough (architectural) technology to start to build our own congress building. #0c3Das nun jährliche Meetup für alle, die gerne anfangen möchten genug (Architektur-)Technologie zu opensourcen um unseren eigenen Kongress zu bauen.https://basteibastelei.wordpress.com/2018/12/29/the-futurology-of-the-congress-a-story/</description>
+        <persons>
+          <person id="0">Louisfabu</person>
+        </persons>
+        <links>
+          <link>http://skrtrt.de</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Haecksen">
       <event id="1300" guid="d33201a3-e316-488d-9979-0352d904322d">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Lightningtalks_bei_den_Haecksen</url>
@@ -35656,6 +35702,29 @@ slowly getting into movement/ no gym yet but some easy reminder that we still ha
         <links>
           <link>https://vcfb.de/</link>
         </links>
+      </event>
+    </room>
+    <room name="Assembly:Open Infrastructure Orbit">
+      <event id="1727" guid="ca2a13c7-4246-4654-b7ee-aafe0dec32f4">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wir_hacken_den_Osten%3F</url>
+        <logo/>
+        <date>2019-12-30T12:10:00+01:00</date>
+        <start>12:10</start>
+        <duration>1:00</duration>
+        <room>Assembly:Open Infrastructure Orbit</room>
+        <slug>36c3-1727-session_wir_hacken_den_osten_</slug>
+        <title>Wir hacken den Osten?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Mit #wirsindderosten wollen wir den Osten hacken. Wir erzählen euch von unseren bisherigen Aktionen und wollen mit euch über neue gemeinsame Ideen sprechen.
+Hi, Wir wollen euch bei einem Lunch von #wirsindderosten erzählen, einer Initiative, die Menschen in und aus Ostdeutschland sichtbar macht, die die Zukunft positiv gestalten. Wir wollen das Potential des Ostens zeigen und nutzen - und wo ginge das besser als beim 36c3 in Leipzig! Lasst uns gemeinsam über Ideen sprechen!</description>
+        <persons>
+          <person id="0">Mel</person>
+        </persons>
+        <links/>
       </event>
     </room>
   </day>

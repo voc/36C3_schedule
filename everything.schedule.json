@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "locate; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.29; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 16:50",
+    "version": "locate; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.29; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 17:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -14082,8 +14082,8 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Inputmice",
-                    "public_name": "Inputmice"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Fiaxh",
+                    "public_name": "Fiaxh"
                   },
                   {
                     "id": 0,
@@ -14092,13 +14092,13 @@
                   },
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Fiaxh",
-                    "public_name": "Fiaxh"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Larma",
+                    "public_name": "Larma"
                   },
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Larma",
-                    "public_name": "Larma"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Inputmice",
+                    "public_name": "Inputmice"
                   }
                 ],
                 "links": []
@@ -27963,13 +27963,13 @@
                 "persons": [
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Inputmice",
-                    "public_name": "Inputmice"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Pep",
+                    "public_name": "Pep"
                   },
                   {
                     "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Pep",
-                    "public_name": "Pep"
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Inputmice",
+                    "public_name": "Inputmice"
                   }
                 ],
                 "links": []
@@ -38737,6 +38737,32 @@
                 "links": []
               },
               {
+                "id": 1726,
+                "guid": "96400a70-5a77-46f7-81c3-b81b8e96151b",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:MicroG_User_Meetup",
+                "logo": null,
+                "date": "2019-12-30T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "0:30",
+                "room": "Seminar room 13",
+                "slug": "36c3-1726-session_microg_user_meetup",
+                "title": "MicroG User Meetup",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "Gathering of people that use microG on their phone (or plan to do so)\nLet us chat about microG, your usecase, issues when using it or whatever else is on your mind about it.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Larma",
+                    "public_name": "Larma"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1620,
                 "guid": "6e8adf4f-5e81-4fbd-83f4-68c1454c837a",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:No_satisfaction_without_penetration",
@@ -40457,6 +40483,36 @@
                 "links": []
               }
             ],
+            "Assembly:The Tinkering To Come - bstly": [
+              {
+                "id": 1725,
+                "guid": "cee40756-6ab6-431d-b9eb-a07c551a885c",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Let%27s_build_our_own_congress_for_real",
+                "logo": null,
+                "date": "2019-12-30T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Assembly:The Tinkering To Come - bstly",
+                "slug": "36c3-1725-session_let_s_build_our_own_congress_for_real",
+                "title": "Let's build our own congress for real",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "The Tinkerings now yearly rallying to start open sourcing enough (architectural) technology to start to build our own congress building. #0c3\nThe Tinkering To Come's now yearly rallying to start open sourcing enough (architectural) technology to start to build our own congress building. #0c3Das nun j\u00e4hrliche Meetup f\u00fcr alle, die gerne anfangen m\u00f6chten genug (Architektur-)Technologie zu opensourcen um unseren eigenen Kongress zu bauen.https://basteibastelei.wordpress.com/2018/12/29/the-futurology-of-the-congress-a-story/",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Louisfabu",
+                    "public_name": "Louisfabu"
+                  }
+                ],
+                "links": [
+                  "http://skrtrt.de"
+                ]
+              }
+            ],
             "Assembly:Haecksen": [
               {
                 "id": 1300,
@@ -40847,6 +40903,34 @@
                 "links": [
                   "https://vcfb.de/"
                 ]
+              }
+            ],
+            "Assembly:Open Infrastructure Orbit": [
+              {
+                "id": 1727,
+                "guid": "ca2a13c7-4246-4654-b7ee-aafe0dec32f4",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wir_hacken_den_Osten%3F",
+                "logo": null,
+                "date": "2019-12-30T12:10:00+01:00",
+                "start": "12:10",
+                "duration": "1:00",
+                "room": "Assembly:Open Infrastructure Orbit",
+                "slug": "36c3-1727-session_wir_hacken_den_osten_",
+                "title": "Wir hacken den Osten?",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Mit #wirsindderosten wollen wir den Osten hacken. Wir erz\u00e4hlen euch von unseren bisherigen Aktionen und wollen mit euch \u00fcber neue gemeinsame Ideen sprechen.\nHi, Wir wollen euch bei einem Lunch von #wirsindderosten erz\u00e4hlen, einer Initiative, die Menschen in und aus Ostdeutschland sichtbar macht, die die Zukunft positiv gestalten. Wir wollen das Potential des Ostens zeigen und nutzen - und wo ginge das besser als beim 36c3 in Leipzig! Lasst uns gemeinsam \u00fcber Ideen sprechen!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Mel",
+                    "public_name": "Mel"
+                  }
+                ],
+                "links": []
               }
             ]
           }

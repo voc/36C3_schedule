@@ -1,5 +1,5 @@
 <schedule>
-  <version>locate; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.28; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 16:00</version>
+  <version>locate; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.28; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 16:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -23885,6 +23885,27 @@ This meeting is used for the distribution of shifts for the Translation team.</d
         </persons>
         <links/>
       </event>
+      <event id="1723" guid="ec80dc42-2146-4733-8a1b-d24588d815df">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Werw%C3%B6lfe_von_D%C3%BCsterwald</url>
+        <logo/>
+        <date>2019-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>8:00</duration>
+        <room>Lecture room 11</room>
+        <slug>36c3-1723-session_werwoelfe_von_duesterwald</slug>
+        <title>Werwölfe von Düsterwald</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>wir wollen Werwölfe spielen (auf deutsch) und dafür einen dedicated Raum haben.
+</description>
+        <persons>
+          <person id="0">Kmille</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1580" guid="6a81c3e5-104b-4383-8f3d-d6815ecaeaf7">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry</url>
         <logo/>
@@ -28483,6 +28504,8 @@ This lecture describes the Almonit project, its architecture and technical detai
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/000/039/original/rmx_hccp2019.pdf?1577370575">Slides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/000/089/original/36c3rmxwallet.pdf?1577631920">36c3rmxwallet.pdf</attachment>
+          <attachment href="/system/event_attachments/attachments/000/000/090/original/36c3rmxwallet.odp?1577631936">36c3rmxwallet.odp</attachment>
         </attachments>
       </event>
       <event id="4296" guid="2479cb2b-42b1-47fd-a92e-4df68804f19d">
@@ -31112,6 +31135,30 @@ Meet other users of and contributors to Julia</description>
         <links/>
       </event>
     </room>
+    <room name="Assembly:HSBE">
+      <event id="1722" guid="4879b657-0f18-4c6a-ab7b-9607a9696a2b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Karaoke_night</url>
+        <logo/>
+        <date>2019-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:HSBE</room>
+        <slug>36c3-1722-session_karaoke_night</slug>
+        <title>Karaoke night</title>
+        <subtitle>BYOB</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Karaoke night!
+</description>
+        <persons>
+          <person id="0">Qwaxys</person>
+          <person id="0">Galgalesh</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Assembly:Anarchist Village">
       <event id="1330" guid="b8903724-9ef4-4f07-9885-c245d550c477">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Letter_writing_to_prisoners,_sitting_in_jail_for_hacking</url>
@@ -33468,6 +33515,27 @@ Workshop for c3lingo tech prep for 2020</description>
       </event>
     </room>
     <room name="Lecture room 12">
+      <event id="1721" guid="1b034b04-e7b1-42d4-976f-73d73f90897e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Improtheater_2.0</url>
+        <logo/>
+        <date>2019-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room 12</room>
+        <slug>36c3-1721-session_improtheater_2_0</slug>
+        <title>Improtheater 2.0</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Bewegte Emotionen im Rahmen vom Improtheater
+Kommt gerne zu uns um gemeinsam ein freies und entspannten Einstieg ins Improtheater zubekommen.</description>
+        <persons>
+          <person id="0">Toni</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1708" guid="328944a0-e224-4efb-92ea-b52430485330">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SSG_Meetup_2</url>
         <logo/>

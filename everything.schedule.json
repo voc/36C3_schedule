@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "locate; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.28; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 16:00",
+    "version": "locate; lounges 505; chaos-west 1.0; open-infra 21; wikipaka 0.16; chaoszone 0.11; komona 0.28; sendezentrum 4.3; lightning Terbium; art-play 0.26; cdc 3; wiki 2019-12-29 16:10",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -27193,6 +27193,32 @@
                 "links": []
               },
               {
+                "id": 1723,
+                "guid": "ec80dc42-2146-4733-8a1b-d24588d815df",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Werw%C3%B6lfe_von_D%C3%BCsterwald",
+                "logo": null,
+                "date": "2019-12-29T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "8:00",
+                "room": "Lecture room 11",
+                "slug": "36c3-1723-session_werwoelfe_von_duesterwald",
+                "title": "Werw\u00f6lfe von D\u00fcsterwald",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "wir wollen Werw\u00f6lfe spielen (auf deutsch) und daf\u00fcr einen dedicated Raum haben.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kmille",
+                    "public_name": "Kmille"
+                  }
+                ],
+                "links": []
+              },
+              {
                 "id": 1580,
                 "guid": "6a81c3e5-104b-4383-8f3d-d6815ecaeaf7",
                 "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry",
@@ -32352,6 +32378,14 @@
                   {
                     "url": "/system/event_attachments/attachments/000/000/039/original/rmx_hccp2019.pdf?1577370575",
                     "title": "Slides"
+                  },
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/089/original/36c3rmxwallet.pdf?1577631920",
+                    "title": "36c3rmxwallet.pdf"
+                  },
+                  {
+                    "url": "/system/event_attachments/attachments/000/000/090/original/36c3rmxwallet.odp?1577631936",
+                    "title": "36c3rmxwallet.odp"
                   }
                 ]
               },
@@ -35627,6 +35661,39 @@
                 "links": []
               }
             ],
+            "Assembly:HSBE": [
+              {
+                "id": 1722,
+                "guid": "4879b657-0f18-4c6a-ab7b-9607a9696a2b",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Karaoke_night",
+                "logo": null,
+                "date": "2019-12-29T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "2:00",
+                "room": "Assembly:HSBE",
+                "slug": "36c3-1722-session_karaoke_night",
+                "title": "Karaoke night",
+                "subtitle": "BYOB",
+                "track": "self organized sessions",
+                "type": "game",
+                "language": "de",
+                "abstract": "",
+                "description": "Karaoke night!\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Qwaxys",
+                    "public_name": "Qwaxys"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Galgalesh",
+                    "public_name": "Galgalesh"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Assembly:Anarchist Village": [
               {
                 "id": 1330,
@@ -38301,6 +38368,32 @@
               }
             ],
             "Lecture room 12": [
+              {
+                "id": 1721,
+                "guid": "1b034b04-e7b1-42d4-976f-73d73f90897e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Improtheater_2.0",
+                "logo": null,
+                "date": "2019-12-30T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Lecture room 12",
+                "slug": "36c3-1721-session_improtheater_2_0",
+                "title": "Improtheater 2.0",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Bewegte Emotionen im Rahmen vom Improtheater\nKommt gerne zu uns um gemeinsam ein freies und entspannten Einstieg ins Improtheater zubekommen.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Toni",
+                    "public_name": "Toni"
+                  }
+                ],
+                "links": []
+              },
               {
                 "id": 1708,
                 "guid": "328944a0-e224-4efb-92ea-b52430485330",

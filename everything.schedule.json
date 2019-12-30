@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 12:00",
+    "version": "mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 12:20",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -38540,6 +38540,38 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              },
+              {
+                "id": 608,
+                "guid": "1c610210-9c06-5d79-b7dd-d4aa89cd608e",
+                "logo": "",
+                "date": "2019-12-30T13:15:00+01:00",
+                "start": "13:15",
+                "duration": "00:15",
+                "room": "WikiPaka WG: Esszimmer",
+                "slug": "VD7ARK",
+                "url": "https://cfp.verschwoerhaus.de/36c3/talk/VD7ARK/",
+                "title": "Hacking an NFC toy with the ChameleonMini",
+                "subtitle": "",
+                "track": "Security",
+                "type": "Lightning Talk",
+                "language": "de",
+                "abstract": "The Toniebox plays songs or reads stories to your kids when they put a little figurine on top of it.\r\nWe show how to create a backup of it and use the ChameleonMini in place of it in case your kid ate it.",
+                "description": "The Toniebox plays songs or reads stories to your kids when they put a little figurine on top of it.\r\nWe show how to create a backup of it and use the ChameleonMini in place of it in case your kid ate it.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 105,
+                    "code": "TN7AFE",
+                    "public_name": "fptrs",
+                    "biography": "",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ],
             "Lecture room 11": [
@@ -41036,7 +41068,7 @@
                 "logo": null,
                 "date": "2019-12-30T13:00:00+01:00",
                 "start": "13:00",
-                "duration": "0:30",
+                "duration": "1:30",
                 "room": "Roter Salon",
                 "slug": "36c3-1744-session_gemeinsam_sind_wir_mehr_",
                 "title": "Gemeinsam sind wir mehr!",

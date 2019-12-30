@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-30 13:20</version>
+  <version>2019-12-30 13:31</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -12401,6 +12401,29 @@ The more the technology advances and becomes interconnected and complex, the les
           <link>https://moodle.org/</link>
         </links>
       </event>
+      <event id="1755" guid="4c310c60-6b8b-4f67-8ed2-81e7b458e85e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Dragonbox_Pyra_handheld_PC/phone(%3F)_demo</url>
+        <logo/>
+        <date>2019-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>0:45</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1755-session_dragonbox_pyra_handheld_pc_phone_demo</slug>
+        <title>Dragonbox Pyra handheld PC/phone(?) demo</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Pyra handheld
+The Dragonbox Pyra handheld exists, will soon be mass produced, could possibly be used as a phone, and paints a brighter picture for a future of being able to purchase devices that already work, and are repairable.</description>
+        <persons>
+          <person id="0">Kingu1</person>
+        </persons>
+        <links>
+          <link>https://pyra-handheld.com/boards/pages/pyra/</link>
+        </links>
+      </event>
       <event id="1313" guid="e4579f02-d073-4857-9ea2-c3f6f7eeb381">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Fairphone_Workshop_and_Meetup</url>
         <logo/>
@@ -12442,6 +12465,29 @@ Home Assistants sind hilfreich - doch wer möchte sich schon ein Abhörgerät in
           <person id="0">Geiddlyne</person>
         </persons>
         <links/>
+      </event>
+      <event id="1756" guid="43c20e02-97b9-4aa2-9df7-d2697de9be1c">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Libre_software_translation</url>
+        <logo/>
+        <date>2019-12-30T16:45:00+01:00</date>
+        <start>16:45</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>36c3-1756-session_libre_software_translation</slug>
+        <title>Libre software translation</title>
+        <subtitle>come learn and help translate software</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language/>
+        <abstract/>
+        <description>Libre software translation
+Talk concerning what are the things to consider when translating software or making a project available for translation?Come learn tricks, what considerations to make, and plan ahead in discussion afterwards.For developers, prospective translators and current contributors alike.</description>
+        <persons>
+          <person id="0">Kingu1</person>
+        </persons>
+        <links>
+          <link>https://hosted.weblate.org</link>
+        </links>
       </event>
       <event id="1726" guid="96400a70-5a77-46f7-81c3-b81b8e96151b">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:MicroG_User_Meetup</url>
@@ -12902,6 +12948,31 @@ Workshop for c3lingo tech prep for 2020</description>
         </persons>
         <links>
           <link>https://wiki.hackerspaces.org/Hackerspaces</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Digitalcourage">
+      <event id="1754" guid="29fab1a5-e076-40e5-8d4a-51e3ceaa7208">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Absolute_Sicherheit%3F_-_Ges%C3%A4nge_zur_St%C3%A4rkung_der_digitalen_Kampfmoral</url>
+        <logo/>
+        <date>2019-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Digitalcourage</room>
+        <slug>36c3-1754-session_absolute_sicherheit_gesaenge_zur_staerkung_der_digitalen_kampfmoral</slug>
+        <title>Absolute Sicherheit? - Gesänge zur Stärkung der digitalen Kampfmoral</title>
+        <subtitle>Gesänge zur Stärkung der Kampfmoral</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Musikerin Silvia Seitz präsentiert ihre CD „Absolute Sicherheit? - Gesänge zur Stärkung der digitalen Kampfmoral“
+Über das digitale Zeitalter ist viel geschrieben und noch mehr gesagt worden. Lange Texte bejubeln die Segnungen des Internets oder beschwören die Überwachungsapokalypse herauf. Das mag alles stimmen, aber muss es dabei immer so steif zugehen? Vielleicht steuern wir wirklich auf den großen Knall zu, aber spätestens dann brauchen wir Lieder zur Stärkung der Kampfmoral. Silvia Seitz hat sich dieses Problems angenommen, es so lange besungen, bis es sich hinten reimte und Dieter Markmann bewarf es so lange mit Tönen, bis sich das geneigte Auditorium sagt: „Wenn die Revolution so klingt, will ich gern dabei sein.“ (J. Selzer)Silvia Seitz wird live ihre Songs präsentieren.</description>
+        <persons>
+          <person id="0">Davlee</person>
+        </persons>
+        <links>
+          <link>https://digitalcourage.de/</link>
         </links>
       </event>
     </room>

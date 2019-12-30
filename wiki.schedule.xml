@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-30 00:20</version>
+  <version>2019-12-30 01:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -10223,7 +10223,7 @@ This is an informal gathering of all people interested in the artform that is el
         <language>en</language>
         <abstract/>
         <description>Let’s discuss the power of habits and what it takes to change behaviour.
-A free discussion about behavioural change and its methods (Cognitive behavioral therapy, motivational interviewing etc.), the power of habits and how to change them.I'd also like to discuss how healthy lifestyle changes can prevent diabetes type 2 and other chronic diseases.</description>
+A free discussion about behavioural change and its methods (Cognitive behavioral therapy, motivational interviewing etc.), the power of habits and how to change them.I'd also like to discuss how healthy lifestyle changes can prevent diabetes type 2 and other chronic diseases.----We'll continue the discussion tomorrow (December 30). The slides will also follow on that day (December 30).</description>
         <persons>
           <person id="0">Andru</person>
         </persons>
@@ -12932,6 +12932,180 @@ Geigerzähler– Hardwarebasteln mit LoRaWAN &amp; WiFiWir sind die Ecocurious-I
         <links/>
       </event>
     </room>
+    <room name="Seminar room 14-15">
+      <event id="1741" guid="e8ba58a9-7de9-40a9-a5f6-b6e8f4e1fe64">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Behavioural_change_and_changing_habits</url>
+        <logo/>
+        <date>2019-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1741-session_behavioural_change_and_changing_habits</slug>
+        <title>Behavioural change and changing habits</title>
+        <subtitle>Follow Up: People who want to continue the talk can meet</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Let’s discuss the power of habits and what it takes to change behaviour.
+A free discussion about behavioural change and its methods (Cognitive behavioral therapy, motivational interviewing etc.), the power of habits and how to change them.I'd also like to discuss how healthy lifestyle changes can prevent diabetes type 2 and other chronic diseases.----We'll continue the discussion tomorrow (December 30). The slides will also follow on that day (December 30).</description>
+        <persons>
+          <person id="0">Andru</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1279" guid="32991e00-405b-4cc4-ba36-5d0045e1527b">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Getting_to_know_Julia</url>
+        <logo/>
+        <date>2019-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1279-session_getting_to_know_julia</slug>
+        <title>Getting to know Julia</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>This workshop is for everyone who wants to get an idea and some first look at the programming language Julia, which was originally designed for data analysis or scientific computing
+In this introductory workshop you are invited to get a first look at the programming language Julia. Julia is comparatively recent (version 1.0 got released August last year) and was originally designed from scratch to provide a high-level language, which is also fast. As a result applications include scientific simulations, data science, machine learning and generally high-performance computing. Writing Julia feels a lot like writing a scripting language, but since code is automatically (and painlessly) compiled down to machine code before execution, a performance comparable to low-level languages like C or FORTRAN can be achieved.We will use examples and a few exercises to discuss the main concepts of Julia. The main purpose is to get you curious and give you an overview. Care is taken to provide rich lists of links with further information to continue to explore Julia on your own (if you wish to do so ...).</description>
+        <persons>
+          <person id="0">Mfh</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1438" guid="a534f61a-c170-4d7b-ba2d-a66807332251">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Kritical_-_Kubernetes_in_Critical_Infrastructure</url>
+        <logo/>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1438-session_kritical_kubernetes_in_critical_infrastructure</slug>
+        <title>Kritical - Kubernetes in Critical Infrastructure</title>
+        <subtitle>Upcoming challenges to move from cloud native to a security aware mindset</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>The meeting is to exchange ideas and opinions about the upcoming use of K8S in critical infrastructure
+The organizer has audited and consulted on several projects of Kubernetes in critical infrastructure. Areas audited are traffic control, power grids and several health care projects. Some show very strict awareness of security, others have approached the topic totally naive.Let us exchange ideas about the bare necessities and no gos for microservices going critical.</description>
+        <persons>
+          <person id="0">Thomas</person>
+        </persons>
+        <links>
+          <link>https://www.meetup.com/Kubernetes-Security-Berlin/</link>
+        </links>
+      </event>
+      <event id="1446" guid="ad490e42-238c-4dd8-b1cc-c02a420f70f4">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Kritical_-_Kubernetes_in_Critigal_Infrastructure</url>
+        <logo/>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1446-session_kritical_kubernetes_in_critigal_infrastructure</slug>
+        <title>Kritical - Kubernetes in Critigal Infrastructure</title>
+        <subtitle>Upcoming challenges to move from cloud native to a security aware mindset</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>The meeting is to exchange ideas and opinions about the upcoming use of K8S in critical infrastructure
+The organizer has audited and consulted on several projects of Kubernetes in critical infrastructure. Areas audited are traffic control, power grids and several health care projects. Some show very strict awareness of security, others have approached the topic totally naive.Let us exchange ideas about the bare necessities and no gos for microservices going critical.</description>
+        <persons>
+          <person id="0">Thomas</person>
+        </persons>
+        <links>
+          <link>https://www.meetup.com/Kubernetes-Security-Berlin/</link>
+        </links>
+      </event>
+      <event id="1738" guid="252f7639-22d8-4b72-aec1-46a79e301f3a">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Stagemanagement_Feedback_Gathering</url>
+        <logo/>
+        <date>2019-12-30T18:15:00+01:00</date>
+        <start>18:15</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1738-session_stagemanagement_feedback_gathering</slug>
+        <title>Stagemanagement Feedback Gathering</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Stagemanagement Feedback Gathering
+This is a feedback session for the Stagemanagement Team. Optional for team members.</description>
+        <persons>
+          <person id="0">Katzazi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1024" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d9">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
+        <logo/>
+        <date>2019-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1024-session_translation_team_meeting</slug>
+        <title>Translation Team Meeting</title>
+        <subtitle>Final Meeting Day 4</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
+This meeting is used for the distribution of shifts for the Translation team.</description>
+        <persons>
+          <person id="0">Katti</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1711" guid="81f76191-40a2-41e1-87ef-a70306e84cb7">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Video_Gaming_Addiction_-_A_Real_Psychological_Disorder%3F</url>
+        <logo/>
+        <date>2019-12-30T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1711-session_video_gaming_addiction_a_real_psychological_disorder_</slug>
+        <title>Video Gaming Addiction - A Real Psychological Disorder?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language/>
+        <abstract/>
+        <description>Is there such a thing as "Gaming Addiction" and is there a cure?
+Please note: This abstract is in English, but if there are no non-German speakers present, the talk may be held in German.Video Gaming addiction - buzzword, excuse for 400+ hours on Skyrim, mere symptom of depression or genuine psychological disorder? What even is there to become addicted to in gaming? Are there people more at risk than others and if yes, who? In what kind of ways are games engineered to make us become addicted? Where is the limit between normal gaming and a disorder? And if you are addicted, what helps? This talk aims to explore these questions and more, time for questions will be included as well!</description>
+        <persons>
+          <person id="0">Britt</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1719" guid="d4422abb-0884-4c9e-9c8c-7b6f5d1530f9">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Was_macht_Bambuszahnb%C3%BCrsten_so_viel_besser,_au%C3%9Fer_dass_du_Plastik_sparst%3F</url>
+        <logo/>
+        <date>2019-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>0:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>36c3-1719-session_was_macht_bambuszahnbuersten_so_viel_besser_ausser_dass_du_plastik_sparst_</slug>
+        <title>Was macht Bambuszahnbürsten so viel besser, außer dass du Plastik sparst?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hast du dich schonmal gefragt, was Bambuszahnbürsten überhaupt bringen, wenn sie über die ganze Welt zu uns fliegen?
+Was macht Bambus aus? Ist er auch so Hygienisch wie Plastik? Und viele weiter Fragen möchte ich in meinen Talk mit euch klären.</description>
+        <persons>
+          <person id="0">Toni</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="1komona Boredome">
       <event id="1737" guid="aed65295-7dfe-4369-8cb4-a2b5a20cfeb3">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:C3sus_public_meeting</url>
@@ -13212,159 +13386,6 @@ Im Rahmen der Session wollen wir euch unsere Idee vorstellen und diese mit euch 
         <links>
           <link>https://rejisuta.org</link>
         </links>
-      </event>
-    </room>
-    <room name="Seminar room 14-15">
-      <event id="1279" guid="32991e00-405b-4cc4-ba36-5d0045e1527b">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Getting_to_know_Julia</url>
-        <logo/>
-        <date>2019-12-30T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>2:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1279-session_getting_to_know_julia</slug>
-        <title>Getting to know Julia</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>This workshop is for everyone who wants to get an idea and some first look at the programming language Julia, which was originally designed for data analysis or scientific computing
-In this introductory workshop you are invited to get a first look at the programming language Julia. Julia is comparatively recent (version 1.0 got released August last year) and was originally designed from scratch to provide a high-level language, which is also fast. As a result applications include scientific simulations, data science, machine learning and generally high-performance computing. Writing Julia feels a lot like writing a scripting language, but since code is automatically (and painlessly) compiled down to machine code before execution, a performance comparable to low-level languages like C or FORTRAN can be achieved.We will use examples and a few exercises to discuss the main concepts of Julia. The main purpose is to get you curious and give you an overview. Care is taken to provide rich lists of links with further information to continue to explore Julia on your own (if you wish to do so ...).</description>
-        <persons>
-          <person id="0">Mfh</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1438" guid="a534f61a-c170-4d7b-ba2d-a66807332251">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Kritical_-_Kubernetes_in_Critical_Infrastructure</url>
-        <logo/>
-        <date>2019-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:30</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1438-session_kritical_kubernetes_in_critical_infrastructure</slug>
-        <title>Kritical - Kubernetes in Critical Infrastructure</title>
-        <subtitle>Upcoming challenges to move from cloud native to a security aware mindset</subtitle>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>de</language>
-        <abstract/>
-        <description>The meeting is to exchange ideas and opinions about the upcoming use of K8S in critical infrastructure
-The organizer has audited and consulted on several projects of Kubernetes in critical infrastructure. Areas audited are traffic control, power grids and several health care projects. Some show very strict awareness of security, others have approached the topic totally naive.Let us exchange ideas about the bare necessities and no gos for microservices going critical.</description>
-        <persons>
-          <person id="0">Thomas</person>
-        </persons>
-        <links>
-          <link>https://www.meetup.com/Kubernetes-Security-Berlin/</link>
-        </links>
-      </event>
-      <event id="1446" guid="ad490e42-238c-4dd8-b1cc-c02a420f70f4">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Kritical_-_Kubernetes_in_Critigal_Infrastructure</url>
-        <logo/>
-        <date>2019-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:30</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1446-session_kritical_kubernetes_in_critigal_infrastructure</slug>
-        <title>Kritical - Kubernetes in Critigal Infrastructure</title>
-        <subtitle>Upcoming challenges to move from cloud native to a security aware mindset</subtitle>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>de</language>
-        <abstract/>
-        <description>The meeting is to exchange ideas and opinions about the upcoming use of K8S in critical infrastructure
-The organizer has audited and consulted on several projects of Kubernetes in critical infrastructure. Areas audited are traffic control, power grids and several health care projects. Some show very strict awareness of security, others have approached the topic totally naive.Let us exchange ideas about the bare necessities and no gos for microservices going critical.</description>
-        <persons>
-          <person id="0">Thomas</person>
-        </persons>
-        <links>
-          <link>https://www.meetup.com/Kubernetes-Security-Berlin/</link>
-        </links>
-      </event>
-      <event id="1738" guid="252f7639-22d8-4b72-aec1-46a79e301f3a">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Stagemanagement_Feedback_Gathering</url>
-        <logo/>
-        <date>2019-12-30T18:15:00+01:00</date>
-        <start>18:15</start>
-        <duration>1:30</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1738-session_stagemanagement_feedback_gathering</slug>
-        <title>Stagemanagement Feedback Gathering</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Stagemanagement Feedback Gathering
-This is a feedback session for the Stagemanagement Team. Optional for team members.</description>
-        <persons>
-          <person id="0">Katzazi</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1024" guid="219d8a4f-cb9b-41cf-bcef-1e80ca4ba8d9">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Translation_Team_Meeting</url>
-        <logo/>
-        <date>2019-12-30T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1024-session_translation_team_meeting</slug>
-        <title>Translation Team Meeting</title>
-        <subtitle>Final Meeting Day 4</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>The c3lingo team meets twice a day. Join us to help us doing live interpretations of all talks.
-This meeting is used for the distribution of shifts for the Translation team.</description>
-        <persons>
-          <person id="0">Katti</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1711" guid="81f76191-40a2-41e1-87ef-a70306e84cb7">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Video_Gaming_Addiction_-_A_Real_Psychological_Disorder%3F</url>
-        <logo/>
-        <date>2019-12-30T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1711-session_video_gaming_addiction_a_real_psychological_disorder_</slug>
-        <title>Video Gaming Addiction - A Real Psychological Disorder?</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language/>
-        <abstract/>
-        <description>Is there such a thing as "Gaming Addiction" and is there a cure?
-Please note: This abstract is in English, but if there are no non-German speakers present, the talk may be held in German.Video Gaming addiction - buzzword, excuse for 400+ hours on Skyrim, mere symptom of depression or genuine psychological disorder? What even is there to become addicted to in gaming? Are there people more at risk than others and if yes, who? In what kind of ways are games engineered to make us become addicted? Where is the limit between normal gaming and a disorder? And if you are addicted, what helps? This talk aims to explore these questions and more, time for questions will be included as well!</description>
-        <persons>
-          <person id="0">Britt</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1719" guid="d4422abb-0884-4c9e-9c8c-7b6f5d1530f9">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Was_macht_Bambuszahnb%C3%BCrsten_so_viel_besser,_au%C3%9Fer_dass_du_Plastik_sparst%3F</url>
-        <logo/>
-        <date>2019-12-30T14:30:00+01:00</date>
-        <start>14:30</start>
-        <duration>0:30</duration>
-        <room>Seminar room 14-15</room>
-        <slug>36c3-1719-session_was_macht_bambuszahnbuersten_so_viel_besser_ausser_dass_du_plastik_sparst_</slug>
-        <title>Was macht Bambuszahnbürsten so viel besser, außer dass du Plastik sparst?</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Hast du dich schonmal gefragt, was Bambuszahnbürsten überhaupt bringen, wenn sie über die ganze Welt zu uns fliegen?
-Was macht Bambus aus? Ist er auch so Hygienisch wie Plastik? Und viele weiter Fragen möchte ich in meinen Talk mit euch klären.</description>
-        <persons>
-          <person id="0">Toni</person>
-        </persons>
-        <links/>
       </event>
     </room>
     <room name="Assembly:HSBE">

@@ -1,5 +1,5 @@
 <schedule>
-  <version>mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 12:40</version>
+  <version>mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 12:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -34370,9 +34370,9 @@ Conventional computer algorithms are superior to the human intellect in many reg
       <event id="1467" guid="233928f9-841b-4474-88bd-b1deecad2c3f">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Das_Gutachten_der_Datenethikkommission_-_eine_praktische_Diskussion</url>
         <logo/>
-        <date>2019-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:00</duration>
+        <date>2019-12-30T13:15:00+01:00</date>
+        <start>13:15</start>
+        <duration>0:45</duration>
         <room>Lecture room M3</room>
         <slug>36c3-1467-session_das_gutachten_der_datenethikkommission_eine_praktische_diskussion</slug>
         <title>Das Gutachten der Datenethikkommission - eine praktische Diskussion</title>
@@ -35914,7 +35914,7 @@ Scheitern als Chance"Ever tried. Ever failed. No matter. Try again. Fail again. 
         <language>en</language>
         <abstract/>
         <description>A short introduction into Isomer and the Hackerfleet Operating System
-A quick overview over Isomer - Hackerfleet's application framework for decentralized collaboration and science - and its first implemented project, the Hackerfleet Operating System for opensource-loving and sailing nerds.Since we prepared working Docker images, there might be a quick hands-on tutorial/workshop thingy after the lecture.Hope to see you @c-base!</description>
+A quick overview over Isomer - Hackerfleet's application framework for decentralized collaboration and science - and its first implemented project, the Hackerfleet Operating System for opensource-loving and sailing nerds.Since we prepared working Docker images, there might be a quick hands-on tutorial/workshop thingy after the lecture.</description>
         <persons>
           <person id="0">Riot</person>
         </persons>
@@ -36314,6 +36314,29 @@ slowly getting into movement/ no gym yet but some easy reminder that we still ha
 </description>
         <persons>
           <person id="0">Alibi</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Assembly:Origasmi – 紙の変態">
+      <event id="1752" guid="9ccc3f5a-57f9-4853-9ca2-5f0547f97adc">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:RNGed_marriage</url>
+        <logo/>
+        <date>2019-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>0:25</duration>
+        <room>Assembly:Origasmi – 紙の変態</room>
+        <slug>36c3-1752-session_rnged_marriage</slug>
+        <title>RNGed marriage</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We choose your partner at random and tape you together at the wrist.
+This workshop starts at the origasmi assembly in outer komona. After being taped together you will continue the rest of the day being codependent. The marriage can be broken off at any time by removing the tape.</description>
+        <persons>
+          <person id="0">Li0n</person>
         </persons>
         <links/>
       </event>

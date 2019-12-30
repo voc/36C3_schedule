@@ -1,5 +1,5 @@
 <schedule>
-  <version>mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 11:10</version>
+  <version>mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 11:52</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -35599,6 +35599,31 @@ Geigerzähler– Hardwarebasteln mit LoRaWAN &amp; WiFiWir sind die Ecocurious-I
           <person id="0">Kliment</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="Assembly:CriticalDecentralisationCluster">
+      <event id="1750" guid="e3d82c65-9a88-4585-a0a0-b6892011e310">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Building_a_Synth_for_the_web_in_C%2B%2B_and_WASM</url>
+        <logo/>
+        <date>2019-12-30T13:45:00+01:00</date>
+        <start>13:45</start>
+        <duration>0:15</duration>
+        <room>Assembly:CriticalDecentralisationCluster</room>
+        <slug>36c3-1750-session_building_a_synth_for_the_web_in_c_and_wasm</slug>
+        <title>Building a Synth for the web in C++ and WASM</title>
+        <subtitle>Come to the Social Distortion Protocol in the Critical Decentralization Cluster</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>How to use modern web technologies to build a synthesizer (at the Social Dist0rtion Protocol assembly!)
+We're gonna talk about building a synthesizer in WASM and C++. I'll be running you through the code.See the project here: https://events.ccc.de/congress/2019/wiki/index.php/Projects:WASM_SYNTHThis presentation is gonna happen at the Social Dist0rtion Protocol assembly and not on the CDC mainstage!Simply come to the back of the CDC. See you!</description>
+        <persons>
+          <person id="0">TimDaub</person>
+        </persons>
+        <links>
+          <link>https://timdaub.github.io/wasm-synth/</link>
+        </links>
       </event>
     </room>
     <room name="1komona Boredome">

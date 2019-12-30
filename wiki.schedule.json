@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-30 11:10",
+    "version": "2019-12-30 11:52",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -16400,6 +16400,36 @@
                   }
                 ],
                 "links": []
+              }
+            ],
+            "Assembly:CriticalDecentralisationCluster": [
+              {
+                "id": 1750,
+                "guid": "e3d82c65-9a88-4585-a0a0-b6892011e310",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Building_a_Synth_for_the_web_in_C%2B%2B_and_WASM",
+                "logo": null,
+                "date": "2019-12-30T13:45:00+01:00",
+                "start": "13:45",
+                "duration": "0:15",
+                "room": "Assembly:CriticalDecentralisationCluster",
+                "slug": "36c3-1750-session_building_a_synth_for_the_web_in_c_and_wasm",
+                "title": "Building a Synth for the web in C++ and WASM",
+                "subtitle": "Come to the Social Distortion Protocol in the Critical Decentralization Cluster",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "How to use modern web technologies to build a synthesizer (at the Social Dist0rtion Protocol assembly!)\nWe're gonna talk about building a synthesizer in WASM and C++. I'll be running you through the code.See the project here: https://events.ccc.de/congress/2019/wiki/index.php/Projects:WASM_SYNTHThis presentation is gonna happen at the Social Dist0rtion Protocol assembly and not on the CDC mainstage!Simply come to the back of the CDC. See you!",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:TimDaub",
+                    "public_name": "TimDaub"
+                  }
+                ],
+                "links": [
+                  "https://timdaub.github.io/wasm-synth/"
+                ]
               }
             ],
             "1komona Boredome": [

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 11:52",
+    "version": "mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 12:00",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -32762,43 +32762,6 @@
                   }
                 ],
                 "attachments": []
-              },
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/137.html",
-                "id": 4337,
-                "guid": "576cece6-fc4f-41ad-a660-4bc838cfe735",
-                "logo": "/system/events/logos/000/000/137/large/SUSI.AI_logo.png?1577181572",
-                "date": "2019-12-29T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "01:30",
-                "room": "FOSSASIA Workshops - CDC",
-                "slug": "36C3-137-create_personal_bots_for_web_and_smart_devices_with_susi_ai_-_part_2",
-                "title": "Create Personal Bots for Web and Smart Devices with SUSI.AI - Part 2",
-                "subtitle": "",
-                "track": "FOSSASIA Workshops",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "In this on stage workshop we run participants through a tutorial to create advanced SUSI.AI skills and bots, that they can embed on their website or run on a smart speaker.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 56,
-                    "public_name": "Mario Behling"
-                  }
-                ],
-                "links": [
-                  {
-                    "url": "https://susi.ai",
-                    "title": "SUSI.AI"
-                  },
-                  {
-                    "url": "https://github.com/fossasia/susi.ai/blob/master/docs/Skill_Tutorial.md",
-                    "title": "SUSI.AI Tutorial"
-                  }
-                ],
-                "attachments": []
               }
             ],
             "Studio Datsche": [
@@ -40595,43 +40558,6 @@
                   }
                 ],
                 "attachments": []
-              },
-              {
-                "url": "https://frab.riat.at/en/36C3/public/schedule/events/135.html",
-                "id": 4335,
-                "guid": "8baf3621-6050-44f8-85d9-fa1713607a99",
-                "logo": "/system/events/logos/000/000/135/large/SUSI.AI_logo.png?1577181546",
-                "date": "2019-12-30T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "01:30",
-                "room": "FOSSASIA Workshops - CDC",
-                "slug": "36C3-135-susi_ai_personal_assistant_on_your_linux_desktop_-_part_2",
-                "title": "SUSI.AI Personal Assistant on Your Linux Desktop - Part 2",
-                "subtitle": "",
-                "track": "FOSSASIA Workshops",
-                "type": "workshop",
-                "language": "en",
-                "abstract": "In this on stage workshop we will install the SUSI.AI personal smart assistant on a Linux Desktop Computer and support participants to set it up on their distribution, e.g. Debian, Ubuntu, Linux Mint, Fedora, CentOS or others.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 56,
-                    "public_name": "Mario Behling"
-                  }
-                ],
-                "links": [
-                  {
-                    "url": "https://susi.ai",
-                    "title": "SUSI.AI"
-                  },
-                  {
-                    "url": "https://github.com/fossasia/susi_installer",
-                    "title": "SUSI.AI Installer"
-                  }
-                ],
-                "attachments": []
               }
             ],
             "Assembly:Hardware Hacking Area": [
@@ -41130,6 +41056,32 @@
                 "links": [
                   "https://www.leadershipfestival.com/"
                 ]
+              },
+              {
+                "id": 1751,
+                "guid": "1143aa21-28ce-4788-a48f-5b0ae693b3ba",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Offene_B%C3%BChne_f%C3%BCr_Wissenstransfer_/_Bandenbildung_/_Aktionen",
+                "logo": null,
+                "date": "2019-12-30T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "1:00",
+                "room": "Roter Salon",
+                "slug": "36c3-1751-session_offene_buehne_fuer_wissenstransfer_bandenbildung_aktionen",
+                "title": "Offene B\u00fchne f\u00fcr Wissenstransfer / Bandenbildung / Aktionen",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "de",
+                "abstract": "",
+                "description": "\nOffene B\u00fchne f\u00fcr Wissenstransfer / Bandenbildung / AktionenOhne Anleitung und Moderation. Wir sind da. Einfach vorbei kommen und machen.F\u00fcr alle Menschen, die Lust haben vorbei zu kommen, sich zu vernetzen und zu \u00fcberlegen wie wir und weitere interessierte Menschen zusammen oder einzeln weiter machen k\u00f6nnen. Willkommen. Zusammen sind wir mehr.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Kreatur",
+                    "public_name": "Kreatur"
+                  }
+                ],
+                "links": []
               },
               {
                 "id": 1746,

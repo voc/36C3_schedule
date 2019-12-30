@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 10:30",
+    "version": "mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 10:40",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -38688,6 +38688,42 @@
               }
             ],
             "Lecture room 12": [
+              {
+                "id": 1747,
+                "guid": "ec640571-12a9-4bb0-8c73-baac81fb0845",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A_quick_tour_through_some_of_Haskell%27s_crazy_features",
+                "logo": null,
+                "date": "2019-12-30T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "0:50",
+                "room": "Lecture room 12",
+                "slug": "36c3-1747-session_a_quick_tour_through_some_of_haskell_s_crazy_features",
+                "title": "A quick tour through some of Haskell's crazy features",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "en",
+                "abstract": "",
+                "description": "Haskell is the language of choice of our assembly. It is also weird. In this session, experience a quick guided tour through some of Haskell's features.\nTarget audience: People who have some familiarity with programming and who might have heard of Haskell, but don't know any Haskell.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+                    "public_name": "Iblech"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MatthiasHu",
+                    "public_name": "MatthiasHu"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MichaelStruwe",
+                    "public_name": "MichaelStruwe"
+                  }
+                ],
+                "links": []
+              },
               {
                 "id": 1721,
                 "guid": "1b034b04-e7b1-42d4-976f-73d73f90897e",

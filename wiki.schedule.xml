@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-30 10:30</version>
+  <version>2019-12-30 10:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -12597,6 +12597,94 @@ Telegram group: https://t.me/joinchat/AQyfUhHcTKJjmDm9h-s2EQEtherPad: https://pa
         <links/>
       </event>
     </room>
+    <room name="Lecture room 12">
+      <event id="1747" guid="ec640571-12a9-4bb0-8c73-baac81fb0845">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_quick_tour_through_some_of_Haskell%27s_crazy_features</url>
+        <logo/>
+        <date>2019-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:50</duration>
+        <room>Lecture room 12</room>
+        <slug>36c3-1747-session_a_quick_tour_through_some_of_haskell_s_crazy_features</slug>
+        <title>A quick tour through some of Haskell's crazy features</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Haskell is the language of choice of our assembly. It is also weird. In this session, experience a quick guided tour through some of Haskell's features.
+Target audience: People who have some familiarity with programming and who might have heard of Haskell, but don't know any Haskell.</description>
+        <persons>
+          <person id="0">Iblech</person>
+          <person id="0">MatthiasHu</person>
+          <person id="0">MichaelStruwe</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1721" guid="1b034b04-e7b1-42d4-976f-73d73f90897e">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Improtheater_2.0</url>
+        <logo/>
+        <date>2019-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room 12</room>
+        <slug>36c3-1721-session_improtheater_2_0</slug>
+        <title>Improtheater 2.0</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Bewegte Emotionen im Rahmen vom Improtheater
+Kommt gerne zu uns um gemeinsam ein freies und entspannten Einstieg ins Improtheater zubekommen.</description>
+        <persons>
+          <person id="0">Toni</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1708" guid="328944a0-e224-4efb-92ea-b52430485330">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SSG_Meetup_2</url>
+        <logo/>
+        <date>2019-12-30T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>1:30</duration>
+        <room>Lecture room 12</room>
+        <slug>36c3-1708-session_ssg_meetup_2</slug>
+        <title>SSG Meetup 2</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>A meeting of SSG devs
+A followup meeting to the first one which was on 28/12/19</description>
+        <persons>
+          <person id="0">Krawuzikapuzi</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="1662" guid="16c2f17f-088c-48c0-b82b-c53765a014bd">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_mathematics:_The_pineapple_from_SpongeBob_SquarePants_is_a_lie!_The_secret_of_the_number_five_and_wondrous_infinite_fractions</url>
+        <logo/>
+        <date>2019-12-30T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>0:50</duration>
+        <room>Lecture room 12</room>
+        <slug>36c3-1662-session_wondrous_mathematics_the_pineapple_from_spongebob_squarepants_is_a_lie_the_secret_of_the_number_five_and_wondrous_infinite_fractions</slug>
+        <title>Wondrous mathematics: The pineapple from SpongeBob SquarePants is a lie! The secret of the number five and wondrous infinite fractions</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>This talk gives a leisurely introduction to the secret of the number five, which links SpongeBob's ananas, approximations to π known to antiquity, the Mandelbrot fractal, and infinite continued fractions together. The talk is aimed at people who are interested in mathematical patterns, but no fancy math knowledge is needed to enjoy the talk. There will be pretty pictures.
+</description>
+        <persons>
+          <person id="0">Iblech</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
     <room name="Lecture room M2">
       <event id="1177" guid="22f132e1-41b4-47c1-8097-c30636edaefe">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A_trip_down_the_memory_l%CC%B6a%CC%B6n%CC%B6e%CC%B6_dump</url>
@@ -13527,71 +13615,6 @@ We explain how to run a do-ocracy and the lessons we learned from 6 years of hac
         <links>
           <link>https://hackerspace.design</link>
         </links>
-      </event>
-    </room>
-    <room name="Lecture room 12">
-      <event id="1721" guid="1b034b04-e7b1-42d4-976f-73d73f90897e">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Improtheater_2.0</url>
-        <logo/>
-        <date>2019-12-30T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Lecture room 12</room>
-        <slug>36c3-1721-session_improtheater_2_0</slug>
-        <title>Improtheater 2.0</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Bewegte Emotionen im Rahmen vom Improtheater
-Kommt gerne zu uns um gemeinsam ein freies und entspannten Einstieg ins Improtheater zubekommen.</description>
-        <persons>
-          <person id="0">Toni</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1708" guid="328944a0-e224-4efb-92ea-b52430485330">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:SSG_Meetup_2</url>
-        <logo/>
-        <date>2019-12-30T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>1:30</duration>
-        <room>Lecture room 12</room>
-        <slug>36c3-1708-session_ssg_meetup_2</slug>
-        <title>SSG Meetup 2</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language/>
-        <abstract/>
-        <description>A meeting of SSG devs
-A followup meeting to the first one which was on 28/12/19</description>
-        <persons>
-          <person id="0">Krawuzikapuzi</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="1662" guid="16c2f17f-088c-48c0-b82b-c53765a014bd">
-        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_mathematics:_The_pineapple_from_SpongeBob_SquarePants_is_a_lie!_The_secret_of_the_number_five_and_wondrous_infinite_fractions</url>
-        <logo/>
-        <date>2019-12-30T12:30:00+01:00</date>
-        <start>12:30</start>
-        <duration>0:50</duration>
-        <room>Lecture room 12</room>
-        <slug>36c3-1662-session_wondrous_mathematics_the_pineapple_from_spongebob_squarepants_is_a_lie_the_secret_of_the_number_five_and_wondrous_infinite_fractions</slug>
-        <title>Wondrous mathematics: The pineapple from SpongeBob SquarePants is a lie! The secret of the number five and wondrous infinite fractions</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>This talk gives a leisurely introduction to the secret of the number five, which links SpongeBob's ananas, approximations to π known to antiquity, the Mandelbrot fractal, and infinite continued fractions together. The talk is aimed at people who are interested in mathematical patterns, but no fancy math knowledge is needed to enjoy the talk. There will be pretty pictures.
-</description>
-        <persons>
-          <person id="0">Iblech</person>
-        </persons>
-        <links/>
       </event>
     </room>
     <room name="Assembly:Hardware Slackers">

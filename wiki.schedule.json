@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2019-12-30 10:30",
+    "version": "2019-12-30 10:40",
     "conference": {
       "acronym": "36c3",
       "title": "36th Chaos Communication Congress - Wiki",
@@ -15640,6 +15640,122 @@
                 "links": []
               }
             ],
+            "Lecture room 12": [
+              {
+                "id": 1747,
+                "guid": "ec640571-12a9-4bb0-8c73-baac81fb0845",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:A_quick_tour_through_some_of_Haskell%27s_crazy_features",
+                "logo": null,
+                "date": "2019-12-30T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "0:50",
+                "room": "Lecture room 12",
+                "slug": "36c3-1747-session_a_quick_tour_through_some_of_haskell_s_crazy_features",
+                "title": "A quick tour through some of Haskell's crazy features",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "",
+                "language": "en",
+                "abstract": "",
+                "description": "Haskell is the language of choice of our assembly. It is also weird. In this session, experience a quick guided tour through some of Haskell's features.\nTarget audience: People who have some familiarity with programming and who might have heard of Haskell, but don't know any Haskell.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+                    "public_name": "Iblech"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MatthiasHu",
+                    "public_name": "MatthiasHu"
+                  },
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MichaelStruwe",
+                    "public_name": "MichaelStruwe"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1721,
+                "guid": "1b034b04-e7b1-42d4-976f-73d73f90897e",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Improtheater_2.0",
+                "logo": null,
+                "date": "2019-12-30T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "Lecture room 12",
+                "slug": "36c3-1721-session_improtheater_2_0",
+                "title": "Improtheater 2.0",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "workshop",
+                "language": "de",
+                "abstract": "",
+                "description": "Bewegte Emotionen im Rahmen vom Improtheater\nKommt gerne zu uns um gemeinsam ein freies und entspannten Einstieg ins Improtheater zubekommen.",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Toni",
+                    "public_name": "Toni"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1708,
+                "guid": "328944a0-e224-4efb-92ea-b52430485330",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:SSG_Meetup_2",
+                "logo": null,
+                "date": "2019-12-30T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "1:30",
+                "room": "Lecture room 12",
+                "slug": "36c3-1708-session_ssg_meetup_2",
+                "title": "SSG Meetup 2",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "meeting",
+                "language": "",
+                "abstract": "",
+                "description": "A meeting of SSG devs\nA followup meeting to the first one which was on 28/12/19",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Krawuzikapuzi",
+                    "public_name": "Krawuzikapuzi"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 1662,
+                "guid": "16c2f17f-088c-48c0-b82b-c53765a014bd",
+                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_mathematics:_The_pineapple_from_SpongeBob_SquarePants_is_a_lie!_The_secret_of_the_number_five_and_wondrous_infinite_fractions",
+                "logo": null,
+                "date": "2019-12-30T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "0:50",
+                "room": "Lecture room 12",
+                "slug": "36c3-1662-session_wondrous_mathematics_the_pineapple_from_spongebob_squarepants_is_a_lie_the_secret_of_the_number_five_and_wondrous_infinite_fractions",
+                "title": "Wondrous mathematics: The pineapple from SpongeBob SquarePants is a lie! The secret of the number five and wondrous infinite fractions",
+                "subtitle": "",
+                "track": "self organized sessions",
+                "type": "talk",
+                "language": "en",
+                "abstract": "",
+                "description": "This talk gives a leisurely introduction to the secret of the number five, which links SpongeBob's ananas, approximations to \u03c0 known to antiquity, the Mandelbrot fractal, and infinite continued fractions together. The talk is aimed at people who are interested in mathematical patterns, but no fancy math knowledge is needed to enjoy the talk. There will be pretty pictures.\n",
+                "persons": [
+                  {
+                    "id": 0,
+                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
+                    "public_name": "Iblech"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "Lecture room M2": [
               {
                 "id": 1177,
@@ -16795,86 +16911,6 @@
                 "links": [
                   "https://hackerspace.design"
                 ]
-              }
-            ],
-            "Lecture room 12": [
-              {
-                "id": 1721,
-                "guid": "1b034b04-e7b1-42d4-976f-73d73f90897e",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Improtheater_2.0",
-                "logo": null,
-                "date": "2019-12-30T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:00",
-                "room": "Lecture room 12",
-                "slug": "36c3-1721-session_improtheater_2_0",
-                "title": "Improtheater 2.0",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "workshop",
-                "language": "de",
-                "abstract": "",
-                "description": "Bewegte Emotionen im Rahmen vom Improtheater\nKommt gerne zu uns um gemeinsam ein freies und entspannten Einstieg ins Improtheater zubekommen.",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Toni",
-                    "public_name": "Toni"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1708,
-                "guid": "328944a0-e224-4efb-92ea-b52430485330",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:SSG_Meetup_2",
-                "logo": null,
-                "date": "2019-12-30T13:30:00+01:00",
-                "start": "13:30",
-                "duration": "1:30",
-                "room": "Lecture room 12",
-                "slug": "36c3-1708-session_ssg_meetup_2",
-                "title": "SSG Meetup 2",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "meeting",
-                "language": "",
-                "abstract": "",
-                "description": "A meeting of SSG devs\nA followup meeting to the first one which was on 28/12/19",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Krawuzikapuzi",
-                    "public_name": "Krawuzikapuzi"
-                  }
-                ],
-                "links": []
-              },
-              {
-                "id": 1662,
-                "guid": "16c2f17f-088c-48c0-b82b-c53765a014bd",
-                "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Wondrous_mathematics:_The_pineapple_from_SpongeBob_SquarePants_is_a_lie!_The_secret_of_the_number_five_and_wondrous_infinite_fractions",
-                "logo": null,
-                "date": "2019-12-30T12:30:00+01:00",
-                "start": "12:30",
-                "duration": "0:50",
-                "room": "Lecture room 12",
-                "slug": "36c3-1662-session_wondrous_mathematics_the_pineapple_from_spongebob_squarepants_is_a_lie_the_secret_of_the_number_five_and_wondrous_infinite_fractions",
-                "title": "Wondrous mathematics: The pineapple from SpongeBob SquarePants is a lie! The secret of the number five and wondrous infinite fractions",
-                "subtitle": "",
-                "track": "self organized sessions",
-                "type": "talk",
-                "language": "en",
-                "abstract": "",
-                "description": "This talk gives a leisurely introduction to the secret of the number five, which links SpongeBob's ananas, approximations to \u03c0 known to antiquity, the Mandelbrot fractal, and infinite continued fractions together. The talk is aimed at people who are interested in mathematical patterns, but no fancy math knowledge is needed to enjoy the talk. There will be pretty pictures.\n",
-                "persons": [
-                  {
-                    "id": 0,
-                    "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:Iblech",
-                    "public_name": "Iblech"
-                  }
-                ],
-                "links": []
               }
             ],
             "Assembly:Hardware Slackers": [

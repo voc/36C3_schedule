@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-30 01:10</version>
+  <version>2019-12-30 01:30</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -9826,7 +9826,7 @@ This is the exact same talk as [[Session:Japanese_(Reading)_Beginner_to_Expert|t
         <language>en</language>
         <abstract/>
         <description>Write a simple kernel driver, debug and trace it remotely with gdb.
-'''--NO BOARDS LEFT FOR PEOPLE WITHOUT RESERVATION''', please team up with someone who has a board.In this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. KGDB, the kernel debugger, allows you to debug a kernel running on a different architecture, remotely, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. </description>
+In this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. KGDB, the kernel debugger, allows you to debug a kernel running on a different architecture, remotely, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. </description>
         <persons>
           <person id="0">Vtec</person>
         </persons>
@@ -12655,7 +12655,7 @@ Both theoretical and technical aspects of memory forensics will be covered: A th
         <language>en</language>
         <abstract/>
         <description>Write a simple kernel driver, debug and trace it remotely with gdb.
-'''--NO BOARDS LEFT FOR PEOPLE WITHOUT RESERVATION''', please team up with someone who has a board.In this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. KGDB, the kernel debugger, allows you to debug a kernel running on a different architecture, remotely, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. </description>
+In this hands-on workshop, you have a chance to learn some cool tricks working with Linux kernel code. KGDB, the kernel debugger, allows you to debug a kernel running on a different architecture, remotely, just like you would debug a program running in userspace. A powerful trace infrastructure makes it easier to spot issues in time-sensitive systems, when setting a breakpoint is not an option. </description>
         <persons>
           <person id="0">Vtec</person>
         </persons>
@@ -12825,7 +12825,7 @@ Workshop for c3lingo tech prep for 2020</description>
         <logo/>
         <date>2019-12-30T10:00:00+01:00</date>
         <start>10:00</start>
-        <duration>2:00</duration>
+        <duration>1:30</duration>
         <room>Assembly:Hardware Hacking Area</room>
         <slug>36c3-1739-session_hands_on_with_wi_fi_hacking</slug>
         <title>Hands-on with Wi-Fi hacking</title>

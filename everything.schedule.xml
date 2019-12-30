@@ -1,5 +1,5 @@
 <schedule>
-  <version>mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 11:00</version>
+  <version>mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 11:10</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -34280,6 +34280,27 @@ In this hands-on workshop, you have a chance to learn some cool tricks working w
         </persons>
         <links/>
       </event>
+      <event id="1749" guid="11603b8c-ce00-45b0-8bea-3b0f96cbaf64">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Systems_design:_Transparent_persistence_vs_crash-only</url>
+        <logo/>
+        <date>2019-12-30T13:15:00+01:00</date>
+        <start>13:15</start>
+        <duration>0:15</duration>
+        <room>Lecture room M2</room>
+        <slug>36c3-1749-session_systems_design_transparent_persistence_vs_crash_only</slug>
+        <title>Systems design: Transparent persistence vs crash-only</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Introduction to two properties of operating systems/programming languages/any software and their relationship
+* Transparent persistence: Every variable in the programming language is persisted to disk automatically* Crash-only: Software needs to be prepared to crash at any point in time. Crashing takes the place of failing and shutting down.</description>
+        <persons>
+          <person id="0">MichaelStruwe</person>
+        </persons>
+        <links/>
+      </event>
       <event id="1306" guid="41e07783-4ba7-4afa-870a-142719aae90a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Velomobiles</url>
         <logo/>
@@ -35786,7 +35807,7 @@ This discussion round will give a short overview over Ende Gelände, peaceful no
         <language>de</language>
         <abstract/>
         <description>Über kollektives Entscheiden und Handeln
-Im Gespräch und Aktion - Ein ErfahrungsaustauschModeration Karolina IwaMit ...Sebastian vom LeadershipfestivalUwe von Premium Cola KollektivJulian vom Kollektiv Monis RacheAnne vom Schöner Hausen HausprojektMax vom Kollektiv Mensch Meier Gemeinsam sind wir mehr! Über kollektives Entscheiden und Handeln. Was brauchen wir um in Kollektiven in Aktion zu treten? Welche Strukturen und Prozesse können uns unterstützen gemeinsam die Welt (um) zu gestalten?Karolina Iwa und Sebastian Daniel Mall beschäftigen sich als das Leadership Festival- Kollektivs mit Ansätzen wie Ko-Kreation, der Theory U und zeitgemäßen Theories of Change. Sie sind Teil einer globalen Bewegung von Aktions-Forschern.Leadership Festival @ Roter Salon @ 36c3</description>
+Im Gespräch und Aktion - Ein ErfahrungsaustauschModeration Karolina IwaMit ...*Sebastian vom Leadershipfestival* Uwe von Premium Cola Kollektiv* Julian vom Kollektiv Monis Rache* Anne vom Schöner Hausen Hausprojekt* Max vom Kollektiv Mensch Meier Gemeinsam sind wir mehr! Über kollektives Entscheiden und Handeln. Was brauchen wir um in Kollektiven in Aktion zu treten? Welche Strukturen und Prozesse können uns unterstützen gemeinsam die Welt (um) zu gestalten?Karolina Iwa und Sebastian Daniel Mall beschäftigen sich als das Leadership Festival- Kollektivs mit Ansätzen wie Ko-Kreation, der Theory U und zeitgemäßen Theories of Change. Sie sind Teil einer globalen Bewegung von Aktions-Forschern.Leadership Festival @ Roter Salon @ 36c3</description>
         <persons>
           <person id="0">Kreatur</person>
         </persons>

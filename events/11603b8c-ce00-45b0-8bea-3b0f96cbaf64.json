@@ -1,0 +1,26 @@
+{
+  "id": 1749,
+  "guid": "11603b8c-ce00-45b0-8bea-3b0f96cbaf64",
+  "url": "https://events.ccc.de/congress/2019/wiki/index.php/Session:Systems_design:_Transparent_persistence_vs_crash-only",
+  "logo": null,
+  "date": "2019-12-30T13:15:00+01:00",
+  "start": "13:15",
+  "duration": "0:15",
+  "room": "Lecture room M2",
+  "slug": "36c3-1749-session_systems_design_transparent_persistence_vs_crash_only",
+  "title": "Systems design: Transparent persistence vs crash-only",
+  "subtitle": "",
+  "track": "self organized sessions",
+  "type": "",
+  "language": "en",
+  "abstract": "",
+  "description": "Introduction to two properties of operating systems/programming languages/any software and their relationship\n* Transparent persistence: Every variable in the programming language is persisted to disk automatically* Crash-only: Software needs to be prepared to crash at any point in time. Crashing takes the place of failing and shutting down.",
+  "persons": [
+    {
+      "id": 0,
+      "url": "https://events.ccc.de/congress/2019/wiki/index.php/User:MichaelStruwe",
+      "public_name": "MichaelStruwe"
+    }
+  ],
+  "links": []
+}

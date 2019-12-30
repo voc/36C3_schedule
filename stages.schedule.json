@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3",
+    "version": "mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.31; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -17002,6 +17002,39 @@
                   {
                     "url": "https://github.com/alephium/research/raw/master/polw.pdf",
                     "title": "Paper"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://frab.riat.at/en/36C3/public/schedule/events/140.html",
+                "id": 4340,
+                "guid": "d1b340c9-aaa3-4df9-8f5c-019395d92b9b",
+                "logo": "/system/events/logos/000/000/140/large/Logo_OTS-OpenTecSummit_q_o_v1-1.svg.png?1577181625",
+                "date": "2019-12-30T14:30:00+01:00",
+                "start": "14:30",
+                "duration": "00:30",
+                "room": "CDC - Stage",
+                "slug": "36C3-140-open_next_-_learning_from_open_hardware_devops_and_continuous_integration_for_the_production_of_big_machines",
+                "title": "Open Next - Learning from Open Hardware: DevOps and Continuous Integration for the Production of Big Machines",
+                "subtitle": "What is Missing to Prototype and Make Big Machines, Cars, Trucks, Spaceships Really Fast?",
+                "track": "Stage",
+                "type": "lecture",
+                "language": "en",
+                "abstract": "Continuous Integration was a big buzzword with software projects already years ago and it is standard today. In projects such as Pocket Science Lab we took the idea of Development Operations a step further and apply these concepts to hardware. The increased speed of development and the possibility to produce different prototypes with a click almost feels as if we deploy software automatically. What would happen if the industry would be able to change in the same way? How could we shorten the time from prototype to production and market? What is missing to build complex and really big machines? How can standardization and machine readable requirements documents help us to create sustainable hardware and solve the problems of our time? These are some of the questions we will explore in this session based on our research within the EU Horizon 2020 project on collaborative product creation.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 56,
+                    "public_name": "Mario Behling"
+                  }
+                ],
+                "links": [
+                  {
+                    "url": "https://opennext.eu",
+                    "title": "Open Next"
                   }
                 ],
                 "attachments": []

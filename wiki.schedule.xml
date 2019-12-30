@@ -1,5 +1,5 @@
 <schedule>
-  <version>2019-12-30 14:20</version>
+  <version>2019-12-30 14:40</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Wiki</title>
@@ -12747,7 +12747,7 @@ A followup meeting to the first one which was on 28/12/19</description>
         <language>en</language>
         <abstract/>
         <description>This workshop covers the fundamentals of memory internals and then dive into hands-on analysis with volatility. Newbie or seasoned, professional or hobbyist, this session is for you!
-Both theoretical and technical aspects of memory forensics will be covered: A theoretical approach of the basics of how memory in Windows systems works and hands-on dive to memory analysis.&lt;br&gt;The following topics will be discussed:&lt;br&gt;UPDATE: Download material for the workshop from : https://github.com/nov3mb3r/36c3-Workshop &lt;br&gt;* How memory works in Windows systems* Memory acquisition* Introduction to Volatility and its plugins* Hands-on analysis of machine hit by ransomwareLast 15 minutes will feature a general discussion and ideally will set the foundation of a C3 assembly dedicated to Digital ForensicsIt is a BYOD, so please have the latest version of volatility installed on your machine!&lt;br&gt;https://github.com/volatilityfoundation/volatility/wiki/Installation&lt;br&gt;The workshop will be all about how to use it, not install it! :)</description>
+UPDATE: Slides (and contact mail) for the workshop have been uploaded to: https://github.com/nov3mb3r/36c3-Workshop &lt;br&gt;Both theoretical and technical aspects of memory forensics will be covered: A theoretical approach of the basics of how memory in Windows systems works and hands-on dive to memory analysis.&lt;br&gt;The following topics will be discussed:&lt;br&gt;* How memory works in Windows systems* Memory acquisition* Introduction to Volatility and its plugins* Hands-on analysis of machine hit by ransomwareLast 15 minutes will feature a general discussion and ideally will set the foundation of a C3 assembly dedicated to Digital ForensicsIt is a BYOD, so please have the latest version of volatility installed on your machine!&lt;br&gt;https://github.com/volatilityfoundation/volatility/wiki/Installation&lt;br&gt;The workshop will be all about how to use it, not install it! :)</description>
         <persons>
           <person id="0">November</person>
         </persons>

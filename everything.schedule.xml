@@ -1,5 +1,5 @@
 <schedule>
-  <version>mkdir; lounges 606; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.31; sendezentrum 4.5; lightning Holmium; art-play 0.26; cdc 3; wiki 2019-12-30 15:10</version>
+  <version>mkdir; lounges 606; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.32; sendezentrum 4.5; lightning Holmium; art-play 0.26; cdc 3; wiki 2019-12-30 16:20</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -35098,6 +35098,34 @@ CFAR exists to try to make headway in this domain—the domain of understanding 
         <answers/>
       </event>
     </room>
+    <room name="1Komona nokingdome">
+      <event id="877" guid="a2c39ff6-965a-5865-92ec-6c7b2ce4dc68">
+        <logo/>
+        <date>2019-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>nokingdome</room>
+        <slug>CQPCQS</slug>
+        <url>https://talks.komona.org/36c3/talk/CQPCQS/</url>
+        <title>Komona Meeting / Plenum</title>
+        <subtitle/>
+        <track/>
+        <type>Session</type>
+        <language>en</language>
+        <abstract>Komonistas meeting</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">fap</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="1Komona dezentrale*"/>
     <room name="1Komona cinopolis">
       <event id="892" guid="5ba2eccb-c550-5d46-a8a1-2ca211fe59a6">
@@ -35149,32 +35177,6 @@ CFAR exists to try to make headway in this domain—the domain of understanding 
         </recording>
         <persons>
           <person id="73">aimeejulia</person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="877" guid="a2c39ff6-965a-5865-92ec-6c7b2ce4dc68">
-        <logo/>
-        <date>2019-12-30T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Boredome</room>
-        <slug>CQPCQS</slug>
-        <url>https://talks.komona.org/36c3/talk/CQPCQS/</url>
-        <title>Komona Meeting / Plenum</title>
-        <subtitle/>
-        <track/>
-        <type>Session</type>
-        <language>en</language>
-        <abstract>Komonistas meeting</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="4">fap</person>
         </persons>
         <links/>
         <attachments/>

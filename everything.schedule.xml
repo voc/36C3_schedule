@@ -1,5 +1,5 @@
 <schedule>
-  <version>mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.13; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 03:50</version>
+  <version>mkdir; lounges 505; chaos-west 1.0; open-infra 23; wikipaka 0.17; chaoszone 0.13; komona 0.30; sendezentrum 4.5; lightning Dysprosium; art-play 0.26; cdc 3; wiki 2019-12-30 04:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -35696,6 +35696,31 @@ TRICKMISCH.de und TRIXMIX.tv sind wieder auf dem Congress, um mit Euch Trickfilm
         </persons>
         <links>
           <link>http://TRICKMISCH.de</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Pseudoroom">
+      <event id="1743" guid="5978d004-1708-4066-aeb2-8aa2a5e9fa7d">
+        <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:Captain_Sonar</url>
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Pseudoroom</room>
+        <slug>36c3-1743-session_captain_sonar</slug>
+        <title>Captain Sonar</title>
+        <subtitle>Let's Play 4</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Captain Sonar
+Wir spielen das Spiel Captain Sonar.Bitte über https://www.schokoladensouffle.eu/captainsonar/ anmelden, maximal acht Teilnehmer, FCFSWir spielen bei der Gaderobe im Pseudoroom (CCL Gebäude ganz unten)DECT 3060 bei Rückfragenmehr Infos zum Spiel: https://de.wikipedia.org/wiki/Captain_Sonar</description>
+        <persons>
+          <person id="0">Ankylotech</person>
+        </persons>
+        <links>
+          <link>https://www.schokoladensouffle.eu/captainsonar/</link>
         </links>
       </event>
     </room>

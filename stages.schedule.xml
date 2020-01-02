@@ -1,5 +1,5 @@
 <schedule>
-  <version>mkdir; lounges 707; wikipaka 0.18; chaoszone 0.14; komona 0.32; sendezentrum 4.5; lightning Holmium; art-play 0.26; cdc 3</version>
+  <version>mkdir; lounges 707; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.32; sendezentrum 4.5; lightning Holmium; art-play 0.26; cdc 3</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Stages</title>
@@ -1559,8 +1559,880 @@ Finally, we will finish with a short reflection on why such a project, based on 
         <attachments/>
       </event>
     </room>
-    <room name="Chaos-West Bühne"/>
-    <room name="OIO Stage"/>
+    <room name="Chaos-West Bühne">
+      <event id="264" guid="8909a42b-c36a-58b3-af07-39f671ac9351">
+        <logo/>
+        <date>2019-12-27T10:45:00+01:00</date>
+        <start>10:45</start>
+        <duration>00:15</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>U3SAXX</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/U3SAXX/</url>
+        <title>Chaos-West Stage: Opening</title>
+        <subtitle/>
+        <track/>
+        <type>Einfacher Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="85">Chaos-West</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="262" guid="3a62d6f9-26d7-5bad-ba07-a064e395a97b">
+        <logo/>
+        <date>2019-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>JRZ3HF</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/JRZ3HF/</url>
+        <title>36C3 Opening - STREAM</title>
+        <subtitle/>
+        <track/>
+        <type>Einfacher Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="85">Chaos-West</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="188" guid="51a9f476-22d9-5844-ace2-a9078540bec5">
+        <logo/>
+        <date>2019-12-27T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>LBLBJT</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/LBLBJT/</url>
+        <title>Swiss Cybervoting PIT(falls)</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Einfacher Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Swiss democracy is one of it's kind.&#13;
+Digitization is starting to affect even our most critical processes, such as voting.&#13;
+&#13;
+When a piece of code suddenly gets responsible for democracy, it's only natural that the voices get loud and many questions get raised:&#13;
+Is our democracy at stake? Do we have to fear for our privacy? Is electronic voting even feasible in Switzerland? Is such a solution secure?&#13;
+&#13;
+As part of a mandatory Public Intrusion Test (PIT), the Swisspost released their e-voting source code to the world and started a heated debate - far beyond the Swiss borders.&#13;
+&#13;
+Not only the codebase revealed several problems during the PIT. &#13;
+Interesting scoping, redefining the term "open source" and unreleased security audits were only some of the issues that security researchers faced and caused controversy.&#13;
+&#13;
+In this talk we will have a look at many technical and non-technical aspects of the e-voting solution and PIT from the view of a participating security researcher.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="132">Jannis Kirschner</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="182" guid="edf22d8e-d223-5f63-b796-e6fded2b112d">
+        <logo>/media/36c3/images/TCNWMW/19-10-25_2-21-35_PM_2965_lUBOOhw.jpg</logo>
+        <date>2019-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>TCNWMW</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/TCNWMW/</url>
+        <title>Landtagswahlen sind Klimawahlen und was das für Fridays for Future Thüringen bedeutet hat</title>
+        <subtitle/>
+        <track>Klimakatastrophe</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Seit knapp einem Jahr geht die Fridays for Future Bewegung auf die Straßen und durch die Medien. Nebst Brandenburg und Sachsen hat auch Thüringen einen neuen Landtag gewählt. Für Fridays for Future Thüringen war daher sofort klar: Landtagswahlen sind Klimawahlen und wir müssen handeln! Denn die hier gewählten Volksvertrater\*innen sind die letzten die das Steuer noch herumreißen können.&#13;
+&#13;
+Aber wie läuft das eigentlich wenn wir nur drei Monate haben um vier Streiks zu organisieren? Was gehört überhaupt zu so einem Streik? Was kostet das eigentlich und wie finanzieren wir das? Was fordern wir? Wann schlafen wir? Mit wem gehen wir in ein Bündnis? All diese Fragen werden in diesem Talk von einem Mitglied des Orga-Teams beantwortet.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="128">Moritz Fromm</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="191" guid="20e8e532-a5c8-5c46-b1e8-ee648ca653a9">
+        <logo/>
+        <date>2019-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>RKMAKL</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/RKMAKL/</url>
+        <title>Risky Business?! – Rechte und Pflichten von IT-SicherheitsforscherInnen</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>In einem Gespräch über die Hackertool-Paragraphen des Strafgesetzbuches in LNP 296 sagte Frank zu Linus: „Damals haben wir juristisch noch ein bisschen was dazugelernt, nämlich dass die Begründung bzw. Erläuterung des Gesetzes in der deutschen Jurisprudenz mit herangezogen wird.“ Diese Kenntnis reicht für das Lesen von Gesetzen und Gerichtsurteilen aus. Für die IT-Sicherheitsforschung und die Analyse beispielsweise leicht auffindbarer Login-Daten bedarf es aber umfangreicherer Kenntnisse. Fragt man dazu einen Juristen, ist die Antwort oft komplex und führt zum "buffer overflow" und einer "brain resource exhaustion" des Fragenden.&#13;
+&#13;
+Damit ForscherInnen beider Gebiete und Interessierte "ressourcenschonender" kommunizieren können und um das juristische Verständnis zu erweitern, fasst dieser Vortrag in einem Überblick die wichtigsten Punkte verständlich zusammen. Betrachtet werden das hauptsächlich Datenschutz- und IT-Sicherheitsrecht, am Rande auch erwähnte,  relevante Strafrechtsnormen. Die (prozessuale) Thematik der Hausdurchsuchung bleibt wegen des Talks vom 35c3 (https://media.ccc.de/v/35c3-10018-verhalten_bei_hausdurchsuchungen) außen vor.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="136">Oliver Vettermann</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="190" guid="c49cf6de-d9f4-50ba-aba2-cb326e3bd385">
+        <logo/>
+        <date>2019-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>MXQBWP</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/MXQBWP/</url>
+        <title>Ansible all the Things</title>
+        <subtitle/>
+        <track>The real basic about Bits and Nibbles</track>
+        <type>Einfacher Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>In diesem Talk wird es um die Grundlagen von Ansible gehen, warum es für den Vortragenden das beste Werkzeug ist und welche alternativen es noch gibt.&#13;
+Vom ersten Host Inventory im YAML Format über die kleine Rollen (NTP/Fail2Ban) und Playbooks bis hin zum ersten kompletten Einrichten des Rasberry Pi oder Servers mit eigenen Dotfiles und den Basic Paketen die man so braucht.&#13;
+Auch wird drauf eingegangen, wie und warum reproduzierbare Infrastruktur Builds das Leben eines Admins erleichtern können und im Alltag der händischen Arbeit vorzuziehen sind. Abschließen wird der Talk mit dem Thema "Ansible Playbooks aus dem Internet herunterladen oder selbst machen?" und worauf man achten sollte, wenn man Playbooks für mehrere unterschiedliche Linux Distributionen baut.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="135">Heiko Borchers</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="244" guid="0f020c49-a754-5758-b794-25d84e0ac19a">
+        <logo>/media/36c3/images/KPKBDU/ArcoLinux_2019-11-24_20-48-54.png</logo>
+        <date>2019-12-27T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>KPKBDU</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/KPKBDU/</url>
+        <title>Freedombone - DIY Soziale Veränderung in Zeiten des Überwachungskapitalismus</title>
+        <subtitle/>
+        <track>The real basic about Bits and Nibbles</track>
+        <type>Einfacher Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Was wäre, wenn das Internet nicht wie ein feudaler Besitz regiert würde? Was&#13;
+wäre, wenn es von und für Leute, die es benutzen, betrieben würde?&#13;
+&#13;
+Ich benutze Freedombone um der Geselschaft sowie auch allen Individuen zu&#13;
+ermöglichen, die Datensouveränität aus dem free-to-use Model des&#13;
+Überwachungskapitalismus zurück zu gewinnen. Durch die Möglichkeit ["Server&#13;
+Apps"] ohne technisches Wissen mit 4 Klicks über einer Web UI zu installieren,&#13;
+ist es möglich, dass Hobby-Admins ohne viel Zeit, sowie auch in Umgang mit&#13;
+Servern und Hosting unerfahrene Menschen nicht bei der Inbetriebnahme scheitern.&#13;
+&#13;
+Somit kann jede Einzelperson oder eine Community das Internet als freies&#13;
+Kommunikationmiittel wieder nutzen.Bei diesem Talk liegt der Fokus auf dem&#13;
+Fediverse, die Vernetztung sozialer Bewegungen und dem nutzen Dienstprogramme.&#13;
+["Server Apps"](https://freedombone.net/apps.html)&#13;
+&#13;
+&#13;
+Es ist eine Tatsache, dass Mainstream-Software kaputt ist und die Unternehmen,&#13;
+die sie entwickeln, unzuverlässig und datenhungrig sind.&#13;
+&#13;
+Daher ist zu folgern, dass wir einen Bruchpunkt in der Gesichte des menschlichen&#13;
+Informationsaustausches erreicht haben. Die Rückgewinnung der Datensouveränität&#13;
+ist bei Freedombone ein Selbstverständnis. **Du willst also deine eigenen&#13;
+Internetdienste betreiben, aber hast keine Zeit dies umzusetzen?**&#13;
+&#13;
+&#13;
+Die Konfiguration von Diensten wie E-Mail, Chat, VoIP, Websiten,&#13;
+Dateisynchronisation, Wikis, Blogs, soziale Netzwerken (pleroma, zap, pixelfeed,&#13;
+ua.), Medienhosting, Backups, VPN sind an sich schon ein nicht triviales&#13;
+Unterfangen. Das Ziel von \[Freedombones\](https://freedombone.net/) ist es die&#13;
+Konfiguration zu übernehmen. Freedombone ist ein Home-Server-System, mit dem du&#13;
+all diese Dinge von deinem Wohn- oder Hackerzimmer hosten kannst. Für die&#13;
+Einrichtung wird eine .img.xz [Image] auf einen USB Stick geladen. Nach dem&#13;
+ersten Boot ist ein Email Server schon funktionsfähig. Standartmässig sind alle&#13;
+Dienste im Internet über DNS im Clearnet aber auch im Darknet über TOR&#13;
+erreichbar.&#13;
+&#13;
+Freedombone ist ein AGPLv3 Open Source Projekt.&#13;
+[Git](https://code.freedombone.net/bashrc/freedombone)&#13;
+&#13;
+Mein aktuelles Ziel, in diesem Jahr, war die Einbindung von Freifunk. Die&#13;
+Weboberfläche zeigt alle öffentlich bekannten Freifunk Nodes einer lokalen&#13;
+Freifunk Gruppe auf einer Karte an. Der Admin wählt den Konfig einer Freifunk&#13;
+Gruppe. Seit Frühjahr arbeite ich auch an an einem GitlabCI System, welches das&#13;
+Ziel hat die Wartung der Software des Projektes zu erleichtern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="188">Sw0rdDoom</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="230" guid="a8ea9881-0e74-5dc4-8ce4-74abadf19030">
+        <logo/>
+        <date>2019-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>XFXE9Q</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/XFXE9Q/</url>
+        <title>Ein Teil davon. Wie feministische Hackspaces Gemeinschaft herstellen.</title>
+        <subtitle/>
+        <track>Nicht Computers</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>In den vergangenen Jahren haben sich immer mehr feministische Hackspaces in den verschiedensten Formen gegründet. Warum eigentlich? Was bewegt Menschen dazu, was macht einen feministischen Hackspace überhaupt aus und wie können wir alle davon lernen? Das habe ich in meiner Masterarbeit untersucht und bin dafür durch Deutschland gereist, um mit Mitgliedern feministischer Hackspaces zu sprechen. Im Ergebnis werden die Funktionen feministischer Hackspaces beleuchtet und analysiert, warum diese Räume für ihre Mitglieder so wichtig sind.&#13;
+&#13;
+Um das herauszufinden, habe ich mit dem qualitativen Forschungsstil der „Grounded Theory“ in einem zirkulären Verfahren Interviews geführt und ausgewertet. So habe ich ein Modell entwickelt, das zeigen kann, welche Kernfunktionen Hackspaces haben, welche Faktoren Menschen davon abhalten, in ihrem lokalen Hackspace aktiv zu werden, und wie feministische Hackspaces versuchen, diese Defizite auszugleichen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="176">Julia</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="249" guid="8b2e0ac2-3c75-50d3-86bf-f171eb4f1dd9">
+        <logo/>
+        <date>2019-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>EZU78C</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/EZU78C/</url>
+        <title>Look at ME! - Intel ME Investigation</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Einfacher Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>Look at ME! - Intel ME Investigation&#13;
+&#13;
+With Intel's Firmware Support Package (FSP) and the recent release of a&#13;
+[redistributable firmware binary](https://edk2.groups.io/g/devel/message/50920/eml)&#13;
+for the Management Engine, it has become possible to share full firmware images&#13;
+for modern x86 platforms and potentially audit the binaries. Yet, reverse&#13;
+engineering, decompilation and disassembly are still not permitted. However,&#13;
+thanks to previous research, we can have a closer look at the binary data and&#13;
+come to a few conclusions. This talk briefly summarizes the fundamentals of&#13;
+developing custom and open source firmware, followed by a quick guide through&#13;
+the process of analyzing the binaries without actually violating the terms to&#13;
+understand a few bits, and finally poses a statement on the political issues&#13;
+that researchers, repair technicians and software developers are facing.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="193">CyReVolt</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="255" guid="b6905252-7db6-5e9a-a2a0-dfc04b2fd6a2">
+        <logo/>
+        <date>2019-12-27T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>EARPZB</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/EARPZB/</url>
+        <title>Emergency VPN: Analyzing mobile network traffic to detect digital threats</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Einfacher Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>The access to surveillance technology by governments and other powerful actors has increased in the last decade. Nowadays malicious software is one of the tools to-go when attempting to monitor and surveil victims. In contrast, the target of these attacks, typically journalists, lawyers, and other civil society workers, have very few resources at hand to identify an ongoing infection in their laptops and mobile devices. &#13;
+&#13;
+ In this presentation we would like to introduce the Emergency VPN, a solution we developed at the Czech Technical University as part of the CivilSphere project. The Emergency VPN is designed to provide a free and high quality security assessment of the network traffic of a mobile device in order to early identify mobile threats that may jeopardize the security of an individual. &#13;
+&#13;
+ The presentation will cover the design of the Emergency VPN as a free software project, the instructions of how a user can work with it, and some success cases where we could detect different infections on users.&#13;
+&#13;
+ We expect attendees will leave this session with a more clear overview of what the threat landscape looks like, what are the options for users that suspect their phone is infected, and how the Emergency VPN can help in those cases.&#13;
+&#13;
+ More information about the Emergency VPN can be found at CivilSphere's website: https://www.civilsphereproject.org</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="209">Sebastian Garcia</person>
+          <person id="208">Veronica Valeros</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="207" guid="b1f5ca8d-78ff-5e80-b301-4e8ae0ae6c8b">
+        <logo/>
+        <date>2019-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>73DECY</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/73DECY/</url>
+        <title>The challenges of Protected Virtualization</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Doppelter Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>Firmware protection for Virtual Machines against buggy or malicious&#13;
+hypervisors is a rather new concept that is quickly gaining traction&#13;
+among the major CPU architectures; two years ago AMD introduced Secure Encrypted Virtualization (AMD SEV), and now IBM is introducing Protected Virtualization for the s390x architecture.&#13;
+&#13;
+This talk will present the motivations and the overall architecture of&#13;
+Protected Virtualization, the general challenges for Linux both as a guest and as a hypervisor with KVM and Qemu.&#13;
+&#13;
+The main challenges presented will be, among others:&#13;
+* secure VM startup&#13;
+* attestation&#13;
+* I/O&#13;
+* interrupts&#13;
+* Linux guest support&#13;
+* KVM and Qemu changes&#13;
+* swap and migration&#13;
+&#13;
+While the talk will have some technical content, it should be enjoyable for anyone who tinkers with KVM and virtualization.&#13;
+&#13;
+Knowledge of the s390x architecture is not required.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="154">Janosch Frank</person>
+          <person id="153">Claudio Imbrenda</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="221" guid="1a8d5fce-a813-5272-83d2-8c21a54a6516">
+        <logo>/media/36c3/images/CBGVT9/logo-quadrat-vector.jpg</logo>
+        <date>2019-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>CBGVT9</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/CBGVT9/</url>
+        <title>"Unvorstellbare Einzelfälle" und "neue Phänomene"? - Kontinuitäten des rechten Terrors</title>
+        <subtitle/>
+        <track>Antifaschimus</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Christchurch, El Paso, Walter Lübcke, Halle – seit 2019 verbinden wir diese Orte und Namen mit rechtem Terror. Auf jeden Anschlag folgte auch in diesem Jahr eine öffentliche Debatte, in der rechter Terror meist als neues Phänomen erscheint. Je größer jedoch die Häufung der Anschläge, desto absurder erscheinen die Worte von „unvorstellbaren Einzelfällen“, begangen von „verrückten Einzeltätern“. Diese Erzählungen haben einen anderen Zweck, als rechten Terror die Grundlage zu entziehen. Sie sollen sagen: ‚Wir hätten es nicht wissen können, hätten nichts tun können und werden auch zukünftig nichts verhindern‘. &#13;
+&#13;
+Dabei ist das Gegenteil der Fall: Rechter Terror hat auch nach 1945 nie aufgehört und obwohl an jedem Fall etwas Spezielles ist, so gibt es doch Gemeinsamkeiten und Kontinuitätslinien. Rechtsterroristen und Rechtsterroristinnen wie etwa der NSU oder Anders Breivik kämpften immer mit den Mitteln der Zeit für die Umsetzung ihrer Ziele: Der Umsturz der Gesellschaft durch massive Gewalt, um ihre wahlweise autoritäre, heteronormative, völkische Vision einer Volksgemeinschaft verwirklichen zu können. Aus dieser Geschichte des rechten Terrors und den gesellschaftlichen Reaktionen darauf können wir lernen ihnen etwas entgegenzusetzen.&#13;
+&#13;
+Caro Keller von NSU-Watch wird anhand exemplarischer Fälle die wichtigen Kontinuitätslinien herausarbeiten. Vor diesem Hintergrund nimmt sie auch den aktuellen rechten Terror, Phänomene wie toxische Männlichkeit oder „Gamification of Terror“ in den Blick. Es wird aufgezeigt, ob und wie wir als Antifaschist*innen und Gesellschaft dieses Wissen gegen rechten Terror einsetzen können.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="168">Caro Keller</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="201" guid="1a12a734-c498-535b-9292-831e529a14c2">
+        <logo/>
+        <date>2019-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>GZGQK3</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/GZGQK3/</url>
+        <title>Rosa Listen</title>
+        <subtitle/>
+        <track>Queer</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>"Eine Regierung hat auch die Pflicht uns vor zukünftigen Regimen zu schützen." Anhand der Rosa Liste möchte ich aufzeigen weshalb das ein wichtiger Grundsatz moderner Demokratien ist.&#13;
+&#13;
+In der Weimarer Republik und der Ersten Republik Österreich wurden Listen angelegt in denen zahlreiche Daten über tatsächliche oder vermeintliche Homosexuelle gesammelt und auf Vorrat gespeichert wurden. In der NS-Diktatur wurden diese Listen genutzt, um eine möglichst große Anzahl Homosexueller in Konzentrationslager (KZ) zu bringen. In diesen bekamen sie den berühmten Rosa Winkel als Kennzeichnung, wodurch sie auch Repressalie von anderen Insassen ausgesetzt waren. Noch heute gilt die Rosa Liste als eines der schlimmsten Beispiele wie auf Vorrat gespeicherte Daten missbraucht werden können.&#13;
+&#13;
+Als Datenschützer und Bisexueller möchte ich näher auf diesen besonderen Teil der Geschichte eingehen und aufzeigen was daraus lernen sollten.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="146">Erwin Ernst 'eest9' Steinhammer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="257" guid="3ea84afe-51cf-5219-b658-79f331cdc381">
+        <logo/>
+        <date>2019-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>RUCJJQ</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/RUCJJQ/</url>
+        <title>Storing energy in the 21st centruy</title>
+        <subtitle/>
+        <track>Nicht Computers</track>
+        <type>Doppelter Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>The 21st century will be powered by electricity. I'm a journalist in the field of science and technology reporting. I followed the development of electricity storage and generation for over 10 years. In this talk I will outline the current state of electricity storage technology and its limitations. There is a gap between the intermittent availability of electricity generation and demand for it.&#13;
+&#13;
+Cobalt and Lithium are increasingly limited in supply and their production is often produced using unsustainable means. Alternatives are being development and will be presented. Some of these technologies are in the form of chemical batteries and some use very surprisingly simple technologies.&#13;
+&#13;
+I will be giving an introduction into future technologies for electricity storage currently in development. Some of these are batteries without rare materials and others are not batteries at all.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="69">Frank Wunderlich-Pfeiffer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="200" guid="63410ac1-263b-5327-9c4b-ba3b0098228c">
+        <logo/>
+        <date>2019-12-27T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>RAFTCU</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/RAFTCU/</url>
+        <title>Broken Beyond Repair - No Patch for Verfassungsschutz: Kritische Analyse der Verfassungsschutzberichte</title>
+        <subtitle/>
+        <track>Antifaschimus</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Der deutsche Inlandsgeheimdienst bietet seit Jahrzehnten mit seinen Berichten eine interessante Propaganda an. Dieser wollen wir in diesem Talk auf den Zahn fühlen. Dazu ordnen wir die Erwähnungen von linken und antifaschistischen Akteur:innen kritisch ein. Dabei legen wir die Ideologie des sog. Verfassungsschutzes offen.&#13;
+&#13;
+Die Verfassungsschutzämter veröffentlichen jährlich Berichte über ihre Arbeit – auch im Netz. Doch die Berichte wurden zumeist nach 5 Jahre depubliziert. Wir sammeln alte und neue Berichte auf [Verfassungschutzberichte.de](https://vsberichte.de). Mit diesem digitalen Archiv vereinfachen wir die Recherche. Neben einer Suche lassen sich so z. B. Erwähnungen von Begriffen oder Organisationen im zeitlichen Verlauf betrachten. Einige interessante Resultate stellen wir in dem Vortrag vor.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="157">Andreas Krämer</person>
+          <person id="145">Johannes Filter</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="195" guid="be956120-b271-54de-85fe-79dbf7db5fc2">
+        <logo/>
+        <date>2019-12-28T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>7CPYCT</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/7CPYCT/</url>
+        <title>Doktor Ogen presents Deep Space Night</title>
+        <subtitle/>
+        <track>Klangteppich</track>
+        <type>Klangteppich</type>
+        <language>de</language>
+        <abstract/>
+        <description>Feinster Deep &amp; Progressive House und wunderschöne visuelle Impressionen aus dem Weltraum laden ein zum grooven, chillen oder sich einfach mal inspirieren zu lassen. Eine Hommage an die Sendung "Space Night" des Bayerischen Rundfunks, gebeamt in die heutige Zeit !</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="140">Stecki</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="205" guid="894cdfb2-9cfe-563c-82d7-789675d53b4a">
+        <logo>/media/36c3/images/JZACMR/885126_10152643499100515_567263813_o.jpg</logo>
+        <date>2019-12-28T02:00:00+01:00</date>
+        <start>02:00</start>
+        <duration>02:00</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>JZACMR</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/JZACMR/</url>
+        <title>Petrosilius spacetrip to Alpha-Centauri</title>
+        <subtitle/>
+        <track>Klangteppich</track>
+        <type>Klangteppich</type>
+        <language>de</language>
+        <abstract/>
+        <description>Mit Harald zusammen begeben wir uns auf einen musikalischen Trip auf einem Ambient Klangteppich in Richtung Alpha Centauri, um endlich die Fragen beantwortet zu bekommen, die wir uns alle Stellen:&#13;
+&#13;
+* Ist Liebe in der Nähe von schwarzen Löchern möglich?&#13;
+* War die Mondlandung echt?&#13;
+* Gibt es Schnaps im Weltraum?&#13;
+&#13;
+Wer schon einen Eindruck bekommen will, wie sich so ein Ambient Klangteppich anhört kann schonmal hier reinhören:&#13;
+&#13;
+https://soundcloud.com/boomboombastard/oceanfloor-unreal-ambient-like-miks&#13;
+&#13;
+https://hearthis.at/petrosilius/keintraum/</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="149">petrosilius</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Stage">
+      <event id="376" guid="989bacb7-b112-5f02-afc3-6c112aab3435">
+        <logo/>
+        <date>2019-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <room>OIO Stage</room>
+        <slug>RSGMFF</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/RSGMFF/</url>
+        <title>Generalprobe Stage</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Finales Trockenschwimmen auf der Bühne mit Licht, Ton, Video, Streaming</abstract>
+        <description>Speaker wird noch gesucht für Powerpoint-Karaoke oder "Autocomplete Texting" (requires audience)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Adorfer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="379" guid="a01886bc-c6f6-5598-bdef-59d89b73def5">
+        <logo/>
+        <date>2019-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>DQ3DBL</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/DQ3DBL/</url>
+        <title>Opening Session</title>
+        <subtitle/>
+        <track>OIO</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Eröffnung des OIO, der Bühne und Vorstellung aller Assemblies auf dem OIO</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="139">Peter</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="389" guid="84ed569f-8e4b-5539-8151-3e53c7b7d184">
+        <logo>/media/36c3-oio/images/T7XNAT/malta-flugzeug-wasser_VxtX0IJ.jpg</logo>
+        <date>2019-12-27T14:45:00+01:00</date>
+        <start>14:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>T7XNAT</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/T7XNAT/</url>
+        <title>SearchWing - Rettungsdrohne im Mittelmeer</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>SearchWing baut eine Rettungsdrohne für die zivilen Rettungsorganisationen im Mittelmeer wie Sea-Watch, Sea-Eye und Resqship. Wir beschreiben den Aufbau, die Tests auf dem Mittelmeer, die Herausforderungen beim Bau und beim Einsatz des autonomen Flugzeugs und werfen einen Blick auf die verwendeten Bilderkennungsalgorithmen.</abstract>
+        <description>Wir helfen zivilen Rettungsorganisationen im Mittelmeer bei der Suche nach Schiffbrüchigen. In diesem Talk berichten wir von den Schwierigkeiten und Herausforderungen beim Bau einer autonomen Drohne, die für Einsatz im Mittelmeer geeignet ist. Wenn beispielsweise die Akkus auf dem Flughafen Hamburg im sicheren Schrank verbleiben, weil einer vergessen hat die Akkus für den Flug anzumelden... Wir erläutern den technischen Aufbau mit PixRacer Hardware, Mini Talon EPO Rumpf und den anderen Komponenten. Ungewöhnlich im Vergleich zum klassischen Modellflug ist der Long Range Telemetrie Funk, der große Akku (10000 mAh bei 2kg Fluggewicht) und das ganze Salzwasser :-(. Im Februar 2019 waren wir für Tests auf Malta und im Mai 2019 hat Björn dann den ersten Einsatz im Mittelmeer in Zusammenarbeit mit ResQShip e.V. gemacht. Deshalb können wir auch die Einsatzerfahrungen schildern - wie man das Flugzeug auf dem Schiff startet und landet. Zum Einstieg geben wir auch eine Zusammenfassung der Situation der Seenotrettung im Mittelmeer.&#13;
+Unser Flugzeug sammelt im Flug Bilder, die im Anschluss vom Flugzeug geladen und analysiert werden. Um diese manuelle Bildanalyse zu beschleunigen entwickelen wir auch Computer Vision Algorithmen - auch davon werden wir auf dem Talk einen Überblick geben. Eine Person aus dem Computervision-Team (Petrosilius) hatte bereits letztes Jahr auf der Freifunkbühne dazu einen Vortrag gehalten.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="151">Friedrich Beckmann</person>
+          <person id="152">KingBBQ</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="365" guid="1cc57eb1-b131-5ea5-b970-d4af83ceb573">
+        <logo/>
+        <date>2019-12-27T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>JDASEQ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/JDASEQ/</url>
+        <title>Hamnet – introduction into a wireless backbone</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>We take a quick dive into the Highspeed Amateurradio Multimedia NETwork the wireless backbone of the European Amatuerradio Community. It’s uses mostly commercial hardware on it’s own frequencies beneath the 2,4 and 5 GHz wifi bands. The net is routed with it’s own ipv4 private network consisting of multiple 44.xxx.000.000/16 blocs.</abstract>
+        <description>A short overview on what the Hamnet is and how it came to be. Not forgetting all the challenges of technical and legal kind that come with running and building the Net.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="135">Lars Rokita</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="358" guid="031fc5c8-09c3-5490-ad8e-3858d391763b">
+        <logo/>
+        <date>2019-12-27T16:45:00+01:00</date>
+        <start>16:45</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>GWFPXV</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/GWFPXV/</url>
+        <title>Observations on societal and technological changes in the DPRK</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>The Democratic People's Republic of Korea (North Korea) is a hot topic in the media. The peninsula is changing rapidly, but how is that reflected in life on the ground? What is it like to live in Pyongyang? Are the externally reported societal changes and developments in technology also visible in everyday life? This talk will describe modern urban life in Pyongyang, and the recent forces driving change.</abstract>
+        <description>The talk will particularly focus on observations around the state of youth mindset towards change and technology. For example, what are the future elites' attitudes towards entrepreneurship in an officially communist country? What small signals of changing attitudes can we observe that might influence the opening of the county? Presenting the realities of this environment leads us to the demo of consumer technology, and presented that opportunities for both societal change and technological development might be broader than we often see. We will present this deep dive to North Korea from the perspective of two foreigners who have been spending months at a time in Pyongyang and have been studying it since 2012.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="131">Jukka-Pekka Heikkilä</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="343" guid="e0cc4db9-1ca6-5ded-a3db-1625a22f27dd">
+        <logo>/media/36c3-oio/images/C33LPX/qaul-sing-blau_512_X3u9MVw.png</logo>
+        <date>2019-12-27T17:50:00+01:00</date>
+        <start>17:50</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>C33LPX</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/C33LPX/</url>
+        <title>Refactoring qaul.net in Rust (Internet independent mesh communication App)</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Concepts, goals, implementations and the lessons learned from rewriting qaul.net decentralized messenger in rust.</abstract>
+        <description>qaul.net is a Internet independent wifi mesh communication app with fully decentralized messaging, file sharing and voice chat. At the moment we are rewriting the entire application in rust, implementing our experience of 8 years off the grid peer2peer mesh communication, with a mobile first approach and a network agnostic routing protocoll wich can do synchronous as well as delay tolerant messaging. &#13;
+&#13;
+We are currently rewriting qaul.net 2.0 in rust with a new network agnostic routing protocol, identity based routing and delay tolerant messaging. The talk will show our learnings and the journey ahead of us at the alpha stage of the rewrite.&#13;
+&#13;
+* Homepage: https://qaul.net&#13;
+* Code Repository: https://git.open-communication.net/qaul/qaul.net</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="120">Mathias Jud</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="361" guid="61ab92a1-92e5-56ff-9fa8-bb1156c73988">
+        <logo/>
+        <date>2019-12-27T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:45</duration>
+        <room>OIO Stage</room>
+        <slug>XHLTUD</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/XHLTUD/</url>
+        <title>re:claimID - Self-sovereign, Decentralised Identity Management and Personal Data Sharing [YBTI/wefixthenet session]</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>In this talk we present re:claimID, a decentralized, self-sovereign identity&#13;
+management system. re:claimID allows users to reclaim authority over their&#13;
+identities and personal data. The system is built on top if a&#13;
+state-of-the-art, decentralized directory service: The GNU Name System.&#13;
+Built-in cryptographic mechanisms allow users to selectively disclose&#13;
+personal data and the directory service ensures that this data is accessible&#13;
+to authorized parties even if the user is offline. Through OpenID Connect,&#13;
+integration and use of re:claimID is straight-forward and authorization&#13;
+flows are familiar. In this talk, we present the current state of re:claimID&#13;
+as well as a future roadmap.</abstract>
+        <description>Today, users are often required to share personal data, like email&#13;
+addresses, to use services on the web. As part of normal service operation,&#13;
+such as notifications or billing, services require access to -- ideally&#13;
+fresh and correct -- user data. Sharing attributes in the Web today is often&#13;
+done via centralized service providers to reduce data redundancy and to give&#13;
+services access to current, up-to-date information even if the user is&#13;
+currently offline. Abuse of this power is theoretically limited by local&#13;
+laws and regulations. But, the past has shown that even well-meaning&#13;
+identity providers struggle to keep user data safe as they become major&#13;
+targets for hackers and nation state actors while striving for monetizing&#13;
+anonymized statistics from these data. We advocate for a new, decentralized&#13;
+way for users to manage their identities for the following reasons:&#13;
+&#13;
+*       The current state of omniscient identity providers is a significant&#13;
+threat to the users' privacy.&#13;
+&#13;
+*       Users must completely trust the service provider with respect to&#13;
+protecting the integrity and confidentiality of their identity in their&#13;
+interest.&#13;
+&#13;
+*       The service provider itself is facing substantial liability risks&#13;
+given the responsibility of securely managing potentially sensitive personal&#13;
+data of millions of users.&#13;
+&#13;
+ &#13;
+&#13;
+We present re:claimID, a decentralized identity service with the following&#13;
+properties:&#13;
+&#13;
+*       Self-sovereign: You manage your identities and attributes locally on&#13;
+your computer. No need to trust a third party service with your data.&#13;
+&#13;
+*       Decentralized: You can share your identity attributes securely over&#13;
+a decentralized name system. This allows your friends to access your shared&#13;
+data without the need of a trusted third party. &#13;
+&#13;
+*       Standard-compliant: You can use OpenID Connect to integrate reclaim&#13;
+in your web sites.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="128">dvn</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="370" guid="6f9aaed7-537d-50b6-a5e8-25ef1f65583d">
+        <logo/>
+        <date>2019-12-27T20:50:00+01:00</date>
+        <start>20:50</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>VSV8Y8</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/VSV8Y8/</url>
+        <title>SaveTheInternet - Die Urheberrechtsreform als Zündfunke demokratischer Teilhabe</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Eine kurze Erzählung von den Anfängen der Protestbewegung bis heute und darüber hinaus. Wenn eine spontan gebildete Menge an Menschen beginnt die Werkzeuge der Demokratie zu nutzen ist das vorläufige Ergebnis eine der größten Petitionen weltweit und über 200.000 kreativ Protestierende auf den Straßen Europas. War es das schon oder kommt da noch etwas? Welche Auswirkungen haben demokratische Werkzeuge wie Petitionen und Demonstrationen? Kann man die nächsten Proteste voraussehen oder wie entstehen Wellen der Aufmerksamkeit? Hat sich eine neue Empörung zum ersten oder zum letzen Mal aufgetan? Von vernetzen Livestreams während der Proteste bis zu Community Aktionen wie Meme-Events und Briefraids.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="137">segal</person>
+          <person id="144">Thomas Knebl</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="386" guid="c6250135-e22e-5951-be50-4710f1064ed6">
+        <logo/>
+        <date>2019-12-27T21:20:00+01:00</date>
+        <start>21:20</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>MMB78C</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/MMB78C/</url>
+        <title>Buying Snacks via NFC with GNU Taler</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>##### Motivation&#13;
+In the digital age the privacy has become an important matter. But with&#13;
+the current digital payment methods the privacy of the user is not&#13;
+guaranteed. To avoid the data sharing, the Taler team implemented a&#13;
+digital form of cash.&#13;
+&#13;
+##### Project&#13;
+To demonstrate the payment system we developed an interface for a snack&#13;
+machine based on GNU Taler. This implementation allows the customer to&#13;
+pay with a smartphone app via NFC or QR-Code.&#13;
+&#13;
+##### Team&#13;
+The project was realized by Taler in cooperation with two students from&#13;
+Bern University of Applied Sciences.</abstract>
+        <description>In the talk the audience will become a little insight into the GNU Taler Project and the aim of the developed Snack Machine Interface. The approach to develop an interface between the Taler Backend and the snack machine will be explained as well as the challenges which come with such a project. Further the implemented hard- and software stacks are presented.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="147">Dominik Hofer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="DLF- und Podcast-Bühne">
       <event id="925" guid="ebbee1bc-883c-5413-a9ba-f9c09bfd1292">
         <logo/>
@@ -5380,8 +6252,893 @@ Für alle Altergruppen (geboren vor Greased Weasel, über Erotic Pickel Hering b
         <attachments/>
       </event>
     </room>
-    <room name="Chaos-West Bühne"/>
-    <room name="OIO Stage"/>
+    <room name="Chaos-West Bühne">
+      <event id="198" guid="04a2ab95-c74a-58d7-93ac-e65046a56866">
+        <logo/>
+        <date>2019-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>AQSTLX</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/AQSTLX/</url>
+        <title>A Hacker's Guide to Healthcare: How to Improve Lives with Data</title>
+        <subtitle/>
+        <track>Nicht Computers</track>
+        <type>Doppelter Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>Health related personal data is highly sensitive -- and yet it promises an outright methodology shift for the surprisingly conservative healthcare system. This talk provides an overview of beneficial uses of health data, and formulates ways to get involved to make sure the benefits are reaped in a conscientious manner.&#13;
+&#13;
+Healthcare is rapidly becoming digital: security and data privacy call for active participation. But so do questions of quantified fairness and certification of digital medical devices. Hackers can play a crucial part to ensure this benefits patients and citizens, by championing data transparency and standards of evidence. My talk will outline ways to get creative with data beyond scrutinizing governments on information security.&#13;
+&#13;
+For the past year I worked for the German Ministry of Health's in-house think tank (hih) as an advisor on artificial intelligence. I will present my personal views, not those of the Federal Government.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="143">Lars Roemheld</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="178" guid="059f517a-6650-5cd5-82df-ece4f7b0adae">
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>EMK8WQ</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/EMK8WQ/</url>
+        <title>NOTH1NG T0 HID3: go out and fix privacy!</title>
+        <subtitle/>
+        <track>Nicht Computers</track>
+        <type>Doppelter Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>After the highly-successful presentation "Toll of personal privacy in 2018" at Chaos-West 35C3 where I talked about my personal experiences with trying to protect my privacy, this year I return with a completely* different talk that tries to convince the audience — you should care about privacy too!&#13;
+&#13;
+This talk revisits the theme of personal privacy in the digital world, this time centring around the "I've got nothing to hide" argument. A beam of intensive light is shed upon the motivation behind caring about one's privacy. We go in depth into what we can do to stay private and should we even try to do it at all. We talk about where we as an global society were able to fix privacy and where we have failed. New topics previously not covered are discussed, such as herd immunity and certification programs.&#13;
+&#13;
+\* 97%+</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="44">Kirils Solovjovs</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="239" guid="669e8ad4-d0a0-501d-aebd-c1a8c8423291">
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>D9BFMN</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/D9BFMN/</url>
+        <title>System Transparency</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Einfacher Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>The ever increasing usage of cloud-based software forces us to face old questions about the trustworthiness of our software. While FLOSS allows us to trust software running on our platforms, System Transparency establishes the same level of trust in SaaS and IaaS scenarios.&#13;
+&#13;
+In a System Transparency context, all parties that depend on the services of a particular server can retrieve the complete source code of firmware and OS running on it. They can reproduce all binaries and verify remotely that these were run as part of the boot process. This gives every user the ability to verify claims of the service provider like the absence of logs or lack of backdoor access.&#13;
+&#13;
+System Transparency accomplishes this by &#13;
+ - giving every server a unique, cryptographic identity that is kept in a hardware trust anchor,&#13;
+ - using a provisioning ritual to associate this identity with a particular hardware,&#13;
+ - running the FLOSS firmwares coreboot and LinuxBoot instead of proprietary UEFI implementations,&#13;
+ - building firmware and OS images are reproducible,&#13;
+ - retrieving all OS images from the network, keeping only minimal state on the disk,&#13;
+ - signing all OS images as well as listing them in a public append-only log and&#13;
+ - minimizing administrator access to prevent invisible changes to the OS after it has been booted.&#13;
+&#13;
+This talk introduces System Transparency and details the platform security features we implemented as part of our reference system. We also describe our reference implementations’ custom bootloader based on LinuxBoot. It verifies that boot artifacts are signed by the server owner and are in the transparency log before continuing. This makes sure that 3rd parties can audit past and present artifacts booted on the platform. Finally, we demo a modern x86 server platform running our prototype coreboot/LinuxBoot stack.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="184">seu</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="217" guid="8fb9096f-bcb7-5d8b-833c-4a275bee17b3">
+        <logo/>
+        <date>2019-12-28T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>XEUGGK</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/XEUGGK/</url>
+        <title>$ecurity can't be bought</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Einfacher Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>The comprehensive, seamless, real-time, IoT capable, AI Intelligence Next-Gen Sandbox Platform Cyber Security Solution with Blockchain, Big Data and Deep learning. Nowadays tons of security buzzwords like these are used to sell products into corporate environments. &#13;
+&#13;
+&#13;
+Cut the bullshit bingo, let's start improving security defense in an ordinary company.&#13;
+&#13;
+&#13;
+This is a talk for the many of our ordinary companies running Active Directory/Windows and mostly on-prem infrastructure. The ones which security requirements are not military or high-technology. And it is exactly these companies which are often victims of shotgun approach attacks. It is a talk for SMEs and for companies who simply want to improve their security defense, do their fundamentals and not break the bank for it.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="164">marides</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="245" guid="1416acfc-d57c-5e6a-b2a4-958bc28154ff">
+        <logo/>
+        <date>2019-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>AWGLR9</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/AWGLR9/</url>
+        <title>Oh no, not I, I will survive!  - Wie man eine Jahresabschluss-/Revisions/Zertifikats-/(...-)Prüfung überlebt</title>
+        <subtitle/>
+        <track>The real basic about Bits and Nibbles</track>
+        <type>Einfacher Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Früher oder später kommen viele in die Situation, dass ihre Arbeitsergebnisse geprüft werden. Sei es von der Compliance, der internen Revision, im Rahmen der Jahresabschlussprüfung oder aufgrund einer ISO 27001 Zertifizierung. Dennoch ist einmal immer das erste Mal – und auch mit der Zeit kann so eine Situation unangenehm sein, wenn man z.B. nicht genau weiß was einen erwartet, welche Informationen benötigt werden oder worauf das Gegenüber achtet.&#13;
+&#13;
+Ich möchte euch einen kleinen Einblick geben, wie eine Prüfung üblicherweise abläuft, welche Fragen-Arten auftauchen können und was Mensch tun kann, um darauf vorbereitet zu sein. Dies ist ein Einführungs-Talk für Anfänger*innen, ihr müsst also weder in so einer Situation gewesen sein, noch wissen was die Inhalte des ISO 27001 sind.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="59">Diula</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="224" guid="df22758d-4c2a-59e7-b4fb-c4309e176f63">
+        <logo/>
+        <date>2019-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>ANUQNX</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/ANUQNX/</url>
+        <title>Fundamentals of EEG based Brain-Computer Interfaces</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Einfacher Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>The availability of consumer grade EEG headsets and open EEG hardware platforms makes it easier for everyone to develop a Brain-Computer Interface (BCI).  &#13;
+The talk will explain the basics of Electroencephalography (EEG) and how information can be extracted from the Electroencephalogram, which is basically a noise signal. This covers Event Related Potentials (ERP) and their application in common BCI paradigms and biometric schemes. Standard approaches for the experimental setup and for EEG signal processing will be discussed. &#13;
+As an example an EEG based authentication system will be presented that uses the P300 component of the ERP and images as a password. &#13;
+This talk will give an overview of the issues of performance, usability, privacy and security in BCIs and how far the technology is from reading the mind or connecting us to the matrix.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="170">gnoedi</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="243" guid="0827f402-aba2-519d-bf62-d54be7d7ea05">
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>NN8XZY</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/NN8XZY/</url>
+        <title>"Hello, I'm your Edge Case!" or "No, seriously! How do you ask people for their gender on the internet?!"</title>
+        <subtitle/>
+        <track>Queer</track>
+        <type>Einfacher Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>In an increasingly digital age, input forms for personal data (like name, gender, sexuality, and more), while sometimes necessary, are also increasingly becoming a barrier to entry. Especially for bodies and experiences that do not fit an arbitrary norm the designer might have had in mind. &#13;
+&#13;
+Whether you are traveling abroad, signing up with a health care provider, filling out a scientific study or ordering food, these forms not only factor into your experience but can even make or break the whole endeavour.&#13;
+&#13;
+This talk will feature some of the most glaring fails in input form design, discussion about what exactly went wrong and some ideas on how it could be improved to be more accurate and inclusive, both in the particular as well as the general.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="187">lambdaTotoro</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="215" guid="53015074-4e23-5385-8857-0b6613990693">
+        <logo/>
+        <date>2019-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>M8NMW7</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/M8NMW7/</url>
+        <title>Rechter Feminismus in der 'Identitären Bewegung' ?- oder How to red pill a woman</title>
+        <subtitle/>
+        <track>Antifaschimus</track>
+        <type>Einfacher Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Der Feminismus ist Feindbild der rechten Szenen. So auch in der ‚Identitären Bewegung‘. Neben Praktiken des Otherings und Diffamierungen gegen Feminist*innen und andere Akteur*innen des Gender-Diskurses behaupten die ‚Identitären‘, sich für Frauen viel gewissenhafter einzusetzen als „die Linken“ es täten: Denn Feminismus mache Frauen unglücklich und mache sie langfristig zu unfrei. Frauen ließen sich von „linksgrünversifften“ Mainstreammedien und der Politik unwissentlich emotional erpressen und wählten darum Parteien¬, die in der Lesart der IB Frauen nur Unglück brächten. Die Überzeugungsstrategien, die genutzt werden, um Frauen auf die „rechte Seite“ zu ziehen, wird in der Szene als „red pilling“ bezeichnet – eine Metapher von misogynen Männerrechtlern, die durch „Gamergate“ auch andere Szenen erreichte.&#13;
+Ich werde die vermeintlich ‚harmlos‘ erscheinenden Social-Media-Darstellungen der ‚Identitären‘ – wie das „private’ Instagramfoto einer Schwangeren im Kornfeld – analysieren, und zeigen, welche mehr oder weniger subtilen Reproduktion von stereotypischen, antifeministischen Rollenbildern transportiert werden, die vordergründig als „frauenfreundlich“ angeboten werden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="160">Marie Rodewald</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="250" guid="5b826432-aae7-5fae-9fd0-85985b8b71cc">
+        <logo>/media/36c3/images/QT7EV7/Screenshot_2019-12-19_at_01.58.54.png</logo>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>QT7EV7</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/QT7EV7/</url>
+        <title>The technical is political – Tech, Society &amp; Resistance</title>
+        <subtitle/>
+        <track>Antifaschimus</track>
+        <type>Doppelter Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>Where did all the nice things go? The World Wide Web had plenty. Everyone had Neopets, Geocities and Tom from MySpace as their top friend. &#13;
+&#13;
+Where did all the women go? Computing had plenty of them. The first computers were women.&#13;
+&#13;
+This talk is going to answer these and more questions. Starting with the technical underpinnings of the internet – explained on a beginner-friendly level. It takes you through the history of the web and computing, focussing on the exclusion of women out of the work sphere. It will illustrate that the tech industry as a whole has been complicit in oppression for far too long, but also show recent examples of organised workers, trying to change things for the better.&#13;
+&#13;
+It’s time to take back the web. &#13;
+&#13;
+PSA: There might be occurrences of cats, trance dolphins and other mystical creatures of the digital sphere along the way.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="194">Oscar</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="240" guid="dd49cd68-a630-5565-8e82-e397d89f900d">
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>YDMJLP</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/YDMJLP/</url>
+        <title>DevelopersForFuture</title>
+        <subtitle/>
+        <track>Klimakatastrophe</track>
+        <type>Einfacher Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>### Code für den Aktivismus&#13;
+&#13;
+Als wir im Frühjahr diese Gruppe gegründet haben, konnten wir nicht ahnen, dass wir derart viele Anfragen zu bearbeiten geben könnte. Von Wissenschaftlern bis Förstern – jeder mit anderen Bedürfnissen. Dazu stehen wir in engem Kontakt mit den Entwicklern der diversen Friday For Future Projekte, sodass wir hier inzwischen auch als fester Bestandteil der Bewegung gelten&#13;
+&#13;
+Durch die Fülle an Organisationen und kleinen Projekten, können fast auf ein Jahr Coding zurückblicken. An diesen Beispielen möchte ich euch teilhaben lassen und so auch das Projekt Developers For Future vorstellen und es vor allem in den Kontext der Klima-Protest-Bewegung einordnen. Es geht los bei einem kleinen Einschreibeformular und endet bei ganzen Applikationen, die dabei helfen sollen die Anliegen der Bewegung zu transportiern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="183">Maximilian Berghoff</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="186" guid="c98a6986-b4bb-5503-9985-d1d754db2da9">
+        <logo/>
+        <date>2019-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>JQMCLL</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/JQMCLL/</url>
+        <title>FSK Modems</title>
+        <subtitle/>
+        <track>The real basic about Bits and Nibbles</track>
+        <type>Einfacher Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>FSK Modems sind die einfachste praktikable Form von Modems. Sie sind so einfach, dass mit relativ wenig Aufwand bauen kann. Dabei kann man sie unterschiedlich realisieren von relativ einfachen von einfachen Digitalschaltungen bis hin zu einfachen Softwarelösungen. Auch wenn heute die Übertragung von Daten über Telefonleitungen nicht mehr so relevant ist, gibt es immer noch Anwendungen wie beispielsweise im Funkbereich oder wenn man Daten über Kopfhörerausgänge transportieren möchte.&#13;
+In diesem Talk möchte ich einige der Wege aufzeichnen wie man solche Modems realisiert hat.&#13;
+&#13;
+Dieser Talk soll auch dazu inspirieren selbst mal ein paar Zeilen Code zu schreiben oder den Lötkolben zu schwingen um diese Technologie auch heute noch zu verwenden. Gleichzeitig wird es auch noch zeigen wie schön komplexe Zahlen sein können und wofür die eigentlich gut sind.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="14">Christian Berger</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="173" guid="eba30f37-4ed3-5e32-8654-b9840bc81228">
+        <logo/>
+        <date>2019-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>YDBKTM</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/YDBKTM/</url>
+        <title>Bahn API Chaos</title>
+        <subtitle/>
+        <track>The real basic about Bits and Nibbles</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Bahn API Chaos  &#13;
+Wir schauen uns mal wieder Bahn APIs an.  &#13;
+Diesmal mehr Wagenreihungs Fakten und interessante unregelmäßigkeiten in den verschiedenen APIs.&#13;
+Warum zum Beispiel gibt es bei marudor.de ein "isActuallyIC" wenn doch eigentlich die Zuggattung mitkommt.  &#13;
+Warum gibt es "realFahrtrichtung" wenn es auch eine "fahrtrichtung" property gibt.&#13;
+&#13;
+Unregelmäßigkeiten in den Bahn APIs zwangen mich erfinderisch zu sein.  &#13;
+Gleichzeitig ist es teils Abenteuerlich wie ich die unregelmäßigkeiten fand - die sind oft gar nicht so ersichtlich.  &#13;
+&#13;
+Auch versuchen wir zu erörtern warum die Sachen so sind, ist es ein technisches Problem? Ist es ein Datenproblem? Was könnte ein Auslöser sein? Wer ist dafür verantwortlich?&#13;
+&#13;
+Grundlage für alles ist marudor.de und die Entwicklung daran. Das bedeutet für mich mindestens 3 Jahre Erfahrung in Bahn APIs reverse engineeren und deuten wie gut die Qualität einzelner APIs ist. Dabei wurde nicht nur die Deutsche Bahn sondern auch verschiedene Verkehrsverbünde und Ausländische Bahnen angeschaut.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="118">marudor</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="228" guid="4b6a36ca-e734-5ae2-99cb-e08f3557d1e3">
+        <logo/>
+        <date>2019-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>HBQRZE</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/HBQRZE/</url>
+        <title>Encrypted DNS? D'oh! - The Good, Bad and Ugly of DNS-over-HTTPS (DoH)</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Doppelter Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>Old school DNS is unencrypted and thus prone to MITM-Attacks or DNS-Hijacking. DNS-over-HTTPS (DoH) is trying to solve this finally by encrypting DNS-requests between the client and the resolver. &#13;
+&#13;
+There have been previous (failed) attempts of encrypting DNS, but DoH seems to be the most promising so far, because browser makers such as Mozilla and Google are pushing the adoption and plan to roll this technology out to all Firefox and Chrome users. Microsoft ist planning to support DoH in natively in Windows 10.&#13;
+&#13;
+But there are a lot of people that are pretty angry and vocal about that move. This includes ISPs and Ad-Companies all over the world. &#13;
+&#13;
+This talk will give an overview how DoH came to be, what problems it is trying to solve and what obstacles are hindering the adoption. You'll learn about DNS, encryption, the work on _proposed_ internet standards, how fake news work and why your ISP is tracking you and provides you with falsified information. And you'll learn how to use encrypted DNS.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="174">Sebastian</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="206" guid="353a6553-2fcf-56d4-81e3-93c0b7bcff4a">
+        <logo/>
+        <date>2019-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>PDFWDW</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/PDFWDW/</url>
+        <title>Welches Betriebssystem hat der Bundestag und wie kann man es hacken?</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wäre der Staat ein Betriebssystem, würden wir uns natürlich wünschen, dass er nach den Prinzipien freier Software verwaltet wird. Die Prozesse sollten möglichst transparent ablaufen, sodass jeder nachprüfen kann, wenn irgendwo was schief läuft. Natürlich sollte die Gestaltung der Prozesse nicht in einer Blackbox passieren und der Code sollte zum Verändern und Mitmachen einladen. Ich bin der Meinung, dass Politik transparent und nachvollziehbar sein sollte. Es sollte Beteiligungsmöglichkeiten geben, die für alle offen stehen. Leider laufen die Prozesse im Bundestag nicht mal transparent, geschweige denn besonders partizipativ ab. Das Interface ist so unübersichtlich, dass selbst die Leute mit Adminrechten (Regierung) zum Teil Schwierigkeiten haben, den Überblick zu behalten. Als Bundestagsabgeordnete wurde mir zwar ein dickes Manual ausgehändigt, zum Durcharbeiten war aber keine Zeit. Die Lernkurve, bis man das System halbwegs effizient nutzen kann, ist sehr lang. Die Abläufe sind analoger, als man ohnehin vermutet, mit absurden, historisch gewachsenen Abläufen und unvorstellbaren Papierbergen. Es gibt wenig Transparenz und Mitmachmöglichkeiten sind rar.&#13;
+In dieser Session gebe ich Insider Einblicke in den Alltag als netzpolitische Sprecherin der Linksfraktion im Bundestag mit netzaktivistischem Hintergrund, zeige die Handlungsmöglichkeiten einer Oppositionspolitikerin und wie ich versuche, meine eigenen Handlungsspielräume für mehr Transparenz und Beteiligungsmöglichkeiten auszureizen, aber auch wie ihr als Netzcommunity mich als Eure Volksvertreterin nutzen könnt, um z.B. auf offiziellen Kanälen Informationen abzufragen, an die man sonst nicht kommt, denn Wissen ist Macht. &#13;
+Als Netzaktivistin im Bundestag möchte ich dort ganz besonders Sprachrohr der Netzcommunity sein. In meiner Rolle als Abgeordnete einer Oppositionspartei kann ich Themen setzen und Informationen beschaffen, ich kann fiese Fragen stellen – in langen und kurzen Formaten und die Bundesregierung muss darauf antworten. In 22 Monaten hielt ich 20 Reden, stellte 43 schriftliche Fragen, 33 Kleine Anfragen, 5 Anträge und reichte einen eigenen Gesetzentwurf ein. Es ging um Überwachung am Südkreuz, Open Source, das NetzDG, Hackbacks, IPv6, Künstliche Intelligenz, DNA Analysen in der Stammbaumforschung, Uploadfilter, IT Sicherheit, Impressumpflichten, barrierefreie Notrufe, Whistleblower, Mobilfunk, Open Data, KfZ Scanning, Funkzellenabfragen und stille SMS, digitale Gewalt gegen Frauen, Bundeswehr bei re:publica, Verschlüsselung, Lobbyregister, social Innovation, Open Justice und vieles mehr.&#13;
+In dieser Session werde ich konkrete Beispiele dazu vorstellen, über meine Pläne reden und Euch fragen, was Ihr schon immer von der Bundesregierung in Netzfragen wissen wolltet, damit ich die GroKo weiter nerven kann und wir alle besser wissen, was sie tun. Lasst uns gemeinsam das intransparente und wenig partizipative System Bundestag hacken, denn Demokratie lebt vom Mitmachen!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="152">Anke Domscheit-Berg</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="234" guid="87f4774e-f5db-5cee-b053-89219329c2de">
+        <logo>/media/36c3/images/YYJGCZ/header.png</logo>
+        <date>2019-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>YYJGCZ</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/YYJGCZ/</url>
+        <title>DC/DC Converters: Everything You Wanted To Know About Them</title>
+        <subtitle/>
+        <track>Nicht Computers</track>
+        <type>Doppelter Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description># Non-isolated DC/DC converters&#13;
+&#13;
+DC-to-DC converters are cheap and ubiquitous, but many still feel uncomfortable using them. In this talk I will talk about step-down (buck) and step-up (boost) converters, covering the basics in an easy-to-understand form, and touching on the knowledge you need to build your own.&#13;
+&#13;
+This talk will be enjoyable for you if you have basic electronics knowledge: you understand what voltage, resistance, and current mean.&#13;
+&#13;
+##Outline&#13;
+- Theory of operation explained with illustrations&#13;
+- Synchronous and asynchronous converters: advantages and disadvantages&#13;
+- How to chose and evaluate cheap DC/DC converter modules you can buy online&#13;
+- Efficiency and sources of energy loss&#13;
+- Features you might want: Enable, Current Limiting, Undervoltage Protection&#13;
+- Control modes: voltage mode, current mode, and hysteretic mode&#13;
+- Unstable converters, and how to fix them&#13;
+- Switching noise, and how to deal with it&#13;
+- What if you need more voltage? Boost converters!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="177">Zoé Bőle</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="177" guid="86b9dea6-e5f7-5849-a732-945101965e1b">
+        <logo/>
+        <date>2019-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>9AY7YE</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/9AY7YE/</url>
+        <title>Systemabsturz</title>
+        <subtitle/>
+        <track>Klangteppich</track>
+        <type>Klangteppich</type>
+        <language>de</language>
+        <abstract/>
+        <description>Systemabsturz ist eine Datenschutz-Elektropunk-Band aus Berlin. Stets pflichtbewusst fordern sie einen weiteren Abbau der Freiheitsrechte und mehr Überwachung. Musikalisch bewegen sich die Songs irgendwo zwischen Rave Punk, Schlager-Verschnitten und Techno.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="125">Vik</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="220" guid="1e6d2e5d-31b2-5877-97aa-b03e8bf8dffd">
+        <logo>/media/36c3/images/7PERQN/53761191_1876875599091269_7223011896578801664_o.png</logo>
+        <date>2019-12-29T02:00:00+01:00</date>
+        <start>02:00</start>
+        <duration>02:00</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>7PERQN</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/7PERQN/</url>
+        <title>intergalactic gas distribution (light)</title>
+        <subtitle/>
+        <track>Klangteppich</track>
+        <type>Klangteppich</type>
+        <language>en</language>
+        <abstract/>
+        <description>Improvised music, visualised and influenced through artificial intelligence. Dialogue in space, interaction, improvisation, live sampling, as well as the creative use of traditional and experimental instruments, synthesizers, electronic effects and everyday life objects -- all of which turns into music under the influence of AI. Evolving from this is a unique, atmospheric sound and non-repeatable sound experience. The employed AI consists of a neural network, thus an exemplary reproduction of brain functions. The data sets which are used to train the network includes behavioural modelling data as and the distribution of gases in space. Glitches and non-perfect behavior is strongly appreciated! The "light" version is just the dialog between algorithm and modular. live Ambient / Drone / Soundscape</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="167">timodufner</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Stage">
+      <event id="371" guid="2b1e7aea-237f-533a-8e7b-022a81ba81dc">
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>E77J8R</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/E77J8R/</url>
+        <title>Ubuntu Touch &amp; Co - GNU/Linux in der Hosentasche</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Der Markt für Mobilgeräte wird dominiert von Android und der Anteil freier Komponenten wird merklich kleiner. Einige Projekte versuchen das zu ändern und bringen GNU/Linux auf Handies und Tablets zu bringen. Wir schauen uns verschiedene solche Projekte an und sprechen über die Notwendigkeit, den aktuellen Stand und die Zukunftsaussichten von GNU/Linux auf Mobilgeräten. Am Beispiel von Ubuntu Touch gehen wir auf besondere Herausforderungen ein.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="137">segal</person>
+          <person id="145">Jan Sprinz</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="374" guid="2264aaad-2df6-545f-918c-cc5caea4e507">
+        <logo/>
+        <date>2019-12-28T12:40:00+01:00</date>
+        <start>12:40</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>3JU7Y9</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/3JU7Y9/</url>
+        <title>Building Nextcloud Flow</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Nextcloud Flow is the overhauled workflow engine in upcoming Nextcloud 18. This talk describes how it evolved, how it works internally, and especially how own components can be built, so you can set up automatized tasks  in your Nextcloud.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Blizzz</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="359" guid="98591fc6-852a-5251-bba5-12436614c1f3">
+        <logo>/media/36c3-oio/images/BJQTYA/avatar1_cqxI94G.png</logo>
+        <date>2019-12-28T13:45:00+01:00</date>
+        <start>13:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>BJQTYA</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/BJQTYA/</url>
+        <title>Exploring and empowering participatory culture communities with the use of online ethnography platform</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>We explore the potential of scalable online ethnography to study the rapidly growing phenomenon of participatory culture communities and discuss the potential benefits and challenges of using an online platform in hacker communities. The presentation shares views, with a demo, on how to build participatory online communities from a pilot that focused on the global Burning Man community.</abstract>
+        <description>The talk is grounded on the collaboration of two high-impact research projects, Burning Stories and Edgeryders. Firstly the aim of Burning Stories, by combining science and arts, is to study the global Burning Man community and seek to explain the processes through which community membership of Burning Man participants evolves across time and space, and how this, in turn, affects the society. By combining the Burning Stories research project with an online ethnography tool from Edgeryders, who use it for multiple Horizon 2020 funded project, the talk aims to present novel ways of disrupting the traditional ways of conducting ethnography in order to understand the emergence of a new cultural phenomenon and apply new, participatory methodology, in order to advance social sciences and community building. The presentation particularly focuses on lessons learnt from these two research projects and with the combination of the projects, explores the potential future use of the co-creative templates for hacker communities.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="131">Jukka-Pekka Heikkilä</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="368" guid="83e0c501-6a60-555f-80af-36b22a440fd4">
+        <logo/>
+        <date>2019-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>EW8MBQ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/EW8MBQ/</url>
+        <title>NPR70 - "WLAN" auf 430MHz</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Da A.25 mit 9k6 baud irgend wann einfach nicht mehr cool ist um Daten auf 430 Mhz zu übertragen, musste ein neues Protokoll mit passender Hardware her. Herausgekommen ist ein open source Projekt von F4HDK mit 500kbit/s nutzdaten, multiuser und schnellen Rundlaufzeiten.</abstract>
+        <description>Nachdem das nötige Hintergrundswissen zu dem Thema Drahtlose Übertragungsprotokolle vermittelt wurde. Wird das Protokoll und die dazugehörende Hardware ausführlich vorgestellt und mit alternativen wie z.B. LORA verglichen.&#13;
+Außerdem soll rund um den OIO im laufe des Kongresses ein Demo-Netzwerk aufgebaut werden hierfür können auch noch Kits vorort gelötet werden, meldet euch dafür einfach bei mir.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="135">Lars Rokita</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="366" guid="cface55d-a792-55e0-9eda-d2e4a72b43fb">
+        <logo/>
+        <date>2019-12-28T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>G3LD3P</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/G3LD3P/</url>
+        <title>FF-ESP32-OpenMPPT - New Freifunk-ISEMS-MPPT-Solar-Controller with integrated WiFi</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>The Independent Solar Mesh System has a new hardware that will bring the power consumption, space and cost requirements of low cost WiFi relay stations down: FF-ESP32-.OpenMPPT</abstract>
+        <description>In order to build the cheapest energy autonomous WiFi relay possible, we have designed an update to the previous Freifunk-Open-MPPT-Solarcontroller. It has now integrated WiFi and Bluetooth, so it doesn't need an external WiFi router anymore, but you can still connect one. Technical data is preliminary at the moment, but power consumption will be between ~0.3 at low load and ~0.6 Watt at maximum load. So a 20 Watt Solar panel and a 12V 7Ah battery will be more than enough to keep the system running and relaying traffic all year.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="57">Elektra Wagenrad</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="373" guid="d84a392d-0680-584c-8a35-358977418a13">
+        <logo/>
+        <date>2019-12-28T16:45:00+01:00</date>
+        <start>16:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>A8GQTE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/A8GQTE/</url>
+        <title>“Computer says no”: Worüber sollen Algorithmen entscheiden dürfen</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Richtlinien für den ethischen Einsatz von Algorithmen gibt es langsam wirklich genug. Konzerne und Organisationen    übertrumpfen sich geradezu damit zu betonen, dass der Mensch bei allen maschinellen Entscheidungen im Mittelpunkt stehen soll, dass die Systeme fair und nachvollziehbar arbeiten müssen. Aber egal, ob sie nun direkt von Google und IBM stammen, von Normungsorganisationen wie IEEE oder der OECD – gemeinsam ist all diesen Richtlinien: Sie sind rechtlich nicht bindend. Die Frage ist also: Wem dienen solche Ansätze der unternehmerischen und    staatlichen Selbstregulierung? Und wollen wir uns auf sie verlassen oder brauchen wir klare gesetzliche Auflagen? Welche Regeln sollten für Unternehmen gelten, welche für den Staat? Und wer soll darüber wachen, dass sie eingehalten werden?</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="137">segal</person>
+          <person id="142">Chris Köver</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="382" guid="35cda8cc-6647-5a55-b87f-2e65057ef9e5">
+        <logo/>
+        <date>2019-12-28T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>P9BACD</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/P9BACD/</url>
+        <title>Freifunk Super Node und Firmware Build Server aufsetzen und Provider werden</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Ein howto für Dummis, Freifunk Infrastruktur selber zu betreiben.</abstract>
+        <description>Es ist gut, wenn viele Menschen Freifunk Router einrichten können. Doch es ist besser, wenn auch Leute selber einen Super Node betreiben können. Es gibt viele Wege, dies umzusetzen. Ich möchte zeigen, wie ich in letzter Zeit es umgesetzt habe mit mittleren Kenntnissen. Und es wird gezeigt, wie man Provider werden kann.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="42">Matthias Schmidt</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="360" guid="9ca25e43-bcd8-541c-b79c-bfb6db1c2789">
+        <logo>/media/36c3-oio/images/8D7DBP/logos_to_replace_78tfwYe.png</logo>
+        <date>2019-12-28T18:15:00+01:00</date>
+        <start>18:15</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>8D7DBP</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/8D7DBP/</url>
+        <title>A dozen more things you didn't know Nextcloud could do</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>With Nextcloud you can sync, share and collaborate on data, but you don't need to put your photos, calendars or chat logs on an American server. Nope, Nextcloud is self-hosted and 100% open source! Thanks to hundreds of apps, Nextcloud can do a lot and in this talk, I will highlight some cool things.</abstract>
+        <description>Consider this a follow-up from my talk about 200 things Nextcloud can do last year! An update on what's new and some cool new stuff. What, what is `Nextcloud`? Let's see. A private cloud is one way to put it, though that's a contradiction of course. It is a way to share your data, sync your files, communicate and collaborate with others - without giving your data to GAFAM! Keep it on your own server, or something close (like a local hosting provider or data center). Nextcloud is a PHP app that does all that, and more! Easy to use, secure (really) and fully open source of course.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="59">Jos Poortvliet</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="369" guid="aa7b077e-6de3-5bbf-aefd-1e6da636adbf">
+        <logo/>
+        <date>2019-12-28T20:50:00+01:00</date>
+        <start>20:50</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>LU3JNL</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/LU3JNL/</url>
+        <title>Extending the lifetime of smartphones with Replicant, a fully free Android distribution</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>After a very quick introduction on Replicant and the smartphones ecosystem, we will look at what affects smartphones' and tablets' lifetime and how to increase it by making Replicant more sustainable.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="137">segal</person>
+          <person id="143">Denis 'GNUtoo' Carikli</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="362" guid="4b6379f9-a6d9-5c3e-8af9-a9c1b1c04e95">
+        <logo>/media/36c3-oio/images/GUZH7V/logo_GGS6DxK.png</logo>
+        <date>2019-12-28T21:20:00+01:00</date>
+        <start>21:20</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>GUZH7V</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/GUZH7V/</url>
+        <title>CloudCalypse 2: Social network with net2o [YBTI/wefixthenet session]</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Building a social network on top of net2o, and importing your existing data</abstract>
+        <description>I've a dream: A peer-to-peer network, where services like search engines or social networks aren't offered by big companies, who in turn need to make money by selling the privacy of their users. Where all data is encrypted, so that access is only possible for people who have the key and really are authorized. Which layman can use without cryptic user interfaces. Where the browser is a platform for running useful applications without the mess of Flash and JavaScript. Without the lag of “buffer bloat” and without the speed problems of a protocol not designed to be assisted by hardware.&#13;
+&#13;
+This dream is coming to reality: This talk will show how far I got, and what challenges still are ahead. The talk is in three parts:&#13;
+&#13;
+1. a short overview over net2o&#13;
+2. a demonstration of how the social network stuff looks like&#13;
+3. and an outlook over what needs to be done to make it a polished product</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="128">dvn</person>
+          <person id="132">Bernd Paysan</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="383" guid="18ce862e-36e1-5df6-803b-38f82b2ef327">
+        <logo/>
+        <date>2019-12-28T22:25:00+01:00</date>
+        <start>22:25</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>L7MBH8</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/L7MBH8/</url>
+        <title>WiFi-Hotspot-Abos - Wie viel Freifunk steckt drin?</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Im Internet offerieren diverse Anbieter WiFi Hardware inklusive VPN für 10€.&#13;
+&#13;
+Dieser Talk behandelt, wie sehr sich die verkaufte Hardware sowie Software von den meisten Freifunk Setups unterscheidet.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="140">blocktrron</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="395" guid="9b04791e-1dac-5cdc-a8d1-c09496b584b8">
+        <logo/>
+        <date>2019-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>RUXX3H</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/RUXX3H/</url>
+        <title>Was ist Zeit?</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Dort wo sich Physik und Philosophie treffen ist es Zeit, über Zeit zu sprechen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="149">Steini</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="377" guid="6bacef9b-6bf0-572d-82bc-cdd5c254c2c1">
+        <logo/>
+        <date>2019-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>01:30</duration>
+        <room>OIO Stage</room>
+        <slug>QSKPAM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/QSKPAM/</url>
+        <title>Autocomplete Texting</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Mitmachspass mit Autocomplete: Entdecke KI-Seele deines Smartphones</abstract>
+        <description>Ein Spiel mit dem Publikum: &#13;
+Menschen nutzen die Autocomplete/Predict-Funktion ihres Mobilgerätes, um basierend auf einem (wechselnden) vorgegebenen ersten Wort Sätze zu bilden, also immer nur das nächste vorgeschlagene Wort zu bestätigen. &#13;
+Die Ergebnisse werden mehr oder minder live und total willkürlich ausgewählt verlesen.&#13;
+Auch wenn's erstmal sinnlos erscheint: Und auch wenn den Absendenden Anonymität zugesichert wird und im Gegensatz Schummeln verboten ist: Die Art der Sätze, die die trainierte/konditionierte Maschine dabei hervorbringt  offenbaren mindestens einen eigenen Charakter oder sagen zumindest etwas über die bevorzugte Nutzung des Gerätes.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Adorfer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="DLF- und Podcast-Bühne">
       <event id="923" guid="f79d565b-cd45-58ec-bfda-f9d30bc49a67">
         <logo>/media/36c3/images/8SBP3N/ct_uplink_Formatiert_Korrigiert-84f2a1bb6a1e52e3.jpeg</logo>
@@ -9232,8 +10989,924 @@ The Berlin network Reclaim Club Culture meanwhile is calling for a Facebook Exod
         </attachments>
       </event>
     </room>
-    <room name="Chaos-West Bühne"/>
-    <room name="OIO Stage"/>
+    <room name="Chaos-West Bühne">
+      <event id="247" guid="693d16cf-a258-5c00-a9b4-64ba49317708">
+        <logo/>
+        <date>2019-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>Q7LV9G</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/Q7LV9G/</url>
+        <title>Datengewerkschaften im Kampf gegen Facebook, Google und Co.</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Die Datenverarbeitung auf Basis von Einwilligungen macht uns zu Klickrobotern und gibt uns gegenüber übermächtigen Anbietern keine wirklich freie Wahl. Wir zeigen eine Alternative auf, mit der wir unser Grundrecht auf informationelle Selbstbestimmung gegenüber den Großkonzernen wieder durchsetzen könnten.&#13;
+&#13;
+Ausgehend von den Nachteilen der meistens alternativlosen Einwilligung, die Facebook, Google und Co. für die Nutzung ihrer Services verlangen, wird das Modell von Datengewerkschaften erläutert, ein Zusammenschluss von datenerzeugenden Einzelpersonen. Die Bündelung der Interessen vieler Betroffener zur Schaffung einer ernstzunehmenden Verhandlungsposition und die damit verbundene Ermöglichung von differenzierten und wirklich freiwilligen Einwilligungen könnten zu einer besseren Balance der Interessen führen, ohne die einzelnen Betroffenen dabei zu bevormunden. Eine erste Datengewerkschaft wurde bereits 2018 in den Niederlanden gegründet, deren erklärtes Ziel es ist, direkt mit den Anbietern zu verhandeln, um den Erzeuger*innen der Daten auch einen fairen Anteil an den Gewinnen zu verschaffen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="215">Andreas Diehl</person>
+          <person id="195">Jörn Erbguth</person>
+          <person id="189">Katrin</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="214" guid="4f4901d9-d5fa-594d-b367-532933de3d02">
+        <logo>/media/36c3/images/S9XFSM/digitalcourage_vds_banner.jpg</logo>
+        <date>2019-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>S9XFSM</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/S9XFSM/</url>
+        <title>Achtung Vorratsdatenspeicherung: Es wird ernst</title>
+        <subtitle/>
+        <track>Nicht Computers</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Untertitel:&#13;
+&#13;
+Wie Europol und die Innenminister der EU-Länder Massenüberwachung legalisieren wollen und was dagegen zu tun ist.&#13;
+&#13;
+–– &#13;
+&#13;
+Zusammenfassung:&#13;
+&#13;
+Trotz klarer Gerichtsurteile gegen anlasslose Massenüberwachung wird in Arbeitsgruppen, Ausschüssen und Spezialgerichten an neuen Rechtsgrundlagen für eine EU-weite Vorratsdatenspeicherung gearbeitet. Es geht um Hintertüren in der ePrivacy-Verordnung, einen Fahrplan von EU-Rat und EU-Kommission, ein Überwachungskonzept von Europol und Versuche, den EU-Gerichtshof zu einer Revidierung vorheriger, grundrechtefreundlicher Urteile zu bewegen, während zur selben Zeit in Deutschland die CDU den Terror-Angriff von Halle/Saale instrumentalisiert.&#13;
+&#13;
+––&#13;
+&#13;
+Ausführliche Beschreibung:&#13;
+&#13;
+In diesem Vortrag möchte ich erklären, wie sogenannte Sicherheitspolitiker auf drei Ebenen an mehreren neuen Rechtsgrundlagen für die massenhafte und anlasslose Überwachung unserer Kommunikations- und Aktivitätsdaten arbeiten. In diesem Zusammenhang möchte ich die Reaktion der deutschen CDU auf den Terror-Angriff in Halle/Saale im Oktober diesen Jahres als geschichtsvergessen kritisieren.&#13;
+&#13;
+Zum Referenten: Mein Name ist Friedemann Ebelt, ich arbeite seit fünf Jahren bei der deutschen Grundrechteorganisation Digitalcourage, die im Jahr 2006 eine Verfassungsbeschwerde gegen das deutsche Gesetz zur Vorratsdatenspeicherung eingereicht hat. Die Klage ist mit anderen Beschwerden anhängig beim Bundesverfassungsgericht, dessen Urteil eine EU-weite Signalwirkung haben wird.&#13;
+&#13;
+Digitalcourage beobachtet die aktuellen Überwachungsbestrebungen unter anderem mit Hilfe von Anfragen auf Grundlage des Informationsfreiheitsgesetzes, die wir auf fragdenstaat.de stellen. Was uns die Dokumente zeigen, ist aus unserer Sicht eine Kampagne für Vorratsdatenspeicherung, die auf drei Ebenen stattfindet:&#13;
+&#13;
+(1)&#13;
+Im geplanten EU-Gesetz zur ePrivacy-Verordnung wird über eine riesige Hintertür für eine private Vorratsdatenspeicherung verhandelt. Das ist absurd, denn das Ziel dieser Verordnung ist der Schutz sensibler Kommunikationsdaten. (Siehe Artikel 6 des Entwurfs einer ePrivacy-Verordnung)&#13;
+→ Mehr dazu:&#13;
+https://digitalcourage.de/blog/2019/eprivacy-private-vorratsdatenspeicherung-durch-hintertuer&#13;
+&#13;
+(2)&#13;
+EU-Rat und EU-Kommission haben einen Fahrplan für eine neue EU-weite Vorratsdatenspeicherung beschlossen. Die Hauptgefahr aus unserer Sicht ist, dass ausschließlich Vorschläge für anlasslose Massenüberwachung diskutiert werden, wie die Überwachungs-Matrix aus dem Europol Data Retention Matrix Workshops. &#13;
+In einer 45-seitigen Tabelle breitet Europol aus, welche Daten sie für relevant für eine neue, EU-weite Vorratsdatenspeicherung halten. Von Standortdaten über IP-Adressen bis hin zu Verbindungsdaten sind nahezu sämtliche Informationen aufgeführt, die Provider demnach längerfristig speichern müssten. Diskutiert wird aber auch über die Speicherung der Länge von Antennen und über Klingeltöne.&#13;
+Es gibt keine Vorschläge für verhältnismäßige Optionen wie Quick Freeze, Sonderermittlungsdezernate oder ähnliches.&#13;
+→ Mehr dazu:&#13;
+https://digitalcourage.de/blog/2019/eu-vorratsdatenspeicherung-diese-daten-sollen-gespeichert-werden&#13;
+https://digitalcourage.de/blog/2019/beschraenkte-vorratsdatenspeicherung&#13;
+&#13;
+(3)&#13;
+Mehrere EU-Mitgliedsstaaten verlangen vom EU-Gerichtshof eine Revidierung vorheriger, grundrechtefreundlicher Urteile. Anstatt die grundrechlichen Grenzen für Massenüberwachung zu akzeptieren, greifen die Regierungen der EU-Länder diese Grenzen an.&#13;
+→ Mehr dazu:&#13;
+https://digitalcourage.de/blog/2019/achtung-vorratsdatenspeicherung-es-wird-ernst&#13;
+&#13;
+In Verbindung mit der geplanten E-Evidence-Verordnung, massiv verschärften Polizeigesetzen und dem derzeitigen Wettbewerb zur Einschränkung von Grundrechten, den sich die Regierungen der EU-Länder aktuell liefern, sind die Pläne für eine flächendeckende Vorratsdatenspeicherung als toxisch für Rechtsstaat und Demokratie zu bewerten.&#13;
+Bezeichnend für eine grundrechtevergessene Politik sind die jüngsten Ereignisse in Deutschland:&#13;
+&#13;
+Überwachung über Ethik: &#13;
+CDU in Deutschland nutzt den Terror von Halle/Saale &#13;
+Nur einen Tag nach dem Terror-Angriff in Halle/Saale im Oktober diesen Jahres sagte CDU-Innenpolitiker Mathias Middelberg im Deutschlandfunk, dass gegen rechte Hetze im Internet und im Bildungssystem vorgegangen werden müsse. Konkret handeln er und seine Partei jedoch in eine ganz andere Richtung: Sie nutzen den rechten Terror, um Massenüberwachung voranzubringen. Zentral ist dabei die Vorratsdatenspeicherung. Geplant ist aber auch, den in die NSU-Morde verstrickten sogenannten Verfassungsschutzes mit mehr Befugnisse auszustatten sowie der Einsatz von Staatstrojanern, die für den Einsatz von Staatstrojanern benötigt werden.&#13;
+→ Mehr dazu: Hallo CDU: Vorratsdatenspeicherung und Verfassungsschutz sind nicht die Lösung &#13;
+https://digitalcourage.de/Blog/2019/hallo-cdu-vorratsdatenspeicherung-und-verfassungsschutz-sind-nicht-die-loesung&#13;
+&#13;
+Mit unserer Kritik an dieser Politik, wenden wir uns an deutsche Parlamentarier und argumentieren: Eine anlasslose Vorratsdatenspeicherung erfasst alles – auch, wer wann in eine Synagoge, eine Moschee, in eine Kirche, in ein Gewerkschaftshaus oder auf eine Demonstration geht.  &#13;
+Wir dürfen nicht vergessen, was schon einmal bitter gelernt wurde: Datensammlungen können tödlich sein. Eine Lehre aus den Verbrechen des deutschen Nationalsozialismus ist, dass die Bevölkerung vor Übergriffen des Staates geschützt werden muss. &#13;
+Aus diesem Grund darf es in Deutschland keinen zentralen Katalog geben, in dem erfasst ist, wer welcher Religion angehört. Das selbe gilt für Parteimitgliedschaften oder die sexuelle Orientierung. Folglich darf es in Rechtsstaaten keine Vorratsdatenspeicherungen von Kommunikationsdaten geben.&#13;
+Die 1933 gewählte nationalsozialistische Regierung hat auf Vorrat gesammelte Daten genutzt, um gezielt Menschen zu verfolgen, zu inhaftieren und zu töten. Die technisch-organisatorische Grundlage für die systematische Vernichtung von Juden war eine umfangreiche  Datenverarbeitung von Informationen, die kein Staat über die Bürgerinnen und Bürger erfassen darf.&#13;
+&#13;
+Die Gefahr von Massenüberwachung lässt sich nicht beschränken&#13;
+Einschränkungen für den Zugriff auf Vorratsdaten, wie Richtervorbehalte oder minimal beschränkende Vorgaben für Maximal- und Mindestspeicherfristen können die Bevölkerung langfristig vor den Gefahren dieser Massenüberwachung nicht schützen. Denn Überwachungsgesetze werden stets verschärft, aber so gut wie nie zurückgefahren. Eine Partei, die diese Daten nutzen will, wird die Schutzschranken einreißen.&#13;
+&#13;
+Gibt es auch gute Nachrichten?&#13;
+Dank der existierenden Transparenzgesetze, engagierter Parlamentarier.innen und Aktivist.innen ist die aktuelle Kampagne für Massenüberwachung durchschaubar, ebenso die Ausnutzung von Terror-Angriffen. Unserer Auffassung nach, muss sie als Sicherheitstheater enttarnt werden, denn das Ziel ist Überwachung und nicht Sicherheit. Belegt ist diese Interpretation bereits dadurch, dass grundrechtsfreundliche Optionen für die Verbesserung von Ermittlungs- und Aufklärungsarbeit weder geprüft noch diskutiert werden. Eine Rechtgrundlage für ein Quick-Freeze-Verfahren könnte längst existieren und bei der Kriminalitätsbekämpfung helfen, wird aber von Politiker.innen, denen es um Überwachung geht, blockiert. &#13;
+&#13;
+Was ist zu tun?&#13;
+&#13;
+Ich hoffe, an dieser Stelle aktuelle Beispiele aus unseren kommenden Aktionen präsentieren zu können.&#13;
+&#13;
+Aus unserer Sicht, kann viel gegen Überwachungspolitik getan werden:&#13;
+&#13;
+(1) Sicherheitstheater bei jeder Gelegenheit entlarven&#13;
+→ mehr dazu unter: „So können Sie auf Sicherheitstheater reagieren“&#13;
+https://digitalcourage.de/sicherheitstheater&#13;
+&#13;
+(2) Immer wieder gegen Vorratsdatenspeicherungen argumentieren, beispielseise: im Netz, in der eigenen Partei, Politiker.innen freundlich und sachlich kontaktieren. &#13;
+&#13;
+(3) Juristische Arbeit gegen Vorratsdatenspeicherung unterstützen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="159">Friedemann</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="204" guid="3359ab2c-635c-5cce-af51-07b302314a4b">
+        <logo>/media/36c3/images/JUK87C/image.gif</logo>
+        <date>2019-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>JUK87C</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/JUK87C/</url>
+        <title>Programmieren Lernen für Kids - in Minecraft</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Einfacher Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Viele Kinder lieben „Minecraft“ – sie sind oft richtige Experten in der Welt von Alex und Steve! Diese Begeisterung kann man nutzen, um Neues zu lernen! Das geht nämlich dann am besten, wenn man gar nicht merkt, dass man was lernt, sondern einfach nur etwas Tolles baut und dabei Spaß hat!&#13;
+Inspiriert von dem Talk "Programmieren in Minecraft" auf der GPN 2019 habe ich mit dieses Jahr mit über 40 Kindern Workshops durchgeführt, in dem man die Grundkenntnisse des Programmierens in der bunten Klötzchen-Welt von Alex und Steve lernen kann. In meinen Talk möchte ich von Erfahrungen aus diesen Kursen berichten, wie man solche Kurse am besten aufbaut und strukturiert, was gut funktioniert, wie man Aufgaben spielerisch gestalten kann und das ganze auch technisch einfach im Griff haben kann.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="151">Gregor Walter</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="258" guid="181feefc-1651-5425-ad94-08d34e5696d4">
+        <logo/>
+        <date>2019-12-29T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>M8WDGC</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/M8WDGC/</url>
+        <title>Wie man ein klimafreundliches Haus baut</title>
+        <subtitle/>
+        <track>Klimakatastrophe</track>
+        <type>Einfacher Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Description: Heizung von Häusern ist für etwa ein Drittel der Treibhausgasemissionen Deutschlands verantwortlich. Dabei gibt es bessere Möglichkeiten als einfach irgendeinen Brennstoff anzuzünden. Dieses Problem muss und kann gelöst werden. Der Vortrag beschreibt Möglichkeiten, komfortabel zu bewohnende Häuser fast ohne Heizung zu bauen. In diesem Vortrag werden nur neu zu bauende Gebäude betrachtet. Die gezeigten Methoden sind für Wohn- und Nichtwohngebäude aller Größen verwendbar.&#13;
+&#13;
+Es geht um folgende Details:&#13;
+* Wärmeverluste: Wo geht die Wärme raus? Wo müssen wir also ran?&#13;
+* Zuerst isolieren: Wände, Fenster, Dach, Boden&#13;
+* Dann Wärme zurückgewinnen: Maschinelle Lüftung mit Wärmerückgewinnung&#13;
+* Vorhandene Wärme nutzen: Solare und innere Gewinne&#13;
+* Restwärmebedarf und Warmwasser erzeugen&#13;
+* Wie lebt es sich darin? Thermoskannengefühl oder komfortabel?, Langzeiterfahrungen&#13;
+* Standards: KfW-Effizienzhaus, Passivhaus, Efffizienzhaus-Plus&#13;
+* "Free Money": Heizkosten, Mehrkosten und Zuschüsse beim Bau in Deutschland&#13;
+* Warum nicht einfach erneuerbare Energie für die Wärmeerzeugung nehmen?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="205">Gunnar Thöle</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="251" guid="626da982-aac8-5eca-9577-826e0a825049">
+        <logo/>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>LF3YYH</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/LF3YYH/</url>
+        <title>Public Money? Public Code! A campaign framework to promote software freedom</title>
+        <subtitle/>
+        <track>The real basic about Bits and Nibbles</track>
+        <type>Doppelter Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>Do you want to promote Free Software in public administrations? Then the campaign framework of "Public Money? Public Code!" might be the right choice for you; no matter if you want to do it as an individual or as a group; no matter if you have a small or large time budget. &#13;
+&#13;
+More than 170 organisations, and more than 26,000 individuals demand that publicly financed software should be made publicly available under Free Software licenses. Together we contacted politicians and civil servants on all levels -- from the European Union and national governments, to city mayors and the heads of public libraries about this demand. This did not just lead to important discussions about software freedom with decision makers, but also already to specific policy changes.&#13;
+&#13;
+In the talk, we will explain how the campaign framework including the website publiccode.eu, the videos, the open letter, the expert brochure,and example letters can be used to push for the adoption of Free Software friendly policies in your area; be it your public administration, your library, your university, your city, your region, or your country.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="201">Bonnie Mehring</person>
+          <person id="173">Matthias Kirschner</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="174" guid="56a5c6da-625b-55e0-a919-647418670069">
+        <logo>/media/36c3/images/PQALSP/circus_logo_transparent.png</logo>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>PQALSP</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/PQALSP/</url>
+        <title>CTF in a box</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Einfacher Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>A situation loads of passionate CTF players will recognize: You are bored and looking up some CTF on ctftime. You finally find one and it's hosted on some fork of CTFd running on what feels like a raspberry pi 1. Notherless, you decide to play, but the first web challenge you look at has a conveniently placed php shell in the webroot. Yay! one shared web service!. After we had the same issue with multiple platforms, we decided that this had to change. The main problems we noticed were that all players compete on one service or receive a static challenge and that the platforms don't always scale well. We solved this in a new project: CIRCUS. This is the story of what can break when unleashing a lot of people on a service allowing them to spawn containers on demand and what can be done to counteract those problems.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="122">hanemile</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="187" guid="fe422b75-92b5-5d69-a3ba-0fad356de0aa">
+        <logo/>
+        <date>2019-12-29T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:20</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>WYZGGQ</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/WYZGGQ/</url>
+        <title>X11 and Wayland: A tale of two implementations</title>
+        <subtitle/>
+        <track>All about computers</track>
+        <type>Einfacher Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>In this talk I will outline my journey implementing my X11 window manager `hikari` and the corresponding Wayland compositor shortly after. `hikari` is a stacking window manager/compositor with some tiling capabilities. It is still more or less work in progress and currently targets FreeBSD only but will be ported to Linux and other operating systems supporting Wayland once it has reached some degree of stability and feature completeness.&#13;
+&#13;
+     &#13;
+This talk covers:     &#13;
+     &#13;
+* a brief explanation regarding differences between X and Wayland     &#13;
+* some of `hikari`'s design goals and motivation     &#13;
+* choice of programming language     &#13;
+* an overview of libraries that were used     &#13;
+* tools for ensuring code quality and robustness     &#13;
+* obstacles     &#13;
+* resources that helped me to implement the whole thing</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="131">raichoo</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="248" guid="4b80f175-0c42-53e6-911d-2445cc25fd59">
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>R33ZSA</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/R33ZSA/</url>
+        <title>Sexualisierter Gewalt und die Verantwortung von Gesellschaft und Communities</title>
+        <subtitle/>
+        <track>Nicht Computers</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Sexualisierte Gewalt ist Alltag in Deutschland. Leider. „Laut einer deutschlandweiten Repräsentativstudie erlebt jede 7. Frau in Deutschland im Lauf ihres Lebens strafrechtlich relevante sexualisierte Gewalt. 60% aller Frauen in Deutschland haben sexuelle Belästigung erlebt." schreibt der Bundesverbands Frauenberatungsstellen und Frauennotrufe. " Jährlich werden der Polizei 11.000 Fälle sexuellen Missbrauchs von Kindern bekannt. Die Dunkelziffer im Bereich sexualisierter Gewalt ist hoch.“ (https://www.frauen-gegen-gewalt.de/de/was-ist-das-187.html) Sexualisierte Gewalt geht in den seltensten Fällen von Fremden aus, meist wird sie durch Personen aus dem Bekannten- und Familienkreis ausgeübt.&#13;
+Viel zu kurz kommt hingegen die Auseinandersetzung mit dieser Thematik, mit den Folgen für Betroffene, Möglichkeiten der Prävention und der Unterstützung von Betroffenen. Auf gesellschaftlicher Ebene, aber auch in Communities. Das Ausmaß sexualisierter Gewalt ist seit Jahrzehnten unverändert. Sexualisierte Gewalt ist nach wie vor ein Tabuthema - und das macht es so schwierig, etwas zu verändern. Es ist wichtig, das Schweigen zu durchbrechen und Betroffenen* Angebote zur Unterstützung zu machen. Hier stehen wir alle in der Verantwortung, auch in der Chaos-Community.&#13;
+Indem wir eine Atmosphäre schaffen, in der über Erfahrungen mit sexualisierter Gewalt geredet werden kann, können wir Betroffene in der Bearbeitung unterstützenund insgesamt zur Sensibilisierung beitragen. Gruppen zur Unterstützung Betroffener und Awarenessgruppen sind eine Möglichkeit, um Betroffene von sexualisierter Gewalt zu stärken und ein Bewusstsein für Veränderung zu schaffen. Professionelle Organisationen klären auf, beraten und begleiten Betroffene.  &#13;
+Hacken ist nicht ausschließlich eine technische, sondern auch eine politische und soziale Aktion und ebenso eine interaktive Handlung. Lasst uns die Tabuisierung des Themas sexualisierte Gewalt hacken und zusammen daran arbeiten, unsere Community zu einem besseren Ort zu machen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="192">Ann</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="180" guid="07d665c5-5009-59fa-965d-1345a2822db5">
+        <logo/>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>AFYZ3V</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/AFYZ3V/</url>
+        <title>Linux auf dem Desktop</title>
+        <subtitle/>
+        <track>The real basic about Bits and Nibbles</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>2019 ist das Jahr des Linux auf dem Desktop!&#13;
+&#13;
+Ich zeichne gerne Architekturdiagramme auf Whiteboards während dem [Pythonfoo](https://wiki.chaosdorf.de/Pythonfoo) im [Chaosdorf](https://chaosdorf.de). Weil daran anscheinend allgemeines Interesse besteht, habe ich in den letzten Monaten unregelmäßig die aktuellen Konzepte von modernen Desktop-Linux-Distributionen erklärt im Rahmen des [Freitagsfoo](https://wiki.chaosdorf.de/Freitagsfoo).&#13;
+&#13;
+Dies richtet sich hauptsächlich an Leute, die Linux oder irgendein BSD benutzen - ich habe von Windows oder macOS leider wenig Ahnung und werde in die Richtung daher wohl eher weniger Querverweise machen können. Ich hoffe, das ist trotzdem interessant - oder es dauert wenigstens nicht zu lange.&#13;
+&#13;
+Leute, die vollständige moderne Desktopumgebungen benutzen, erfahren wie das eigentlich hinter den Kulissen alles funktioniert. Leute mit Arch+i3 lernen, was ihnen fehlt bzw. wie sie das nachrüsten können.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="47">ytvwld</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="254" guid="8e581acd-efbb-5bd7-a5a8-b32a75eca8ec">
+        <logo/>
+        <date>2019-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>MAFMDL</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/MAFMDL/</url>
+        <title>Die Ereignisse in Hong Kong - Der Versuch einer Zusammenfassung</title>
+        <subtitle/>
+        <track>Nicht Computers</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Was passiert überhaupt, wo und warum eigentlich? Diese Frage habe ich mir im Frühsommer diesen Jahres gestellt und da Twitter sich zwar &#13;
+sehr gut zur schnellen Verbreitung von Nachrichten, aber nicht zur längeren Archivierung eignet, habe ich angefangen für mich &#13;
+Informationen zu sammeln. Daraus entstanden ist eine relativ große Sammlung an Fotos, Tweets, Vides/Livestreams und aufgeschriebenen &#13;
+Erfahrungen und Meinungen, von Menschen, die da waren oder noch sind zu vielen verschiedenen Themen. Was waren eigentlich die Auslöser der Proteste? Aus welchen gesellschaftlichen und politischen Gruppierungen speisen sich die Proteste? Wie lief die Mobilisierung? Was gab es für Probleme und wie wurde mit ihnen umgegangen? Dieser Vortrag wird ein, sehr grober und garantiert unvollständiger, Versuch eines Überblicks um Menschen den Einstieg in die Thematik zu erleichtern und ein kleiner Appell, sich in Zeiten in denen immer mehr Menschen nach rechts rücken und die Welt immer unfreier wird, sich auch mal mit Ereignissen zu beschäftigen, die einen vermeintlich nicht betreffen (Kleiner Spoiler: tun sie meißtens doch, weil die Errosion von Grund-, Menschen-, und Freiheitsrechten uns halt doch alle angehen auch, wenn es in knapp 9000 Kilometern Entfernung passiert.).</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="171">raketenlurch</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="199" guid="0968ef0d-4e19-5751-94f4-f24b8b9758a3">
+        <logo>/media/36c3/images/83YJMS/Digitalcourage_Sicherheitstheater_-_Aufkleber_bahnsteigkarte.jpg</logo>
+        <date>2019-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>83YJMS</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/83YJMS/</url>
+        <title>Aus Sicherheitsgründen muss das Grundgesetz leider abgeschafft werden - Schluss mit dem Sicherheitstheater</title>
+        <subtitle/>
+        <track>Antifaschimus</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Die Gleichsetzung von Sicherheit und Repression ist gefährlich. Erstens werden damit Grundrechtseinschnitte gerechtfertigt, die uns in Gefahr bringen. Zweitens unterbleiben wichtige Maßnahmen, die wirklich der Sicherheit dienen würden.&#13;
+&#13;
+Was in Politik und Wirtschaft als „Sicherheit“ verkauft wird, ist reines Puppentheater. Menschen wird Angst eingeredet, um diese Angst sodann mit Repression und Überwachung zu „beruhigen“. Sicherheit und Freiheit bedingen sich gegenseitig. Eine Politik, die Freiheit angreift und scheibchenweise verhökert, verdient nicht „Sicherheitspolitik“ genannt zu werden. Sie ist reines Theater und einer Demokratie nicht würdig. Schlimmer noch: Sie leistet einem autoritären Gedankengut Vorschub, das uns garantiert nicht sicher macht. &#13;
+&#13;
+Der Vortrag widmet sich einerseits der Erklärung, weshalb diese Gleichsetzung gefährlich ist: Überwachung hilft gar nicht, hat gefährliche Nebenwirkungen und zersetzt den größten Garanten für unsere Sicherheit, die Freiheit.&#13;
+&#13;
+Zum anderen geht es um die Frage, welche Maßnahmen wirklich sinnvoll wären. Das fängt bei einem echten Kampf gegen den Faschismus an, geht über unabhängige Kontrolle der Polizei, Klimaschutz, Verkehrspolitik und endet nicht erst in der Forderung nach einer besseren Regulierung von Antibiotika.&#13;
+&#13;
+Es ist wichtig, dass der Wunsch nach Sicherheit nicht weiter instrumentalisiert wird. Repression ist gefährlich und dient nun wirklich nicht der Sicherheit. Besonders wütend sollte uns das machen, wenn gleichzeitig lange nötige Maßnahmen, beispielsweise beim Kampf gegen Rechts oder gegen digitale Gewalt unterbleiben. Denn hier sind wir wirklich in Gefahr.&#13;
+&#13;
+Dieses ewige "aus Sicherheitsgründen" muss endlich ein Ende haben. Wir können mithelfen, indem wir uns einen Spaß machen und die Begründung genau so inflationär benutzen, wie die Politik. Einfache Begründungen können wir schließlich alle gebrauchen. Und wenn es um Sicherheit geht, wird ja wohl niemand diskutieren wollen. Wir üben das mal gemeinsam: Aus Sicherheitsgründen sollten sich alle diesen Vortrag ansehen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="144">Leena Simon</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="212" guid="46015fa7-8746-5997-9cae-3aee08dca254">
+        <logo>/media/36c3/images/PGHLLG/kleinquer.png</logo>
+        <date>2019-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>PGHLLG</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/PGHLLG/</url>
+        <title>Feierliche Verlesung des gesammelten Ärgers</title>
+        <subtitle/>
+        <track>Spiele sind wichtig für die Revolution!</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>**Anger Exchange Point — MIT ÄRGER-GARANTIE!** &#13;
+&#13;
+Wir halten, was wir versprechen!&#13;
+&#13;
+Haben Sie sich geärgert?&#13;
+Kein Klopapier mehr da? Zu viele Menschen? Versehentlich etwas dummes gesagt? Die Klimakatastrophe rollt unaufhaltsam auf uns zu und niemand tut etwas? &#13;
+&#13;
+Ärgerlich, oder?&#13;
+Aber es ist doch viel schöner, wenn sich jemand anderes ärgert! Am AEP in der Haecksen-Assembly gibt es die ÄRGER-GARANTIE! Wir garantieren: Über jeden Ärger wird sich einmal¹ geärgert! &#13;
+&#13;
+In dieser eigens für Sie konzipierten Veranstaltung lösen wir unser Versprechen an Sie ein: Die übriggebliebenen Ärger werden verlesen und professionell zerärgert.&#13;
+**Hier wird Ihr Ärger gewürdigt!** Für allen übriggebliebenen Ärger haben die Haecksen zwei international führende Ärgerinnen engagiert, um speziell auf Ihren Ärger einzugehen! &#13;
+&#13;
+Mit Zeit-Zurück-Garantie²!&#13;
+&#13;
+&#13;
+*****&#13;
+&#13;
+¹ Abweichungen innerhalb einer Größenordnung vorbehalten.&#13;
+&#13;
+² investierte Zeit wird vom 01. bis zum 06.01.2020 auf dem Messegelände Leipzig zurückerstattet oder für die Verwendung des AEP vom 10. bis zum 13.04.2020 gutgeschrieben.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="155">Piko</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="169" guid="8b754f19-169e-55f9-a938-2515efe90f81">
+        <logo>/media/36c3/images/AK87QJ/MODcard.png</logo>
+        <date>2019-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>01:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>AK87QJ</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/AK87QJ/</url>
+        <title>Die Dönerwaffel Show</title>
+        <subtitle/>
+        <track>Spiele sind wichtig für die Revolution!</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract>"Pervers aber Geil!"&#13;
+=================&#13;
+&#13;
+So wurde damals am 35c3 die aller erste Dönerwaffel™ des C3WOC bezeichnet.&#13;
+&#13;
+Nun feiern wir ein Jahr Jubiläum.&#13;
+&#13;
+&#13;
+&lt;!-- Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   &#13;
+&#13;
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, --&gt;</abstract>
+        <description>"Pervers aber Geil!"&#13;
+=================&#13;
+&#13;
+So wurde damals am 35c3 die aller erste Dönerwaffel™ des C3WOC bezeichnet.&#13;
+&#13;
+Nun feiern wir ein Jahr Jubiläum.&#13;
+&#13;
+&gt; "Es schmeckt nach Garten. &#13;
+&gt; Aber ansonsten ist es interessant!&#13;
+&gt; Mein Gehirn kann sich nicht entscheiden was es gerade schmeckt...&#13;
+&gt; Da ist Rum drin?&#13;
+&gt; Es hat Potential!"&#13;
+Das ist eine Einschätzung zu der Dönerwaffel  von Obelix!&#13;
+&#13;
+Zum Dönerwaffeljubiläum laden wir einige Gäste ein und arbeiten die Geschichte der Dönerwaffel auf.&#13;
+&#13;
+Selbstverständlich mit Selbstversuchen, realistischen Beispielen und Liveschaltung.&#13;
+&#13;
+&lt;!-- Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   &#13;
+&#13;
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   &#13;
+&#13;
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   &#13;
+&#13;
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, --&gt;</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="117">Dampfkadse</person>
+          <person id="116">L3D</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="265" guid="0bb8fde0-0b12-54a1-9199-e52520d9e9b6">
+        <logo/>
+        <date>2019-12-30T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>04:00</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>XLFXYN</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/XLFXYN/</url>
+        <title>Monoschwarz aka. Alle Farben</title>
+        <subtitle/>
+        <track>Klangteppich</track>
+        <type>Klangteppich</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="85">Chaos-West</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Stage">
+      <event id="399" guid="7581590f-0f77-5766-94d6-a4f3a0c43a2f">
+        <logo>/media/36c3-oio/images/X9JPVH/ksp-assembly4-v1_tFGriwM.jpg</logo>
+        <date>2019-12-29T12:45:00+01:00</date>
+        <start>12:45</start>
+        <duration>00:00</duration>
+        <room>OIO Stage</room>
+        <slug>X9JPVH</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/X9JPVH/</url>
+        <title>Build and fly your own rockets in Kerbal Space Program</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Kerbal Space Program - Build. Fly. Dream.&#13;
+Einmal ein eigenes Raumfahrtprogramm leiten? Mit KSP ist das möglich.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="163">Kilian Schauer</person>
+          <person id="166">Luca Horn</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="357" guid="35f647fc-1849-5194-a354-2e855e7a642d">
+        <logo>/media/36c3-oio/images/SHDVXB/t1-engine_pvMnznO.jpg</logo>
+        <date>2019-12-29T13:50:00+01:00</date>
+        <start>13:50</start>
+        <duration>00:45</duration>
+        <room>OIO Stage</room>
+        <slug>SHDVXB</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/SHDVXB/</url>
+        <title>Raumfahrtantriebe</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Wie kommt man eigentlich in den Weltraum und was ist an so ein bisschen Schub so kompliziert *?&#13;
+&#13;
+Warum sehen Raumfahrtantriebe so aus wie sie sind und was wird sich mit "New Space" alles ändern?&#13;
+&#13;
+&#13;
+(*)insert rocket science joke here</abstract>
+        <description>Preview&#13;
+1. Wie erzeugt man Schub?&#13;
+-	Was ist eine Raketenmotor -triebwerk?&#13;
+-	Warum fliegen Flaschenraketen mit Wasser höher?&#13;
+&#13;
+2. Feststoffraketen&#13;
+-	Feuerwerk, Modellbau oder Shuttle Booster&#13;
+-	Brennprofile&#13;
+&#13;
+3. Flüssigraketen&#13;
+-	Goddards erste Versuche&#13;
+-	Komplex, teuer, fehleranfällig und warum wir trotzdem Flüssigtreibstoffe nutzen&#13;
+3.1. Brennkammer&#13;
+-	Aufbau und Eigenschaften&#13;
+3.2. Turbopumpen&#13;
+-	Wie kommt der Treibstoff und Oxidator in die Brennkammer&#13;
+3.3. Düsen&#13;
+-	warum überhaupt Düsen und warum sehen sie so aus wie sie sind&#13;
+-	Aerospike&#13;
+3.4. Treibstoffe&#13;
+-	Ein wenig Chemie.  Mono-, Bi- und Tritreibstoff &#13;
+3.5. 5,4 all engines running,2,1,0 lift off&#13;
+-	Wie man eine Rakete startet Soyuz, Titan II, Delta 4 und das Space-Shuttle&#13;
+4. Hybridraketen&#13;
+-	Die Komplexität einer Flüssigrakete mit den Nachteilen einer Feststoffrakete&#13;
+5. Ionenantrieb&#13;
+-	Wenig Schub aber hoher Impuls &#13;
+-	Aufbau und Eigenschaften&#13;
+6. Solar Sail&#13;
+-	Ein Segel spannen und mit dem Sonnenwind dahingleiten&#13;
+7. Nuklearantriebe&#13;
+-	Ein fliegender Kernreaktor, was kann da schon schief gehen?&#13;
+-	in 200 Tagen zum Mars und zurück</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="127">Äpex</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="392" guid="890b2813-ef91-586d-a738-ce01b4b93861">
+        <logo>/media/36c3-oio/images/V7HNKR/Screenshot_from_2019-12-18_17-29-47_qVAm402.png</logo>
+        <date>2019-12-29T14:45:00+01:00</date>
+        <start>14:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>V7HNKR</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/V7HNKR/</url>
+        <title>Open Source Hardware in industry – meet DIN SPEC 3105</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Compared to software, the open source approach is relatively new to most actors in the field of (mechanical) hardware. Plus Open Source Hardware faces some special issues. A yet missing definition of its "source code" is one of them (+ patent law, liability, engineers that do not know how to work with git, costly prototyping…).&#13;
+DIN SPEC 3105 will be/is the first official standard for Open Source Hardware and also the first official standard ever published under a free license (CC-BY-SA 4.0; that was a lot of lobby work ;) ). It defines the technology-specific "source" of Open Source Hardware and aims to build a bridge between research institutes, public authority, industry and the worldwide open source community.</abstract>
+        <description>In this talk I won't explain why Open Source (Hardware) is great. I assume, you all know that (if not, still feel free to ask me in the Q&amp;A part or after the talk). I'll describe what's the standard for, how it works and why its great _for_ Open Source Hardware.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="156">Martin Häuer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="363" guid="a3f9136b-fa32-504d-a762-438d5141ac74">
+        <logo/>
+        <date>2019-12-29T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>VPUTHL</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/VPUTHL/</url>
+        <title>Treating IS - Humanitäre Prinzipien im Konflikt</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Frank Dörner von Ärzte ohne Grenzen und Sebastian Jünemann von CADUS diskutieren die jüngsten Angriffe auf humanitäre Prinzipien in verschiedenen Kontexten, wie beispielsweise während der medizinischen Nothilfe in Nordost-Syrien.</abstract>
+        <description>Eigentlich sollte es klar sein: Menschen die medizinische Hilfe benötigen sollen sie auch bekommen, Punkt. Doch in Medienkommentaren wird der humanitären Hilfsorganisation CADUS, die ein Feldkrankenhaus im Camp Al Hol in Nordost-Syrien betreibt, längst nicht nur Respekt ausgesprochen. Manche Kommentator*innen schlagen vor, humanitäre Prinzipien auszusetzen sobald es sich bei den Hilfesuchenden um mutmaßliche Angehörige des sogenannten Islamischen Staates (IS) handelt. Schließlich, so die Argumentation, missachte diese Organisation systematisch eben solche Prinzipien. &#13;
+&#13;
+In vielen Konflikten werden humanitäre Grundsätze heute zunehmend missachtet. Helfende werden zu Feinden erklärt und damit legitime Ziele für jedwede Aggression. Krankenhäuser und Ambulanzen können gezielt angegriffen werden, ohne dass es Konsequenzen hat. Afghanistan, Syrien, Yemen – die Liste ist lang. Und aus der jüngsten Geschichte der Seenotrettung wissen wir: auch von staatlichen Stellen werden immer wieder humanitäre Grundsätze mit Füßen getreten. &#13;
+&#13;
+Frank Dörner von Ärzte ohne Grenzen und Sebastian Jünemann von CADUS geben einen Einblick was es bedeutet, in gesellschaftlich und politisch stark umstrittenen Kontexten Hilfe zu leisten, in denen humanitäre Prinzipien immer wieder aus verschiedensten Richtungen angegriffen werden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="133">Sebastian Jünemann</person>
+          <person id="150">Frank Dörner</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="384" guid="d7287f76-3369-5017-89f7-35101cc72a18">
+        <logo/>
+        <date>2019-12-29T17:10:00+01:00</date>
+        <start>17:10</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>UYCLAE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/UYCLAE/</url>
+        <title>Hacking health</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>About hacking wheelchairs, building custom bicycles, adapters to use e-scooters as outboard motors: Empowering people with disablitities or healthcare needs through Open Hardware. Presentation on experiences and lessons learned in collecting and co-creating open personalized DIY healthcare solutions for replicability and adaptability in Makerspace worldwide.</abstract>
+        <description>Careables are open source solutions that aim to improve the quality of life for people with unmet particular needs or facing physical limitations. Careables are often co-designed, replicable, accessible, adjustable and shareable online using digital technologies.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="96">Sandra GIG</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="354" guid="18a492b2-6219-5b95-a48d-b03944b75739">
+        <logo/>
+        <date>2019-12-29T17:40:00+01:00</date>
+        <start>17:40</start>
+        <duration>00:45</duration>
+        <room>OIO Stage</room>
+        <slug>WSLWVM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/WSLWVM/</url>
+        <title>Delta Chat: e-mail based messaging, the Rustocalypse and UX driven approach [YBTI/wefixthenet session]</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Delta Chat is an e-mail instant messenger that is just becoming available on all platforms. &#13;
+Unlike other offerings, Delta Chat is no platform and operates no own servers. &#13;
+Instead it uses existing SMTP/IMAP servers to send and receive messages.&#13;
+We'll talk about the current development status on all platforms, our new &#13;
+Rust-core based approach, our decentralized e2e-encryption facilities (not requiring &#13;
+keyservers, and safe against active attacks) and how we are generally driving&#13;
+developments from UX and security perspectives.  We also aim to showcase&#13;
+"burner accounts", a new concept that we are developing and discussing&#13;
+with activists in eastern european countries and asian cities.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="167">Holger Krekel</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="350" guid="f5910185-f9b5-5d5a-b2df-fdfce6b8a8b9">
+        <logo>/media/36c3-oio/images/CJFWMY/PleskPahil_portrait_400x400_mVnE9V5.jpg</logo>
+        <date>2019-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>CJFWMY</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/CJFWMY/</url>
+        <title>Episode VIII - Die letzten Freifunker?</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Freifunk steht für freie Kommunikation in digitalen Datennetzen. Reicht dieser Slogan aus, um die Communities wachsen und die Marke Freifunk bei den Menschen in unserem Land bekannt zu machen? Was können wir tun, um nicht bald die letzten Freifunker zu sein und insbesondere eine engagierte junge Generation anzusprechen, die Informationen ganz anders filtert und verarbeitet als GenX oder Baby Boomers? In diesem interaktiven Talk mit einer Marketingexpertin aus der IT Branche, geht es um die Identität von Freifunk und warum 8 Sekunden entscheidend sind.</abstract>
+        <description>Freie Kommunikation in digitalen Datennetzen - ein wichtiges Gut, für das Freifunk steht. Aber wie steht es um die Marke Freifunk in Städten, Gemeinden, Kommunen und der Bevölkerung? Gibt es Nachwuchssorgen in den Communities und könnten wir nicht schon viel weiter sein mit unserem 'Netzausbau'? In diesem Talk möchte ich mit Euch gemeinsam einen kritischen Blick auf Freifunk von der Marketingseite her werfen und Ideen entwickeln, wie wir viele Menschen einladen können mitzumachen sodass Freifunk zu einem wichtigen Bestandteil ihres digitalen Lebens wird. Je mehr aktive Mitglieder unsere communities haben, desto eher können wir das umsetzen, worüber Politik und etablierte Wirtschaft primär nur reden: Digitalisierung und digitale Transformation vorantreiben - in Stadt und Land.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="124">Glitzi</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="388" guid="81b0de17-dbef-5da7-80e8-4d9ae563a4fd">
+        <logo/>
+        <date>2019-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:45</duration>
+        <room>OIO Stage</room>
+        <slug>MPCRC8</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/MPCRC8/</url>
+        <title>Freifunk und die Haftungsprivilegierung des Telemediengesetzes</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Seit Jahren kämpfen wir um die Haftungsprivilegierung für Freifunker. Als Zugangsvermittler in das Internet hat der Gesetzgeber den Freifunker als Diensteanbieter von Ansprüchen Dritter freigestellt. Nach dem Gesetz ist der Freifunker für die Handlungen Dritter im Internet nicht verantwortlich. Wie die Rechtssprechung die gesetzliche Regelung anwendet, möchte ich Euch in meinem Vortrag berichten.</abstract>
+        <description>Ich würde gerne den Vortrag in meinen Bericht über die einzelnen Freifunk-Verfahren gegen die Rechteinhaber einbetten. Ich weiß noch nicht recht, wie ich den Zusammenhang gestalte. Mit wem könnte ich darüber sprechen?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="75">Beata Hubrig</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="391" guid="8aef09de-ff38-533d-b9e7-ff0e3a437031">
+        <logo>/media/36c3-oio/images/3L7Q7W/Bildschirmfoto_2019-12-26_um_00.19.18_K5ls0Qg.png</logo>
+        <date>2019-12-29T21:20:00+01:00</date>
+        <start>21:20</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>3L7Q7W</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/3L7Q7W/</url>
+        <title>DOT. The LED Cube</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Ein Würfel der einem Jahre seines Lebens kostet... und hübsch leuchtet... :D</abstract>
+        <description>Ein Würfel der auf allen Seiten mit LEDs bestückt ist. Mit insgesamt 24.576 davon lassen sich nicht nur coole Animationen anzeigen sondern auch Laufschriften, Grafiken und vieles mehr. Zudem kann man auf dem Würfel Spiele spielen oder Programmieren lernen und seiner Kreativität freien Lauf lassen. &#13;
+Wie entstand die Idee, was steckt alles drin, was könnt ihr damit machen, wo soll's hin gehen, wie könnt ihr mitmachen,... klären wir alles dann. :)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="155">Hannes Vatter</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="381" guid="03d76db0-ea48-516b-94f2-b731cccf47de">
+        <logo/>
+        <date>2019-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>7WUGHV</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/7WUGHV/</url>
+        <title>Ethische Grenzen im Making</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Machbarkeit im Making wird vornehmlich von physikalischen Gesetzen bestimmt. Doch wie sieht es mit ethischen Grenzen aus? Vor allem im Gesundheitsbereich stellt sich die Frage, ob alles das was reverse engineered und selbst gebaut werden kann tatsächlich auch von der maker community diesem Prozess unterzogen werden sollte. Über diese Frage diskutieren Steini und Seb (CADUS).</abstract>
+        <description>„Tut mir leid, alle von offiziellen Stellen geprüften und zertifizierten Medizingeräte sind kaputt, aber wir überwachen Sie während der OP einfach mit diesem selbst zusammengebauten open source Patienten-Monitor, kein Problem.“&#13;
+&#13;
+Machbarkeit im Making wird vornehmlich von physikalischen Gesetzen bestimmt. Doch wie sieht es mit ethischen Grenzen aus? Vor allem im Gesundheitsbereich stellt sich die Frage, ob alles das was reverse engineered und selbst gebaut werden kann tatsächlich auch von der maker community diesem Prozess unterzogen werden sollte. Über diese Frage diskutieren Steini und Seb (CADUS).</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="133">Sebastian Jünemann</person>
+          <person id="149">Steini</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="394" guid="f1c9fa52-2bad-5841-ac57-4efad8263c6c">
+        <logo>/media/36c3-oio/images/BE9QSA/photo_2019-12-22_16-02-21_AxFKkbZ.jpg</logo>
+        <date>2019-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>01:00</duration>
+        <room>OIO Stage</room>
+        <slug>BE9QSA</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/BE9QSA/</url>
+        <title>Crackhouse -die KochRadioShow-</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Crackhouse , die RadioKochShow auf FSK83.0 in Hamburg mit Fabse und Felix. 60 Minuten pure Leidenschaft fürs Kochen.&#13;
+Geht mit unser Einkaufsliste los, ladet euch Freunde ein und kocht gemeinsam mit uns.</abstract>
+        <description>Hoffentlich ihr seid bereit euch der Herausforderung einer neuen Kocherfahrung zu stellen, für die unter Euch die Alkoholtrinken empfehlen wir einen Riesling...,&#13;
+ &#13;
+wir hätten uns sehr über unsere hochprominente Gästin Christine Ebeling, Kulturschafferin, Kuratorin und Künstlerin gefreut, die leider nicht kommen kann :-(&#13;
+stattdessen wird es einen Gast geben, der uns alle überaschen wird!&#13;
+&#13;
+Das sollte ihr einkaufen wenn ihr Zuhause sitzt und mit uns Kochen wollt:&#13;
+ &#13;
+alle vegetarischen Zutaten der Einkaufsliste lassen sich selbstverständlich durch vegane Alternativen ersetzen!&#13;
+ &#13;
+400 g Mehl (wichtig 550er mehl) info siehe unten&#13;
+250 ml Warmes Wasser&#13;
+1 Eßlöffel Salz&#13;
+4 El Öl&#13;
+250 g Ziegenfrischkäserolle&#13;
+200g würzigen Bergkäse&#13;
+3-4 zweige frischen Rosmarin&#13;
+400g Creme Fraiche oder Schmand oder halb und halb&#13;
+4-6 Esslöffel flüssigen Honig&#13;
+4-6 rote Zwiebeln je nach Größe&#13;
+1 Bund Frühlingszwiebeln ( kommen nach dem backen frisch drüber)&#13;
+ &#13;
+von Rita Rosenzweig wird es auch endlich die Auflösung Ihrer Abwesenheit geben und über die sozialen Medien ein veganes SauerRahm-Rezept,&#13;
+wer soziale Medien verweigert kann uns gerne eine Mail schreiben (kochradio@gmx.de) und wir senden Euch das Rezept von Rita Rosenzweig  :-)&#13;
+Jeden 2. Sonntag im Monat (am 12.Januar2020) von 19Uhr - 20Uhr&#13;
+auf FSK Radio 93,0 MHz im Kabel 101,4 MHz. oder&#13;
+im Livestream unter www.Fsk-hh.org/livestream.&#13;
+Facebook: https://www.facebook.com/Crackhaus/&#13;
+Insta: https://www.instagram.com/crackhouse_kochradio/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="158">Felix &amp; Fabse</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="DLF- und Podcast-Bühne">
       <event id="922" guid="a66747f4-eb91-57ea-b05a-07f3162bc0c0">
         <logo/>
@@ -12220,8 +14893,369 @@ We hope that this presentation at CCC will help public interest technologists fr
         <attachments/>
       </event>
     </room>
-    <room name="Chaos-West Bühne"/>
-    <room name="OIO Stage"/>
+    <room name="Chaos-West Bühne">
+      <event id="226" guid="b546675d-5ca9-5891-9d63-6de8ad98e637">
+        <logo/>
+        <date>2019-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>CHBLH8</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/CHBLH8/</url>
+        <title>Datacenter - was wir wissen sollten (und trotzdem oft nicht erfahren)</title>
+        <subtitle/>
+        <track>The real basic about Bits and Nibbles</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Eine Reise zu den Fundamenten der digitalen Welt&#13;
+&#13;
+Was ist eigentlich ein Rechenzentrum und wie funktioniert es? Welche Bedeutung haben Datacenter für das Internet und den ganzen digitalen Rest?&#13;
+Strom, Kühlung und Sicherheit im Überblick. Was muss alles passieren, damit Server, Storages und Netzwerke immer laufen können. &#13;
+Warum werden die Datacenter immer größer, wo doch die Elektronik immer kleiner wird? Welche Konsequenzen ergeben sich daraus?&#13;
+Wieviel Strom verbraucht eine Suchanfrage oder ein Videostream und warum ist das relevant? &#13;
+Ist Deutschland ein guter Standort für (neue) Rechenzentren und warum?&#13;
+Und was hat das alles mit Klimawandel und Nachhaltigkeit zu tun? &#13;
+Kann es GreenIT ohne "grüne" Datacenter geben? Wie sollten die aussehen? Was muss in den kommenden Jahren geändert werden, damit auch Rechenzentren ihrer Rolle beim globalen CO2-Ausstoß gerecht werden? &#13;
+&#13;
+Überraschende Einblicke in Planung, Bau und Betrieb von großen Rechenzentren.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="172">Günter Eggers</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="185" guid="d59d30e9-5db5-5941-9b23-92bd9cc9f316">
+        <logo>/media/36c3/images/CAVFZP/title.jpg</logo>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>CAVFZP</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/CAVFZP/</url>
+        <title>Verbrannte Wörter – Sprache des Nationalsozialismus gestern und heute</title>
+        <subtitle/>
+        <track>Antifaschimus</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Sprache schafft Bewusstsein. Als ein Gegenpol zum rechten "Das wird man doch wohl noch sagen dürfen"-Narrativ soll es in diesem Vortrag um verbrannte Wörter gehen. Wörter, die durch die Nationalsozialisten derart negativ besetzt wurden, dass ihr Gebrauch wohl überlegt sein will. Dieser Vortrag wird den historischen Kontext zu bestimmten Worten oder Wendungen erklären, sei es zum Beispiel die "Aktion", "asozial", die "Überfremdung" oder "versifft". &#13;
+Den Zuhörenden soll hier dabei geholfen werden, bestimmte nationalsozialistische Denkmuster durch ihre Sprache nicht aktiv zu reproduzieren und dabei helfen, eine geschichtsbewusstere Sprache zu etablieren. An einigen Stellen wird die Analyse von Worten oder Wendungen auch einen klaren Bezug zur Sprache der neuen Rechten in Deutschland enthalten.&#13;
+Der Vortrag ist als Präsentation konzipiert und wird schrittweise verschiedene Worte genauer analysieren, der Vortrag kann dann im Abschluss aber gerne durch einen etwas längeren Fragenteil abgerundet werden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="129">Bianca Kastl</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="231" guid="c2a08c53-3f8b-533e-8ec3-764a7ef9c5bb">
+        <logo/>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>ZQP3NG</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/ZQP3NG/</url>
+        <title>The dire Reality of the Climate Crisis</title>
+        <subtitle/>
+        <track>Klimakatastrophe</track>
+        <type>Doppelter Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>Heat waves, wildfires and new movements like Fridays for Future and Extinction Rebellion have brought the climate crisis back into the news. If the world continues to emit greenhouse gases like today, the world will heat up by at least 3 degree celsius, potentially much more. Yet despite increased attention for the climate crisis no political action even remotely sufficient to tackle the problem is in sight.&#13;
+&#13;
+The talk will give a brief overview of the state of the science of climate change, the politics and the scale of the challenge. It'll also give an overview of some - more or less scientific - worst case predictions that sometimes lead to claims that it's just "too late to do something", which may become a new form of justification for not doing anything.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="169">Hanno Böck</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="176" guid="9da34e1b-b51c-5c43-9769-a71ae015028b">
+        <logo/>
+        <date>2019-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>GVQMJW</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/GVQMJW/</url>
+        <title>Technische Kompetenzen vermitteln - nur wie?</title>
+        <subtitle/>
+        <track>The real basic about Bits and Nibbles</track>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description>Während Marketingabteilungen mit Buzzwords wie "KI", "IoT" und "Blockchain" um sich werfen, schütteln die meisten hier den Kopf. Und womit? Mit Recht. Vielen Anwender*innen und politischen Entscheidungsträger*innen fehlt es schlicht an technischer Kompetenz, um Probleme wie Stalkerware, politische Einflussnahme durch soziale Medien und Algorithmen(ethik) im Kern zu begreifen.&#13;
+&#13;
+Aber wie können wir die Erfahrungen und das Wissen in dieses Draußen vermitteln, um den Menschen eine Chance zu geben, nicht bei jeder kleinsten Gelegenheit auf die Dummschwätzer reinzufallen? Wie können wir positiv Einfluss nehmen auf die Gesellschaft, damit informierte Entscheidungen überhaupt möglich sind? Wie kriegen wir vermittelt, was technisch bereits alles möglich ist und was (noch) nicht?&#13;
+&#13;
+In vier Jahren PrivacyWeek haben wir die Themenbreite der "Digitalisierung" (BINGO!) mehrfach durchgearbeitet und gemeinsam mit den Vortragenden kommen wir immer wieder zum selben Schluss: Es braucht mehr Aufklärung und technische Kompetenz in der Bevölkerung, um die Probleme, die die weltweite Vernetzung mit sich bringt, überhaupt zu begreifen und ihnen begegnen zu können. Und letztlich bleibt die Frage, wo wollen wir als CCC letztlich hin? Wie können wir einen Informationstransfer forcieren, der über einige im eigenen Saft kochenden Initiativen hinausgehnt? Und wollen wir das überhaupt?&#13;
+&#13;
+Eine Zusammenstellung der inhaltlichen Learnings von vier Jahren PrivacyWeek.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="37">jinxx</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="233" guid="86094db0-3c31-5eae-8c4a-85b03d191069">
+        <logo>/media/36c3/images/JYS88M/talk_image.jpeg</logo>
+        <date>2019-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:50</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>JYS88M</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/JYS88M/</url>
+        <title>Lithium-Ion Batteries: Why do they work? Do they even work?? And why do they get so angery when you poke them?</title>
+        <subtitle/>
+        <track>Nicht Computers</track>
+        <type>Doppelter Slot</type>
+        <language>en</language>
+        <abstract/>
+        <description>Lithium-Ion batteries are everywhere and are here to stay. They're wonderful to bring mechanical and electronic creations to life, but can also be dangerous if one is not careful with them. Many come with dedicated protection features or at least claim to do so, while others rely on different features to make them safe. Due to how the materials are sourced and which materials are used the environmental and geopolitical factor of them also can’t be neglected.&#13;
+This talk is for you if you're someone tinkering with electronics or if you're just curious and want to know more about the strange creatures batteries are.&#13;
+&#13;
+This is an introduction and overview, covering the essentials of:&#13;
+- Safety, or how to not burn your house down&#13;
+- Chemistries and why some can perfectly cope at -40°C and others won't&#13;
+- Failure is optional and why some just don't burn or explode&#13;
+- The major do's and dont's&#13;
+- Charging, Discharging and why is it empty it said 20% left&#13;
+- Recycling and when you can and when you shouldn't reuse old batteries&#13;
+- Ethics and politics&#13;
+- What does the future hold?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="179">ln</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="263" guid="5f831695-3b2e-55d0-aaf9-1ec4d05c0605">
+        <logo/>
+        <date>2019-12-30T17:10:00+01:00</date>
+        <start>17:10</start>
+        <duration>01:00</duration>
+        <room>Chaos-West Bühne</room>
+        <slug>PWQQ7U</slug>
+        <url>https://fahrplan.chaos-west.de/36c3/talk/PWQQ7U/</url>
+        <title>36C3 Closing - STREAM</title>
+        <subtitle/>
+        <track/>
+        <type>Doppelter Slot</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="85">Chaos-West</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Stage">
+      <event id="356" guid="6eeb1e22-ff82-54be-af15-08e562eca26f">
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>OIO Stage</room>
+        <slug>GGV8G3</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/GGV8G3/</url>
+        <title>Cryptography of Killing Proof-of-Work [YBTI/wefixthenet session]</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>We briefly discuss the range of cryptographic primitives being used by protocols that seek to make proof-of-work protocols obsolete. We shall focus primarily on these cryptographic building blocks themselves, not overly on the different protocols built form them.</abstract>
+        <description>There are a handful of protocols consuming enormous amounts of energy in proof-of-work schemes, which provide only rather tenuous security assurances. In practice, proof-of-work also invalidates these protocols original goal of being distributed.&#13;
+&#13;
+There is also a zoo of protocols designs, both new and from the 80s, that provide far stronger security than proof-of-work at minimal cost. We shall discuss the distinctive cryptographic primitives used by these protocols, without examining any of these critters too closely.&#13;
+&#13;
+In essence, our taxonomy splits as blind signatures vs. verifiable random functions (VRFs) vs. randomness beacons, with the latter consisting of publicly verifiable secret sharing (PVSS) and verifiable delay functions (VDFs). We only have time for a cursory look at the mathematics usable to build each of these, but this should explain some of their uses, strengths, and weaknesses.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="128">dvn</person>
+          <person id="130">Jeffrey Burdges</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="372" guid="809d07c4-a9c7-5004-811e-409aa6bf4296">
+        <logo/>
+        <date>2019-12-30T12:40:00+01:00</date>
+        <start>12:40</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>B3TZGV</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/B3TZGV/</url>
+        <title>Going fully Foss! A non-profits adventure in building a completely FOSS IT environment.</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>In this talk we'll dive into the challenge of going fully FOSS. We'd like to introduce you to the principles behind our decision to choose FOSS. We'll explain the why and how, focusing on ethics as well as our tech stack. We'll share what daily trials and tribulations we had to overcome, how our organization coped with these changes, and what our day to day work now looks like. We'll give an honest review of the cost of choosing FOSS over proprietary software. We'll also detail our migration experience and talk about our efforts to build a global network of other non-profits using FOSS. Finally we'd like to talk about our relationship with the FOSS community. Our goal of sharing our FOSS adventure is to show other organizations that it is important and possible to choose ethical IT alternatives.</abstract>
+        <description>Imagine if you could banish all proprietary software out of your workplace and use only free and opensource software. Would it be possible? How would you build this? What technical skills do you need? Will your coworkers appreciate the change? Can you rely on free and opensource apps in a production environment without support? These were all questions we had to answers when we embarked on our FOSS adventure. In 2017 the Mama Cash foundation committed itself to building an entirely new IT environment with as much free and opensource software as possible. Through our activism we recognized the importance of FOSS for non-profits who can't rely on proprietary cloud solutions, for privacy, ethical or financial reasons. As we committed ourselves to the Feminist Principles of the Internet, we quickly realized that using FOSS was the preferred option. The FOSS community has been immensely successful in advocating the use of opensource alternatives. However, implementing these in a business settings is a whole different story. While many organizations would like to contribute to a GAFAM-less world, a combination of lack of experience, knowledge and support prevents them from doing so. Our objective is to show the world that it is possible to build an ethical IT environment that respects open standards, community building and data privacy. &#13;
+&#13;
+In this talk we'll dive into the challenge of going fully FOSS. We'd like to introduce you to the principles behind our decision to choose FOSS. We'll explain the why and how, focusing on ethics as well as our tech stack. We'll share what daily trials and tribulations we had to overcome, how our organization coped with these changes, and what our day to day work now looks like. We'll give an honest review of the cost of choosing FOSS over proprietary software. We'll also detail our migration experience and talk about our efforts to build a global network of other non-profits using FOSS. Finally we'd like to talk about our relationship with the FOSS community. Our goal of sharing our FOSS adventure is to show other organizations that it is important and possible to choose ethical IT alternatives.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="137">segal</person>
+          <person id="146">Gina Plat</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="345" guid="797c2897-5903-57ae-9ad2-f5d4a9b5a79c">
+        <logo/>
+        <date>2019-12-30T13:45:00+01:00</date>
+        <start>13:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>BFEFPM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/BFEFPM/</url>
+        <title>Internet access and VoIP as Open/Commons Infrastructure</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Some Initiatives are trying to provide internet access and VoIP dial-out in a user-owned (Commons Economy) or completely open infrastructure. We will present the state of affairs and invite to a discussion on the possible perspectives.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="121">Sumy</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="364" guid="5eed96a6-5814-5798-a584-9581c8dd23ea">
+        <logo/>
+        <date>2019-12-30T14:15:00+01:00</date>
+        <start>14:15</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>BBL8YL</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/BBL8YL/</url>
+        <title>SNAC - The only way to beat Facebook</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>The current social media situation is catastrophic. A single megacorporation controls the entire digital life of large parts of the world's population. Together with the rapidly improving methods for processing this data, a power that not only concerns experts is being bundled here. And Facebook's monopoly secures itself. On the one hand, users cannot leave Facebook(/ Instagram/WhatsApp) without being cut off from the social life of their friends. On the other hand, alternatives fail because they can't reach a critical mass. It seems impossible that a single application will ever replace Facebook. The freedom of the Internet is fundamentally threatened. Breaking the power of Facebook is probably one of the greatest challenges of our time. And in order to solve this task, we did come up with a detailed concept that we want to present to the public for the first time at 36c3.&#13;
+SNAC - Social Network Application Cluster - is the name of the protocol used to standardise data exchange between different social media applications. Just as email protocols enable users to choose their provider freely, this protocol should also enable greater diversity in this area. It is easy to see that a single application isn't able to satisfy the needs of every single user. With SNAC we enable a decentralized structure, where each user can choose his server, but also his client application, from a broad spectrum. By developing our pilot application Open Source, we make it easy for other developers to integrate their own applications into the network.&#13;
+But the decentralized Open Source dream alone is not enough to revolutionize the social media world. In order for the new applications emerging in SNAC to be able to run, an appropriate economic environment is needed to cover the operating costs. If the user accesses many different servers while surfing through the decentralized network, the question arises who is responsible for the access costs caused. There is a lack of a corresponding micropayment service with which it is possible to pay very small amounts easy and securely. At first glance, this seems like a project of its own, but it is closely linked to the operation of a decentralised social network. And there are several  advantages emerging by linking social networks with a micropayment system. For example, users can donate a few cents to the creators of content they value, which then adds up to a fair reward for the creators. And this is done directly, independently and without forced ads for the users. But the mental alarm bell of data security rightly rings here when one tries to link financial and private communication data. Therefore, it is all the more important to hand over data sovereignty to the user when planning the protocols and to leave the server operators only the task for which they are fairly paid - the operation of the servers.&#13;
+We are currently putting this concept into protocols that enable secure transactions and protect the user's data. The aim is to create an environment where everyone has the chance to honestly and transparently pay the costs they incur instead of filling the pockets of corporations with their data. &#13;
+Our project is quite daring, that is clear to us. And yet we are sure that this is exactly what we want to do in the coming years. Because there is a chance that we will find 15 crazy people who want to develop this utopia together with us. There's a chance we'll find 50,000 people supporting us with an average of 1€ a month to feed our 15 crazy developers. There's a chance that we can create an environment where many small subnets with cool innovative applications can trigger a movement that's going to be so big it will overcome Facebook's monopoly. And above all, we can create an environment where technology benefits people again, rather than the other way around. &#13;
+If 36c3 isn't the right place for a project like this, what else is? We will give a talk in which we will discuss a better world and the difficulties that lie on the path there. We want to encourage listeners to think and participate, but above all we are also there to initiate a discussion. We want to hear all the concerns and mistakes that we overlook and we need the expertise from all the different angles that only the CCC brings together.</abstract>
+        <description>Hi! We're offeringa bit of a different talk, where we want to present a project that might bring a renaissance to the independence and freedom of the internet. We want to dream together of a better world, but then also talk about the concrete steps that need to be done to get there.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="134">Steffen</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="401" guid="4e309838-fedd-55f3-a48b-835c928cc1c0">
+        <logo/>
+        <date>2019-12-30T15:20:00+01:00</date>
+        <start>15:20</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>UZAKPR</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/UZAKPR/</url>
+        <title>a home among the stars: Galina Balashova, architect of the soviet space programme</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Galina Balashova was the main architect and designer for the soviet space programme. She designed the interieurs and visual identity of spacecrafts such as the Soyuz, Buran, and Mir.</abstract>
+        <description>»Space stations are not only technical structures but architecture built amidst zero gravity.«&#13;
+&#13;
+Galina Balashova (b. 1931) is a self-described "architect-engineer" who spent almost 30 years working in the Soviet Space Programme. She designed the ergonomics, the colours &amp; style and the typography of most soviet spacecrafts, including the Soyuz, the Salyut space stations, the Buran shuttle and the Mir space station.&#13;
+Her pioneering work in the field of zero-gravity architecture is still referenced today in the ISS and other spacecrafts.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="168">Aurora</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="380" guid="9f137ade-314d-5531-9e55-e0020824464a">
+        <logo/>
+        <date>2019-12-30T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>GM9RV3</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/GM9RV3/</url>
+        <title>Closing Session</title>
+        <subtitle/>
+        <track>OIO</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Verabschiedung und Details zum Abbau</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">Andreas Bräu</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="DLF- und Podcast-Bühne">
       <event id="938" guid="a056e190-74d7-54fa-8f51-63ca8e6a4fad">
         <logo/>

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "mkdir; lounges 707; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; lightning Holmium; art-play 0.26; cdc 3; wiki 2020-01-10 11:10",
+    "version": "mkdir; lounges 707; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; lightning Holmium; art-play 0.26; cdc 3; wiki 2020-01-10 15:00",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -27920,13 +27920,13 @@
                 "url": "https://frab.riat.at/en/36C3/public/schedule/events/166.html",
                 "id": 4366,
                 "guid": "c7a48892-4c77-4472-b0fd-5f89d194d473",
-                "logo": null,
+                "logo": "/system/events/logos/000/000/166/large/Screenshot_from_2020-01-10_14-55-42.png?1578664601",
                 "date": "2019-12-29T15:25:00+01:00",
                 "start": "15:25",
                 "duration": "00:30",
                 "room": "CDC - Stage",
-                "slug": "36C3-166-linux_on_open_source_hardware_and_open_source_chip_ddesign",
-                "title": "Linux on Open Source Hardware and Open Source chip ddesign",
+                "slug": "36C3-166-linux_on_open_source_hardware_and_open_source_chip_design",
+                "title": "Linux on Open Source Hardware and Open Source chip design",
                 "subtitle": "",
                 "track": "Stage",
                 "type": "lecture",
@@ -27949,6 +27949,10 @@
                   {
                     "url": "https://twitter.com/pdp7",
                     "title": "Twitter for speaker (@pdp7)"
+                  },
+                  {
+                    "url": "https://www.slideshare.net/DrewFustini/linux-on-open-source-hardware-with-open-source-chip-design",
+                    "title": "SlideShare"
                   }
                 ],
                 "attachments": [

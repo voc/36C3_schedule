@@ -1,5 +1,5 @@
 <schedule>
-  <version>mkdir; lounges 707; chaos-west 1.0; open-infra 23; chaoszone 0.14; komona 0.32; sendezentrum 4.5; lightning Holmium; art-play 0.26; cdc 3</version>
+  <version>mkdir; lounges 707; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.32; sendezentrum 4.5; lightning Holmium; art-play 0.26; cdc 3</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress - Stages</title>
@@ -2684,7 +2684,271 @@ Wir möchten uns darüber austauschen, wie Wissenschaft unserer Meinung nach kom
         <answers/>
       </event>
     </room>
-    <room name="WikiPaka WG: Esszimmer"/>
+    <room name="WikiPaka WG: Esszimmer">
+      <event id="598" guid="b931d00c-d364-55d2-ab1e-80d2b2af336d">
+        <logo/>
+        <date>2019-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:45</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>A3ZPHC</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/A3ZPHC/</url>
+        <title>#chaosPatinnen opening event</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>en</language>
+        <abstract>Welcome Ceremony for the ChaosPatinnen Assembly (German and English)</abstract>
+        <description>Is this your first visit to Congress and you're unsure if you will fit in, visiting alone, or are you a part of a minority at the event? ChaosPatinnen may be for you! Unfortunately, SignUps have already ended and all mentees have been matched into groups, so if you have not yet signed up, find yourself a helpful Hacker!&#13;
+&#13;
+This is the opening event for mentees to meet their mentors, get to know more about the Assembly, and who to turn to for help! From here, we're off to the 11:00AM Keynote!&#13;
+&#13;
+-ChaosPatinnen Orga</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="94">Chaosmentors</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="560" guid="1227e67b-fe22-5065-ac6b-5677b64b0971">
+        <logo/>
+        <date>2019-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>AMPBFW</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/AMPBFW/</url>
+        <title>Querying Linked Data with SPARQL and the Wikidata Query Service</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>An introduction to querying linked data, using the SPARQL query language and the free knowledge base Wikidata.</abstract>
+        <description>Which films starred more than one future head of government? What’s the largest city with a female mayor? And when did women finally outnumber Johns in the House of Commons? These are the kinds of questions that **linked data** can answer.&#13;
+&#13;
+This workshop will give an introduction to the SPARQL query language, showing how it can be used to answer these and other questions, using the free knowledge base **Wikidata** as the data source.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Lucas Werkmeister</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="575" guid="9e71d30b-a863-5ab2-a16b-599200aba5f1">
+        <logo/>
+        <date>2019-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>VN8MEQ</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/VN8MEQ/</url>
+        <title>Live querying: let’s explore Wikidata together!</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>You can find a lot of interesting, useful or amusing information on Wikidata – let’s spend half an hour writing some queries together!</abstract>
+        <description>This will be an interactive session to explore the possibilities of Wikidata, the free knowledge base, and its query service. Participants can suggest queries, and I’ll do my best to implement them.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Lucas Werkmeister</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="587" guid="81de51fe-4759-5ac7-a630-1bf6d887ffb4">
+        <logo/>
+        <date>2019-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:45</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>LTYSYX</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/LTYSYX/</url>
+        <title>Datensammlung leicht gemacht</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Vorstellung eines Ansatzes zur Verknüpfung von OpenData aus verschiedenen Quellen</abstract>
+        <description>Ob OpenData oder Datenjournalismus: Wer Daten aus verschiedenen Quellen zusammenführt (APIs, Exceldateien, Datenbanken, etc.), ist oft mit dem Problem konfrontiert, diese zueinander in Beziehung zu setzen, zu analysieren oder eine aufbereitete Version der Daten als Mashup zu präsentieren (z. B. als Website). Mitunter möchte man außerdem über einen längeren Zeitraum Daten erheben, um Veränderungen zu verfolgen und ggf. darauf zu reagieren.&#13;
+&#13;
+Ich möchte einen Ansatz vorstellen, wie man dieses Problem mit einem weitestgehend generischen Ansatz lösen kann. Dieser Ansatz, der sich Data Vault 2.0 nennt, ist in Industrie und Wirtschaft bereits verbreitet, in anderen Teilen der datenverarbeitenden Community offenbar aber unbekannt. Dies möchte ich ändern.&#13;
+&#13;
+## Beispiele&#13;
+Verknüpfung offener Datensätze, Verknüpfung von Daten aus öffentlich verfügbaren Schnittstellen&#13;
+&#13;
+## Themenfelder&#13;
+Open Data, Open Government, Data-driven Journalism (DDJ)</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="84">cyroxx</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="559" guid="7d03fd50-1926-5de2-88c7-35a0403ef079">
+        <logo/>
+        <date>2019-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>MH3WTA</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/MH3WTA/</url>
+        <title>KDE Itinerary - A privacy by design travel assistant</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Getting your itinerary presented in a unified, well structured and always up to date fashion rather than as advertisement overloaded HTML emails or via countless vendor apps has become a standard feature of digital assistants such as the Google platform. While very useful and convenient, it comes at a heavy privacy cost. Besides sensitive information such as passport or credit card numbers, the correlation of travel data from a large pool of users exposes a lot about people's work, interests and relationships. Just not using such services is one way to escape this, or we build a privacy-respecting alternative ourselves!</abstract>
+        <description>Standing on the shoulders of KDE, Wikidata, Navitia, OpenStreetMap and a few other FOSS communities we have been exploring what it would take to to build a free and privacy-respecting travel assistant during the past two years, resulting in a number of building blocks and the "KDE Itinerary" application. In this talk we will look at what has been built, and how, and what can be done with this now. In particular we will review the different types of data digital travel assistants rely on, where we can get those from, and at what impact for your privacy.&#13;
+&#13;
+The most obvious data source are your personal booking information. Extracting data from reservation documents is possible from a number of different input formats, such as emails, PDF files or Apple Wallet passes, considering structured annotations and barcodes, but also by using vendor-specific extractors for unstructured data. All of this is done locally on your own devices, without any online access.&#13;
+&#13;
+Reservation data is then augmented from open data sources such as Wikidata and OpenStreetMap to fill in often missing but crucial information such as timezones or geo coordinates of departure and arrival locations. And finally we need realtime traffic data as well, such as provided by Navitia as Open Data for ground-based transport.&#13;
+&#13;
+Should the author fail to show up to this presentation it might be that his Deutsche Bahn ticket rendering code still needs a few bugfixes ;-)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="69">Volker Krause</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="577" guid="81908e34-0cd2-5bf1-ad77-6825d8f96b56">
+        <logo/>
+        <date>2019-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>ENN7EF</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/ENN7EF/</url>
+        <title>Wikimedia Cloud Services introduction</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Find out what kind of free services Wikimedia provides for you.</abstract>
+        <description>Wikimedia Cloud Services is a collection of services that the Wikimedia Foundation offers, free of charge, to anyone who can use them for furthering the goals of the Wikimedia movement. This includes Toolforge, a hosting service for tools written in various languages; Cloud VPS, full virtual private servers for advanced development beyond the capabilities of Toolforge; convenient access to Wikimedia project data; and more!&#13;
+&#13;
+Link and other useful information: https://www.wikidata.org/wiki/User:Lucas_Werkmeister/36c3-wmcs-intro</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Lucas Werkmeister</person>
+          <person id="7">Amir Sarabadani</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="594" guid="3d0170ed-e233-545f-87f7-f50d126ddbe6">
+        <logo>/media/36c3/images/TNSGB8/handy-unnormalized.png</logo>
+        <date>2019-12-27T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>00:20</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>TNSGB8</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/TNSGB8/</url>
+        <title>Reading politics of the supposedly neutral</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Algorithms bear the image of their makers, and toil like their servants.  Technology of any sort cannot be neutral, as it is embedded in a social matrix of why it was created and what work it performs.  An algorithm, its context, and what it lacks should be understood as a political statement carrying great consequences, and as a society we should respond to each as needed, engaging the purveyors of these algorithms on a political level as well as legal and economic.&#13;
+&#13;
+Three algorithmic systems are revealed to embody various class interests.  First, a population ecology modeled simply by a pair of predator-prey equations leads one to conclude that socialist revolution and compulsory leisure are the only routes to avoiding civilizational collapse.  Second, a formula for labor supply reduces us to lazy drones who work as little as possible to support our choice of lifestyle.  Finally, advertising on Wikipedia could yield a multi-billion-dollar fortune—shall we put it up for sale or double-down on radical equality among all people?</abstract>
+        <description>(1) The [Human and Nature Dynamics](https://www.sciencedirect.com/science/article/pii/S0921800914000615) (HANDY) model is the first to pair environmental resource consumption with class conflict, each as a predator-prey cycle.  In one cycle we overrun and out-eat the other species on Earth, who grow back slowly, and in the other cycle elites out-compete commoners in their consumption, to the point of even causing commoners to die of hunger.  One can say that socialist revolution is embedded in a statement like this.  Indeed, something must be done about the growing power of over-consuming elites before they doom us all.  I will give a tour using this [interactive explorer](https://adamwight.github.io/handy-explorer/).&#13;
+&#13;
+(2) A second example is a run-of-the-mill, capitalist formula for labor supply, to explain our collective decision to go to work in the morning.  Loosely, it is to`optimize(Consumption, hours worked)` for the constraint `Consumption ≤ wage x hours + entitlement`.  In other words, this formula assumes we are lazy, greedy, individual agents, each motivated only by obtaining the greatest comfort for the least labor.  The worker who internalizes this formula will fight for fewer hours of work and higher wages for themself, will find shortcuts to spend less money to increase purchasing power, and in this idealized world can be expected to vote in favor of social democratic minimum incomes.  A company following this formula, on the other hand, will fight against all of these worker gains, and will act to depress government welfare or minimum incomes until workers are on the edge of starvation in order to squeeze longer hours out of them.  What's missing from this formula is, all the ways out of the trap.  Mutual aid and connections among ourselves to protect the most vulnerable individuals, pooling resources, and any other motivation to work besides mortal fear and hedonism.—One can easily imagine a radically different paradigm for work, in which labor is dignified and fulfilling.  To understand this world in formulas, labor supply is measured in education levels, self-direction, and other positive feedback loops which raise productivity.&#13;
+&#13;
+(3) Wikipedia and its sister projects have never worn the shackles of paid advertising, although they sit on a potential fountain of revenue in the tens of billions of dollars per year—not to mention the value of the influence over public opinion that such a propaganda machine might achieve.  `Revenue = Ads per visit x Visits`  Analyzed venally, Wikipedia becomes an appealing portfolio acquisition, which would jeopardize the entire free-open movement.  From a different perspective, that of an organizer in an editor’s association, slicing pageview and (non)-advertising data might allow for more effective resource-sharing among the many chapter organizations.  In a third analysis using a flow of labor, power, and funds, we can see the Wikimedia Foundation as engaged in illegitimate expropriation, turning editors into sharecroppers and suppressing decentralized growth.  These twists all come about through variations on an equation.  Which shall we choose?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="85">Adam Wight</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="561" guid="cf682838-3650-5cb1-9738-fec883f1e590">
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>DDCXPN</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/DDCXPN/</url>
+        <title>Jugend hackt Community Treffen</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Das Jugend hackt Community Treffen auf dem 36c3! :-) Ideal für alle Menschen aus dem Jugend hackt Kosmos und vor allem für Congress-Neulinge.</abstract>
+        <description>Wir wollen mit euch am ersten Tag (27.12.19) ein kleines Jugend hackt Meet-Up um 20:00 Uhr im Esszimmer der Wikipaka WG machen. So wollen wir euch und uns einmal zusammen bringen, alle Fragen rund um den Congress und die Wikipaka WG besprechen, im Anschluss eine Runde über den Congress drehen und ein paar andere befreundete Assemblies und andere spannende Orte besuchen. Quasi der perfekte Einstieg! - Kommt rum, wir freuen uns auf euch!</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="10">Robert</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="593" guid="c95ae46b-dc34-55fd-bff7-026a9d252de9">
+        <logo>/media/36c3/images/EGBN8W/CFG_500x500.jpg</logo>
+        <date>2019-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>EGBN8W</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/EGBN8W/</url>
+        <title>Code for Germany. Gute Taten mit offenen Daten</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Seit fünf Jahren setzen sich innerhalb des Netzwerks [„Code for Germany“](https://codefor.de) in ganz Deutschland rund 300 Ehrenamtliche für offene Daten ein und bauen damit Anwendungen für alle. Auch 2019 ist bei uns einiges passiert, was wir euch hier vorstellen wollen. Wir haben uns beispielsweise mit Daten zu Umwelt, Politik und jeder Menge Kartenmaterial beschäftigt und viele neue Projekte am Start. Manche glänzen schon richtig, andere suchen noch Unterstützung. Im Talk erklären wir, was offene Daten eigentlich sind, was man daraus bauen kann und wie man bei uns mitmachen kann.</abstract>
+        <description>[Code for Germany](https://codefor.de) ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger. Wir nutzen unsere Fähigkeiten, um unsere Städte und das gesellschaftliche Miteinander positiv zu gestalten. Wir setzen uns für mehr Transparenz, Offene Daten und Partizipation in unseren Städten ein. Wir vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen unsere Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="67">Julia</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="ChaosZone Bühne">
       <event id="748" guid="c5e0ea5b-5b6d-5874-8884-56d653b3dfe1">
         <logo/>
@@ -7070,7 +7334,284 @@ Hi, ich bin Becci (@genderbeitrag) und veranstalte mittlerweile traditionell auf
         <answers/>
       </event>
     </room>
-    <room name="WikiPaka WG: Esszimmer"/>
+    <room name="WikiPaka WG: Esszimmer">
+      <event id="604" guid="316426de-d3cf-5d5f-a9e2-be680fdd1916">
+        <logo/>
+        <date>2019-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:45</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>QT3DQD</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/QT3DQD/</url>
+        <title>Subtitles Angelmeeting</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Introduction for the Subtitles Angletype.</abstract>
+        <description>In the Subtitles Introduction Meeting we will tell you, what you have to do as a Subtitles Angel. Attending this meeting is necessary to become a Subtitles Angel.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">Steini</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="563" guid="3a728f85-2ebd-5ed5-82bd-1f4b815bba42">
+        <logo>/media/36c3/images/GMHREE/P3.png</logo>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>GMHREE</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/GMHREE/</url>
+        <title>Prototype Fund Meetup</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Wir sind das Prototype Fund Team und laden alle ein, die von uns gefördert wurden oder mehr über den Fund erfahren möchten, uns und einander kennenzulernen!</abstract>
+        <description>Der Prototype Fund unterstützt SoftwareentwicklerInnen, HackerInnen, DatenjournalistInnen und andere Kreative dabei, ihre Public-Interest-Tech-Idee vom Konzept bis zur ersten Demo umzusetzen.&#13;
+&#13;
+Wir fördern innovative Open-Source-Projekte in den Bereichen Civic Tech, Data Literacy, Datensicherheit und Software-Infrastruktur und supporten Euch mit bis zu 47.500 Euro Förderung pro Team/Einzelentwickler*in.&#13;
+&#13;
+Mit der Förderung könnt Ihr sechs Monate lang Code schreiben und einen Prototyp Eurer Open-Source-Software entwickeln. Zusätzlich erhaltet Ihr Coachings, Beratung und Vernetzung mit Tech- und weiteren Communities.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="73">Marie Gutbub</person>
+          <person id="74">Thomas Friese</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="572" guid="e26fdad4-0247-5128-a54b-a7fedea0d130">
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>CKLM3A</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/CKLM3A/</url>
+        <title>DSGVO &amp; Persönlichkeitsrecht bei Fotos</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>DSGVO &amp; Persönlichkeitsrecht bei Fotos mit Fokus auf Nutzung in freien Projekte wie Wikimedia Commons.</abstract>
+        <description>* Persönlichkeitsrechte und ihre Bedeutung für Wikimedia-Projekte, inklusive Grundlagen des Allgemeinen Persönlichkeitsrechts (APR)&#13;
+* Was ist zu beachten bei Abbildungen von Personen des öffentlichen Lebens und beim Fotografieren öffentlicher und nicht-öffentlicher Veranstaltungen? (inklusive Umgang mit Einschränkungen von Seiten Dritter wie Sportverbänden, Künstlermanagements usw.)&#13;
+* Zusammenspiel urheberrechtlicher Lizenzen und persönlichkeitsrechtlicher Regeln&#13;
+&#13;
+Zeit für Fragen und Antworten ist eingeplant.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="8">John</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="591" guid="d30a38e6-2db7-592d-9283-73dc445f9c89">
+        <logo/>
+        <date>2019-12-28T13:50:00+01:00</date>
+        <start>13:50</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>FFGWSW</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/FFGWSW/</url>
+        <title>Helping WordPress users build climate-friendly websites</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>greenerWP is dedicated to help WordPress site owners making their sites and blogs more environmentally sustainable.</abstract>
+        <description>greenerWP wants to help WordPress site owners making their sites more environmentally sustainable. The non-profit free/libre open source project consists of a website scanner, a WordPress plugin which provides guidance and optimizations, a lightweight WordPress theme that is optimized for sustainability, and guides and tools for setting up a solar powered single board computer running WordPress. The talk will give a short overview of the project and its development state.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="87">Christian Neumann</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="589" guid="16fa19a5-66a8-5104-9804-44ac491f4936">
+        <logo/>
+        <date>2019-12-28T14:10:00+01:00</date>
+        <start>14:10</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>V378DD</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/V378DD/</url>
+        <title>Measuring Code Contributions in Wikimedia's Technical Community</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>A lightning talk about technical contributions in Wikimedia projects that we can currently measure and the challenges that we face.</abstract>
+        <description>Statistics can help to better understand communities and their needs. This lightning talk shows how Wikimedia uses the free and open source software "GrimoireLab" to get some data about its technical contributor base, and also covers some of the challenges that we face when it comes to measuring.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">Andre Klapper</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="564" guid="2f4ba23c-de8a-5fd9-9829-fa4445eccc74">
+        <logo/>
+        <date>2019-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>UAUKWZ</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/UAUKWZ/</url>
+        <title>Amateurfunk, wasn das?</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Kurze Zusammenfassung über ein extrem vielfältiges Hobby.</abstract>
+        <description>Beim Amateurfunk geht es grundlegen darum, mit eigener Technik Funkverbindungen herzustellen. Dieses Hobby ist aber noch deutlich vielfältiger. Dazu gehört ein besonderer Amateurfunksport, Wettbewerbe, Not- und Katastrophenfunk oder der Selbstbau von Funkgeräten und Antennen. Auch der Funkkontakt an sich ist immer wieder spannend. So kann man bis nach Neuseeland, mit der Internationalen Raumstation, mit Satelliten oder auch mit dem Mond funken. Manche Funkamateure wandern auf Berge oder fahren auf unbewohnte Inseln um von dort funken zu können.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="71">Janek</person>
+          <person id="63">Noah</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="595" guid="95c2bf57-087f-5fb0-9ce8-a3210a585f9c">
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>HMMPQQ</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/HMMPQQ/</url>
+        <title>Interactively Discovering Implicational Knowledge in Wikidata</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The ever-growing Wikidata contains a vast amount of factual knowledge. More complex knowledge, however, lies hidden beneath the surface: it can only be discovered by combining the factual statements of multiple items. Some of this knowledge may not even be stated explicitly, but rather hold simply by virtue of having no counterexamples present on Wikidata. Such implicit knowledge is not readily discoverable by humans, as the sheer size of Wikidata makes it impossible to verify the absence of counterexamples. We set out to identify a form of implicit knowledge that is succinctly representable, yet still comprehensible to humans: implications between properties of some set of items. Using techniques from Formal Concept Analysis, we show how to compute such implications, which can then be used to enhance the quality of Wikidata itself: absence of an expected rule points to counterexamples in the data set; unexpected rules indicate incomplete data. We propose an interactive exploration process that guides editors to identify false counterexamples and provide missing data. This procedure forms the basis of [The Exploration Game](https://tools.wmflabs.org/teg/), a game in which players can explore the implicational knowledge of set of Wikidata items of their choosing. We hope that the discovered knowledge may be useful not only for the insights gained, but also as a basis from which to create entity schemata.</abstract>
+        <description>The talk will introduce the notions of Implicational Knowledge, describe how Formal Context Analysis may be employed to extract implications, and showcase the interactive exploration process.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="65">Maximilian Marx</person>
+          <person id="88">Tom Hanika</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="571" guid="d3bf066e-5bac-568c-ab7b-b5a282813cc7">
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>3VX9J3</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/3VX9J3/</url>
+        <title>Grundlagen Urheberrecht - Schwerpunkt CC-Lizenzen</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Grundlagenwissen zum Urheberrecht</abstract>
+        <description>CC-Lizenzen und das Urheberrecht.&#13;
+Kurze Einführung wie CC-Lizenzen im Urheberrecht verankert sind.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">John</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="588" guid="7668e889-63d6-5dbe-8a5b-e81d54731b10">
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>LKSJUL</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/LKSJUL/</url>
+        <title>Software tools for wikis beyond MediaWiki and its extensions</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>A showcase of software implemented outside of the MediaWiki and MediaWiki extensions code repositories.</abstract>
+        <description>Wikimedia's communities have diverse interests, use cases and technical needs. Volunteer developers experiment with new ideas, build solutions and bridge workflow gaps across our software stack.&#13;
+&#13;
+This session is a showcase of a variety of impressive software solutions implemented outside of the MediaWiki and MediaWiki extensions code repositories.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">Andre Klapper</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="555" guid="b454a974-3703-5aff-b408-4f997c3f0b0a">
+        <logo>/media/36c3/images/CXU9SV/gg-36c3.png</logo>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>CXU9SV</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/CXU9SV/</url>
+        <title>Gefragt - Gejagt: Junghacker*innen Edition</title>
+        <subtitle/>
+        <track>Entertainement</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Das schnelle Quiz für alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jahren. Lasst ihr euch von den Erwachsenen jagen oder entkommt ihr eurem Jäger?</abstract>
+        <description>Gefragt - Gejagt ist ein bekanntes Quizformat aus der ARD. Wir stellen eine Junghacker\*innen-Version auf die Beine und lassen zwei clevere Teams bestehend  aus Jugendlichen zwischen 12 und 18 Jahren gegeneinander, aber auch gegen die erwachsenen und erfahrenen Jäger\*innen antreten. Können sie gewinnen? Wir werden es herausfinden! Euch erwarten schnelle Fragerunden, abwechslungsreiche Themengebiete und an erster Stelle ganz viel gute Laune und Cyber! &#13;
+&#13;
+Du kannst dich zum mitspielen bewerben oder mithelfen - auch als Erwachsene\*r. Alle Informationen, die du dazu brauchst, findest du unter [nwng.eu/36c3-gg!](https://nwng.eu/36c3-gg) Wir freuen uns auf dich! &lt;3</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="64">nwng</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="ChaosZone Bühne">
       <event id="732" guid="c3028f4c-8db7-59ae-9fc0-25405b792212">
         <logo>/media/36c3/images/GFXWGZ/VoteUPLove.jpg</logo>
@@ -11643,7 +12184,296 @@ Eine unserer Moderator*innen, Katharin, wird direkt von ihren Recherchen für jo
         <answers/>
       </event>
     </room>
-    <room name="WikiPaka WG: Esszimmer"/>
+    <room name="WikiPaka WG: Esszimmer">
+      <event id="556" guid="df866355-3eec-521d-927e-a3cd922035dc">
+        <logo>/media/36c3/images/TK9M7A/Flutter-Eng-2.png</logo>
+        <date>2019-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>TK9M7A</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/TK9M7A/</url>
+        <title>Flutter - One native code base for every platform</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Did you ever want to develop cross-platform application from one single code base? Are you afraid to get worse performance than with native code? Flutter may help you!</abstract>
+        <description>Flutter is an open-source cross platform framework which allows you to create native applications. As is does not use JavaScript it won't require a hole WebView in background. Due to this and the incredible easy syntax it's one most advanced frameworks for applications running on mobile devices, in the web and on desktops.&#13;
+In this talk, I will introduce the basics of Flutter, what's different to other frameworks and some details about its structure.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="66">Der mit dem Zopf (The one with the braid)</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="568" guid="099b9161-902b-50ca-a308-d86e2825ce27">
+        <logo/>
+        <date>2019-12-29T12:45:00+01:00</date>
+        <start>12:45</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>3CHBWG</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/3CHBWG/</url>
+        <title>Free Software for Open Science</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>This talk provides an overview of the state of Free and Open Source Software (FOSS) within the various European &#13;
+scientific communities. Based on this we will try to identify stakeholders, common goals and potential policy proposals.</abstract>
+        <description>The principles of Free and Open Source Software (FOSS) are&#13;
+well aligned with the core tenets of science, i.e., the sharing of knowledge &#13;
+and the demand for reproducibility of results. Nevertheless, FOSS is still &#13;
+rather the exception than the rule for the majority of scientific domains.&#13;
+In this session we will discuss the state of FOSS within the various European &#13;
+scientific communities. Based on this we will try to identify stakeholders, &#13;
+common goals and potential policy proposals.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="95">purine:bitter</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="585" guid="b6339a61-ccb7-5a74-813b-b2cc3fbd4848">
+        <logo/>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>DKQXS3</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/DKQXS3/</url>
+        <title>OZG 101 - Das Onlinezugangsgesetz und Du</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Was ist das Onlinezugangsgesetz, wie wird es umgesetzt, und wie kann ich als</abstract>
+        <description>Das Onlinezugangsgesetz ist derzeit der wichtigste Treiber für die Digitalisierung der Verwaltung in Deutschland. BIs Ende 2022 sollen alle Verwaltungsleistungen digital zugänglich gemacht werden. Wie genau es derzeit umgesetzt wird (und warum), was an Ergebnissen zu erwarten ist und was vielleicht danach kommt erfährt du in diesem Talk.&#13;
+&#13;
+Dieser Vortrag inklusive Fragerunde ist für alle gedacht, die in das Thema Verwaltungsdigitalisierung in Deutschland, speziell OZG, einsteigen wollen. Wir gehen auch der Frage nach, wie sich mensch in seiner Kommune, seinem Land und seinem Fachgebiet informieren und einbringen kann.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="79">Spyr_0</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="597" guid="9bda0f73-0ff7-5244-8690-4dcd9fce1007">
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>B3JTS9</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/B3JTS9/</url>
+        <title>StayAlive-Insektencounter – eine Diskussion über Daten, ML, Hardware und Community</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Wir entwickeln den StayAlive–Insektencounter, ein Citizen Science-Monitoringtool für Umweltschützer, NGOs, Hobbygärtner – für dich und mich. Das Raspi-basierte und KI-gestützte Gerät soll durch Echtzeitmessungen zeigen, welche Insekten (Fliegen, Hummeln, Falter etc) es noch gibt, wie sich die Zahl über die Zeit verändert und welche deiner Schutzmaßnahmen einen direkten positiven Einfluss haben werden.</abstract>
+        <description>Das Insektensterben wurde durch die „Krefelder Langzeitstudie“ einer breiten Öffentlichkeit bekannt. Für die Studie wurden die Tiere ganz analog in Fallen gelockt und konserviert (also getötet), so dass man anschließend ihre Biomasse bestimmen konnte.&#13;
+Mit unserem Projekt StayAlive-Insektencounter gehen wir einen anderen Weg.  Wir zählen und klassifizieren die Tiere digltal – und lassen sie leben. Der Counter soll Insekten anhand seiner Körperform und durch den Flügelschlag unterscheiden und lernt dank Künstlicher Intelligenz (KI) ständig hinzu. Die Daten werden über eine Map visualisiert und zeigen an, welche insektenfreundlichen Maßnahmen direkt wirken, wenn wir bestimmte Pflanzen säen, Wiesen ungemäht lassen oder pestizidfrei ackern.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="89">Nicola</person>
+          <person id="101">Levin Brinkmann</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="579" guid="ec7f954e-db31-560e-ab47-0c2e57bd18ed">
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>PMD8TF</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/PMD8TF/</url>
+        <title>Free access to substitution plans – Deobfuscation adventures</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Many schools in Germany choose to distribute their substitute plans via a proprietary platform. The provided client software is not very pleasurable to use and inconveniences users with its dependency on Google Play Services. That's why I develop a free client for Android called DSBDirect, which is able to display plans in a nice, filtered way.</abstract>
+        <description>Many schools in Germany choose to distribute their substitute plans via the proprietary [[DSB platform]](https://heinekingmedia.de/education/digitales-schwarzes-brett). The provided client software is not very pleasurable to use and inconveniences users with its dependency on Google Play Services. That's why I develop a free client for Android called DSBDirect, which is able to display plans in a nice, filtered way. Since they noticed my app, the company operating DSB has been obfuscating their various endpoints more and more in an attempt to prevent my app from working, while on the other hand not being very competent at security. It's a cat-and-mouse game.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="77">Fynn</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="581" guid="8557f87b-a449-5b48-8be5-8130b2c21a63">
+        <logo/>
+        <date>2019-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>02:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>CRH3HY</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/CRH3HY/</url>
+        <title>Treffen chaos.jetzt</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Wir wollen junge Leute im Chaos-Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces stärken. Komm vorbei, trink eine Mate und lass die Welt verändern.</abstract>
+        <description>Wir wollen junge Leute [1] im Chaos Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces stärken. Komm vorbei, trink eine Mate und lass die Welt verändern.&#13;
+&#13;
+Mögliche Themen: &#13;
+- Was können wir auf Über-Regionaler Ebene machen? &#13;
+- Wo müssen wir uns mit einbringen? &#13;
+- Wie kann unser erstes Geekend in Göttingen ablaufen &#13;
+- Was für Projekte, Ideen und Utopien gibt es? &#13;
+Gerne dürft ihr auch vor dem Treffen einbringen.&#13;
+&#13;
+Du findest uns auch Online auf https://chaos.jetzt/ in unserem Matrix und Mastadon. &#13;
+&#13;
+[1] = Grundsätzlich Menschen unter 27 mit einem (sehr) großen Fokus auf U18 Jährige. Diese Definition könnte auch gut besprochen werden.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="80">Scammo</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="573" guid="9d1e4d14-ba73-5f28-a184-77520d894dfa">
+        <logo/>
+        <date>2019-12-29T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>RT7UWJ</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/RT7UWJ/</url>
+        <title>Infrastructure of Wikipedia</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>We will tell you how to serve a hundred thousand requests per second, for fun and non-profit</abstract>
+        <description>Wikipedia is one of the most visited websites on earth and runs on donations only. All of our infra is in-house to make sure we protect our users' privacy. This is not easy but it's possible.&#13;
+&#13;
+If you want to know how we do that, come to our talk. We will explain our system architecture, tell you about our database setup, the caching layers, and all the other bits and pieces.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">Amir Sarabadani</person>
+          <person id="6">Lucas Werkmeister</person>
+          <person id="25">Daniel</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="574" guid="9f41c673-8915-526c-b968-84759271cee8">
+        <logo/>
+        <date>2019-12-29T20:45:00+01:00</date>
+        <start>20:45</start>
+        <duration>00:10</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>TGQBME</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/TGQBME/</url>
+        <title>LilyPond: programming beautiful musical scores</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Find out what lies at the intersection of music and programming with this brief look at LilyPond, the free programmable musical typesetter!</abstract>
+        <description>[LilyPond](http://lilypond.org/) is a musical typesetting program. While it aims to produce beautiful scores by default, its output is also extensively configurable and programmable. This makes it an attractive hobby for people at the intersection of programming and music, some of whom I hope to captivate with this talk.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Lucas Werkmeister</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="566" guid="c6410063-47d5-592d-8474-ca86c5b22713">
+        <logo/>
+        <date>2019-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>9BS3FB</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/9BS3FB/</url>
+        <title>Operation Mindfuck Vol. 3</title>
+        <subtitle/>
+        <track>Art &amp; Culture</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wir präsentieren zum dritten Mal einen bunten Blumenstrauß aus Nerdsniping-Themen – einige unserer Lieblingsfakten über Computer, Kunst und Kuriositäten! Wir ziehen viel Inspiration aus neuen und absurden Ideen, und möchten diese Begeisterung mit euch teilen!</abstract>
+        <description>Es gibt Aufzeichnungen von [Vol. 1](https://morr.cc/operation-mindfuck/) und [Vol. 2](https://morr.cc/operation-mindfuck-2/)!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="23">blinry</person>
+          <person id="2">bleeptrack</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="607" guid="5f990d0a-5732-56a2-9bd5-d250e38d8325">
+        <logo/>
+        <date>2019-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>BZTE77</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/BZTE77/</url>
+        <title>GSM Team Ask us Everything</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>The GSM Team will bring some hardware and data to explain how we run a 2/3/4G Network on the 36c3. Ask them everything.</abstract>
+        <description>The GSM Team will bring some hardware and data to explain how we run a 2/3/4G Network on the 36c3. Ask them everything.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="104">bibor</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="ChaosZone Bühne">
       <event id="759" guid="c8a7c2e7-a24f-5b47-a60e-0dadb819804d">
         <logo>/media/36c3/images/Q83NB8/classes.jpg</logo>
@@ -14508,7 +15338,63 @@ Her pioneering work in the field of zero-gravity architecture is still reference
         <answers/>
       </event>
     </room>
-    <room name="WikiPaka WG: Esszimmer"/>
+    <room name="WikiPaka WG: Esszimmer">
+      <event id="569" guid="c25397e4-6f44-5cdb-a39d-1a52562ac656">
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>XM97YV</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/XM97YV/</url>
+        <title>Modernizing Wikipedia</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>What does Wikimedia do to modernize WIkipedia's user experience, and why does it take so long?</abstract>
+        <description>Editing Wikipedia feels like a blast from the past, and even just reading articles feels a bit dusty. Why is that? And how can it be fixed? And how can you help?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="25">Daniel</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="608" guid="1c610210-9c06-5d79-b7dd-d4aa89cd608e">
+        <logo/>
+        <date>2019-12-30T13:15:00+01:00</date>
+        <start>13:15</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>VD7ARK</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/VD7ARK/</url>
+        <title>Hacking an NFC toy with the ChameleonMini</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>The Toniebox plays songs or reads stories to your kids when they put a little figurine on top of it.&#13;
+We show how to create a backup of it and use the ChameleonMini in place of it in case your kid ate it.</abstract>
+        <description>The Toniebox plays songs or reads stories to your kids when they put a little figurine on top of it.&#13;
+We show how to create a backup of it and use the ChameleonMini in place of it in case your kid ate it.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="105">fptrs</person>
+          <person id="106">ceres-c</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="ChaosZone Bühne">
       <event id="766" guid="f958db8e-b745-5764-916a-c70263d4c85b">
         <logo/>

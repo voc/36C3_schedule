@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "mkdir; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.32; sendezentrum 4.5; lightning Holmium; art-play 0.26; cdc 3; wiki 2020-01-15 11:10",
+    "version": "mkdir; lounges 707; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.32; sendezentrum 4.5; lightning Holmium; art-play 0.26; cdc 3; wiki 2020-01-15 11:20",
     "base_url": "https://fahrplan.events.ccc.de/congress/2019/Fahrplan/",
     "conference": {
       "acronym": "36c3",
@@ -4468,9 +4468,571 @@
                 ]
               }
             ],
-            "Discotheque Nouveauancien": [],
-            "Uptown": [],
-            "Furo no ba": [],
+            "Discotheque Nouveauancien": [
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11243.html",
+                "id": 11243,
+                "guid": "9fbcc0be-6f9b-4e28-b88d-524705bb0ba7",
+                "logo": "/system/events/logos/000/011/243/large/IMG_20190112_214244_.jpg?1577455001",
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11243-gregoa",
+                "title": "Gregoa",
+                "subtitle": "DJ Set",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Eine kleine Nerdmusique.",
+                "description": "Musique ist Liebe und Ausdruck meines erweiterten Selbst.\r\n\r\nMerci.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://hearthis.at/gregoa/",
+                    "title": "https://hearthis.at/gregoa/"
+                  },
+                  {
+                    "url": "https://lemate.de/dj/",
+                    "title": "Homep\u00e4dsch"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11246.html",
+                "id": 11246,
+                "guid": "87d4163a-e240-4491-9ede-249e7e28abb2",
+                "logo": "/system/events/logos/000/011/246/large/unicorn-up_sticker_gen2.png?1577196871",
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11246-unicorn_partisans_live",
+                "title": "Unicorn Partisans live",
+                "subtitle": "disco punk vs technocrust",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "disco punk vs technocrust",
+                "description": "glittering queer anarcha lyrics in German, English and Russian.\r\nwith lots of humor and irony, criticism and self-criticism \u2026\r\nspoken, screamed and sung \u2026\r\n\r\naccompanied and mixed to hard beats, distorted sounds and playful melodies.\r\nDanceable and with a big wink.\r\npunky and beautyful.\r\n\r\ndance, fight and glitterize!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://unicornpartisans.net/",
+                    "title": "Unicorn Partisans Homepage"
+                  },
+                  {
+                    "url": "https://unicornpartisans.bandcamp.com/",
+                    "title": "Unicorn Partisans on Bandcamp"
+                  }
+                ],
+                "attachments": [
+                  {
+                    "url": "/system/event_attachments/attachments/000/004/041/original/unicorn-up_sticker_gen2.jpg?1577319567",
+                    "title": "Unicorn Partisans Sticker"
+                  }
+                ]
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11249.html",
+                "id": 11249,
+                "guid": "40e2d6ec-0893-4fe7-a253-0752957e230d",
+                "logo": "/system/events/logos/000/011/249/large/Bildschirmfoto_2019-12-23_um_21.34.23.png?1577133432",
+                "date": "2019-12-27T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11249-super_flu",
+                "title": "Super Flu",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/super-flu-de",
+                    "title": "Super Flu bei SoundCloud"
+                  },
+                  {
+                    "url": "super-flu.de/",
+                    "title": "Super Flu's Website"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11257.html",
+                "id": 11257,
+                "guid": "67ade420-8d74-462d-8ade-048130f03332",
+                "logo": "/system/events/logos/000/011/257/large/windish-ava.jpg?1577319731",
+                "date": "2019-12-27T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11257-windish",
+                "title": "Windish",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "\r\nWie viele in unserer Generation leidet auch Fritz Windish an dem Fluch eines Multitalents.\r\nDa f\u00e4llt es schonmal schwer sich zu konzentrieren. Aber wenn ihr ihn hier verpasst weil ihr gerade etwas besseres zu tun habt dann sp\u00e4testens in Hollywood.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/fritzwindish",
+                    "title": "Windish on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11250.html",
+                "id": 11250,
+                "guid": "89fd6560-e04a-491c-943c-bc769a20fee3",
+                "logo": "/system/events/logos/000/011/250/large/Bildschirmfoto_2019-12-23_um_21.38.44.png?1577133567",
+                "date": "2019-12-28T01:00:00+01:00",
+                "start": "01:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11250-cosmic_dj",
+                "title": "Cosmic DJ",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "Daniel Sommer \u2013 besser bekannt als Cosmic DJ \u2013 war in den 1990er Jahren Mitglied der wegweisenden HipHop-Crossover-Truppe Fischmob und nach deren Entschwinden Ende des Jahrzehnts ein Drittel der House-Helden International Pony (zusammen mit DJ Koze und Erobique). Nebenbei bet\u00e4tigte er sich auch noch als Blogger bei der Onlineausgabe von \"Die Zeit\" und Remixer (u.a. f\u00fcr Tocotronic und Rocko Schamoni) und beherrscht diverse handgemachte Instrumente jenseits des Elektro-Turntablerocker-Zusammenhangs. Seinen j\u00fcngsten kreativen Flash feierte Cosmic DJ im August 2008, als er einen Alleinunterhalter-Abend nur mit Coverversionen von Liedern bestritt, die sich allein seinem Wohnort Hamburg widmeten. 2009 kollaborierte er mit der DJane Ada auf deren Remixalbum \"Adaptations Mixtape #1\", ist seitdem aber nur sporadisch als Musiker in Erscheinung getreten. Er engagierte sich in verschiedenen Hamburger Kunst- und Kulturprojekten, darunter die von ihm ins Leben gerufene Aktion \"Awesome Tapes from Your Kinderzimmer\", bei der er auf seiner Facebook-Seite dazu aufrief, alte selbstgemachte Cassetten-Aufnahmen einzuschicken.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/cosmicdj",
+                    "title": "Cosmic DJ bei SoundCloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11245.html",
+                "id": 11245,
+                "guid": "49d22f04-78c1-4a4e-86cb-5ebc845e65d7",
+                "logo": "/system/events/logos/000/011/245/large/olia.jpg?1576593351",
+                "date": "2019-12-28T03:00:00+01:00",
+                "start": "03:00",
+                "duration": "01:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11245-oliotronix",
+                "title": "Oliotronix",
+                "subtitle": "Game Boy live!",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "DJ X LIVE ACT performing a rollercoaster of dancy, ravy and glitchy tunes, spiced with unexpected voice/samples/drops and occasional bent toys bringing some improvised fun challenges to herself and sometimes the audience :)",
+                "description": "\"I had the pleasure to met Oliotronix in Denmark at the Chipwrecked Festival.\r\nHer set was one of my favorite, a blazing mix of chiptune, circuitbending and DIY culture delivered right on your face as a mega banging rave.\r\nI was blown away when I discovered she was improvising!\r\nCheck it out and follow her FB page and check for her live performances around Europe!\" (IANO, iano.bandcamp.com)\r\n\r\nSince 2017 her new music setup has taken shape in form of energetic performances using Gameboy DMG and various electronic noise machines still combined with an hooligan/techno/electro/rave/core DJ set. Feedback from the audience:\r\n1. \u201cWhat is exciting about DJ Oliotronix is she doesn't follow the trend but deliver crazy sets following her own taste while keeping it entertaining on a high level of intensity. Prepare to have fun!\u201c Madame Claude, Berlin\r\n2. \u201cVery original and eclectic, with interesting non-standard use of equipment!\u201d Galaxy Wolf, London\r\n2. \u201cGreat! Good energy and selection. Nice to see DJs enjoying themselves too!\u201d  Crux, London\u201c",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/oliotronix",
+                    "title": "Oliotronix on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11251.html",
+                "id": 11251,
+                "guid": "84ea0aa7-282b-4da8-8579-5be720d0b281",
+                "logo": "/system/events/logos/000/011/251/large/Bildschirmfoto_2019-12-23_um_21.43.28.png?1577133921",
+                "date": "2019-12-28T04:00:00+01:00",
+                "start": "04:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11251-therrorrythmus",
+                "title": "Therrorrythmus",
+                "subtitle": "Dubcore",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "Vor fundundzwanzig Jahren gabs krasses Techno-Acid und da gabs irgendwie echt verr\u00fcckte Raver, aber irgendwas fehlte da noch:\r\n\r\nEs m\u00fcsste so ne Musik geben, die so kaputt ist, dass die Neonazi/Hooligan/Gabba-Sporttanztypen mit ihren Volkswagenautos und ihren blonden Freundinnen und Bomberjacke und so, dass die das nicht gut finden - aber so die Punks und die Acidraver, dass die da Lust drauf haben.\r\n\r\nNasty rhythms treffen auf 808, sowohl in seinen heavy DJ Sets als auch in seinen eigenen Produktionen",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/terrorrythmus",
+                    "title": "Therrorrythmus bei SoundCloud"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
+            "Uptown": [
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11252.html",
+                "id": 11252,
+                "guid": "90575da3-3110-41bc-8920-cdb864decff9",
+                "logo": "/system/events/logos/000/011/252/large/LATIN.png?1577134134",
+                "date": "2019-12-27T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11252-latin_lounge",
+                "title": "Latin Lounge",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11253.html",
+                "id": 11253,
+                "guid": "a462b5c2-7c6c-4925-85da-90b4f0828e1c",
+                "logo": "/system/events/logos/000/011/253/large/RR_Logo_Grey_Background.png?1577197666",
+                "date": "2019-12-27T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11253-mohammed_atari_vs_yj_heimi",
+                "title": "Mohammed Atari vs. YJ Heimi",
+                "subtitle": "YouTube Jockeys",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "YJ Heimi ist YouTube-Jockey und Heimleiter der Restrealitaet.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11254.html",
+                "id": 11254,
+                "guid": "c8b423f5-69a6-4b90-9be3-c41689173490",
+                "logo": "/system/events/logos/000/011/254/large/kaubl.jpg?1577134415",
+                "date": "2019-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11254-kaubl",
+                "title": "Kaubl",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://kaubl.bandcamp.com/",
+                    "title": "Kaubl bei Bandcamp"
+                  },
+                  {
+                    "url": "https://soundcloud.com/kaubl",
+                    "title": "Kaubl bei SoundCloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11255.html",
+                "id": 11255,
+                "guid": "78361a3a-05f6-49b4-9ddb-5e56c15c5f40",
+                "logo": "/system/events/logos/000/011/255/large/djbosch.jpg?1577195839",
+                "date": "2019-12-27T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11255-dj_bosch",
+                "title": "DJ Bosch",
+                "subtitle": "DJ-Set",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Resident @multisex party in Ohm.\r\n\r\nFrom Berlin with Love.",
+                "description": "DJ Bosch aka Tobias is resident at Multisex party happening at Ohm/Berlin. The Multisex party promotes clarity on the dance floor along with diverse music. Depending on the booking, they create different dancing moods with classy tunes that craft a pure and effective house, disco and techno sound. Multisex is an attempt to encourage non-verbal communication on the dance floor. The goal is to get people together while dancing free. Besides that Tobias is doing the lights at the multisex partys and is a regular light operator at Berghain/Panoramabar in Berlin.\r\n",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/strobotobia",
+                    "title": "DJ Bosch bei Soundcloud"
+                  },
+                  {
+                    "url": "https://www.residentadvisor.net/dj/djbosch",
+                    "title": "DJ Bosch bei Resident Advisor"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11308.html",
+                "id": 11308,
+                "guid": "0195c187-3c0a-44e1-86a7-aa29fe326b5d",
+                "logo": null,
+                "date": "2019-12-27T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11308-joghurt_bambaata",
+                "title": "Joghurt Bambaata",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Unter gewaltigen Opfern, schreibt er eine Reihe von Geschichten mit Ortsnamen, Jahreszahlen und sonstigen Daten, die sich durchaus belegen lassen und in ihrer Wirklichkeit nicht anzuzweifeln sind. Diese Eckdaten sind nur Bruchst\u00fccke, die aus einer Summe von Erinnerungen zusammengesetzt wurden. Das tats\u00e4chlich gelebte und dies was wir zu erleben glaubten, ist ein Teil seiner Biographie, die lediglich eine nachtr\u00e4gliche Interpretation darstellt.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.mixcloud.com/bambaata/",
+                    "title": "Mixcloud"
+                  },
+                  {
+                    "url": "https://audioasyl.net/artist_artist.php?artist_id=250",
+                    "title": "Audioasyl"
+                  },
+                  {
+                    "url": "https://mp25.bandcamp.com/",
+                    "title": "Bandcamp"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11256.html",
+                "id": 11256,
+                "guid": "9d29ae04-e48a-4e8e-80d9-f413104859d5",
+                "logo": "/system/events/logos/000/011/256/large/Bildschirmfoto_2019-12-23_um_21.56.10.png?1577134621",
+                "date": "2019-12-28T00:00:00+01:00",
+                "start": "00:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11256-sonnensysteme",
+                "title": "Sonnensysteme",
+                "subtitle": "Downtempo DJ-Set",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "Die Sonnensysteme aka SOSY ist ein Kind einfacher Verh\u00e4ltnisse. Vor der Wende im Spa\u00df seiner Eltern entstanden, ist er in der Zeit nach dem Mauerfall aufgewachsen und erntete schon in der Schulzeit was er s\u00e4te. Neben Verwechselungen mit seinem Bruder, geht er auch einer verwandtschaftlichen Beziehung zu seiner Schwester nach.\r\nAls Emanzipation in einen zufriedenstellenden Zustand der Individualit\u00e4t machte sich der Drittgeborene neben seiner Nesth\u00e4kchent\u00e4tigkeit auf in die Welt der elektronischen Musik. Als Grundstein gilt seine Liebe zu knackigem dystopisch anmutendem Techno und anderen musikalischen Perlen zwischen Melodie, Kitsch, Echo und Ambient. Daraus entwickelte sich irgendwann in den 2010er Jahren die Idee alles etwas langsamer anzugehen: SOSY begann die Hits der Szene runterzupitchen. Und nun ist er DJ. Immernoch aus Halle an der Saale und trinkt gerne Sekt.\r\nIn einer Geschwindigkeit, fernab der des Lichts, sendet er seine kosmische Idee von Downtempo zwischen 90 und 108 BPM mit Schallgeschwindigkeit in die Weiten des \u00c4thers.\r\n\r\nSo sieht's aus. Ehrlich.\r\n\r\n",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/diesonnensysteme",
+                    "title": "Die Sonnensysteme auf SoundCloud"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
+            "Furo no ba": [
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11291.html",
+                "id": 11291,
+                "guid": "0dcfb808-1aec-4bf5-8721-0a441df98820",
+                "logo": null,
+                "date": "2019-12-27T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "03:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11291-translucid_caliprisun_mjut_many_moods",
+                "title": "translucid & Caliprisun (Mjut, Many Moods)",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "Leipziger Basis\r\nmjut / Das Konglomerat",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/transluciddream",
+                    "title": "https://soundcloud.com/transluciddream"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11292.html",
+                "id": 11292,
+                "guid": "40325549-bf1d-4ec4-be79-571c1a3ee3e9",
+                "logo": "/system/events/logos/000/011/292/large/12983890_1050699444986230_1952037125153403172_o.jpg?1577367604",
+                "date": "2019-12-27T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "02:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11292-seansteinfeger",
+                "title": "Seansteinfeger",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "Vinyl Selecta of finest Soul and Jazz Tunes.\r\nMusic lover // DJ // record collector // artist",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.facebook.com/sean.twobealive",
+                    "title": "https://www.facebook.com/sean.twobealive"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11293.html",
+                "id": 11293,
+                "guid": "18aa84e6-69a4-4e97-8ea2-142b260d1a04",
+                "logo": "/system/events/logos/000/011/293/large/avatars-000674658722-g6t6lg-t200x200.jpg?1577376408",
+                "date": "2019-12-27T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "02:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11293-zacharias_sonnenstadt",
+                "title": "Zacharias Sonnenstadt",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/zachariasmusic",
+                    "title": "Zacharias on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11294.html",
+                "id": 11294,
+                "guid": "029cca81-bc0a-4ee2-98b0-bd9cbe9f3fba",
+                "logo": "/system/events/logos/000/011/294/large/10378919_10152629077448848_2476204642174389821_n.jpg?1577368087",
+                "date": "2019-12-27T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "02:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11294-saetchmo",
+                "title": "Saetchmo",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "1000 Echochambers",
+                "description": "S\u00e4tche ist sowas von Teil der Familie - seine Echochamber l\u00e4uft regelm\u00e4ssig in der c-base, er f\u00e4hrt ne alte Feuerwehr und wer ihm krummkommt, merkt das schon.\r\n\r\nS\u00e4tchmoe is sooo part of the family - his Echochamber runs regularly in the c-base, he drives an old fire brigade and whoever annoyise him, will notices that.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.saetche.net/blog/category/echochamber/",
+                    "title": "Saetchmo Homepage"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11295.html",
+                "id": 11295,
+                "guid": "2a259855-433f-4fe9-ab11-34624fdcd6a2",
+                "logo": "/system/events/logos/000/011/295/large/pat-styx----w800_q70_----dd88725b7f24685e5d8e3fe5cfbd3778fbpage.jpg?1577368320",
+                "date": "2019-12-27T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "02:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11295-pat_styx",
+                "title": "Pat Styx",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "Looking forward to Schuppi",
+                "description": "Patstyx aka Schuppi war schon Sysadmin als man noch beim Internet angerufen hat - er zog weg, nach Halle, in Congressn\u00e4he. Legte schon immer auf, macht Podcasts und Drum\u00b4n Bass Events und wir freuen uns auf Schuppi.\r\n\r\nPatstyx was already sysadmin when you called the Internet, by dialing a number on moms phone - he moved away, to Halle, near the congress. Allways deejayed, does podcasts and Drum\u00b4n Bass events and we are looking forward to Schuppi.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://hearthis.at/pat-styx/",
+                    "title": "https://hearthis.at/pat-styx/"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11296.html",
+                "id": 11296,
+                "guid": "9e1fe58c-882f-4d0d-8901-1e8667bc8645",
+                "logo": null,
+                "date": "2019-12-28T01:00:00+01:00",
+                "start": "01:00",
+                "duration": "03:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11296-senor_sib_zeerone",
+                "title": "Se\u00f1or Sib & ZeerOne",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "",
+                "description": "Se\u00f1or SIB ist in der (guten) politschen Bildung t\u00e4tig und er sammelt (gute) Platten und er ist ein (guter) Freund - irgendein Bogen von jazzig zu drum\u00b4n bass war mal im Gespr\u00e4ch.\r\n---\r\nSe\u00f1or SIB is active in (good) political education and he collects (good) records and he is a (good) friend - some bow from jazzy to drum\u00b4n bass was once in the conversation.\r\n\r\n\r\nZeerOne der Philosoph mit diesem Humor darf nicht fehlen. Er ist der Inbegriff der gut gelaunten Stetigkeit und sein musikalisches Spektrum w\u00fcrde auf kein Display passen.\r\n---\r\nZeerOne the philosopher and with this humor must not be absent. He is the epitome of good-humoured consistency and his musical spectrum he would not fit on any display.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.mixcloud.com/senorsib/",
+                    "title": "https://www.mixcloud.com/senorsib/"
+                  },
+                  {
+                    "url": "https://soundcloud.com/zeerone-aka-twittytwister/tracks",
+                    "title": "https://soundcloud.com/zeerone-aka-twittytwister/tracks"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
             "Monipilami": [
               {
                 "id": 1355,
@@ -14676,9 +15238,553 @@
                 ]
               }
             ],
-            "Discotheque Nouveauancien": [],
-            "Uptown": [],
-            "Furo no ba": [],
+            "Discotheque Nouveauancien": [
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11258.html",
+                "id": 11258,
+                "guid": "45031df5-2dda-4e28-bfd9-3622b9552ac8",
+                "logo": null,
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11258-chaos_ballet",
+                "title": "Chaos Ballet",
+                "subtitle": "",
+                "track": "Music",
+                "type": "performance",
+                "language": "en",
+                "abstract": "We* dance against K.I.. With one another. For each other. Against Artificial Intelligence and structures that are increasingly forcing the artistic and creative onto pathways of the consumable and for a matriarchal society in which caring and creating opportunities for others structure the community.",
+                "description": "Recognizing and promoting creative processes is the challenge of a future society. How can this be done quite differently than ever before?\r\nWhat can a liberating interpretation of intellectual property look like?\r\n\r\nWhat is there the relation to existing accesses to and the distribution of (natural) ressources? How do we image self-organized technical and social infrastructures of tomorrow and the day after tomorrow, and how do we bring them to life? What form should negotion processes between individual, collective, institutional and privat economical bodies take on for this? Between the rigorous form of ballet and the unpredictability of chaos the Chaos Ballett creates possible scenarios for the future. For example automated logging of altruism by technically recording and evaluating somatic processes. Interactions and responses are captured, made exploitable and recognizable with blockchain-based contracts. Whatever doesn\u2019t exist either has yet to be or never will.\r\n\r\nWhat we don't solve with each other, we won't solve for society.\r\n\r\nStory by: Sina Kamala Kaufmann\r\n\r\nMusic by: Thomas Liebkose & Fabian Rack feat. Kabel Trace\r\n\r\nChaos Ensemble: Margarida Isabel de Abreu Neto, Lena Fritsch u.a.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11259.html",
+                "id": 11259,
+                "guid": "3bf319a1-240f-43ea-b7e0-2f3544ba305f",
+                "logo": "/system/events/logos/000/011/259/large/naroma.jpg?1577200253",
+                "date": "2019-12-28T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11259-naroma",
+                "title": "Naroma",
+                "subtitle": "DJ-Set",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "Naroma is a female dj, visual artist and ambassador for a free and passionate world.\u00a0\r\nbased now in Leipzig after 8 years in barcelona, she believes in music like in an universal language, some call her sets aromatherapy.\r\noften its an eclectic journey from downbeat-chill-groovy-uplifting-danceable-electronic-melodic-epic-give it all.\r\nshe has travelled on all continents, the last years her connections to south and north america are growing.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/naroma",
+                    "title": "naroma on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11260.html",
+                "id": 11260,
+                "guid": "eeac71ca-cbad-4233-9b5c-0152f92dc49e",
+                "logo": "/system/events/logos/000/011/260/large/leumund.jpg?1577200962",
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11260-pastor_leumund_live",
+                "title": "Pastor Leumund LIVE",
+                "subtitle": "Testsieger unter den analogen Zufallsgeneratoren",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "",
+                "description": "Since the stonage the dadaistic preacher is collecting german mutant mantras. For him, our language system is built on lies, which is why he mercilessly pours over his community with recycled slogans. With the music of Friedrich Greiling aka Mittekill his preaching has become danceable discursive disco dada.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "http://pastorleumund.com/",
+                    "title": "Pastor Leumund Homepage"
+                  },
+                  {
+                    "url": "https://soundcloud.com/leumund",
+                    "title": "Pastor Leumund auf Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11261.html",
+                "id": 11261,
+                "guid": "fbb5635a-ee4d-45fc-8d6d-a5029249878f",
+                "logo": "/system/events/logos/000/011/261/large/sportbrigade.jpg?1577201269",
+                "date": "2019-12-28T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11261-sportbrigade_sparwasser",
+                "title": "Sportbrigade Sparwasser",
+                "subtitle": "Techno",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/sportbrigade-sparwasser",
+                    "title": "Sportbrigade Sparwasser auf Soundcloud"
+                  },
+                  {
+                    "url": "https://www.residentadvisor.net/dj/sportbrigadesparwasser",
+                    "title": "Sportbrigade Sparwasser auf Resident Advisor"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11262.html",
+                "id": 11262,
+                "guid": "fb390aeb-65f7-4680-b151-faee15a16775",
+                "logo": "/system/events/logos/000/011/262/large/ruede_profile_2.png?1577201641",
+                "date": "2019-12-28T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "01:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11262-ruede_hagelstein_live",
+                "title": "Ruede Hagelstein LIVE",
+                "subtitle": "Live Techno",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "",
+                "description": "Wollte mal Rockstar werden. Zum DJ hat es gereicht. Zur Residenz im Watergate Club auch irgendwie. Aufgewachsen bei und nie erwachsen geworden in Berlin. Gearbeitet als Redakteur bei etlichen Stadtmagazinen. Philosophie-Studium fast nicht abgebrochen. Eigenes label DUAT Records gegr\u00fcndet, so ein Ding namens Restrealitaet auch. F\u00fcr immer Computer-Musik am machen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "http://water-gate.de/de/w-agency/ruede-hagelstein/ruede-hagelstein.html",
+                    "title": "Ruede Hagelstein Artist Info"
+                  },
+                  {
+                    "url": "https://soundcloud.com/ruede",
+                    "title": "Ruede Hagelstein on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11263.html",
+                "id": 11263,
+                "guid": "e3a566f5-c8e2-4cf9-8466-18b9904ab1c7",
+                "logo": "/system/events/logos/000/011/263/large/kturm.jpg?1577202054",
+                "date": "2019-12-29T00:00:00+01:00",
+                "start": "00:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11263-kollektiv_turmstrasse",
+                "title": "Kollektiv Turmstra\u00dfe",
+                "subtitle": "Techno / House",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "",
+                "description": "There are few artists operating in the house/techno milieu who offer much beyond functionality in their music. Those who bring more than this to the table always stand out from the crowd. Hamburg/Berlin duo Kollektiv Turmstrasse (Christian Hilscher and Nico Plagemann) are one of those rare acts whose music caters for both body and soul.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/kollektivturmstrasse",
+                    "title": "Kollektiv Turmstra\u00dfe auf Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11248.html",
+                "id": 11248,
+                "guid": "bf683026-9ed6-46c3-af35-557f8ccf10aa",
+                "logo": "/system/events/logos/000/011/248/large/brick.jpg?1577202191",
+                "date": "2019-12-29T02:00:00+01:00",
+                "start": "02:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11248-brick",
+                "title": "brick",
+                "subtitle": "Techno",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "brick habe ich schon \u00f6fter auflegen erlebt als alle anderen Techno DJs. Das kommt daher weil ich\r\nTechno eigentlich noch nie besonders spannend fand. Zu kalt, zu monoton, zu sehr seiner reinen\r\nFunktionalit\u00e4t zugewandt. brick erfindet Techno nicht neu, aber er pr\u00e4sentiert ihn in einem wohl\r\n\u00fcberlegten und angenehm temperierten Gewand. (Rudolf Mooshammer 2019 koloriert)",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/brick",
+                    "title": "brick on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11264.html",
+                "id": 11264,
+                "guid": "9d82d204-e969-4e01-9939-c3cce8c14c8a",
+                "logo": null,
+                "date": "2019-12-29T04:00:00+01:00",
+                "start": "04:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11264-t-data_sui",
+                "title": "T-Data&Sui",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "T-Data's and Sui's paths crossed three years ago at the 34C3. Since than their connection brings forth synergies in many different spheres, wherein a constant empathic dialog between these two friends evolves. Reaching from the sphere of queerfeminist reflection especially within clubculture to the sphere of fondly selected bass music.\r\nafter some years and try outs in different projects from Stuttgart over Frankfurt Main, to Leipzig they decided to give their process and love for eclectic bass rhythms a home and founded, the L1CK Collective this year, together with Valeska.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Uptown": [
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11265.html",
+                "id": 11265,
+                "guid": "e97b74d7-3efe-495b-b51b-38c849fa89bb",
+                "logo": null,
+                "date": "2019-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11265-seaslug_anonymous_pro",
+                "title": "seaslug+anonymous pro",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11266.html",
+                "id": 11266,
+                "guid": "8708798c-d18b-4a83-a2a5-e21aea34f7ee",
+                "logo": "/system/events/logos/000/011/266/large/brokewitches.jpg?1577202721",
+                "date": "2019-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11266-broke_witches",
+                "title": "Broke Witches",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/broke-witches",
+                    "title": "Broke Witches auf Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11267.html",
+                "id": 11267,
+                "guid": "5f8005a6-f5e4-4c12-b8c1-bf24a86a3bc6",
+                "logo": null,
+                "date": "2019-12-28T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11267-nele_cornelius",
+                "title": "Nele & Cornelius",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/nele-wittler",
+                    "title": "Niki Nebel bei Soundcloud"
+                  },
+                  {
+                    "url": "https://soundcloud.com/cornelius11",
+                    "title": "Cornelius bei Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11268.html",
+                "id": 11268,
+                "guid": "d85aee77-836c-412c-bd88-25cb15c6510c",
+                "logo": "/system/events/logos/000/011/268/large/eddiivo.jpg?1577203100",
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11268-eddi_ivo",
+                "title": "Eddi Ivo",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/eddiivo",
+                    "title": "Eddi Ivo bei Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11269.html",
+                "id": 11269,
+                "guid": "3842146f-a669-48df-90fa-64b4897cfcb8",
+                "logo": null,
+                "date": "2019-12-28T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11269-samtbody_samantha",
+                "title": "samtbody & samantha",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "samtbody aka lippstueck aka velvet hollywood, goldmund, biesenthal, air cushion finish:\r\nmusic you won\u2019t forget, music you will remember while listening to it for the first time, music that has been waiting for you, music you wanna keep without owning it, music that grows in your mind, music that would not have been what it becomes without you listening. \r\n \r\n***\r\n\u2026 as you all know once upon a time the world started in biesenthal. for us however, it all started with music from air cushion finish.\r\n(breakfast of champions / HH)\r\n \r\n\u2026 eclecticness returns with samtbody, a veteran from the Avant-garde Berlin nightlife whose magic craft and inventiveness take the listener on a psychic hike through experimental trails.\r\n(caja negra/tepeme musica / MEX)\r\n \r\n\u2026 beruhigt und beseelt.\r\n(pingipung / HH)\r\n \r\n\u2026 belongs in a movie soundtrack for sure.\r\n( manny\u2019nuf / NA)\r\n \r\n\u2026 the feeling of this journey lingers like having become the ocean itself.\r\n(annie sea / CA)",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/samtbody",
+                    "title": "samtbody on Soundcloud"
+                  },
+                  {
+                    "url": "https://www.aircushionfinish.com/",
+                    "title": "Air Cushion Finish"
+                  },
+                  {
+                    "url": "http://biesentales.com/",
+                    "title": "Biesentales Records"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11270.html",
+                "id": 11270,
+                "guid": "475835c4-e5b6-4bd0-ab24-367c193fea84",
+                "logo": "/system/events/logos/000/011/270/large/liasahin.jpg?1577203414",
+                "date": "2019-12-29T00:00:00+01:00",
+                "start": "00:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11270-lia_sahin_live",
+                "title": "Lia Sahin LIVE",
+                "subtitle": "Beatboxing",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "Die \u00fcbliche beatboxende rothaarige deutsche transgender Frau mit t\u00fcrkischem Migrationsvordergrund, digga.",
+                "description": "Lia \u015eahin bricht mit ihrer Art und Weise viele Gedanken und musikalische Grenzen auf.\r\nSie arbeitet seit 7 Jahren hauptberuflich als freischaffende K\u00fcnstlerin und hoppst zwischen feministischen Veranstaltungen, HipHop Open Mic\u00b4s, Electro Festival\u00b4s, Keynote Pr\u00e4sentationen und interaktiven Trommelevents hin und her und ist leidenschaftlich ein fester Bestandteil von Rap for Refugees e.V als Beatbox Coach und kreative Leitung. \r\n\u00dcber 1000 Gigs & Events hat sie innerhalb der letzten Jahre mit namhaften Vertretern einiger Branchen und Genre-Gr\u00f6\u00dfen durchgef\u00fchrt. \r\nAls leidenschaftliche Gamerin und Technik- affiner Mensch liebt sie die Kombination aus  nat\u00fcrlicher Stimme und alles was einem neue Technologien erm\u00f6glichen um ein neues Stimmbild zu generieren und Sounds zu erstellen. \r\n2017 spielte sie erfolgreich auf dutzenden Festivals und unterhielt die Menge stundenlang mit lediglich einer Loopstation App auf dem Iphone und einem Mikrofon. \r\nNach ihrem Coming-Out beschloss sie ihre F\u00e4higkeiten au\u00dferhalb ihrer eigenen Selbstverwirklichung weiter zu geben in der Kinder und Jugendsozialarbeit sowie im feministischen und politischem Kontext.\r\nSie produziert, sie singt, sie rappt, sie beatboxt und macht sich gerne \u00fcber unsere Gesellschaft lustig und das mit Herz. ",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "http://www.liasahin.com/",
+                    "title": "Lia Sahim Homepage"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
+            "Furo no ba": [
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11297.html",
+                "id": 11297,
+                "guid": "4975b859-a5ec-4973-85dc-fda5b280f895",
+                "logo": "/system/events/logos/000/011/297/large/avatars-000005638736-td0drl-t500x500.jpg?1577369021",
+                "date": "2019-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "03:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11297-zuurb",
+                "title": "Zuurb",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "Chillgoldmine",
+                "description": "zuurb ist eine wandelnde Chillgoldmine. Ob vor internationalen Gr\u00f6\u00dfen Drum\u00b4n Bass Sets astrein abzuliefern oder stundenlang melanchonische Knusper-Piano-Flocken rieseln zu lassen, er kann es.\r\n\r\nzuurb is a walking chillgoldmine, whether to deliver drum\u00b4n bass sets in front of international stars or to let melanchonic crunchy piano flakes trickle for hours, he can do it.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/zuurb/tracks",
+                    "title": "https://soundcloud.com/zuurb/"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11298.html",
+                "id": 11298,
+                "guid": "64c4ca69-fda7-4aa4-88c9-00b55c3f7efb",
+                "logo": "/system/events/logos/000/011/298/large/avatars-000084326793-4ev5nz-t500x500.jpg?1577369442",
+                "date": "2019-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "03:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11298-das_kfmw",
+                "title": "Das Kfmw",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "Irgendwelche Fragen?",
+                "description": "Das Kraftfuttermischwerk. Srlsy? Ihr kennt Ronny nich? Bester Mumpelkollege, Chillflaggenhochhalter, hat auch ein tollen Myspaceaccount.\r\n\r\nDas Kraftfuttermischwerk. Srlsy? You don't know Ronny? Best mate, chilloutmusic clockstone, also has a great myspaceaccount.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.kraftfuttermischwerk.de/blogg/",
+                    "title": "https://www.kraftfuttermischwerk.de/"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11299.html",
+                "id": 11299,
+                "guid": "20b6ed58-af2d-4ca4-bf68-a550019cf40d",
+                "logo": "/system/events/logos/000/011/299/large/avatars-000264205139-yaoumh-t500x500.jpg?1577369694",
+                "date": "2019-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "03:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11299-mr_jb",
+                "title": "Mr. JB",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "The master of mission.",
+                "description": "Mr. JB aka monkeyking ist die Geheimwaffe und der wohl am besten vorbereiteteste DJ im Shutterisland, ein wandelndes Musiklexikon und Meister der \u00dcberg\u00e4nge und genau darum bekommt er auch 6h Playtime.\r\n---\r\nMr. JB is the secret weapon and probably the best prepared dj in shutterisland, a walking music encyclopedia and master of transitions and that's exactly why he gets 6h playtime.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/monkeyking/tracks",
+                    "title": "https://soundcloud.com/monkeyking/"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11300.html",
+                "id": 11300,
+                "guid": "7f04d101-c36b-4916-8e5c-03cdccad1350",
+                "logo": "/system/events/logos/000/011/300/large/avatars-000020391851-gs6pj8-t500x500.jpg?1577370041",
+                "date": "2019-12-28T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "02:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11300-max_raschke",
+                "title": "Max Raschke",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/thebrick/tracks",
+                    "title": "https://soundcloud.com/thebrick/"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11301.html",
+                "id": 11301,
+                "guid": "3a2594b8-cb18-4360-9194-c6869d2c57bd",
+                "logo": "/system/events/logos/000/011/301/large/RB7URJtD_400x400.jpeg?1577370403",
+                "date": "2019-12-29T01:00:00+01:00",
+                "start": "01:00",
+                "duration": "03:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11301-42",
+                "title": "#42",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "\u2619\u22b0 soundtracks for successful living \u22b1\u2619",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/raute42/tracks",
+                    "title": "https://soundcloud.com/raute42/"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
             "Monipilami": [
               {
                 "id": 1362,
@@ -27730,9 +28836,471 @@
                 "links": []
               }
             ],
-            "Discotheque Nouveauancien": [],
-            "Uptown": [],
-            "Furo no ba": [],
+            "Discotheque Nouveauancien": [
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11271.html",
+                "id": 11271,
+                "guid": "1db63fa5-55a3-4c1b-9e38-61b9c2b90917",
+                "logo": "/system/events/logos/000/011/271/large/Madmotormiquel.jpg?1577204315",
+                "date": "2019-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "03:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11271-madmotormiquel",
+                "title": "Madmotormiquel",
+                "subtitle": "House",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "Since the magical 1980\u2019s, the species known as Raver focused on creating the perfect dance move to express on this dance-floor of life. Around the same time, Michael Neigenfend, a young boy from the limited-travel zone of West Berlin decided he wanted to find a sound that knew no limits to their dedication. Oh shit, another DJ is born.\r\n\r\nArmed with an expanding taste in classic punk rock and hip-hop, soon he was led into the world of powerful beats that the future-forming kids around him loved so much. He met them in the church of acid techno, big-beat and drum and bass\u2014a place where he jockeyed the discs for many weekends until it was clear he needed to have a say on those beats himself. Here, under the light of a crescent moon, a new producer is born.\r\n\r\nBy now the Berlin Wall was well and truly down and you could even buy small pieces of it from the shop, meaning that his home city was filled with more space than the ravers knew how to sing and dance about. So they squatted its old factories and made techno rituals in the neighbouring fields and danced and played and danced and played until one day someone said \u2018Hey, why not bring all the ideas of all the different people together and start something that will blow everyone away?\u2019 This is when the Bachstelzen came alive, and when the name Madmotormiquel became synonymous with everything the Berlin house music parade has been known for since.\r\n\r\nIn the midst of this happening, along with Sebo and Soukie & Windish, he formed the label URSL which some claim is a code word meaning \u2018Good Times\u2019.   Whether that\u2019s true or not, the success of the label continues to bring the good times fast and thick.  With his releases spreading to all corners of the planet and giving him the chance to make up for all the limited travel of his past, he now spends his weekends playing his music in exotic locations with nice people, helping us to perfect the art of shape-making and movement creation one dance-floor at a time.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/madmotormiquel",
+                    "title": "Madmotormiquel auf Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11272.html",
+                "id": 11272,
+                "guid": "ebcd2fe3-7ff7-4323-9949-e82345dbc5bf",
+                "logo": "/system/events/logos/000/011/272/large/danielleariellikittiecatflash-1.600x400.jpg?1577204601",
+                "date": "2019-12-29T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11272-danielle_arielli",
+                "title": "Danielle Arielli",
+                "subtitle": "Acid House",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "Danielle was always surrounded by music. Her mother teaching\r\nmusic was just the first introduction to singing, guitar and piano at\r\na young age. At 12 Danielle was already determined to make\r\nmusic, whether it be on machines or playing bass in the school\r\nband, she realised that music was her passion very early. Whether\r\nits a disco inspired set on the beach in summertime or a dirty acid\r\nhouse rave in a big dark room, you always know its Danielle on the decks. Her tight mixing techniques and attentive track selection of\r\nthe best house music make for a hell of a party.\r\nSince moving to Berlin from Tel Aviv in 2015 to pursue her love for\r\nmusic, she has played on festivals like Garbicz, Feel, 3000Grad,\r\nWaha (Romania), Sa Terza Metari (Sardinia) and clubs like Kater\r\nBlau, Mensch Meier, Wilden Renata and Instit\u00fct F\u00fcr Zukunft. Not to\r\nmentioned in her own home town, Tel Aviv, playing in some of the\r\nbest clubs like Alphabet. If she\u2019s not playing her firey sets\r\nsomewhere, you can find Danielle working in her Berlin studio.\r\nWith top hit releases on renown labels like Plastik People [US],\r\nKeno Records [DE], Guesthouse Music [US], Hungarian Hot Wax\r\n[UK], Refuge [AUS] and of course on her own imprint, Tooflez\r\nMuzik. In 2016 she started Tooflez Muzik as a party label, holding\r\nwild weekend long parties in off locations in Berlin. Since then\r\nTooflez Muzik has grown to be a monthly mixtape series\r\nshowcasing some of the best and hidden talents from around the\r\nworld, and releasing high quality house music and all its sub\r\ngenres, with a lot in the works for 2019 including a vinyl release in\r\nFebruary from Danielle herself.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/danielle-arielli",
+                    "title": "Danielle Arielli on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11273.html",
+                "id": 11273,
+                "guid": "474721f3-54a2-4717-9e0d-ce3fcdffc9aa",
+                "logo": "/system/events/logos/000/011/273/large/Dave-Dinger-03-1030x687.jpg?1577205680",
+                "date": "2019-12-29T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11273-dave_dinger",
+                "title": "Dave Dinger",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "Dave Dinger began his illustrious career in Berlins legendary Bar25 in his own, very special way. There, he didn\u2019t just play music, but actually built the DJ booths where the music was played from. This unique blend of passion for music and intrigue in aesthetic concepts has driven him through the mesmerising Berlin underground since the end of the '90s.\r\nDave is personalizing his workspace as a DJ according to his interpretation of what electronic music culture is all about. There is a certain warmth, honesty and depth throughout his work that transcends through both his musicality and his design treatments. As a core member of Berlins famous Bachstelzen Collective, he was one of the founders who blueprinted what got to be known as the typical Berlin style \u2013 an architecture of social, musical and aesthetic concepts.Using chaotic, wild and organic scrap wood in his constructions were his distinctive signature well before the term \u2018up-cycling\u2018 became hip. Bar25, the Katerholzig club and the Bachstelzen floor at Fusion Festival were prototypes of this time.\r\n\r\nHis recent works contain a more polarising focus; a love for minimalistic abstract geometry, and years of experience in project management. Nothing shows this development in a greater way than Garbicz Festival \u2014 whose natural, albeit utopian habitat has become a homebase for both his music and his design aesthetics. An invitation to create the celebrated Turmbu\u0308hne Stage at Fusion Festival\u2019s 20th anniversary along with a coveted gig on the stage marked a milestone for both of his careers. For Dave, spacial design and sound are tools for installing an arena for unconventional social interactions. A sphere where common aesthetics are to be challenged and will change therefore constantly.\r\n\r\nHis residency in KaterBlau helped him to build up his reputation as a DJ and to grow into the international realm. In the last years he has worked and played in Australia, New Zealand, India and all around Europe. There is a saying that \u2018To talk about music, is like dancing to architecture\u2019 Dave Dinger takes the latter part as a challenge. So let his music speak for itself \u2014 and dance to both. ",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/dave-dinger",
+                    "title": "Dave Dinger on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11274.html",
+                "id": 11274,
+                "guid": "130a2509-f733-4349-b9ba-95748ba59fff",
+                "logo": "/system/events/logos/000/011/274/large/David_Dorad_01.jpg?1577320337",
+                "date": "2019-12-30T01:00:00+01:00",
+                "start": "01:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11274-david_dorad",
+                "title": "David Dorad",
+                "subtitle": "Techno",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "David Dorad\u2014whose surname sounds like a fish dish ordered in the Spanish isles\u2014has, through\r\nhis two decade electronic romance, become a key element in the German dance scene. Born\r\nout of wedlock to techno and house, he delivers honest and driving sets that take us up and\r\nover, just before jolting us sideways.\r\nTravelling through the hotbed of the Berlin rave culture led him to be an integral part of its pro-\r\nvocative history. Founding Bachstelzen with friends at the flip of the millennium, these parties\r\npaved the pay for a subculture where dance floors became utopic adult playgrounds. Around\r\nthe same time, the infamous Bar25 opened its doors. Here, his dynamic stage persona found\r\na weekend home, and on all the other ones he gathered the troops at parties around the rest\r\nof Europe. Today he continues to move this way and is a regular at the likes of Fusion Festival\r\nand Garbicz while travelling between Europe, Asia and the Americas. Whether in foreign lands\r\nor home haunts, his powerful feeling for people and deep intuition for sound lights up the night\r\nand blooms through the morning.\r\nDorad\u2019s sets are unshazamable, dance floor hysterical and quietly historical. Cutting tracks\r\ntogether with as much care and finesse as a Japanese sushi chef, he creates stories from\r\na kicking selection of tunes. When woven together, they create a very sonic collage of \u201cHello\r\ndance floor my old friend\u201d. In his former life, he supervised continuity on the film set, now every\r\nset he plays is based on a strong sense of continuity, too. Whether solid and future-forward or\r\nbeautiful and minimalistic, his superb taste in techno, house and its close relatives wake us up\r\nand turn us on like a switch.\r\nWhether he was a child piano prodigy at age six who grew up feeding on the sounds of abs-\r\ntract jazz music, or if he grew up in East Germany as a punk kid behind the iron curtain, we don\u2019t\r\ncare anyway. David Dorad is about right now, and right now, like he\u2019s done forever, he turns on\r\nthe moment just at the moment when he turns on the night.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/david-dorad",
+                    "title": "David Dorad on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11275.html",
+                "id": 11275,
+                "guid": "0294c254-17db-4b08-ac0c-3dd2d385e019",
+                "logo": "/system/events/logos/000/011/275/large/Screenshot_2019-12-16_Piano_Lou.png?1577319767",
+                "date": "2019-12-30T03:00:00+01:00",
+                "start": "03:00",
+                "duration": "03:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11275-piano_lou_tars",
+                "title": "Piano Lou & Tars",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/piaonlou",
+                    "title": "Piano Lou on Soundcloud"
+                  },
+                  {
+                    "url": "https://soundcloud.com/tars-7",
+                    "title": "Tars on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
+            "Uptown": [
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11276.html",
+                "id": 11276,
+                "guid": "2d0c3a1a-25ac-4249-98ed-12a8f4bc2b3b",
+                "logo": null,
+                "date": "2019-12-29T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11276-chiara_salome",
+                "title": "Chiara Salome",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "Chiara Salome is a Berlin based DJ presenting an ambient techno set. Carefully selected tracks from genres like techno, spiritual music, drone, dark ambient, 90's IDM and even symphonic music are\r\nentangled into a marvellous tapestry of sound. She loves to play with music which is rich of textures, glowering bases and eatherical atmospheres providing the listener a meditative and trippy experience with surprising turns.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/Chiara-Salome",
+                    "title": "on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11277.html",
+                "id": 11277,
+                "guid": "a77ad085-cc67-4040-b554-1bb4b08783ce",
+                "logo": null,
+                "date": "2019-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11277-kitti_mimi",
+                "title": "Kitti Mimi",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11278.html",
+                "id": 11278,
+                "guid": "ed1c2e9f-ee0e-4186-af8f-a7a4ce003439",
+                "logo": null,
+                "date": "2019-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11278-alto_bloom",
+                "title": "Alto Bloom",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11279.html",
+                "id": 11279,
+                "guid": "53431b64-e3c6-42c8-a908-200af3864476",
+                "logo": null,
+                "date": "2019-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11279-kleine_klinke",
+                "title": "Kleine Klinke",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11280.html",
+                "id": 11280,
+                "guid": "2d538099-3572-4ec0-a8e0-f4d8770d0d75",
+                "logo": "/system/events/logos/000/011/280/large/krysina.jpg?1577206580",
+                "date": "2019-12-29T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11280-krystyna",
+                "title": "Krystyna",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/user-625109022",
+                    "title": "Krystyna on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11281.html",
+                "id": 11281,
+                "guid": "2eed16b6-c1a5-48be-a1f2-0d7819ca3457",
+                "logo": "/system/events/logos/000/011/281/large/dand.jpg?1577206777",
+                "date": "2019-12-30T00:00:00+01:00",
+                "start": "00:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11281-dan_bay",
+                "title": "Dan Bay",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/danbaymusic",
+                    "title": "Dan Bay on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
+            "Furo no ba": [
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11302.html",
+                "id": 11302,
+                "guid": "beb3c4ee-58ad-4137-923e-3df9694542a4",
+                "logo": "/system/events/logos/000/011/302/large/3b64-fcc5-4c30-b2b6-c977682cfa5a.jpg?1577371426",
+                "date": "2019-12-29T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "01:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11302-petroschi",
+                "title": "Petroschi",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "DARK REAL DARK//Spartacus\r\nPotsdam//Stethoscope Crew - WHWMF//GD\r\nSessions//World Of Deep Beats",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.mixcloud.com/Petroschi/",
+                    "title": "https://www.mixcloud.com/Petroschi/"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11303.html",
+                "id": 11303,
+                "guid": "ca96f525-ea5a-4750-8ed8-76da6d63b6be",
+                "logo": "/system/events/logos/000/011/303/large/3b64-fcc5-4c30-b2b6-c977682cfa5a.jpg?1577371725",
+                "date": "2019-12-29T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "02:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11303-tasmo",
+                "title": "_Tasmo",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "From the family ...",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://hearthis.at/tasmo/",
+                    "title": "https://hearthis.at/tasmo/"
+                  },
+                  {
+                    "url": "https://tasmo.rocks/",
+                    "title": "Tasmo's Website"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11304.html",
+                "id": 11304,
+                "guid": "dcb44bd8-e344-4519-8a50-04bad57e99d9",
+                "logo": null,
+                "date": "2019-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "02:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11304-beh",
+                "title": "Beh",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11305.html",
+                "id": 11305,
+                "guid": "309f5a09-b6c3-4b21-b5bb-8ef005c649d4",
+                "logo": "/system/events/logos/000/011/305/large/avatars-000047545935-zcejx9-t200x200.jpg?1577372714",
+                "date": "2019-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "02:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11305-barbnerdy",
+                "title": "Barbnerdy",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "Basic chillout",
+                "description": "Barbnerdy ist Teil der Congresschillabteilung - Gemeinsam ihre gute Musik mit viel Bass h\u00f6ren, das ist n\u00e4mlich ihr Steckenpferd. \r\n---\r\nBarbnerdy is part of the Congresschill department - listening together to her good music with lots of bass, that's her hobby.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/barbnerdy/tracks",
+                    "title": "https://soundcloud.com/barbnerdy/"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11306.html",
+                "id": 11306,
+                "guid": "205dfbf2-2516-4360-b585-3c264e08e106",
+                "logo": "/system/events/logos/000/011/306/large/avatars-000353179037-fas8es-t500x500.jpg?1577372951",
+                "date": "2019-12-29T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "03:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11306-mike_lait_svenni",
+                "title": "Mike Lait & Svenni",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "Music that feels like a warm blanket.",
+                "description": "Mike Lait baut schon seit Jahren Deko auf dem Congress.\r\nDas kann er gut. Auch wirklich gut kann er Musik auflegen, die sich wie eine warme Kuscheldecke anf\u00fchlt.\r\n\r\nMike Lait has been building deco at the congress for years.\r\nHe's good at that. He is also good at put on music that feels like a warm blanket.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/mikelait/tracks",
+                    "title": "https://soundcloud.com/mikelait/"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11307.html",
+                "id": 11307,
+                "guid": "7443f848-d5c4-4e47-8284-1a3159814f13",
+                "logo": null,
+                "date": "2019-12-30T00:00:00+01:00",
+                "start": "00:00",
+                "duration": "04:00",
+                "room": "Furo no ba",
+                "slug": "36c3-abfahrplan-11307-plasma",
+                "title": "Plasma",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Monipilami": [
               {
                 "id": 1372,
@@ -38038,8 +39606,300 @@
                 "links": []
               }
             ],
-            "Discotheque Nouveauancien": [],
-            "Uptown": [],
+            "Discotheque Nouveauancien": [
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11282.html",
+                "id": 11282,
+                "guid": "065d8c48-b8ce-447e-8d90-e8675676f521",
+                "logo": "/system/events/logos/000/011/282/large/pkirn.jpg?1577207142",
+                "date": "2019-12-30T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11282-peter_kirn_workshop",
+                "title": "Peter Kirn Workshop",
+                "subtitle": "techno as folk instrument: Open technology for music making, and its potential",
+                "track": "Music",
+                "type": "other",
+                "language": "en",
+                "abstract": "",
+                "description": "Who's afraid of a planet of producers? Musical computation by necessity was once restricted to advanced laboratories. But electronic noise has come in cycles of democratization, liberation, and creative misuse.\r\n\r\nA new wave of tools makes powerful sonic capabilities available in free and open source platforms for software and hardware. Here's an overview of the state of some of those tools. We'll focus in particular on VCV Rack, the software recreation of modular synthesizers, which is both open to developers and still provides a pathway for software and hardware makers to earn a living for their products. We'll try a brief hands-on to see how this makes modular synthesis concepts accessible, via free software on Mac/Windows/Linux. Then, we'll zoom out to the larger landscape of tools and how they could reshape music production and instrument making. \r\n\r\nRather than see technology alone as a faceless cultural force, these tools - and techno as genre - demonstrate the potential of participatory technology. The communities around them can become more powerful as they grow, rather than extractive or limited, sharing information and developing audiences and makers in parallel.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/peterkirn",
+                    "title": "Peter Kirn on Soundcloud"
+                  },
+                  {
+                    "url": "https://vcvrack.com",
+                    "title": "VCV Rack"
+                  },
+                  {
+                    "url": "https://cdm.link ",
+                    "title": "cdm"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11284.html",
+                "id": 11284,
+                "guid": "883d24a2-dbe3-4098-be00-9aeec9217738",
+                "logo": "/system/events/logos/000/011/284/large/avatars-000125241119-1q2ach-t200x200.jpg?1577375686",
+                "date": "2019-12-30T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11284-os_x_y_local_prophets_live",
+                "title": "OS/X.Y. (Local Prophets) live",
+                "subtitle": "Live Electronic Jamming",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "",
+                "description": "OS/X.Y. is NSDOS and Aerodynamika, the co-founders of EightOS. In this set we will explore the\r\nnotion of non-equilibrium stability and variability in music in relation to movement. We are also\r\nopening our process up for a jam session, so in case you want to contribute to our source code,\r\nplease, join the day before at M3.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/localprophets",
+                    "title": "localprophets on Soundcloud"
+                  },
+                  {
+                    "url": "http://localprophets.org/",
+                    "title": "LOCAL PROPHETS"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11283.html",
+                "id": 11283,
+                "guid": "63dd321e-858d-4f10-9c4a-a4d0d2fb785f",
+                "logo": "/system/events/logos/000/011/283/large/pkirn.jpg?1577207265",
+                "date": "2019-12-30T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11283-peter_kirn_live",
+                "title": "Peter Kirn live",
+                "subtitle": "Live electronics",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "",
+                "description": "PETER KIRN fuels his love of techno and dancefloors with a deep background in experimental music and machines. He's released his own music on Detroit Underground, Snork Enterprises, Instruments of Discipline, and his imprint Establishment, as well as engaging collaborations from architecture and spatial sound to modern dance. As an organizer of open collaborative performance labs, he's worked with CTM, MUTEK.mx, STUK, and Nusasonic/WSK festivals. He writes and speaks about music making and creative technologies, including running the daily site CDM (cdm.link) and co-producing the MeeBlip synthesizer hardware line.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/peterkirn",
+                    "title": "Peter Kirn on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11285.html",
+                "id": 11285,
+                "guid": "640b1920-497a-4811-982b-760157f00bfb",
+                "logo": null,
+                "date": "2019-12-30T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11285-dj_internet_offline",
+                "title": "DJ Internet Offline",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "DJ Internet Offline \r\nIch bin jetzt bei SoundCloud - link in bio",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11286.html",
+                "id": 11286,
+                "guid": "8dfafd9f-2428-4434-a324-af5282b78f5e",
+                "logo": null,
+                "date": "2019-12-30T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "01:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11286-irq7_live",
+                "title": "irq7 live",
+                "subtitle": "Chiptune",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "",
+                "description": "irq7 is a so called \"chiptune-artist\" who spend a lot of time using old computer-hardware like Gameboys, Commodore-computers and other gadgets to produce a new kind of music.\r\nCheesy melody's and bumping beats are building dance-tracks, which are not only interesting for fans of retro-sounds. \r\nThe songs are somewhere between Electro, Breaks, Drum & Bass and oldschool Chiptunes.\r\n\r\nHe is playing regularly live-shows since 2006 at many locations supporting international acts (Vienna, New York, Cologne, Frankfurt...). \r\n\r\nThe first full length album was released in spring 2010 and called \"Revenge of the Calm\". It was produced one with just one Gameboy.\r\nA few month later, the \"It's not me EP\" was released which contains cover-versions of his favorite songs coming from old computers like the Commodore-C64 and the Amiga.\r\nIn 2011 the \"Girls & Gameboys EP\" was released and well received. The latest release is from 2018 and called \"Large Chiptune Collider\" and distributed on audio-tape only.\r\n\r\nBeside Gameboy-music, irq7 is focusing on tiny music-instruments and gadgets. All activities are under the umbrella-term \"Noizebox\", \r\nand can be found at http://irq7.blogspot.com. \"Noizebox\" is not just the name of the blog - in fact it is a battery-powered speaker \r\nbuild from various recycled electronic components. You can simple sit on the Noizebox and play with various electronic devices (e.g. Gameboy, Keyboards, Synth's etc.) \r\n\r\nirq7 is also organizing a annual chiptune-festival in Nuremberg called \"CHIP HITS THE FAN\" featuring international Artist, Workshops and an Open-Stage.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "http://soundcloud.com/irq7",
+                    "title": "irq7 on Soundcloud"
+                  },
+                  {
+                    "url": "http://irq7.blogspot.com",
+                    "title": "irq7's Website"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11311.html",
+                "id": 11311,
+                "guid": "bb51094b-0fab-42b4-8728-090b35110052",
+                "logo": "/system/events/logos/000/011/311/large/iron-curtis?1577728654",
+                "date": "2019-12-31T00:00:00+01:00",
+                "start": "00:00",
+                "duration": "02:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11311-iron_curtis",
+                "title": "Iron Curtis",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "On the continent of electronic music, Johannes Paluka has travelled far and wide, collapsing musical boundaries with enviable ease. Under the moniker of Iron Curtis, the Berlin-based creates his complex, hauntingly beautiful productions from a range of eclectic styles and influences. Be it House, Acid or soulful Techno \u2013 his sound moves in the equilibrium of reduced, but never minimal. Flashes of kitsch brighten the dark universe of Iron Curtis, but fail to interfere with the melancholy subtext. As far as leftfield electronic music is concerned and as long as he sees a chance to break a few genre rules here or there, Iron Curtis is brimming with ideas.",
+                "description": "Making his debut in 2008 with an EP on Hamburg\u2019s beloved Mirau, he made even more good impressions that year with a contribution to the Deetron\u2019s Fuse. Apart from releasing House on labels like Office, Retreat or Smallville, Paluka runs the project Achterbahn D'Amour with his longtime friend Jool aka Edit Piafra. Here, they focus on Acid infused Techno, electrifying audiences with their shows and releases on L.A based Acid Test imprint. His latest project is called Moon \u2013 a collaboration with Johannes Albert from Frank Music, where the two friends exhibit their love for classic Electro and stripped down Techno.\r\n\r\nBut wherever his musical interests take him, Iron Curtis will always be adding a little soul in his compositions. This is the magic thread that runs through all of his productions and it\u2019s what Iron Curtis transfers from his releases to his live gigs as well. As a DJ he is as inspired and versatile as he is a producer, skilfully taking the dancefloor into the deep and diverse corners of modern dance music.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/iron-curtis/",
+                    "title": "Iron Curtis on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11288.html",
+                "id": 11288,
+                "guid": "c25a7326-4357-477c-8c6d-123e2c826aac",
+                "logo": null,
+                "date": "2019-12-31T02:00:00+01:00",
+                "start": "02:00",
+                "duration": "01:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11288-giessen_offline_live",
+                "title": "gie\u00dfen offline live",
+                "subtitle": "",
+                "track": "Music",
+                "type": "concert",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11289.html",
+                "id": 11289,
+                "guid": "54aaa838-d4c1-49c2-a83d-c84ca214d72f",
+                "logo": null,
+                "date": "2019-12-31T03:00:00+01:00",
+                "start": "03:00",
+                "duration": "03:00",
+                "room": "Discotheque Nouveauancien",
+                "slug": "36c3-abfahrplan-11289-marko_morelle",
+                "title": "Marko Morelle",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://soundcloud.com/chaishop-com/dj-marco-morelle-germany",
+                    "title": "Marko Morelle on Soundcloud"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
+            "Uptown": [
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11290.html",
+                "id": 11290,
+                "guid": "c2aa1a7a-75d4-480b-bc8b-fddbca22841d",
+                "logo": "/system/events/logos/000/011/290/large/wando.jpg?1577208367",
+                "date": "2019-12-30T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11290-wando_waiato",
+                "title": "Wando Waiato",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "",
+                "description": "I love to hear music. And I love to hear what it sounds like when two tracks start singing together, when they like each other. It's their way of making babies. Immediately after a first kiss between their parents, these children come to life on a cosy dance floor, surrounded by a warm and friendly twilight. Sometimes protected by concrete in the urban jungle. Sometimes hiding behind trees in the deep forests of mother earth.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.mixcloud.com/wando-waiato/",
+                    "title": "Wando Waiato on Mixcloud"
+                  }
+                ],
+                "attachments": []
+              },
+              {
+                "url": "https://fahrplan.events.ccc.de/congress/2019/Lineup/events/11309.html",
+                "id": 11309,
+                "guid": "c1308108-96bf-4376-81ee-5ca3a8aee0c2",
+                "logo": "/system/events/logos/000/011/309/large/asthma?1577465342",
+                "date": "2019-12-30T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "02:00",
+                "room": "Uptown",
+                "slug": "36c3-abfahrplan-11309-dj_asthma",
+                "title": "DJ Asthma",
+                "subtitle": "",
+                "track": "Music",
+                "type": "djset",
+                "language": "en",
+                "abstract": "your favourite asthmatic from Mannheim, Germany! ",
+                "description": "What started with producing techno music a few years back has now come to the next step of evolution!\r\nBut not with focus on straight thundering techno - electro & breaks, sometimes house is what DJ Asthma is all about.\r\n\r\n\"Motto\":\r\n\r\nSie rufen an - ich lege auf\r\n",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [
+                  {
+                    "url": "https://www.mixcloud.com/djasthma/",
+                    "title": "on Mixcloud"
+                  },
+                  {
+                    "url": "https://soundcloud.com/pitchbentmusic",
+                    "title": "Soundcloud"
+                  }
+                ],
+                "attachments": []
+              }
+            ],
             "Furo no ba": [],
             "Monipilami": [],
             "OIO Workshop Dome": [

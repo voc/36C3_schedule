@@ -1,5 +1,5 @@
 <schedule>
-  <version>mkdir; lounges 707; chaos-west 1.0; chaoszone 0.14; komona 0.32; sendezentrum 4.5; lightning Holmium; art-play 0.26; cdc 3; wiki 2020-01-15 11:41</version>
+  <version>mkdir; lounges 707; chaos-west 1.0; open-infra 23; wikipaka 0.18; chaoszone 0.14; komona 0.32; sendezentrum 4.5; lightning Holmium; art-play 0.26; cdc 3; wiki 2020-01-15 11:50</version>
   <conference>
     <acronym>36c3</acronym>
     <title>36th Chaos Communication Congress</title>
@@ -2130,7 +2130,309 @@ https://hearthis.at/petrosilius/keintraum/</description>
         <answers/>
       </event>
     </room>
-    <room name="OIO Stage"/>
+    <room name="OIO Stage">
+      <event id="376" guid="989bacb7-b112-5f02-afc3-6c112aab3435">
+        <logo/>
+        <date>2019-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <room>OIO Stage</room>
+        <slug>RSGMFF</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/RSGMFF/</url>
+        <title>Generalprobe Stage</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Finales Trockenschwimmen auf der Bühne mit Licht, Ton, Video, Streaming</abstract>
+        <description>Speaker wird noch gesucht für Powerpoint-Karaoke oder "Autocomplete Texting" (requires audience)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Adorfer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="379" guid="a01886bc-c6f6-5598-bdef-59d89b73def5">
+        <logo/>
+        <date>2019-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>DQ3DBL</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/DQ3DBL/</url>
+        <title>Opening Session</title>
+        <subtitle/>
+        <track>OIO</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Eröffnung des OIO, der Bühne und Vorstellung aller Assemblies auf dem OIO</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="139">Peter</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="389" guid="84ed569f-8e4b-5539-8151-3e53c7b7d184">
+        <logo>/media/36c3-oio/images/T7XNAT/malta-flugzeug-wasser_VxtX0IJ.jpg</logo>
+        <date>2019-12-27T14:45:00+01:00</date>
+        <start>14:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>T7XNAT</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/T7XNAT/</url>
+        <title>SearchWing - Rettungsdrohne im Mittelmeer</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>SearchWing baut eine Rettungsdrohne für die zivilen Rettungsorganisationen im Mittelmeer wie Sea-Watch, Sea-Eye und Resqship. Wir beschreiben den Aufbau, die Tests auf dem Mittelmeer, die Herausforderungen beim Bau und beim Einsatz des autonomen Flugzeugs und werfen einen Blick auf die verwendeten Bilderkennungsalgorithmen.</abstract>
+        <description>Wir helfen zivilen Rettungsorganisationen im Mittelmeer bei der Suche nach Schiffbrüchigen. In diesem Talk berichten wir von den Schwierigkeiten und Herausforderungen beim Bau einer autonomen Drohne, die für Einsatz im Mittelmeer geeignet ist. Wenn beispielsweise die Akkus auf dem Flughafen Hamburg im sicheren Schrank verbleiben, weil einer vergessen hat die Akkus für den Flug anzumelden... Wir erläutern den technischen Aufbau mit PixRacer Hardware, Mini Talon EPO Rumpf und den anderen Komponenten. Ungewöhnlich im Vergleich zum klassischen Modellflug ist der Long Range Telemetrie Funk, der große Akku (10000 mAh bei 2kg Fluggewicht) und das ganze Salzwasser :-(. Im Februar 2019 waren wir für Tests auf Malta und im Mai 2019 hat Björn dann den ersten Einsatz im Mittelmeer in Zusammenarbeit mit ResQShip e.V. gemacht. Deshalb können wir auch die Einsatzerfahrungen schildern - wie man das Flugzeug auf dem Schiff startet und landet. Zum Einstieg geben wir auch eine Zusammenfassung der Situation der Seenotrettung im Mittelmeer.&#13;
+Unser Flugzeug sammelt im Flug Bilder, die im Anschluss vom Flugzeug geladen und analysiert werden. Um diese manuelle Bildanalyse zu beschleunigen entwickelen wir auch Computer Vision Algorithmen - auch davon werden wir auf dem Talk einen Überblick geben. Eine Person aus dem Computervision-Team (Petrosilius) hatte bereits letztes Jahr auf der Freifunkbühne dazu einen Vortrag gehalten.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="151">Friedrich Beckmann</person>
+          <person id="152">KingBBQ</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="365" guid="1cc57eb1-b131-5ea5-b970-d4af83ceb573">
+        <logo/>
+        <date>2019-12-27T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>JDASEQ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/JDASEQ/</url>
+        <title>Hamnet – introduction into a wireless backbone</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>We take a quick dive into the Highspeed Amateurradio Multimedia NETwork the wireless backbone of the European Amatuerradio Community. It’s uses mostly commercial hardware on it’s own frequencies beneath the 2,4 and 5 GHz wifi bands. The net is routed with it’s own ipv4 private network consisting of multiple 44.xxx.000.000/16 blocs.</abstract>
+        <description>A short overview on what the Hamnet is and how it came to be. Not forgetting all the challenges of technical and legal kind that come with running and building the Net.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="135">Lars Rokita</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="358" guid="031fc5c8-09c3-5490-ad8e-3858d391763b">
+        <logo/>
+        <date>2019-12-27T16:45:00+01:00</date>
+        <start>16:45</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>GWFPXV</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/GWFPXV/</url>
+        <title>Observations on societal and technological changes in the DPRK</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>The Democratic People's Republic of Korea (North Korea) is a hot topic in the media. The peninsula is changing rapidly, but how is that reflected in life on the ground? What is it like to live in Pyongyang? Are the externally reported societal changes and developments in technology also visible in everyday life? This talk will describe modern urban life in Pyongyang, and the recent forces driving change.</abstract>
+        <description>The talk will particularly focus on observations around the state of youth mindset towards change and technology. For example, what are the future elites' attitudes towards entrepreneurship in an officially communist country? What small signals of changing attitudes can we observe that might influence the opening of the county? Presenting the realities of this environment leads us to the demo of consumer technology, and presented that opportunities for both societal change and technological development might be broader than we often see. We will present this deep dive to North Korea from the perspective of two foreigners who have been spending months at a time in Pyongyang and have been studying it since 2012.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="131">Jukka-Pekka Heikkilä</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="343" guid="e0cc4db9-1ca6-5ded-a3db-1625a22f27dd">
+        <logo>/media/36c3-oio/images/C33LPX/qaul-sing-blau_512_X3u9MVw.png</logo>
+        <date>2019-12-27T17:50:00+01:00</date>
+        <start>17:50</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>C33LPX</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/C33LPX/</url>
+        <title>Refactoring qaul.net in Rust (Internet independent mesh communication App)</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Concepts, goals, implementations and the lessons learned from rewriting qaul.net decentralized messenger in rust.</abstract>
+        <description>qaul.net is a Internet independent wifi mesh communication app with fully decentralized messaging, file sharing and voice chat. At the moment we are rewriting the entire application in rust, implementing our experience of 8 years off the grid peer2peer mesh communication, with a mobile first approach and a network agnostic routing protocoll wich can do synchronous as well as delay tolerant messaging. &#13;
+&#13;
+We are currently rewriting qaul.net 2.0 in rust with a new network agnostic routing protocol, identity based routing and delay tolerant messaging. The talk will show our learnings and the journey ahead of us at the alpha stage of the rewrite.&#13;
+&#13;
+* Homepage: https://qaul.net&#13;
+* Code Repository: https://git.open-communication.net/qaul/qaul.net</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="120">Mathias Jud</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="361" guid="61ab92a1-92e5-56ff-9fa8-bb1156c73988">
+        <logo/>
+        <date>2019-12-27T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:45</duration>
+        <room>OIO Stage</room>
+        <slug>XHLTUD</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/XHLTUD/</url>
+        <title>re:claimID - Self-sovereign, Decentralised Identity Management and Personal Data Sharing [YBTI/wefixthenet session]</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>In this talk we present re:claimID, a decentralized, self-sovereign identity&#13;
+management system. re:claimID allows users to reclaim authority over their&#13;
+identities and personal data. The system is built on top if a&#13;
+state-of-the-art, decentralized directory service: The GNU Name System.&#13;
+Built-in cryptographic mechanisms allow users to selectively disclose&#13;
+personal data and the directory service ensures that this data is accessible&#13;
+to authorized parties even if the user is offline. Through OpenID Connect,&#13;
+integration and use of re:claimID is straight-forward and authorization&#13;
+flows are familiar. In this talk, we present the current state of re:claimID&#13;
+as well as a future roadmap.</abstract>
+        <description>Today, users are often required to share personal data, like email&#13;
+addresses, to use services on the web. As part of normal service operation,&#13;
+such as notifications or billing, services require access to -- ideally&#13;
+fresh and correct -- user data. Sharing attributes in the Web today is often&#13;
+done via centralized service providers to reduce data redundancy and to give&#13;
+services access to current, up-to-date information even if the user is&#13;
+currently offline. Abuse of this power is theoretically limited by local&#13;
+laws and regulations. But, the past has shown that even well-meaning&#13;
+identity providers struggle to keep user data safe as they become major&#13;
+targets for hackers and nation state actors while striving for monetizing&#13;
+anonymized statistics from these data. We advocate for a new, decentralized&#13;
+way for users to manage their identities for the following reasons:&#13;
+&#13;
+*       The current state of omniscient identity providers is a significant&#13;
+threat to the users' privacy.&#13;
+&#13;
+*       Users must completely trust the service provider with respect to&#13;
+protecting the integrity and confidentiality of their identity in their&#13;
+interest.&#13;
+&#13;
+*       The service provider itself is facing substantial liability risks&#13;
+given the responsibility of securely managing potentially sensitive personal&#13;
+data of millions of users.&#13;
+&#13;
+ &#13;
+&#13;
+We present re:claimID, a decentralized identity service with the following&#13;
+properties:&#13;
+&#13;
+*       Self-sovereign: You manage your identities and attributes locally on&#13;
+your computer. No need to trust a third party service with your data.&#13;
+&#13;
+*       Decentralized: You can share your identity attributes securely over&#13;
+a decentralized name system. This allows your friends to access your shared&#13;
+data without the need of a trusted third party. &#13;
+&#13;
+*       Standard-compliant: You can use OpenID Connect to integrate reclaim&#13;
+in your web sites.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="128">dvn</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="370" guid="6f9aaed7-537d-50b6-a5e8-25ef1f65583d">
+        <logo/>
+        <date>2019-12-27T20:50:00+01:00</date>
+        <start>20:50</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>VSV8Y8</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/VSV8Y8/</url>
+        <title>SaveTheInternet - Die Urheberrechtsreform als Zündfunke demokratischer Teilhabe</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Eine kurze Erzählung von den Anfängen der Protestbewegung bis heute und darüber hinaus. Wenn eine spontan gebildete Menge an Menschen beginnt die Werkzeuge der Demokratie zu nutzen ist das vorläufige Ergebnis eine der größten Petitionen weltweit und über 200.000 kreativ Protestierende auf den Straßen Europas. War es das schon oder kommt da noch etwas? Welche Auswirkungen haben demokratische Werkzeuge wie Petitionen und Demonstrationen? Kann man die nächsten Proteste voraussehen oder wie entstehen Wellen der Aufmerksamkeit? Hat sich eine neue Empörung zum ersten oder zum letzen Mal aufgetan? Von vernetzen Livestreams während der Proteste bis zu Community Aktionen wie Meme-Events und Briefraids.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="137">segal</person>
+          <person id="144">Thomas Knebl</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="386" guid="c6250135-e22e-5951-be50-4710f1064ed6">
+        <logo/>
+        <date>2019-12-27T21:20:00+01:00</date>
+        <start>21:20</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>MMB78C</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/MMB78C/</url>
+        <title>Buying Snacks via NFC with GNU Taler</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>##### Motivation&#13;
+In the digital age the privacy has become an important matter. But with&#13;
+the current digital payment methods the privacy of the user is not&#13;
+guaranteed. To avoid the data sharing, the Taler team implemented a&#13;
+digital form of cash.&#13;
+&#13;
+##### Project&#13;
+To demonstrate the payment system we developed an interface for a snack&#13;
+machine based on GNU Taler. This implementation allows the customer to&#13;
+pay with a smartphone app via NFC or QR-Code.&#13;
+&#13;
+##### Team&#13;
+The project was realized by Taler in cooperation with two students from&#13;
+Bern University of Applied Sciences.</abstract>
+        <description>In the talk the audience will become a little insight into the GNU Taler Project and the aim of the developed Snack Machine Interface. The approach to develop an interface between the Taler Backend and the snack machine will be explained as well as the challenges which come with such a project. Further the implemented hard- and software stacks are presented.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="147">Dominik Hofer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="DLF- und Podcast-Bühne">
       <event id="925" guid="ebbee1bc-883c-5413-a9ba-f9c09bfd1292">
         <logo/>
@@ -2382,7 +2684,271 @@ Wir möchten uns darüber austauschen, wie Wissenschaft unserer Meinung nach kom
         <answers/>
       </event>
     </room>
-    <room name="WikiPaka WG: Esszimmer"/>
+    <room name="WikiPaka WG: Esszimmer">
+      <event id="598" guid="b931d00c-d364-55d2-ab1e-80d2b2af336d">
+        <logo/>
+        <date>2019-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:45</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>A3ZPHC</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/A3ZPHC/</url>
+        <title>#chaosPatinnen opening event</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>en</language>
+        <abstract>Welcome Ceremony for the ChaosPatinnen Assembly (German and English)</abstract>
+        <description>Is this your first visit to Congress and you're unsure if you will fit in, visiting alone, or are you a part of a minority at the event? ChaosPatinnen may be for you! Unfortunately, SignUps have already ended and all mentees have been matched into groups, so if you have not yet signed up, find yourself a helpful Hacker!&#13;
+&#13;
+This is the opening event for mentees to meet their mentors, get to know more about the Assembly, and who to turn to for help! From here, we're off to the 11:00AM Keynote!&#13;
+&#13;
+-ChaosPatinnen Orga</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="94">Chaosmentors</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="560" guid="1227e67b-fe22-5065-ac6b-5677b64b0971">
+        <logo/>
+        <date>2019-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>AMPBFW</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/AMPBFW/</url>
+        <title>Querying Linked Data with SPARQL and the Wikidata Query Service</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>An introduction to querying linked data, using the SPARQL query language and the free knowledge base Wikidata.</abstract>
+        <description>Which films starred more than one future head of government? What’s the largest city with a female mayor? And when did women finally outnumber Johns in the House of Commons? These are the kinds of questions that **linked data** can answer.&#13;
+&#13;
+This workshop will give an introduction to the SPARQL query language, showing how it can be used to answer these and other questions, using the free knowledge base **Wikidata** as the data source.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Lucas Werkmeister</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="575" guid="9e71d30b-a863-5ab2-a16b-599200aba5f1">
+        <logo/>
+        <date>2019-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>VN8MEQ</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/VN8MEQ/</url>
+        <title>Live querying: let’s explore Wikidata together!</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>You can find a lot of interesting, useful or amusing information on Wikidata – let’s spend half an hour writing some queries together!</abstract>
+        <description>This will be an interactive session to explore the possibilities of Wikidata, the free knowledge base, and its query service. Participants can suggest queries, and I’ll do my best to implement them.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Lucas Werkmeister</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="587" guid="81de51fe-4759-5ac7-a630-1bf6d887ffb4">
+        <logo/>
+        <date>2019-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:45</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>LTYSYX</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/LTYSYX/</url>
+        <title>Datensammlung leicht gemacht</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Vorstellung eines Ansatzes zur Verknüpfung von OpenData aus verschiedenen Quellen</abstract>
+        <description>Ob OpenData oder Datenjournalismus: Wer Daten aus verschiedenen Quellen zusammenführt (APIs, Exceldateien, Datenbanken, etc.), ist oft mit dem Problem konfrontiert, diese zueinander in Beziehung zu setzen, zu analysieren oder eine aufbereitete Version der Daten als Mashup zu präsentieren (z. B. als Website). Mitunter möchte man außerdem über einen längeren Zeitraum Daten erheben, um Veränderungen zu verfolgen und ggf. darauf zu reagieren.&#13;
+&#13;
+Ich möchte einen Ansatz vorstellen, wie man dieses Problem mit einem weitestgehend generischen Ansatz lösen kann. Dieser Ansatz, der sich Data Vault 2.0 nennt, ist in Industrie und Wirtschaft bereits verbreitet, in anderen Teilen der datenverarbeitenden Community offenbar aber unbekannt. Dies möchte ich ändern.&#13;
+&#13;
+## Beispiele&#13;
+Verknüpfung offener Datensätze, Verknüpfung von Daten aus öffentlich verfügbaren Schnittstellen&#13;
+&#13;
+## Themenfelder&#13;
+Open Data, Open Government, Data-driven Journalism (DDJ)</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="84">cyroxx</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="559" guid="7d03fd50-1926-5de2-88c7-35a0403ef079">
+        <logo/>
+        <date>2019-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>MH3WTA</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/MH3WTA/</url>
+        <title>KDE Itinerary - A privacy by design travel assistant</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Getting your itinerary presented in a unified, well structured and always up to date fashion rather than as advertisement overloaded HTML emails or via countless vendor apps has become a standard feature of digital assistants such as the Google platform. While very useful and convenient, it comes at a heavy privacy cost. Besides sensitive information such as passport or credit card numbers, the correlation of travel data from a large pool of users exposes a lot about people's work, interests and relationships. Just not using such services is one way to escape this, or we build a privacy-respecting alternative ourselves!</abstract>
+        <description>Standing on the shoulders of KDE, Wikidata, Navitia, OpenStreetMap and a few other FOSS communities we have been exploring what it would take to to build a free and privacy-respecting travel assistant during the past two years, resulting in a number of building blocks and the "KDE Itinerary" application. In this talk we will look at what has been built, and how, and what can be done with this now. In particular we will review the different types of data digital travel assistants rely on, where we can get those from, and at what impact for your privacy.&#13;
+&#13;
+The most obvious data source are your personal booking information. Extracting data from reservation documents is possible from a number of different input formats, such as emails, PDF files or Apple Wallet passes, considering structured annotations and barcodes, but also by using vendor-specific extractors for unstructured data. All of this is done locally on your own devices, without any online access.&#13;
+&#13;
+Reservation data is then augmented from open data sources such as Wikidata and OpenStreetMap to fill in often missing but crucial information such as timezones or geo coordinates of departure and arrival locations. And finally we need realtime traffic data as well, such as provided by Navitia as Open Data for ground-based transport.&#13;
+&#13;
+Should the author fail to show up to this presentation it might be that his Deutsche Bahn ticket rendering code still needs a few bugfixes ;-)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="69">Volker Krause</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="577" guid="81908e34-0cd2-5bf1-ad77-6825d8f96b56">
+        <logo/>
+        <date>2019-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>ENN7EF</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/ENN7EF/</url>
+        <title>Wikimedia Cloud Services introduction</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Find out what kind of free services Wikimedia provides for you.</abstract>
+        <description>Wikimedia Cloud Services is a collection of services that the Wikimedia Foundation offers, free of charge, to anyone who can use them for furthering the goals of the Wikimedia movement. This includes Toolforge, a hosting service for tools written in various languages; Cloud VPS, full virtual private servers for advanced development beyond the capabilities of Toolforge; convenient access to Wikimedia project data; and more!&#13;
+&#13;
+Link and other useful information: https://www.wikidata.org/wiki/User:Lucas_Werkmeister/36c3-wmcs-intro</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Lucas Werkmeister</person>
+          <person id="7">Amir Sarabadani</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="594" guid="3d0170ed-e233-545f-87f7-f50d126ddbe6">
+        <logo>/media/36c3/images/TNSGB8/handy-unnormalized.png</logo>
+        <date>2019-12-27T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>00:20</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>TNSGB8</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/TNSGB8/</url>
+        <title>Reading politics of the supposedly neutral</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Algorithms bear the image of their makers, and toil like their servants.  Technology of any sort cannot be neutral, as it is embedded in a social matrix of why it was created and what work it performs.  An algorithm, its context, and what it lacks should be understood as a political statement carrying great consequences, and as a society we should respond to each as needed, engaging the purveyors of these algorithms on a political level as well as legal and economic.&#13;
+&#13;
+Three algorithmic systems are revealed to embody various class interests.  First, a population ecology modeled simply by a pair of predator-prey equations leads one to conclude that socialist revolution and compulsory leisure are the only routes to avoiding civilizational collapse.  Second, a formula for labor supply reduces us to lazy drones who work as little as possible to support our choice of lifestyle.  Finally, advertising on Wikipedia could yield a multi-billion-dollar fortune—shall we put it up for sale or double-down on radical equality among all people?</abstract>
+        <description>(1) The [Human and Nature Dynamics](https://www.sciencedirect.com/science/article/pii/S0921800914000615) (HANDY) model is the first to pair environmental resource consumption with class conflict, each as a predator-prey cycle.  In one cycle we overrun and out-eat the other species on Earth, who grow back slowly, and in the other cycle elites out-compete commoners in their consumption, to the point of even causing commoners to die of hunger.  One can say that socialist revolution is embedded in a statement like this.  Indeed, something must be done about the growing power of over-consuming elites before they doom us all.  I will give a tour using this [interactive explorer](https://adamwight.github.io/handy-explorer/).&#13;
+&#13;
+(2) A second example is a run-of-the-mill, capitalist formula for labor supply, to explain our collective decision to go to work in the morning.  Loosely, it is to`optimize(Consumption, hours worked)` for the constraint `Consumption ≤ wage x hours + entitlement`.  In other words, this formula assumes we are lazy, greedy, individual agents, each motivated only by obtaining the greatest comfort for the least labor.  The worker who internalizes this formula will fight for fewer hours of work and higher wages for themself, will find shortcuts to spend less money to increase purchasing power, and in this idealized world can be expected to vote in favor of social democratic minimum incomes.  A company following this formula, on the other hand, will fight against all of these worker gains, and will act to depress government welfare or minimum incomes until workers are on the edge of starvation in order to squeeze longer hours out of them.  What's missing from this formula is, all the ways out of the trap.  Mutual aid and connections among ourselves to protect the most vulnerable individuals, pooling resources, and any other motivation to work besides mortal fear and hedonism.—One can easily imagine a radically different paradigm for work, in which labor is dignified and fulfilling.  To understand this world in formulas, labor supply is measured in education levels, self-direction, and other positive feedback loops which raise productivity.&#13;
+&#13;
+(3) Wikipedia and its sister projects have never worn the shackles of paid advertising, although they sit on a potential fountain of revenue in the tens of billions of dollars per year—not to mention the value of the influence over public opinion that such a propaganda machine might achieve.  `Revenue = Ads per visit x Visits`  Analyzed venally, Wikipedia becomes an appealing portfolio acquisition, which would jeopardize the entire free-open movement.  From a different perspective, that of an organizer in an editor’s association, slicing pageview and (non)-advertising data might allow for more effective resource-sharing among the many chapter organizations.  In a third analysis using a flow of labor, power, and funds, we can see the Wikimedia Foundation as engaged in illegitimate expropriation, turning editors into sharecroppers and suppressing decentralized growth.  These twists all come about through variations on an equation.  Which shall we choose?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="85">Adam Wight</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="561" guid="cf682838-3650-5cb1-9738-fec883f1e590">
+        <logo/>
+        <date>2019-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>DDCXPN</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/DDCXPN/</url>
+        <title>Jugend hackt Community Treffen</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Das Jugend hackt Community Treffen auf dem 36c3! :-) Ideal für alle Menschen aus dem Jugend hackt Kosmos und vor allem für Congress-Neulinge.</abstract>
+        <description>Wir wollen mit euch am ersten Tag (27.12.19) ein kleines Jugend hackt Meet-Up um 20:00 Uhr im Esszimmer der Wikipaka WG machen. So wollen wir euch und uns einmal zusammen bringen, alle Fragen rund um den Congress und die Wikipaka WG besprechen, im Anschluss eine Runde über den Congress drehen und ein paar andere befreundete Assemblies und andere spannende Orte besuchen. Quasi der perfekte Einstieg! - Kommt rum, wir freuen uns auf euch!</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="10">Robert</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="593" guid="c95ae46b-dc34-55fd-bff7-026a9d252de9">
+        <logo>/media/36c3/images/EGBN8W/CFG_500x500.jpg</logo>
+        <date>2019-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>EGBN8W</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/EGBN8W/</url>
+        <title>Code for Germany. Gute Taten mit offenen Daten</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Seit fünf Jahren setzen sich innerhalb des Netzwerks [„Code for Germany“](https://codefor.de) in ganz Deutschland rund 300 Ehrenamtliche für offene Daten ein und bauen damit Anwendungen für alle. Auch 2019 ist bei uns einiges passiert, was wir euch hier vorstellen wollen. Wir haben uns beispielsweise mit Daten zu Umwelt, Politik und jeder Menge Kartenmaterial beschäftigt und viele neue Projekte am Start. Manche glänzen schon richtig, andere suchen noch Unterstützung. Im Talk erklären wir, was offene Daten eigentlich sind, was man daraus bauen kann und wie man bei uns mitmachen kann.</abstract>
+        <description>[Code for Germany](https://codefor.de) ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger. Wir nutzen unsere Fähigkeiten, um unsere Städte und das gesellschaftliche Miteinander positiv zu gestalten. Wir setzen uns für mehr Transparenz, Offene Daten und Partizipation in unseren Städten ein. Wir vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen unsere Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="67">Julia</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Lecture room 11">
       <event id="1003" guid="5d91410d-7e49-4e12-a2fc-16abda0103bc">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting</url>
@@ -4174,6 +4740,161 @@ ZeerOne the philosopher and with this humor must not be absent. He is the epitom
           <person id="0">Dj-spock</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="OIO Workshop Dome">
+      <event id="367" guid="81f5f0c4-3d35-522c-8f1c-c8825b92f00a">
+        <logo/>
+        <date>2019-12-27T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>SRMX8W</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/SRMX8W/</url>
+        <title>Beginners Workshop: How to Hack your Web Application</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Workshop 1 hour</type>
+        <language>en</language>
+        <abstract>Did you ever want to know how hacking works? This beginners workshops gives an introduction into vulnerabilities, application pen testing and the security of web applications. Only if you know how hackers attack your application, you will be able to defend yourself. Nearly all companies use web applications nowadays. Any vulnerability in those applications may be an invitation for hackers to attack it. This workshop will give you insights on those things that you should never neglect when programming your application. From Techie to Techie!&#13;
+&#13;
+Requirements: programming experience &amp; laptop needed, security knowledge is not necessary</abstract>
+        <description>Find the Workshop slides here: https://drive.google.com/file/d/1sfCH6D2ZCzBhbPNx6GWHgBEIFRYEser6/view?usp=sharing</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="136">Janosch Maier</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="367" guid="81f5f0c4-3d35-522c-8f1c-c8825b92f00a">
+        <logo/>
+        <date>2019-12-27T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>SRMX8W</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/SRMX8W/</url>
+        <title>Beginners Workshop: How to Hack your Web Application</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Workshop 1 hour</type>
+        <language>en</language>
+        <abstract>Did you ever want to know how hacking works? This beginners workshops gives an introduction into vulnerabilities, application pen testing and the security of web applications. Only if you know how hackers attack your application, you will be able to defend yourself. Nearly all companies use web applications nowadays. Any vulnerability in those applications may be an invitation for hackers to attack it. This workshop will give you insights on those things that you should never neglect when programming your application. From Techie to Techie!&#13;
+&#13;
+Requirements: programming experience &amp; laptop needed, security knowledge is not necessary</abstract>
+        <description>Find the Workshop slides here: https://drive.google.com/file/d/1sfCH6D2ZCzBhbPNx6GWHgBEIFRYEser6/view?usp=sharing</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="136">Janosch Maier</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="342" guid="d979082b-5377-513a-a84b-c3f0bb3f85e2">
+        <logo>/media/36c3-oio/images/NTFYAL/nachbar-und-meshnetz_DRZyVof.gif</logo>
+        <date>2019-12-27T18:35:00+01:00</date>
+        <start>18:35</start>
+        <duration>04:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>NTFYAL</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/NTFYAL/</url>
+        <title>Alpha Testing of qaul.net (Internet independent wifi mesh communication App)</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 4 hours</type>
+        <language>en</language>
+        <abstract>Test with us our new alpha version of the</abstract>
+        <description>qaul.net is an Internet independent wifi mesh communication app with fully decentralized messaging, file sharing and voice chat. At the moment we are rewriting the entire application in rust, implementing our experience of 8 years off the grid peer2peer mesh communication, with a mobile first approach and a network agnostic routing protocoll wich can do synchronous as well as delay tolerant messaging.&#13;
+&#13;
+In this workshop we will test the (pre-)alpha version together, install it, test the functionality and communicate off the grid. We will explore our new routing protocol and the wireless interconnection possibilities.&#13;
+&#13;
+* Homepage: https://qaul.net&#13;
+* Code Repository: https://git.open-communication.net/qaul/qaul.net</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="120">Mathias Jud</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Solder Area">
+      <event id="390" guid="4f5c1cc5-ad99-52dc-89cd-699eae66bcb8">
+        <logo/>
+        <date>2019-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+        <room>OIO Solder Area</room>
+        <slug>3KNRHJ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/3KNRHJ/</url>
+        <title>Löten für Einsteiger</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Solder Workshop 2h</type>
+        <language>de</language>
+        <abstract>Löten für Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem Lötkolben nach Huhn?</abstract>
+        <description>Wir wollen uns in den zwei Stunden die Grundlagen des Lötens erarbeiten. Also welcher Lötkolben oder Lötstation, welches Material, welches Zubehör ist notwendig und sinnvoll? &#13;
+&#13;
+Was tun wir? &#13;
+- Handhabung Pflege und des Lötwerkzeugs&#13;
+- einfache Lötübungen&#13;
+- Löten auf Leiterplatten&#13;
+- Löten mit Drähten und Bauteilen&#13;
+&#13;
+Während des Workshops können auch selbst mitgebrachte Bausätze zusammengelötet werden.&#13;
+&#13;
+Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="154">Stefan, DK6TM</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPaka WG: Bibliothek">
+      <event id="557" guid="8207d911-c674-5812-b468-5fb943b97e2a">
+        <logo>/media/36c3/images/BMNWW8/tux__linux__logo_circle_color_by_berradev_d7pynu4.png</logo>
+        <date>2019-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:42</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>BMNWW8</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/BMNWW8/</url>
+        <title>Linux remixen - Ich back' mir eine Linux-Distro</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Linux-Distributionen gibt es wie Sand am Meer, warum also nicht noch eine mehr erstellen. In diesem Talk wird erklärt, wie man - von Einsteiger bis Fortgeschritten - eine eigene Linux-Dristro ertsellt und die Architektur betreibt.</abstract>
+        <description>Der Schritt, eine eigene Linux-Distribution zu erstellen, mag groß erscheinen. Diese Barriere kann man schnell überwinden. Eine eigene Linux-Drstribution lässit sich für Anfänger auf Basis einer existierenden Distribution erstellen oder from Scratch. Beides wird in diesem Vortrag behandelt. Des weiteren werden wir darauf eingehen, wie sich die dazu notwendige Serverarchitektur auf betreiben lässt und wie sich das Bauen und Paketieren automatisieren lässt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="66">Der mit dem Zopf (The one with the braid)</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="ChaosZone Bühne">
@@ -10446,7 +11167,362 @@ This talk will be enjoyable for you if you have basic electronics knowledge: you
         <answers/>
       </event>
     </room>
-    <room name="OIO Stage"/>
+    <room name="OIO Stage">
+      <event id="371" guid="2b1e7aea-237f-533a-8e7b-022a81ba81dc">
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>E77J8R</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/E77J8R/</url>
+        <title>Ubuntu Touch &amp; Co - GNU/Linux in der Hosentasche</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Der Markt für Mobilgeräte wird dominiert von Android und der Anteil freier Komponenten wird merklich kleiner. Einige Projekte versuchen das zu ändern und bringen GNU/Linux auf Handies und Tablets zu bringen. Wir schauen uns verschiedene solche Projekte an und sprechen über die Notwendigkeit, den aktuellen Stand und die Zukunftsaussichten von GNU/Linux auf Mobilgeräten. Am Beispiel von Ubuntu Touch gehen wir auf besondere Herausforderungen ein.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="137">segal</person>
+          <person id="145">Jan Sprinz</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="374" guid="2264aaad-2df6-545f-918c-cc5caea4e507">
+        <logo/>
+        <date>2019-12-28T12:40:00+01:00</date>
+        <start>12:40</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>3JU7Y9</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/3JU7Y9/</url>
+        <title>Building Nextcloud Flow</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Nextcloud Flow is the overhauled workflow engine in upcoming Nextcloud 18. This talk describes how it evolved, how it works internally, and especially how own components can be built, so you can set up automatized tasks  in your Nextcloud.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Blizzz</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="359" guid="98591fc6-852a-5251-bba5-12436614c1f3">
+        <logo>/media/36c3-oio/images/BJQTYA/avatar1_cqxI94G.png</logo>
+        <date>2019-12-28T13:45:00+01:00</date>
+        <start>13:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>BJQTYA</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/BJQTYA/</url>
+        <title>Exploring and empowering participatory culture communities with the use of online ethnography platform</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>We explore the potential of scalable online ethnography to study the rapidly growing phenomenon of participatory culture communities and discuss the potential benefits and challenges of using an online platform in hacker communities. The presentation shares views, with a demo, on how to build participatory online communities from a pilot that focused on the global Burning Man community.</abstract>
+        <description>The talk is grounded on the collaboration of two high-impact research projects, Burning Stories and Edgeryders. Firstly the aim of Burning Stories, by combining science and arts, is to study the global Burning Man community and seek to explain the processes through which community membership of Burning Man participants evolves across time and space, and how this, in turn, affects the society. By combining the Burning Stories research project with an online ethnography tool from Edgeryders, who use it for multiple Horizon 2020 funded project, the talk aims to present novel ways of disrupting the traditional ways of conducting ethnography in order to understand the emergence of a new cultural phenomenon and apply new, participatory methodology, in order to advance social sciences and community building. The presentation particularly focuses on lessons learnt from these two research projects and with the combination of the projects, explores the potential future use of the co-creative templates for hacker communities.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="131">Jukka-Pekka Heikkilä</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="368" guid="83e0c501-6a60-555f-80af-36b22a440fd4">
+        <logo/>
+        <date>2019-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>EW8MBQ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/EW8MBQ/</url>
+        <title>NPR70 - "WLAN" auf 430MHz</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Da A.25 mit 9k6 baud irgend wann einfach nicht mehr cool ist um Daten auf 430 Mhz zu übertragen, musste ein neues Protokoll mit passender Hardware her. Herausgekommen ist ein open source Projekt von F4HDK mit 500kbit/s nutzdaten, multiuser und schnellen Rundlaufzeiten.</abstract>
+        <description>Nachdem das nötige Hintergrundswissen zu dem Thema Drahtlose Übertragungsprotokolle vermittelt wurde. Wird das Protokoll und die dazugehörende Hardware ausführlich vorgestellt und mit alternativen wie z.B. LORA verglichen.&#13;
+Außerdem soll rund um den OIO im laufe des Kongresses ein Demo-Netzwerk aufgebaut werden hierfür können auch noch Kits vorort gelötet werden, meldet euch dafür einfach bei mir.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="135">Lars Rokita</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="366" guid="cface55d-a792-55e0-9eda-d2e4a72b43fb">
+        <logo/>
+        <date>2019-12-28T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>G3LD3P</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/G3LD3P/</url>
+        <title>FF-ESP32-OpenMPPT - New Freifunk-ISEMS-MPPT-Solar-Controller with integrated WiFi</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>The Independent Solar Mesh System has a new hardware that will bring the power consumption, space and cost requirements of low cost WiFi relay stations down: FF-ESP32-.OpenMPPT</abstract>
+        <description>In order to build the cheapest energy autonomous WiFi relay possible, we have designed an update to the previous Freifunk-Open-MPPT-Solarcontroller. It has now integrated WiFi and Bluetooth, so it doesn't need an external WiFi router anymore, but you can still connect one. Technical data is preliminary at the moment, but power consumption will be between ~0.3 at low load and ~0.6 Watt at maximum load. So a 20 Watt Solar panel and a 12V 7Ah battery will be more than enough to keep the system running and relaying traffic all year.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="57">Elektra Wagenrad</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="373" guid="d84a392d-0680-584c-8a35-358977418a13">
+        <logo/>
+        <date>2019-12-28T16:45:00+01:00</date>
+        <start>16:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>A8GQTE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/A8GQTE/</url>
+        <title>“Computer says no”: Worüber sollen Algorithmen entscheiden dürfen</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Richtlinien für den ethischen Einsatz von Algorithmen gibt es langsam wirklich genug. Konzerne und Organisationen    übertrumpfen sich geradezu damit zu betonen, dass der Mensch bei allen maschinellen Entscheidungen im Mittelpunkt stehen soll, dass die Systeme fair und nachvollziehbar arbeiten müssen. Aber egal, ob sie nun direkt von Google und IBM stammen, von Normungsorganisationen wie IEEE oder der OECD – gemeinsam ist all diesen Richtlinien: Sie sind rechtlich nicht bindend. Die Frage ist also: Wem dienen solche Ansätze der unternehmerischen und    staatlichen Selbstregulierung? Und wollen wir uns auf sie verlassen oder brauchen wir klare gesetzliche Auflagen? Welche Regeln sollten für Unternehmen gelten, welche für den Staat? Und wer soll darüber wachen, dass sie eingehalten werden?</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="137">segal</person>
+          <person id="142">Chris Köver</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="382" guid="35cda8cc-6647-5a55-b87f-2e65057ef9e5">
+        <logo/>
+        <date>2019-12-28T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>P9BACD</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/P9BACD/</url>
+        <title>Freifunk Super Node und Firmware Build Server aufsetzen und Provider werden</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Ein howto für Dummis, Freifunk Infrastruktur selber zu betreiben.</abstract>
+        <description>Es ist gut, wenn viele Menschen Freifunk Router einrichten können. Doch es ist besser, wenn auch Leute selber einen Super Node betreiben können. Es gibt viele Wege, dies umzusetzen. Ich möchte zeigen, wie ich in letzter Zeit es umgesetzt habe mit mittleren Kenntnissen. Und es wird gezeigt, wie man Provider werden kann.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="42">Matthias Schmidt</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="360" guid="9ca25e43-bcd8-541c-b79c-bfb6db1c2789">
+        <logo>/media/36c3-oio/images/8D7DBP/logos_to_replace_78tfwYe.png</logo>
+        <date>2019-12-28T18:15:00+01:00</date>
+        <start>18:15</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>8D7DBP</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/8D7DBP/</url>
+        <title>A dozen more things you didn't know Nextcloud could do</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>With Nextcloud you can sync, share and collaborate on data, but you don't need to put your photos, calendars or chat logs on an American server. Nope, Nextcloud is self-hosted and 100% open source! Thanks to hundreds of apps, Nextcloud can do a lot and in this talk, I will highlight some cool things.</abstract>
+        <description>Consider this a follow-up from my talk about 200 things Nextcloud can do last year! An update on what's new and some cool new stuff. What, what is `Nextcloud`? Let's see. A private cloud is one way to put it, though that's a contradiction of course. It is a way to share your data, sync your files, communicate and collaborate with others - without giving your data to GAFAM! Keep it on your own server, or something close (like a local hosting provider or data center). Nextcloud is a PHP app that does all that, and more! Easy to use, secure (really) and fully open source of course.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="59">Jos Poortvliet</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="369" guid="aa7b077e-6de3-5bbf-aefd-1e6da636adbf">
+        <logo/>
+        <date>2019-12-28T20:50:00+01:00</date>
+        <start>20:50</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>LU3JNL</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/LU3JNL/</url>
+        <title>Extending the lifetime of smartphones with Replicant, a fully free Android distribution</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>After a very quick introduction on Replicant and the smartphones ecosystem, we will look at what affects smartphones' and tablets' lifetime and how to increase it by making Replicant more sustainable.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="137">segal</person>
+          <person id="143">Denis 'GNUtoo' Carikli</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="362" guid="4b6379f9-a6d9-5c3e-8af9-a9c1b1c04e95">
+        <logo>/media/36c3-oio/images/GUZH7V/logo_GGS6DxK.png</logo>
+        <date>2019-12-28T21:20:00+01:00</date>
+        <start>21:20</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>GUZH7V</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/GUZH7V/</url>
+        <title>CloudCalypse 2: Social network with net2o [YBTI/wefixthenet session]</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Building a social network on top of net2o, and importing your existing data</abstract>
+        <description>I've a dream: A peer-to-peer network, where services like search engines or social networks aren't offered by big companies, who in turn need to make money by selling the privacy of their users. Where all data is encrypted, so that access is only possible for people who have the key and really are authorized. Which layman can use without cryptic user interfaces. Where the browser is a platform for running useful applications without the mess of Flash and JavaScript. Without the lag of “buffer bloat” and without the speed problems of a protocol not designed to be assisted by hardware.&#13;
+&#13;
+This dream is coming to reality: This talk will show how far I got, and what challenges still are ahead. The talk is in three parts:&#13;
+&#13;
+1. a short overview over net2o&#13;
+2. a demonstration of how the social network stuff looks like&#13;
+3. and an outlook over what needs to be done to make it a polished product</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="128">dvn</person>
+          <person id="132">Bernd Paysan</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="383" guid="18ce862e-36e1-5df6-803b-38f82b2ef327">
+        <logo/>
+        <date>2019-12-28T22:25:00+01:00</date>
+        <start>22:25</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>L7MBH8</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/L7MBH8/</url>
+        <title>WiFi-Hotspot-Abos - Wie viel Freifunk steckt drin?</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Im Internet offerieren diverse Anbieter WiFi Hardware inklusive VPN für 10€.&#13;
+&#13;
+Dieser Talk behandelt, wie sehr sich die verkaufte Hardware sowie Software von den meisten Freifunk Setups unterscheidet.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="140">blocktrron</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="395" guid="9b04791e-1dac-5cdc-a8d1-c09496b584b8">
+        <logo/>
+        <date>2019-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>RUXX3H</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/RUXX3H/</url>
+        <title>Was ist Zeit?</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Dort wo sich Physik und Philosophie treffen ist es Zeit, über Zeit zu sprechen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="149">Steini</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="377" guid="6bacef9b-6bf0-572d-82bc-cdd5c254c2c1">
+        <logo/>
+        <date>2019-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>01:30</duration>
+        <room>OIO Stage</room>
+        <slug>QSKPAM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/QSKPAM/</url>
+        <title>Autocomplete Texting</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Mitmachspass mit Autocomplete: Entdecke KI-Seele deines Smartphones</abstract>
+        <description>Ein Spiel mit dem Publikum: &#13;
+Menschen nutzen die Autocomplete/Predict-Funktion ihres Mobilgerätes, um basierend auf einem (wechselnden) vorgegebenen ersten Wort Sätze zu bilden, also immer nur das nächste vorgeschlagene Wort zu bestätigen. &#13;
+Die Ergebnisse werden mehr oder minder live und total willkürlich ausgewählt verlesen.&#13;
+Auch wenn's erstmal sinnlos erscheint: Und auch wenn den Absendenden Anonymität zugesichert wird und im Gegensatz Schummeln verboten ist: Die Art der Sätze, die die trainierte/konditionierte Maschine dabei hervorbringt  offenbaren mindestens einen eigenen Charakter oder sagen zumindest etwas über die bevorzugte Nutzung des Gerätes.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Adorfer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="DLF- und Podcast-Bühne">
       <event id="923" guid="f79d565b-cd45-58ec-bfda-f9d30bc49a67">
         <logo>/media/36c3/images/8SBP3N/ct_uplink_Formatiert_Korrigiert-84f2a1bb6a1e52e3.jpeg</logo>
@@ -10642,7 +11718,284 @@ Hi, ich bin Becci (@genderbeitrag) und veranstalte mittlerweile traditionell auf
         <answers/>
       </event>
     </room>
-    <room name="WikiPaka WG: Esszimmer"/>
+    <room name="WikiPaka WG: Esszimmer">
+      <event id="604" guid="316426de-d3cf-5d5f-a9e2-be680fdd1916">
+        <logo/>
+        <date>2019-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:45</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>QT3DQD</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/QT3DQD/</url>
+        <title>Subtitles Angelmeeting</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Introduction for the Subtitles Angletype.</abstract>
+        <description>In the Subtitles Introduction Meeting we will tell you, what you have to do as a Subtitles Angel. Attending this meeting is necessary to become a Subtitles Angel.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">Steini</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="563" guid="3a728f85-2ebd-5ed5-82bd-1f4b815bba42">
+        <logo>/media/36c3/images/GMHREE/P3.png</logo>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>GMHREE</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/GMHREE/</url>
+        <title>Prototype Fund Meetup</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Wir sind das Prototype Fund Team und laden alle ein, die von uns gefördert wurden oder mehr über den Fund erfahren möchten, uns und einander kennenzulernen!</abstract>
+        <description>Der Prototype Fund unterstützt SoftwareentwicklerInnen, HackerInnen, DatenjournalistInnen und andere Kreative dabei, ihre Public-Interest-Tech-Idee vom Konzept bis zur ersten Demo umzusetzen.&#13;
+&#13;
+Wir fördern innovative Open-Source-Projekte in den Bereichen Civic Tech, Data Literacy, Datensicherheit und Software-Infrastruktur und supporten Euch mit bis zu 47.500 Euro Förderung pro Team/Einzelentwickler*in.&#13;
+&#13;
+Mit der Förderung könnt Ihr sechs Monate lang Code schreiben und einen Prototyp Eurer Open-Source-Software entwickeln. Zusätzlich erhaltet Ihr Coachings, Beratung und Vernetzung mit Tech- und weiteren Communities.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="73">Marie Gutbub</person>
+          <person id="74">Thomas Friese</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="572" guid="e26fdad4-0247-5128-a54b-a7fedea0d130">
+        <logo/>
+        <date>2019-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>CKLM3A</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/CKLM3A/</url>
+        <title>DSGVO &amp; Persönlichkeitsrecht bei Fotos</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>DSGVO &amp; Persönlichkeitsrecht bei Fotos mit Fokus auf Nutzung in freien Projekte wie Wikimedia Commons.</abstract>
+        <description>* Persönlichkeitsrechte und ihre Bedeutung für Wikimedia-Projekte, inklusive Grundlagen des Allgemeinen Persönlichkeitsrechts (APR)&#13;
+* Was ist zu beachten bei Abbildungen von Personen des öffentlichen Lebens und beim Fotografieren öffentlicher und nicht-öffentlicher Veranstaltungen? (inklusive Umgang mit Einschränkungen von Seiten Dritter wie Sportverbänden, Künstlermanagements usw.)&#13;
+* Zusammenspiel urheberrechtlicher Lizenzen und persönlichkeitsrechtlicher Regeln&#13;
+&#13;
+Zeit für Fragen und Antworten ist eingeplant.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="8">John</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="591" guid="d30a38e6-2db7-592d-9283-73dc445f9c89">
+        <logo/>
+        <date>2019-12-28T13:50:00+01:00</date>
+        <start>13:50</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>FFGWSW</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/FFGWSW/</url>
+        <title>Helping WordPress users build climate-friendly websites</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>greenerWP is dedicated to help WordPress site owners making their sites and blogs more environmentally sustainable.</abstract>
+        <description>greenerWP wants to help WordPress site owners making their sites more environmentally sustainable. The non-profit free/libre open source project consists of a website scanner, a WordPress plugin which provides guidance and optimizations, a lightweight WordPress theme that is optimized for sustainability, and guides and tools for setting up a solar powered single board computer running WordPress. The talk will give a short overview of the project and its development state.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="87">Christian Neumann</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="589" guid="16fa19a5-66a8-5104-9804-44ac491f4936">
+        <logo/>
+        <date>2019-12-28T14:10:00+01:00</date>
+        <start>14:10</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>V378DD</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/V378DD/</url>
+        <title>Measuring Code Contributions in Wikimedia's Technical Community</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>A lightning talk about technical contributions in Wikimedia projects that we can currently measure and the challenges that we face.</abstract>
+        <description>Statistics can help to better understand communities and their needs. This lightning talk shows how Wikimedia uses the free and open source software "GrimoireLab" to get some data about its technical contributor base, and also covers some of the challenges that we face when it comes to measuring.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">Andre Klapper</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="564" guid="2f4ba23c-de8a-5fd9-9829-fa4445eccc74">
+        <logo/>
+        <date>2019-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>UAUKWZ</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/UAUKWZ/</url>
+        <title>Amateurfunk, wasn das?</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Kurze Zusammenfassung über ein extrem vielfältiges Hobby.</abstract>
+        <description>Beim Amateurfunk geht es grundlegen darum, mit eigener Technik Funkverbindungen herzustellen. Dieses Hobby ist aber noch deutlich vielfältiger. Dazu gehört ein besonderer Amateurfunksport, Wettbewerbe, Not- und Katastrophenfunk oder der Selbstbau von Funkgeräten und Antennen. Auch der Funkkontakt an sich ist immer wieder spannend. So kann man bis nach Neuseeland, mit der Internationalen Raumstation, mit Satelliten oder auch mit dem Mond funken. Manche Funkamateure wandern auf Berge oder fahren auf unbewohnte Inseln um von dort funken zu können.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="71">Janek</person>
+          <person id="63">Noah</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="595" guid="95c2bf57-087f-5fb0-9ce8-a3210a585f9c">
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>HMMPQQ</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/HMMPQQ/</url>
+        <title>Interactively Discovering Implicational Knowledge in Wikidata</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The ever-growing Wikidata contains a vast amount of factual knowledge. More complex knowledge, however, lies hidden beneath the surface: it can only be discovered by combining the factual statements of multiple items. Some of this knowledge may not even be stated explicitly, but rather hold simply by virtue of having no counterexamples present on Wikidata. Such implicit knowledge is not readily discoverable by humans, as the sheer size of Wikidata makes it impossible to verify the absence of counterexamples. We set out to identify a form of implicit knowledge that is succinctly representable, yet still comprehensible to humans: implications between properties of some set of items. Using techniques from Formal Concept Analysis, we show how to compute such implications, which can then be used to enhance the quality of Wikidata itself: absence of an expected rule points to counterexamples in the data set; unexpected rules indicate incomplete data. We propose an interactive exploration process that guides editors to identify false counterexamples and provide missing data. This procedure forms the basis of [The Exploration Game](https://tools.wmflabs.org/teg/), a game in which players can explore the implicational knowledge of set of Wikidata items of their choosing. We hope that the discovered knowledge may be useful not only for the insights gained, but also as a basis from which to create entity schemata.</abstract>
+        <description>The talk will introduce the notions of Implicational Knowledge, describe how Formal Context Analysis may be employed to extract implications, and showcase the interactive exploration process.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="65">Maximilian Marx</person>
+          <person id="88">Tom Hanika</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="571" guid="d3bf066e-5bac-568c-ab7b-b5a282813cc7">
+        <logo/>
+        <date>2019-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>3VX9J3</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/3VX9J3/</url>
+        <title>Grundlagen Urheberrecht - Schwerpunkt CC-Lizenzen</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Grundlagenwissen zum Urheberrecht</abstract>
+        <description>CC-Lizenzen und das Urheberrecht.&#13;
+Kurze Einführung wie CC-Lizenzen im Urheberrecht verankert sind.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">John</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="588" guid="7668e889-63d6-5dbe-8a5b-e81d54731b10">
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>LKSJUL</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/LKSJUL/</url>
+        <title>Software tools for wikis beyond MediaWiki and its extensions</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>A showcase of software implemented outside of the MediaWiki and MediaWiki extensions code repositories.</abstract>
+        <description>Wikimedia's communities have diverse interests, use cases and technical needs. Volunteer developers experiment with new ideas, build solutions and bridge workflow gaps across our software stack.&#13;
+&#13;
+This session is a showcase of a variety of impressive software solutions implemented outside of the MediaWiki and MediaWiki extensions code repositories.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">Andre Klapper</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="555" guid="b454a974-3703-5aff-b408-4f997c3f0b0a">
+        <logo>/media/36c3/images/CXU9SV/gg-36c3.png</logo>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>CXU9SV</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/CXU9SV/</url>
+        <title>Gefragt - Gejagt: Junghacker*innen Edition</title>
+        <subtitle/>
+        <track>Entertainement</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Das schnelle Quiz für alle jungen Hackerinnen und Hacker zwischen 12 und 18 Jahren. Lasst ihr euch von den Erwachsenen jagen oder entkommt ihr eurem Jäger?</abstract>
+        <description>Gefragt - Gejagt ist ein bekanntes Quizformat aus der ARD. Wir stellen eine Junghacker\*innen-Version auf die Beine und lassen zwei clevere Teams bestehend  aus Jugendlichen zwischen 12 und 18 Jahren gegeneinander, aber auch gegen die erwachsenen und erfahrenen Jäger\*innen antreten. Können sie gewinnen? Wir werden es herausfinden! Euch erwarten schnelle Fragerunden, abwechslungsreiche Themengebiete und an erster Stelle ganz viel gute Laune und Cyber! &#13;
+&#13;
+Du kannst dich zum mitspielen bewerben oder mithelfen - auch als Erwachsene\*r. Alle Informationen, die du dazu brauchst, findest du unter [nwng.eu/36c3-gg!](https://nwng.eu/36c3-gg) Wir freuen uns auf dich! &lt;3</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="64">nwng</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Lecture room 11">
       <event id="1000" guid="a9513da7-a95c-4eb4-ba32-11485be62787">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting</url>
@@ -12750,6 +14103,361 @@ Mr. JB is the secret weapon and probably the best prepared dj in shutterisland, 
           <person id="0">Dj-spock</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="OIO Workshop Dome">
+      <event id="347" guid="bf48fa55-92a1-5481-a14a-f77cc0d4fccb">
+        <logo/>
+        <date>2019-12-28T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>FU3ZZE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/FU3ZZE/</url>
+        <title>Nudeln hacken - Wettbewerb für Junghacker von 5 Jahren bis ∞</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 1 hour</type>
+        <language>de</language>
+        <abstract>Spaß am Gerät: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, können alleine oder als Team kommen. Es kann jeder mitmachen, der weiß, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene dürfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="74">Stefan Safari</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="348" guid="c4bd3614-30a5-5739-a7f6-6880be23709b">
+        <logo/>
+        <date>2019-12-28T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>RW3HCE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/RW3HCE/</url>
+        <title>Trotz Schule die Zukunft meistern? - Mitmach-Workshop für Menschen von 10-100 Jahre</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 1 hour</type>
+        <language>en</language>
+        <abstract>In einem Workshop überlegen Schüler*innen gemeinsam mit anderen, wie man sich auf Berufe vorbereitet, die es heute noch gar nicht gibt. Und warum das eigene Smartphone- und Social-Media-Verhalten einem die Zukunft rettet statt sie zu vergeigen.</abstract>
+        <description>Die Schüler*innen von heute werden später Jobs machen, von denen es 65% heute noch gar nicht gibt - sagt eine Studie, der OECD. Die OECD hat auch Thesen aufgestellt worauf es in der Zukunft ankommt. Da werden Punkte wie "Problem lösen/kritisches Denken" oder "Kreativität" genannt und persönliche Eigentschaften wie "Neugierde", "Initiative" oder "Ausdauer/Entschlossenheit" aufgelistet. Bereitet einen die Schule wirklich auf so was vor, oder sind die Lernwelten nicht viel größer. Wie ist ein Besuch des 36C3 einzuordnen? Wie "wird man neugierig"?&#13;
+&#13;
+Der Workshop wird besonders lebendig, wenn verschiedene Altergruppen/ Generationen teilnehmen. Wenn es allerdings eng im Raum wird, werden Schüler*innen bevorzugt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="74">Stefan Safari</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="347" guid="bf48fa55-92a1-5481-a14a-f77cc0d4fccb">
+        <logo/>
+        <date>2019-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>FU3ZZE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/FU3ZZE/</url>
+        <title>Nudeln hacken - Wettbewerb für Junghacker von 5 Jahren bis ∞</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 1 hour</type>
+        <language>de</language>
+        <abstract>Spaß am Gerät: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette. Dabei geht es um kreativen Umgang mit Technik und die Erfahrung, dass man Dinge auch jenseits der eigentlichen Verwendungszwecke gut gebrauchen kann. Junghacker bzw. solche die es werden wollen, können alleine oder als Team kommen. Es kann jeder mitmachen, der weiß, was eine Nudel ist. PS: Es werden keine Lebensmittel verschwendet. PPS: Erwachsene dürfen auch mitmachen, wenn sie den Junghacker keinen Platz wegnehmen. Sie werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="74">Stefan Safari</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="398" guid="77238540-41c1-5b75-b71c-b28bdbf88947">
+        <logo>/media/36c3-oio/images/7JFMUK/IMG_4290_ZNCjmAM.jpeg</logo>
+        <date>2019-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>7JFMUK</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/7JFMUK/</url>
+        <title>KNX / OpenHAB Selbsthilfegruppe</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 1 hour</type>
+        <language>de</language>
+        <abstract>KNX ist toll, zusammen mit OpenHAB sind die Möglichkeiten unendlich. Wir tauschen uns über Automatisierungsideen aus und sprechen über best practices.</abstract>
+        <description>Es geht explizit nicht sprechende Wanzen (Alexa, HomePod, Google Home ect.)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="162">Melle</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="375" guid="5634bc77-b6ad-52ae-88c5-c059cfcebb8e">
+        <logo/>
+        <date>2019-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>TZBSSE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/TZBSSE/</url>
+        <title>SDR kennenlernen</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 2 hours</type>
+        <language>de</language>
+        <abstract>Software Defined Radios in Kombination mit open source tools erlauben es einfach anspruchsvolle aufgeben umzusetzen. Nach einer kurzen theoretischen Engführung kann sich jeder an verschieden Beispielen versuchen Signale zu empfangen und zu dekodiren.</abstract>
+        <description>Vom FM Radio bis hin zu z.B. Wlan frames wollen wir uns verscheide Dinge anschauen. Wer es kann bitte einen Laptop mitbringen um eigenständig arbeiten zu können. English speakers can also attend but may have to wait a bit for there instructions.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="135">Lars Rokita</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="353" guid="c05054ed-aca8-5d2f-814c-0d6e8851d96e">
+        <logo>/media/36c3-oio/images/CTQSQ8/meetup_1920_7FtptxA.png</logo>
+        <date>2019-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>CTQSQ8</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/CTQSQ8/</url>
+        <title>Open Communication Meetup! - Decentralized Social Networks</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 2 hours</type>
+        <language>en</language>
+        <abstract>We will test, discuss and document decentralized and off the grid social networks, such as secure scuttlebutt SSCB.</abstract>
+        <description>The goal behind [open-communication.net](https://open-communication.net) is to build a knowledge base on open decentralized communication tools. This is done collectively and collaboratively in 'Open Communication Meetups'.&#13;
+&#13;
+In this meetup we will test, discuss and document existing decentralized and off-the-grid social networks, such as [secure scuttlebutt](https://scuttlebutt.nz/). &#13;
+&#13;
+Please bring your laptops and digital devices in order to collectively test the projects!&#13;
+&#13;
+https://open-communication.net&#13;
+&#13;
+### Meetup Planning&#13;
+&#13;
+Organizational CryptPad folder for links, suggestions and projects to test during the meetup. Please write them into the pad `Meetup-Planning`:&#13;
+&#13;
+https://cryptpad.open-communication.net/drive/#/2/drive/edit/C8HPZpYOXdCCuK0bpW1rX+Q5/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="120">Mathias Jud</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPaka WG: Bibliothek">
+      <event id="590" guid="14299031-3b3a-5f01-a970-903ea39d96de">
+        <logo/>
+        <date>2019-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>HXVTTM</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/HXVTTM/</url>
+        <title>Demo-Aktionstraining</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Eine theoretische und praktische Einführung für aktionsorientierte Demonstrationen.</abstract>
+        <description>Bei Demonstrationen setzen sich Menschen für Werte und Ideale ein, für die sie einstehen und machen auf für sie wichtige Themen aufmerksam. Gerade im letzten Jahr durften wir in Deutschland und weltweit erleben, wie sich vermehrt junge Menschen vor allem für Umweltthemen bei Demonstrationen einsetzen.&#13;
+&#13;
+Dabei bietet sich bei aktionsorientierten Demonstrationen eine Vielzahl an Möglichkeiten, wie sich durch Zivilcourage aktiv für ein Thema eingesetzt werden kann, jedoch auch ein erhöhtes Konfliktpotential. Für eine erfolgreiche Demonstration ist es gut, zu wissen, mit welchem Verhalten Konflikte und Gefahren vermieden und Möglichkeiten ausgeschöpft werden können.&#13;
+&#13;
+Konkret: Wir verbinden Theorie und Praxis. Im ersten Teil werden rechtliche Grundlagen, Verhalten auf Versammlungen und gängige Konzepte (Bezugsgruppen, Demorucksack, usw.) vorgestellt. Im zweiten Teil werden Mittel des Zivilen Ungehorsams geprobt und Techniken zur Vermeidung von Verletzungen erlernt. Zum Abschluss werden die erlebten Erfahrungen reflektiert und wir tauschen uns darüber aus, um z. B. auch die Wirkung auf die Polizei besser zu verstehen und gezielt einsetzen zu können.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="86">SAY IT LOUD e.V.</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="558" guid="434e8b74-c0c7-5cff-a5b9-4ea446b342f7">
+        <logo/>
+        <date>2019-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>01:30</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>VKRA9V</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/VKRA9V/</url>
+        <title>Wikipedia-Einführung</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Erklärung der Wikipedia-Grundprinzipien, hilfreiche Schritte für den Einstieg, Einblicke in die Community</abstract>
+        <description>Schnapp Dir einen Laptop und los geht's. In diesem Wikipedia-Workshop werden Dir folgende Inhalte vermittelt:&#13;
+- was eine Enzyklopädie ist&#13;
+- wichtigste Regeln&#13;
+- hilfreiche Tipps für die Artikelerstellung/-bearbeitung&#13;
+- Umgang innerhalb der Community&#13;
+- wo Ansprechpartner*innen zu finden sind</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="68">Liatom</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="605" guid="c8d4680c-3fae-5db6-8d31-fe48d68ad4a1">
+        <logo/>
+        <date>2019-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:40</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>VZKSQJ</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/VZKSQJ/</url>
+        <title>36C3 Fahrplan App</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Session for people who want to join the project</abstract>
+        <description>I will shortly introduce you into the history and the current state of the project. Currently, the app is maintained by one person and used by many more. It would be great if people want to join to sustain the project for the future and help with developing it further. The years old codebase is waiting for you with legacy Java but also Kotlin. Besides programming there is enough to do which does not require you to write code such as&#13;
+&#13;
+- translation&#13;
+- design&#13;
+- documentation&#13;
+- public relations&#13;
+- outreach&#13;
+- communication with users&#13;
+&#13;
+and many more.&#13;
+&#13;
+Links&#13;
+- https://github.com/EventFahrplan/EventFahrplan&#13;
+- https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule&#13;
+- https://fdroid.gitlab.io/ccc</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="102">tbsprs</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="580" guid="45434716-9298-5b9b-b735-f380c1e52cbf">
+        <logo/>
+        <date>2019-12-28T16:55:00+01:00</date>
+        <start>16:55</start>
+        <duration>01:30</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>MGXKV3</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/MGXKV3/</url>
+        <title>Chaos als außerschulischer Lernort</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Wir als Chaostreff Flensburg machen (Technik) Jugend Bildung außerhalb von Schulen und wollen darüber reden und wissen wie das andere machen.</abstract>
+        <description>Wir als Chaostreff Flensburg machen (Technik) Jugend Bildung außerhalb von Schulen und wollen, wie im letzten Jahr, darüber reden und wisse wie das andere machen. Momentan haben wir eine regelmäßige Jugendgruppe (einmal im Monat) und unregelmäßige Tages oder Wochenends Workshops. Doch wie macht ihr das in eurem Hackspace/$Organisation. Wie geht das Konkret, was lässt sich besser machen und wie können sich Menschen aus dem Chaos Umfeld da besser verbinden können. Darüber und andere Themen würde ich gerne in ungezwungener Atmosphäre reden.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="80">Scammo</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="583" guid="9c287c6a-7af8-5a1d-b2c9-97c30fd108c2">
+        <logo/>
+        <date>2019-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>P39SXD</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/P39SXD/</url>
+        <title>Hacking Legal Data</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Initiativen wie [Offene Gesetze](https://offenegesetze.de/) oder [Open Legal Data](https://openlegaldata.io/) versuchen mit dem Veröffentlichen von juristischen Dokumenten den Rechtsstaat transparenter zu machen. Wir stellen euch vor, welche Daten es gibt, was man mit den Daten anfangen kann und planen mit euch, welche Daten als nächstes veröffentlicht werden sollten!</abstract>
+        <description>Gesetze und Urteile gelten als “amtliche Werke” und sind somit vom Urheberrecht ausgenommen. Frei verfügbar im Sinne von Open Data sind sie dadurch aber noch lange nicht. Ein privater Verlag bestimmt darüber, wie unsere Gesetze in Kraft treten. Wer Gesetzesblätter des Bundes durchsuchen, kopieren oder ausdrucken will, wird zur Kasse gebeten. Ähnlich verhält es sich mit Gerichtsentscheidungen. Zwar ergehen Urteile “Im Namen des Volkes”, gleichzeitig ist es aber für das Volk oft nicht möglich diese Urteile einzusehen, geschweige denn sie statistisch auszuwerten. Ursache dafür ist eine sehr geringe Veröffentlichungsquote von ca. 1%  und, dass von den veröffentlichten Urteilen, die meisten in kommerziellen Datenbank landen und somit auch nicht frei verfügbar sind. Initiativen wie Offene Gesetze oder Open Legal Data versuchen den Status Quo zu verändern, indem juristischen Dokumenten als Open Data veröffentlicht werden. &#13;
+&#13;
+In diesem Workshop erläutern wir die Hintergründe und zeigen euch welche Daten bereits verfügbar sind. Beim alleinigen Informieren soll es aber nicht bleiben. Wir wollen euch motivieren selber aktiv zu werden und mit uns gemeinsam den Rechtsstaat ein Stück transparenter zu machen!</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="83">Saskia Ostendorff</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="596" guid="e7577e21-a725-5038-b3d6-f50cefe2c259">
+        <logo/>
+        <date>2019-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>RGCHT8</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/RGCHT8/</url>
+        <title>FragDenStaat User-Treffen</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</abstract>
+        <description>Wir mögen Informationsfreiheitsgesetze und tauschen uns über FragDenStaat und das Drumherum aus!</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="17">Arne</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="ChaosZone Bühne">
@@ -20972,7 +22680,379 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
         <answers/>
       </event>
     </room>
-    <room name="OIO Stage"/>
+    <room name="OIO Stage">
+      <event id="399" guid="7581590f-0f77-5766-94d6-a4f3a0c43a2f">
+        <logo>/media/36c3-oio/images/X9JPVH/ksp-assembly4-v1_tFGriwM.jpg</logo>
+        <date>2019-12-29T12:45:00+01:00</date>
+        <start>12:45</start>
+        <duration>00:00</duration>
+        <room>OIO Stage</room>
+        <slug>X9JPVH</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/X9JPVH/</url>
+        <title>Build and fly your own rockets in Kerbal Space Program</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Kerbal Space Program - Build. Fly. Dream.&#13;
+Einmal ein eigenes Raumfahrtprogramm leiten? Mit KSP ist das möglich.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="163">Kilian Schauer</person>
+          <person id="166">Luca Horn</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="357" guid="35f647fc-1849-5194-a354-2e855e7a642d">
+        <logo>/media/36c3-oio/images/SHDVXB/t1-engine_pvMnznO.jpg</logo>
+        <date>2019-12-29T13:50:00+01:00</date>
+        <start>13:50</start>
+        <duration>00:45</duration>
+        <room>OIO Stage</room>
+        <slug>SHDVXB</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/SHDVXB/</url>
+        <title>Raumfahrtantriebe</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Wie kommt man eigentlich in den Weltraum und was ist an so ein bisschen Schub so kompliziert *?&#13;
+&#13;
+Warum sehen Raumfahrtantriebe so aus wie sie sind und was wird sich mit "New Space" alles ändern?&#13;
+&#13;
+&#13;
+(*)insert rocket science joke here</abstract>
+        <description>Preview&#13;
+1. Wie erzeugt man Schub?&#13;
+-	Was ist eine Raketenmotor -triebwerk?&#13;
+-	Warum fliegen Flaschenraketen mit Wasser höher?&#13;
+&#13;
+2. Feststoffraketen&#13;
+-	Feuerwerk, Modellbau oder Shuttle Booster&#13;
+-	Brennprofile&#13;
+&#13;
+3. Flüssigraketen&#13;
+-	Goddards erste Versuche&#13;
+-	Komplex, teuer, fehleranfällig und warum wir trotzdem Flüssigtreibstoffe nutzen&#13;
+3.1. Brennkammer&#13;
+-	Aufbau und Eigenschaften&#13;
+3.2. Turbopumpen&#13;
+-	Wie kommt der Treibstoff und Oxidator in die Brennkammer&#13;
+3.3. Düsen&#13;
+-	warum überhaupt Düsen und warum sehen sie so aus wie sie sind&#13;
+-	Aerospike&#13;
+3.4. Treibstoffe&#13;
+-	Ein wenig Chemie.  Mono-, Bi- und Tritreibstoff &#13;
+3.5. 5,4 all engines running,2,1,0 lift off&#13;
+-	Wie man eine Rakete startet Soyuz, Titan II, Delta 4 und das Space-Shuttle&#13;
+4. Hybridraketen&#13;
+-	Die Komplexität einer Flüssigrakete mit den Nachteilen einer Feststoffrakete&#13;
+5. Ionenantrieb&#13;
+-	Wenig Schub aber hoher Impuls &#13;
+-	Aufbau und Eigenschaften&#13;
+6. Solar Sail&#13;
+-	Ein Segel spannen und mit dem Sonnenwind dahingleiten&#13;
+7. Nuklearantriebe&#13;
+-	Ein fliegender Kernreaktor, was kann da schon schief gehen?&#13;
+-	in 200 Tagen zum Mars und zurück</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="127">Äpex</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="392" guid="890b2813-ef91-586d-a738-ce01b4b93861">
+        <logo>/media/36c3-oio/images/V7HNKR/Screenshot_from_2019-12-18_17-29-47_qVAm402.png</logo>
+        <date>2019-12-29T14:45:00+01:00</date>
+        <start>14:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>V7HNKR</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/V7HNKR/</url>
+        <title>Open Source Hardware in industry – meet DIN SPEC 3105</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Compared to software, the open source approach is relatively new to most actors in the field of (mechanical) hardware. Plus Open Source Hardware faces some special issues. A yet missing definition of its "source code" is one of them (+ patent law, liability, engineers that do not know how to work with git, costly prototyping…).&#13;
+DIN SPEC 3105 will be/is the first official standard for Open Source Hardware and also the first official standard ever published under a free license (CC-BY-SA 4.0; that was a lot of lobby work ;) ). It defines the technology-specific "source" of Open Source Hardware and aims to build a bridge between research institutes, public authority, industry and the worldwide open source community.</abstract>
+        <description>In this talk I won't explain why Open Source (Hardware) is great. I assume, you all know that (if not, still feel free to ask me in the Q&amp;A part or after the talk). I'll describe what's the standard for, how it works and why its great _for_ Open Source Hardware.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="156">Martin Häuer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="363" guid="a3f9136b-fa32-504d-a762-438d5141ac74">
+        <logo/>
+        <date>2019-12-29T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>VPUTHL</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/VPUTHL/</url>
+        <title>Treating IS - Humanitäre Prinzipien im Konflikt</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Frank Dörner von Ärzte ohne Grenzen und Sebastian Jünemann von CADUS diskutieren die jüngsten Angriffe auf humanitäre Prinzipien in verschiedenen Kontexten, wie beispielsweise während der medizinischen Nothilfe in Nordost-Syrien.</abstract>
+        <description>Eigentlich sollte es klar sein: Menschen die medizinische Hilfe benötigen sollen sie auch bekommen, Punkt. Doch in Medienkommentaren wird der humanitären Hilfsorganisation CADUS, die ein Feldkrankenhaus im Camp Al Hol in Nordost-Syrien betreibt, längst nicht nur Respekt ausgesprochen. Manche Kommentator*innen schlagen vor, humanitäre Prinzipien auszusetzen sobald es sich bei den Hilfesuchenden um mutmaßliche Angehörige des sogenannten Islamischen Staates (IS) handelt. Schließlich, so die Argumentation, missachte diese Organisation systematisch eben solche Prinzipien. &#13;
+&#13;
+In vielen Konflikten werden humanitäre Grundsätze heute zunehmend missachtet. Helfende werden zu Feinden erklärt und damit legitime Ziele für jedwede Aggression. Krankenhäuser und Ambulanzen können gezielt angegriffen werden, ohne dass es Konsequenzen hat. Afghanistan, Syrien, Yemen – die Liste ist lang. Und aus der jüngsten Geschichte der Seenotrettung wissen wir: auch von staatlichen Stellen werden immer wieder humanitäre Grundsätze mit Füßen getreten. &#13;
+&#13;
+Frank Dörner von Ärzte ohne Grenzen und Sebastian Jünemann von CADUS geben einen Einblick was es bedeutet, in gesellschaftlich und politisch stark umstrittenen Kontexten Hilfe zu leisten, in denen humanitäre Prinzipien immer wieder aus verschiedensten Richtungen angegriffen werden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="133">Sebastian Jünemann</person>
+          <person id="150">Frank Dörner</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="384" guid="d7287f76-3369-5017-89f7-35101cc72a18">
+        <logo/>
+        <date>2019-12-29T17:10:00+01:00</date>
+        <start>17:10</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>UYCLAE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/UYCLAE/</url>
+        <title>Hacking health</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>About hacking wheelchairs, building custom bicycles, adapters to use e-scooters as outboard motors: Empowering people with disablitities or healthcare needs through Open Hardware. Presentation on experiences and lessons learned in collecting and co-creating open personalized DIY healthcare solutions for replicability and adaptability in Makerspace worldwide.</abstract>
+        <description>Careables are open source solutions that aim to improve the quality of life for people with unmet particular needs or facing physical limitations. Careables are often co-designed, replicable, accessible, adjustable and shareable online using digital technologies.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="96">Sandra GIG</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="354" guid="18a492b2-6219-5b95-a48d-b03944b75739">
+        <logo/>
+        <date>2019-12-29T17:40:00+01:00</date>
+        <start>17:40</start>
+        <duration>00:45</duration>
+        <room>OIO Stage</room>
+        <slug>WSLWVM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/WSLWVM/</url>
+        <title>Delta Chat: e-mail based messaging, the Rustocalypse and UX driven approach [YBTI/wefixthenet session]</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Delta Chat is an e-mail instant messenger that is just becoming available on all platforms. &#13;
+Unlike other offerings, Delta Chat is no platform and operates no own servers. &#13;
+Instead it uses existing SMTP/IMAP servers to send and receive messages.&#13;
+We'll talk about the current development status on all platforms, our new &#13;
+Rust-core based approach, our decentralized e2e-encryption facilities (not requiring &#13;
+keyservers, and safe against active attacks) and how we are generally driving&#13;
+developments from UX and security perspectives.  We also aim to showcase&#13;
+"burner accounts", a new concept that we are developing and discussing&#13;
+with activists in eastern european countries and asian cities.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="167">Holger Krekel</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="350" guid="f5910185-f9b5-5d5a-b2df-fdfce6b8a8b9">
+        <logo>/media/36c3-oio/images/CJFWMY/PleskPahil_portrait_400x400_mVnE9V5.jpg</logo>
+        <date>2019-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>CJFWMY</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/CJFWMY/</url>
+        <title>Episode VIII - Die letzten Freifunker?</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Freifunk steht für freie Kommunikation in digitalen Datennetzen. Reicht dieser Slogan aus, um die Communities wachsen und die Marke Freifunk bei den Menschen in unserem Land bekannt zu machen? Was können wir tun, um nicht bald die letzten Freifunker zu sein und insbesondere eine engagierte junge Generation anzusprechen, die Informationen ganz anders filtert und verarbeitet als GenX oder Baby Boomers? In diesem interaktiven Talk mit einer Marketingexpertin aus der IT Branche, geht es um die Identität von Freifunk und warum 8 Sekunden entscheidend sind.</abstract>
+        <description>Freie Kommunikation in digitalen Datennetzen - ein wichtiges Gut, für das Freifunk steht. Aber wie steht es um die Marke Freifunk in Städten, Gemeinden, Kommunen und der Bevölkerung? Gibt es Nachwuchssorgen in den Communities und könnten wir nicht schon viel weiter sein mit unserem 'Netzausbau'? In diesem Talk möchte ich mit Euch gemeinsam einen kritischen Blick auf Freifunk von der Marketingseite her werfen und Ideen entwickeln, wie wir viele Menschen einladen können mitzumachen sodass Freifunk zu einem wichtigen Bestandteil ihres digitalen Lebens wird. Je mehr aktive Mitglieder unsere communities haben, desto eher können wir das umsetzen, worüber Politik und etablierte Wirtschaft primär nur reden: Digitalisierung und digitale Transformation vorantreiben - in Stadt und Land.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="124">Glitzi</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="388" guid="81b0de17-dbef-5da7-80e8-4d9ae563a4fd">
+        <logo/>
+        <date>2019-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:45</duration>
+        <room>OIO Stage</room>
+        <slug>MPCRC8</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/MPCRC8/</url>
+        <title>Freifunk und die Haftungsprivilegierung des Telemediengesetzes</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Seit Jahren kämpfen wir um die Haftungsprivilegierung für Freifunker. Als Zugangsvermittler in das Internet hat der Gesetzgeber den Freifunker als Diensteanbieter von Ansprüchen Dritter freigestellt. Nach dem Gesetz ist der Freifunker für die Handlungen Dritter im Internet nicht verantwortlich. Wie die Rechtssprechung die gesetzliche Regelung anwendet, möchte ich Euch in meinem Vortrag berichten.</abstract>
+        <description>Ich würde gerne den Vortrag in meinen Bericht über die einzelnen Freifunk-Verfahren gegen die Rechteinhaber einbetten. Ich weiß noch nicht recht, wie ich den Zusammenhang gestalte. Mit wem könnte ich darüber sprechen?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="75">Beata Hubrig</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="391" guid="8aef09de-ff38-533d-b9e7-ff0e3a437031">
+        <logo>/media/36c3-oio/images/3L7Q7W/Bildschirmfoto_2019-12-26_um_00.19.18_K5ls0Qg.png</logo>
+        <date>2019-12-29T21:20:00+01:00</date>
+        <start>21:20</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>3L7Q7W</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/3L7Q7W/</url>
+        <title>DOT. The LED Cube</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Ein Würfel der einem Jahre seines Lebens kostet... und hübsch leuchtet... :D</abstract>
+        <description>Ein Würfel der auf allen Seiten mit LEDs bestückt ist. Mit insgesamt 24.576 davon lassen sich nicht nur coole Animationen anzeigen sondern auch Laufschriften, Grafiken und vieles mehr. Zudem kann man auf dem Würfel Spiele spielen oder Programmieren lernen und seiner Kreativität freien Lauf lassen. &#13;
+Wie entstand die Idee, was steckt alles drin, was könnt ihr damit machen, wo soll's hin gehen, wie könnt ihr mitmachen,... klären wir alles dann. :)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="155">Hannes Vatter</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="381" guid="03d76db0-ea48-516b-94f2-b731cccf47de">
+        <logo/>
+        <date>2019-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>7WUGHV</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/7WUGHV/</url>
+        <title>Ethische Grenzen im Making</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Machbarkeit im Making wird vornehmlich von physikalischen Gesetzen bestimmt. Doch wie sieht es mit ethischen Grenzen aus? Vor allem im Gesundheitsbereich stellt sich die Frage, ob alles das was reverse engineered und selbst gebaut werden kann tatsächlich auch von der maker community diesem Prozess unterzogen werden sollte. Über diese Frage diskutieren Steini und Seb (CADUS).</abstract>
+        <description>„Tut mir leid, alle von offiziellen Stellen geprüften und zertifizierten Medizingeräte sind kaputt, aber wir überwachen Sie während der OP einfach mit diesem selbst zusammengebauten open source Patienten-Monitor, kein Problem.“&#13;
+&#13;
+Machbarkeit im Making wird vornehmlich von physikalischen Gesetzen bestimmt. Doch wie sieht es mit ethischen Grenzen aus? Vor allem im Gesundheitsbereich stellt sich die Frage, ob alles das was reverse engineered und selbst gebaut werden kann tatsächlich auch von der maker community diesem Prozess unterzogen werden sollte. Über diese Frage diskutieren Steini und Seb (CADUS).</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="133">Sebastian Jünemann</person>
+          <person id="149">Steini</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="394" guid="f1c9fa52-2bad-5841-ac57-4efad8263c6c">
+        <logo>/media/36c3-oio/images/BE9QSA/photo_2019-12-22_16-02-21_AxFKkbZ.jpg</logo>
+        <date>2019-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>01:00</duration>
+        <room>OIO Stage</room>
+        <slug>BE9QSA</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/BE9QSA/</url>
+        <title>Crackhouse -die KochRadioShow-</title>
+        <subtitle/>
+        <track>Entertainment</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Crackhouse , die RadioKochShow auf FSK83.0 in Hamburg mit Fabse und Felix. 60 Minuten pure Leidenschaft fürs Kochen.&#13;
+Geht mit unser Einkaufsliste los, ladet euch Freunde ein und kocht gemeinsam mit uns.</abstract>
+        <description>Hoffentlich ihr seid bereit euch der Herausforderung einer neuen Kocherfahrung zu stellen, für die unter Euch die Alkoholtrinken empfehlen wir einen Riesling...,&#13;
+ &#13;
+wir hätten uns sehr über unsere hochprominente Gästin Christine Ebeling, Kulturschafferin, Kuratorin und Künstlerin gefreut, die leider nicht kommen kann :-(&#13;
+stattdessen wird es einen Gast geben, der uns alle überaschen wird!&#13;
+&#13;
+Das sollte ihr einkaufen wenn ihr Zuhause sitzt und mit uns Kochen wollt:&#13;
+ &#13;
+alle vegetarischen Zutaten der Einkaufsliste lassen sich selbstverständlich durch vegane Alternativen ersetzen!&#13;
+ &#13;
+400 g Mehl (wichtig 550er mehl) info siehe unten&#13;
+250 ml Warmes Wasser&#13;
+1 Eßlöffel Salz&#13;
+4 El Öl&#13;
+250 g Ziegenfrischkäserolle&#13;
+200g würzigen Bergkäse&#13;
+3-4 zweige frischen Rosmarin&#13;
+400g Creme Fraiche oder Schmand oder halb und halb&#13;
+4-6 Esslöffel flüssigen Honig&#13;
+4-6 rote Zwiebeln je nach Größe&#13;
+1 Bund Frühlingszwiebeln ( kommen nach dem backen frisch drüber)&#13;
+ &#13;
+von Rita Rosenzweig wird es auch endlich die Auflösung Ihrer Abwesenheit geben und über die sozialen Medien ein veganes SauerRahm-Rezept,&#13;
+wer soziale Medien verweigert kann uns gerne eine Mail schreiben (kochradio@gmx.de) und wir senden Euch das Rezept von Rita Rosenzweig  :-)&#13;
+Jeden 2. Sonntag im Monat (am 12.Januar2020) von 19Uhr - 20Uhr&#13;
+auf FSK Radio 93,0 MHz im Kabel 101,4 MHz. oder&#13;
+im Livestream unter www.Fsk-hh.org/livestream.&#13;
+Facebook: https://www.facebook.com/Crackhaus/&#13;
+Insta: https://www.instagram.com/crackhouse_kochradio/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="158">Felix &amp; Fabse</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="DLF- und Podcast-Bühne">
       <event id="922" guid="a66747f4-eb91-57ea-b05a-07f3162bc0c0">
         <logo/>
@@ -21250,7 +23330,296 @@ Eine unserer Moderator*innen, Katharin, wird direkt von ihren Recherchen für jo
         <answers/>
       </event>
     </room>
-    <room name="WikiPaka WG: Esszimmer"/>
+    <room name="WikiPaka WG: Esszimmer">
+      <event id="556" guid="df866355-3eec-521d-927e-a3cd922035dc">
+        <logo>/media/36c3/images/TK9M7A/Flutter-Eng-2.png</logo>
+        <date>2019-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>TK9M7A</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/TK9M7A/</url>
+        <title>Flutter - One native code base for every platform</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Did you ever want to develop cross-platform application from one single code base? Are you afraid to get worse performance than with native code? Flutter may help you!</abstract>
+        <description>Flutter is an open-source cross platform framework which allows you to create native applications. As is does not use JavaScript it won't require a hole WebView in background. Due to this and the incredible easy syntax it's one most advanced frameworks for applications running on mobile devices, in the web and on desktops.&#13;
+In this talk, I will introduce the basics of Flutter, what's different to other frameworks and some details about its structure.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="66">Der mit dem Zopf (The one with the braid)</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="568" guid="099b9161-902b-50ca-a308-d86e2825ce27">
+        <logo/>
+        <date>2019-12-29T12:45:00+01:00</date>
+        <start>12:45</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>3CHBWG</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/3CHBWG/</url>
+        <title>Free Software for Open Science</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>This talk provides an overview of the state of Free and Open Source Software (FOSS) within the various European &#13;
+scientific communities. Based on this we will try to identify stakeholders, common goals and potential policy proposals.</abstract>
+        <description>The principles of Free and Open Source Software (FOSS) are&#13;
+well aligned with the core tenets of science, i.e., the sharing of knowledge &#13;
+and the demand for reproducibility of results. Nevertheless, FOSS is still &#13;
+rather the exception than the rule for the majority of scientific domains.&#13;
+In this session we will discuss the state of FOSS within the various European &#13;
+scientific communities. Based on this we will try to identify stakeholders, &#13;
+common goals and potential policy proposals.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="95">purine:bitter</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="585" guid="b6339a61-ccb7-5a74-813b-b2cc3fbd4848">
+        <logo/>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>DKQXS3</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/DKQXS3/</url>
+        <title>OZG 101 - Das Onlinezugangsgesetz und Du</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Was ist das Onlinezugangsgesetz, wie wird es umgesetzt, und wie kann ich als</abstract>
+        <description>Das Onlinezugangsgesetz ist derzeit der wichtigste Treiber für die Digitalisierung der Verwaltung in Deutschland. BIs Ende 2022 sollen alle Verwaltungsleistungen digital zugänglich gemacht werden. Wie genau es derzeit umgesetzt wird (und warum), was an Ergebnissen zu erwarten ist und was vielleicht danach kommt erfährt du in diesem Talk.&#13;
+&#13;
+Dieser Vortrag inklusive Fragerunde ist für alle gedacht, die in das Thema Verwaltungsdigitalisierung in Deutschland, speziell OZG, einsteigen wollen. Wir gehen auch der Frage nach, wie sich mensch in seiner Kommune, seinem Land und seinem Fachgebiet informieren und einbringen kann.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="79">Spyr_0</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="597" guid="9bda0f73-0ff7-5244-8690-4dcd9fce1007">
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>B3JTS9</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/B3JTS9/</url>
+        <title>StayAlive-Insektencounter – eine Diskussion über Daten, ML, Hardware und Community</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Wir entwickeln den StayAlive–Insektencounter, ein Citizen Science-Monitoringtool für Umweltschützer, NGOs, Hobbygärtner – für dich und mich. Das Raspi-basierte und KI-gestützte Gerät soll durch Echtzeitmessungen zeigen, welche Insekten (Fliegen, Hummeln, Falter etc) es noch gibt, wie sich die Zahl über die Zeit verändert und welche deiner Schutzmaßnahmen einen direkten positiven Einfluss haben werden.</abstract>
+        <description>Das Insektensterben wurde durch die „Krefelder Langzeitstudie“ einer breiten Öffentlichkeit bekannt. Für die Studie wurden die Tiere ganz analog in Fallen gelockt und konserviert (also getötet), so dass man anschließend ihre Biomasse bestimmen konnte.&#13;
+Mit unserem Projekt StayAlive-Insektencounter gehen wir einen anderen Weg.  Wir zählen und klassifizieren die Tiere digltal – und lassen sie leben. Der Counter soll Insekten anhand seiner Körperform und durch den Flügelschlag unterscheiden und lernt dank Künstlicher Intelligenz (KI) ständig hinzu. Die Daten werden über eine Map visualisiert und zeigen an, welche insektenfreundlichen Maßnahmen direkt wirken, wenn wir bestimmte Pflanzen säen, Wiesen ungemäht lassen oder pestizidfrei ackern.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="89">Nicola</person>
+          <person id="101">Levin Brinkmann</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="579" guid="ec7f954e-db31-560e-ab47-0c2e57bd18ed">
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>PMD8TF</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/PMD8TF/</url>
+        <title>Free access to substitution plans – Deobfuscation adventures</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Many schools in Germany choose to distribute their substitute plans via a proprietary platform. The provided client software is not very pleasurable to use and inconveniences users with its dependency on Google Play Services. That's why I develop a free client for Android called DSBDirect, which is able to display plans in a nice, filtered way.</abstract>
+        <description>Many schools in Germany choose to distribute their substitute plans via the proprietary [[DSB platform]](https://heinekingmedia.de/education/digitales-schwarzes-brett). The provided client software is not very pleasurable to use and inconveniences users with its dependency on Google Play Services. That's why I develop a free client for Android called DSBDirect, which is able to display plans in a nice, filtered way. Since they noticed my app, the company operating DSB has been obfuscating their various endpoints more and more in an attempt to prevent my app from working, while on the other hand not being very competent at security. It's a cat-and-mouse game.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="77">Fynn</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="581" guid="8557f87b-a449-5b48-8be5-8130b2c21a63">
+        <logo/>
+        <date>2019-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>02:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>CRH3HY</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/CRH3HY/</url>
+        <title>Treffen chaos.jetzt</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Wir wollen junge Leute im Chaos-Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces stärken. Komm vorbei, trink eine Mate und lass die Welt verändern.</abstract>
+        <description>Wir wollen junge Leute [1] im Chaos Umfeld vernetzen und die Jugendarbeit in den einzelnen Spaces stärken. Komm vorbei, trink eine Mate und lass die Welt verändern.&#13;
+&#13;
+Mögliche Themen: &#13;
+- Was können wir auf Über-Regionaler Ebene machen? &#13;
+- Wo müssen wir uns mit einbringen? &#13;
+- Wie kann unser erstes Geekend in Göttingen ablaufen &#13;
+- Was für Projekte, Ideen und Utopien gibt es? &#13;
+Gerne dürft ihr auch vor dem Treffen einbringen.&#13;
+&#13;
+Du findest uns auch Online auf https://chaos.jetzt/ in unserem Matrix und Mastadon. &#13;
+&#13;
+[1] = Grundsätzlich Menschen unter 27 mit einem (sehr) großen Fokus auf U18 Jährige. Diese Definition könnte auch gut besprochen werden.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="80">Scammo</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="573" guid="9d1e4d14-ba73-5f28-a184-77520d894dfa">
+        <logo/>
+        <date>2019-12-29T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>RT7UWJ</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/RT7UWJ/</url>
+        <title>Infrastructure of Wikipedia</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>We will tell you how to serve a hundred thousand requests per second, for fun and non-profit</abstract>
+        <description>Wikipedia is one of the most visited websites on earth and runs on donations only. All of our infra is in-house to make sure we protect our users' privacy. This is not easy but it's possible.&#13;
+&#13;
+If you want to know how we do that, come to our talk. We will explain our system architecture, tell you about our database setup, the caching layers, and all the other bits and pieces.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">Amir Sarabadani</person>
+          <person id="6">Lucas Werkmeister</person>
+          <person id="25">Daniel</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="574" guid="9f41c673-8915-526c-b968-84759271cee8">
+        <logo/>
+        <date>2019-12-29T20:45:00+01:00</date>
+        <start>20:45</start>
+        <duration>00:10</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>TGQBME</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/TGQBME/</url>
+        <title>LilyPond: programming beautiful musical scores</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Find out what lies at the intersection of music and programming with this brief look at LilyPond, the free programmable musical typesetter!</abstract>
+        <description>[LilyPond](http://lilypond.org/) is a musical typesetting program. While it aims to produce beautiful scores by default, its output is also extensively configurable and programmable. This makes it an attractive hobby for people at the intersection of programming and music, some of whom I hope to captivate with this talk.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Lucas Werkmeister</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="566" guid="c6410063-47d5-592d-8474-ca86c5b22713">
+        <logo/>
+        <date>2019-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>9BS3FB</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/9BS3FB/</url>
+        <title>Operation Mindfuck Vol. 3</title>
+        <subtitle/>
+        <track>Art &amp; Culture</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wir präsentieren zum dritten Mal einen bunten Blumenstrauß aus Nerdsniping-Themen – einige unserer Lieblingsfakten über Computer, Kunst und Kuriositäten! Wir ziehen viel Inspiration aus neuen und absurden Ideen, und möchten diese Begeisterung mit euch teilen!</abstract>
+        <description>Es gibt Aufzeichnungen von [Vol. 1](https://morr.cc/operation-mindfuck/) und [Vol. 2](https://morr.cc/operation-mindfuck-2/)!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="23">blinry</person>
+          <person id="2">bleeptrack</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="607" guid="5f990d0a-5732-56a2-9bd5-d250e38d8325">
+        <logo/>
+        <date>2019-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>BZTE77</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/BZTE77/</url>
+        <title>GSM Team Ask us Everything</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>The GSM Team will bring some hardware and data to explain how we run a 2/3/4G Network on the 36c3. Ask them everything.</abstract>
+        <description>The GSM Team will bring some hardware and data to explain how we run a 2/3/4G Network on the 36c3. Ask them everything.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="104">bibor</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Lecture room 11">
       <event id="1121" guid="5f84f176-ba1f-4f70-8d34-f7e1e94472b9">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:42birds:_Nerd_Game_Show</url>
@@ -23468,6 +25837,523 @@ He's good at that. He is also good at put on music that feels like a warm blanke
           <person id="0">Dj-spock</person>
         </persons>
         <links/>
+      </event>
+    </room>
+    <room name="OIO Workshop Dome">
+      <event id="396" guid="1e712d27-e60d-5dc7-b676-4b56de664240">
+        <logo/>
+        <date>2019-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:30</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>XWZMAJ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/XWZMAJ/</url>
+        <title>git from the bottom up</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 2 hours</type>
+        <language>en</language>
+        <abstract>Using git for keeping track of your code? Ever had a moment where you wanted to assault git for being /doing stupid? (yes i know, it definitely wasnt your fault)&#13;
+Now is the time: you may either stay at that level of knowlegde to not loose the chance to get angry at git again (no issues with that, everyone needs a scapegoat) or you could learn why git works the way it does (and sometimes does stupid stuff).&#13;
+This workshop might help you with the second.</abstract>
+        <description>Requirements:&#13;
+- If you like to follow along please clone https://github.com/wtjerry/gitShowAndTell_playgroundRepo.git&#13;
+- Some kind of a computer with a shell, git and an editor installed.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="159">wtjerry</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="344" guid="312560c7-7ce7-5c81-97b4-7692b2d9a240">
+        <logo>/media/36c3-oio/images/HHZQAY/meetup_1920_ssHGXLa.png</logo>
+        <date>2019-12-29T13:50:00+01:00</date>
+        <start>13:50</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>HHZQAY</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/HHZQAY/</url>
+        <title>Open Communication Meetup! - Adhoc mesh routing protocols</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 2 hours</type>
+        <language>en</language>
+        <abstract>We will discuss and document mobile ad-hoc mesh routing protocols.</abstract>
+        <description>The goal behind [open-communication.net](https://open-communication.net) is to build a knowledge base on open decentralized communication tools. This is done collectively and collaboratively in 'Open Communication Meetups'.&#13;
+&#13;
+In this meetup we will discuss and document existing open and decentralized mesh routing protocols. &#13;
+&#13;
+https://open-communication.net&#13;
+&#13;
+&#13;
+### Meetup Planning&#13;
+&#13;
+Organizational CryptPad-folder for links, suggestions and projects to test during the meetup. Please write them into the pad `Meetup-Planning`:&#13;
+&#13;
+https://cryptpad.open-communication.net/drive/#/2/drive/edit/lsTF6JFNBx8-9ABnPrv8hRSc/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="120">Mathias Jud</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="349" guid="c8793eb8-53be-5a90-b549-f5789da4d174">
+        <logo>/media/36c3-oio/images/PATB9E/lynXified-amirouche-anonymous-v3_C4S2fqs.png</logo>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>PATB9E</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/PATB9E/</url>
+        <title>GNUnet e.V. annual assembly</title>
+        <subtitle/>
+        <track>OIO</track>
+        <type>Workshop 1 hour</type>
+        <language>en</language>
+        <abstract>https://gnunet.org/ e.V. annually meets to discuss all things GNUnet e.V.-related (including finances, elections, and community update). The full agenda will be determined closer to the event.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="123">Christian Grothoff</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="355" guid="6d1b8adb-0f77-5693-a768-fabf2c252929">
+        <logo>/media/36c3-oio/images/VHZQKJ/LoRaWAN5_apfiK6P.png</logo>
+        <date>2019-12-29T17:10:00+01:00</date>
+        <start>17:10</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>VHZQKJ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/VHZQKJ/</url>
+        <title>Getting started connecting your Devices using LoRaWAN</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 2 hours</type>
+        <language>en</language>
+        <abstract>LoRaWAN is a **Lo**ng **Ra**nge **W**ide **A**rea **N**etwork that can connect devices over several kilometres while operating on very low power. It uses freely available frequencies, and with successful community project *The Things Network* there exists an open and free network. This makes LoRaWAN ideal for that small gadgets you want to deploy out in the field and also really interesting for a hacker community. Let's get working on it!</abstract>
+        <description>We will be going through the whole process of how to build, program, and setup a simple LoRaWAN connected device using an *Arduino* and *The Things Network*. The workshop will start with an introduction to how LoRaWAN works, but the session is planed to be a more interactive format where we get a bit of work done together.&#13;
+&#13;
+If you need an introduction, why LoRaWAN is interesting, you can watch our 20min talk from last year: &lt;br&gt;&#13;
+https://media.ccc.de/v/35c3chaoswest-27-long-range-radio-communication-for-everyone-using-lorawan-&#13;
+&#13;
+If you want to know how you can come prepared, go to: &lt;br&gt;&#13;
+https://www.deepcyber.de/36c3/lorawan</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="129">Peer Springstübe</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="393" guid="46c24f81-f788-52e6-bd61-9e2e68040ad5">
+        <logo/>
+        <date>2019-12-29T19:15:00+01:00</date>
+        <start>19:15</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>LZMW9E</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/LZMW9E/</url>
+        <title>Wireless Security Meetup</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Workshop 1 hour</type>
+        <language>en</language>
+        <abstract>Open discussion about wireless security of current and upcoming chips and wireless technologies.</abstract>
+        <description>Anyone who wants to discuss wireless security is welcome! Topics will most likely include NFC, Bluetooth, Wi-Fi, LTE, LoRaWAN, TETRA and more. We will talk about implementation issues, as well as security testing, and problems with the specifications.&#13;
+&#13;
+This meetup is organized by Jiska, who presents the talk "All wireless communication stacks are equally broken" at the main conference.&#13;
+&#13;
+Please register in advance at https://forms.gle/Ph8HydTbMFrN398m6 with whatever pseudonym. This is required to keep the group and the discussion focused :)</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="157">jiska</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="385" guid="f3e731fa-1a62-5238-969a-7f28e5812334">
+        <logo/>
+        <date>2019-12-29T20:50:00+01:00</date>
+        <start>20:50</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>8PGUXK</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/8PGUXK/</url>
+        <title>Global Innovation Gathering meetup</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 1 hour</type>
+        <language>en</language>
+        <abstract>The Global Innovation Gathering (GIG) is a diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers.&#13;
+&#13;
+With strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members. We have a non-profit organisation registered in Germany.&#13;
+&#13;
+GIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators.&#13;
+&#13;
+What can we create together?</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="96">Sandra GIG</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="400" guid="ff184a4c-e856-58be-906a-969d7042fa57">
+        <logo/>
+        <date>2019-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>3LDPLF</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/3LDPLF/</url>
+        <title>Introduction to mesh routing algorithms</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 1 hour</type>
+        <language>en</language>
+        <abstract>In mesh networks like freifunk, data needs to be forwarded towards a destination with the help of other nodes and no prior knowledge. We will describe the different approaches to solve this problem and it realizations in common adhoc mesh routing protocols like batman-adv or olsr.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="165">mwarning</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Solder Area">
+      <event id="390" guid="4f5c1cc5-ad99-52dc-89cd-699eae66bcb8">
+        <logo/>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>OIO Solder Area</room>
+        <slug>3KNRHJ</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/3KNRHJ/</url>
+        <title>Löten für Einsteiger</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Solder Workshop 2h</type>
+        <language>de</language>
+        <abstract>Löten für Einsteiger - oder: warum riecht menschliche Haut beim Kontakt mit dem Lötkolben nach Huhn?</abstract>
+        <description>Wir wollen uns in den zwei Stunden die Grundlagen des Lötens erarbeiten. Also welcher Lötkolben oder Lötstation, welches Material, welches Zubehör ist notwendig und sinnvoll? &#13;
+&#13;
+Was tun wir? &#13;
+- Handhabung Pflege und des Lötwerkzeugs&#13;
+- einfache Lötübungen&#13;
+- Löten auf Leiterplatten&#13;
+- Löten mit Drähten und Bauteilen&#13;
+&#13;
+Während des Workshops können auch selbst mitgebrachte Bausätze zusammengelötet werden.&#13;
+&#13;
+Bei Interesse an diesem Workshop meldet Euch gerne im Vorfeld bei mir: dk6tm (at) dk6tm.de oder @DK6TM_ auf Twitter oder @DK6TM@chaos.social bei Mastodon.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="154">Stefan, DK6TM</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="397" guid="bb6418d6-4cc1-592d-b05f-05fdbae2df93">
+        <logo/>
+        <date>2019-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>03:00</duration>
+        <room>OIO Solder Area</room>
+        <slug>8WAMCB</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/8WAMCB/</url>
+        <title>OpenMPPT selbstgemacht</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Solder Workshop 2h</type>
+        <language>de</language>
+        <abstract>Lötet euren eigenen OpenMPPT!</abstract>
+        <description>Es gibt nur eine begrenzte Anzahl an Lötsätzen. Diese werden nach dem first-come-first-served-Prinzip vergeben.&#13;
+&#13;
+Mehr Informationen findet ihr unter https://www.isems.de/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="57">Elektra Wagenrad</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPaka WG: Bibliothek">
+      <event id="601" guid="b24079c8-30da-53dd-81df-9304da6c3430">
+        <logo/>
+        <date>2019-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>01:30</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>FQY9R7</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/FQY9R7/</url>
+        <title>Bäume pflanzen mit QGIS und R</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Bäume pflanzen kann sehr lange dauern. Mit interaktiven Karten können Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele (mit QGIS und R) an und können bei Interesse ein kleines Kärtchen programmieren.</abstract>
+        <description>Bäume pflanzen kann sehr lange dauern. Mit interaktiven Karten können Orte in der Landschaft erkundet werden, welche bei einer Aufforstung als Multiplikatoren dienen. Wir schauen uns gemeinsam zwei interaktive Kartenbeispiele (mit QGIS und R) an und können bei Interesse ein kleines Kärtchen programmieren.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="97">Isabella</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="599" guid="8d5820ef-5ad2-5061-8d53-515c40c75acb">
+        <logo/>
+        <date>2019-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>FNFQKM</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/FNFQKM/</url>
+        <title>Ridesharing: Warum wir offene Daten in offenen Standards brauchen, damit Mitfahren funktionieren kann</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Mitfahren funktioniert aktuell schlecht, und es würde besser mit offenen Daten und offen Standards gehen. Einen Erstaufschlag eines Datenstandards liegt vor, ebenso wie es erste Integrationen in Metasuchen gibt - und wir wollen diskutieren, wie es weitergehen kann.</abstract>
+        <description>Es gibt gefühlt unendlich viele Mitfahr-Börsen, und so verlieren sich Fahrer und Mitfahrer auf den Plattformen, so dass immer weniger Menschen in Deutschland mitgenommen werden. Ein Datenstandard und offene Daten sowie ein gemeinschaftliches Auftreten könnten die Lösung sein, müsste aber von möglichst vielen Plattformen unterstützt werden. Ein Erstaufschlag eines Datenstandards ist im Projekt MetaMitfahrPort entstanden, aber das ist erst der erste Schritt: https://mmport.de/der-datenstandard/online-ansicht/ - es bräuchte vielmehr ein Open Source Software Environment für Mitfahren. Einzelne Plattformen gibt es bereits, die Mitfahr-Daten zusammenführen. In diesem Workshop wollen wir diskutieren, was wir fürs Mitfahren weitermachen können.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="38">Ernesto</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="584" guid="f3131c0f-4d45-536b-b106-e822d2abe188">
+        <logo>/media/36c3/images/GVAD3D/bild2.png</logo>
+        <date>2019-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>GVAD3D</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/GVAD3D/</url>
+        <title>Verwaltungsdigitalisierer aller föderalen Ebenen, versammelt euch!</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Ein Meeting für alle, die (trotz allem) an der Digitalisierung der Verwaltung mitarbeiten. &#13;
+Kommt, tauscht euch aus und bildet Banden!</abstract>
+        <description>Calling alle Menschen, die in und um die Verwaltung herum an der Digitalisierung der öffentlichen Hand arbeiten - in Kommunen, Ländern, im Bund, bei Selbstverwaltungen, und ja, auch bei Beratungsfirmen.&#13;
+&#13;
+Wir wissen, dass euch (und uns) gibt, und wir wissen, dass wir zusammenkommen müssen wenn das noch was werden soll mit dem souveränen, bürgerrechtsorientierten, datensparsamen und verdammt noch mal nutzerfreundlichen digitalen Staat. In dem man nicht für Papier zum Amt laufen, aber auch keine Panik vor algorithmischem Profiling haben muss.&#13;
+&#13;
+Lasst uns zusammenkommen und fernab vom üblichen Bullshitbingo über Verwaltungsdigitalisierung reden – Onlinezugangsgesetz und (sehr wichtig) beyond!&#13;
+&#13;
+Kennenlernen, vernetzen, aktiv(er) werden - vielleicht schreiben wir revolutionäre Lieder (OZG, mit freundlichen Grüßen), vielleicht hecken wir Gegenentwürfe aus, vielleicht finden wir Möglichkeiten für eine bessere Beteiligung der Zivilgesellschaft - in jedem Fall gibt es Kaffee und wir freuen wir uns auf euch!</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="79">Spyr_0</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="578" guid="d2a0ae34-e178-52ba-bb5b-64aa255ffdd9">
+        <logo/>
+        <date>2019-12-29T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>00:30</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>WHCLNE</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/WHCLNE/</url>
+        <title>Free Software for Qualitative Social Research</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>I would like to introduce Free Software that I have used and exchange information about alternative software for academic use.</abstract>
+        <description>During my sociology master thesis I tried a lot of free software and developed a profound workflow from literature research, interview preparation and processing to analysis, note taking and the final writing process. Because I have made the experience that especially in the social sciences and humanities there is hardly any technical interest, there is also little information about free software among fellow students. I would like to introduce the tools I have used and exchange information about alternative software for academic use.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="67">Julia</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="600" guid="b124cc16-7ff5-55da-8235-a07732fb1ec1">
+        <logo/>
+        <date>2019-12-29T16:45:00+01:00</date>
+        <start>16:45</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>BRADWK</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/BRADWK/</url>
+        <title>RFID-Karten für E-Autos sind unsicher, und man 1001 Sharing-Karten. Geht das mit SmartCards / OpenSC besser?</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Ladesäulen basieren immernoch auf Mifare Classic / RFID UIDs. Bei Sharing-Mobilität gibt es für jeden Anbieter eine eigene Karte. Könnte offene SmartCard Infrastruktur auf Basis von OpenSC die Lösung sein? Oder was gibt es noch?</abstract>
+        <description>Hinweis vorweg: der Workshop geht direkt in den Transport-Workshop über, was inhaltlich extrem gut passt. Nach dem Transport-Workshop kann man noch in Details gehen.&#13;
+&#13;
+Das Sicherheits-Problem von Ladeinfrastruktur ist wohlbekannt und war Thema auf dem 34C3: https://www.ccc.de/de/updates/2017/e-motor . Auf der anderen Seite gibt es immer mehr Sharing-Mobilität, und wenn diese RFID-Karten einsetzen, dann verschickt jeder Dienst seine eigene Karte. In beiden Fällen liegt es daran, dass die zumeist eingesetzten sicheren Karten auf symmetrischer Kryptografie basieren, was einen zur Karte passenden Key im Leser voraussetzt - und das funktioniert bei vielen Beteiligten nun einmal schlecht.&#13;
+&#13;
+In diesem Workshop wollen wir recht offen darüber diskutieren, ob Karten auf Basis asymmetrischer Kryptografie eine Lösung sein können, also Karten mit geschützten private Key, die aktiv Daten signieren können. Mit OpenSC gäbe es eine offene Lösung, die eine Basis sein könnte. Ich habe ein bisschen Hardware zum Spielen mit und fänd es spannend, wenn der Workshop in eine technische lösungsorientierte Richtung ginge - rumranten ist zwar spaßig, ist mir aber zu wenig.&#13;
+&#13;
+Ihr werdet von mir keine perfekte Übersicht / Lösung bekommen, da ich dafür nicht genug Marktübersicht habe, wohl aber einen kleinen Einblick. Aber die oben genannten Beispiele zeigen, dass auch der meist geschlossene Weg "da draußen" keine so richtig gut brauchbare Lösungen bringt, und wo sollte eine sinnvolle Lösung entstehen wenn nicht hier?</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="38">Ernesto</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="606" guid="8bf72917-7fc5-5122-a250-6580a36976c8">
+        <logo/>
+        <date>2019-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>HGSZKD</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/HGSZKD/</url>
+        <title>Transport Data Meetup - Vertiefendes Rumnerden</title>
+        <subtitle/>
+        <track>Community</track>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Nach dem Kurzen Kennenlernmeetup am Day 2 gibt es am Day 3 Gelegenheit für vertiefendes Rumnerden.</abstract>
+        <description>Treffen von Leuten, die mit Mobilitätsdaten arbeiten und Einblick in Projekte geben können.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="103">Gobeta.de</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="603" guid="0adbd466-1c39-55bf-9602-d0ef600a2ab7">
+        <logo/>
+        <date>2019-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>BVNC3R</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/BVNC3R/</url>
+        <title>Play it again, Sam! How chasing terrorists keeps good citizens from saying important things.</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>Play it again, Sam! How chasing terrorists keeps good citizens from saying important things.&#13;
+&#13;
+In this exploratory workshop I would like to ask participants to help me discover synergies, stories, and bad scenarios that emerge from the NEtzDg. In the Eu we have a proposal to prevent the appearing the terrorist content online and it seems very similar in spirit, and also in measures. How can we get better prepared to staving such ideas off? How do they endanger our free knowledge projects?</abstract>
+        <description>Play it again, Sam! How chasing terrorists keeps good citizens from saying important things.&#13;
+&#13;
+In this exploratory workshop I would like to ask participants to help me discover synergies, stories, and bad scenarios that emerge from the NEtzDg. In the Eu we have a proposal to prevent the appearing the terrorist content online and it seems very similar in spirit, and also in measures. How can we get better prepared to staving such ideas off? How do they endanger our free knowledge projects?</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="99">Anna Mazgal</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="570" guid="576f75a7-ed66-5071-b51c-7f1b19a0d030">
+        <logo/>
+        <date>2019-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>03:00</duration>
+        <room>WikiPaka WG: Bibliothek</room>
+        <slug>EFPNMB</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/EFPNMB/</url>
+        <title>Mini-Hackathon "Hacking Ecology"</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>We want to meet up in the Wikipaka WG to start working on an interactive data visualization tool for publicly accessible ecological (and socio-economical) time series datasets from different sources. The goal of the project is to help people to get an idea of the challenges ecosystems are facing in the Anthropocene and to encourage people to become active.</abstract>
+        <description>Hacking Ecology is a citizen science collective that, on the basis of the ideas of open source and open data, wants to contribute to the research necessary to avert the ecological crisis. In this mini-Hackathon, we want to kickstart out first project, an easily useable interactive (web-)tool (in Python, using Bokeh) and brings together and visualizes publicly available time series datasets from very different sources. With it, it should be possible to visualize e. G. the change in precipitation or rate of urbanization as well as the numbers of earthworms in the same figure, so that one can get a feeling for the challenges ecosystems are facing in the Anthropocene. Furthermore, this tool will be a good basis for future work of Hacking Ecology, as it makes it easier to e. G. form hypotheses on which human actions are harmful for the environment or what actions could be taken to avoid ecosystems from breaking down. &#13;
+We will provide a first, clumsy version of the tool and a list of datasets that might be relevant to ecosystems, but are very happy to take up all helpful input and ideas; all code will be immediately published on Github and we'll try to run this as collaborative as possible. Please bring something you can write and submit code with.&#13;
+&#13;
+Source Code for Videt: https://github.com/HackingEcology/videt&#13;
+Pads (for discussion and coordination):&#13;
+Videt https://pad.totalism.org/p/Hacking_Ecology_Hackathon_36c3&#13;
+Snooze Against The Machine: https://pad.totalism.org/p/snooze&#13;
+Wildretter: https://pad.totalism.org/p/wildretter&#13;
+Website: http://hackingecology.eu/ &#13;
+Mailing list: https://lists.posteo.de/listinfo/hackingecology</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="78">Theo Sperlea</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="ChaosZone Bühne">
@@ -30491,7 +33377,180 @@ This is an introduction and overview, covering the essentials of:&#13;
         <answers/>
       </event>
     </room>
-    <room name="OIO Stage"/>
+    <room name="OIO Stage">
+      <event id="356" guid="6eeb1e22-ff82-54be-af15-08e562eca26f">
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>OIO Stage</room>
+        <slug>GGV8G3</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/GGV8G3/</url>
+        <title>Cryptography of Killing Proof-of-Work [YBTI/wefixthenet session]</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>We briefly discuss the range of cryptographic primitives being used by protocols that seek to make proof-of-work protocols obsolete. We shall focus primarily on these cryptographic building blocks themselves, not overly on the different protocols built form them.</abstract>
+        <description>There are a handful of protocols consuming enormous amounts of energy in proof-of-work schemes, which provide only rather tenuous security assurances. In practice, proof-of-work also invalidates these protocols original goal of being distributed.&#13;
+&#13;
+There is also a zoo of protocols designs, both new and from the 80s, that provide far stronger security than proof-of-work at minimal cost. We shall discuss the distinctive cryptographic primitives used by these protocols, without examining any of these critters too closely.&#13;
+&#13;
+In essence, our taxonomy splits as blind signatures vs. verifiable random functions (VRFs) vs. randomness beacons, with the latter consisting of publicly verifiable secret sharing (PVSS) and verifiable delay functions (VDFs). We only have time for a cursory look at the mathematics usable to build each of these, but this should explain some of their uses, strengths, and weaknesses.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="128">dvn</person>
+          <person id="130">Jeffrey Burdges</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="372" guid="809d07c4-a9c7-5004-811e-409aa6bf4296">
+        <logo/>
+        <date>2019-12-30T12:40:00+01:00</date>
+        <start>12:40</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>B3TZGV</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/B3TZGV/</url>
+        <title>Going fully Foss! A non-profits adventure in building a completely FOSS IT environment.</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>In this talk we'll dive into the challenge of going fully FOSS. We'd like to introduce you to the principles behind our decision to choose FOSS. We'll explain the why and how, focusing on ethics as well as our tech stack. We'll share what daily trials and tribulations we had to overcome, how our organization coped with these changes, and what our day to day work now looks like. We'll give an honest review of the cost of choosing FOSS over proprietary software. We'll also detail our migration experience and talk about our efforts to build a global network of other non-profits using FOSS. Finally we'd like to talk about our relationship with the FOSS community. Our goal of sharing our FOSS adventure is to show other organizations that it is important and possible to choose ethical IT alternatives.</abstract>
+        <description>Imagine if you could banish all proprietary software out of your workplace and use only free and opensource software. Would it be possible? How would you build this? What technical skills do you need? Will your coworkers appreciate the change? Can you rely on free and opensource apps in a production environment without support? These were all questions we had to answers when we embarked on our FOSS adventure. In 2017 the Mama Cash foundation committed itself to building an entirely new IT environment with as much free and opensource software as possible. Through our activism we recognized the importance of FOSS for non-profits who can't rely on proprietary cloud solutions, for privacy, ethical or financial reasons. As we committed ourselves to the Feminist Principles of the Internet, we quickly realized that using FOSS was the preferred option. The FOSS community has been immensely successful in advocating the use of opensource alternatives. However, implementing these in a business settings is a whole different story. While many organizations would like to contribute to a GAFAM-less world, a combination of lack of experience, knowledge and support prevents them from doing so. Our objective is to show the world that it is possible to build an ethical IT environment that respects open standards, community building and data privacy. &#13;
+&#13;
+In this talk we'll dive into the challenge of going fully FOSS. We'd like to introduce you to the principles behind our decision to choose FOSS. We'll explain the why and how, focusing on ethics as well as our tech stack. We'll share what daily trials and tribulations we had to overcome, how our organization coped with these changes, and what our day to day work now looks like. We'll give an honest review of the cost of choosing FOSS over proprietary software. We'll also detail our migration experience and talk about our efforts to build a global network of other non-profits using FOSS. Finally we'd like to talk about our relationship with the FOSS community. Our goal of sharing our FOSS adventure is to show other organizations that it is important and possible to choose ethical IT alternatives.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="137">segal</person>
+          <person id="146">Gina Plat</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="345" guid="797c2897-5903-57ae-9ad2-f5d4a9b5a79c">
+        <logo/>
+        <date>2019-12-30T13:45:00+01:00</date>
+        <start>13:45</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>BFEFPM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/BFEFPM/</url>
+        <title>Internet access and VoIP as Open/Commons Infrastructure</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Some Initiatives are trying to provide internet access and VoIP dial-out in a user-owned (Commons Economy) or completely open infrastructure. We will present the state of affairs and invite to a discussion on the possible perspectives.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="121">Sumy</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="364" guid="5eed96a6-5814-5798-a584-9581c8dd23ea">
+        <logo/>
+        <date>2019-12-30T14:15:00+01:00</date>
+        <start>14:15</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>BBL8YL</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/BBL8YL/</url>
+        <title>SNAC - The only way to beat Facebook</title>
+        <subtitle/>
+        <track>Resilience &amp; Sustainability</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>The current social media situation is catastrophic. A single megacorporation controls the entire digital life of large parts of the world's population. Together with the rapidly improving methods for processing this data, a power that not only concerns experts is being bundled here. And Facebook's monopoly secures itself. On the one hand, users cannot leave Facebook(/ Instagram/WhatsApp) without being cut off from the social life of their friends. On the other hand, alternatives fail because they can't reach a critical mass. It seems impossible that a single application will ever replace Facebook. The freedom of the Internet is fundamentally threatened. Breaking the power of Facebook is probably one of the greatest challenges of our time. And in order to solve this task, we did come up with a detailed concept that we want to present to the public for the first time at 36c3.&#13;
+SNAC - Social Network Application Cluster - is the name of the protocol used to standardise data exchange between different social media applications. Just as email protocols enable users to choose their provider freely, this protocol should also enable greater diversity in this area. It is easy to see that a single application isn't able to satisfy the needs of every single user. With SNAC we enable a decentralized structure, where each user can choose his server, but also his client application, from a broad spectrum. By developing our pilot application Open Source, we make it easy for other developers to integrate their own applications into the network.&#13;
+But the decentralized Open Source dream alone is not enough to revolutionize the social media world. In order for the new applications emerging in SNAC to be able to run, an appropriate economic environment is needed to cover the operating costs. If the user accesses many different servers while surfing through the decentralized network, the question arises who is responsible for the access costs caused. There is a lack of a corresponding micropayment service with which it is possible to pay very small amounts easy and securely. At first glance, this seems like a project of its own, but it is closely linked to the operation of a decentralised social network. And there are several  advantages emerging by linking social networks with a micropayment system. For example, users can donate a few cents to the creators of content they value, which then adds up to a fair reward for the creators. And this is done directly, independently and without forced ads for the users. But the mental alarm bell of data security rightly rings here when one tries to link financial and private communication data. Therefore, it is all the more important to hand over data sovereignty to the user when planning the protocols and to leave the server operators only the task for which they are fairly paid - the operation of the servers.&#13;
+We are currently putting this concept into protocols that enable secure transactions and protect the user's data. The aim is to create an environment where everyone has the chance to honestly and transparently pay the costs they incur instead of filling the pockets of corporations with their data. &#13;
+Our project is quite daring, that is clear to us. And yet we are sure that this is exactly what we want to do in the coming years. Because there is a chance that we will find 15 crazy people who want to develop this utopia together with us. There's a chance we'll find 50,000 people supporting us with an average of 1€ a month to feed our 15 crazy developers. There's a chance that we can create an environment where many small subnets with cool innovative applications can trigger a movement that's going to be so big it will overcome Facebook's monopoly. And above all, we can create an environment where technology benefits people again, rather than the other way around. &#13;
+If 36c3 isn't the right place for a project like this, what else is? We will give a talk in which we will discuss a better world and the difficulties that lie on the path there. We want to encourage listeners to think and participate, but above all we are also there to initiate a discussion. We want to hear all the concerns and mistakes that we overlook and we need the expertise from all the different angles that only the CCC brings together.</abstract>
+        <description>Hi! We're offeringa bit of a different talk, where we want to present a project that might bring a renaissance to the independence and freedom of the internet. We want to dream together of a better world, but then also talk about the concrete steps that need to be done to get there.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="134">Steffen</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="401" guid="4e309838-fedd-55f3-a48b-835c928cc1c0">
+        <logo/>
+        <date>2019-12-30T15:20:00+01:00</date>
+        <start>15:20</start>
+        <duration>00:55</duration>
+        <room>OIO Stage</room>
+        <slug>UZAKPR</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/UZAKPR/</url>
+        <title>a home among the stars: Galina Balashova, architect of the soviet space programme</title>
+        <subtitle/>
+        <track>Science</track>
+        <type>Talk 45 minutes + 10 minutes Q&amp;A</type>
+        <language>en</language>
+        <abstract>Galina Balashova was the main architect and designer for the soviet space programme. She designed the interieurs and visual identity of spacecrafts such as the Soyuz, Buran, and Mir.</abstract>
+        <description>»Space stations are not only technical structures but architecture built amidst zero gravity.«&#13;
+&#13;
+Galina Balashova (b. 1931) is a self-described "architect-engineer" who spent almost 30 years working in the Soviet Space Programme. She designed the ergonomics, the colours &amp; style and the typography of most soviet spacecrafts, including the Soyuz, the Salyut space stations, the Buran shuttle and the Mir space station.&#13;
+Her pioneering work in the field of zero-gravity architecture is still referenced today in the ISS and other spacecrafts.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="168">Aurora</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="380" guid="9f137ade-314d-5531-9e55-e0020824464a">
+        <logo/>
+        <date>2019-12-30T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>00:25</duration>
+        <room>OIO Stage</room>
+        <slug>GM9RV3</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/GM9RV3/</url>
+        <title>Closing Session</title>
+        <subtitle/>
+        <track>OIO</track>
+        <type>Talk 20 minutes + 5 minutes Q&amp;A</type>
+        <language>de</language>
+        <abstract>Verabschiedung und Details zum Abbau</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">Andreas Bräu</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="DLF- und Podcast-Bühne">
       <event id="938" guid="a056e190-74d7-54fa-8f51-63ca8e6a4fad">
         <logo/>
@@ -30572,7 +33631,63 @@ This is an introduction and overview, covering the essentials of:&#13;
         <answers/>
       </event>
     </room>
-    <room name="WikiPaka WG: Esszimmer"/>
+    <room name="WikiPaka WG: Esszimmer">
+      <event id="569" guid="c25397e4-6f44-5cdb-a39d-1a52562ac656">
+        <logo/>
+        <date>2019-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>XM97YV</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/XM97YV/</url>
+        <title>Modernizing Wikipedia</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>What does Wikimedia do to modernize WIkipedia's user experience, and why does it take so long?</abstract>
+        <description>Editing Wikipedia feels like a blast from the past, and even just reading articles feels a bit dusty. Why is that? And how can it be fixed? And how can you help?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="25">Daniel</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="608" guid="1c610210-9c06-5d79-b7dd-d4aa89cd608e">
+        <logo/>
+        <date>2019-12-30T13:15:00+01:00</date>
+        <start>13:15</start>
+        <duration>00:15</duration>
+        <room>WikiPaka WG: Esszimmer</room>
+        <slug>VD7ARK</slug>
+        <url>https://cfp.verschwoerhaus.de/36c3/talk/VD7ARK/</url>
+        <title>Hacking an NFC toy with the ChameleonMini</title>
+        <subtitle/>
+        <track>Security</track>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>The Toniebox plays songs or reads stories to your kids when they put a little figurine on top of it.&#13;
+We show how to create a backup of it and use the ChameleonMini in place of it in case your kid ate it.</abstract>
+        <description>The Toniebox plays songs or reads stories to your kids when they put a little figurine on top of it.&#13;
+We show how to create a backup of it and use the ChameleonMini in place of it in case your kid ate it.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="105">fptrs</person>
+          <person id="106">ceres-c</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Lecture room 11">
       <event id="1004" guid="a9513da7-a95c-4eb4-ba32-11485be6278a">
         <url>https://events.ccc.de/congress/2019/wiki/index.php/Session:A/V_Angel_Meeting</url>
@@ -31703,6 +34818,91 @@ Sie rufen an - ich lege auf&#13;
     </room>
     <room name="Furo no ba"/>
     <room name="Monipilami"/>
+    <room name="OIO Workshop Dome">
+      <event id="402" guid="aa8119af-732c-55bc-9902-6e5caf8aa94f">
+        <logo/>
+        <date>2019-12-30T11:45:00+01:00</date>
+        <start>11:45</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>TCC7RE</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/TCC7RE/</url>
+        <title>Wir hacken den Osten #wirsindderosten</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Workshop 1 hour</type>
+        <language>de</language>
+        <abstract>Wir erzählen euch von den Aktionen unserer Initiative #wirsindderosten und wollen gemeinsam mit euch über Ideen sprechen, ein fortschrittliches und demokratisches Bild von Ostdeutschland zu pushen.</abstract>
+        <description>Mit #wirsindderosten machen wir Menschen in und aus Ostdeutschland sichtbar, die die Zukunft positiv gestalten. Damit Vorurteile abzubauen ist für uns nur der erste Schritt. Gemeinsam mit euch wollen wir 2020 weitergehen. Also, let’s hack the east!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="169">Melanie Stein</person>
+          <person id="170">Christian Bollert</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="378" guid="3d0efe4f-63da-5a8b-822a-b0ba99692ed3">
+        <logo/>
+        <date>2019-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:59</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>A93MNM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/A93MNM/</url>
+        <title>Freifunk, was tun, damit 2020 kein weiteres 2019 wird?</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>Workshop 2 hours</type>
+        <language>de</language>
+        <abstract>Wie soll es mit dem Freifunk weitergehen? &#13;
+Admin-Mangel, zunehmende Finanzierungsprobleme, unerfüllte Erwartungen?</abstract>
+        <description>Auch wenn die c't-Aktion das Schlimmste im Jahr 2019 abgewendet hat, so ist es doch nur ein Jahr der Fortsetzung von 2018 gewesen: Community-Sterben, kein Lichtblick bei der Gemeinnützigkeit, immer weniger Bedarf/Verständnis für das was Freifunkende unter "freies Wlan" verstehen, umgekehrt immer größere Schere zwichen dem was Freifunk realistisch an Bandbreiten liefern und Verfügbarkeiten garantieren kann und dem was inzwischen von vielen Nutzenden erwartet wird. In Summe immer weniger Spass am Gerät für die verbliebenen Nutzenden. &#13;
+Neben der Bestandsaufnahme "Was wir beobachten" und "warum das vermutlich so ist": &#13;
+Können wir es ändern? Wollen wir es ändern? Wie kann man sich neu orientieren, wenn alle bisherigen Rezepte versagt haben. Oder wie fährt man Communties herunter, damit zumindest die Außendarstellung nicht völlig desaströs ist?&#13;
+Dieser Workshop richtet sich an Menschen, die mehr als 1-2 Jahren schon Freifunk-Geschichte erlebt haben. Um Lösungsstrategien zu diskutieren. Ein ähnlich gelagerter Forenthread zur Einstimmung: https://forum.freifunk.net/t/rueckgang-von-communities-rettungsleine/21507/38</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="6">Adorfer</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="346" guid="51138520-7dc9-5c59-997b-76c4d0ca9f24">
+        <logo/>
+        <date>2019-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop Dome</room>
+        <slug>XJHFPM</slug>
+        <url>https://talks.oio.social/36c3-oio/talk/XJHFPM/</url>
+        <title>Internet access and VoIP as Open/Commons Infrastructure</title>
+        <subtitle/>
+        <track>Hardware &amp; Making</track>
+        <type>Workshop 2 hours</type>
+        <language>en</language>
+        <abstract>We want to explore the perspectives and plan future action on internet access and VoIP dial-out in a user-owned (Commons Economy) or completely open infrastructure. See the related talk for an introduction to the state of affairs.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="121">Sumy</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="ChaosZone Bühne">
       <event id="766" guid="f958db8e-b745-5764-916a-c70263d4c85b">
         <logo/>
